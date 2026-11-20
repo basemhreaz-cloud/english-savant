@@ -2,7 +2,7 @@ const ORIGIN = 'https://basemhreaz-cloud.github.io';
 const MODEL = '@cf/qwen/qwen3-30b-a3b-fp8';
 const grades = {kg1:'KG1, first kindergarten year',kg2:'KG2, second kindergarten year',p1:'Egypt primary year 1',p2:'Egypt primary year 2',p3:'Egypt primary year 3',p4:'Egypt primary year 4',p5:'Egypt primary year 5',p6:'Egypt primary year 6',r1:'Egypt preparatory year 1',r2:'Egypt preparatory year 2',r3:'Egypt preparatory year 3',s1:'Egypt secondary year 1',s2:'Egypt secondary year 2',s3:'Egypt secondary year 3',adult:'adult beginner'};
 const topics = {letters:'English letters and sounds',words:'everyday vocabulary',be:'the verb to be',present:'present simple',continuous:'present continuous',past:'past simple',future:'future forms',questions:'question words',articles:'a, an and the',prepositions:'prepositions',comparisons:'comparatives and superlatives',reading:'reading comprehension',writing:'short paragraph writing',revision:'general English revision'};
-export function personalData(text) {
+function personalData(text) {
  return /[\w.+-]+@[\w.-]+\.[a-z]{2,}/i.test(text) || /(?:\+?\d[\s().-]*){7,}/.test(text) || /https?:|www\.|@[\w.]{2,}/i.test(text) || /\b(my (?:full )?name is|i am called|my (?:phone|number|address|email|school)|i live (?:at|in)|call me|contact me|date of birth|password|passport|national id|credit card)\b/i.test(text) || /(?:اسمي|إسمي|اسم[ىي] هو|رقم[ىي]|عنوان[ىي]|بريدي|إيميلي|ايميلي|مدرستي|ساكن في|ساكنة في|تاريخ ميلادي|كلمة (?:السر|المرور)|بطاقتي|رقم قومي)/u.test(text);
 }
 function reply(data,status=200){return new Response(JSON.stringify(data),{status,headers:{'Content-Type':'application/json; charset=utf-8','Access-Control-Allow-Origin':ORIGIN,'Vary':'Origin','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'}});}
