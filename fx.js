@@ -95,7 +95,7 @@ function build(card,q,d){
  }else if(q.type==='tf'){
   L.push('الجملة دي '+(q.answer?'<b>صح</b>':'<b>غلط</b>')+'. ارجع للقطعة وقارن.');speak.push('الجملة دي '+(q.answer?'صح':'غلط'));
  }else{
-  var a=q.answer?(q.answer[0]||q.answers&&q.answers.join(' ')):'';
+  var a=q.answer?(q.answer[0]||q.answers&&q.answers.join(' ')):'';if(typeof a!=='string'&&typeof a!=='number'){return}
   L.push('الإجابة الصح: '+en(String(a||'')));if(ch)L.push('إنت كتبت '+en(ch)+'. راجع الكلمة والإملاء.');speak.push('الإجابة الصح هي '+a);
  }
  var n=document.createElement('div');n.className='esx-note';n.innerHTML=L.join('<br>');
