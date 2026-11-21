@@ -451,54 +451,6 @@
       {
        "type": "typein",
        "label": "typein",
-       "q": "Gen Alpha learn to use …… before they can read.",
-       "answer": [
-        "apps"
-       ],
-       "passage": "Gen Alpha are children born from 2010 onwards. They are called digital natives because they grow up in a digital environment. For them, smartphones, tablets, social media, and even artificial intelligence is normal. Many of them learn to use apps before they can read. Their daily life is highly connected to technology and full of digital experiences. They share memes, use emojis to express feelings, and make short videos to show hobbies or opinions."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "Gen Alpha share ……, and use emojis to express feelings.",
-       "answer": [
-        "memes"
-       ],
-       "passage": "Gen Alpha are children born from 2010 onwards. They are called digital natives because they grow up in a digital environment. For them, smartphones, tablets, social media, and even artificial intelligence is normal. Many of them learn to use apps before they can read. Their daily life is highly connected to technology and full of digital experiences. They share memes, use emojis to express feelings, and make short videos to show hobbies or opinions."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "What is Gen Alpha's life full of?",
-       "answer": [
-        "digital experiences"
-       ],
-       "passage": "Gen Alpha are children born from 2010 onwards. They are called digital natives because they grow up in a digital environment. For them, smartphones, tablets, social media, and even artificial intelligence is normal. Many of them learn to use apps before they can read. Their daily life is highly connected to technology and full of digital experiences. They share memes, use emojis to express feelings, and make short videos to show hobbies or opinions."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "Why do Gen Alpha make short videos?",
-       "answer": [
-        "to show hobbies or opinions",
-        "to show their hobbies or opinions"
-       ],
-       "passage": "Gen Alpha are children born from 2010 onwards. They are called digital natives because they grow up in a digital environment. For them, smartphones, tablets, social media, and even artificial intelligence is normal. Many of them learn to use apps before they can read. Their daily life is highly connected to technology and full of digital experiences. They share memes, use emojis to express feelings, and make short videos to show hobbies or opinions."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "Why are Gen Alpha called digital natives?",
-       "answer": [
-        "because they grow up in a digital environment",
-        "they grow up in a digital environment",
-        "because they learn to use apps before they can read"
-       ],
-       "passage": "Gen Alpha are children born from 2010 onwards. They are called digital natives because they grow up in a digital environment. For them, smartphones, tablets, social media, and even artificial intelligence is normal. Many of them learn to use apps before they can read. Their daily life is highly connected to technology and full of digital experiences. They share memes, use emojis to express feelings, and make short videos to show hobbies or opinions."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
        "q": "Your …… is shaped by your culture and experiences.",
        "answer": [
         "identity"
@@ -590,7 +542,8 @@
       {
        "type": "tf",
        "q": "Amal decided to build a walking robot.",
-       "answer": false
+       "answer": false,
+       "passage": "In a village, there lived a curious girl named Amal. Amal loved to build things. Her room was full of old toys, wires, and little machines she had created. Sometimes, the other children annoyed her and said, \"You are strange.\"\n\nBut Amal's parents always told her, \"Your identity is what makes you special. Never be afraid to express who you are.\"\n\nOne day, the teacher announced a \"Creative Fair.\" Each child had to present something they were passionate about. Amal decided to build a talking robot! She was excited but also worried. \"What if others laugh at me again?\" she thought.\n\nHer best friend, Yara, encouraged her, \"Just be yourself, Amal. We believe in you.\"\n\nAmal started working day and night. She also made sure to use the internet safely while looking for ideas, remembering her digital responsibility. She asked for permission before downloading anything and never shared her personal information."
       },
       {
        "type": "typein",
@@ -599,7 +552,8 @@
        "answer": [
         "that her identity is what makes her special",
         "her identity is what makes her special"
-       ]
+       ],
+       "passage": "In a village, there lived a curious girl named Amal. Amal loved to build things. Her room was full of old toys, wires, and little machines she had created. Sometimes, the other children annoyed her and said, \"You are strange.\"\n\nBut Amal's parents always told her, \"Your identity is what makes you special. Never be afraid to express who you are.\"\n\nOne day, the teacher announced a \"Creative Fair.\" Each child had to present something they were passionate about. Amal decided to build a talking robot! She was excited but also worried. \"What if others laugh at me again?\" she thought.\n\nHer best friend, Yara, encouraged her, \"Just be yourself, Amal. We believe in you.\"\n\nAmal started working day and night. She also made sure to use the internet safely while looking for ideas, remembering her digital responsibility. She asked for permission before downloading anything and never shared her personal information."
       },
       {
        "type": "typein",
@@ -609,7 +563,8 @@
         "she encouraged her",
         "she encouraged amal",
         "by encouraging her"
-       ]
+       ],
+       "passage": "In a village, there lived a curious girl named Amal. Amal loved to build things. Her room was full of old toys, wires, and little machines she had created. Sometimes, the other children annoyed her and said, \"You are strange.\"\n\nBut Amal's parents always told her, \"Your identity is what makes you special. Never be afraid to express who you are.\"\n\nOne day, the teacher announced a \"Creative Fair.\" Each child had to present something they were passionate about. Amal decided to build a talking robot! She was excited but also worried. \"What if others laugh at me again?\" she thought.\n\nHer best friend, Yara, encouraged her, \"Just be yourself, Amal. We believe in you.\"\n\nAmal started working day and night. She also made sure to use the internet safely while looking for ideas, remembering her digital responsibility. She asked for permission before downloading anything and never shared her personal information."
       },
       {
        "type": "typein",
@@ -1139,54 +1094,6 @@
       {
        "type": "typein",
        "label": "typein",
-       "q": "When you use social media — like posting pictures or writing comments — you leave behind …… about what you like, what you think and who you are.",
-       "answer": [
-        "clues"
-       ],
-       "passage": "When you use social media — like posting pictures, writing comments, or liking videos — you leave behind clues about what you like, what you think, and who you are. These clues make up something called your digital footprints. There are two types: Active footprints — these happen when you choose to share something online. Passive footprints — these happen without your knowing, like when websites collect information about what you look for. Everything you do online helps build your online identity."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "The clues you leave behind when using social media make up your digital ……",
-       "answer": [
-        "footprints",
-        "footprint"
-       ],
-       "passage": "When you use social media — like posting pictures, writing comments, or liking videos — you leave behind clues about what you like, what you think, and who you are. These clues make up something called your digital footprints. There are two types: Active footprints — these happen when you choose to share something online. Passive footprints — these happen without your knowing, like when websites collect information about what you look for. Everything you do online helps build your online identity."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "What are the two types of digital footprints?",
-       "answer": [
-        "active and passive",
-        "active and passive footprints",
-        "active footprints and passive footprints"
-       ],
-       "passage": "When you use social media — like posting pictures, writing comments, or liking videos — you leave behind clues about what you like, what you think, and who you are. These clues make up something called your digital footprints. There are two types: Active footprints — these happen when you choose to share something online. Passive footprints — these happen without your knowing, like when websites collect information about what you look for. Everything you do online helps build your online identity."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "What helps build your online identity?",
-       "answer": [
-        "everything you do online"
-       ],
-       "passage": "When you use social media — like posting pictures, writing comments, or liking videos — you leave behind clues about what you like, what you think, and who you are. These clues make up something called your digital footprints. There are two types: Active footprints — these happen when you choose to share something online. Passive footprints — these happen without your knowing, like when websites collect information about what you look for. Everything you do online helps build your online identity."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "When do active footprints happen?",
-       "answer": [
-        "when you choose to share something online"
-       ],
-       "passage": "When you use social media — like posting pictures, writing comments, or liking videos — you leave behind clues about what you like, what you think, and who you are. These clues make up something called your digital footprints. There are two types: Active footprints — these happen when you choose to share something online. Passive footprints — these happen without your knowing, like when websites collect information about what you look for. Everything you do online helps build your online identity."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
        "q": "The antonym of the word “careful” is ……",
        "answer": [
         "careless"
@@ -1290,12 +1197,14 @@
       {
        "type": "tf",
        "q": "Amal decided to persevere instead of giving up.",
-       "answer": true
+       "answer": true,
+       "passage": "As the fair day came closer, Amal faced many problems. The robot wouldn't talk. The wires kept breaking. Some children laughed behind her back.\n\nAmal felt like giving up. But then she remembered her parents' words and decided to persevere. \"I won't give up. I will fix this,\" she said.\n\nYara helped her by giving ideas. She showed empathy when Amal felt frustrated. \"It's okay to make mistakes,\" she told her. \"You can do it.\"\n\nLittle by little, Amal fixed the problems. She checked her sources online to make sure she was learning from safe, trustworthy places. She stayed true to her values and never copied others' work without permission.\n\nFinally, on the night before the fair, the robot blinked its eyes and said, \"Hello!\" Amal and Yara cheered with joy."
       },
       {
        "type": "tf",
        "q": "Yara laughed at Amal when the robot wasn’t working.",
-       "answer": false
+       "answer": false,
+       "passage": "As the fair day came closer, Amal faced many problems. The robot wouldn't talk. The wires kept breaking. Some children laughed behind her back.\n\nAmal felt like giving up. But then she remembered her parents' words and decided to persevere. \"I won't give up. I will fix this,\" she said.\n\nYara helped her by giving ideas. She showed empathy when Amal felt frustrated. \"It's okay to make mistakes,\" she told her. \"You can do it.\"\n\nLittle by little, Amal fixed the problems. She checked her sources online to make sure she was learning from safe, trustworthy places. She stayed true to her values and never copied others' work without permission.\n\nFinally, on the night before the fair, the robot blinked its eyes and said, \"Hello!\" Amal and Yara cheered with joy."
       },
       {
        "type": "typein",
@@ -1305,7 +1214,8 @@
         "problems with her robot",
         "she faced many problems with her robot",
         "many problems with her robot"
-       ]
+       ],
+       "passage": "As the fair day came closer, Amal faced many problems. The robot wouldn't talk. The wires kept breaking. Some children laughed behind her back.\n\nAmal felt like giving up. But then she remembered her parents' words and decided to persevere. \"I won't give up. I will fix this,\" she said.\n\nYara helped her by giving ideas. She showed empathy when Amal felt frustrated. \"It's okay to make mistakes,\" she told her. \"You can do it.\"\n\nLittle by little, Amal fixed the problems. She checked her sources online to make sure she was learning from safe, trustworthy places. She stayed true to her values and never copied others' work without permission.\n\nFinally, on the night before the fair, the robot blinked its eyes and said, \"Hello!\" Amal and Yara cheered with joy."
       },
       {
        "type": "typein",
@@ -1906,55 +1816,6 @@
       {
        "type": "typein",
        "label": "typein",
-       "q": "Every day in Cairo, there are big traffic …… on streets and highways.",
-       "answer": [
-        "jams",
-        "jam"
-       ],
-       "passage": "Cairo is a very busy city. Every day, there is a big traffic jam on streets and highways. Many people drive cars, and roads get blocked. This causes pollution, making the air dirty. It also makes people feel stressed and tired from waiting. Egypt is working to solve this problem. New metro lines like Line 3 and Line 4 were built. Projects such as Tahya Misr Bridge and 6th of October Bridge help cars move faster. The country is building an electric train and a monorail to give people more ways to travel. Egypt also made flyovers and tunnels. These plans made the roads better."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "When many people drive cars, roads get ……",
-       "answer": [
-        "blocked"
-       ],
-       "passage": "Cairo is a very busy city. Every day, there is a big traffic jam on streets and highways. Many people drive cars, and roads get blocked. This causes pollution, making the air dirty. It also makes people feel stressed and tired from waiting. Egypt is working to solve this problem. New metro lines like Line 3 and Line 4 were built. Projects such as Tahya Misr Bridge and 6th of October Bridge help cars move faster. The country is building an electric train and a monorail to give people more ways to travel. Egypt also made flyovers and tunnels. These plans made the roads better."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "What makes the air dirty?",
-       "answer": [
-        "pollution"
-       ],
-       "passage": "Cairo is a very busy city. Every day, there is a big traffic jam on streets and highways. Many people drive cars, and roads get blocked. This causes pollution, making the air dirty. It also makes people feel stressed and tired from waiting. Egypt is working to solve this problem. New metro lines like Line 3 and Line 4 were built. Projects such as Tahya Misr Bridge and 6th of October Bridge help cars move faster. The country is building an electric train and a monorail to give people more ways to travel. Egypt also made flyovers and tunnels. These plans made the roads better."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "What projects help cars move faster?",
-       "answer": [
-        "tahya misr bridge and 6th of october bridge",
-        "tahya misr bridge and the 6th of october bridge",
-        "bridges"
-       ],
-       "passage": "Cairo is a very busy city. Every day, there is a big traffic jam on streets and highways. Many people drive cars, and roads get blocked. This causes pollution, making the air dirty. It also makes people feel stressed and tired from waiting. Egypt is working to solve this problem. New metro lines like Line 3 and Line 4 were built. Projects such as Tahya Misr Bridge and 6th of October Bridge help cars move faster. The country is building an electric train and a monorail to give people more ways to travel. Egypt also made flyovers and tunnels. These plans made the roads better."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "How do people feel when they wait in traffic jams?",
-       "answer": [
-        "stressed and tired",
-        "they feel stressed and tired"
-       ],
-       "passage": "Cairo is a very busy city. Every day, there is a big traffic jam on streets and highways. Many people drive cars, and roads get blocked. This causes pollution, making the air dirty. It also makes people feel stressed and tired from waiting. Egypt is working to solve this problem. New metro lines like Line 3 and Line 4 were built. Projects such as Tahya Misr Bridge and 6th of October Bridge help cars move faster. The country is building an electric train and a monorail to give people more ways to travel. Egypt also made flyovers and tunnels. These plans made the roads better."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
        "q": "In big cities, it’s easier to …… using buses, bikes, or trains.",
        "answer": [
         "travel",
@@ -2057,12 +1918,14 @@
       {
        "type": "tf",
        "q": "Yara helped her friend Amal by giving her money.",
-       "answer": false
+       "answer": false,
+       "passage": "As the fair day came closer, Amal faced many problems. The robot wouldn't talk. The wires kept breaking. Some children laughed behind her back.\n\nAmal felt like giving up. But then she remembered her parents' words and decided to persevere. \"I won't give up. I will fix this,\" she said.\n\nYara helped her by giving ideas. She showed empathy when Amal felt frustrated. \"It's okay to make mistakes,\" she told her. \"You can do it.\"\n\nLittle by little, Amal fixed the problems. She checked her sources online to make sure she was learning from safe, trustworthy places. She stayed true to her values and never copied others' work without permission.\n\nFinally, on the night before the fair, the robot blinked its eyes and said, \"Hello!\" Amal and Yara cheered with joy."
       },
       {
        "type": "tf",
        "q": "Amal felt proud because she had expressed herself honestly.",
-       "answer": true
+       "answer": true,
+       "passage": "On the day of the fair, all the children displayed their work. Amal stood proudly with her robot. When she presented it, the robot spoke: \"Be yourself. Never give up!\"\n\nEveryone clapped. The children who once laughed at her now admired Amal's hard work and creativity. The teacher smiled and said, \"Amal, you showed determination and honesty. You worked hard without giving up, and you stayed true to who you are.\"\n\nAmal felt proud, not because she won a prize, but because she had expressed herself honestly, used digital tools responsibly, and showed empathy to others.\n\nFrom that day on, Amal inspired others to follow their dreams, express themselves, and help one another."
       },
       {
        "type": "typein",
@@ -2073,7 +1936,8 @@
         "be yourself, never give up",
         "be yourself and never give up",
         "never give up"
-       ]
+       ],
+       "passage": "On the day of the fair, all the children displayed their work. Amal stood proudly with her robot. When she presented it, the robot spoke: \"Be yourself. Never give up!\"\n\nEveryone clapped. The children who once laughed at her now admired Amal's hard work and creativity. The teacher smiled and said, \"Amal, you showed determination and honesty. You worked hard without giving up, and you stayed true to who you are.\"\n\nAmal felt proud, not because she won a prize, but because she had expressed herself honestly, used digital tools responsibly, and showed empathy to others.\n\nFrom that day on, Amal inspired others to follow their dreams, express themselves, and help one another."
       },
       {
        "type": "typein",
@@ -2672,61 +2536,6 @@
       {
        "type": "typein",
        "label": "typein",
-       "q": "Artists can use …… colors to show joy.",
-       "answer": [
-        "bright, happy",
-        "bright",
-        "happy",
-        "bright happy"
-       ],
-       "passage": "Art is a powerful way to communicate without words. Artists can use bright, happy colors to show joy, or dark, gloomy colors to express their sadness. Sculptors can shape clay into figures that tell a story. An interactive artwork can make you feel like you are part of the artwork itself. You don’t need to be an expert to enjoy art. You just need to open your mind and let the artworks speak to you. So, the next time you visit a gallery, look closely and ask yourself: What is the artist trying to tell me?"
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "…… can shape clay into figures that tell a story.",
-       "answer": [
-        "sculptors"
-       ],
-       "passage": "Art is a powerful way to communicate without words. Artists can use bright, happy colors to show joy, or dark, gloomy colors to express their sadness. Sculptors can shape clay into figures that tell a story. An interactive artwork can make you feel like you are part of the artwork itself. You don’t need to be an expert to enjoy art. You just need to open your mind and let the artworks speak to you. So, the next time you visit a gallery, look closely and ask yourself: What is the artist trying to tell me?"
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "How can an artist show sadness?",
-       "answer": [
-        "by using dark, gloomy colors",
-        "by using dark gloomy colors",
-        "using dark, gloomy colors",
-        "dark, gloomy colors"
-       ],
-       "passage": "Art is a powerful way to communicate without words. Artists can use bright, happy colors to show joy, or dark, gloomy colors to express their sadness. Sculptors can shape clay into figures that tell a story. An interactive artwork can make you feel like you are part of the artwork itself. You don’t need to be an expert to enjoy art. You just need to open your mind and let the artworks speak to you. So, the next time you visit a gallery, look closely and ask yourself: What is the artist trying to tell me?"
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "What do you need to enjoy art?",
-       "answer": [
-        "to open your mind",
-        "you just need to open your mind",
-        "just open your mind"
-       ],
-       "passage": "Art is a powerful way to communicate without words. Artists can use bright, happy colors to show joy, or dark, gloomy colors to express their sadness. Sculptors can shape clay into figures that tell a story. An interactive artwork can make you feel like you are part of the artwork itself. You don’t need to be an expert to enjoy art. You just need to open your mind and let the artworks speak to you. So, the next time you visit a gallery, look closely and ask yourself: What is the artist trying to tell me?"
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "What should you do when you visit a gallery?",
-       "answer": [
-        "look closely and ask yourself what the artist is trying to tell you",
-        "look closely",
-        "look closely and ask what the artist is trying to tell me"
-       ],
-       "passage": "Art is a powerful way to communicate without words. Artists can use bright, happy colors to show joy, or dark, gloomy colors to express their sadness. Sculptors can shape clay into figures that tell a story. An interactive artwork can make you feel like you are part of the artwork itself. You don’t need to be an expert to enjoy art. You just need to open your mind and let the artworks speak to you. So, the next time you visit a gallery, look closely and ask yourself: What is the artist trying to tell me?"
-      },
-      {
-       "type": "typein",
-       "label": "typein",
        "q": "Gold is a shiny …… used for making jewelry.",
        "answer": [
         "metal"
@@ -2830,12 +2639,14 @@
       {
        "type": "tf",
        "q": "Although they were all different, the friends respected each other’s thoughts.",
-       "answer": true
+       "answer": true,
+       "passage": "In a quiet coastal town, a group of friends, Hany, Faris, Malik, and Sami, loved to explore. One sunny morning, they found an old map that showed a \"Hidden Island\" across the sea.\n\nHany, the bravest, said, \"Let's go on an adventure!\"\n\nFaris added, \"We have the freedom to explore, but we must respect nature and each other.\"\n\nThey packed their things: food, water, a compass, and notebooks to draw what they discovered. They also agreed on one rule: \"No one is the boss. We work together and listen to everyone's ideas.\"\n\nAs they sailed, they sang songs and appreciated the beauty of the sea, the birds, and the fresh air. Malik, who loved drawing, sketched the scenery. Sami, who was shy, felt free to share his ideas for the first time.\n\nThey were all different, but they respected each other's thoughts."
       },
       {
        "type": "tf",
        "q": "Malik, who loved drawing, ignored the scenery.",
-       "answer": false
+       "answer": false,
+       "passage": "In a quiet coastal town, a group of friends, Hany, Faris, Malik, and Sami, loved to explore. One sunny morning, they found an old map that showed a \"Hidden Island\" across the sea.\n\nHany, the bravest, said, \"Let's go on an adventure!\"\n\nFaris added, \"We have the freedom to explore, but we must respect nature and each other.\"\n\nThey packed their things: food, water, a compass, and notebooks to draw what they discovered. They also agreed on one rule: \"No one is the boss. We work together and listen to everyone's ideas.\"\n\nAs they sailed, they sang songs and appreciated the beauty of the sea, the birds, and the fresh air. Malik, who loved drawing, sketched the scenery. Sami, who was shy, felt free to share his ideas for the first time.\n\nThey were all different, but they respected each other's thoughts."
       },
       {
        "type": "typein",
@@ -2846,7 +2657,8 @@
         "a map of a hidden island",
         "an old map of a hidden island",
         "an old map of the hidden island"
-       ]
+       ],
+       "passage": "In a quiet coastal town, a group of friends, Hany, Faris, Malik, and Sami, loved to explore. One sunny morning, they found an old map that showed a \"Hidden Island\" across the sea.\n\nHany, the bravest, said, \"Let's go on an adventure!\"\n\nFaris added, \"We have the freedom to explore, but we must respect nature and each other.\"\n\nThey packed their things: food, water, a compass, and notebooks to draw what they discovered. They also agreed on one rule: \"No one is the boss. We work together and listen to everyone's ideas.\"\n\nAs they sailed, they sang songs and appreciated the beauty of the sea, the birds, and the fresh air. Malik, who loved drawing, sketched the scenery. Sami, who was shy, felt free to share his ideas for the first time.\n\nThey were all different, but they respected each other's thoughts."
       },
       {
        "type": "typein",
@@ -3403,31 +3215,6 @@
      "title": "Model Exam on Unit 5",
      "sub": "مراجعة الوحدة من كتاب التقييمات (ص 56-59)",
      "questions": [
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "Japan is a country in ……",
-       "answer": [
-        "asia"
-       ]
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "What is the capital of Japan?",
-       "answer": [
-        "tokyo"
-       ]
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "What does the tea ceremony show?",
-       "answer": [
-        "calmness and kindness",
-        "it shows calmness and kindness"
-       ]
-      },
       {
        "type": "typein",
        "label": "typein",
@@ -4026,56 +3813,6 @@
       {
        "type": "typein",
        "label": "typein",
-       "q": "Hany Azer has a great impact in the world of …… engineering.",
-       "answer": [
-        "civil"
-       ],
-       "passage": "Hany Azer is a famous Egyptian engineer who made a great impact in the world of civil engineering. He was born in Tanta, Egypt, and later moved to Germany. He worked as the chief engineer for the Berlin Main Station, one of the largest train stations in Europe. Hany Azer has a relative who works as a biomedical engineer. Together, they believe in using science and technology to help people live better lives."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "Hany Azer was born in Tanta, but later moved to ……",
-       "answer": [
-        "germany"
-       ],
-       "passage": "Hany Azer is a famous Egyptian engineer who made a great impact in the world of civil engineering. He was born in Tanta, Egypt, and later moved to Germany. He worked as the chief engineer for the Berlin Main Station, one of the largest train stations in Europe. Hany Azer has a relative who works as a biomedical engineer. Together, they believe in using science and technology to help people live better lives."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "What did Hany Azer work as in Germany?",
-       "answer": [
-        "the chief engineer for the berlin main station",
-        "chief engineer for the berlin main station",
-        "chief engineer"
-       ],
-       "passage": "Hany Azer is a famous Egyptian engineer who made a great impact in the world of civil engineering. He was born in Tanta, Egypt, and later moved to Germany. He worked as the chief engineer for the Berlin Main Station, one of the largest train stations in Europe. Hany Azer has a relative who works as a biomedical engineer. Together, they believe in using science and technology to help people live better lives."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "What job does Hany’s relative do?",
-       "answer": [
-        "biomedical engineer",
-        "a biomedical engineer",
-        "he works as a biomedical engineer"
-       ],
-       "passage": "Hany Azer is a famous Egyptian engineer who made a great impact in the world of civil engineering. He was born in Tanta, Egypt, and later moved to Germany. He worked as the chief engineer for the Berlin Main Station, one of the largest train stations in Europe. Hany Azer has a relative who works as a biomedical engineer. Together, they believe in using science and technology to help people live better lives."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
-       "q": "What do Hany Azer and his relative believe about science and technology?",
-       "answer": [
-        "they believe in using science and technology to help people live better lives",
-        "using science and technology to help people live better lives"
-       ],
-       "passage": "Hany Azer is a famous Egyptian engineer who made a great impact in the world of civil engineering. He was born in Tanta, Egypt, and later moved to Germany. He worked as the chief engineer for the Berlin Main Station, one of the largest train stations in Europe. Hany Azer has a relative who works as a biomedical engineer. Together, they believe in using science and technology to help people live better lives."
-      },
-      {
-       "type": "typein",
-       "label": "typein",
        "q": "Dr Zewail inspired a lot of scientists and ……",
        "answer": [
         "inventors"
@@ -4182,12 +3919,14 @@
         "out-of-date",
         "up-to-date"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "I visit my friend Ali about twice a month. He lives in a village twenty kilometers from me. We don’t attend the same local school, but we go to the same summer program each year. We met at a summer day camp about three years ago and became loyal friends. Ali comes from an entirely different background. He has a large family, I have a small one. His family follows many countryside traditions, mine follows city habits. He is poor, we are what many people would call comfortable. At my home we stayed at the home yard. But, I remember the first time I went to Ali’s house, we pulled out a couple of old bikes and begin to ride through the countryside."
       },
       {
        "type": "tf",
        "q": "As the sun set, the children gathered to leave the island, agreeing that their friendship grew stronger.",
-       "answer": true
+       "answer": true,
+       "passage": "As the sun set, the children gathered to leave the island. They agreed that their friendship grew stronger. Hany said, \"Leadership isn't about being the loudest, it's about caring for others and helping them shine.\"\n\nMalik added, \"And creativity makes every adventure more fun!\"\n\nThey sailed back home under the pink sky, their hearts full of joy and appreciation for the world and for each other.\n\nBack in the village, they shared their story, inspiring other children to explore, create, and lead with kindness, respect, and teamwork.\n\nFrom that day, the four friends became known as \"The Island Explorers,\" always reminding others to appreciate freedom, show respect, and let their creativity lead the way."
       },
       {
        "type": "typein",
@@ -4198,7 +3937,8 @@
         "the importance of teamwork and collaboration",
         "teamwork",
         "the value of being different"
-       ]
+       ],
+       "passage": "As the sun set, the children gathered to leave the island. They agreed that their friendship grew stronger. Hany said, \"Leadership isn't about being the loudest, it's about caring for others and helping them shine.\"\n\nMalik added, \"And creativity makes every adventure more fun!\"\n\nThey sailed back home under the pink sky, their hearts full of joy and appreciation for the world and for each other.\n\nBack in the village, they shared their story, inspiring other children to explore, create, and lead with kindness, respect, and teamwork.\n\nFrom that day, the four friends became known as \"The Island Explorers,\" always reminding others to appreciate freedom, show respect, and let their creativity lead the way."
       },
       {
        "type": "typein",
@@ -4291,16 +4031,6 @@
       {
        "type": "typein",
        "label": "typein",
-       "q": "What did Malak invent?",
-       "answer": [
-        "a machine that cleans shoes",
-        "a shoe cleaning machine",
-        "a shoe-cleaning machine"
-       ]
-      },
-      {
-       "type": "typein",
-       "label": "typein",
        "q": "To …… is to keep different things in equal and correct amounts.",
        "answer": [
         "balance"
@@ -4365,7 +4095,8 @@
         "happened",
         "injured"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "A 28-year-old man was rescued by helicopter yesterday in Dover after he fell into the sea near his holiday house. The accident took place while the man, Jack Peterson, was walking along a cliff. He was blown off by a very strong wind and fell into the sea. Luckily, a woman was watching the accident and soon she called the police rescue service. The man had struggled with the waves for about half an hour before the rescue service helicopter arrived. Again the man was lucky enough because when he was taken to hospital, doctors said he just had a broken arm. Now Mr. Peterson is in good health. “My life was saved by the woman who called the police, I can’t thank her enough,” said the man."
       },
       {
        "type": "mcq",
@@ -4377,7 +4108,8 @@
         "an hour",
         "15 minutes"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "A 28-year-old man was rescued by helicopter yesterday in Dover after he fell into the sea near his holiday house. The accident took place while the man, Jack Peterson, was walking along a cliff. He was blown off by a very strong wind and fell into the sea. Luckily, a woman was watching the accident and soon she called the police rescue service. The man had struggled with the waves for about half an hour before the rescue service helicopter arrived. Again the man was lucky enough because when he was taken to hospital, doctors said he just had a broken arm. Now Mr. Peterson is in good health. “My life was saved by the woman who called the police, I can’t thank her enough,” said the man."
       },
       {
        "type": "typein",
@@ -4404,12 +4136,14 @@
       {
        "type": "tf",
        "q": "When Amal felt frustrated, Yara showed anger.",
-       "answer": false
+       "answer": false,
+       "passage": "As the fair day came closer, Amal faced many problems. The robot wouldn't talk. The wires kept breaking. Some children laughed behind her back.\n\nAmal felt like giving up. But then she remembered her parents' words and decided to persevere. \"I won't give up. I will fix this,\" she said.\n\nYara helped her by giving ideas. She showed empathy when Amal felt frustrated. \"It's okay to make mistakes,\" she told her. \"You can do it.\"\n\nLittle by little, Amal fixed the problems. She checked her sources online to make sure she was learning from safe, trustworthy places. She stayed true to her values and never copied others' work without permission.\n\nFinally, on the night before the fair, the robot blinked its eyes and said, \"Hello!\" Amal and Yara cheered with joy."
       },
       {
        "type": "tf",
        "q": "Amal made sure she never copied others’ work without permission.",
-       "answer": true
+       "answer": true,
+       "passage": "As the fair day came closer, Amal faced many problems. The robot wouldn't talk. The wires kept breaking. Some children laughed behind her back.\n\nAmal felt like giving up. But then she remembered her parents' words and decided to persevere. \"I won't give up. I will fix this,\" she said.\n\nYara helped her by giving ideas. She showed empathy when Amal felt frustrated. \"It's okay to make mistakes,\" she told her. \"You can do it.\"\n\nLittle by little, Amal fixed the problems. She checked her sources online to make sure she was learning from safe, trustworthy places. She stayed true to her values and never copied others' work without permission.\n\nFinally, on the night before the fair, the robot blinked its eyes and said, \"Hello!\" Amal and Yara cheered with joy."
       },
       {
        "type": "typein",
