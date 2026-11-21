@@ -41,7 +41,8 @@
         "play music",
         "buy souvenirs"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "People can enjoy many activities in one day in Egypt. In the morning, tourists visit ancient sites like the pyramids. Then, they walk to a small museum to learn more about history. After that, they go to Khan El Khalili to buy souvenirs such as handmade gifts. Some people like to take photos in beautiful places. At night, people can relax and listen to music. Egypt is a great place to visit and have fun."
       },
       {
        "type": "mcq",
@@ -53,7 +54,8 @@
         "afternoon",
         "night"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "People can enjoy many activities in one day in Egypt. In the morning, tourists visit ancient sites like the pyramids. Then, they walk to a small museum to learn more about history. After that, they go to Khan El Khalili to buy souvenirs such as handmade gifts. Some people like to take photos in beautiful places. At night, people can relax and listen to music. Egypt is a great place to visit and have fun."
       },
       {
        "type": "typein",
@@ -62,7 +64,8 @@
         "They visit ancient sites",
         "Visit ancient sites",
         "visit ancient sites like the pyramids"
-       ]
+       ],
+       "passage": "People can enjoy many activities in one day in Egypt. In the morning, tourists visit ancient sites like the pyramids. Then, they walk to a small museum to learn more about history. After that, they go to Khan El Khalili to buy souvenirs such as handmade gifts. Some people like to take photos in beautiful places. At night, people can relax and listen to music. Egypt is a great place to visit and have fun."
       },
       {
        "type": "typein",
@@ -70,7 +73,8 @@
        "answer": [
         "To buy souvenirs",
         "buy souvenirs"
-       ]
+       ],
+       "passage": "People can enjoy many activities in one day in Egypt. In the morning, tourists visit ancient sites like the pyramids. Then, they walk to a small museum to learn more about history. After that, they go to Khan El Khalili to buy souvenirs such as handmade gifts. Some people like to take photos in beautiful places. At night, people can relax and listen to music. Egypt is a great place to visit and have fun."
       },
       {
        "type": "mcq",
@@ -190,7 +194,8 @@
         "clean and safe",
         "coral reefs"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: landscape - coral reefs - culture - protected - clean and safe\n\n1. Ras Mohamed is a ____ area, so people must care for it.\n2. It's important to keep the park ____.\n3. People enjoy the quiet and beautiful ____ in Ras Mohamed National Park.\n4. Ras Mohamed is full of animals, plants, and colorful ____ under its sea.\n5. Visitors can learn about the ____ of the local people."
       },
       {
        "type": "mcq",
@@ -203,7 +208,8 @@
         "protected",
         "landscape"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: landscape - coral reefs - culture - protected - clean and safe\n\n1. Ras Mohamed is a ____ area, so people must care for it.\n2. It's important to keep the park ____.\n3. People enjoy the quiet and beautiful ____ in Ras Mohamed National Park.\n4. Ras Mohamed is full of animals, plants, and colorful ____ under its sea.\n5. Visitors can learn about the ____ of the local people."
       },
       {
        "type": "mcq",
@@ -216,7 +222,8 @@
         "landscape",
         "coral reefs"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: landscape - coral reefs - culture - protected - clean and safe\n\n1. Ras Mohamed is a ____ area, so people must care for it.\n2. It's important to keep the park ____.\n3. People enjoy the quiet and beautiful ____ in Ras Mohamed National Park.\n4. Ras Mohamed is full of animals, plants, and colorful ____ under its sea.\n5. Visitors can learn about the ____ of the local people."
       },
       {
        "type": "mcq",
@@ -229,7 +236,8 @@
         "landscape",
         "coral reefs"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Words in the box: landscape - coral reefs - culture - protected - clean and safe\n\n1. Ras Mohamed is a ____ area, so people must care for it.\n2. It's important to keep the park ____.\n3. People enjoy the quiet and beautiful ____ in Ras Mohamed National Park.\n4. Ras Mohamed is full of animals, plants, and colorful ____ under its sea.\n5. Visitors can learn about the ____ of the local people."
       },
       {
        "type": "mcq",
@@ -242,7 +250,8 @@
         "landscape",
         "protected"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: landscape - coral reefs - culture - protected - clean and safe\n\n1. Ras Mohamed is a ____ area, so people must care for it.\n2. It's important to keep the park ____.\n3. People enjoy the quiet and beautiful ____ in Ras Mohamed National Park.\n4. Ras Mohamed is full of animals, plants, and colorful ____ under its sea.\n5. Visitors can learn about the ____ of the local people."
       }
      ]
     },
@@ -254,17 +263,20 @@
       {
        "type": "tf",
        "q": "The Nile is the longest river in the world.",
-       "answer": true
+       "answer": true,
+       "passage": "The Nile is the longest river in the world. It is about 6,650 kilometers long. The Nile flows through Egypt from south to north. It goes through the desert and brings life to the country. Many animals live in and near the Nile. Big fish like Nile perch and tilapia swim in the water. Crocodiles live in the river too. They are dangerous animals. Many birds come to the river to drink and find food. You can see kingfishers, herons, and ducks near the Nile. The Nile is very important for Egyptian people. In the past, the river flooded and brought good soil."
       },
       {
        "type": "tf",
        "q": "The Nile flows from north to east.",
-       "answer": false
+       "answer": false,
+       "passage": "The Nile is the longest river in the world. It is about 6,650 kilometers long. The Nile flows through Egypt from south to north. It goes through the desert and brings life to the country. Many animals live in and near the Nile. Big fish like Nile perch and tilapia swim in the water. Crocodiles live in the river too. They are dangerous animals. Many birds come to the river to drink and find food. You can see kingfishers, herons, and ducks near the Nile. The Nile is very important for Egyptian people. In the past, the river flooded and brought good soil."
       },
       {
        "type": "tf",
        "q": "Crocodiles live in the Nile.",
-       "answer": true
+       "answer": true,
+       "passage": "The Nile is the longest river in the world. It is about 6,650 kilometers long. The Nile flows through Egypt from south to north. It goes through the desert and brings life to the country. Many animals live in and near the Nile. Big fish like Nile perch and tilapia swim in the water. Crocodiles live in the river too. They are dangerous animals. Many birds come to the river to drink and find food. You can see kingfishers, herons, and ducks near the Nile. The Nile is very important for Egyptian people. In the past, the river flooded and brought good soil."
       },
       {
        "type": "typein",
@@ -274,7 +286,8 @@
         "6,650 kilometers",
         "6650 kilometers",
         "about 6650 kilometers"
-       ]
+       ],
+       "passage": "The Nile is the longest river in the world. It is about 6,650 kilometers long. The Nile flows through Egypt from south to north. It goes through the desert and brings life to the country. Many animals live in and near the Nile. Big fish like Nile perch and tilapia swim in the water. Crocodiles live in the river too. They are dangerous animals. Many birds come to the river to drink and find food. You can see kingfishers, herons, and ducks near the Nile. The Nile is very important for Egyptian people. In the past, the river flooded and brought good soil."
       },
       {
        "type": "typein",
@@ -283,7 +296,8 @@
         "Nile perch and tilapia",
         "perch and tilapia",
         "tilapia and Nile perch"
-       ]
+       ],
+       "passage": "The Nile is the longest river in the world. It is about 6,650 kilometers long. The Nile flows through Egypt from south to north. It goes through the desert and brings life to the country. Many animals live in and near the Nile. Big fish like Nile perch and tilapia swim in the water. Crocodiles live in the river too. They are dangerous animals. Many birds come to the river to drink and find food. You can see kingfishers, herons, and ducks near the Nile. The Nile is very important for Egyptian people. In the past, the river flooded and brought good soil."
       },
       {
        "type": "mcq",
@@ -295,7 +309,8 @@
         "harvest",
         "spin"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: spin - fishermen - harvest - fishing nets\n\n1. In the village, some people are ____.\n2. In the village, people fish using small ____.\n3. Farmers in Salma's village ____ the crops.\n4. Hassan's family ____ wool and weaves it on looms."
       },
       {
        "type": "mcq",
@@ -307,7 +322,8 @@
         "harvest",
         "fishing nets"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: spin - fishermen - harvest - fishing nets\n\n1. In the village, some people are ____.\n2. In the village, people fish using small ____.\n3. Farmers in Salma's village ____ the crops.\n4. Hassan's family ____ wool and weaves it on looms."
       },
       {
        "type": "mcq",
@@ -319,7 +335,8 @@
         "spin",
         "fishermen"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Words in the box: spin - fishermen - harvest - fishing nets\n\n1. In the village, some people are ____.\n2. In the village, people fish using small ____.\n3. Farmers in Salma's village ____ the crops.\n4. Hassan's family ____ wool and weaves it on looms."
       },
       {
        "type": "mcq",
@@ -331,7 +348,8 @@
         "fishing nets",
         "spin"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: spin - fishermen - harvest - fishing nets\n\n1. In the village, some people are ____.\n2. In the village, people fish using small ____.\n3. Farmers in Salma's village ____ the crops.\n4. Hassan's family ____ wool and weaves it on looms."
       }
      ]
     },
@@ -517,7 +535,8 @@
         "exercise",
         "pollution"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Tourism is very important to a lot of countries. It gives jobs to local people. It helps tourists learn about new cultures. On the other hand, it can damage the environment. It creates too much carbon dioxide from plane journeys. Tourists can damage the natural environment and historical places. People should try eco-tourism. It looks after wildlife, monuments, and local people."
       },
       {
        "type": "mcq",
@@ -529,7 +548,8 @@
         "destroy",
         "save"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Tourism is very important to a lot of countries. It gives jobs to local people. It helps tourists learn about new cultures. On the other hand, it can damage the environment. It creates too much carbon dioxide from plane journeys. Tourists can damage the natural environment and historical places. People should try eco-tourism. It looks after wildlife, monuments, and local people."
       },
       {
        "type": "mcq",
@@ -649,7 +669,8 @@
         "oil",
         "water"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: oil - grow - herbs - water\n\n1. Since ancient times, people used olives to make ____.\n2. My brother and I have a plant. We ____ it every day.\n3. In Egypt, people use ____ like basil in cooking.\n4. Farmers ____ fruits like guavas and figs."
       },
       {
        "type": "mcq",
@@ -661,7 +682,8 @@
         "herbs",
         "grow"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: oil - grow - herbs - water\n\n1. Since ancient times, people used olives to make ____.\n2. My brother and I have a plant. We ____ it every day.\n3. In Egypt, people use ____ like basil in cooking.\n4. Farmers ____ fruits like guavas and figs."
       },
       {
        "type": "mcq",
@@ -673,7 +695,8 @@
         "herbs",
         "oil"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: oil - grow - herbs - water\n\n1. Since ancient times, people used olives to make ____.\n2. My brother and I have a plant. We ____ it every day.\n3. In Egypt, people use ____ like basil in cooking.\n4. Farmers ____ fruits like guavas and figs."
       },
       {
        "type": "mcq",
@@ -685,7 +708,8 @@
         "grow",
         "oil"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: oil - grow - herbs - water\n\n1. Since ancient times, people used olives to make ____.\n2. My brother and I have a plant. We ____ it every day.\n3. In Egypt, people use ____ like basil in cooking.\n4. Farmers ____ fruits like guavas and figs."
       }
      ]
     },
@@ -704,7 +728,8 @@
         "chairs",
         "books"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "I'm Omar. Last week, I went to the museum with my family. There were lots of things to see at it. We visited a room with lots of jewelry. There were bracelets, necklaces and rings from Ancient Egypt. After the jewelry, we saw tools and artifacts. The museum was amazing. I like history. We went back home at twelve o'clock."
       },
       {
        "type": "mcq",
@@ -716,7 +741,8 @@
         "necklaces",
         "earrings"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "I'm Omar. Last week, I went to the museum with my family. There were lots of things to see at it. We visited a room with lots of jewelry. There were bracelets, necklaces and rings from Ancient Egypt. After the jewelry, we saw tools and artifacts. The museum was amazing. I like history. We went back home at twelve o'clock."
       },
       {
        "type": "typein",
@@ -725,7 +751,8 @@
         "To the museum",
         "The museum",
         "He went to the museum"
-       ]
+       ],
+       "passage": "I'm Omar. Last week, I went to the museum with my family. There were lots of things to see at it. We visited a room with lots of jewelry. There were bracelets, necklaces and rings from Ancient Egypt. After the jewelry, we saw tools and artifacts. The museum was amazing. I like history. We went back home at twelve o'clock."
       },
       {
        "type": "typein",
@@ -733,7 +760,8 @@
        "answer": [
         "Yes",
         "Yes, there were"
-       ]
+       ],
+       "passage": "I'm Omar. Last week, I went to the museum with my family. There were lots of things to see at it. We visited a room with lots of jewelry. There were bracelets, necklaces and rings from Ancient Egypt. After the jewelry, we saw tools and artifacts. The museum was amazing. I like history. We went back home at twelve o'clock."
       },
       {
        "type": "mcq",
@@ -746,7 +774,8 @@
         "work",
         "study"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Words in the box: work - time - study - write - list\n\nI have tips for studying. I ____ for about 30 minutes. I study at the same ____ each day. People's brains ____ better if they have a regular routine. It's helpful if you ____ down what you want to do each time you study. Then I check it off the ____ when I finish studying and feel proud!"
       },
       {
        "type": "mcq",
@@ -759,7 +788,8 @@
         "time",
         "write"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: work - time - study - write - list\n\nI have tips for studying. I ____ for about 30 minutes. I study at the same ____ each day. People's brains ____ better if they have a regular routine. It's helpful if you ____ down what you want to do each time you study. Then I check it off the ____ when I finish studying and feel proud!"
       },
       {
        "type": "mcq",
@@ -772,7 +802,8 @@
         "time",
         "list"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: work - time - study - write - list\n\nI have tips for studying. I ____ for about 30 minutes. I study at the same ____ each day. People's brains ____ better if they have a regular routine. It's helpful if you ____ down what you want to do each time you study. Then I check it off the ____ when I finish studying and feel proud!"
       },
       {
        "type": "mcq",
@@ -785,7 +816,8 @@
         "work",
         "time"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: work - time - study - write - list\n\nI have tips for studying. I ____ for about 30 minutes. I study at the same ____ each day. People's brains ____ better if they have a regular routine. It's helpful if you ____ down what you want to do each time you study. Then I check it off the ____ when I finish studying and feel proud!"
       },
       {
        "type": "mcq",
@@ -798,7 +830,8 @@
         "time",
         "study"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Words in the box: work - time - study - write - list\n\nI have tips for studying. I ____ for about 30 minutes. I study at the same ____ each day. People's brains ____ better if they have a regular routine. It's helpful if you ____ down what you want to do each time you study. Then I check it off the ____ when I finish studying and feel proud!"
       }
      ]
     },
@@ -817,7 +850,8 @@
         "give",
         "boil"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "We all live in a community and we should all help the people who live in it. When you help as a volunteer, it's a great way to help your community. You can learn new skills, make new friends, and make your neighborhood a better place. We spoke to people in our neighborhood about different ways people can make our community stronger. We can pick up garbage with cousins. Garbage is really annoying. We can use gloves, bags and special sticks to pick up the garbage. The park is a good place to play, so we should keep it clean."
       },
       {
        "type": "mcq",
@@ -829,7 +863,8 @@
         "polluted",
         "dirty"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "We all live in a community and we should all help the people who live in it. When you help as a volunteer, it's a great way to help your community. You can learn new skills, make new friends, and make your neighborhood a better place. We spoke to people in our neighborhood about different ways people can make our community stronger. We can pick up garbage with cousins. Garbage is really annoying. We can use gloves, bags and special sticks to pick up the garbage. The park is a good place to play, so we should keep it clean."
       }
      ]
     },
@@ -1494,7 +1529,8 @@
         "food",
         "health"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Children are the men and women of the future; we should begin with good children. We should give children good food, good health and good education. They should be given the chance to practice exercises and sport to build their bodies. We should teach them how to love, give and help. We should set the examples for our children in what we say and what we do."
       },
       {
        "type": "mcq",
@@ -1671,7 +1707,8 @@
         "chicken",
         "cheese"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "The sandwich has a long history. In 1750 John Montagu invented the sandwich. He used bread and meat for the first sandwich. He liked to eat a sandwich and play cards. The sandwich is now one of America's favorite foods. In the United States, there is a sandwich shop in every town and you can buy sandwiches at every grocery store."
       },
       {
        "type": "mcq",
@@ -1683,7 +1720,8 @@
         "tennis",
         "cards"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "The sandwich has a long history. In 1750 John Montagu invented the sandwich. He used bread and meat for the first sandwich. He liked to eat a sandwich and play cards. The sandwich is now one of America's favorite foods. In the United States, there is a sandwich shop in every town and you can buy sandwiches at every grocery store."
       },
       {
        "type": "typein",
@@ -1691,7 +1729,8 @@
        "answer": [
         "In 1750",
         "1750"
-       ]
+       ],
+       "passage": "The sandwich has a long history. In 1750 John Montagu invented the sandwich. He used bread and meat for the first sandwich. He liked to eat a sandwich and play cards. The sandwich is now one of America's favorite foods. In the United States, there is a sandwich shop in every town and you can buy sandwiches at every grocery store."
       },
       {
        "type": "typein",
@@ -1701,7 +1740,8 @@
         "sandwich shop",
         "At a sandwich shop",
         "In a sandwich shop in every town"
-       ]
+       ],
+       "passage": "The sandwich has a long history. In 1750 John Montagu invented the sandwich. He used bread and meat for the first sandwich. He liked to eat a sandwich and play cards. The sandwich is now one of America's favorite foods. In the United States, there is a sandwich shop in every town and you can buy sandwiches at every grocery store."
       },
       {
        "type": "typein",
@@ -1709,7 +1749,8 @@
        "answer": [
         "Bread and meat",
         "bread and meat"
-       ]
+       ],
+       "passage": "The sandwich has a long history. In 1750 John Montagu invented the sandwich. He used bread and meat for the first sandwich. He liked to eat a sandwich and play cards. The sandwich is now one of America's favorite foods. In the United States, there is a sandwich shop in every town and you can buy sandwiches at every grocery store."
       },
       {
        "type": "mcq",
@@ -1721,7 +1762,8 @@
         "English",
         "Arabic"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Ice cream has a long history. Nancy Johnson invented the first ice cream churn. The first ice cream factory opened in 1851. The first ice cream shop opened in New York in 1876. Now you can buy ice cream at every grocery store. There are a lot of flavors. My favorite flavor is chocolate."
       },
       {
        "type": "mcq",
@@ -1733,14 +1775,16 @@
         "flowers",
         "flour"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Ice cream has a long history. Nancy Johnson invented the first ice cream churn. The first ice cream factory opened in 1851. The first ice cream shop opened in New York in 1876. Now you can buy ice cream at every grocery store. There are a lot of flavors. My favorite flavor is chocolate."
       },
       {
        "type": "typein",
        "q": "Who invented the first ice cream churn?",
        "answer": [
         "Nancy Johnson"
-       ]
+       ],
+       "passage": "Ice cream has a long history. Nancy Johnson invented the first ice cream churn. The first ice cream factory opened in 1851. The first ice cream shop opened in New York in 1876. Now you can buy ice cream at every grocery store. There are a lot of flavors. My favorite flavor is chocolate."
       },
       {
        "type": "typein",
@@ -1748,7 +1792,8 @@
        "answer": [
         "In 1851",
         "1851"
-       ]
+       ],
+       "passage": "Ice cream has a long history. Nancy Johnson invented the first ice cream churn. The first ice cream factory opened in 1851. The first ice cream shop opened in New York in 1876. Now you can buy ice cream at every grocery store. There are a lot of flavors. My favorite flavor is chocolate."
       }
      ]
     },
@@ -1767,7 +1812,8 @@
         "many",
         "much"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "We need good food to grow healthy and strong. Scientists who study food are called nutritionists. They say we should eat lots of different vegetables, fruit and nuts. They also advise us to eat lots of grains or food made from grains. Dairy products like milk, cheese and yogurt are good for us. We should eat small amounts of butter or oil. It's advisable to eat some fish, chicken and meat. We shouldn't eat too much sugar or salt. Nutritionists say a variety of food is best. Eating different kinds of food gives your body everything it needs."
       },
       {
        "type": "mcq",
@@ -1779,7 +1825,8 @@
         "milk",
         "butter"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "We need good food to grow healthy and strong. Scientists who study food are called nutritionists. They say we should eat lots of different vegetables, fruit and nuts. They also advise us to eat lots of grains or food made from grains. Dairy products like milk, cheese and yogurt are good for us. We should eat small amounts of butter or oil. It's advisable to eat some fish, chicken and meat. We shouldn't eat too much sugar or salt. Nutritionists say a variety of food is best. Eating different kinds of food gives your body everything it needs."
       },
       {
        "type": "typein",
@@ -1787,7 +1834,8 @@
        "answer": [
         "Scientists who study food",
         "They are scientists who study food"
-       ]
+       ],
+       "passage": "We need good food to grow healthy and strong. Scientists who study food are called nutritionists. They say we should eat lots of different vegetables, fruit and nuts. They also advise us to eat lots of grains or food made from grains. Dairy products like milk, cheese and yogurt are good for us. We should eat small amounts of butter or oil. It's advisable to eat some fish, chicken and meat. We shouldn't eat too much sugar or salt. Nutritionists say a variety of food is best. Eating different kinds of food gives your body everything it needs."
       },
       {
        "type": "typein",
@@ -1797,7 +1845,8 @@
         "milk, cheese and yogurt",
         "Like milk, cheese and yogurt",
         "Products like milk, cheese and yogurt"
-       ]
+       ],
+       "passage": "We need good food to grow healthy and strong. Scientists who study food are called nutritionists. They say we should eat lots of different vegetables, fruit and nuts. They also advise us to eat lots of grains or food made from grains. Dairy products like milk, cheese and yogurt are good for us. We should eat small amounts of butter or oil. It's advisable to eat some fish, chicken and meat. We shouldn't eat too much sugar or salt. Nutritionists say a variety of food is best. Eating different kinds of food gives your body everything it needs."
       },
       {
        "type": "mcq",
@@ -1809,7 +1858,8 @@
         "5:15",
         "5:50"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Yesterday our family rode camels into the Sahara Desert. It was an amazing journey. It was cold when we left the hotel at half past five in the morning. It was also very dark and it was hard to see camels. A camel driver helped me to climb onto a wooden saddle and then the camels walked into the desert in a line. It was very quiet. Even camels' feet were quiet in the sand. We stopped at the top of a sand dune. The camel drivers made tea for us. We returned to the hotel before it got hot."
       },
       {
        "type": "mcq",
@@ -1821,7 +1871,8 @@
         "women",
         "camel drivers"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Yesterday our family rode camels into the Sahara Desert. It was an amazing journey. It was cold when we left the hotel at half past five in the morning. It was also very dark and it was hard to see camels. A camel driver helped me to climb onto a wooden saddle and then the camels walked into the desert in a line. It was very quiet. Even camels' feet were quiet in the sand. We stopped at the top of a sand dune. The camel drivers made tea for us. We returned to the hotel before it got hot."
       },
       {
        "type": "typein",
@@ -1831,7 +1882,8 @@
         "In the Sahara Desert",
         "Sahara Desert",
         "the Sahara Desert"
-       ]
+       ],
+       "passage": "Yesterday our family rode camels into the Sahara Desert. It was an amazing journey. It was cold when we left the hotel at half past five in the morning. It was also very dark and it was hard to see camels. A camel driver helped me to climb onto a wooden saddle and then the camels walked into the desert in a line. It was very quiet. Even camels' feet were quiet in the sand. We stopped at the top of a sand dune. The camel drivers made tea for us. We returned to the hotel before it got hot."
       }
      ]
     },
@@ -1850,7 +1902,8 @@
         "careless",
         "careful"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "My name is Hana. I'm in primary four. I'm ten years old. I like Math and English. I live in Cairo Governorate. It is densely populated. There are more than 20 million inhabitants, so it is a very busy place. There are a lot of cars, so there is also congestion. If you are a pedestrian, you have to be careful."
       },
       {
        "type": "mcq",
@@ -1862,7 +1915,8 @@
         "slowly",
         "sparsely"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "My name is Hana. I'm in primary four. I'm ten years old. I like Math and English. I live in Cairo Governorate. It is densely populated. There are more than 20 million inhabitants, so it is a very busy place. There are a lot of cars, so there is also congestion. If you are a pedestrian, you have to be careful."
       },
       {
        "type": "typein",
@@ -1870,7 +1924,8 @@
        "answer": [
         "Math and English",
         "She likes Math and English"
-       ]
+       ],
+       "passage": "My name is Hana. I'm in primary four. I'm ten years old. I like Math and English. I live in Cairo Governorate. It is densely populated. There are more than 20 million inhabitants, so it is a very busy place. There are a lot of cars, so there is also congestion. If you are a pedestrian, you have to be careful."
       },
       {
        "type": "typein",
@@ -1880,7 +1935,8 @@
         "10",
         "ten years old",
         "She is ten"
-       ]
+       ],
+       "passage": "My name is Hana. I'm in primary four. I'm ten years old. I like Math and English. I live in Cairo Governorate. It is densely populated. There are more than 20 million inhabitants, so it is a very busy place. There are a lot of cars, so there is also congestion. If you are a pedestrian, you have to be careful."
       },
       {
        "type": "typein",
@@ -1888,7 +1944,8 @@
        "answer": [
         "Because it is densely populated",
         "It is densely populated"
-       ]
+       ],
+       "passage": "My name is Hana. I'm in primary four. I'm ten years old. I like Math and English. I live in Cairo Governorate. It is densely populated. There are more than 20 million inhabitants, so it is a very busy place. There are a lot of cars, so there is also congestion. If you are a pedestrian, you have to be careful."
       }
      ]
     },
@@ -1907,7 +1964,8 @@
         "mother",
         "brother"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "My name is Huda. I spend my weekend at home with my family. We have three meals every day; breakfast, lunch, and dinner. I always have milk and eggs for breakfast. My favorite meal is lunch. I like it because all family sits together to eat and talk. My mother cooks special food for us. Today we are having potatoes and chicken."
       },
       {
        "type": "mcq",
@@ -1919,7 +1977,8 @@
         "salad",
         "rice"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "My name is Huda. I spend my weekend at home with my family. We have three meals every day; breakfast, lunch, and dinner. I always have milk and eggs for breakfast. My favorite meal is lunch. I like it because all family sits together to eat and talk. My mother cooks special food for us. Today we are having potatoes and chicken."
       },
       {
        "type": "typein",
@@ -1928,7 +1987,8 @@
         "three",
         "3",
         "Three meals"
-       ]
+       ],
+       "passage": "My name is Huda. I spend my weekend at home with my family. We have three meals every day; breakfast, lunch, and dinner. I always have milk and eggs for breakfast. My favorite meal is lunch. I like it because all family sits together to eat and talk. My mother cooks special food for us. Today we are having potatoes and chicken."
       },
       {
        "type": "typein",
@@ -1936,7 +1996,8 @@
        "answer": [
         "lunch",
         "Lunch"
-       ]
+       ],
+       "passage": "My name is Huda. I spend my weekend at home with my family. We have three meals every day; breakfast, lunch, and dinner. I always have milk and eggs for breakfast. My favorite meal is lunch. I like it because all family sits together to eat and talk. My mother cooks special food for us. Today we are having potatoes and chicken."
       }
      ]
     },
@@ -1955,7 +2016,8 @@
         "food",
         "blood"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Good food, exercise and sleep are the keys to good health. We need to eat foods that contain protein, carbohydrates, fats and vitamins. Protein is found in meat, fish and beans. Carbohydrates are found in bread, rice and macaroni. Fats are found in milk and cheese. Vitamins are found in fruit and vegetables. Exercises help the blood to move around inside the body. Our blood takes food to all parts of our body. The body must have rest, so we must have enough sleep to be able to do work."
       },
       {
        "type": "mcq",
@@ -1967,7 +2029,8 @@
         "exercises",
         "fats"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Good food, exercise and sleep are the keys to good health. We need to eat foods that contain protein, carbohydrates, fats and vitamins. Protein is found in meat, fish and beans. Carbohydrates are found in bread, rice and macaroni. Fats are found in milk and cheese. Vitamins are found in fruit and vegetables. Exercises help the blood to move around inside the body. Our blood takes food to all parts of our body. The body must have rest, so we must have enough sleep to be able to do work."
       },
       {
        "type": "typein",
@@ -1975,7 +2038,8 @@
        "answer": [
         "In meat, fish and beans",
         "Meat, fish and beans"
-       ]
+       ],
+       "passage": "Good food, exercise and sleep are the keys to good health. We need to eat foods that contain protein, carbohydrates, fats and vitamins. Protein is found in meat, fish and beans. Carbohydrates are found in bread, rice and macaroni. Fats are found in milk and cheese. Vitamins are found in fruit and vegetables. Exercises help the blood to move around inside the body. Our blood takes food to all parts of our body. The body must have rest, so we must have enough sleep to be able to do work."
       },
       {
        "type": "typein",
@@ -1984,7 +2048,8 @@
         "To have rest",
         "To rest",
         "to have rest"
-       ]
+       ],
+       "passage": "Good food, exercise and sleep are the keys to good health. We need to eat foods that contain protein, carbohydrates, fats and vitamins. Protein is found in meat, fish and beans. Carbohydrates are found in bread, rice and macaroni. Fats are found in milk and cheese. Vitamins are found in fruit and vegetables. Exercises help the blood to move around inside the body. Our blood takes food to all parts of our body. The body must have rest, so we must have enough sleep to be able to do work."
       }
      ]
     },
@@ -2004,7 +2069,8 @@
         "research",
         "Ain Shams"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: United States - research - Egypt - Ain Shams - Egyptian\n\nDr. Mostafa El-Sayed is a famous ____ scientist. He was born in ____ in 1933. He studied at ____ University in Cairo. Later, he went to the ____ to continue his scientific ____."
       },
       {
        "type": "mcq",
@@ -2017,7 +2083,8 @@
         "United States",
         "Ain Shams"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: United States - research - Egypt - Ain Shams - Egyptian\n\nDr. Mostafa El-Sayed is a famous ____ scientist. He was born in ____ in 1933. He studied at ____ University in Cairo. Later, he went to the ____ to continue his scientific ____."
       },
       {
        "type": "mcq",
@@ -2030,7 +2097,8 @@
         "Egypt",
         "Egyptian"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Words in the box: United States - research - Egypt - Ain Shams - Egyptian\n\nDr. Mostafa El-Sayed is a famous ____ scientist. He was born in ____ in 1933. He studied at ____ University in Cairo. Later, he went to the ____ to continue his scientific ____."
       },
       {
        "type": "mcq",
@@ -2043,7 +2111,8 @@
         "Egyptian",
         "Egypt"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: United States - research - Egypt - Ain Shams - Egyptian\n\nDr. Mostafa El-Sayed is a famous ____ scientist. He was born in ____ in 1933. He studied at ____ University in Cairo. Later, he went to the ____ to continue his scientific ____."
       },
       {
        "type": "mcq",
@@ -2056,7 +2125,8 @@
         "research",
         "Egypt"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: United States - research - Egypt - Ain Shams - Egyptian\n\nDr. Mostafa El-Sayed is a famous ____ scientist. He was born in ____ in 1933. He studied at ____ University in Cairo. Later, he went to the ____ to continue his scientific ____."
       }
      ]
     },
@@ -2076,7 +2146,8 @@
         "idea",
         "chemistry"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Words in the box: him - chemistry - tiny - idea - discoveries\n\nDr. El-Sayed became an expert in ____ and nanoscience. Nanoscience is the study of very ____ things. One of his important ____ is called El-Sayed's Rule. It is a scientific ____ named after ____."
       },
       {
        "type": "mcq",
@@ -2089,7 +2160,8 @@
         "tiny",
         "discoveries"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: him - chemistry - tiny - idea - discoveries\n\nDr. El-Sayed became an expert in ____ and nanoscience. Nanoscience is the study of very ____ things. One of his important ____ is called El-Sayed's Rule. It is a scientific ____ named after ____."
       },
       {
        "type": "mcq",
@@ -2102,7 +2174,8 @@
         "chemistry",
         "him"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: him - chemistry - tiny - idea - discoveries\n\nDr. El-Sayed became an expert in ____ and nanoscience. Nanoscience is the study of very ____ things. One of his important ____ is called El-Sayed's Rule. It is a scientific ____ named after ____."
       },
       {
        "type": "mcq",
@@ -2115,7 +2188,8 @@
         "tiny",
         "discoveries"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: him - chemistry - tiny - idea - discoveries\n\nDr. El-Sayed became an expert in ____ and nanoscience. Nanoscience is the study of very ____ things. One of his important ____ is called El-Sayed's Rule. It is a scientific ____ named after ____."
       },
       {
        "type": "mcq",
@@ -2128,7 +2202,8 @@
         "idea",
         "chemistry"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: him - chemistry - tiny - idea - discoveries\n\nDr. El-Sayed became an expert in ____ and nanoscience. Nanoscience is the study of very ____ things. One of his important ____ is called El-Sayed's Rule. It is a scientific ____ named after ____."
       }
      ]
     },
@@ -2148,7 +2223,8 @@
         "nanoparticles",
         "awards"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: cancer - awards - proud - nanoparticles - Science\n\nDr. El-Sayed used gold ____ to help doctors detect and treat some types of ____. He received many important ____, including the U.S. National Medal of ____. Egypt is very ____ of him."
       },
       {
        "type": "mcq",
@@ -2161,7 +2237,8 @@
         "proud",
         "nanoparticles"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: cancer - awards - proud - nanoparticles - Science\n\nDr. El-Sayed used gold ____ to help doctors detect and treat some types of ____. He received many important ____, including the U.S. National Medal of ____. Egypt is very ____ of him."
       },
       {
        "type": "mcq",
@@ -2174,7 +2251,8 @@
         "proud",
         "nanoparticles"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: cancer - awards - proud - nanoparticles - Science\n\nDr. El-Sayed used gold ____ to help doctors detect and treat some types of ____. He received many important ____, including the U.S. National Medal of ____. Egypt is very ____ of him."
       },
       {
        "type": "mcq",
@@ -2187,7 +2265,8 @@
         "nanoparticles",
         "Science"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Words in the box: cancer - awards - proud - nanoparticles - Science\n\nDr. El-Sayed used gold ____ to help doctors detect and treat some types of ____. He received many important ____, including the U.S. National Medal of ____. Egypt is very ____ of him."
       },
       {
        "type": "mcq",
@@ -2200,7 +2279,8 @@
         "cancer",
         "awards"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: cancer - awards - proud - nanoparticles - Science\n\nDr. El-Sayed used gold ____ to help doctors detect and treat some types of ____. He received many important ____, including the U.S. National Medal of ____. Egypt is very ____ of him."
       }
      ]
     }
@@ -2245,7 +2325,8 @@
         "waste",
         "lose"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Energy is something we all need every day to light our homes, cook, watch TV, and charge our phones. In Egypt, we use electricity, gas, and solar power. But energy is not endless, so we must use it wisely. Some energy comes from nature, like solar and wind, which are clean and do not pollute. Egypt has lots of sunshine, so using more solar panels saves money and helps the planet. Other energy types, like oil and gas, can harm the Earth. We can save energy by turning off lights and devices when not in use and walking or biking short distances. Wasting energy causes climate change, which affects animals and their homes. Small daily actions can make a big difference."
       },
       {
        "type": "mcq",
@@ -2257,7 +2338,8 @@
         "make bright",
         "make quiet"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Energy is something we all need every day to light our homes, cook, watch TV, and charge our phones. In Egypt, we use electricity, gas, and solar power. But energy is not endless, so we must use it wisely. Some energy comes from nature, like solar and wind, which are clean and do not pollute. Egypt has lots of sunshine, so using more solar panels saves money and helps the planet. Other energy types, like oil and gas, can harm the Earth. We can save energy by turning off lights and devices when not in use and walking or biking short distances. Wasting energy causes climate change, which affects animals and their homes. Small daily actions can make a big difference."
       },
       {
        "type": "typein",
@@ -2265,7 +2347,8 @@
        "answer": [
         "Electricity, gas, and solar power",
         "Electricity, gas and solar power"
-       ]
+       ],
+       "passage": "Energy is something we all need every day to light our homes, cook, watch TV, and charge our phones. In Egypt, we use electricity, gas, and solar power. But energy is not endless, so we must use it wisely. Some energy comes from nature, like solar and wind, which are clean and do not pollute. Egypt has lots of sunshine, so using more solar panels saves money and helps the planet. Other energy types, like oil and gas, can harm the Earth. We can save energy by turning off lights and devices when not in use and walking or biking short distances. Wasting energy causes climate change, which affects animals and their homes. Small daily actions can make a big difference."
       },
       {
        "type": "mcq",
@@ -2349,7 +2432,8 @@
         "change",
         "pollute"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Words in the box: change - panels - types - protect - pollute\n\n1. Gases from cars and buses can ____ the air.\n2. We must ____ the Earth from pollution.\n3. Wasting energy causes climate ____.\n4. Egypt has lots of sunshine, so using more solar ____ saves money.\n5. What ____ of energy do people use in Egypt?"
       },
       {
        "type": "mcq",
@@ -2362,7 +2446,8 @@
         "pollute",
         "types"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: change - panels - types - protect - pollute\n\n1. Gases from cars and buses can ____ the air.\n2. We must ____ the Earth from pollution.\n3. Wasting energy causes climate ____.\n4. Egypt has lots of sunshine, so using more solar ____ saves money.\n5. What ____ of energy do people use in Egypt?"
       },
       {
        "type": "mcq",
@@ -2375,7 +2460,8 @@
         "types",
         "protect"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: change - panels - types - protect - pollute\n\n1. Gases from cars and buses can ____ the air.\n2. We must ____ the Earth from pollution.\n3. Wasting energy causes climate ____.\n4. Egypt has lots of sunshine, so using more solar ____ saves money.\n5. What ____ of energy do people use in Egypt?"
       },
       {
        "type": "mcq",
@@ -2388,7 +2474,8 @@
         "panels",
         "types"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: change - panels - types - protect - pollute\n\n1. Gases from cars and buses can ____ the air.\n2. We must ____ the Earth from pollution.\n3. Wasting energy causes climate ____.\n4. Egypt has lots of sunshine, so using more solar ____ saves money.\n5. What ____ of energy do people use in Egypt?"
       },
       {
        "type": "mcq",
@@ -2401,7 +2488,8 @@
         "types",
         "pollute"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: change - panels - types - protect - pollute\n\n1. Gases from cars and buses can ____ the air.\n2. We must ____ the Earth from pollution.\n3. Wasting energy causes climate ____.\n4. Egypt has lots of sunshine, so using more solar ____ saves money.\n5. What ____ of energy do people use in Egypt?"
       }
      ]
     },
@@ -2420,7 +2508,8 @@
         "useless",
         "important"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Egypt has many valuable things under the ground called minerals. They are very important for our country. Egypt has oil, natural gas, gold, and iron. Oil and gas are used for cooking, heating, and making electricity. Gold is a shiny yellow metal used to make jewelry. Iron is a strong metal used to build buildings and cars. These natural resources help Egypt grow and have a better future for everyone."
       },
       {
        "type": "mcq",
@@ -2432,7 +2521,8 @@
         "cold",
         "bright"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Egypt has many valuable things under the ground called minerals. They are very important for our country. Egypt has oil, natural gas, gold, and iron. Oil and gas are used for cooking, heating, and making electricity. Gold is a shiny yellow metal used to make jewelry. Iron is a strong metal used to build buildings and cars. These natural resources help Egypt grow and have a better future for everyone."
       },
       {
        "type": "typein",
@@ -2440,7 +2530,8 @@
        "answer": [
         "Oil, natural gas, gold, and iron",
         "Oil, natural gas, gold and iron"
-       ]
+       ],
+       "passage": "Egypt has many valuable things under the ground called minerals. They are very important for our country. Egypt has oil, natural gas, gold, and iron. Oil and gas are used for cooking, heating, and making electricity. Gold is a shiny yellow metal used to make jewelry. Iron is a strong metal used to build buildings and cars. These natural resources help Egypt grow and have a better future for everyone."
       },
       {
        "type": "typein",
@@ -2450,7 +2541,8 @@
         "Jewelry",
         "jewelry",
         "To make jewellery"
-       ]
+       ],
+       "passage": "Egypt has many valuable things under the ground called minerals. They are very important for our country. Egypt has oil, natural gas, gold, and iron. Oil and gas are used for cooking, heating, and making electricity. Gold is a shiny yellow metal used to make jewelry. Iron is a strong metal used to build buildings and cars. These natural resources help Egypt grow and have a better future for everyone."
       },
       {
        "type": "mcq",
@@ -2463,7 +2555,8 @@
         "mustn't",
         "metal"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: must - cars - metal - mustn't - resources\n\n1. You ____ cross the street when the light is red.\n2. You ____ listen to the teacher carefully.\n3. Natural ____ are important for Egypt.\n4. Steel is used for ____ and buildings.\n5. Gold is a beautiful, yellow, shiny ____."
       },
       {
        "type": "mcq",
@@ -2476,7 +2569,8 @@
         "cars",
         "metal"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: must - cars - metal - mustn't - resources\n\n1. You ____ cross the street when the light is red.\n2. You ____ listen to the teacher carefully.\n3. Natural ____ are important for Egypt.\n4. Steel is used for ____ and buildings.\n5. Gold is a beautiful, yellow, shiny ____."
       },
       {
        "type": "mcq",
@@ -2489,7 +2583,8 @@
         "metal",
         "must"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Words in the box: must - cars - metal - mustn't - resources\n\n1. You ____ cross the street when the light is red.\n2. You ____ listen to the teacher carefully.\n3. Natural ____ are important for Egypt.\n4. Steel is used for ____ and buildings.\n5. Gold is a beautiful, yellow, shiny ____."
       },
       {
        "type": "mcq",
@@ -2502,7 +2597,8 @@
         "mustn't",
         "cars"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Words in the box: must - cars - metal - mustn't - resources\n\n1. You ____ cross the street when the light is red.\n2. You ____ listen to the teacher carefully.\n3. Natural ____ are important for Egypt.\n4. Steel is used for ____ and buildings.\n5. Gold is a beautiful, yellow, shiny ____."
       },
       {
        "type": "mcq",
@@ -2515,7 +2611,8 @@
         "mustn't",
         "metal"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Words in the box: must - cars - metal - mustn't - resources\n\n1. You ____ cross the street when the light is red.\n2. You ____ listen to the teacher carefully.\n3. Natural ____ are important for Egypt.\n4. Steel is used for ____ and buildings.\n5. Gold is a beautiful, yellow, shiny ____."
       }
      ]
     },
@@ -2914,7 +3011,8 @@
         "Alexandria",
         "Aswan"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "The Grand Egyptian Museum in Giza is one of the newest places to visit in Egypt. It is close to the pyramids, so visitors can see both the museum and the pyramids on the same day. Inside the museum, people can see statues, jewelry, tools, and mummies from ancient Egypt. There is an information desk where visitors can ask questions and get maps. The museum also has smart screens and shows that help people learn in a fun way. Families can buy souvenirs in the gift shop and eat in the restaurant after their visit."
       },
       {
        "type": "mcq",
@@ -2926,7 +3024,8 @@
         "gift shop",
         "ticket office"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "The Grand Egyptian Museum in Giza is one of the newest places to visit in Egypt. It is close to the pyramids, so visitors can see both the museum and the pyramids on the same day. Inside the museum, people can see statues, jewelry, tools, and mummies from ancient Egypt. There is an information desk where visitors can ask questions and get maps. The museum also has smart screens and shows that help people learn in a fun way. Families can buy souvenirs in the gift shop and eat in the restaurant after their visit."
       },
       {
        "type": "typein",
@@ -2935,7 +3034,8 @@
         "In Giza",
         "Giza",
         "It is in Giza"
-       ]
+       ],
+       "passage": "The Grand Egyptian Museum in Giza is one of the newest places to visit in Egypt. It is close to the pyramids, so visitors can see both the museum and the pyramids on the same day. Inside the museum, people can see statues, jewelry, tools, and mummies from ancient Egypt. There is an information desk where visitors can ask questions and get maps. The museum also has smart screens and shows that help people learn in a fun way. Families can buy souvenirs in the gift shop and eat in the restaurant after their visit."
       },
       {
        "type": "typein",
@@ -2943,7 +3043,8 @@
        "answer": [
         "Statues, jewelry, tools, and mummies",
         "Statues, jewelry, tools and mummies"
-       ]
+       ],
+       "passage": "The Grand Egyptian Museum in Giza is one of the newest places to visit in Egypt. It is close to the pyramids, so visitors can see both the museum and the pyramids on the same day. Inside the museum, people can see statues, jewelry, tools, and mummies from ancient Egypt. There is an information desk where visitors can ask questions and get maps. The museum also has smart screens and shows that help people learn in a fun way. Families can buy souvenirs in the gift shop and eat in the restaurant after their visit."
       },
       {
        "type": "mcq",
@@ -3064,7 +3165,8 @@
         "vision",
         "special"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Words in the box: cable - transportation - vision - special - located\n\n1. Alexandria is ____ on the Mediterranean Sea.\n2. Egypt's ____ for smart, sustainable cities is achievable.\n3. The ____ car is one of the main attractions in Al Galala City.\n4. I want to visit Aswan because it is a ____ place in Egypt.\n5. The government plans to build more homes, parks, and ____ links."
       },
       {
        "type": "mcq",
@@ -3077,7 +3179,8 @@
         "located",
         "special"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: cable - transportation - vision - special - located\n\n1. Alexandria is ____ on the Mediterranean Sea.\n2. Egypt's ____ for smart, sustainable cities is achievable.\n3. The ____ car is one of the main attractions in Al Galala City.\n4. I want to visit Aswan because it is a ____ place in Egypt.\n5. The government plans to build more homes, parks, and ____ links."
       },
       {
        "type": "mcq",
@@ -3090,7 +3193,8 @@
         "vision",
         "located"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: cable - transportation - vision - special - located\n\n1. Alexandria is ____ on the Mediterranean Sea.\n2. Egypt's ____ for smart, sustainable cities is achievable.\n3. The ____ car is one of the main attractions in Al Galala City.\n4. I want to visit Aswan because it is a ____ place in Egypt.\n5. The government plans to build more homes, parks, and ____ links."
       },
       {
        "type": "mcq",
@@ -3103,7 +3207,8 @@
         "transportation",
         "located"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: cable - transportation - vision - special - located\n\n1. Alexandria is ____ on the Mediterranean Sea.\n2. Egypt's ____ for smart, sustainable cities is achievable.\n3. The ____ car is one of the main attractions in Al Galala City.\n4. I want to visit Aswan because it is a ____ place in Egypt.\n5. The government plans to build more homes, parks, and ____ links."
       },
       {
        "type": "mcq",
@@ -3116,7 +3221,8 @@
         "located",
         "vision"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Words in the box: cable - transportation - vision - special - located\n\n1. Alexandria is ____ on the Mediterranean Sea.\n2. Egypt's ____ for smart, sustainable cities is achievable.\n3. The ____ car is one of the main attractions in Al Galala City.\n4. I want to visit Aswan because it is a ____ place in Egypt.\n5. The government plans to build more homes, parks, and ____ links."
       }
      ]
     },
@@ -3135,7 +3241,8 @@
         "growing trees",
         "working on a farm"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "A long time ago, a farmer lived with his three sons in a small village. The sons argued and fought every day about small things. The farmer wanted to teach them a lesson. One day, he asked them to bring some sticks. He tied the sticks into a bundle and gave it to his eldest son. The son tried to break the bundle but he could not. The other sons also tried, but the bundle stayed strong. Then the farmer untied the sticks and gave one stick to each son. This time, they broke the sticks easily. The farmer told them that they were like the sticks. If they stayed together, no one could hurt them. If they fought and stayed alone, they would be weak. The sons understood the lesson and decided to live in peace and unity."
       },
       {
        "type": "mcq",
@@ -3147,7 +3254,8 @@
         "slept early",
         "talked quietly"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "A long time ago, a farmer lived with his three sons in a small village. The sons argued and fought every day about small things. The farmer wanted to teach them a lesson. One day, he asked them to bring some sticks. He tied the sticks into a bundle and gave it to his eldest son. The son tried to break the bundle but he could not. The other sons also tried, but the bundle stayed strong. Then the farmer untied the sticks and gave one stick to each son. This time, they broke the sticks easily. The farmer told them that they were like the sticks. If they stayed together, no one could hurt them. If they fought and stayed alone, they would be weak. The sons understood the lesson and decided to live in peace and unity."
       },
       {
        "type": "typein",
@@ -3156,7 +3264,8 @@
         "They broke it easily",
         "They could break it easily",
         "They broke it"
-       ]
+       ],
+       "passage": "A long time ago, a farmer lived with his three sons in a small village. The sons argued and fought every day about small things. The farmer wanted to teach them a lesson. One day, he asked them to bring some sticks. He tied the sticks into a bundle and gave it to his eldest son. The son tried to break the bundle but he could not. The other sons also tried, but the bundle stayed strong. Then the farmer untied the sticks and gave one stick to each son. This time, they broke the sticks easily. The farmer told them that they were like the sticks. If they stayed together, no one could hurt them. If they fought and stayed alone, they would be weak. The sons understood the lesson and decided to live in peace and unity."
       },
       {
        "type": "mcq",
@@ -3169,7 +3278,8 @@
         "kitchen",
         "moral"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: kitchen - village - moral - bundle - invitation\n\n1. Ali sent me an ____ to his birthday yesterday.\n2. The ____ of sticks was hard to break.\n3. I lived in a small ____ near the Nile, a long time ago.\n4. My mother cooked dinner and cleaned the ____.\n5. The ____ of the story is to work together."
       },
       {
        "type": "mcq",
@@ -3182,7 +3292,8 @@
         "bundle",
         "invitation"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: kitchen - village - moral - bundle - invitation\n\n1. Ali sent me an ____ to his birthday yesterday.\n2. The ____ of sticks was hard to break.\n3. I lived in a small ____ near the Nile, a long time ago.\n4. My mother cooked dinner and cleaned the ____.\n5. The ____ of the story is to work together."
       },
       {
        "type": "mcq",
@@ -3195,7 +3306,8 @@
         "invitation",
         "moral"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: kitchen - village - moral - bundle - invitation\n\n1. Ali sent me an ____ to his birthday yesterday.\n2. The ____ of sticks was hard to break.\n3. I lived in a small ____ near the Nile, a long time ago.\n4. My mother cooked dinner and cleaned the ____.\n5. The ____ of the story is to work together."
       },
       {
        "type": "mcq",
@@ -3208,7 +3320,8 @@
         "invitation",
         "bundle"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: kitchen - village - moral - bundle - invitation\n\n1. Ali sent me an ____ to his birthday yesterday.\n2. The ____ of sticks was hard to break.\n3. I lived in a small ____ near the Nile, a long time ago.\n4. My mother cooked dinner and cleaned the ____.\n5. The ____ of the story is to work together."
       },
       {
        "type": "mcq",
@@ -3221,7 +3334,8 @@
         "invitation",
         "kitchen"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: kitchen - village - moral - bundle - invitation\n\n1. Ali sent me an ____ to his birthday yesterday.\n2. The ____ of sticks was hard to break.\n3. I lived in a small ____ near the Nile, a long time ago.\n4. My mother cooked dinner and cleaned the ____.\n5. The ____ of the story is to work together."
       }
      ]
     },
@@ -3240,7 +3354,8 @@
         "Alexandria",
         "Luxor"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Egypt is a sunny country, making it ideal for solar energy. One important project is Benban Solar Park near Aswan. It is one of the largest solar stations in the world. The park uses millions of solar panels to make clean electricity for homes, schools, hospitals, and factories. Benban also creates many jobs for engineers, builders, and local workers. This helps families in Upper Egypt earn money and have a better life. By using the power of the sun instead of oil and gas, Benban reduces pollution and protects the environment. It is a proud step toward a greener future for Egypt."
       },
       {
        "type": "mcq",
@@ -3252,7 +3367,8 @@
         "closing schools",
         "cutting down trees"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Egypt is a sunny country, making it ideal for solar energy. One important project is Benban Solar Park near Aswan. It is one of the largest solar stations in the world. The park uses millions of solar panels to make clean electricity for homes, schools, hospitals, and factories. Benban also creates many jobs for engineers, builders, and local workers. This helps families in Upper Egypt earn money and have a better life. By using the power of the sun instead of oil and gas, Benban reduces pollution and protects the environment. It is a proud step toward a greener future for Egypt."
       },
       {
        "type": "typein",
@@ -3261,7 +3377,8 @@
         "It creates jobs",
         "Creates jobs",
         "It creates jobs for them"
-       ]
+       ],
+       "passage": "Egypt is a sunny country, making it ideal for solar energy. One important project is Benban Solar Park near Aswan. It is one of the largest solar stations in the world. The park uses millions of solar panels to make clean electricity for homes, schools, hospitals, and factories. Benban also creates many jobs for engineers, builders, and local workers. This helps families in Upper Egypt earn money and have a better life. By using the power of the sun instead of oil and gas, Benban reduces pollution and protects the environment. It is a proud step toward a greener future for Egypt."
       },
       {
        "type": "reorder",
@@ -3322,7 +3439,8 @@
         "Pyramids",
         "desert only"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "The Grand Egyptian Museum is a new museum near the Pyramids in Giza. It took many years to build. Tourists from all over the world visit it to see statues, golden jewellery, tools, and real mummies. At the entrance, there is an information desk to help visitors. The museum also uses modern technology and active displays to tell the story of Ancient Egypt."
       },
       {
        "type": "mcq",
@@ -3334,7 +3452,8 @@
         "information desk",
         "bus stop"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "The Grand Egyptian Museum is a new museum near the Pyramids in Giza. It took many years to build. Tourists from all over the world visit it to see statues, golden jewellery, tools, and real mummies. At the entrance, there is an information desk to help visitors. The museum also uses modern technology and active displays to tell the story of Ancient Egypt."
       }
      ]
     },
@@ -3353,7 +3472,8 @@
         "Ain Sokhna",
         "Luxor"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Al Galala City is a modern city in Egypt, built on a high plateau near Ain Sokhna. In the past, the area was almost empty, but now it is full of life. There are hotels, clean beaches, and a famous cable car that moves from the mountain to the sea. Galala University welcomes students from Egypt and other countries. The government plans to build more homes and parks to make the city a smart, sustainable place."
       },
       {
        "type": "mcq",
@@ -3365,7 +3485,8 @@
         "school to school",
         "the mountain to the sea"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Al Galala City is a modern city in Egypt, built on a high plateau near Ain Sokhna. In the past, the area was almost empty, but now it is full of life. There are hotels, clean beaches, and a famous cable car that moves from the mountain to the sea. Galala University welcomes students from Egypt and other countries. The government plans to build more homes and parks to make the city a smart, sustainable place."
       },
       {
        "type": "typein",
@@ -3373,7 +3494,8 @@
        "answer": [
         "It was almost empty",
         "Almost empty"
-       ]
+       ],
+       "passage": "Al Galala City is a modern city in Egypt, built on a high plateau near Ain Sokhna. In the past, the area was almost empty, but now it is full of life. There are hotels, clean beaches, and a famous cable car that moves from the mountain to the sea. Galala University welcomes students from Egypt and other countries. The government plans to build more homes and parks to make the city a smart, sustainable place."
       }
      ]
     },
@@ -3392,7 +3514,8 @@
         "cars",
         "books only"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Egypt produces many things that people use every day. In Damietta, workers make strong wooden furniture for homes and hotels. In other cities, factories make clothes, food, and souvenirs for tourists. Some products are sold in Egypt, and others are exported to different countries. When we buy Egyptian products, we support workers and help our country grow."
       },
       {
        "type": "mcq",
@@ -3404,7 +3527,8 @@
         "close factories",
         "support workers"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Egypt produces many things that people use every day. In Damietta, workers make strong wooden furniture for homes and hotels. In other cities, factories make clothes, food, and souvenirs for tourists. Some products are sold in Egypt, and others are exported to different countries. When we buy Egyptian products, we support workers and help our country grow."
       },
       {
        "type": "typein",
@@ -3413,7 +3537,8 @@
         "Abroad",
         "In other countries",
         "abroad"
-       ]
+       ],
+       "passage": "Egypt produces many things that people use every day. In Damietta, workers make strong wooden furniture for homes and hotels. In other cities, factories make clothes, food, and souvenirs for tourists. Some products are sold in Egypt, and others are exported to different countries. When we buy Egyptian products, we support workers and help our country grow."
       }
      ]
     }
@@ -3422,7 +3547,7 @@
   {
    "id": "u6",
    "num": 6,
-   "title": "The water Savers",
+   "title": "Water Savers",
    "pages": "59-67",
    "lessons": [
     {
@@ -3499,23 +3624,6 @@
         "mustn't"
        ],
        "answer": 3
-      },
-      {
-       "type": "typein",
-       "q": "Where did the children see water being wasted?",
-       "answer": [
-        "At school",
-        "In the school",
-        "at school"
-       ]
-      },
-      {
-       "type": "typein",
-       "q": "What name did Farida give to their group?",
-       "answer": [
-        "Water Savers",
-        "The Water Savers"
-       ]
       }
      ]
     },
@@ -3857,7 +3965,8 @@
         "souvenirs",
         "juice"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Words in the box: souvenirs - sites - juice - designs\n\nMy name is Amir. I usually visit ancient ____ with my friends. I sometimes go there with my family. My father likes to walk through the old streets. There are many beautiful doors and buildings with Arabic ____. I sometimes buy some ____. I take photos of the places we visit."
       },
       {
        "type": "mcq",
@@ -3869,7 +3978,8 @@
         "sites",
         "designs"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: souvenirs - sites - juice - designs\n\nMy name is Amir. I usually visit ancient ____ with my friends. I sometimes go there with my family. My father likes to walk through the old streets. There are many beautiful doors and buildings with Arabic ____. I sometimes buy some ____. I take photos of the places we visit."
       },
       {
        "type": "mcq",
@@ -3881,7 +3991,8 @@
         "sites",
         "souvenirs"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: souvenirs - sites - juice - designs\n\nMy name is Amir. I usually visit ancient ____ with my friends. I sometimes go there with my family. My father likes to walk through the old streets. There are many beautiful doors and buildings with Arabic ____. I sometimes buy some ____. I take photos of the places we visit."
       },
       {
        "type": "mcq",
@@ -3893,7 +4004,8 @@
         "Strong",
         "Inside"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "It's very important to have healthy habits. It's a good way to enjoy your life. Try to find a healthy balance of play and exercise, healthy food, water, social time, and good sleep. When you put together all these things, you can do your best and achieve everything you want. Put your phone away when you enjoy the outside world with your family and friends. If you have healthy habits, you feel strong, happy and have good relationships. We should learn these things from the early beginning."
       },
       {
        "type": "mcq",
@@ -3905,7 +4017,8 @@
         "Good sleep",
         "Watching too much TV"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "It's very important to have healthy habits. It's a good way to enjoy your life. Try to find a healthy balance of play and exercise, healthy food, water, social time, and good sleep. When you put together all these things, you can do your best and achieve everything you want. Put your phone away when you enjoy the outside world with your family and friends. If you have healthy habits, you feel strong, happy and have good relationships. We should learn these things from the early beginning."
       },
       {
        "type": "typein",
@@ -3913,7 +4026,8 @@
        "answer": [
         "You enjoy your life",
         "You will enjoy your life"
-       ]
+       ],
+       "passage": "It's very important to have healthy habits. It's a good way to enjoy your life. Try to find a healthy balance of play and exercise, healthy food, water, social time, and good sleep. When you put together all these things, you can do your best and achieve everything you want. Put your phone away when you enjoy the outside world with your family and friends. If you have healthy habits, you feel strong, happy and have good relationships. We should learn these things from the early beginning."
       }
      ]
     }
@@ -4103,7 +4217,8 @@
         "carries",
         "animals"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: animals - carries - birds - desert - flows\n\nA river is a source of life. It ____ fresh water to people and ____ through the land, bringing life to the country. Many different kinds of ____ live in its water, and beautiful ____ live near it."
       },
       {
        "type": "mcq",
@@ -4116,7 +4231,8 @@
         "birds",
         "animals"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: animals - carries - birds - desert - flows\n\nA river is a source of life. It ____ fresh water to people and ____ through the land, bringing life to the country. Many different kinds of ____ live in its water, and beautiful ____ live near it."
       },
       {
        "type": "mcq",
@@ -4129,7 +4245,8 @@
         "desert",
         "carries"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Words in the box: animals - carries - birds - desert - flows\n\nA river is a source of life. It ____ fresh water to people and ____ through the land, bringing life to the country. Many different kinds of ____ live in its water, and beautiful ____ live near it."
       },
       {
        "type": "mcq",
@@ -4142,7 +4259,8 @@
         "birds",
         "desert"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: animals - carries - birds - desert - flows\n\nA river is a source of life. It ____ fresh water to people and ____ through the land, bringing life to the country. Many different kinds of ____ live in its water, and beautiful ____ live near it."
       },
       {
        "type": "mcq",
@@ -4154,7 +4272,8 @@
         "parents",
         "cities"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "My name's Hana. I live in Cairo and I love city life! Some people think that cities are too noisy. I agree! Cairo is noisier than the countryside and the roads are too busy. There are too many cars and the air is too polluted. But I prefer city life because it's always exciting! There's a lot to do and see here. My grandparents live on a farm. When I visit them, I think the countryside is too quiet."
       },
       {
        "type": "mcq",
@@ -4166,7 +4285,8 @@
         "noisier",
         "quieter"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "My name's Hana. I live in Cairo and I love city life! Some people think that cities are too noisy. I agree! Cairo is noisier than the countryside and the roads are too busy. There are too many cars and the air is too polluted. But I prefer city life because it's always exciting! There's a lot to do and see here. My grandparents live on a farm. When I visit them, I think the countryside is too quiet."
       },
       {
        "type": "typein",
@@ -4174,7 +4294,8 @@
        "answer": [
         "City life",
         "She prefers city life"
-       ]
+       ],
+       "passage": "My name's Hana. I live in Cairo and I love city life! Some people think that cities are too noisy. I agree! Cairo is noisier than the countryside and the roads are too busy. There are too many cars and the air is too polluted. But I prefer city life because it's always exciting! There's a lot to do and see here. My grandparents live on a farm. When I visit them, I think the countryside is too quiet."
       }
      ]
     }
@@ -4398,7 +4519,8 @@
         "important",
         "community"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: community - emergency - research - important\n\nOmar lives in a big ____. He is doing ____ about jobs that help people. A paramedic helps in an ____. Every job is ____ and helps people live better lives."
       },
       {
        "type": "mcq",
@@ -4410,7 +4532,8 @@
         "research",
         "important"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: community - emergency - research - important\n\nOmar lives in a big ____. He is doing ____ about jobs that help people. A paramedic helps in an ____. Every job is ____ and helps people live better lives."
       },
       {
        "type": "mcq",
@@ -4422,7 +4545,8 @@
         "research",
         "community"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: community - emergency - research - important\n\nOmar lives in a big ____. He is doing ____ about jobs that help people. A paramedic helps in an ____. Every job is ____ and helps people live better lives."
       },
       {
        "type": "mcq",
@@ -4434,7 +4558,8 @@
         "community",
         "important"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Words in the box: community - emergency - research - important\n\nOmar lives in a big ____. He is doing ____ about jobs that help people. A paramedic helps in an ____. Every job is ____ and helps people live better lives."
       },
       {
        "type": "mcq",
@@ -4446,7 +4571,8 @@
         "on foot",
         "by bus"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Hany has an ice cream shop in Cairo. He always walks to it. He opens six days a week. He never opens on Fridays. He makes the ice cream by himself. There are a lot of flavours in his shop. Most people like vanilla and chocolate. There is a museum across from his shop, so many tourists buy ice cream from his shop."
       },
       {
        "type": "mcq",
@@ -4458,7 +4584,8 @@
         "Sunday",
         "Saturday"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Hany has an ice cream shop in Cairo. He always walks to it. He opens six days a week. He never opens on Fridays. He makes the ice cream by himself. There are a lot of flavours in his shop. Most people like vanilla and chocolate. There is a museum across from his shop, so many tourists buy ice cream from his shop."
       },
       {
        "type": "typein",
@@ -4466,7 +4593,8 @@
        "answer": [
         "In Cairo",
         "Cairo"
-       ]
+       ],
+       "passage": "Hany has an ice cream shop in Cairo. He always walks to it. He opens six days a week. He never opens on Fridays. He makes the ice cream by himself. There are a lot of flavours in his shop. Most people like vanilla and chocolate. There is a museum across from his shop, so many tourists buy ice cream from his shop."
       },
       {
        "type": "typein",
@@ -4474,7 +4602,8 @@
        "answer": [
         "Vanilla and chocolate",
         "vanilla and chocolate"
-       ]
+       ],
+       "passage": "Hany has an ice cream shop in Cairo. He always walks to it. He opens six days a week. He never opens on Fridays. He makes the ice cream by himself. There are a lot of flavours in his shop. Most people like vanilla and chocolate. There is a museum across from his shop, so many tourists buy ice cream from his shop."
       }
      ]
     }
@@ -4622,7 +4751,8 @@
         "Can",
         "must"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Words in the box: must - cars - Can - mustn't - resources\n\n1. You ____ stop when the light is red.\n2. Many ____ are made in Egypt nowadays.\n3. We should make use of our natural ____.\n4. We ____ smoke as it's bad for our health.\n5. ____ they do the research? - Yes, they can."
       },
       {
        "type": "mcq",
@@ -4635,7 +4765,8 @@
         "mustn't",
         "Can"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: must - cars - Can - mustn't - resources\n\n1. You ____ stop when the light is red.\n2. Many ____ are made in Egypt nowadays.\n3. We should make use of our natural ____.\n4. We ____ smoke as it's bad for our health.\n5. ____ they do the research? - Yes, they can."
       },
       {
        "type": "mcq",
@@ -4648,7 +4779,8 @@
         "cars",
         "mustn't"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: must - cars - Can - mustn't - resources\n\n1. You ____ stop when the light is red.\n2. Many ____ are made in Egypt nowadays.\n3. We should make use of our natural ____.\n4. We ____ smoke as it's bad for our health.\n5. ____ they do the research? - Yes, they can."
       },
       {
        "type": "mcq",
@@ -4661,7 +4793,8 @@
         "Can",
         "must"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: must - cars - Can - mustn't - resources\n\n1. You ____ stop when the light is red.\n2. Many ____ are made in Egypt nowadays.\n3. We should make use of our natural ____.\n4. We ____ smoke as it's bad for our health.\n5. ____ they do the research? - Yes, they can."
       },
       {
        "type": "mcq",
@@ -4674,7 +4807,8 @@
         "must",
         "mustn't"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: must - cars - Can - mustn't - resources\n\n1. You ____ stop when the light is red.\n2. Many ____ are made in Egypt nowadays.\n3. We should make use of our natural ____.\n4. We ____ smoke as it's bad for our health.\n5. ____ they do the research? - Yes, they can."
       },
       {
        "type": "typein",
@@ -4726,7 +4860,8 @@
         "relaxing",
         "playing"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "It's spring. The sun is shining and the fields and garden are full of flowers for the animals and insects to eat. It's a lovely day. The bees are buzzing and the butterflies are flying in the sun. The ants, however, are working hard. The lazy grasshopper spends most of his time relaxing. He doesn't like to work. Today, he is resting against a tree when he hears a strange sound. He wants to find out what it is. He looks over the garden fence and finds an ant working. He asks the ant to play together, but the ant refuses because she has to work hard."
       },
       {
        "type": "mcq",
@@ -4738,7 +4873,8 @@
         "bees",
         "grasshoppers"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "It's spring. The sun is shining and the fields and garden are full of flowers for the animals and insects to eat. It's a lovely day. The bees are buzzing and the butterflies are flying in the sun. The ants, however, are working hard. The lazy grasshopper spends most of his time relaxing. He doesn't like to work. Today, he is resting against a tree when he hears a strange sound. He wants to find out what it is. He looks over the garden fence and finds an ant working. He asks the ant to play together, but the ant refuses because she has to work hard."
       }
      ]
     }
@@ -4849,7 +4985,8 @@
         "dogs",
         "donkeys"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Mona and her family went to Giza last week. They went in her father's car. They arrived at Giza at nine in the morning. They had breakfast, then they visited the Pyramids and the Sphinx. There were a lot of people there. Mona and her father rode on camels. It was amazing. They saw the three great Pyramids. They enjoyed there. They came back home in the evening."
       },
       {
        "type": "mcq",
@@ -4861,7 +4998,8 @@
         "train",
         "bike"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Mona and her family went to Giza last week. They went in her father's car. They arrived at Giza at nine in the morning. They had breakfast, then they visited the Pyramids and the Sphinx. There were a lot of people there. Mona and her father rode on camels. It was amazing. They saw the three great Pyramids. They enjoyed there. They came back home in the evening."
       },
       {
        "type": "typein",
@@ -4870,7 +5008,8 @@
         "Mona and her family",
         "Mona's family",
         "The family"
-       ]
+       ],
+       "passage": "Mona and her family went to Giza last week. They went in her father's car. They arrived at Giza at nine in the morning. They had breakfast, then they visited the Pyramids and the Sphinx. There were a lot of people there. Mona and her father rode on camels. It was amazing. They saw the three great Pyramids. They enjoyed there. They came back home in the evening."
       },
       {
        "type": "reorder",
@@ -4951,91 +5090,6 @@
      "sub": "من كتاب التقييمات (ص 62-63) · تصحيح فوري",
      "questions": [
       {
-       "type": "mcq",
-       "label": "choose",
-       "q": "Noor, Ahmed, and Farida were always looking for ways to __",
-       "options": [
-        "travel",
-        "play games",
-        "help",
-        "sleep"
-       ],
-       "answer": 2
-      },
-      {
-       "type": "mcq",
-       "label": "choose",
-       "q": "The tap in the school bathroom kept __ even when no one used it.",
-       "options": [
-        "shining",
-        "breaking",
-        "closing",
-        "dripping"
-       ],
-       "answer": 3
-      },
-      {
-       "type": "mcq",
-       "label": "choose",
-       "q": "Water overflowed from a broken __ in the garden.",
-       "options": [
-        "chair",
-        "window",
-        "pipe",
-        "door"
-       ],
-       "answer": 2
-      },
-      {
-       "type": "mcq",
-       "label": "choose",
-       "q": "Noor thought the water drops were too __ to waste.",
-       "options": [
-        "precious",
-        "funny",
-        "hot",
-        "heavy"
-       ],
-       "answer": 0
-      },
-      {
-       "type": "mcq",
-       "label": "choose",
-       "q": "Farida wanted them to be __",
-       "options": [
-        "Teachers",
-        "Gardeners",
-        "Plumber",
-        "Water Savers"
-       ],
-       "answer": 3
-      },
-      {
-       "type": "tf",
-       "q": "Noor, Ahmed, and Farida were lazy and never helped at school.",
-       "answer": false
-      },
-      {
-       "type": "tf",
-       "q": "A tap in the school bathroom kept dripping.",
-       "answer": true
-      },
-      {
-       "type": "tf",
-       "q": "The broken pipe made little puddles near the walkway.",
-       "answer": true
-      },
-      {
-       "type": "tf",
-       "q": "Ahmed didn't care about water and walked away.",
-       "answer": false
-      },
-      {
-       "type": "tf",
-       "q": "The teacher liked their idea and wanted to help.",
-       "answer": true
-      },
-      {
        "type": "reorder",
        "label": "order",
        "words": [
@@ -5062,7 +5116,8 @@
         "precious",
         "project"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: resources - dripping - project - puddles - precious\n\nIn the school, a tap was always (1) ____. Water overflowed from a broken pipe and made small (2) ____. Noor thought water was (3) too ____ to waste. Ahmed said they must take care of their (4) ____. They wanted to do a (5) ____ to help the school use water wisely."
       },
       {
        "type": "mcq",
@@ -5075,7 +5130,8 @@
         "resources",
         "dripping"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: resources - dripping - project - puddles - precious\n\nIn the school, a tap was always (1) ____. Water overflowed from a broken pipe and made small (2) ____. Noor thought water was (3) too ____ to waste. Ahmed said they must take care of their (4) ____. They wanted to do a (5) ____ to help the school use water wisely."
       },
       {
        "type": "mcq",
@@ -5088,7 +5144,8 @@
         "resources",
         "project"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: resources - dripping - project - puddles - precious\n\nIn the school, a tap was always (1) ____. Water overflowed from a broken pipe and made small (2) ____. Noor thought water was (3) too ____ to waste. Ahmed said they must take care of their (4) ____. They wanted to do a (5) ____ to help the school use water wisely."
       },
       {
        "type": "mcq",
@@ -5101,7 +5158,8 @@
         "project",
         "resources"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Words in the box: resources - dripping - project - puddles - precious\n\nIn the school, a tap was always (1) ____. Water overflowed from a broken pipe and made small (2) ____. Noor thought water was (3) too ____ to waste. Ahmed said they must take care of their (4) ____. They wanted to do a (5) ____ to help the school use water wisely."
       },
       {
        "type": "mcq",
@@ -5114,7 +5172,8 @@
         "dripping",
         "resources"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: resources - dripping - project - puddles - precious\n\nIn the school, a tap was always (1) ____. Water overflowed from a broken pipe and made small (2) ____. Noor thought water was (3) too ____ to waste. Ahmed said they must take care of their (4) ____. They wanted to do a (5) ____ to help the school use water wisely."
       }
      ]
     }
@@ -5131,91 +5190,6 @@
      "title": "المراجعة العامة على الجزء ٢",
      "sub": "من كتاب التقييمات (ص 66-67) · تصحيح فوري",
      "questions": [
-      {
-       "type": "mcq",
-       "label": "choose",
-       "q": "The three friends walked around the school with __",
-       "options": [
-        "food and water",
-        "a notebook, a camera, and curious eyes",
-        "toys and games",
-        "books and homework"
-       ],
-       "answer": 1
-      },
-      {
-       "type": "mcq",
-       "label": "choose",
-       "q": "Noor wrote down problems like __",
-       "options": [
-        "leaky taps and students leaving water running",
-        "teachers arriving late",
-        "students talking loudly",
-        "broken windows and dirty floors"
-       ],
-       "answer": 0
-      },
-      {
-       "type": "mcq",
-       "label": "choose",
-       "q": "Farida helped by making __ posters.",
-       "options": [
-        "small and boring",
-        "bright and cheerful",
-        "black and white",
-        "dark and scary"
-       ],
-       "answer": 1
-      },
-      {
-       "type": "mcq",
-       "label": "choose",
-       "q": "Mr. Youssef was the school __",
-       "options": [
-        "driver",
-        "cleaner",
-        "nurse",
-        "head teacher"
-       ],
-       "answer": 1
-      },
-      {
-       "type": "mcq",
-       "label": "choose",
-       "q": "At the end, the head teacher gave the children __",
-       "options": [
-        "new tablets",
-        "money",
-        "homework",
-        "certificates of achievement"
-       ],
-       "answer": 3
-      },
-      {
-       "type": "tf",
-       "q": "The friends used a notebook and a camera to find water problems at school.",
-       "answer": true
-      },
-      {
-       "type": "tf",
-       "q": "Ahmed drew the bright posters and Farida took photos.",
-       "answer": false
-      },
-      {
-       "type": "tf",
-       "q": "Mr. Youssef explained that a small drip can waste a lot of water every day.",
-       "answer": true
-      },
-      {
-       "type": "tf",
-       "q": "Some classmates were always kind and never said anything unkind to them.",
-       "answer": false
-      },
-      {
-       "type": "tf",
-       "q": "The school hung their posters in bathrooms, classrooms, and near garden taps.",
-       "answer": true
-      },
       {
        "type": "reorder",
        "label": "order",
@@ -5348,7 +5322,8 @@
         "tomb",
         "museum"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Words in the box: Ancient - museum - tomb - stories - discovered\n\nLast week, our class visited a history (1) ____ in Cairo. We learned about (2) ____ Egyptians and their kings. Our teacher told us how archaeologists (3) ____ the tomb of Tutankhamen in 1922. Inside the (4) ____, they found many treasures and beautiful objects. At the end of the visit, we listened to interesting (5) ____ about life in Ancient Egypt."
       },
       {
        "type": "mcq",
@@ -5361,7 +5336,8 @@
         "museum",
         "tomb"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Words in the box: Ancient - museum - tomb - stories - discovered\n\nLast week, our class visited a history (1) ____ in Cairo. We learned about (2) ____ Egyptians and their kings. Our teacher told us how archaeologists (3) ____ the tomb of Tutankhamen in 1922. Inside the (4) ____, they found many treasures and beautiful objects. At the end of the visit, we listened to interesting (5) ____ about life in Ancient Egypt."
       },
       {
        "type": "mcq",
@@ -5374,7 +5350,8 @@
         "stories",
         "tomb"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: Ancient - museum - tomb - stories - discovered\n\nLast week, our class visited a history (1) ____ in Cairo. We learned about (2) ____ Egyptians and their kings. Our teacher told us how archaeologists (3) ____ the tomb of Tutankhamen in 1922. Inside the (4) ____, they found many treasures and beautiful objects. At the end of the visit, we listened to interesting (5) ____ about life in Ancient Egypt."
       },
       {
        "type": "mcq",
@@ -5387,7 +5364,8 @@
         "museum",
         "stories"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: Ancient - museum - tomb - stories - discovered\n\nLast week, our class visited a history (1) ____ in Cairo. We learned about (2) ____ Egyptians and their kings. Our teacher told us how archaeologists (3) ____ the tomb of Tutankhamen in 1922. Inside the (4) ____, they found many treasures and beautiful objects. At the end of the visit, we listened to interesting (5) ____ about life in Ancient Egypt."
       },
       {
        "type": "mcq",
@@ -5400,7 +5378,8 @@
         "Ancient",
         "museum"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Words in the box: Ancient - museum - tomb - stories - discovered\n\nLast week, our class visited a history (1) ____ in Cairo. We learned about (2) ____ Egyptians and their kings. Our teacher told us how archaeologists (3) ____ the tomb of Tutankhamen in 1922. Inside the (4) ____, they found many treasures and beautiful objects. At the end of the visit, we listened to interesting (5) ____ about life in Ancient Egypt."
       },
       {
        "type": "mcq",
@@ -5412,7 +5391,8 @@
         "Wednesday",
         "Monday"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Today is Friday. It's a holiday for all people except my mother. It's a busy day. She stays home and does a lot of activities. We help her. She cleans up the apartment. She gives my father a grocery list. He goes to the supermarket to buy groceries. My sister chops vegetables and slices fruit. I feed the birds. We have lunch at home. In the evening, we watch TV."
       },
       {
        "type": "mcq",
@@ -5424,7 +5404,8 @@
         "slice",
         "watch"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Today is Friday. It's a holiday for all people except my mother. It's a busy day. She stays home and does a lot of activities. We help her. She cleans up the apartment. She gives my father a grocery list. He goes to the supermarket to buy groceries. My sister chops vegetables and slices fruit. I feed the birds. We have lunch at home. In the evening, we watch TV."
       },
       {
        "type": "typein",
@@ -5432,7 +5413,8 @@
        "answer": [
         "She chops vegetables and slices fruit",
         "Chops vegetables and slices fruit"
-       ]
+       ],
+       "passage": "Today is Friday. It's a holiday for all people except my mother. It's a busy day. She stays home and does a lot of activities. We help her. She cleans up the apartment. She gives my father a grocery list. He goes to the supermarket to buy groceries. My sister chops vegetables and slices fruit. I feed the birds. We have lunch at home. In the evening, we watch TV."
       },
       {
        "type": "typein",
@@ -5440,7 +5422,8 @@
        "answer": [
         "At home",
         "They have lunch at home"
-       ]
+       ],
+       "passage": "Today is Friday. It's a holiday for all people except my mother. It's a busy day. She stays home and does a lot of activities. We help her. She cleans up the apartment. She gives my father a grocery list. He goes to the supermarket to buy groceries. My sister chops vegetables and slices fruit. I feed the birds. We have lunch at home. In the evening, we watch TV."
       },
       {
        "type": "typein",
@@ -5450,7 +5433,8 @@
         "Her father",
         "Father",
         "My father"
-       ]
+       ],
+       "passage": "Today is Friday. It's a holiday for all people except my mother. It's a busy day. She stays home and does a lot of activities. We help her. She cleans up the apartment. She gives my father a grocery list. He goes to the supermarket to buy groceries. My sister chops vegetables and slices fruit. I feed the birds. We have lunch at home. In the evening, we watch TV."
       },
       {
        "type": "typein",
@@ -5601,7 +5585,8 @@
         "treasures",
         "desert"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: archaeologists - king - valley - treasures - desert\n\nTwo years ago, my family visited a famous (1) ____ in Egypt. Long ago, a great (2) ____ was buried there. Many years later, (3) ____ worked in the hot (4) ____ to find his tomb. Inside it, they saw beautiful (5) ____ made of gold and colored stones. Now many people visit the place to learn about Ancient Egypt."
       },
       {
        "type": "mcq",
@@ -5614,7 +5599,8 @@
         "archaeologists",
         "valley"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: archaeologists - king - valley - treasures - desert\n\nTwo years ago, my family visited a famous (1) ____ in Egypt. Long ago, a great (2) ____ was buried there. Many years later, (3) ____ worked in the hot (4) ____ to find his tomb. Inside it, they saw beautiful (5) ____ made of gold and colored stones. Now many people visit the place to learn about Ancient Egypt."
       },
       {
        "type": "mcq",
@@ -5627,7 +5613,8 @@
         "valley",
         "desert"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Words in the box: archaeologists - king - valley - treasures - desert\n\nTwo years ago, my family visited a famous (1) ____ in Egypt. Long ago, a great (2) ____ was buried there. Many years later, (3) ____ worked in the hot (4) ____ to find his tomb. Inside it, they saw beautiful (5) ____ made of gold and colored stones. Now many people visit the place to learn about Ancient Egypt."
       },
       {
        "type": "mcq",
@@ -5640,7 +5627,8 @@
         "archaeologists",
         "king"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Words in the box: archaeologists - king - valley - treasures - desert\n\nTwo years ago, my family visited a famous (1) ____ in Egypt. Long ago, a great (2) ____ was buried there. Many years later, (3) ____ worked in the hot (4) ____ to find his tomb. Inside it, they saw beautiful (5) ____ made of gold and colored stones. Now many people visit the place to learn about Ancient Egypt."
       },
       {
        "type": "mcq",
@@ -5653,7 +5641,8 @@
         "archaeologists",
         "treasures"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Words in the box: archaeologists - king - valley - treasures - desert\n\nTwo years ago, my family visited a famous (1) ____ in Egypt. Long ago, a great (2) ____ was buried there. Many years later, (3) ____ worked in the hot (4) ____ to find his tomb. Inside it, they saw beautiful (5) ____ made of gold and colored stones. Now many people visit the place to learn about Ancient Egypt."
       },
       {
        "type": "mcq",
@@ -5665,7 +5654,8 @@
         "Aswan",
         "Giza"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Hesham is my friend. Hesham is from Giza, but he lives in Cairo with his grandfather. He visits his family on Fridays. His father is a doctor and his mother is a teacher. Yesterday we went to the swimming pool because it was very hot. We are clever, so our teachers are happy."
       },
       {
        "type": "mcq",
@@ -5677,7 +5667,8 @@
         "brother",
         "sister"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Hesham is my friend. Hesham is from Giza, but he lives in Cairo with his grandfather. He visits his family on Fridays. His father is a doctor and his mother is a teacher. Yesterday we went to the swimming pool because it was very hot. We are clever, so our teachers are happy."
       },
       {
        "type": "typein",
@@ -5686,7 +5677,8 @@
         "In Cairo",
         "He lives in Cairo",
         "Cairo"
-       ]
+       ],
+       "passage": "Hesham is my friend. Hesham is from Giza, but he lives in Cairo with his grandfather. He visits his family on Fridays. His father is a doctor and his mother is a teacher. Yesterday we went to the swimming pool because it was very hot. We are clever, so our teachers are happy."
       },
       {
        "type": "typein",
@@ -5695,7 +5687,8 @@
         "In a hospital",
         "A hospital",
         "hospital"
-       ]
+       ],
+       "passage": "Hesham is my friend. Hesham is from Giza, but he lives in Cairo with his grandfather. He visits his family on Fridays. His father is a doctor and his mother is a teacher. Yesterday we went to the swimming pool because it was very hot. We are clever, so our teachers are happy."
       },
       {
        "type": "typein",
@@ -5703,7 +5696,8 @@
        "answer": [
         "Yesterday",
         "They went yesterday"
-       ]
+       ],
+       "passage": "Hesham is my friend. Hesham is from Giza, but he lives in Cairo with his grandfather. He visits his family on Fridays. His father is a doctor and his mother is a teacher. Yesterday we went to the swimming pool because it was very hot. We are clever, so our teachers are happy."
       },
       {
        "type": "reorder",
