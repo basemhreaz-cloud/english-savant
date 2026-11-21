@@ -1,0 +1,5889 @@
+{
+ "grade": "p5",
+ "gradeName": "الصف الخامس الابتدائي",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Food, Nature, and Culture",
+   "pages": "4-13",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Life Along The Nile"
+    },
+    {
+     "n": 2,
+     "title": "Food in the hot desert"
+    },
+    {
+     "n": 3,
+     "title": "The Giving tree"
+    },
+    {
+     "n": 4,
+     "title": "Let's make a recipe"
+    },
+    {
+     "n": 5,
+     "title": "A FLAYER"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Life Along The Nile",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 4-5)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Small fish eat __ in the Nile River.",
+       "options": [
+        "big fish",
+        "birds",
+        "water weeds",
+        "crocodiles"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ is called the king of the Nile.",
+       "options": [
+        "Fish",
+        "Crocodile",
+        "Insects",
+        "Birds"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The small fish in the Nile River are __",
+       "options": [
+        "very large",
+        "colorful",
+        "hunting crocodiles",
+        "scary"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Birds eat small fish, __ and even plants near the river.",
+       "options": [
+        "animals",
+        "water weeds",
+        "insects",
+        "crocodiles"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which of these animals is NOT living in or near the Nile River in Lesson 1?",
+       "options": [
+        "Crocodiles",
+        "Hippos",
+        "Birds",
+        "Small fish"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The ___ River is full of life!",
+       "options": [
+        "Nile",
+        "insects",
+        "hunt",
+        "crocodiles",
+        "water weeds"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "You can see large ___ that … fish and other animals.",
+       "options": [
+        "insects",
+        "Nile",
+        "hunt",
+        "water weeds",
+        "crocodiles"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "You can see large … that ___ fish and other animals.",
+       "options": [
+        "water weeds",
+        "crocodiles",
+        "hunt",
+        "Nile",
+        "insects"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Tiny ___ fly near the water, and small fish eat green ….",
+       "options": [
+        "insects",
+        "Nile",
+        "water weeds",
+        "crocodiles",
+        "hunt"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Tiny … fly near the water, and small fish eat green ___.",
+       "options": [
+        "Nile",
+        "crocodiles",
+        "hunt",
+        "water weeds",
+        "insects"
+       ],
+       "answer": 3
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Food in the hot desert",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 5-6)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Snakes eat small animals, like",
+       "answer": [
+        "mouse"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Camels eat",
+       "answer": [
+        "plants"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Insects give lizards",
+       "answer": [
+        "energy"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "To stay cool animals hide under",
+       "answer": [
+        "rocks"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Come out at night when it is cooler",
+       "answer": [
+        "owls"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I (never) eat breakfast before school because it gives me energy.",
+       "answer": [
+        "always"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She (sometimes) forgets her umbrella, so she gets wet in the rain.",
+       "answer": [
+        "often"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We (rarely) go to the park on weekends, almost every Saturday.",
+       "answer": [
+        "usually"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "He (often) plays video games; he prefers reading books.",
+       "answer": [
+        "rarely"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "They are (sometimes) tired after a long day at school.",
+       "answer": [
+        "always"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: The Giving tree",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 6-7)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Tom made crowns from __ when he was young.",
+       "options": [
+        "tree trunk",
+        "tree leaves",
+        "tree apples",
+        "tree branches"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Tom rested on hot days __",
+       "options": [
+        "inside the tree's trunk",
+        "on the tree's branches",
+        "in the shade of the tree",
+        "in the sun"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "\"Selfish\" means __",
+       "options": [
+        "Being kind",
+        "Caring for others only",
+        "Caring for oneself only",
+        "Being generous"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "In the word \"branches,\" what is the consonant cluster?",
+       "options": [
+        "-ch",
+        "br-",
+        "-es",
+        "-an"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word has the consonant cluster 'cr-'?",
+       "options": [
+        "Crops",
+        "Drink",
+        "Plant",
+        "Black"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The tree had a thick (leaf) that supported its branches.",
+       "answer": [
+        "trunk"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The king wore a beautiful (hat) made of gold.",
+       "answer": [
+        "crown"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "It's important to (ignore) your pets every day.",
+       "answer": [
+        "feed",
+        "care for"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "He was (kind) and didn't want to share his toys with anyone.",
+       "answer": [
+        "selfish"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We sat under the tree in the cool (sun) to escape the heat.",
+       "answer": [
+        "shade"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Let's make a recipe",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 10)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "My mom taught me a new ___ for Egyptian Koshari.",
+       "options": [
+        "delicious",
+        "recipe",
+        "flyer",
+        "selfish",
+        "ingredients"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "It's a ___ meal with many ….",
+       "options": [
+        "selfish",
+        "flyer",
+        "ingredients",
+        "recipe",
+        "delicious"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "It's a … meal with many ___.",
+       "options": [
+        "delicious",
+        "recipe",
+        "selfish",
+        "ingredients",
+        "flyer"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "We even made a colorful ___ to advertise our favorite restaurant, which serves the best Koshari in town!",
+       "options": [
+        "ingredients",
+        "recipe",
+        "flyer",
+        "delicious",
+        "selfish"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "It's important to share good food, not to be ___ with yummy dishes.",
+       "options": [
+        "flyer",
+        "recipe",
+        "ingredients",
+        "delicious",
+        "selfish"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My grandmother gave me her secret (story) for chocolate cake.",
+       "answer": [
+        "recipe"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The new pizza place handed out a (book) with their menu.",
+       "answer": [
+        "flyer"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The Nile River is home to many (rabbits).",
+       "answer": [
+        "fish"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Animals often (play) for food to survive in nature.",
+       "answer": [
+        "hunt"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "You can find many tiny (elephants) buzzing around flowers.",
+       "answer": [
+        "bees"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: A FLAYER",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 11-12)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "___ is a photo or drawing.",
+       "options": [
+        "A menu",
+        "A main heading",
+        "A sub",
+        "heading",
+        "A call to action",
+        "An image"
+       ],
+       "answer": 5
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "___ is the big title.",
+       "options": [
+        "A main heading",
+        "An image",
+        "A call to action",
+        "heading",
+        "A sub",
+        "A menu"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "___ is an invitation.",
+       "options": [
+        "A call to action",
+        "heading",
+        "A sub",
+        "A main heading",
+        "An image",
+        "A menu"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "q": "___ is the smaller title.",
+       "answer": [
+        "A sub-heading"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "___ attracts customers.",
+       "options": [
+        "A call to action",
+        "A main heading",
+        "heading",
+        "A menu",
+        "A sub",
+        "An image"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Koshari",
+        "Egyptian",
+        "meal",
+        "is",
+        "tasty",
+        "a"
+       ],
+       "answer": [
+        "Koshari",
+        "is",
+        "a",
+        "tasty",
+        "Egyptian",
+        "meal"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "First",
+        "cook",
+        "rice",
+        "you"
+       ],
+       "answer": [
+        "First",
+        "you",
+        "cook",
+        "rice"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "prepare",
+        "In",
+        "small",
+        "pasta",
+        "pot",
+        "another"
+       ],
+       "answer": [
+        "In",
+        "another",
+        "small",
+        "pot",
+        "prepare",
+        "pasta"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "water",
+        "Then",
+        "lentils",
+        "in",
+        "boil"
+       ],
+       "answer": [
+        "Then",
+        "boil",
+        "lentils",
+        "in",
+        "water"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "make",
+        "also",
+        "sauce",
+        "to",
+        "need",
+        "red",
+        "You"
+       ],
+       "answer": [
+        "You",
+        "also",
+        "need",
+        "to",
+        "make",
+        "red",
+        "sauce"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٣ · ص 8-9",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Ali is a very clever student. He (never) studies his lessons.",
+       "answer": [
+        "always"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We (never) wear heavy coats in winter because it is very cold.",
+       "answer": [
+        "always"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "A (cow) is the king of the Nile and has very sharp teeth.",
+       "answer": [
+        "crocodile"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٣ · ص 8-9",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "He (never) brushes his teeth because he wants them to stay white.",
+       "answer": [
+        "always"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The sun (sometimes) rises in the morning to give us light every day.",
+       "answer": [
+        "always"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The (sun) provides shade for people to sit under and stay cool.",
+       "answer": [
+        "tree"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٣ · ص 8-9",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "He (never) washes his my hands before eating. He wants to be clean.",
+       "answer": [
+        "always"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She (rarely) drinks water when she is thirsty.",
+       "answer": [
+        "always"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Insects) eat small animals like rats and lizards.",
+       "answer": [
+        "Snakes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa45A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٤ و٥ · ص 12-13",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "need",
+        "make",
+        "onions",
+        "crispy",
+        "You",
+        "to"
+       ],
+       "answer": [
+        "You",
+        "need",
+        "to",
+        "make",
+        "crispy",
+        "onions"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "flyer",
+        "is",
+        "What"
+       ],
+       "answer": [
+        "What",
+        "is",
+        "a",
+        "flyer"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "Add",
+        "pasta",
+        "top",
+        "and",
+        "lentils",
+        "on"
+       ],
+       "answer": [
+        "Add",
+        "pasta",
+        "and",
+        "lentils",
+        "on",
+        "the",
+        "top"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa45B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٤ و٥ · ص 12-13",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "First,",
+        "thin",
+        "cut",
+        "into",
+        "onions",
+        "slices"
+       ],
+       "answer": [
+        "First,",
+        "cut",
+        "onions",
+        "into",
+        "thin",
+        "slices"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Next,",
+        "in",
+        "fry",
+        "oil",
+        "onions"
+       ],
+       "answer": [
+        "Next,",
+        "fry",
+        "onions",
+        "in",
+        "oil"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Koshari",
+        "has",
+        "simple",
+        "ingredients",
+        "many"
+       ],
+       "answer": [
+        "Koshari",
+        "has",
+        "many",
+        "simple",
+        "ingredients"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa45C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٤ و٥ · ص 12-13",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "Then",
+        "chickpeas",
+        "some",
+        "add"
+       ],
+       "answer": [
+        "Then",
+        "add",
+        "some",
+        "chickpeas"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "it",
+        "Pour",
+        "the",
+        "all",
+        "over",
+        "red",
+        "sauce"
+       ],
+       "answer": [
+        "Pour",
+        "the",
+        "red",
+        "sauce",
+        "all",
+        "over",
+        "it"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "foods",
+        "Koshari",
+        "makes",
+        "mix",
+        "of",
+        "yummy",
+        "very",
+        "This"
+       ],
+       "answer": [
+        "This",
+        "mix",
+        "of",
+        "foods",
+        "makes",
+        "Koshari",
+        "very",
+        "yummy"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "My Healthy Body",
+   "pages": "14-22",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Sports for Better Health"
+    },
+    {
+     "n": 2,
+     "title": "My Habits: Then and Now"
+    },
+    {
+     "n": 3,
+     "title": "Heart and Blood"
+    },
+    {
+     "n": 4,
+     "title": "LIFE SAVERS IN ACTIONS"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create A poster"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Sports for Better Health",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 14-15)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ helps make our bodies strong.",
+       "options": [
+        "Traveling",
+        "Cooking",
+        "Swimming",
+        "Reading"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The __ help us breathe in oxygen.",
+       "options": [
+        "eyes",
+        "arms",
+        "lungs",
+        "legs"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Taking time to relax and sleep well is good for your __",
+       "options": [
+        "mental health",
+        "bicycle",
+        "washing machine",
+        "lunch box"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The __ beats to send blood around the body.",
+       "options": [
+        "stomach",
+        "heart",
+        "lungs",
+        "muscles"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Deep breathing and playing outside can reduce __",
+       "options": [
+        "stress",
+        "water",
+        "fun",
+        "price"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "healthy",
+        "us",
+        "stay",
+        "help",
+        "Sports"
+       ],
+       "answer": [
+        "Sports",
+        "help",
+        "us",
+        "stay",
+        "healthy"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Football",
+        "your",
+        "muscles",
+        "helps",
+        "grow"
+       ],
+       "answer": [
+        "Football",
+        "helps",
+        "your",
+        "muscles",
+        "grow"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "give",
+        "Eating",
+        "energy",
+        "us",
+        "fruits",
+        "more"
+       ],
+       "answer": [
+        "Eating",
+        "fruits",
+        "give",
+        "us",
+        "more",
+        "energy"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Exercise",
+        "lose",
+        "helps",
+        "weight",
+        "you"
+       ],
+       "answer": [
+        "Exercise",
+        "helps",
+        "you",
+        "lose",
+        "weight"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "swimming",
+        "the body",
+        "help",
+        "How",
+        "does"
+       ],
+       "answer": [
+        "How",
+        "does",
+        "swimming",
+        "help",
+        "the",
+        "body"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: My Habits: Then and Now",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 15-16)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Nadia will buy __ fruits for her grandmother.",
+       "options": [
+        "some",
+        "any",
+        "a",
+        "an"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My father likes to eat __ banana every day.",
+       "options": [
+        "a",
+        "an",
+        "any",
+        "some"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Eating __ egg for breakfast is good for your health.",
+       "options": [
+        "some",
+        "any",
+        "an",
+        "a"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "There aren't __ milk left in the fridge.",
+       "options": [
+        "any",
+        "some",
+        "a",
+        "an"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Do you have __ questions?",
+       "options": [
+        "any",
+        "some",
+        "a",
+        "an"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Sandra ate __ (a) orange last night.",
+       "answer": [
+        "an"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "He doesn't have __ (some) books in his bag.",
+       "answer": [
+        "any"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I saw __ (an) bird in the tree.",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Do you have __ (some) pictures for the party?",
+       "answer": [
+        "any"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She wants to become __ (an) doctor.",
+       "answer": [
+        "a"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Heart and Blood",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 16-17)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Blood carries __ and nutrients to every body cell.",
+       "options": [
+        "stress",
+        "oxygen",
+        "nerves",
+        "water"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ are tubes that carry blood through the body.",
+       "options": [
+        "Bones",
+        "Blood vessels",
+        "Lungs",
+        "Teeth"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Blood carries __ products like carbon dioxide.",
+       "options": [
+        "wooden",
+        "glasses",
+        "waste",
+        "plastic"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The heart is a strong __ that keeps us alive.",
+       "options": [
+        "muscle",
+        "tongue",
+        "tool",
+        "machine"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Take care of your heart by eating __ food.",
+       "options": [
+        "fatty",
+        "salty",
+        "hot",
+        "good"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The heart is a strong ___ in the human body.",
+       "options": [
+        "pump",
+        "carbon",
+        "organ",
+        "fist",
+        "vessels"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "It is about the size of a ___.",
+       "options": [
+        "fist",
+        "vessels",
+        "pump",
+        "carbon",
+        "organ"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The heart works like a ___ to send blood around the body.",
+       "options": [
+        "organ",
+        "pump",
+        "fist",
+        "carbon",
+        "vessels"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Blood moves through tubes called blood ___.",
+       "options": [
+        "fist",
+        "vessels",
+        "carbon",
+        "organ",
+        "pump"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "It also helps remove waste like ___ dioxide from the body.",
+       "options": [
+        "vessels",
+        "fist",
+        "carbon",
+        "organ",
+        "pump"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: LIFE SAVERS IN ACTIONS",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 20-21)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "1- ___ are people who give medicine to patient and explain how to use safely.",
+       "options": [
+        "Pharmacists",
+        "Diagnose",
+        "Hospital",
+        "Paramedics",
+        "Medicines"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "2- ___ give help on the spot and take patients safely to hospitals.",
+       "options": [
+        "Diagnose",
+        "Hospital",
+        "Pharmacists",
+        "Paramedics",
+        "Medicines"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "3- ___ a place where sick or injured people go to get medical help and treatment.",
+       "options": [
+        "Pharmacists",
+        "Diagnose",
+        "Paramedics",
+        "Medicines",
+        "Hospital"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "4- ___ means to find out what illness or problem someone has by examining him.",
+       "options": [
+        "Medicines",
+        "Hospital",
+        "Paramedics",
+        "Pharmacists",
+        "Diagnose"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "5- ___ are things people take to help them feel better when they are sick.",
+       "options": [
+        "Diagnose",
+        "Pharmacists",
+        "Paramedics",
+        "Medicines",
+        "Hospital"
+       ],
+       "answer": 3
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: Think and Create A poster",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 21-22)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "To stay healthy, you should wash your __ before and after eating.",
+       "options": [
+        "hands",
+        "legs",
+        "ears",
+        "eyes"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ helps you lose weight and makes your bones stronger.",
+       "options": [
+        "Sleep early",
+        "Exercise regularly",
+        "Brush teeth",
+        "Drink water"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Brush your teeth daily with __ to stay healthy.",
+       "options": [
+        "toothbrush",
+        "soap",
+        "salt",
+        "water"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Eating __ and vegetables give you important vitamins.",
+       "options": [
+        "fruits",
+        "cakes",
+        "rice",
+        "biscuits"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Children should __ to stay healthy and active.",
+       "options": [
+        "wake up late",
+        "eat late",
+        "drink soda",
+        "sleep early"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "It's (unhealthy) to exercise regularly.",
+       "answer": [
+        "healthy"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "It's good to sleep (late) and eat healrhy food.",
+       "answer": [
+        "early"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "You (shouldn't) drink enough water daily.",
+       "answer": [
+        "should"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Eating a lot of chips and drinks soda make you (fit).",
+       "answer": [
+        "unfit"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Eating sweets) make your heart strong.",
+       "answer": [
+        "Exercising",
+        "Exercise"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٣ · ص 18-19",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Playing sports helps in __",
+       "options": [
+        "improving health",
+        "sleeping all day",
+        "watching TV",
+        "eating more food"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The __ is NOT a type of sport.",
+       "options": [
+        "cooking",
+        "football",
+        "swimming",
+        "running"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "wa3B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٣ · ص 18-19",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Playing sports is benefit for __",
+       "options": [
+        "watching TV",
+        "reducing anxiety",
+        "gaining weight quickly",
+        "feeling tired all day"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which sport is mentioned in the passage?",
+       "options": [
+        "Volleyball",
+        "Golf",
+        "Swimming",
+        "Tennis"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "wa3C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٣ · ص 18-19",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Sports have a mental benefit for __",
+       "options": [
+        "boosting mood",
+        "sleeping more",
+        "gaining weight",
+        "watching TV"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Sports help improve __",
+       "options": [
+        "cooking and cleaning",
+        "physical strength and confidence",
+        "laziness and fear",
+        "anger and stress"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "When Nature Changes",
+   "pages": "23-32",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Weather wonders and warnings"
+    },
+    {
+     "n": 2,
+     "title": "Extreme weather in Ancient Egypt"
+    },
+    {
+     "n": 3,
+     "title": "The two frogs"
+    },
+    {
+     "n": 4,
+     "title": "Once upon my imagination"
+    },
+    {
+     "n": 5,
+     "title": "A COLLAGE"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Weather wonders and warnings",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 23-24)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ is a severe wind that carries sand and dust through the air, making it hard to breathe.",
+       "options": [
+        "Sandstorm",
+        "Thunderstorm",
+        "Flood",
+        "Heatwave"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ is a large amount of water covering dry land.",
+       "options": [
+        "Drought",
+        "Flood",
+        "Sandstorm",
+        "Wildfire"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A long time without rain is called a __",
+       "options": [
+        "wildfire",
+        "drought",
+        "thunderstorm",
+        "flood"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A __ burns through forests and homes.",
+       "options": [
+        "drought",
+        "flood",
+        "sandstorm",
+        "wildfire"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "In a thunderstorm, children might be afraid of __",
+       "options": [
+        "the heat",
+        "the lightning",
+        "the sand",
+        "the wind"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The sudden (sunlight) made a loud noise and flashed brightly.",
+       "answer": [
+        "lightning"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "After days of heavy rain, the river caused a big (drought) in the town.",
+       "answer": [
+        "flood"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "A (pond) spread quickly through the dry forest, burning many trees.",
+       "answer": [
+        "wildfire"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "During the (heatwave) the air was filled with dust and strong winds.",
+       "answer": [
+        "sandstorm"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We need to stay (dangerously) indoors when there's a big storm.",
+       "answer": [
+        "safe"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Extreme weather in Ancient Egypt",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 24-25)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "They built ___ to manage the Nile's ….",
+       "options": [
+        "canals",
+        "bricks",
+        "sandstorm",
+        "floodwater",
+        "irrigation"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "They built … to manage the Nile's ___.",
+       "options": [
+        "sandstorm",
+        "canals",
+        "bricks",
+        "floodwater",
+        "irrigation"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "When a drought made the river's water low, they used ___.",
+       "options": [
+        "bricks",
+        "sandstorm",
+        "floodwater",
+        "irrigation",
+        "canals"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "They also knew how to protect themselves from the strong winds and sand of a ___ by building homes with thick mud ….",
+       "options": [
+        "sandstorm",
+        "irrigation",
+        "floodwater",
+        "canals",
+        "bricks"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "They also knew how to protect themselves from the strong winds and sand of a … by building homes with thick mud ___.",
+       "options": [
+        "irrigation",
+        "bricks",
+        "floodwater",
+        "sandstorm",
+        "canals"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Yesterday, I (go) to the park with my friends.",
+       "answer": [
+        "went"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She (didn't ate) her dinner last night.",
+       "answer": [
+        "didn't eat"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Was) you see the sandstorm yesterday?",
+       "answer": [
+        "Did"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "They (was) at home when the flood happened.",
+       "answer": [
+        "were"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "What (do) you do during the heatwave?",
+       "answer": [
+        "did"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: The two frogs",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 25-27)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Where did the two best friend frogs live at the beginning of the story?",
+       "options": [
+        "In a deep well",
+        "In a river",
+        "In a large lake",
+        "In a small pond"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "What did the frogs enjoy doing in their home?",
+       "options": [
+        "Sleeping all day",
+        "Eating plants",
+        "Catching flies",
+        "Catching fish"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "What happened to the pond during the hot summer?",
+       "options": [
+        "It started to dry up",
+        "It became muddy",
+        "It overflowed",
+        "It froze"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "What does \"leaped\" mean in the story?",
+       "options": [
+        "To swim quickly",
+        "To hide quietly",
+        "To walk slowly",
+        "To jump high and far in one big movement"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "What is the main message or moral of \"The Two Frogs\" story?",
+       "options": [
+        "Always think before you act.",
+        "Frogs should live in wells.",
+        "Summer is a dangerous season.",
+        "It's important to be brave."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "lived",
+        "pond",
+        "Two",
+        "small",
+        "in",
+        "frogs"
+       ],
+       "answer": [
+        "Two",
+        "frogs",
+        "lived",
+        "in",
+        "a",
+        "small",
+        "pond"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "friends",
+        "best",
+        "They",
+        "were"
+       ],
+       "answer": [
+        "They",
+        "were",
+        "best",
+        "friends"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "started",
+        "pond",
+        "up",
+        "dry",
+        "The",
+        "to"
+       ],
+       "answer": [
+        "The",
+        "pond",
+        "started",
+        "to",
+        "dry",
+        "up"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "decided",
+        "look",
+        "for",
+        "new",
+        "They",
+        "a",
+        "to",
+        "home"
+       ],
+       "answer": [
+        "They",
+        "decided",
+        "to",
+        "look",
+        "for",
+        "a",
+        "new",
+        "home"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "saw",
+        "deep",
+        "They",
+        "well",
+        "a"
+       ],
+       "answer": [
+        "They",
+        "saw",
+        "a",
+        "deep",
+        "well"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Once upon my imagination",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 29-30)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "about",
+        "Unit 3",
+        "in",
+        "is",
+        "changes",
+        "nature"
+       ],
+       "answer": [
+        "Unit",
+        "3",
+        "is",
+        "about",
+        "changes",
+        "in",
+        "nature"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "What",
+        "a",
+        "in",
+        "is",
+        "moral",
+        "story",
+        "a"
+       ],
+       "answer": [
+        "What",
+        "is",
+        "a",
+        "moral",
+        "in",
+        "a",
+        "story"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "has",
+        "The",
+        "and",
+        "a setting",
+        "characters",
+        "story"
+       ],
+       "answer": [
+        "The",
+        "story",
+        "has",
+        "characters",
+        "and",
+        "a",
+        "setting"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "fiction",
+        "a",
+        "A",
+        "story",
+        "made-up"
+       ],
+       "answer": [
+        "A",
+        "fiction",
+        "is",
+        "a",
+        "made-up",
+        "story"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "We",
+        "about",
+        "must",
+        "weather",
+        "extreme",
+        "learn"
+       ],
+       "answer": [
+        "We",
+        "must",
+        "learn",
+        "about",
+        "extreme",
+        "weather"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The Ancient Egyptians (build) canals to control the water.",
+       "answer": [
+        "built"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Farmers (can't) grow crops because there was no rain.",
+       "answer": [
+        "couldn't"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The Nile River (flood) every year in the past.",
+       "answer": [
+        "flooded"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The small (ocean) in the garden was home to many frogs.",
+       "answer": [
+        "pond"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The frogs decided to (walk) across the field to find a new home.",
+       "answer": [
+        "hop",
+        "leap"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: A COLLAGE",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 30-31)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The \"beginning\" in a fiction story is usually about:",
+       "options": [
+        "Introducing characters and setting",
+        "The problem or challenge",
+        "Solving the problem",
+        "The most exciting part"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The \"climax\" of a story is:",
+       "options": [
+        "The end of the story",
+        "When the problem is solved",
+        "The introduction of characters",
+        "The most exciting part"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A \"drought\" is:",
+       "options": [
+        "A period of heavy rain",
+        "A strong wind",
+        "A long period of no rain",
+        "A sudden flood"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The vowel digraph in \"leap\" is:",
+       "options": [
+        "\"oa\"",
+        "\"oo\"",
+        "\"ee\"",
+        "\"ea\""
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which of these is NOT a type of extreme weather discussed in Unit 3?",
+       "options": [
+        "Wildfire",
+        "Blizzard",
+        "Drought",
+        "Heatwave"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Last week, a terrible ___ hit our town, with loud lightning and heavy rain.",
+       "options": [
+        "thunderstorm",
+        "safely",
+        "scary",
+        "wildfire",
+        "flood"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The streets quickly filled with water, causing a ___.",
+       "options": [
+        "wildfire",
+        "thunderstorm",
+        "safely",
+        "flood",
+        "scary"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "We also heard about a spreading ___ in a forest far away, which was very ….",
+       "options": [
+        "flood",
+        "safely",
+        "thunderstorm",
+        "wildfire",
+        "scary"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "We also heard about a spreading … in a forest far away, which was very ___.",
+       "options": [
+        "flood",
+        "thunderstorm",
+        "safely",
+        "wildfire",
+        "scary"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "It's important to know about these extreme weather events to stay ___ indoors.",
+       "options": [
+        "flood",
+        "thunderstorm",
+        "scary",
+        "safely",
+        "wildfire"
+       ],
+       "answer": 3
+      }
+     ]
+    },
+    {
+     "id": "wa3A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٣ · ص 27-28",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Mazen's uncle's house was (built) by the flood.",
+       "answer": [
+        "destroyed"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Drought) spreads quickly in a dry forest with strong winds.",
+       "answer": [
+        "Wildfire"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The Nile River floods brought (sand) to the land that helped crops to grow.",
+       "answer": [
+        "silt",
+        "fertile soil",
+        "soil"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٣ · ص 27-28",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The Ancient Egyptians built (large boats) to control the Nile's water.",
+       "answer": [
+        "canals"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "During a heatwave the temperature is (low) for days.",
+       "answer": [
+        "high"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The two frogs (flew) through fields and grass.",
+       "answer": [
+        "hopped",
+        "leaped",
+        "walked"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٣ · ص 27-28",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The Nile's water during droughts in Ancient Egypt became (salty).",
+       "answer": [
+        "low"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "One of the frogs suggested a (big river) as a new home.",
+       "answer": [
+        "deep well",
+        "a deep well",
+        "well"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa5A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٥ · ص 32",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "They found a deep (sea) where they hoped to find water.",
+       "answer": [
+        "well"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The village was very (noisy) at night, with no sounds.",
+       "answer": [
+        "quiet"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "They (didn't wanted) to live in the well.",
+       "answer": [
+        "didn't want"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa5B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٥ · ص 32",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Birds) are small insects with thin wings that buzz around.",
+       "answer": [
+        "Bees"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The Ancient Egyptians built canals to control the Nile's (drought) water.",
+       "answer": [
+        "canals"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Yesterday, I (go) to the park with my friends.",
+       "answer": [
+        "went"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa5C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٥ · ص 32",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "During a (heatwave) the land becomes very dry.",
+       "answer": [
+        "drought"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The (thunderstorm) brought strong, hot winds and sand.",
+       "answer": [
+        "sandstorm"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "What (do) the Ancient Egyptians do when the river flooded?",
+       "answer": [
+        "did"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "My Community",
+   "pages": "36-45",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Places in Our Community"
+    },
+    {
+     "n": 2,
+     "title": "Egyptian Villages"
+    },
+    {
+     "n": 3,
+     "title": "Multiply it with Words!"
+    },
+    {
+     "n": 4,
+     "title": "The New Administrative Capital"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create Research"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Places in Our Community",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 36-37)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "You can buy fresh bread and cakes from the __",
+       "options": [
+        "theme park",
+        "restaurant",
+        "bakery",
+        "coffee shop"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "He trains three times a week at the fitness __",
+       "options": [
+        "club",
+        "coffee shop",
+        "bakery",
+        "Theme park"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Our family had dinner together at a nice Italian __",
+       "options": [
+        "bakery",
+        "supermarket",
+        "restaurant",
+        "coffee shop"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The kids had fun on the water rides at the __",
+       "options": [
+        "theme park",
+        "restaurant",
+        "coffee shop",
+        "bakery"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "You can go to the __ to buy groceries.",
+       "options": [
+        "supermarket",
+        "bakery",
+        "theme park",
+        "club"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Yesterday, I went to the ___ to buy some bread, then visited a … for a cup of tea.",
+       "options": [
+        "supermarket",
+        "restaurant",
+        "club",
+        "coffee shop",
+        "bakery"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Yesterday, I went to the … to buy some bread, then visited a ___ for a cup of tea.",
+       "options": [
+        "supermarket",
+        "restaurant",
+        "club",
+        "bakery",
+        "coffee shop"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "In the evening, my friends and I met at a sports ___ and later we had dinner at a nice … near the ….",
+       "options": [
+        "club",
+        "restaurant",
+        "coffee shop",
+        "supermarket",
+        "bakery"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "In the evening, my friends and I met at a sports … and later we had dinner at a nice ___ near the ….",
+       "options": [
+        "bakery",
+        "restaurant",
+        "supermarket",
+        "coffee shop",
+        "club"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "In the evening, my friends and I met at a sports … and later we had dinner at a nice … near the ___.",
+       "options": [
+        "restaurant",
+        "bakery",
+        "club",
+        "supermarket",
+        "coffee shop"
+       ],
+       "answer": 3
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Egyptian Villages",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 37-38)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Hany was born __ April.",
+       "options": [
+        "for",
+        "in",
+        "at",
+        "on"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The shop closes __ midnight.",
+       "options": [
+        "for",
+        "at",
+        "in",
+        "on"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We have a picnic __ Sundays.",
+       "options": [
+        "at",
+        "on",
+        "for",
+        "in"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I learned to swim __ the summer.",
+       "options": [
+        "in",
+        "at",
+        "for",
+        "on"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The bell rings __ 7:30 a.m.",
+       "options": [
+        "in",
+        "for",
+        "at",
+        "on"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We always have lunch __(on) the afternoon.",
+       "answer": [
+        "in"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The meeting will start __(on) 9 o'clock.",
+       "answer": [
+        "at"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She was born __(on) March.",
+       "answer": [
+        "in"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We will travel __(at) the 15th of August.",
+       "answer": [
+        "on"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My family moved to this city __(on) 2010.",
+       "answer": [
+        "in"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Multiply it with Words!",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 38-39)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "ca__",
+       "answer": [
+        "tch"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "e__",
+       "answer": [
+        "dge"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "bri__",
+       "answer": [
+        "dge"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "br__t",
+       "answer": [
+        "igh"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "h__",
+       "answer": [
+        "igh"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "L________t",
+       "answer": [
+        "igh"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "Ma________",
+       "answer": [
+        "tch"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "Ba___________",
+       "answer": [
+        "dge"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "Fl_______t",
+       "answer": [
+        "igh"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: The New Administrative Capital",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 41-42)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The New Administrative Capital will help __ in Cairo by moving many services outside the city.",
+       "options": [
+        "increase traffic",
+        "cause flooding",
+        "block roads",
+        "reduce crowding"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The city is designed as a__ place with advanced technology and modern systems.",
+       "options": [
+        "unsafe",
+        "very smart",
+        "poorly planned",
+        "very old"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Many ministries and __ will be relocated to the New Administrative Capital.",
+       "options": [
+        "government offices",
+        "farms",
+        "football stadiums",
+        "beaches"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The tallest building in Africa, the __ will be a landmark in the New Administrative Capital.",
+       "options": [
+        "Clock Tower",
+        "Icon Tower",
+        "Eiffel Tower",
+        "Leaning Tower"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The new city's bridges and skyscrapers are built with strong __ to ensure safety and durability.",
+       "options": [
+        "steel",
+        "glass",
+        "clay",
+        "wood"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The New Administrative ___ is a very smart city designed for the future.",
+       "options": [
+        "Icon Tower",
+        "reducing crowding",
+        "steel",
+        "government",
+        "Capital"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "It helps in ___ in Cairo.",
+       "options": [
+        "steel",
+        "reducing crowding",
+        "Capital",
+        "government",
+        "Icon Tower"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Many ___ offices will move there.",
+       "options": [
+        "government",
+        "Icon Tower",
+        "Capital",
+        "reducing crowding",
+        "steel"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The famous ___ will be built using strong ….",
+       "options": [
+        "steel",
+        "Capital",
+        "government",
+        "reducing crowding",
+        "Icon Tower"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The famous … will be built using strong ___.",
+       "options": [
+        "steel",
+        "Icon Tower",
+        "Capital",
+        "reducing crowding",
+        "government"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: Think and Create Research",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 42-43)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "green",
+        "and fresh air",
+        "fields",
+        "have",
+        "Most villages"
+       ],
+       "answer": [
+        "Most",
+        "villages",
+        "have",
+        "green",
+        "fields",
+        "and",
+        "fresh",
+        "air"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "busy",
+        "and",
+        "are often",
+        "Cities",
+        "full of people"
+       ],
+       "answer": [
+        "Cities",
+        "are",
+        "often",
+        "busy",
+        "and",
+        "full",
+        "of",
+        "people"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "The capital",
+        "Cairo",
+        "is",
+        "of Egypt"
+       ],
+       "answer": [
+        "The",
+        "capital",
+        "of",
+        "Egypt",
+        "is",
+        "Cairo"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "calm",
+        "is",
+        "in a village",
+        "Life",
+        "and peaceful"
+       ],
+       "answer": [
+        "Life",
+        "in",
+        "a",
+        "village",
+        "is",
+        "calm",
+        "and",
+        "peaceful"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "easier",
+        "a city",
+        "Public transport",
+        "in",
+        "makes travel"
+       ],
+       "answer": [
+        "Public",
+        "transport",
+        "in",
+        "a",
+        "city",
+        "makes",
+        "travel",
+        "easier"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The city is a large ___ with many places to visit.",
+       "options": [
+        "restaurant",
+        "supermarket",
+        "square",
+        "have fun",
+        "community"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "People shop at the local ___.",
+       "options": [
+        "community",
+        "square",
+        "have fun",
+        "restaurant",
+        "supermarket"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The main ___ is always busy.",
+       "options": [
+        "have fun",
+        "square",
+        "community",
+        "supermarket",
+        "restaurant"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "You can eat at a ___ or simply … with friends.",
+       "options": [
+        "supermarket",
+        "square",
+        "have fun",
+        "community",
+        "restaurant"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "You can eat at a … or simply ___ with friends.",
+       "options": [
+        "restaurant",
+        "have fun",
+        "community",
+        "supermarket",
+        "square"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "wa3A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٣ · ص 39-40",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The (theme park)__ sells fresh bread every morning.",
+       "answer": [
+        "bakery"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The (coffee shop)__ serves delicious pasta dishes.",
+       "answer": [
+        "restaurant"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We will meet (for)__ 5 o'clock.",
+       "answer": [
+        "at"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٣ · ص 39-40",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We joined a sports (bakery)__ in our town.",
+       "answer": [
+        "club"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The (theme park)__ smells sweet and warm.",
+       "answer": [
+        "bakery"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She was born (at)__ July.",
+       "answer": [
+        "in"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٣ · ص 39-40",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I love buying cakes from the (theme park)__.",
+       "answer": [
+        "bakery"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "They went on vacation (at)__ Monday.",
+       "answer": [
+        "on"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We have lunch at a small (bakery)__.",
+       "answer": [
+        "restaurant"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa5A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٥ · ص 43-45",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The village surrounds with __",
+       "options": [
+        "deserts",
+        "tall buildings",
+        "mountains of ice",
+        "green hills and flowers"
+       ],
+       "answer": 3
+      }
+     ]
+    },
+    {
+     "id": "wa5B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٥ · ص 43-45",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The city is full of __",
+       "options": [
+        "farms",
+        "tall buildings",
+        "small huts",
+        "fields"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "People travel by __ in the city.",
+       "options": [
+        "horses and carts",
+        "only walking",
+        "boat",
+        "cars, buses, and trains"
+       ],
+       "answer": 3
+      }
+     ]
+    },
+    {
+     "id": "wa5C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٥ · ص 43-45",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The Administrative New Capital was build to __",
+       "options": [
+        "increase tourism only",
+        "replace Alexandria",
+        "reduce crowding in Cairo",
+        "build more farms"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The Iconic Tower is __",
+       "options": [
+        "a shopping mall",
+        "a school",
+        "a park",
+        "a landmark"
+       ],
+       "answer": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "Our World, Our Resources",
+   "pages": "46-55",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "The gifts of nature"
+    },
+    {
+     "n": 2,
+     "title": "Metals and minerals in our world"
+    },
+    {
+     "n": 3,
+     "title": "Just watch! - A story by the little digger"
+    },
+    {
+     "n": 4,
+     "title": "Who Am I"
+    },
+    {
+     "n": 5,
+     "title": "A poster"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: The gifts of nature",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 46)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The (river)__ is Egypt's most important water source.",
+       "answer": [
+        "The Nile",
+        "Nile",
+        "Nile River",
+        "river"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Water)__ and natural gas are fossil fuels used for energy.",
+       "answer": [
+        "Oil"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Farmers grow (gold)__ in the fertile land along the Nile.",
+       "answer": [
+        "cotton",
+        "wheat",
+        "crops"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The sun provides (wind)__ which is essential for plants.",
+       "answer": [
+        "sunlight"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We need to protect our (buildings)__ for the future.",
+       "answer": [
+        "natural resources",
+        "resources",
+        "environment"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Metals and minerals in our world",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 47-48)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Precious mineral resources like gold and copper found __",
+       "options": [
+        "on trees",
+        "in rivers",
+        "under the earth",
+        "in the sky"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ is soft, shiny, and easy to shape, often used for coins and jewelry.",
+       "options": [
+        "Diamond",
+        "Iron",
+        "Copper",
+        "Gold"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ is even more valuable than gold.",
+       "options": [
+        "Iron",
+        "Copper",
+        "Silver",
+        "Diamond"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Copper is a strong metal used for __",
+       "options": [
+        "electrical wires",
+        "bridges",
+        "jewelry",
+        "cars"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "What is iron mainly used to make because of its super strength?",
+       "options": [
+        "Necklaces",
+        "Electrical wires",
+        "Coins",
+        "Cars, and bridges"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Gold is (more cheap)__ than diamond.",
+       "answer": [
+        "cheaper"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "This book is (more good)__ than the movie.",
+       "answer": [
+        "better"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My new phone is (expensiver)__ than my old one.",
+       "answer": [
+        "more expensive"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The lion is (more strong)__ than the fox.",
+       "answer": [
+        "stronger"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She is (more happy)__ today than yesterday.",
+       "answer": [
+        "happier"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Just watch! - A story by the little digger",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 49)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The little ___ watched the big ship get stuck in the thick mud while trying to … its ….",
+       "options": [
+        "give up",
+        "cargo",
+        "load",
+        "Digger",
+        "path"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The little … watched the big ship get stuck in the thick mud while trying to ___ its ….",
+       "options": [
+        "path",
+        "load",
+        "give up",
+        "Digger",
+        "cargo"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The little … watched the big ship get stuck in the thick mud while trying to … its ___.",
+       "options": [
+        "cargo",
+        "path",
+        "Digger",
+        "give up",
+        "load"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The small digger didn't ___ and worked hard, clearing a … around the ship.",
+       "options": [
+        "path",
+        "cargo",
+        "Digger",
+        "give up",
+        "load"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The small digger didn't … and worked hard, clearing a ___ around the ship.",
+       "options": [
+        "load",
+        "cargo",
+        "give up",
+        "Digger",
+        "path"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "digger",
+        "watched",
+        "ship",
+        "big",
+        "The",
+        "little",
+        "the"
+       ],
+       "answer": [
+        "The",
+        "little",
+        "digger",
+        "watched",
+        "the",
+        "big",
+        "ship"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "thick",
+        "got",
+        "stuck",
+        "the",
+        "in",
+        "mud",
+        "ship",
+        "The"
+       ],
+       "answer": [
+        "The",
+        "ship",
+        "got",
+        "stuck",
+        "in",
+        "the",
+        "thick",
+        "mud"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "machines",
+        "to",
+        "tried",
+        "help",
+        "Other"
+       ],
+       "answer": [
+        "Other",
+        "machines",
+        "tried",
+        "to",
+        "help"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "gave",
+        "But",
+        "they",
+        "up"
+       ],
+       "answer": [
+        "But",
+        "they",
+        "gave",
+        "up"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "digger",
+        "a",
+        "path",
+        "the",
+        "little",
+        "Did",
+        "clear"
+       ],
+       "answer": [
+        "Did",
+        "the",
+        "little",
+        "digger",
+        "clear",
+        "a",
+        "path"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Who Am I",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 52-53)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The (sand)__ in the garden is rich and good for growing vegetables.",
+       "answer": [
+        "soil"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Minerals)__ powers our homes and many machines.",
+       "answer": [
+        "Electricity"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Trees)__ can be used to generate clean energy.",
+       "answer": [
+        "Wind",
+        "Wind energy"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Is this test (more bad)__ than the last one?",
+       "answer": [
+        "worse"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "He runs (more fast)__ than his brother.",
+       "answer": [
+        "faster"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "life",
+        "for",
+        "is",
+        "Water",
+        "essential"
+       ],
+       "answer": [
+        "Water",
+        "is",
+        "essential",
+        "for",
+        "life"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "shape",
+        "has",
+        "It",
+        "no"
+       ],
+       "answer": [
+        "It",
+        "has",
+        "no",
+        "shape"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "and",
+        "clean",
+        "cool",
+        "can",
+        "grow",
+        "things",
+        "Water"
+       ],
+       "answer": [
+        "Water",
+        "can",
+        "cool",
+        "clean",
+        "and",
+        "grow",
+        "things"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "animals",
+        "People",
+        "and",
+        "need",
+        "plants",
+        "water"
+       ],
+       "answer": [
+        "People",
+        "animals",
+        "and",
+        "plants",
+        "need",
+        "water"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "always",
+        "part",
+        "is",
+        "of",
+        "greater",
+        "It",
+        "something"
+       ],
+       "answer": [
+        "It",
+        "is",
+        "always",
+        "part",
+        "of",
+        "something",
+        "greater"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: A poster",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 53-54)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Deep under the earth, we discover valuable ___.",
+       "options": [
+        "wisely",
+        "valuable",
+        "mineral resources",
+        "renewable",
+        "electricity",
+        "non"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Gold is used for beautiful jewelry, while diamond is even more ___.",
+       "options": [
+        "wisely",
+        "electricity",
+        "non",
+        "valuable",
+        "mineral resources",
+        "renewable"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Copper helps carry ___, and iron is super strong for buildings.",
+       "options": [
+        "valuable",
+        "renewable",
+        "non",
+        "electricity",
+        "mineral resources",
+        "wisely"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "typein",
+       "q": "Since these minerals are ___ and take millions of years to form, we must use them … and avoid waste.",
+       "answer": [
+        "non-renewable"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Since these minerals are … and take millions of years to form, we must use them ___ and avoid waste.",
+       "options": [
+        "wisely",
+        "valuable",
+        "mineral resources",
+        "non",
+        "electricity",
+        "renewable"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "We",
+        "resources",
+        "must",
+        "natural",
+        "protect",
+        "our"
+       ],
+       "answer": [
+        "We",
+        "must",
+        "protect",
+        "our",
+        "natural",
+        "resources"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "get",
+        "do",
+        "minerals",
+        "we",
+        "How"
+       ],
+       "answer": [
+        "How",
+        "do",
+        "we",
+        "get",
+        "minerals"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "about",
+        "What",
+        "is",
+        "little",
+        "the",
+        "story",
+        "digger"
+       ],
+       "answer": [
+        "What",
+        "is",
+        "the",
+        "little",
+        "digger",
+        "story",
+        "about"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "shape",
+        "world",
+        "How",
+        "water",
+        "can",
+        "the"
+       ],
+       "answer": [
+        "How",
+        "can",
+        "water",
+        "shape",
+        "the",
+        "world"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "What",
+        "you",
+        "story",
+        "learn",
+        "did",
+        "from"
+       ],
+       "answer": [
+        "What",
+        "did",
+        "you",
+        "learn",
+        "from",
+        "the",
+        "story"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٣ · ص 50-51",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Cotton is a natural resource used to make (jewelry)__.",
+       "answer": [
+        "clothes",
+        "fabric"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Sandy)__ land helps us grow food along the Nile.",
+       "answer": [
+        "Fertile"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The big ship got stuck in the thick, heavy (rock)__.",
+       "answer": [
+        "mud"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٣ · ص 50-51",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The (moon)__ provides sunlight, which is important for life.",
+       "answer": [
+        "sun"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The big ship trying to load (air)__ when it got stuck.",
+       "answer": [
+        "cargo"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Wind)__ is essential for drinking and farming.",
+       "answer": [
+        "Water"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٣ · ص 50-51",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Wheat)__ is a mineral found in Egypt's desert.",
+       "answer": [
+        "Gold",
+        "Copper",
+        "gold"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Give up means to (try harder)__.",
+       "answer": [
+        "stop trying",
+        "quit"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Oil and natural gas are used to make (food)__.",
+       "answer": [
+        "fuel",
+        "electricity",
+        "fuel and electricity"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa5A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٥ · ص 55",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Egypt has many important ___.",
+       "options": [
+        "water",
+        "fertile",
+        "minerals",
+        "natural gas",
+        "natural resources"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The Nile River is a vital ___ source, and our … land helps grow cotton.",
+       "options": [
+        "natural gas",
+        "natural resources",
+        "minerals",
+        "water",
+        "fertile"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The Nile River is a vital … source, and our ___ land helps grow cotton.",
+       "options": [
+        "natural resources",
+        "fertile",
+        "water",
+        "natural gas",
+        "minerals"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "We also find oil and ___ underground, which provide electricity.",
+       "options": [
+        "water",
+        "minerals",
+        "natural gas",
+        "fertile",
+        "natural resources"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "These gifts from nature, including various ___ like gold, they are essential for our country's development and future.",
+       "options": [
+        "natural gas",
+        "minerals",
+        "fertile",
+        "water",
+        "natural resources"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "wa5B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٥ · ص 55",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Deep ___, we discover valuable mineral resources.",
+       "options": [
+        "non",
+        "renewable",
+        "under the earth",
+        "wisely",
+        "Gold",
+        "iron"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "___ is used for beautiful jewelry, while diamond is even more valuable.",
+       "options": [
+        "renewable",
+        "Gold",
+        "iron",
+        "non",
+        "wisely",
+        "under the earth"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Copper helps carry electricity, and ___ is super strong for buildings.",
+       "options": [
+        "wisely",
+        "renewable",
+        "non",
+        "under the earth",
+        "Gold",
+        "iron"
+       ],
+       "answer": 5
+      },
+      {
+       "type": "typein",
+       "q": "Since these minerals are ___ and take millions of years to form, we must use them … and avoid waste.",
+       "answer": [
+        "non-renewable"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Since these minerals are … and take millions of years to form, we must use them ___ and avoid waste.",
+       "options": [
+        "iron",
+        "under the earth",
+        "wisely",
+        "non",
+        "renewable",
+        "Gold"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "wa5C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٥ · ص 55",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "The little ___ watched the big … get stuck in the thick mud while trying to load its ….",
+       "answer": [
+        "Digger"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "The little … watched the big ___ get stuck in the thick mud while trying to load its ….",
+       "answer": [
+        "load"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The little … watched the big … get stuck in the thick mud while trying to load its ___.",
+       "options": [
+        "path",
+        "ship",
+        "give up",
+        "cargo",
+        "digger"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Other machines tried to help but had to ___.",
+       "options": [
+        "path",
+        "give up",
+        "ship",
+        "digger",
+        "cargo"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The small digger didn't give up and worked hard, clearing a ___ around the ship.",
+       "options": [
+        "digger",
+        "give up",
+        "ship",
+        "cargo",
+        "path"
+       ],
+       "answer": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "The Talking Earth",
+   "pages": "56-61",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "The talking Earth"
+    },
+    {
+     "n": 2,
+     "title": "Egyptian Villages"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: The talking Earth",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 57-58)",
+     "questions": [
+      {
+       "type": "reorder",
+       "label": "order",
+       "words": [
+        "Billie Wind told the elders of her tribe that she did not believe that the Earth could talk.",
+        "Billie learned how to catch fish, make a fire, and find shelter, just like the animals did.",
+        "Billie packed her canoe and went into the Everglades, not sure what she might find.",
+        "Billie learned that everything in nature was connected, and if people did not take care of it, the balance would be broken.",
+        "Billie struggled to survive in the Everglades.",
+        "Billie watched the animals closely and saw how they survived."
+       ],
+       "answer": [
+        "Billie Wind told the elders of her tribe that she did not believe that the Earth could talk.",
+        "Billie packed her canoe and went into the Everglades, not sure what she might find.",
+        "Billie struggled to survive in the Everglades.",
+        "Billie watched the animals closely and saw how they survived.",
+        "Billie learned how to catch fish, make a fire, and find shelter, just like the animals did.",
+        "Billie learned that everything in nature was connected, and if people did not take care of it, the balance would be broken."
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Billie Wind was a young Native __ girl who lived in Florida.",
+       "options": [
+        "Italian",
+        "American",
+        "French",
+        "Egyptian"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The tribe's elders were __ when Billie shared her opinion.",
+       "options": [
+        "afraid",
+        "excited",
+        "happy",
+        "disappointed"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Billie's family believed that the __ could \"talk\"",
+       "options": [
+        "building",
+        "machine",
+        "earth",
+        "boat"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The elders sent Billie to __",
+       "options": [
+        "Everglades",
+        "China",
+        "Turkey",
+        "Paris"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Egyptian Villages",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 60)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Billie loved (Arabic)__ and dreamed of becoming a scientist.",
+       "answer": [
+        "science"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Billie's family believed that Earth can (sleep)__.",
+       "answer": [
+        "talk"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The (rabbits)__ hid in their shells when dangers was near.",
+       "answer": [
+        "turtles"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The (sea)__ was full of strange sounds.",
+       "answer": [
+        "swamp"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Billie struggled to (escape)__ in the Everglades.",
+       "answer": [
+        "survive"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Billie watched the ___ closely and saw how they ….",
+       "options": [
+        "animals",
+        "survived",
+        "alligators",
+        "shells",
+        "attack"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Billie watched the … closely and saw how they ___.",
+       "options": [
+        "shells",
+        "animals",
+        "attack",
+        "survived",
+        "alligators"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The ___ waited patiently for their food instead of wasting energy.",
+       "options": [
+        "alligators",
+        "shells",
+        "survived",
+        "animals",
+        "attack"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The turtles hid in their ___ when danger was near.",
+       "options": [
+        "attack",
+        "survived",
+        "animals",
+        "alligators",
+        "shells"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The birds warned each other when an animal came to ___.",
+       "options": [
+        "survived",
+        "alligators",
+        "attack",
+        "animals",
+        "shells"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "wa2A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٢ · ص 61",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "A young ___ studied the changes happening on our planet.",
+       "options": [
+        "scientist",
+        "disappointed",
+        "survive",
+        "earth"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "She learned that the ___ is getting warmer every year.",
+       "options": [
+        "scientist",
+        "disappointed",
+        "earth",
+        "survive"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "She felt ___ because people are not protecting nature.",
+       "options": [
+        "survive",
+        "scientist",
+        "disappointed",
+        "earth"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "She hoped that all animals could ___ and live safely in their homes.",
+       "options": [
+        "disappointed",
+        "earth",
+        "survive",
+        "scientist"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "wa2B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٢ · ص 61",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The ___ worked hard to find ways to help the planet.",
+       "options": [
+        "disappointed",
+        "scientist",
+        "earth",
+        "survive"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "He warned that if the ___ keeps losing its forests, many animals will not ….",
+       "options": [
+        "scientist",
+        "survive",
+        "disappointed",
+        "earth"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "He warned that if the … keeps losing its forests, many animals will not ___.",
+       "options": [
+        "scientist",
+        "earth",
+        "disappointed",
+        "survive"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "People felt ___ when they saw how much damage had already been done to nature.",
+       "options": [
+        "disappointed",
+        "survive",
+        "scientist",
+        "earth"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "wa2C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٢ · ص 61",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "In the dark ___ the air was thick and humid.",
+       "options": [
+        "hooting",
+        "survive",
+        "swamp",
+        "alligators"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "___ slid silently through the water, their eyes glowing in the moonlight.",
+       "options": [
+        "alligators",
+        "survive",
+        "hooting",
+        "swamp"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The ___ of an owl echoed in the distance.",
+       "options": [
+        "alligators",
+        "hooting",
+        "survive",
+        "swamp"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "To ___ here, one needed courage, caution, and sharp instincts.",
+       "options": [
+        "survive",
+        "hooting",
+        "swamp",
+        "alligators"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r1",
+   "title": "مراجعة ١",
+   "pages": "33-35",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة ١",
+     "sub": "من كتاب التقييمات (ص 33-35) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The thick part of a tree is called the __",
+       "options": [
+        "branch",
+        "trunk",
+        "root",
+        "leaf"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A __ person only thinks about himself.",
+       "options": [
+        "helpful",
+        "selfish",
+        "kind",
+        "friendly"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We use our __ to lift heavy things.",
+       "options": [
+        "skin",
+        "bones",
+        "muscles",
+        "hair"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Sleeping well and relaxing is good for your __",
+       "options": [
+        "shoes size",
+        "lunch box",
+        "mental health",
+        "homework"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The frog __ over the rock.",
+       "options": [
+        "leaped",
+        "slept",
+        "read",
+        "ate"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Our community has many ___ who are true heroes.",
+       "options": [
+        "healthcare workers",
+        "Pharmacists",
+        "nurses",
+        "habits",
+        "paramedics"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Doctors and ___ work hard to treat illnesses and care for patients.",
+       "options": [
+        "paramedics",
+        "nurses",
+        "habits",
+        "Pharmacists",
+        "healthcare workers"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "___ ensure we get the right medicine, and … provide quick help in emergencies.",
+       "options": [
+        "nurses",
+        "paramedics",
+        "habits",
+        "Pharmacists",
+        "healthcare workers"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "… ensure we get the right medicine, and ___ provide quick help in emergencies.",
+       "options": [
+        "Pharmacists",
+        "habits",
+        "nurses",
+        "healthcare workers",
+        "paramedics"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "They all encourage health ___ like eating fruits and vegetables for vitamins, to keep us well.",
+       "options": [
+        "healthcare workers",
+        "nurses",
+        "paramedics",
+        "Pharmacists",
+        "habits"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Swimming makes your __ strong.",
+       "options": [
+        "bones",
+        "heart",
+        "muscles",
+        "lungs"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Being \"fit\" means __",
+       "options": [
+        "feeling tired",
+        "being healthy and strong",
+        "forgetting things",
+        "being stressed"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "vessels",
+        "Heart",
+        "blood",
+        "blood",
+        "through",
+        "pumps"
+       ],
+       "answer": [
+        "Heart",
+        "pumps",
+        "blood",
+        "through",
+        "blood",
+        "vessels"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "means",
+        "and",
+        "Being",
+        "healthy",
+        "strong",
+        "fit"
+       ],
+       "answer": [
+        "Being",
+        "fit",
+        "means",
+        "healthy",
+        "and",
+        "strong"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "under",
+        "rocks",
+        "Some",
+        "hide",
+        "animals"
+       ],
+       "answer": [
+        "Some",
+        "animals",
+        "hide",
+        "under",
+        "rocks"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "very",
+        "was",
+        "Tom",
+        "selfish"
+       ],
+       "answer": [
+        "Tom",
+        "was",
+        "very",
+        "selfish"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "dry",
+        "spread",
+        "forests",
+        "Wildfires",
+        "quickly",
+        "in"
+       ],
+       "answer": [
+        "Wildfires",
+        "spread",
+        "quickly",
+        "in",
+        "dry",
+        "forests"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I (sometime) eat breakfast before school.",
+       "answer": [
+        "sometimes"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The large (fish) swam slowly in the river.",
+       "answer": [
+        "crocodile"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Lions often (sleep) for their food in the wild.",
+       "answer": [
+        "hunt"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "What (do) the Ancient Egyptians do when the river flooded?",
+       "answer": [
+        "did"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We (doesn't) have modern machines in Ancient Egypt.",
+       "answer": [
+        "didn't"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "title": "مراجعة ٢",
+   "pages": "62-64",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة ٢",
+     "sub": "من كتاب التقييمات (ص 62-64) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We enjoyed dinner at the Italian __",
+       "options": [
+        "bakery",
+        "restaurant",
+        "coffee shop",
+        "theme park"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ are natural substances found in the earth.",
+       "options": [
+        "Water",
+        "Minerals",
+        "Sunlight",
+        "Wind"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ provides energy for plants to grow.",
+       "options": [
+        "Minerals",
+        "Wind",
+        "Sunlight",
+        "Water"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ are used to produce electricity.",
+       "options": [
+        "Water",
+        "Minerals",
+        "Sunlight",
+        "Fossil Fuel"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ orbits the Sun once every year.",
+       "options": [
+        "Earth",
+        "Stars",
+        "Winds",
+        "Water"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "In the village ___ people gather for a weekly ….",
+       "options": [
+        "animals",
+        "cottages",
+        "square",
+        "meeting"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "In the village … people gather for a weekly ___.",
+       "options": [
+        "cottages",
+        "meeting",
+        "square",
+        "animals"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Farmers bring fresh produce, and children enjoy watching the ___ nearby.",
+       "options": [
+        "square",
+        "cottages",
+        "animals",
+        "meeting"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Small ___ surround the area, giving it a warm and welcoming feeling.",
+       "options": [
+        "cottages",
+        "square",
+        "meeting",
+        "animals"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The __ is a natural resource",
+       "options": [
+        "car",
+        "chair",
+        "water",
+        "plastic"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We protect natural resources __",
+       "options": [
+        "to keep life healthy on Earth",
+        "to remove nature",
+        "to save money only",
+        "to make life harder"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "important",
+        "Minerals",
+        "building",
+        "strong bones",
+        "for",
+        "are"
+       ],
+       "answer": [
+        "Minerals",
+        "are",
+        "important",
+        "for",
+        "building",
+        "strong",
+        "bones"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "for transportation",
+        "and factories",
+        "energy",
+        "Fossil fuels",
+        "provide"
+       ],
+       "answer": [
+        "Fossil",
+        "fuels",
+        "provide",
+        "energy",
+        "for",
+        "transportation",
+        "and",
+        "factories"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "fresh",
+        "bread",
+        "The bakery",
+        "sells",
+        "every morning"
+       ],
+       "answer": [
+        "The",
+        "bakery",
+        "sells",
+        "fresh",
+        "bread",
+        "every",
+        "morning"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "live",
+        "fish",
+        "swamps",
+        "and hunt",
+        "in",
+        "Alligators"
+       ],
+       "answer": [
+        "Alligators",
+        "live",
+        "in",
+        "swamps",
+        "and",
+        "hunt",
+        "fish"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "The theme park",
+        "fun",
+        "rides",
+        "has",
+        "many"
+       ],
+       "answer": [
+        "The",
+        "theme",
+        "park",
+        "has",
+        "many",
+        "fun",
+        "rides"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The weather is cold (on)__ winter.",
+       "answer": [
+        "in"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The date tree is (tall)__ than the apple tree.",
+       "answer": [
+        "taller"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Reading is (good)__ than watching TV.",
+       "answer": [
+        "better"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The (wool)__ is a soft, white plant that is used to make fabric.",
+       "answer": [
+        "cotton"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The (bakery)__ has a large swimming pool.",
+       "answer": [
+        "club"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gr1",
+   "title": "المراجعة العامة ١",
+   "pages": "64-66",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "المراجعة العامة ١",
+     "sub": "من كتاب التقييمات (ص 64-66) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The __ beats to send blood around the body.",
+       "options": [
+        "lungs",
+        "muscles",
+        "heart",
+        "stomach"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A long time without rain is called a __",
+       "options": [
+        "wildfire",
+        "drought",
+        "thunderstorm",
+        "flood"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I learned to swim __ the summer.",
+       "options": [
+        "on",
+        "in",
+        "at",
+        "for"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My new phone is __ than my old one.",
+       "options": [
+        "most expensive",
+        "expensiver",
+        "more expensive",
+        "expensive"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ are people who give medicine to patients and explain how to use safely.",
+       "options": [
+        "Nurse",
+        "Doctors",
+        "Paramedics",
+        "Pharmacists"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Yesterday, I went to the ___ to buy some bread, then visited a … for a cup of tea.",
+       "options": [
+        "club",
+        "bakery",
+        "coffee shop",
+        "restaurant",
+        "supermarket"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Yesterday, I went to the … to buy some bread, then visited a ___ for a cup of tea.",
+       "options": [
+        "restaurant",
+        "club",
+        "bakery",
+        "coffee shop",
+        "supermarket"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "In the evening, my friends and I met at a sports ___ and later we had dinner at a nice ….",
+       "options": [
+        "bakery",
+        "restaurant",
+        "coffee shop",
+        "supermarket",
+        "club"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "In the evening, my friends and I met at a sports … and later we had dinner at a nice ___.",
+       "options": [
+        "restaurant",
+        "bakery",
+        "supermarket",
+        "coffee shop",
+        "club"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ is the most important water resource in Egypt.",
+       "options": [
+        "The Nile River",
+        "The Red Sea",
+        "Lake Nasser",
+        "The Mediterranean Sea"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Oil and natural gas are used to make __",
+       "options": [
+        "jewelry and buildings",
+        "fuel and electricity",
+        "water and soil",
+        "food and clothes"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The elephant is the (big)__ animal in the zoo.",
+       "answer": [
+        "biggest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She (play)__ tennis last weekend.",
+       "answer": [
+        "played"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Egyptian",
+        "tasty",
+        "Koshari",
+        "a",
+        "meal",
+        "is"
+       ],
+       "answer": [
+        "Koshari",
+        "is",
+        "a",
+        "tasty",
+        "Egyptian",
+        "meal"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "in",
+        "Two",
+        "a",
+        "frogs",
+        "pond",
+        "lived",
+        "small"
+       ],
+       "answer": [
+        "Two",
+        "frogs",
+        "lived",
+        "in",
+        "a",
+        "small",
+        "pond"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Water",
+        "for",
+        "is",
+        "life",
+        "essential"
+       ],
+       "answer": [
+        "Water",
+        "is",
+        "essential",
+        "for",
+        "life"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gr2",
+   "title": "المراجعة العامة ٢",
+   "pages": "67-69",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "المراجعة العامة ٢",
+     "sub": "من كتاب التقييمات (ص 67-69) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ is a severe wind that carries sand and dust through the air, making it hard to breathe.",
+       "options": [
+        "Sandstorm",
+        "Flood",
+        "Thunderstorm",
+        "Heatwave"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We will meet __ 5 o'clock.",
+       "options": [
+        "in",
+        "for",
+        "at",
+        "on"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The big ship trying to load __ when it got stuck.",
+       "options": [
+        "passengers",
+        "balloons",
+        "cargo",
+        "water"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Nadia will buy __ fruits for her grandmother.",
+       "options": [
+        "any",
+        "a",
+        "an",
+        "some"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The __ help us breathe in oxygen.",
+       "options": [
+        "legs",
+        "arms",
+        "lungs",
+        "eyes"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Billie watched the ___ closely and saw how they ….",
+       "options": [
+        "attack",
+        "survived",
+        "animals",
+        "shells",
+        "alligators"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Billie watched the … closely and saw how they ___.",
+       "options": [
+        "animals",
+        "survived",
+        "shells",
+        "alligators",
+        "attack"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The turtles hid in their ___ when danger was near.",
+       "options": [
+        "animals",
+        "attack",
+        "shells",
+        "alligators",
+        "survived"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The birds warned each other when an animal came to ___.",
+       "options": [
+        "attack",
+        "survived",
+        "shells",
+        "alligators",
+        "animals"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Playing sports helps in __",
+       "options": [
+        "sleeping all day",
+        "improving health",
+        "watching TV",
+        "eating more food"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The __ is NOT a type of sport.",
+       "options": [
+        "running",
+        "football",
+        "cooking",
+        "swimming"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Would you like (any)__ tea?",
+       "answer": [
+        "some"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Yesterday, I (go)__ to the park with my friends.",
+       "answer": [
+        "went"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "in",
+        "forests",
+        "quickly",
+        "Wildfires",
+        "spread",
+        "dry"
+       ],
+       "answer": [
+        "Wildfires",
+        "spread",
+        "quickly",
+        "in",
+        "dry",
+        "forests"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "stay",
+        "healthy",
+        "help",
+        "Sports",
+        "us"
+       ],
+       "answer": [
+        "Sports",
+        "help",
+        "us",
+        "stay",
+        "healthy"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "at the bakery",
+        "I",
+        "and cakes",
+        "bread",
+        "can",
+        "buy"
+       ],
+       "answer": [
+        "I",
+        "can",
+        "buy",
+        "bread",
+        "and",
+        "cakes",
+        "at",
+        "the",
+        "bakery"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gr3",
+   "title": "المراجعة العامة ٣",
+   "pages": "69-71",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "المراجعة العامة ٣",
+     "sub": "من كتاب التقييمات (ص 69-71) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "During a __, there is no rain for a long time, and the land becomes very dry.",
+       "options": [
+        "wildfire",
+        "drought",
+        "sandstorm",
+        "flood"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "being healthy and strong through exercise means to be __",
+       "options": [
+        "tired",
+        "fit",
+        "unhappy",
+        "unhealthy"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "She __ eats breakfast. She has it every morning.",
+       "options": [
+        "sometimes",
+        "always",
+        "rarely",
+        "never"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We have a test __ Monday.",
+       "options": [
+        "on",
+        "at",
+        "by",
+        "in"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Once there was a tall tree with a wide ___, strong … that spread out, and leaves that gave cool … to everyone.",
+       "options": [
+        "damage",
+        "care for",
+        "shade",
+        "branches",
+        "trunk"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Once there was a tall tree with a wide …, strong ___ that spread out, and leaves that gave cool … to everyone.",
+       "options": [
+        "care for",
+        "branches",
+        "shade",
+        "damage",
+        "trunk"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Once there was a tall tree with a wide …, strong … that spread out, and leaves that gave cool ___ to everyone.",
+       "options": [
+        "shade",
+        "care for",
+        "damage",
+        "branches",
+        "trunk"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Everyone in the village helped to ___ the tree, watering it and protecting it from harm.",
+       "options": [
+        "damage",
+        "shade",
+        "care for",
+        "trunk",
+        "branches"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The word \"heatwave\" in the text means __",
+       "options": [
+        "a heavy rain.",
+        "a strong wind carrying sand.",
+        "a storm with thunder.",
+        "a period of extremely hot weather."
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "What is the main idea of the text?",
+       "options": [
+        "How extreme weather is formed.",
+        "Why sandstorms are dangerous.",
+        "How to be safe in different kinds of extreme weather.",
+        "The different types of extreme weather."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Omar (never)__ plays tennis. He likes playing it.",
+       "answer": [
+        "always"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The book is (much)__ interesting than the movie.",
+       "answer": [
+        "more"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "resources",
+        "natural",
+        "valuable",
+        "many",
+        "has",
+        "Egypt"
+       ],
+       "answer": [
+        "Egypt",
+        "has",
+        "many",
+        "valuable",
+        "natural",
+        "resources"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "crocodile",
+        "The",
+        "a",
+        "animal",
+        "is",
+        "dangerous"
+       ],
+       "answer": [
+        "The",
+        "crocodile",
+        "is",
+        "a",
+        "dangerous",
+        "animal"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "nature",
+        "should",
+        "for",
+        "always",
+        "We",
+        "care"
+       ],
+       "answer": [
+        "We",
+        "should",
+        "always",
+        "care",
+        "for",
+        "nature"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

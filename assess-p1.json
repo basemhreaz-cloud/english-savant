@@ -3153,17 +3153,23 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "trocar",
+       "letters": "rotcar",
        "answer": [
-        "ocrart"
-       ]
+        "carrot"
+       ],
+       "hint": {
+        "emoji": "🥕"
+       }
       },
       {
        "type": "unscramble",
-       "letters": "lslme",
+       "letters": "llems",
        "answer": [
-        "mlsle"
-       ]
+        "smell"
+       ],
+       "hint": {
+        "emoji": "👃"
+       }
       },
       {
        "type": "reorder",
