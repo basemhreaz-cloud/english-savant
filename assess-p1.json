@@ -79,6 +79,21 @@
         "is",
         "Hana."
        ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "...",
+        "name",
+        "is",
+        "My"
+       ],
+       "answer": [
+        "My",
+        "name",
+        "is",
+        "..."
+       ]
       }
      ]
     },
@@ -164,35 +179,35 @@
       },
       {
        "type": "unscramble",
-       "letters": "erigt",
+       "letters": "iegrt",
        "answer": [
         "tiger"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "reet",
+       "letters": "eter",
        "answer": [
         "tree"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "lteba",
+       "letters": "baelt",
        "answer": [
         "table"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "toamto",
+       "letters": "tmooat",
        "answer": [
         "tomato"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "erhtcae",
+       "letters": "eehacrt",
        "answer": [
         "teacher"
        ]
@@ -206,68 +221,7 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "obko",
-       "answer": [
-        "book"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "gab",
-       "answer": [
-        "bag"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "nicpel",
-       "answer": [
-        "pencil"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "odabr",
-       "answer": [
-        "board"
-       ]
-      },
-      {
-       "type": "mcq",
-       "label": "cloze",
-       "q": "Sit ___",
-       "options": [
-        "down",
-        "up",
-        "books"
-       ],
-       "answer": 0
-      },
-      {
-       "type": "mcq",
-       "label": "cloze",
-       "q": "Stand ___",
-       "options": [
-        "books",
-        "down",
-        "up"
-       ],
-       "answer": 2
-      },
-      {
-       "type": "mcq",
-       "label": "cloze",
-       "q": "Open your ___",
-       "options": [
-        "up",
-        "books",
-        "down"
-       ],
-       "answer": 1
-      },
-      {
-       "type": "unscramble",
-       "letters": "kobo",
+       "letters": "koob",
        "answer": [
         "book"
        ]
@@ -281,28 +235,89 @@
       },
       {
        "type": "unscramble",
-       "letters": "lpceni",
+       "letters": "clpnie",
        "answer": [
         "pencil"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "aodbr",
+       "letters": "ordba",
+       "answer": [
+        "board"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Sit ___",
+       "options": [
+        "books",
+        "up",
+        "down"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Stand ___",
+       "options": [
+        "up",
+        "down",
+        "books"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Open your ___",
+       "options": [
+        "up",
+        "down",
+        "books"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "unscramble",
+       "letters": "ookb",
+       "answer": [
+        "book"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "gba",
+       "answer": [
+        "bag"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ilpnec",
+       "answer": [
+        "pencil"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "barod",
        "answer": [
         "board"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "hcira",
+       "letters": "haric",
        "answer": [
         "chair"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "esdk",
+       "letters": "eskd",
        "answer": [
         "desk"
        ]
@@ -376,7 +391,7 @@
       },
       {
        "type": "unscramble",
-       "letters": "nki",
+       "letters": "kni",
        "answer": [
         "ink"
        ]
@@ -390,7 +405,7 @@
       },
       {
        "type": "unscramble",
-       "letters": "isncet",
+       "letters": "eistnc",
        "answer": [
         "insect"
        ]
@@ -571,7 +586,7 @@
       },
       {
        "type": "unscramble",
-       "letters": "teicsn",
+       "letters": "etsnci",
        "answer": [
         "insect"
        ]
@@ -641,7 +656,7 @@
       },
       {
        "type": "unscramble",
-       "letters": "nstcei",
+       "letters": "senitc",
        "answer": [
         "insect"
        ]
@@ -681,14 +696,14 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "yks",
+       "letters": "ksy",
        "answer": [
         "sky"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "erte",
+       "letters": "eert",
        "answer": [
         "tree"
        ]
@@ -696,9 +711,9 @@
       {
        "type": "reorder",
        "words": [
-        "green",
         "The",
         "is",
+        "green",
         "grass"
        ],
        "answer": [
@@ -710,7 +725,7 @@
       },
       {
        "type": "unscramble",
-       "letters": "rdib",
+       "letters": "dbri",
        "answer": [
         "bird"
        ]
@@ -724,14 +739,14 @@
       },
       {
        "type": "unscramble",
-       "letters": "ferowl",
+       "letters": "oefrlw",
        "answer": [
         "flower"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "srsag",
+       "letters": "gsasr",
        "answer": [
         "grass"
        ]
@@ -739,9 +754,9 @@
       {
        "type": "reorder",
        "words": [
-        "sky",
         "This",
         "the",
+        "sky",
         "is"
        ],
        "answer": [
@@ -754,9 +769,9 @@
       {
        "type": "reorder",
        "words": [
-        "The",
-        "green",
         "is",
+        "green",
+        "The",
         "grass"
        ],
        "answer": [
@@ -769,10 +784,10 @@
       {
        "type": "reorder",
        "words": [
-        "This",
         "a",
-        "butterfly",
-        "is"
+        "This",
+        "is",
+        "butterfly"
        ],
        "answer": [
         "This",
@@ -784,11 +799,11 @@
       {
        "type": "reorder",
        "words": [
-        "a",
-        "see",
         "tree",
+        "can",
         "I",
-        "can"
+        "a",
+        "see"
        ],
        "answer": [
         "I",
@@ -875,35 +890,35 @@
       },
       {
        "type": "unscramble",
-       "letters": "nsu",
+       "letters": "snu",
        "answer": [
         "sun"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "srdpei",
+       "letters": "ripsde",
        "answer": [
         "spider"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "psono",
+       "letters": "sonpo",
        "answer": [
         "spoon"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "esnak",
+       "letters": "ekans",
        "answer": [
         "snake"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "rsat",
+       "letters": "stra",
        "answer": [
         "star"
        ]
@@ -945,7 +960,7 @@
       },
       {
        "type": "unscramble",
-       "letters": "ceilcr",
+       "letters": "lcecir",
        "answer": [
         "circle"
        ]
@@ -953,9 +968,9 @@
       {
        "type": "reorder",
        "words": [
+        "triangle",
         "is",
         "The",
-        "triangle",
         "yellow"
        ],
        "answer": [
@@ -967,7 +982,7 @@
       },
       {
        "type": "unscramble",
-       "letters": "qauser",
+       "letters": "useraq",
        "answer": [
         "square"
        ]
@@ -975,9 +990,9 @@
       {
        "type": "reorder",
        "words": [
-        "is",
         "square",
         "blue",
+        "is",
         "The"
        ],
        "answer": [
@@ -990,8 +1005,8 @@
       {
        "type": "reorder",
        "words": [
-        "is",
         "The",
+        "is",
         "sun",
         "yellow"
        ],
@@ -1005,10 +1020,10 @@
       {
        "type": "reorder",
        "words": [
-        "grass",
         "green",
         "is",
-        "The"
+        "The",
+        "grass"
        ],
        "answer": [
         "The",
@@ -1061,14 +1076,14 @@
       },
       {
        "type": "unscramble",
-       "letters": "owrra",
+       "letters": "rowar",
        "answer": [
         "arrow"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "pleap",
+       "letters": "aplpe",
        "answer": [
         "apple"
        ]
@@ -3305,28 +3320,32 @@
        "type": "typein",
        "q": "How many pencils can you see?",
        "answer": [
-        "9"
+        "9",
+        "nine"
        ]
       },
       {
        "type": "typein",
        "q": "How many apples can you see?",
        "answer": [
-        "6"
+        "6",
+        "six"
        ]
       },
       {
        "type": "typein",
        "q": "How many cars can you see?",
        "answer": [
-        "7"
+        "7",
+        "seven"
        ]
       },
       {
        "type": "typein",
        "q": "How many bees can you see?",
        "answer": [
-        "10"
+        "10",
+        "ten"
        ]
       },
       {
@@ -5907,35 +5926,40 @@
        "type": "typein",
        "q": "How many birds?",
        "answer": [
-        "5"
+        "5",
+        "five"
        ]
       },
       {
        "type": "typein",
        "q": "How many pencils?",
        "answer": [
-        "3"
+        "3",
+        "three"
        ]
       },
       {
        "type": "typein",
        "q": "How many horses?",
        "answer": [
-        "7"
+        "7",
+        "seven"
        ]
       },
       {
        "type": "typein",
        "q": "How many stars?",
        "answer": [
-        "4"
+        "4",
+        "four"
        ]
       },
       {
        "type": "typein",
        "q": "How many flowers?",
        "answer": [
-        "8"
+        "8",
+        "eight"
        ]
       }
      ]
@@ -6136,13 +6160,16 @@
        ]
       },
       {
-       "type": "reorder",
-       "words": [
-        "sick",
-        "boy"
-       ],
+       "type": "unscramble",
+       "letters": "sikc",
        "answer": [
-        "sick",
+        "sick"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "yob",
+       "answer": [
         "boy"
        ]
       },
@@ -6155,42 +6182,45 @@
       },
       {
        "type": "unscramble",
-       "letters": "ragss",
+       "letters": "rssag",
        "answer": [
         "grass"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "rolfew",
+       "letters": "leforw",
        "answer": [
         "flower"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "yfltetbur",
+       "letters": "yeubltrft",
        "answer": [
         "butterfly"
        ]
       },
       {
-       "type": "reorder",
-       "words": [
-        "plate",
-        "lunch"
-       ],
+       "type": "unscramble",
+       "letters": "lchun",
        "answer": [
-        "lunch",
+        "lunch"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "tpael",
+       "answer": [
         "plate"
        ]
       },
       {
        "type": "reorder",
        "words": [
-        "table",
         "cat",
         "the",
+        "table",
         "on"
        ],
        "answer": [
@@ -6209,7 +6239,7 @@
       },
       {
        "type": "unscramble",
-       "letters": "erohs",
+       "letters": "rheos",
        "answer": [
         "horse"
        ]
@@ -6223,28 +6253,28 @@
       },
       {
        "type": "unscramble",
-       "letters": "enomls",
+       "letters": "nsloem",
        "answer": [
         "lemons"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "iebk",
+       "letters": "keib",
        "answer": [
         "bike"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "shif",
+       "letters": "sfhi",
        "answer": [
         "fish"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "woc",
+       "letters": "owc",
        "answer": [
         "cow"
        ]
@@ -6253,8 +6283,8 @@
        "type": "reorder",
        "words": [
         "are",
-        "friends",
-        "We"
+        "We",
+        "friends"
        ],
        "answer": [
         "We",
@@ -6265,11 +6295,11 @@
       {
        "type": "reorder",
        "words": [
+        "can",
         "see",
-        "I",
-        "a",
         "flower",
-        "can"
+        "a",
+        "I"
        ],
        "answer": [
         "I",
@@ -6282,14 +6312,14 @@
       {
        "type": "reorder",
        "words": [
-        "a",
         "tree!",
         "see",
-        "the",
         "in",
+        "bird",
         "I",
         "little",
-        "bird"
+        "a",
+        "the"
        ],
        "answer": [
         "I",
@@ -6305,10 +6335,10 @@
       {
        "type": "reorder",
        "words": [
+        "green",
         "grass",
-        "is",
         "The",
-        "green"
+        "is"
        ],
        "answer": [
         "The",
@@ -6320,8 +6350,8 @@
       {
        "type": "reorder",
        "words": [
-        "The",
         "is",
+        "The",
         "sky",
         "blue"
        ],
@@ -6337,8 +6367,8 @@
        "words": [
         "sun",
         "is",
-        "yellow",
-        "The"
+        "The",
+        "yellow"
        ],
        "answer": [
         "The",
@@ -6350,10 +6380,10 @@
       {
        "type": "reorder",
        "words": [
-        "is",
+        "butterfly",
         "This",
-        "a",
-        "butterfly"
+        "is",
+        "a"
        ],
        "answer": [
         "This",
@@ -6365,11 +6395,11 @@
       {
        "type": "reorder",
        "words": [
-        "house",
-        "I",
-        "can",
         "a",
-        "see"
+        "can",
+        "see",
+        "house",
+        "I"
        ],
        "answer": [
         "I",
@@ -6383,9 +6413,9 @@
        "type": "reorder",
        "words": [
         "is",
+        "circle",
         "a",
-        "This",
-        "circle"
+        "This"
        ],
        "answer": [
         "This",
@@ -6397,10 +6427,10 @@
       {
        "type": "reorder",
        "words": [
+        "a",
         "square",
-        "This",
         "is",
-        "a"
+        "This"
        ],
        "answer": [
         "This",
@@ -6414,8 +6444,8 @@
        "words": [
         "is",
         "triangle",
-        "yellow",
-        "The"
+        "The",
+        "yellow"
        ],
        "answer": [
         "The",
@@ -6428,9 +6458,9 @@
        "type": "reorder",
        "words": [
         "2",
+        "brothers",
         "have",
-        "I",
-        "brothers"
+        "I"
        ],
        "answer": [
         "I",
@@ -6443,9 +6473,9 @@
        "type": "reorder",
        "words": [
         "my",
-        "is",
         "family",
-        "This"
+        "This",
+        "is"
        ],
        "answer": [
         "This",
@@ -6457,9 +6487,9 @@
       {
        "type": "reorder",
        "words": [
-        "tomato",
-        "I",
         "1",
+        "I",
+        "tomato",
         "have"
        ],
        "answer": [
@@ -6472,10 +6502,10 @@
       {
        "type": "reorder",
        "words": [
-        "2",
-        "are",
         "There",
-        "pencils"
+        "2",
+        "pencils",
+        "are"
        ],
        "answer": [
         "There",
@@ -6487,10 +6517,10 @@
       {
        "type": "reorder",
        "words": [
-        "5",
-        "There",
         "stars",
-        "are"
+        "are",
+        "There",
+        "5"
        ],
        "answer": [
         "There",
@@ -6503,9 +6533,9 @@
        "type": "reorder",
        "words": [
         "mouth",
-        "I",
         "have",
-        "1"
+        "1",
+        "I"
        ],
        "answer": [
         "I",
@@ -6517,8 +6547,8 @@
       {
        "type": "reorder",
        "words": [
-        "have",
         "2",
+        "have",
         "legs",
         "I"
        ],
@@ -6532,13 +6562,13 @@
       {
        "type": "reorder",
        "words": [
-        "see",
-        "my",
-        "I",
+        "it",
         "eyes",
+        "see",
         "can",
-        "with",
-        "it"
+        "I",
+        "my",
+        "with"
        ],
        "answer": [
         "I",
@@ -6553,14 +6583,14 @@
       {
        "type": "reorder",
        "words": [
-        "my",
-        "hands",
-        "the",
         "touch",
-        "desk",
         "I",
+        "hands",
+        "with",
         "can",
-        "with"
+        "desk",
+        "my",
+        "the"
        ],
        "answer": [
         "I",
@@ -6576,10 +6606,10 @@
       {
        "type": "reorder",
        "words": [
-        "big",
-        "The",
         "is",
-        "horse"
+        "The",
+        "horse",
+        "big"
        ],
        "answer": [
         "The",
@@ -6591,10 +6621,10 @@
       {
        "type": "reorder",
        "words": [
-        "The",
         "small",
+        "chicken",
         "is",
-        "chicken"
+        "The"
        ],
        "answer": [
         "The",
@@ -6606,12 +6636,12 @@
       {
        "type": "reorder",
        "words": [
-        "the",
         "in",
-        "The",
-        "tree!",
+        "the",
+        "monkey",
         "is",
-        "monkey"
+        "tree!",
+        "The"
        ],
        "answer": [
         "The",
@@ -6625,12 +6655,12 @@
       {
        "type": "reorder",
        "words": [
+        "is",
         "on",
-        "cat",
-        "chair",
-        "the",
         "The",
-        "is"
+        "cat",
+        "the",
+        "chair"
        ],
        "answer": [
         "The",
@@ -6644,9 +6674,9 @@
       {
        "type": "reorder",
        "words": [
-        "your",
         "name?",
-        "What's"
+        "What's",
+        "your"
        ],
        "answer": [
         "What's",
@@ -6657,10 +6687,10 @@
       {
        "type": "reorder",
        "words": [
-        "Maya",
         "My",
+        "is",
         "name",
-        "is"
+        "Maya"
        ],
        "answer": [
         "My",
@@ -6674,8 +6704,8 @@
        "words": [
         "are",
         "We",
-        "friends",
-        "now!"
+        "now!",
+        "friends"
        ],
        "answer": [
         "We",
@@ -6687,11 +6717,11 @@
       {
        "type": "reorder",
        "words": [
-        "a",
-        "I",
-        "flower",
         "see",
-        "can"
+        "I",
+        "can",
+        "flower",
+        "a"
        ],
        "answer": [
         "I",
@@ -6705,9 +6735,9 @@
        "type": "reorder",
        "words": [
         "The",
-        "is",
         "sun",
-        "yellow"
+        "yellow",
+        "is"
        ],
        "answer": [
         "The",
@@ -6720,9 +6750,9 @@
        "type": "reorder",
        "words": [
         "flower",
-        "The",
+        "is",
         "red",
-        "is"
+        "The"
        ],
        "answer": [
         "The",
@@ -6734,11 +6764,11 @@
       {
        "type": "reorder",
        "words": [
-        "see",
-        "I",
+        "a",
         "can",
         "bird",
-        "a"
+        "I",
+        "see"
        ],
        "answer": [
         "I",
@@ -6751,10 +6781,10 @@
       {
        "type": "reorder",
        "words": [
-        "sky",
         "I",
-        "can",
         "the",
+        "can",
+        "sky",
         "see"
        ],
        "answer": [
@@ -6771,8 +6801,8 @@
         "have",
         "any",
         "brothers?",
-        "Do",
-        "you"
+        "you",
+        "Do"
        ],
        "answer": [
         "Do",
@@ -6785,10 +6815,10 @@
       {
        "type": "reorder",
        "words": [
-        "3",
         "There",
-        "are",
-        "books"
+        "3",
+        "books",
+        "are"
        ],
        "answer": [
         "There",
@@ -6801,9 +6831,9 @@
        "type": "reorder",
        "words": [
         "books",
-        "How",
         "there?",
         "many",
+        "How",
         "are"
        ],
        "answer": [
@@ -6817,10 +6847,10 @@
       {
        "type": "reorder",
        "words": [
-        "desk",
-        "the",
         "see",
+        "desk",
         "I",
+        "the",
         "can"
        ],
        "answer": [
@@ -6834,10 +6864,10 @@
       {
        "type": "reorder",
        "words": [
-        "you",
         "Do",
-        "see",
+        "you",
         "horse?",
+        "see",
         "the"
        ],
        "answer": [
@@ -6851,9 +6881,9 @@
       {
        "type": "reorder",
        "words": [
-        "love",
         "animal!",
         "I",
+        "love",
         "farm"
        ],
        "answer": [
@@ -6866,12 +6896,12 @@
       {
        "type": "reorder",
        "words": [
-        "see?",
-        "many",
-        "horses",
-        "can",
         "How",
-        "you"
+        "see?",
+        "you",
+        "many",
+        "can",
+        "horses"
        ],
        "answer": [
         "How",
@@ -6885,10 +6915,10 @@
       {
        "type": "reorder",
        "words": [
-        "There",
-        "9",
         "are",
-        "ducks!"
+        "ducks!",
+        "There",
+        "9"
        ],
        "answer": [
         "There",
@@ -6900,12 +6930,12 @@
       {
        "type": "reorder",
        "words": [
-        "see?",
-        "you",
-        "lions",
         "many",
-        "How",
-        "can"
+        "see?",
+        "lions",
+        "can",
+        "you",
+        "How"
        ],
        "answer": [
         "How",
@@ -6919,10 +6949,10 @@
       {
        "type": "reorder",
        "words": [
-        "We",
         "love",
-        "jungle!",
-        "the"
+        "the",
+        "We",
+        "jungle!"
        ],
        "answer": [
         "We",
@@ -6934,11 +6964,11 @@
       {
        "type": "reorder",
        "words": [
-        "on",
         "the",
-        "is",
+        "on",
         "The",
         "couch",
+        "is",
         "dog"
        ],
        "answer": [
@@ -6953,12 +6983,12 @@
       {
        "type": "reorder",
        "words": [
-        "table!",
-        "is",
-        "The",
         "under",
+        "is",
+        "the",
+        "The",
         "turtle",
-        "the"
+        "table!"
        ],
        "answer": [
         "The",
@@ -7000,10 +7030,10 @@
       {
        "type": "reorder",
        "words": [
-        "2",
-        "I",
         "sisters",
-        "have"
+        "have",
+        "2",
+        "I"
        ],
        "answer": [
         "I",
@@ -7015,10 +7045,10 @@
       {
        "type": "reorder",
        "words": [
-        "birds",
-        "are",
+        "There",
         "6",
-        "There"
+        "birds",
+        "are"
        ],
        "answer": [
         "There",
@@ -7030,10 +7060,10 @@
       {
        "type": "reorder",
        "words": [
-        "brother",
-        "1",
+        "have",
         "I",
-        "have"
+        "1",
+        "brother"
        ],
        "answer": [
         "I",
@@ -7045,10 +7075,10 @@
       {
        "type": "reorder",
        "words": [
-        "butterfly",
+        "1",
         "is",
         "There",
-        "1"
+        "butterfly"
        ],
        "answer": [
         "There",
@@ -7061,9 +7091,9 @@
        "type": "reorder",
        "words": [
         "apples",
-        "are",
         "There",
-        "5"
+        "5",
+        "are"
        ],
        "answer": [
         "There",
@@ -7076,8 +7106,8 @@
        "type": "reorder",
        "words": [
         "tree",
-        "green",
         "is",
+        "green",
         "The"
        ],
        "answer": [
@@ -7090,8 +7120,8 @@
       {
        "type": "reorder",
        "words": [
-        "The",
         "yellow",
+        "The",
         "sun",
         "is"
        ],
@@ -7105,10 +7135,10 @@
       {
        "type": "reorder",
        "words": [
-        "blue",
         "is",
-        "The",
-        "sky"
+        "sky",
+        "blue",
+        "The"
        ],
        "answer": [
         "The",
@@ -7121,13 +7151,13 @@
        "type": "reorder",
        "words": [
         "in",
-        "see",
         "little",
-        "the",
+        "see",
+        "a",
+        "bird",
         "I",
         "tree!",
-        "bird",
-        "a"
+        "the"
        ],
        "answer": [
         "I",
@@ -7143,13 +7173,13 @@
       {
        "type": "reorder",
        "words": [
-        "is",
         "near",
-        "butterfly",
-        "flying",
-        "The",
         "the",
-        "tree!"
+        "is",
+        "flying",
+        "butterfly",
+        "tree!",
+        "The"
        ],
        "answer": [
         "The",
@@ -7165,9 +7195,9 @@
        "type": "reorder",
        "words": [
         "grass",
-        "is",
         "The",
-        "green"
+        "green",
+        "is"
        ],
        "answer": [
         "The",
@@ -7179,12 +7209,12 @@
       {
        "type": "reorder",
        "words": [
-        "see",
-        "eyes",
-        "I",
         "with",
+        "eyes",
         "my",
-        "can"
+        "I",
+        "can",
+        "see"
        ],
        "answer": [
         "I",
@@ -7198,12 +7228,12 @@
       {
        "type": "reorder",
        "words": [
-        "with",
-        "hear",
-        "I",
         "ears",
+        "my",
+        "hear",
         "can",
-        "my"
+        "I",
+        "with"
        ],
        "answer": [
         "I",
@@ -7217,10 +7247,10 @@
       {
        "type": "reorder",
        "words": [
-        "I",
         "hands",
-        "2",
-        "have"
+        "I",
+        "have",
+        "2"
        ],
        "answer": [
         "I",
@@ -7232,8 +7262,8 @@
       {
        "type": "reorder",
        "words": [
-        "1",
         "have",
+        "1",
         "nose",
         "I"
        ],
@@ -7247,12 +7277,12 @@
       {
        "type": "reorder",
        "words": [
-        "my",
-        "smell",
         "nose",
-        "can",
         "with",
-        "I"
+        "I",
+        "smell",
+        "can",
+        "my"
        ],
        "answer": [
         "I",
@@ -7266,9 +7296,9 @@
       {
        "type": "reorder",
        "words": [
-        "2",
+        "I",
         "eyes",
-        "I",
+        "2",
         "have"
        ],
        "answer": [
@@ -7281,11 +7311,11 @@
       {
        "type": "reorder",
        "words": [
-        "my",
-        "taste",
-        "I",
         "tongue",
         "with",
+        "I",
+        "taste",
+        "my",
         "can"
        ],
        "answer": [
@@ -7300,12 +7330,12 @@
       {
        "type": "reorder",
        "words": [
-        "with",
-        "can",
-        "touch",
-        "I",
         "my",
-        "hands"
+        "can",
+        "I",
+        "touch",
+        "hands",
+        "with"
        ],
        "answer": [
         "I",
@@ -7320,9 +7350,9 @@
        "type": "reorder",
        "words": [
         "mouth",
+        "I",
         "1",
-        "have",
-        "I"
+        "have"
        ],
        "answer": [
         "I",
@@ -7334,10 +7364,10 @@
       {
        "type": "reorder",
        "words": [
-        "ears",
-        "I",
+        "2",
         "have",
-        "2"
+        "I",
+        "ears"
        ],
        "answer": [
         "I",
@@ -7351,33 +7381,9 @@
        "label": "cloze",
        "q": "I can see ___ lion",
        "options": [
-        "tree",
-        "elephant",
         "snake",
-        "1"
-       ],
-       "answer": 3
-      },
-      {
-       "type": "mcq",
-       "label": "cloze",
-       "q": "A lion has ___ legs",
-       "options": [
-        "elephant",
-        "4",
-        "snake",
-        "1"
-       ],
-       "answer": 1
-      },
-      {
-       "type": "mcq",
-       "label": "cloze",
-       "q": "The monkey is in the ___",
-       "options": [
         "1",
         "tree",
-        "snake",
         "elephant"
        ],
        "answer": 1
@@ -7385,33 +7391,57 @@
       {
        "type": "mcq",
        "label": "cloze",
+       "q": "A lion has ___ legs",
+       "options": [
+        "1",
+        "tree",
+        "snake",
+        "4"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The monkey is in the ___",
+       "options": [
+        "1",
+        "snake",
+        "elephant",
+        "tree"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
        "q": "I see an ___ too!",
        "options": [
-        "tree",
-        "1",
+        "snake",
         "elephant",
-        "snake"
+        "tree",
+        "1"
        ],
-       "answer": 2
+       "answer": 1
       },
       {
        "type": "mcq",
        "label": "cloze",
        "q": "There is a ___ on the ground!",
        "options": [
+        "tree",
         "snake",
         "1",
-        "elephant",
-        "tree"
+        "elephant"
        ],
-       "answer": 0
+       "answer": 1
       },
       {
        "type": "reorder",
        "words": [
-        "jungle!",
-        "We",
         "love",
+        "We",
+        "jungle!",
         "the"
        ],
        "answer": [
@@ -7425,11 +7455,11 @@
        "type": "reorder",
        "words": [
         "The",
-        "on",
-        "cat",
         "table",
+        "cat",
         "the",
-        "is"
+        "is",
+        "on"
        ],
        "answer": [
         "The",
@@ -7443,12 +7473,12 @@
       {
        "type": "reorder",
        "words": [
-        "box",
-        "in",
         "dog",
+        "in",
+        "box",
         "is",
-        "The",
-        "the"
+        "the",
+        "The"
        ],
        "answer": [
         "The",
@@ -7512,8 +7542,8 @@
       {
        "type": "reorder",
        "words": [
-        "big!",
         "The",
+        "big!",
         "is",
         "horse"
        ],
@@ -7528,11 +7558,11 @@
        "type": "reorder",
        "words": [
         "bird",
-        "is",
-        "the",
-        "The",
         "in",
-        "cage"
+        "The",
+        "cage",
+        "the",
+        "is"
        ],
        "answer": [
         "The",
@@ -7546,10 +7576,10 @@
       {
        "type": "reorder",
        "words": [
-        "have",
-        "I",
         "2",
-        "hands"
+        "hands",
+        "I",
+        "have"
        ],
        "answer": [
         "I",
@@ -7561,10 +7591,10 @@
       {
        "type": "reorder",
        "words": [
-        "circle",
         "The",
-        "is",
-        "red"
+        "circle",
+        "red",
+        "is"
        ],
        "answer": [
         "The",
@@ -7577,9 +7607,9 @@
        "type": "reorder",
        "words": [
         "my",
-        "mother",
+        "This",
         "is",
-        "This"
+        "mother"
        ],
        "answer": [
         "This",
@@ -7591,11 +7621,11 @@
       {
        "type": "reorder",
        "words": [
-        "I",
+        "see",
         "can",
         "butterfly",
-        "see",
-        "a"
+        "a",
+        "I"
        ],
        "answer": [
         "I",
@@ -7608,10 +7638,10 @@
       {
        "type": "reorder",
        "words": [
-        "6",
         "There",
         "are",
-        "horses"
+        "horses",
+        "6"
        ],
        "answer": [
         "There",
@@ -7624,8 +7654,8 @@
        "type": "reorder",
        "words": [
         "is",
-        "dog?",
         "the",
+        "dog?",
         "Where"
        ],
        "answer": [
@@ -7639,8 +7669,8 @@
        "type": "reorder",
        "words": [
         "I",
-        "love",
-        "pets!"
+        "pets!",
+        "love"
        ],
        "answer": [
         "I",
@@ -7651,9 +7681,9 @@
       {
        "type": "reorder",
        "words": [
-        "is",
-        "a",
         "monkey",
+        "a",
+        "is",
         "There"
        ],
        "answer": [
@@ -7661,6 +7691,48 @@
         "is",
         "a",
         "monkey"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Do you have any brothers?",
+       "answer": [
+        "Yes, I have 1 brother",
+        "1",
+        "one",
+        "yes"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "How many hats are there?",
+       "answer": [
+        "There are 5 hats",
+        "5",
+        "five"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "How many cows can you see?",
+       "answer": [
+        "I can see 2 cows",
+        "2",
+        "two"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Where is the cat?",
+       "answer": [
+        "The cat is on the chair"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Where is the bird?",
+       "answer": [
+        "The bird is in the cage"
        ]
       }
      ]

@@ -1,0 +1,6243 @@
+{
+ "grade": "p2",
+ "gradeName": "الصف التاني الابتدائي",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Let's Get Started",
+   "pages": "3-12",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Classroom Greetings"
+    },
+    {
+     "n": 2,
+     "title": "Around the Classroom"
+    },
+    {
+     "n": 3,
+     "title": "Our Classroom Objects"
+    },
+    {
+     "n": 4,
+     "title": "Let's Write Together!"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Classroom Greetings",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 3)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ogdbeyo",
+       "answer": [
+        "goodbye"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "kdes",
+       "answer": [
+        "desk"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "aecerht",
+       "answer": [
+        "teacher"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "etdutns",
+       "answer": [
+        "student"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "I sit on a ___ at school.",
+       "options": [
+        "teacher",
+        "chair",
+        "desk"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "My books are on the ___.",
+       "options": [
+        "chair",
+        "desk",
+        "teacher"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "My ___ is kind.",
+       "options": [
+        "chair",
+        "teacher",
+        "desk"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Around the Classroom",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 4-5)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "fna",
+       "answer": [
+        "fan"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "atc",
+       "answer": [
+        "cat"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ath",
+       "answer": [
+        "hat"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "nam",
+       "answer": [
+        "man"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "man.",
+        "see",
+        "I",
+        "a"
+       ],
+       "answer": [
+        "I",
+        "see",
+        "a",
+        "man."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "map.",
+        "I",
+        "see"
+       ],
+       "answer": [
+        "I",
+        "see",
+        "a",
+        "map."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "cap.",
+        "a",
+        "see"
+       ],
+       "answer": [
+        "I",
+        "see",
+        "a",
+        "cap."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "see",
+        "a",
+        "hat.",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "see",
+        "a",
+        "hat."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "see",
+        "a",
+        "student.",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "see",
+        "a",
+        "student."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "desk.",
+        "I",
+        "see",
+        "a"
+       ],
+       "answer": [
+        "I",
+        "see",
+        "a",
+        "desk."
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "There is a ___ on the wall.",
+       "options": [
+        "map",
+        "chair",
+        "goodbye"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "I sat on a ___.",
+       "options": [
+        "map",
+        "chair",
+        "goodbye"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "At the end of the day, I say ___.",
+       "options": [
+        "map",
+        "goodbye",
+        "chair"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Our Classroom Objects",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 8-9)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "pne",
+       "answer": [
+        "pen"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ifg",
+       "answer": [
+        "fig"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "etn",
+       "answer": [
+        "ten"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "enp",
+       "answer": [
+        "pen"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "p_n",
+       "answer": [
+        "e"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "f_g",
+       "answer": [
+        "i"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "b_n",
+       "answer": [
+        "i"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "enh",
+       "answer": [
+        "hen"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The pens are in the ___.",
+       "options": [
+        "door",
+        "window",
+        "pencil case",
+        "board"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The teacher writes on the ___.",
+       "options": [
+        "board",
+        "pencil case",
+        "window",
+        "door"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The books are in the ___.",
+       "options": [
+        "window",
+        "board",
+        "pencil case",
+        "door"
+       ],
+       "answer": -1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Open the door/___, please!",
+       "options": [
+        "board",
+        "pencil case",
+        "door",
+        "window"
+       ],
+       "answer": 3
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Let's Write Together!",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 10)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "board.",
+        "a",
+        "That"
+       ],
+       "answer": [
+        "That",
+        "is",
+        "a",
+        "board."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "is",
+        "pencil",
+        "That",
+        "case."
+       ],
+       "answer": [
+        "That",
+        "is",
+        "a",
+        "pencil",
+        "case."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "my",
+        "This",
+        "bag."
+       ],
+       "answer": [
+        "This",
+        "is",
+        "my",
+        "bag."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "eraser.",
+        "That",
+        "is",
+        "an"
+       ],
+       "answer": [
+        "That",
+        "is",
+        "an",
+        "eraser."
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "neh",
+       "answer": [
+        "hen"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "nep",
+       "answer": [
+        "pen"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "inb",
+       "answer": [
+        "bin"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "pnliec",
+       "answer": [
+        "pencil"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ecsa",
+       "answer": [
+        "case"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "gba",
+       "answer": [
+        "bag"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد الدرسين ١ و٢ · ص 6-7",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "riach",
+       "answer": [
+        "chair"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "atc",
+       "answer": [
+        "cat"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "is",
+        "This",
+        "cat."
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "cat."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "This",
+        "a",
+        "map.",
+        "is"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "map."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "She",
+        "a",
+        "is",
+        "teacher."
+       ],
+       "answer": [
+        "She",
+        "is",
+        "a",
+        "teacher."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد الدرسين ١ و٢ · ص 6-7",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "chetear",
+       "answer": [
+        "teacher"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "amp",
+       "answer": [
+        "map"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "cap.",
+        "red",
+        "It",
+        "is",
+        "a"
+       ],
+       "answer": [
+        "It",
+        "is",
+        "a",
+        "red",
+        "cap."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "This",
+        "is",
+        "fan."
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "fan."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "teacher.",
+        "He",
+        "a",
+        "is"
+       ],
+       "answer": [
+        "He",
+        "is",
+        "a",
+        "teacher."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد الدرسين ١ و٢ · ص 6-7",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "esdk",
+       "answer": [
+        "desk"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "nam",
+       "answer": [
+        "man"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "It",
+        "cat.",
+        "is",
+        "a"
+       ],
+       "answer": [
+        "It",
+        "is",
+        "a",
+        "cat."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "He",
+        "a",
+        "student."
+       ],
+       "answer": [
+        "He",
+        "is",
+        "a",
+        "student."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "This",
+        "hat.",
+        "is",
+        "a"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "hat."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa34A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد الدرسين ٣ و٤ · ص 11-12",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "h_t",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "p_n",
+       "answer": [
+        "e"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "odwwin",
+       "answer": [
+        "window"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rlure",
+       "answer": [
+        "ruler"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "eserar",
+       "answer": [
+        "eraser"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa34B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد الدرسين ٣ و٤ · ص 11-12",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "f_g",
+       "answer": [
+        "i"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "m_p",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "oadrb",
+       "answer": [
+        "board"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rood",
+       "answer": [
+        "door"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "gba",
+       "answer": [
+        "bag"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa34C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد الدرسين ٣ و٤ · ص 11-12",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "c_t",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "t_n",
+       "answer": [
+        "e"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ynacor",
+       "answer": [
+        "crayon"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "kdes",
+       "answer": [
+        "desk"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "hrcia",
+       "answer": [
+        "chair"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "Colors, Shapes, and Numbers",
+   "pages": "13-22",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Colors and Shapes"
+    },
+    {
+     "n": 2,
+     "title": "Shapes and Colors Around Us"
+    },
+    {
+     "n": 3,
+     "title": "Numbers and Counting"
+    },
+    {
+     "n": 4,
+     "title": "Let's Count Together"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Colors and Shapes",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 13-14)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "circle.",
+        "is",
+        "This"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "circle."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "(triangle).",
+        "The",
+        "shape",
+        "3",
+        "has",
+        "sides"
+       ],
+       "answer": [
+        "The",
+        "shape",
+        "has",
+        "3",
+        "sides",
+        "(triangle)."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "blue",
+        "This",
+        "square.",
+        "is"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "blue",
+        "square."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "a",
+        "triangle.",
+        "This",
+        "blue"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "blue",
+        "triangle."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "circle.",
+        "is",
+        "This",
+        "a",
+        "red"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "red",
+        "circle."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "What",
+        "this?"
+       ],
+       "answer": [
+        "What",
+        "is",
+        "this?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "a",
+        "square.",
+        "This"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "square."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Shapes and Colors Around Us",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 15)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "xob",
+       "answer": [
+        "box"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "bni",
+       "answer": [
+        "bin"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "acp",
+       "answer": [
+        "cap"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "d_g",
+       "answer": [
+        "o"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "s_n",
+       "answer": [
+        "u"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "b_x",
+       "answer": [
+        "o"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "f_x",
+       "answer": [
+        "o"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "b_n",
+       "answer": [
+        "u"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "c_p",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "This is a dog.",
+       "answer": [
+        "dog"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "This is a bun.",
+       "answer": [
+        "bun"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "This is a cup.",
+       "answer": [
+        "cup"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "This is a box.",
+       "answer": [
+        "box"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Numbers and Counting",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 18-19)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "desk.",
+        "have",
+        "I",
+        "one"
+       ],
+       "answer": [
+        "I",
+        "have",
+        "one",
+        "desk."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "five",
+        "balloons.",
+        "have",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "have",
+        "five",
+        "balloons."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "bag.",
+        "I",
+        "one",
+        "have"
+       ],
+       "answer": [
+        "I",
+        "have",
+        "one",
+        "bag."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "four",
+        "I",
+        "rulers.",
+        "have"
+       ],
+       "answer": [
+        "I",
+        "have",
+        "four",
+        "rulers."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "two",
+        "pencils.",
+        "I",
+        "have"
+       ],
+       "answer": [
+        "I",
+        "have",
+        "two",
+        "pencils."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "three",
+        "books.",
+        "have"
+       ],
+       "answer": [
+        "I",
+        "have",
+        "three",
+        "books."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "There",
+        "How",
+        "two",
+        "many",
+        "there?",
+        "bags",
+        "are",
+        "are",
+        "bags."
+       ],
+       "answer": [
+        "How",
+        "many",
+        "bags",
+        "are",
+        "there?",
+        "There",
+        "are",
+        "two",
+        "bags."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "cat.",
+        "cats",
+        "there?",
+        "How",
+        "are",
+        "There",
+        "many",
+        "is",
+        "one"
+       ],
+       "answer": [
+        "How",
+        "many",
+        "cats",
+        "are",
+        "there?",
+        "There",
+        "is",
+        "one",
+        "cat."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "How many desks are there?",
+       "answer": [
+        "2",
+        "two"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "How many rulers?",
+       "answer": [
+        "1",
+        "one"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "How many notebooks?",
+       "answer": [
+        "2",
+        "two"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "How many pencils?",
+       "answer": [
+        "several pencils pictured"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Let's Count Together",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 20)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "eack",
+       "answer": [
+        "cake"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "etga",
+       "answer": [
+        "gate"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "asnke",
+       "answer": [
+        "snake"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rapges",
+       "answer": [
+        "grapes"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "veca",
+       "answer": [
+        "cave"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ecak",
+       "answer": [
+        "cake"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "knase",
+       "answer": [
+        "snake"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "are",
+        "pencils",
+        "there?",
+        "many",
+        "How"
+       ],
+       "answer": [
+        "How",
+        "many",
+        "pencils",
+        "are",
+        "there?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "There",
+        "one",
+        "cat.",
+        "is"
+       ],
+       "answer": [
+        "There",
+        "is",
+        "one",
+        "cat."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "are",
+        "notebooks.",
+        "There",
+        "four"
+       ],
+       "answer": [
+        "There",
+        "are",
+        "four",
+        "notebooks."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد الدرسين ١ و٢ · ص 16-17",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "fxo",
+       "answer": [
+        "fox"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "snu",
+       "answer": [
+        "sun"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "uqaesr",
+       "answer": [
+        "square"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "triangle.",
+        "is",
+        "This",
+        "green",
+        "a"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "green",
+        "triangle."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "see",
+        "dog.",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "see",
+        "a",
+        "dog."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد الدرسين ١ و٢ · ص 16-17",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "unb",
+       "answer": [
+        "bun"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "xbo",
+       "answer": [
+        "box"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "leccir",
+       "answer": [
+        "circle"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "This",
+        "a",
+        "square."
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "square."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "blue",
+        "I",
+        "have",
+        "cup."
+       ],
+       "answer": [
+        "I",
+        "have",
+        "a",
+        "blue",
+        "cup."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد الدرسين ١ و٢ · ص 16-17",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "pcu",
+       "answer": [
+        "cup"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "gdo",
+       "answer": [
+        "dog"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "aignlrte",
+       "answer": [
+        "triangle"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "This",
+        "circle.",
+        "red",
+        "is"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "red",
+        "circle."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "fox.",
+        "see",
+        "a",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "see",
+        "a",
+        "fox."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa34A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد الدرسين ٣ و٤ · ص 21-22",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "eakns",
+       "answer": [
+        "snake"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "elka",
+       "answer": [
+        "lake"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "rulers",
+        "2"
+       ],
+       "answer": [
+        "2",
+        "rulers"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "1",
+        "fan"
+       ],
+       "answer": [
+        "1",
+        "fan"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "cakes",
+        "5"
+       ],
+       "answer": [
+        "5",
+        "cakes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa34B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد الدرسين ٣ و٤ · ص 21-22",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ckae",
+       "answer": [
+        "cake"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "gtae",
+       "answer": [
+        "gate"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "1",
+        "fox"
+       ],
+       "answer": [
+        "1",
+        "fox"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "balls",
+        "3"
+       ],
+       "answer": [
+        "3",
+        "balls"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "fans",
+        "2"
+       ],
+       "answer": [
+        "2",
+        "fans"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa34C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد الدرسين ٣ و٤ · ص 21-22",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "acve",
+       "answer": [
+        "cave"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "upc",
+       "answer": [
+        "cup"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "eraser",
+        "1"
+       ],
+       "answer": [
+        "1",
+        "eraser"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "2",
+        "books"
+       ],
+       "answer": [
+        "2",
+        "books"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "4",
+        "cups"
+       ],
+       "answer": [
+        "4",
+        "cups"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "Classroom Actions & Routines",
+   "pages": "23-30",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Classroom Actions"
+    },
+    {
+     "n": 2,
+     "title": "Let's Talk about Class Routines"
+    },
+    {
+     "n": 3,
+     "title": "All About Our Classroom"
+    },
+    {
+     "n": 4,
+     "title": "Writing About Our Class"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Classroom Actions",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 23-24)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "riigtnw",
+       "answer": [
+        "writing"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "glaipyn",
+       "answer": [
+        "playing"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "edirnag",
+       "answer": [
+        "reading"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Color",
+        "picture.",
+        "the"
+       ],
+       "answer": [
+        "Color",
+        "the",
+        "picture."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Stand",
+        "up."
+       ],
+       "answer": [
+        "Stand",
+        "up."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "door.",
+        "the",
+        "Open"
+       ],
+       "answer": [
+        "Open",
+        "the",
+        "door."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "table.",
+        "Clean",
+        "the"
+       ],
+       "answer": [
+        "Clean",
+        "the",
+        "table."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "clean",
+        "I",
+        "class.",
+        "my"
+       ],
+       "answer": [
+        "I",
+        "clean",
+        "my",
+        "class."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "I",
+        "picture.",
+        "draw"
+       ],
+       "answer": [
+        "I",
+        "draw",
+        "a",
+        "picture."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "sing",
+        "I",
+        "song.",
+        "a"
+       ],
+       "answer": [
+        "I",
+        "sing",
+        "a",
+        "song."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "in",
+        "notebook.",
+        "write",
+        "my"
+       ],
+       "answer": [
+        "I",
+        "write",
+        "in",
+        "my",
+        "notebook."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "my",
+        "read",
+        "book.",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "read",
+        "my",
+        "book."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Let's Talk about Class Routines",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 25-26)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "book.",
+        "your",
+        "Close"
+       ],
+       "answer": [
+        "Close",
+        "your",
+        "book."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "friends.",
+        "Play",
+        "your",
+        "with"
+       ],
+       "answer": [
+        "Play",
+        "with",
+        "your",
+        "friends."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "hand.",
+        "Raise"
+       ],
+       "answer": [
+        "Raise",
+        "your",
+        "hand."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "Write",
+        "name."
+       ],
+       "answer": [
+        "Write",
+        "your",
+        "name."
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "___ your book.",
+       "options": [
+        "Clap",
+        "Sit",
+        "Open"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "___ your hand.",
+       "options": [
+        "Draw",
+        "Write",
+        "Raise"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "___ a circle.",
+       "options": [
+        "Draw",
+        "Clap",
+        "Read"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "drawing"
+       ],
+       "answer": [
+        "drawing",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "clapping"
+       ],
+       "answer": [
+        "clapping",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "open",
+        "books"
+       ],
+       "answer": [
+        "open",
+        "books",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "sitting",
+        "pic"
+       ],
+       "answer": [
+        "sitting",
+        "pic"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: All About Our Classroom",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 29)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I ___ a circle.",
+       "options": [
+        "draw",
+        "open"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "She is ___ the desk.",
+       "options": [
+        "cleaning",
+        "singing"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I ___ in my notebook.",
+       "options": [
+        "write",
+        "clean"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "I'm Noura. At the classroom, I ___ on the board. I raise my hand to speak. I play with my friends after school.",
+       "options": [
+        "raise",
+        "play",
+        "write"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "unscramble",
+       "letters": "gsngini",
+       "answer": [
+        "singing"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "grnciloo",
+       "answer": [
+        "coloring"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "iarnisg",
+       "answer": [
+        "raising"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "nhda",
+       "answer": [
+        "hand"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "geadirn",
+       "answer": [
+        "reading"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Writing About Our Class",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 30)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "on",
+        "sit",
+        "chair.",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "sit",
+        "on",
+        "a",
+        "chair."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "window.",
+        "the",
+        "open",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "open",
+        "the",
+        "window."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "desk.",
+        "my",
+        "I",
+        "clean"
+       ],
+       "answer": [
+        "I",
+        "clean",
+        "my",
+        "desk."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "draw",
+        "picture.",
+        "a",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "draw",
+        "a",
+        "picture."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "story.",
+        "read",
+        "a",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "read",
+        "a",
+        "story."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد الدرسين ١ و٢ · ص 27-28",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "up.",
+        "Stand"
+       ],
+       "answer": [
+        "Stand",
+        "up."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "song.",
+        "singing",
+        "is",
+        "He",
+        "a"
+       ],
+       "answer": [
+        "He",
+        "is",
+        "singing",
+        "a",
+        "song."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "draw",
+        "I",
+        "a",
+        "circle."
+       ],
+       "answer": [
+        "I",
+        "draw",
+        "a",
+        "circle."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "Raise",
+        "hand."
+       ],
+       "answer": [
+        "Raise",
+        "your",
+        "hand."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "Close",
+        "book."
+       ],
+       "answer": [
+        "Close",
+        "your",
+        "book."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد الدرسين ١ و٢ · ص 27-28",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "window.",
+        "the",
+        "Open/Close"
+       ],
+       "answer": [
+        "Open/Close",
+        "the",
+        "window."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "is",
+        "book.",
+        "She",
+        "reading"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "reading",
+        "a",
+        "book."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "draw",
+        "I",
+        "picture.",
+        "a"
+       ],
+       "answer": [
+        "I",
+        "draw",
+        "a",
+        "picture."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "hands.",
+        "Clap",
+        "your"
+       ],
+       "answer": [
+        "Clap",
+        "your",
+        "hands."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "desk.",
+        "Clean"
+       ],
+       "answer": [
+        "Clean",
+        "your",
+        "desk."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد الدرسين ١ و٢ · ص 27-28",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "cleaning.",
+        "She",
+        "is"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "cleaning."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "a",
+        "color",
+        "picture."
+       ],
+       "answer": [
+        "I",
+        "color",
+        "a",
+        "picture."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "book.",
+        "your",
+        "Open"
+       ],
+       "answer": [
+        "Open",
+        "your",
+        "book."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "name.",
+        "your",
+        "Write"
+       ],
+       "answer": [
+        "Write",
+        "your",
+        "name."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "song.",
+        "Sing"
+       ],
+       "answer": [
+        "Sing",
+        "a",
+        "song."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Everyday Life",
+   "pages": "35-44",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "My Family"
+    },
+    {
+     "n": 2,
+     "title": "All About Me"
+    },
+    {
+     "n": 3,
+     "title": "My Life at Home"
+    },
+    {
+     "n": 4,
+     "title": "Me and My Family"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: My Family",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 35-36)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "gornrhmetad",
+       "answer": [
+        "grandmother"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rrhotbe",
+       "answer": [
+        "brother"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ahrrtfegadn",
+       "answer": [
+        "grandfather"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "htoerm",
+       "answer": [
+        "mother"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "tsresi",
+       "answer": [
+        "sister"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ehfart",
+       "answer": [
+        "father"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "She",
+        "my",
+        "is",
+        "grandmother."
+       ],
+       "answer": [
+        "She",
+        "is",
+        "my",
+        "grandmother."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "He",
+        "father.",
+        "my",
+        "is"
+       ],
+       "answer": [
+        "He",
+        "is",
+        "my",
+        "father."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "This",
+        "brother.",
+        "is"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "your",
+        "brother."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "mother.",
+        "my",
+        "is",
+        "She"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "my",
+        "mother."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: All About Me",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 37)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "eson",
+       "answer": [
+        "nose"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "eulg",
+       "answer": [
+        "glue"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "cbeu",
+       "answer": [
+        "cube"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "sore",
+       "answer": [
+        "rose"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "She",
+        "your",
+        "mother.",
+        "is"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "your",
+        "mother."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "father.",
+        "is",
+        "my",
+        "This"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "my",
+        "father."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "my",
+        "grandmother.",
+        "This",
+        "is"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "my",
+        "grandmother."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: My Life at Home",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 40-41)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "brushing",
+        "teeth"
+       ],
+       "answer": [
+        "brushing",
+        "teeth",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "waking",
+        "pic",
+        "up"
+       ],
+       "answer": [
+        "waking",
+        "up",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "sleeping"
+       ],
+       "answer": [
+        "sleeping",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "eating"
+       ],
+       "answer": [
+        "eating",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "playing",
+        "blocks"
+       ],
+       "answer": [
+        "playing",
+        "blocks",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "reading"
+       ],
+       "answer": [
+        "reading",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "brush",
+        "teeth.",
+        "my",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "brush",
+        "my",
+        "teeth."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "lunch.",
+        "He",
+        "eats"
+       ],
+       "answer": [
+        "He",
+        "eats",
+        "lunch."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "read",
+        "I",
+        "book.",
+        "my"
+       ],
+       "answer": [
+        "I",
+        "read",
+        "my",
+        "book."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "He",
+        "at",
+        "sleeps",
+        "night."
+       ],
+       "answer": [
+        "He",
+        "sleeps",
+        "at",
+        "night."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "brush",
+        "my",
+        "I",
+        "teeth."
+       ],
+       "answer": [
+        "I",
+        "brush",
+        "my",
+        "teeth."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "eats",
+        "lunch.",
+        "She"
+       ],
+       "answer": [
+        "She",
+        "eats",
+        "lunch."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "wake",
+        "at",
+        "seven.",
+        "I",
+        "up"
+       ],
+       "answer": [
+        "I",
+        "wake",
+        "up",
+        "at",
+        "seven."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Me and My Family",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 42)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ethte",
+       "answer": [
+        "teeth"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ihnt",
+       "answer": [
+        "thin"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "bhutm",
+       "answer": [
+        "thumb"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "teeth"
+       ],
+       "answer": [
+        "teeth",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "thumb"
+       ],
+       "answer": [
+        "thumb",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "math"
+       ],
+       "answer": [
+        "math",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "boy",
+        "pic",
+        "thin"
+       ],
+       "answer": [
+        "thin",
+        "boy",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "book",
+        "pic",
+        "thick"
+       ],
+       "answer": [
+        "thick",
+        "book",
+        "pic"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "I brush my ___.",
+       "options": [
+        "hair",
+        "after school",
+        "wake up"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "I play ___.",
+       "options": [
+        "after school",
+        "hair",
+        "wake up"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "I ___ at six.",
+       "options": [
+        "hair",
+        "wake up",
+        "after school"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "wa12A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد الدرسين ١ و٢ · ص 38-39",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "dad.",
+        "my",
+        "This",
+        "is"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "my",
+        "dad."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "grandmother.",
+        "my",
+        "She",
+        "is"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "my",
+        "grandmother."
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "agnometdrrh",
+       "answer": [
+        "grandmother"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد الدرسين ١ و٢ · ص 38-39",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "your",
+        "brother.",
+        "This"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "your",
+        "brother."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "mom.",
+        "She",
+        "is",
+        "my"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "my",
+        "mom."
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rigl",
+       "answer": [
+        "girl"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ngigvi",
+       "answer": [
+        "giving"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "woflre",
+       "answer": [
+        "flower"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ot",
+       "answer": [
+        "to"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "hrmeot",
+       "answer": [
+        "mother"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد الدرسين ١ و٢ · ص 38-39",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "sister.",
+        "is",
+        "my",
+        "She"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "my",
+        "sister."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "is",
+        "grandfather.",
+        "This"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "your",
+        "grandfather."
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "gdharftrane",
+       "answer": [
+        "grandfather"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa34A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد الدرسين ٣ و٤ · ص 43-44",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "byo",
+       "answer": [
+        "boy"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "titnsig",
+       "answer": [
+        "sitting"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "no",
+       "answer": [
+        "on"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "acirh",
+       "answer": [
+        "chair"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "hnad",
+       "answer": [
+        "hand"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "enngpio",
+       "answer": [
+        "opening"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "iwnowd",
+       "answer": [
+        "window"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "hrubs",
+       "answer": [
+        "brush"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "haws",
+       "answer": [
+        "wash"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "spele",
+       "answer": [
+        "sleep"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa34B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد الدرسين ٣ و٤ · ص 43-44",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "igrl",
+       "answer": [
+        "girl"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "iteang",
+       "answer": [
+        "eating"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "yob",
+       "answer": [
+        "boy"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "haniwsg",
+       "answer": [
+        "washing"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "efca",
+       "answer": [
+        "face"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "kwla",
+       "answer": [
+        "walk"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "eta",
+       "answer": [
+        "eat"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rade",
+       "answer": [
+        "read"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa34C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد الدرسين ٣ و٤ · ص 43-44",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ybos",
+       "answer": [
+        "boys"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ialpgyn",
+       "answer": [
+        "playing"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "taflbool",
+       "answer": [
+        "football"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "wihansg",
+       "answer": [
+        "washing"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ansdh",
+       "answer": [
+        "hands"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "endur",
+       "answer": [
+        "under"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "pta",
+       "answer": [
+        "tap"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "pyal",
+       "answer": [
+        "play"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "spele",
+       "answer": [
+        "sleep"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "eta",
+       "answer": [
+        "eat"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "My Home",
+   "pages": "45-54",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Inside My Home"
+    },
+    {
+     "n": 2,
+     "title": "What's in My Home?"
+    },
+    {
+     "n": 3,
+     "title": "My Favorite Room"
+    },
+    {
+     "n": 4,
+     "title": "Actions at Home"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Inside My Home",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 45-46)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "in",
+        "pic",
+        "box",
+        "ball"
+       ],
+       "answer": [
+        "ball",
+        "in",
+        "box",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "next",
+        "to",
+        "box",
+        "pic",
+        "ball"
+       ],
+       "answer": [
+        "ball",
+        "next",
+        "to",
+        "box",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "cat",
+        "box",
+        "pic",
+        "under"
+       ],
+       "answer": [
+        "cat",
+        "under",
+        "box",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "couch.",
+        "plant",
+        "(under/next",
+        "is",
+        "the",
+        "The",
+        "to)"
+       ],
+       "answer": [
+        "The",
+        "plant",
+        "is",
+        "(under/next",
+        "to)",
+        "the",
+        "couch."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "room.",
+        "The",
+        "chairs",
+        "dining",
+        "(is/are)",
+        "the",
+        "in"
+       ],
+       "answer": [
+        "The",
+        "chairs",
+        "(is/are)",
+        "in",
+        "the",
+        "dining",
+        "room."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "The",
+        "(under/on)",
+        "lamp",
+        "table.",
+        "the"
+       ],
+       "answer": [
+        "The",
+        "lamp",
+        "is",
+        "(under/on)",
+        "the",
+        "table."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "bathroom.",
+        "(on/in)",
+        "is",
+        "girl",
+        "the",
+        "The"
+       ],
+       "answer": [
+        "The",
+        "girl",
+        "is",
+        "(on/in)",
+        "the",
+        "bathroom."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "is",
+        "Where",
+        "table?"
+       ],
+       "answer": [
+        "Where",
+        "is",
+        "the",
+        "table?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "ball",
+        "is",
+        "The",
+        "the",
+        "table.",
+        "on"
+       ],
+       "answer": [
+        "The",
+        "ball",
+        "is",
+        "on",
+        "the",
+        "table."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "dining",
+        "the",
+        "eat",
+        "room.",
+        "in",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "eat",
+        "in",
+        "the",
+        "dining",
+        "room."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "are",
+        "the",
+        "flowers?",
+        "Where"
+       ],
+       "answer": [
+        "Where",
+        "are",
+        "the",
+        "flowers?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: What's in My Home?",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 47)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "bathroom"
+       ],
+       "answer": [
+        "bathroom",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "lamp"
+       ],
+       "answer": [
+        "lamp",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "kitchen",
+        "pic"
+       ],
+       "answer": [
+        "kitchen",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "bedroom"
+       ],
+       "answer": [
+        "bedroom",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "dining",
+        "room",
+        "pic"
+       ],
+       "answer": [
+        "dining",
+        "room",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "garden"
+       ],
+       "answer": [
+        "garden",
+        "pic"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "This is my bedroom. There is a ___ on the table. There is a chair (next to) the bed. I clean my (room) every day.",
+       "options": [
+        "next to",
+        "lamp",
+        "room"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: My Favorite Room",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 50)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "artfhe",
+       "answer": [
+        "father"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ohertm",
+       "answer": [
+        "mother"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "brothre",
+       "answer": [
+        "brother"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "atth",
+       "answer": [
+        "that"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "mo__er",
+       "answer": [
+        "th"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "fa__er",
+       "answer": [
+        "th"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "__at",
+       "answer": [
+        "th"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Actions at Home",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 51-52)",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "I __ my mom.",
+       "answer": [
+        "help"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "My father __ TV.",
+       "answer": [
+        "watches"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I __ my room.",
+       "answer": [
+        "clean"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "My mom __ lunch.",
+       "answer": [
+        "cooks"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "sihp",
+       "answer": [
+        "ship"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "sifh",
+       "answer": [
+        "fish"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ohsp",
+       "answer": [
+        "shop"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد الدرسين ١ و٢ · ص 48-49",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "nidnig",
+       "answer": [
+        "dining"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "atbel",
+       "answer": [
+        "table"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "thwi",
+       "answer": [
+        "with"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "icsrah",
+       "answer": [
+        "chairs"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "tac",
+       "answer": [
+        "cat"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ruedn",
+       "answer": [
+        "under"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "oxb",
+       "answer": [
+        "box"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "flowers",
+        "the",
+        "The",
+        "garden.",
+        "are",
+        "in"
+       ],
+       "answer": [
+        "The",
+        "flowers",
+        "are",
+        "in",
+        "the",
+        "garden."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "room.",
+        "couch",
+        "in",
+        "There",
+        "a",
+        "is",
+        "living"
+       ],
+       "answer": [
+        "There",
+        "is",
+        "a",
+        "couch",
+        "in",
+        "the",
+        "living",
+        "room."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "is",
+        "bed?",
+        "Where"
+       ],
+       "answer": [
+        "Where",
+        "is",
+        "the",
+        "bed?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد الدرسين ١ و٢ · ص 48-49",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "eroobdm",
+       "answer": [
+        "bedroom"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rendga",
+       "answer": [
+        "garden"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "The",
+        "on",
+        "table.",
+        "is",
+        "lamp"
+       ],
+       "answer": [
+        "The",
+        "lamp",
+        "is",
+        "on",
+        "the",
+        "table."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "bed",
+        "a",
+        "in",
+        "the",
+        "is",
+        "bedroom.",
+        "There"
+       ],
+       "answer": [
+        "There",
+        "is",
+        "a",
+        "bed",
+        "in",
+        "the",
+        "bedroom."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "room.",
+        "a",
+        "the",
+        "There",
+        "in",
+        "couch",
+        "living",
+        "is"
+       ],
+       "answer": [
+        "There",
+        "is",
+        "a",
+        "couch",
+        "in",
+        "the",
+        "living",
+        "room."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد الدرسين ١ و٢ · ص 48-49",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "bromoed",
+       "answer": [
+        "bedroom"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "diignn",
+       "answer": [
+        "dining"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "etlab",
+       "answer": [
+        "table"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "There",
+        "a",
+        "ball",
+        "the",
+        "under",
+        "table.",
+        "is"
+       ],
+       "answer": [
+        "There",
+        "is",
+        "a",
+        "ball",
+        "under",
+        "the",
+        "table."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "There",
+        "table",
+        "in",
+        "kitchen.",
+        "the",
+        "is"
+       ],
+       "answer": [
+        "There",
+        "is",
+        "a",
+        "table",
+        "in",
+        "the",
+        "kitchen."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "box.",
+        "The",
+        "cat",
+        "in",
+        "the",
+        "is"
+       ],
+       "answer": [
+        "The",
+        "cat",
+        "is",
+        "in",
+        "the",
+        "box."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa34A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد الدرسين ٣ و٤ · ص 53-54",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "irlg",
+       "answer": [
+        "girl"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ni",
+       "answer": [
+        "in"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "omtorhba",
+       "answer": [
+        "bathroom"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "glir",
+       "answer": [
+        "girl"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "hnligpe",
+       "answer": [
+        "helping"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "omm",
+       "answer": [
+        "mom"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "thiw",
+       "answer": [
+        "with"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ssidhe",
+       "answer": [
+        "dishes"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "sh_p",
+       "answer": [
+        "o"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "sh__p",
+       "answer": [
+        "ee"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "mo__er",
+       "answer": [
+        "th"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa34B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد الدرسين ٣ و٤ · ص 53-54",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "koiocgn",
+       "answer": [
+        "cooking"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ni",
+       "answer": [
+        "in"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "cnktihe",
+       "answer": [
+        "kitchen"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "inlhgpe",
+       "answer": [
+        "helping"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "wtih",
+       "answer": [
+        "with"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "radnyul",
+       "answer": [
+        "laundry"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "fi__",
+       "answer": [
+        "sh"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "d_sh",
+       "answer": [
+        "i"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "sh_p",
+       "answer": [
+        "i"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa34C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد الدرسين ٣ و٤ · ص 53-54",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "omm",
+       "answer": [
+        "mom"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "dna",
+       "answer": [
+        "and"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "glir",
+       "answer": [
+        "girl"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ikoocgn",
+       "answer": [
+        "cooking"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "omm",
+       "answer": [
+        "mom"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "dna",
+       "answer": [
+        "and"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "lichd",
+       "answer": [
+        "child"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "cgwainht",
+       "answer": [
+        "watching"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "vt",
+       "answer": [
+        "tv"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "mo__er",
+       "answer": [
+        "th"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "fa__er",
+       "answer": [
+        "th"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "bru__",
+       "answer": [
+        "sh"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "Rooms at Home",
+   "pages": "55-60",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "My Home"
+    },
+    {
+     "n": 2,
+     "title": "Let's Talk About Our Home"
+    },
+    {
+     "n": 3,
+     "title": "Where Things Are in My Home!"
+    },
+    {
+     "n": 4,
+     "title": "I Can Read and Write About My Home!"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: My Home",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 55)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "cnaolby",
+       "answer": [
+        "balcony"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "hlal",
+       "answer": [
+        "hall"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "cektihn",
+       "answer": [
+        "kitchen"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Let's Talk About Our Home",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 56)",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "Where do you sleep?",
+       "answer": [
+        "in the bedroom",
+        "bedroom"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Where do you eat?",
+       "answer": [
+        "in the dining room",
+        "dining room"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Where do you brush your teeth?",
+       "answer": [
+        "in the bathroom",
+        "bathroom"
+       ]
+      },
+      {
+       "type": "tf",
+       "q": "I brush my teeth in the kitchen.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "I watch TV in the living room.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "I sleep in the balcony.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "I eat lunch in the dining room.",
+       "answer": true
+      },
+      {
+       "type": "unscramble",
+       "letters": "inhwgas",
+       "answer": [
+        "washing"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "caef",
+       "answer": [
+        "face"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "aiteng",
+       "answer": [
+        "eating"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "gnaticwh",
+       "answer": [
+        "watching"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "vt",
+       "answer": [
+        "tv"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Where Things Are in My Home!",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 59)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "hseeec",
+       "answer": [
+        "cheese"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "degew",
+       "answer": [
+        "wedge"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "cip",
+       "answer": [
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pic",
+        "paper",
+        "sheet",
+        "of"
+       ],
+       "answer": [
+        "sheet",
+        "of",
+        "paper",
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "food",
+        "plate",
+        "of",
+        "pic"
+       ],
+       "answer": [
+        "plate",
+        "of",
+        "food",
+        "pic"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "asidln",
+       "answer": [
+        "island"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "pci",
+       "answer": [
+        "pic"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "on",
+        "lamp",
+        "a",
+        "table.",
+        "There",
+        "(is/are)",
+        "the"
+       ],
+       "answer": [
+        "There",
+        "(is/are)",
+        "a",
+        "lamp",
+        "on",
+        "the",
+        "table."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "dining",
+        "chairs",
+        "(is/are)",
+        "in",
+        "room.",
+        "There",
+        "the"
+       ],
+       "answer": [
+        "There",
+        "(is/are)",
+        "chairs",
+        "in",
+        "the",
+        "dining",
+        "room."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "fridge",
+        "the",
+        "(is/are)",
+        "There",
+        "in",
+        "kitchen."
+       ],
+       "answer": [
+        "There",
+        "(is/are)",
+        "a",
+        "fridge",
+        "in",
+        "the",
+        "kitchen."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "tables in the kitchen",
+       "answer": [
+        "There are"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "a TV in the living room",
+       "answer": [
+        "There is"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "three trees in the garden",
+       "answer": [
+        "There are"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "a couch and a bed in the bedroom",
+       "answer": [
+        "There is"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: I Can Read and Write About My Home!",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 60)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "There is a bed in the ___.",
+       "options": [
+        "bed",
+        "bedroom",
+        "living room",
+        "TV"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "We watch TV in the ___.",
+       "options": [
+        "TV",
+        "bedroom",
+        "living room",
+        "bed"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "in",
+        "table",
+        "the",
+        "living",
+        "There",
+        "room.",
+        "a"
+       ],
+       "answer": [
+        "There",
+        "is",
+        "a",
+        "table",
+        "in",
+        "the",
+        "living",
+        "room."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "in",
+        "the",
+        "cook",
+        "We",
+        "kitchen."
+       ],
+       "answer": [
+        "We",
+        "cook",
+        "in",
+        "the",
+        "kitchen."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد الدرسين ١ و٢ · ص 57-58",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "you",
+        "do",
+        "eat?",
+        "Where"
+       ],
+       "answer": [
+        "Where",
+        "do",
+        "you",
+        "eat?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "do",
+        "you",
+        "Where",
+        "cook?"
+       ],
+       "answer": [
+        "Where",
+        "do",
+        "you",
+        "cook?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "you",
+        "Where",
+        "do",
+        "brush",
+        "your",
+        "teeth?"
+       ],
+       "answer": [
+        "Where",
+        "do",
+        "you",
+        "brush",
+        "your",
+        "teeth?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "in",
+        "bathroom.",
+        "wash",
+        "my",
+        "I",
+        "the",
+        "hands"
+       ],
+       "answer": [
+        "I",
+        "wash",
+        "my",
+        "hands",
+        "in",
+        "the",
+        "bathroom."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "bed",
+        "a",
+        "the",
+        "There",
+        "bedroom.",
+        "in"
+       ],
+       "answer": [
+        "There",
+        "is",
+        "a",
+        "bed",
+        "in",
+        "the",
+        "bedroom."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد الدرسين ١ و٢ · ص 57-58",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "wash",
+        "do",
+        "you",
+        "face?",
+        "your",
+        "Where"
+       ],
+       "answer": [
+        "Where",
+        "do",
+        "you",
+        "wash",
+        "your",
+        "face?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Where",
+        "you",
+        "TV?",
+        "do",
+        "watch"
+       ],
+       "answer": [
+        "Where",
+        "do",
+        "you",
+        "watch",
+        "TV?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "table?",
+        "the",
+        "is",
+        "Where"
+       ],
+       "answer": [
+        "Where",
+        "is",
+        "the",
+        "table?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "in",
+        "eat",
+        "I",
+        "room.",
+        "the",
+        "dining"
+       ],
+       "answer": [
+        "I",
+        "eat",
+        "in",
+        "the",
+        "dining",
+        "room."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "on",
+        "table.",
+        "The",
+        "lamp",
+        "is"
+       ],
+       "answer": [
+        "The",
+        "lamp",
+        "is",
+        "on",
+        "the",
+        "table."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa12C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد الدرسين ١ و٢ · ص 57-58",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "teeth?",
+        "your",
+        "Where",
+        "do",
+        "brush",
+        "you"
+       ],
+       "answer": [
+        "Where",
+        "do",
+        "you",
+        "brush",
+        "your",
+        "teeth?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "sleep?",
+        "Where",
+        "you",
+        "do"
+       ],
+       "answer": [
+        "Where",
+        "do",
+        "you",
+        "sleep?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Where",
+        "watch",
+        "TV?",
+        "you",
+        "do"
+       ],
+       "answer": [
+        "Where",
+        "do",
+        "you",
+        "watch",
+        "TV?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "next",
+        "is",
+        "the",
+        "window.",
+        "to",
+        "It"
+       ],
+       "answer": [
+        "It",
+        "is",
+        "next",
+        "to",
+        "the",
+        "window."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "fridge.",
+        "a",
+        "is",
+        "That"
+       ],
+       "answer": [
+        "That",
+        "is",
+        "a",
+        "fridge."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gr1",
+   "title": "المراجعة العامة ١",
+   "pages": "31-34",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "المراجعة العامة ١",
+     "sub": "من كتاب التقييمات (ص 31-34) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "see",
+        "cat.",
+        "a"
+       ],
+       "answer": [
+        "I",
+        "see",
+        "a",
+        "cat."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "is",
+        "map.",
+        "This"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "map."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "sit",
+        "I",
+        "on",
+        "chair.",
+        "a"
+       ],
+       "answer": [
+        "I",
+        "sit",
+        "on",
+        "a",
+        "chair."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "Open",
+        "window."
+       ],
+       "answer": [
+        "Open",
+        "the",
+        "window."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "draw",
+        "a",
+        "I",
+        "circle."
+       ],
+       "answer": [
+        "I",
+        "draw",
+        "a",
+        "circle."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Write",
+        "name.",
+        "your"
+       ],
+       "answer": [
+        "Write",
+        "your",
+        "name."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "This",
+        "is",
+        "pencil.",
+        "my"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "my",
+        "pencil."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "hands.",
+        "Clap"
+       ],
+       "answer": [
+        "Clap",
+        "your",
+        "hands."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "my",
+        "This",
+        "desk."
+       ],
+       "answer": [
+        "This",
+        "is",
+        "my",
+        "desk."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "friends.",
+        "with",
+        "my",
+        "play",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "play",
+        "with",
+        "my",
+        "friends."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "book.",
+        "my",
+        "I",
+        "read"
+       ],
+       "answer": [
+        "I",
+        "read",
+        "my",
+        "book."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "draw",
+        "I",
+        "picture."
+       ],
+       "answer": [
+        "I",
+        "draw",
+        "a",
+        "picture."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "Raise",
+        "speak.",
+        "hand",
+        "to"
+       ],
+       "answer": [
+        "Raise",
+        "your",
+        "hand",
+        "to",
+        "speak."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "notebook.",
+        "Write",
+        "your",
+        "name",
+        "in"
+       ],
+       "answer": [
+        "Write",
+        "your",
+        "name",
+        "in",
+        "your",
+        "notebook."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "sit",
+        "on",
+        "a",
+        "I",
+        "chair."
+       ],
+       "answer": [
+        "I",
+        "sit",
+        "on",
+        "a",
+        "chair."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "with",
+        "friends.",
+        "song",
+        "sing",
+        "I",
+        "a",
+        "my"
+       ],
+       "answer": [
+        "I",
+        "sing",
+        "a",
+        "song",
+        "with",
+        "my",
+        "friends."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "boy",
+        "a",
+        "is",
+        "reading",
+        "The",
+        "book."
+       ],
+       "answer": [
+        "The",
+        "boy",
+        "is",
+        "reading",
+        "a",
+        "book."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "desk.",
+        "my",
+        "clean",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "clean",
+        "my",
+        "desk."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "board.",
+        "on",
+        "There",
+        "three",
+        "the",
+        "squares",
+        "are"
+       ],
+       "answer": [
+        "There",
+        "are",
+        "three",
+        "squares",
+        "on",
+        "the",
+        "board."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "board.",
+        "Draw",
+        "a",
+        "on",
+        "the",
+        "triangle"
+       ],
+       "answer": [
+        "Draw",
+        "a",
+        "triangle",
+        "on",
+        "the",
+        "board."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "after",
+        "my",
+        "I",
+        "school.",
+        "friends",
+        "with",
+        "play"
+       ],
+       "answer": [
+        "I",
+        "play",
+        "with",
+        "my",
+        "friends",
+        "after",
+        "school."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "have",
+        "eraser.",
+        "I",
+        "an"
+       ],
+       "answer": [
+        "I",
+        "have",
+        "an",
+        "eraser."
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "sniiarg",
+       "answer": [
+        "raising"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ahdn",
+       "answer": [
+        "hand"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "aipglncp",
+       "answer": [
+        "clapping"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "anshd",
+       "answer": [
+        "hands"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rgli",
+       "answer": [
+        "girl"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ignisng",
+       "answer": [
+        "singing"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "asrree",
+       "answer": [
+        "eraser"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "lacegernt",
+       "answer": [
+        "rectangle"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "gonpein",
+       "answer": [
+        "opening"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "onwidw",
+       "answer": [
+        "window"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "oonlgirc",
+       "answer": [
+        "coloring"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gr2",
+   "title": "المراجعة العامة ٢",
+   "pages": "61-64",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "المراجعة العامة ٢",
+     "sub": "من كتاب التقييمات (ص 61-64) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "room.",
+        "clean",
+        "I",
+        "the"
+       ],
+       "answer": [
+        "I",
+        "clean",
+        "the",
+        "room."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "washes",
+        "brother",
+        "dishes.",
+        "the",
+        "My"
+       ],
+       "answer": [
+        "My",
+        "brother",
+        "washes",
+        "the",
+        "dishes."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "reads",
+        "a",
+        "My",
+        "book.",
+        "sister"
+       ],
+       "answer": [
+        "My",
+        "sister",
+        "reads",
+        "a",
+        "book."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "watches",
+        "My",
+        "TV.",
+        "dad"
+       ],
+       "answer": [
+        "My",
+        "dad",
+        "watches",
+        "TV."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "My",
+        "cooks",
+        "lunch.",
+        "mom"
+       ],
+       "answer": [
+        "My",
+        "mom",
+        "cooks",
+        "lunch."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "in",
+        "room.",
+        "I",
+        "the",
+        "eat",
+        "dining"
+       ],
+       "answer": [
+        "I",
+        "eat",
+        "in",
+        "the",
+        "dining",
+        "room."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "family.",
+        "This",
+        "my"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "my",
+        "family."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "This",
+        "my",
+        "is",
+        "father."
+       ],
+       "answer": [
+        "This",
+        "is",
+        "my",
+        "father."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "my",
+        "help",
+        "mom.",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "help",
+        "my",
+        "mom."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "garden.",
+        "The",
+        "the",
+        "in",
+        "are",
+        "flowers"
+       ],
+       "answer": [
+        "The",
+        "flowers",
+        "are",
+        "in",
+        "the",
+        "garden."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "on",
+        "is",
+        "table.",
+        "There",
+        "a",
+        "lamp"
+       ],
+       "answer": [
+        "There",
+        "is",
+        "a",
+        "lamp",
+        "on",
+        "the",
+        "table."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "two",
+        "are",
+        "beds",
+        "bedroom.",
+        "the",
+        "in",
+        "There"
+       ],
+       "answer": [
+        "There",
+        "are",
+        "two",
+        "beds",
+        "in",
+        "the",
+        "bedroom."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Where do you sleep?",
+       "answer": [
+        "in the bedroom",
+        "bedroom"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Where do you brush your teeth?",
+       "answer": [
+        "in the bathroom",
+        "bathroom"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Where do you cook?",
+       "answer": [
+        "in the kitchen",
+        "kitchen"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "This is my ___ (bedroom pic).",
+       "answer": [
+        "bedroom"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "There is a ___ on the table (bedroom pic).",
+       "answer": [
+        "lamp"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "There is a shower in the ___ (bathroom pic).",
+       "answer": [
+        "bathroom"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "There is a bed in the ___ (bedroom pic).",
+       "answer": [
+        "bedroom"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "We watch TV in the ___ (living room pic).",
+       "answer": [
+        "living room"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "The ball is ___ the box (next to pic).",
+       "answer": [
+        "next to"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "The ball is ___ the box (in pic).",
+       "answer": [
+        "in"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "The dog is ___ the box (under pic).",
+       "answer": [
+        "under"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I __ a picture.",
+       "answer": [
+        "draw"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I __ my mom in the kitchen.",
+       "answer": [
+        "help"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I __ lunch in the dinning (sic) room.",
+       "answer": [
+        "cook"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I __ in my notebook.",
+       "answer": [
+        "write"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I __ a song with my brother.",
+       "answer": [
+        "sing"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I __ with my friends.",
+       "answer": [
+        "play"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I __ at night.",
+       "answer": [
+        "sleep"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I __ at seven.",
+       "answer": [
+        "wake up"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I __ TV with my family.",
+       "answer": [
+        "watch"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I __ on a chair.",
+       "answer": [
+        "sit"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "__in",
+       "answer": [
+        "th"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "p_n",
+       "answer": [
+        "e"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "l_k_",
+       "answer": [
+        "ae"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "g_t_",
+       "answer": [
+        "ae"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "__eese",
+       "answer": [
+        "ch"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "lun__",
+       "answer": [
+        "ch"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "sh_p",
+       "answer": [
+        "i"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "di__",
+       "answer": [
+        "sh"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "sh_p",
+       "answer": [
+        "o"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "__ick",
+       "answer": [
+        "th"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "__umb",
+       "answer": [
+        "th"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "tee__",
+       "answer": [
+        "th"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "final1",
+   "title": "التقييم النهائي ١",
+   "pages": "65-66",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "التقييم النهائي ١",
+     "sub": "من كتاب التقييمات (ص 65-66) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "gl_e",
+       "answer": [
+        "u"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "f_n",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "t_n",
+       "answer": [
+        "e"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "h_t",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My mom __ dinner.",
+       "options": [
+        "cooks",
+        "washes",
+        "watches"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We __ TV in the living room.",
+       "options": [
+        "draw",
+        "watch",
+        "raise"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I __ my hair.",
+       "options": [
+        "cook",
+        "help",
+        "brush"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "It has two ___.",
+       "options": [
+        "lamp",
+        "windows",
+        "clean"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "There is a ___ on the table.",
+       "options": [
+        "clean",
+        "windows",
+        "lamp"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "I keep my bedroom ___ and tidy.",
+       "options": [
+        "windows",
+        "lamp",
+        "clean"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "unscramble",
+       "letters": "aswh",
+       "answer": [
+        "wash"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rsbhu",
+       "answer": [
+        "brush"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "okoc",
+       "answer": [
+        "cook"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "isgn",
+       "answer": [
+        "sing"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "cat.",
+        "is",
+        "This"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "cat."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "after",
+        "I",
+        "play",
+        "school."
+       ],
+       "answer": [
+        "I",
+        "play",
+        "after",
+        "school."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "This",
+        "grandmother.",
+        "is",
+        "my"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "my",
+        "grandmother."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "living",
+        "in",
+        "father",
+        "TV",
+        "room.",
+        "watches",
+        "My"
+       ],
+       "answer": [
+        "My",
+        "father",
+        "watches",
+        "TV",
+        "in",
+        "the",
+        "living",
+        "room."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "in",
+        "brush",
+        "teeth",
+        "bathroom.",
+        "my",
+        "I",
+        "the"
+       ],
+       "answer": [
+        "I",
+        "brush",
+        "my",
+        "teeth",
+        "in",
+        "the",
+        "bathroom."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "final2",
+   "title": "التقييم النهائي ٢",
+   "pages": "67-68",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "التقييم النهائي ٢",
+     "sub": "من كتاب التقييمات (ص 67-68) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "f_x",
+       "answer": [
+        "o"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "__in",
+       "answer": [
+        "ch"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "s_n",
+       "answer": [
+        "u"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "c_t",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I brush my teeth in the __.",
+       "options": [
+        "dining room",
+        "bedroom",
+        "bathroom"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I help my mom __ the dinner.",
+       "options": [
+        "cook",
+        "wash",
+        "watch"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I __ with my friends after school.",
+       "options": [
+        "play",
+        "cook",
+        "read"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I __ a picture.",
+       "options": [
+        "draw",
+        "wash",
+        "read"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "q": "I __ TV with my family in the living room. (البنك المطبوع في الكتاب: lamp - clean - windows)",
+       "answer": [
+        "watch"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I help my mom __ the lunch. (البنك المطبوع في الكتاب: lamp - clean - windows)",
+       "answer": [
+        "cook"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "My sister __ the dishes. (البنك المطبوع في الكتاب: lamp - clean - windows)",
+       "answer": [
+        "washes"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "mpla",
+       "answer": [
+        "lamp"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "apcl",
+       "answer": [
+        "clap"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "xbo",
+       "answer": [
+        "box"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "is",
+        "table?",
+        "Where"
+       ],
+       "answer": [
+        "Where",
+        "is",
+        "the",
+        "table?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "dining",
+        "I",
+        "the",
+        "room.",
+        "eat",
+        "in"
+       ],
+       "answer": [
+        "I",
+        "eat",
+        "in",
+        "the",
+        "dining",
+        "room."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
