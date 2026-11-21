@@ -1,0 +1,1535 @@
+{
+ "grade": "sa-g5",
+ "gradeName": "الصف خامس الابتدائي — المنهج السعودي (Top Goal 2)",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Personal Interests",
+   "pages": [
+    10,
+    21
+   ],
+   "lessons": [],
+   "vocab": [
+    "friendly",
+    "funny",
+    "interesting",
+    "popular",
+    "unusual",
+    "tidy",
+    "messy",
+    "enjoy",
+    "excited",
+    "hobby",
+    "origami",
+    "excellent"
+   ],
+   "sentences": [
+    "I enjoy painting.",
+    "She usually reads in the evening.",
+    "Yesterday, we visited a fair.",
+    "He did not go yesterday.",
+    "I want to try origami.",
+    "She is making a model now.",
+    "I know the answer."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "nyfidelr",
+       "answer": [
+        "friendly"
+       ],
+       "hint": "ودود"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nfynu",
+       "answer": [
+        "funny"
+       ],
+       "hint": "مضحك"
+      },
+      {
+       "type": "unscramble",
+       "letters": "aplpuor",
+       "answer": [
+        "popular"
+       ],
+       "hint": "محبوب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "uuuslan",
+       "answer": [
+        "unusual"
+       ],
+       "hint": "غير معتاد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ytdi",
+       "answer": [
+        "tidy"
+       ],
+       "hint": "مرتب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ysmes",
+       "answer": [
+        "messy"
+       ],
+       "hint": "فوضوي"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: مضحك",
+       "options": [
+        "funny",
+        "excited",
+        "tidy"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: هواية",
+       "options": [
+        "funny",
+        "popular",
+        "hobby"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: ممتاز",
+       "options": [
+        "unusual",
+        "origami",
+        "excellent"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: فن طي الورق",
+       "options": [
+        "origami",
+        "messy",
+        "excited"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "painting.",
+        "enjoy",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "enjoy",
+        "painting."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "usually",
+        "She",
+        "in",
+        "reads",
+        "evening.",
+        "the"
+       ],
+       "answer": [
+        "She",
+        "usually",
+        "reads",
+        "in",
+        "the",
+        "evening."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "visited",
+        "fair.",
+        "Yesterday,",
+        "a",
+        "we"
+       ],
+       "answer": [
+        "Yesterday,",
+        "we",
+        "visited",
+        "a",
+        "fair."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "He",
+        "yesterday.",
+        "go",
+        "not",
+        "did"
+       ],
+       "answer": [
+        "He",
+        "did",
+        "not",
+        "go",
+        "yesterday."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هو لم يذهب أمس.",
+       "options": [
+        "I know the answer.",
+        "He did not go yesterday.",
+        "I want to try origami."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أريد تجربة فن طي الورق.",
+       "options": [
+        "I know the answer.",
+        "She usually reads in the evening.",
+        "I want to try origami."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا أستمتع بالرسم.",
+       "options": [
+        "I enjoy painting.",
+        "He did not go yesterday.",
+        "She usually reads in the evening."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هي تصنع نموذجًا الآن.",
+       "options": [
+        "She usually reads in the evening.",
+        "She is making a model now.",
+        "I want to try origami."
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اختار الصيغة الصحيحة",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "I enjoy ___ pictures.",
+       "options": [
+        "painting",
+        "paint",
+        "paints"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "Yesterday, we ___ a fair.",
+       "options": [
+        "visited",
+        "visit",
+        "visits"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "He did not ___ yesterday.",
+       "options": [
+        "goes",
+        "went",
+        "go"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "I ___ the answer.",
+       "options": [
+        "know",
+        "knowing",
+        "am knowing"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "She ___ a model right now.",
+       "options": [
+        "made",
+        "makes",
+        "is making"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "Every day, he ___ a book.",
+       "options": [
+        "reads",
+        "is read",
+        "readed"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "I ___ to try origami.",
+       "options": [
+        "want",
+        "am wanting",
+        "wanting"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "The opposite of tidy is ___.",
+       "options": [
+        "lucky",
+        "friendly",
+        "untidy"
+       ],
+       "answer": 2
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "الهوايات والصفات",
+     "text": "نتحدث عن الاهتمامات بأفعال مثل enjoy وlike. بعد enjoy يأتي الفعل غالبًا مع ing: I enjoy painting. friendly صفة ودود، وunfriendly معناها غير ودود."
+    },
+    {
+     "title": "الحاضر والماضي",
+     "text": "usually وevery day يدلان على عادة فنستخدم المضارع البسيط. yesterday وlast week يدلان على وقت انتهى فنستخدم الماضي. مثل I visit the fair every year وI visited it yesterday."
+    },
+    {
+     "title": "أفعال الحالة والحركة",
+     "text": "أفعال مثل know وwant وlike وbelieve تصف حالة، وغالبًا نستخدمها في البسيط لا المستمر. نقول I know the answer وليس I am knowing the answer."
+    },
+    {
+     "title": "فعل يحدث الآن",
+     "text": "أفعال الحركة مثل make وplay يمكن أن تأتي في المستمر: She is making a model now. نستخدم am أو is أو are ثم فعل ing، ونفرق بين She is excited وShe is exciting."
+    }
+   ],
+   "meanings": {
+    "friendly": "ودود",
+    "funny": "مضحك",
+    "interesting": "شيق",
+    "popular": "محبوب",
+    "unusual": "غير معتاد",
+    "tidy": "مرتب",
+    "messy": "فوضوي",
+    "enjoy": "يستمتع",
+    "excited": "متحمس",
+    "hobby": "هواية",
+    "origami": "فن طي الورق",
+    "excellent": "ممتاز"
+   },
+   "sentenceMeanings": {
+    "I enjoy painting.": "أنا أستمتع بالرسم.",
+    "She usually reads in the evening.": "هي تقرأ عادةً في المساء.",
+    "Yesterday, we visited a fair.": "نحن زرنا معرضًا أمس.",
+    "He did not go yesterday.": "هو لم يذهب أمس.",
+    "I want to try origami.": "أريد تجربة فن طي الورق.",
+    "She is making a model now.": "هي تصنع نموذجًا الآن.",
+    "I know the answer.": "أنا أعرف الإجابة."
+   }
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "House Designs",
+   "pages": [
+    22,
+    33
+   ],
+   "lessons": [],
+   "vocab": [
+    "architect",
+    "basement",
+    "entrance",
+    "gate",
+    "key",
+    "layout",
+    "materials",
+    "measurements",
+    "oven",
+    "fridge",
+    "shelf",
+    "cushion"
+   ],
+   "sentences": [
+    "The key is on the shelf.",
+    "I will look for the key.",
+    "We will not come here again.",
+    "I am going to design a house.",
+    "She is going to visit us tonight.",
+    "Will you help me?",
+    "The house has a basement."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ratctcihe",
+       "answer": [
+        "architect"
+       ],
+       "hint": "مهندس معماري"
+      },
+      {
+       "type": "unscramble",
+       "letters": "stenbema",
+       "answer": [
+        "basement"
+       ],
+       "hint": "قبو"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nneeract",
+       "answer": [
+        "entrance"
+       ],
+       "hint": "مدخل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eatg",
+       "answer": [
+        "gate"
+       ],
+       "hint": "بوابة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "kye",
+       "answer": [
+        "key"
+       ],
+       "hint": "مفتاح"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tauoyl",
+       "answer": [
+        "layout"
+       ],
+       "hint": "مخطط توزيع"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: قياسات",
+       "options": [
+        "architect",
+        "gate",
+        "measurements"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: مفتاح",
+       "options": [
+        "architect",
+        "key",
+        "cushion"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: بوابة",
+       "options": [
+        "gate",
+        "key",
+        "cushion"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: مهندس معماري",
+       "options": [
+        "architect",
+        "oven",
+        "entrance"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "The",
+        "shelf.",
+        "on",
+        "key",
+        "the"
+       ],
+       "answer": [
+        "The",
+        "key",
+        "is",
+        "on",
+        "the",
+        "shelf."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "for",
+        "key.",
+        "I",
+        "will",
+        "the",
+        "look"
+       ],
+       "answer": [
+        "I",
+        "will",
+        "look",
+        "for",
+        "the",
+        "key."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "not",
+        "again.",
+        "here",
+        "We",
+        "will",
+        "come"
+       ],
+       "answer": [
+        "We",
+        "will",
+        "not",
+        "come",
+        "here",
+        "again."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "am",
+        "a",
+        "going",
+        "house.",
+        "I",
+        "to",
+        "design"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "going",
+        "to",
+        "design",
+        "a",
+        "house."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا أنوي تصميم منزل.",
+       "options": [
+        "I am going to design a house.",
+        "She is going to visit us tonight.",
+        "Will you help me?"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: المفتاح على الرف.",
+       "options": [
+        "The key is on the shelf.",
+        "I am going to design a house.",
+        "I will look for the key."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هي ستزورنا الليلة.",
+       "options": [
+        "The key is on the shelf.",
+        "We will not come here again.",
+        "She is going to visit us tonight."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: لن نأتي إلى هنا مرة أخرى.",
+       "options": [
+        "We will not come here again.",
+        "Will you help me?",
+        "She is going to visit us tonight."
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اختار الصيغة الصحيحة",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "I will ___ for the key.",
+       "options": [
+        "look",
+        "looks",
+        "looking"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "She ___ going to visit us.",
+       "options": [
+        "are",
+        "am",
+        "is"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "They ___ going to build a house.",
+       "options": [
+        "is",
+        "are",
+        "am"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "We will not ___ here again.",
+       "options": [
+        "comes",
+        "come",
+        "came"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "___ you help me tomorrow?",
+       "options": [
+        "Will",
+        "Did",
+        "Does"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "I am going to ___ a house.",
+       "options": [
+        "designed",
+        "design",
+        "designs"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "The plural of shelf is ___.",
+       "options": [
+        "shelfes",
+        "shelfs",
+        "shelves"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "A person who designs buildings is an ___.",
+       "options": [
+        "oven",
+        "entrance",
+        "architect"
+       ],
+       "answer": 2
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "وصف المنزل",
+     "text": "architect هو المهندس المعماري، وlayout مخطط توزيع المكان. نستخدم There is للمفرد وThere are للجمع، أو The house has a basement لوصف ما يحتويه المنزل."
+    },
+    {
+     "title": "المستقبل مع will",
+     "text": "نستخدم will ثم الفعل الأصلي للتوقع أو قرار لحظي أو عرض المساعدة: I will look for the key. في النفي will not واختصارها won’t. للسؤال نقدم Will: Will you help me?"
+    },
+    {
+     "title": "خطة مع going to",
+     "text": "نستخدم am أو is أو are ثم going to ثم الفعل الأصلي للنية أو الخطة المسبقة: She is going to visit us tonight. مع I نستخدم am، ومع they نستخدم are."
+    },
+    {
+     "title": "will أم going to؟",
+     "text": "غالبًا نستعمل going to لخطة معدة من قبل أو دليل حاضر، وwill لقرار في لحظة الكلام أو توقع. قد يتداخل المعنى، لذلك نقرأ السياق ولا نختار بناءً على كلمة tomorrow وحدها."
+    }
+   ],
+   "meanings": {
+    "architect": "مهندس معماري",
+    "basement": "قبو",
+    "entrance": "مدخل",
+    "gate": "بوابة",
+    "key": "مفتاح",
+    "layout": "مخطط توزيع",
+    "materials": "مواد",
+    "measurements": "قياسات",
+    "oven": "فرن",
+    "fridge": "ثلاجة",
+    "shelf": "رف",
+    "cushion": "وسادة"
+   },
+   "sentenceMeanings": {
+    "The key is on the shelf.": "المفتاح على الرف.",
+    "I will look for the key.": "سأبحث عن المفتاح.",
+    "We will not come here again.": "لن نأتي إلى هنا مرة أخرى.",
+    "I am going to design a house.": "أنا أنوي تصميم منزل.",
+    "She is going to visit us tonight.": "هي ستزورنا الليلة.",
+    "Will you help me?": "هل ستساعدني؟",
+    "The house has a basement.": "المنزل به قبو."
+   }
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "Job Paths",
+   "pages": [
+    34,
+    45
+   ],
+   "lessons": [],
+   "vocab": [
+    "engineer",
+    "mechanic",
+    "journalist",
+    "photographer",
+    "flight attendant",
+    "manager",
+    "artist",
+    "actor",
+    "factory",
+    "gallery",
+    "office",
+    "airport"
+   ],
+   "sentences": [
+    "I am going to be an engineer.",
+    "She may become a pilot.",
+    "He might not work in an office.",
+    "This is a gallery, is it not?",
+    "You can help, can you not?",
+    "They work in a factory.",
+    "A mechanic repairs cars."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "neinrege",
+       "answer": [
+        "engineer"
+       ],
+       "hint": "مهندس"
+      },
+      {
+       "type": "unscramble",
+       "letters": "enchmaci",
+       "answer": [
+        "mechanic"
+       ],
+       "hint": "ميكانيكي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "anrmega",
+       "answer": [
+        "manager"
+       ],
+       "hint": "مدير"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tstria",
+       "answer": [
+        "artist"
+       ],
+       "hint": "فنان"
+      },
+      {
+       "type": "unscramble",
+       "letters": "aocrt",
+       "answer": [
+        "actor"
+       ],
+       "hint": "ممثل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rftyoac",
+       "answer": [
+        "factory"
+       ],
+       "hint": "مصنع"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: مدير",
+       "options": [
+        "manager",
+        "gallery",
+        "mechanic"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: معرض فني",
+       "options": [
+        "gallery",
+        "artist",
+        "factory"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: مصنع",
+       "options": [
+        "factory",
+        "office",
+        "gallery"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: ممثل",
+       "options": [
+        "flight attendant",
+        "office",
+        "actor"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "an",
+        "engineer.",
+        "going",
+        "to",
+        "be",
+        "I",
+        "am"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "going",
+        "to",
+        "be",
+        "an",
+        "engineer."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "She",
+        "a",
+        "pilot.",
+        "become",
+        "may"
+       ],
+       "answer": [
+        "She",
+        "may",
+        "become",
+        "a",
+        "pilot."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "an",
+        "in",
+        "not",
+        "office.",
+        "work",
+        "might",
+        "He"
+       ],
+       "answer": [
+        "He",
+        "might",
+        "not",
+        "work",
+        "in",
+        "an",
+        "office."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "it",
+        "is",
+        "not?",
+        "is",
+        "a",
+        "This",
+        "gallery,"
+       ],
+       "answer": [
+        "This",
+        "is",
+        "a",
+        "gallery,",
+        "is",
+        "it",
+        "not?"
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: ربما لن يعمل في مكتب.",
+       "options": [
+        "He might not work in an office.",
+        "You can help, can you not?",
+        "She may become a pilot."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: الميكانيكي يصلح السيارات.",
+       "options": [
+        "He might not work in an office.",
+        "You can help, can you not?",
+        "A mechanic repairs cars."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا أنوي أن أصبح مهندسًا.",
+       "options": [
+        "This is a gallery, is it not?",
+        "I am going to be an engineer.",
+        "He might not work in an office."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: قد تصبح طيارة.",
+       "options": [
+        "She may become a pilot.",
+        "He might not work in an office.",
+        "This is a gallery, is it not?"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اختار الصيغة الصحيحة",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "She may ___ a pilot.",
+       "options": [
+        "becomes",
+        "to become",
+        "become"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "He might not ___ in an office.",
+       "options": [
+        "working",
+        "work",
+        "works"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "I am going to be ___ engineer.",
+       "options": [
+        "an",
+        "two",
+        "a"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "This is a gallery, ___?",
+       "options": [
+        "is it",
+        "does it",
+        "isn't it"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "You can help, ___?",
+       "options": [
+        "do you",
+        "can you",
+        "can't you"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "She is not a pilot, ___?",
+       "options": [
+        "isn't she",
+        "is she",
+        "does she"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "He works here, ___?",
+       "options": [
+        "isn't he",
+        "didn't he",
+        "doesn't he"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "A ___ repairs cars.",
+       "options": [
+        "mechanic",
+        "journalist",
+        "artist"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "الخطط المهنية",
+     "text": "نستخدم be going to للنية: I am going to be an engineer. نستخدم a قبل وظيفة مثل a mechanic، وan إذا بدأت بصوت متحرك مثل an engineer."
+    },
+    {
+     "title": "الاحتمال مع may وmight",
+     "text": "may وmight يعبران عن احتمال، وليس يقينًا: She may become a pilot. يأتي بعدهما الفعل الأصلي دون to. نضع not بعدهما للنفي: He might not work in an office."
+    },
+    {
+     "title": "السؤال المذيل",
+     "text": "نضيف سؤالًا قصيرًا لتأكيد الفكرة. إذا كانت الجملة مثبتة يكون الذيل منفيًا: This is a gallery, isn’t it? وإذا كانت منفية يكون مثبتًا: She isn’t a pilot, is she?"
+    },
+    {
+     "title": "اختيار الفعل في الذيل",
+     "text": "نستعمل الفعل المساعد نفسه: You can help, can’t you? ومع المضارع البسيط نستخدم do أو does: She works here, doesn’t she? ونختار الضمير المناسب للفاعل."
+    }
+   ],
+   "meanings": {
+    "engineer": "مهندس",
+    "mechanic": "ميكانيكي",
+    "journalist": "صحفي",
+    "photographer": "مصور",
+    "flight attendant": "مضيف طيران",
+    "manager": "مدير",
+    "artist": "فنان",
+    "actor": "ممثل",
+    "factory": "مصنع",
+    "gallery": "معرض فني",
+    "office": "مكتب",
+    "airport": "مطار"
+   },
+   "sentenceMeanings": {
+    "I am going to be an engineer.": "أنا أنوي أن أصبح مهندسًا.",
+    "She may become a pilot.": "قد تصبح طيارة.",
+    "He might not work in an office.": "ربما لن يعمل في مكتب.",
+    "This is a gallery, is it not?": "هذا معرض فني، أليس كذلك؟",
+    "You can help, can you not?": "يمكنك المساعدة، أليس كذلك؟",
+    "They work in a factory.": "هم يعملون في مصنع.",
+    "A mechanic repairs cars.": "الميكانيكي يصلح السيارات."
+   }
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Glorious Food",
+   "pages": [
+    46,
+    57
+   ],
+   "lessons": [],
+   "vocab": [
+    "butter",
+    "flour",
+    "honey",
+    "ingredients",
+    "recipe",
+    "sugar",
+    "yogurt",
+    "dough",
+    "measure",
+    "mix",
+    "pour",
+    "stir"
+   ],
+   "sentences": [
+    "You should measure the flour.",
+    "You should not add too much sugar.",
+    "You had better check the oven.",
+    "You had better not leave it too long.",
+    "If you heat butter, it melts.",
+    "I add water if the sauce is thick.",
+    "First, mix the ingredients."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "rbutte",
+       "answer": [
+        "butter"
+       ],
+       "hint": "زبدة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "frlou",
+       "answer": [
+        "flour"
+       ],
+       "hint": "دقيق"
+      },
+      {
+       "type": "unscramble",
+       "letters": "oheny",
+       "answer": [
+        "honey"
+       ],
+       "hint": "عسل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "irepec",
+       "answer": [
+        "recipe"
+       ],
+       "hint": "وصفة طعام"
+      },
+      {
+       "type": "unscramble",
+       "letters": "guras",
+       "answer": [
+        "sugar"
+       ],
+       "hint": "سكر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tygour",
+       "answer": [
+        "yogurt"
+       ],
+       "hint": "زبادي"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: سكر",
+       "options": [
+        "sugar",
+        "butter",
+        "ingredients"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: زبادي",
+       "options": [
+        "measure",
+        "yogurt",
+        "flour"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يقلب",
+       "options": [
+        "sugar",
+        "stir",
+        "honey"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: زبدة",
+       "options": [
+        "dough",
+        "measure",
+        "butter"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "measure",
+        "You",
+        "should",
+        "flour.",
+        "the"
+       ],
+       "answer": [
+        "You",
+        "should",
+        "measure",
+        "the",
+        "flour."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "You",
+        "too",
+        "not",
+        "sugar.",
+        "should",
+        "add",
+        "much"
+       ],
+       "answer": [
+        "You",
+        "should",
+        "not",
+        "add",
+        "too",
+        "much",
+        "sugar."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "You",
+        "oven.",
+        "had",
+        "the",
+        "better",
+        "check"
+       ],
+       "answer": [
+        "You",
+        "had",
+        "better",
+        "check",
+        "the",
+        "oven."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "you",
+        "it",
+        "melts.",
+        "heat",
+        "If",
+        "butter,"
+       ],
+       "answer": [
+        "If",
+        "you",
+        "heat",
+        "butter,",
+        "it",
+        "melts."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: ينبغي أن تقيس الدقيق.",
+       "options": [
+        "I add water if the sauce is thick.",
+        "You should measure the flour.",
+        "First, mix the ingredients."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: من الأفضل لك أن تفحص الفرن.",
+       "options": [
+        "You should not add too much sugar.",
+        "You had better not leave it too long.",
+        "You had better check the oven."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: إذا سخنت الزبدة، فإنها تذوب.",
+       "options": [
+        "If you heat butter, it melts.",
+        "You had better check the oven.",
+        "I add water if the sauce is thick."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أضيف الماء إذا كانت الصلصة كثيفة.",
+       "options": [
+        "I add water if the sauce is thick.",
+        "First, mix the ingredients.",
+        "If you heat butter, it melts."
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اختار الصيغة الصحيحة",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "You should ___ the flour.",
+       "options": [
+        "measure",
+        "measuring",
+        "to measure"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "You had better not ___ the oven on.",
+       "options": [
+        "to leave",
+        "leaving",
+        "leave"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "If you heat butter, it ___.",
+       "options": [
+        "melted",
+        "will melted",
+        "melts"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "I add water if the sauce ___ thick.",
+       "options": [
+        "will be",
+        "was",
+        "is"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "You ___ add too much sugar.",
+       "options": [
+        "should not",
+        "not should",
+        "should no"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "___, mix the ingredients.",
+       "options": [
+        "Never did",
+        "Yesterday",
+        "First"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "Which word means دقيق?",
+       "options": [
+        "flower",
+        "flour",
+        "flavor"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "Had better is followed by ___.",
+       "options": [
+        "verb + ing",
+        "to + verb",
+        "the base verb"
+       ],
+       "answer": 2
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "نصيحة مع should",
+     "text": "نستخدم should ثم الفعل الأصلي للنصيحة: You should measure the flour. للنصيحة بعدم فعل شيء نستخدم should not أو shouldn’t. لا نضيف to بعد should."
+    },
+    {
+     "title": "تحذير مع had better",
+     "text": "had better يتبعها الفعل الأصلي، وهي نصيحة أقوى مرتبطة بموقف وعاقبة محتملة. النفي had better not: You had better not leave the oven on. لا نستخدم to بعدها."
+    },
+    {
+     "title": "الشرط الصفري",
+     "text": "نستخدم if ثم المضارع البسيط، وفي النتيجة المضارع البسيط أيضًا لقاعدة أو نتيجة تتكرر: If you heat butter, it melts. ليس هذا توقعًا لحدث واحد في المستقبل."
+    },
+    {
+     "title": "ترتيب خطوات الوصفة",
+     "text": "نستخدم First ثم Next أو Then وأخيرًا Finally. تبدأ التعليمات بالفعل الأصلي مثل Mix وPour وStir. لا ننسى الفرق بين flour الدقيق وflower الزهرة."
+    }
+   ],
+   "meanings": {
+    "butter": "زبدة",
+    "flour": "دقيق",
+    "honey": "عسل",
+    "ingredients": "مكونات",
+    "recipe": "وصفة طعام",
+    "sugar": "سكر",
+    "yogurt": "زبادي",
+    "dough": "عجين",
+    "measure": "يقيس",
+    "mix": "يخلط",
+    "pour": "يسكب",
+    "stir": "يقلب"
+   },
+   "sentenceMeanings": {
+    "You should measure the flour.": "ينبغي أن تقيس الدقيق.",
+    "You should not add too much sugar.": "ينبغي ألا تضيف سكرًا كثيرًا.",
+    "You had better check the oven.": "من الأفضل لك أن تفحص الفرن.",
+    "You had better not leave it too long.": "من الأفضل ألا تتركه مدة طويلة.",
+    "If you heat butter, it melts.": "إذا سخنت الزبدة، فإنها تذوب.",
+    "I add water if the sauce is thick.": "أضيف الماء إذا كانت الصلصة كثيفة.",
+    "First, mix the ingredients.": "أولًا، اخلط المكونات."
+   }
+  }
+ ],
+ "source": {
+  "url": "https://files.shawahid.sa/books/1448-GE-PE-K05-SM1-ENMG.pdf",
+  "title": "Top Goal 2, Part 1, Units 1-4",
+  "note": "Independent Shawahid mirror of publisher textbook. Original Arabic explanations and exercises."
+ }
+}
