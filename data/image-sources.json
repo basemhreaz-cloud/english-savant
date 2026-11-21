@@ -1,0 +1,510 @@
+{
+  "scope": "Only the replacement educational images listed here. Other existing site images retain their own provenance.",
+  "updated": "2026-11-21",
+  "assets": [
+    {
+      "index": 1,
+      "answer": "ant",
+      "old": "images/words/ant.png",
+      "new": "images/words/fixed-ant.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F41C.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 2,
+      "answer": "apple",
+      "old": "images/words/apple.png",
+      "new": "images/words/fixed-apple.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F34E.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 3,
+      "answer": "arms",
+      "old": "images/words/arms.jpg",
+      "new": "images/words/fixed-arms.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F4AA.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background; repeated 2 times to show plural"
+    },
+    {
+      "index": 4,
+      "answer": "arrow",
+      "old": "images/words/arrow.png",
+      "new": "images/words/fixed-arrow.png",
+      "source": "Original ENGLISH SAVANT educational drawing",
+      "license": "Original site asset"
+    },
+    {
+      "index": 6,
+      "answer": "axe",
+      "old": "images/words/axe.png",
+      "new": "images/words/fixed-axe.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1FA93.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 19,
+      "answer": "blue",
+      "old": "images/words/blue.jpg",
+      "new": "images/words/sa-color-blue.png",
+      "source": "Existing inspected site image",
+      "license": "unchanged"
+    },
+    {
+      "index": 20,
+      "answer": "board",
+      "old": "images/words/board.jpg",
+      "new": "images/words/fixed-board.png",
+      "source": "Original ENGLISH SAVANT educational drawing",
+      "license": "Original site asset"
+    },
+    {
+      "index": 26,
+      "answer": "brothers",
+      "old": "images/words/brothers.png",
+      "new": "images/words/fixed-brothers.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F466.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background; repeated 2 times to show plural"
+    },
+    {
+      "index": 34,
+      "answer": "carrot",
+      "old": "images/words/carrot.png",
+      "new": "images/words/fixed-carrot.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F955.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 37,
+      "answer": "cats",
+      "old": "images/words/cats.png",
+      "new": "images/words/fixed-cats.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F408.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background; repeated 2 times to show plural"
+    },
+    {
+      "index": 39,
+      "answer": "chair",
+      "old": "images/words/chair.jpg",
+      "new": "images/words/fixed-chair.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1FA91.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 41,
+      "answer": "chalk",
+      "old": "images/words/chalk.jpg",
+      "new": "images/words/fixed-chalk.png",
+      "source": "Original ENGLISH SAVANT educational drawing",
+      "license": "Original site asset"
+    },
+    {
+      "index": 46,
+      "answer": "circle",
+      "old": "images/words/circle.jpg",
+      "new": "images/words/sa-shape-circle.png",
+      "source": "Existing inspected site image",
+      "license": "unchanged"
+    },
+    {
+      "index": 51,
+      "answer": "clean",
+      "old": "images/words/clean.jpg",
+      "new": "images/words/fixed-clean.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/E0AE.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 58,
+      "answer": "crayon",
+      "old": "images/words/crayon.jpg",
+      "new": "images/words/fixed-crayon.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F58D.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 63,
+      "answer": "dining",
+      "old": "images/words/dining.jpg",
+      "new": "images/words/fixed-dining.png",
+      "source": "Original ENGLISH SAVANT educational drawing",
+      "license": "Original site asset"
+    },
+    {
+      "index": 64,
+      "answer": "dishes",
+      "old": "images/words/dishes.png",
+      "new": "images/words/fixed-dishes.png",
+      "source": "Original ENGLISH SAVANT educational drawing",
+      "license": "Original site asset"
+    },
+    {
+      "index": 65,
+      "answer": "dog",
+      "old": "images/words/dog.png",
+      "new": "images/words/fixed-dog.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F415.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 70,
+      "answer": "duck",
+      "old": "images/words/duck.png",
+      "new": "images/words/fixed-duck.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F986.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 72,
+      "answer": "ears",
+      "old": "images/words/ears.png",
+      "new": "images/words/fixed-ears.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F442.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background; repeated 2 times to show plural"
+    },
+    {
+      "index": 77,
+      "answer": "eggs",
+      "old": "images/words/eggs.png",
+      "new": "images/words/fixed-eggs.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F95A.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background; repeated 3 times to show plural"
+    },
+    {
+      "index": 82,
+      "answer": "eyes",
+      "old": "images/words/eyes.png",
+      "new": "images/words/fixed-eyes.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F440.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 89,
+      "answer": "fish",
+      "old": "images/words/fish.png",
+      "new": "images/words/fixed-fish.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F41F.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 96,
+      "answer": "frog",
+      "old": "images/words/frog.png",
+      "new": "images/words/fixed-frog.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F438.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 97,
+      "answer": "garden",
+      "old": "images/words/garden.png",
+      "new": "images/words/fixed-garden-drawing.png",
+      "source": "Original ENGLISH SAVANT educational drawing",
+      "license": "Original site asset"
+    },
+    {
+      "index": 103,
+      "answer": "goal",
+      "old": "images/words/goal.jpg",
+      "new": "images/words/fixed-goal.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F945.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 108,
+      "answer": "grapes",
+      "old": "images/words/grapes.png",
+      "new": "images/words/fixed-grapes.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F347.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 110,
+      "answer": "green",
+      "old": "images/words/green.jpg",
+      "new": "images/words/sa-color-green.png",
+      "source": "Existing inspected site image",
+      "license": "unchanged"
+    },
+    {
+      "index": 116,
+      "answer": "hands",
+      "old": "images/words/hands.png",
+      "new": "images/words/fixed-hands.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/270B.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background; repeated 2 times to show plural"
+    },
+    {
+      "index": 117,
+      "answer": "hat",
+      "old": "images/words/hat.png",
+      "new": "images/words/fixed-hat.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F452.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 121,
+      "answer": "horse",
+      "old": "images/words/horse.png",
+      "new": "images/words/fixed-horse.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F40E.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 128,
+      "answer": "jar",
+      "old": "images/words/jar.png",
+      "new": "images/words/fixed-jar.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1FAD9.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 134,
+      "answer": "kite",
+      "old": "images/words/kite.png",
+      "new": "images/words/fixed-kite.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1FA81.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 135,
+      "answer": "ladybird",
+      "old": "images/words/ladybird.jpg",
+      "new": "images/words/fixed-ladybird.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F41E.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 153,
+      "answer": "mouse",
+      "old": "images/words/mouse.png",
+      "new": "images/words/fixed-mouse.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F401.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 163,
+      "answer": "olive",
+      "old": "images/words/olive.png",
+      "new": "images/words/fixed-olive.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1FAD2.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 165,
+      "answer": "ostrich",
+      "old": "images/words/ostrich.png",
+      "new": "images/words/fixed-ostrich.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:North_african_ostrich_(Struthio_camelus_camelus)_in_Morocco.jpg",
+      "license": "CC0 1.0",
+      "author": "randomwild / iNaturalist",
+      "modification": "Resized"
+    },
+    {
+      "index": 166,
+      "answer": "oval",
+      "old": "images/words/oval.jpg",
+      "new": "images/words/fixed-oval.png",
+      "source": "Original ENGLISH SAVANT educational drawing",
+      "license": "Original site asset"
+    },
+    {
+      "index": 171,
+      "answer": "parrots",
+      "old": "images/words/parrots.png",
+      "new": "images/words/fixed-parrots.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F99C.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background; repeated 2 times to show plural"
+    },
+    {
+      "index": 174,
+      "answer": "pets",
+      "old": "images/words/pets.jpg",
+      "new": "images/words/fixed-pets.png",
+      "source": "https://openmoji.org/",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Combined cat and dog icons to show pets"
+    },
+    {
+      "index": 178,
+      "answer": "plate",
+      "old": "images/words/plate.jpg",
+      "new": "images/words/fixed-plate.png",
+      "source": "Original ENGLISH SAVANT educational drawing",
+      "license": "Original site asset"
+    },
+    {
+      "index": 199,
+      "answer": "sick",
+      "old": "images/words/sick.jpg",
+      "new": "images/words/fixed-sick.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F912.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 203,
+      "answer": "sisters",
+      "old": "images/words/sisters.png",
+      "new": "images/words/fixed-sisters.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F467.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background; repeated 2 times to show plural"
+    },
+    {
+      "index": 210,
+      "answer": "snake",
+      "old": "images/words/snake.png",
+      "new": "images/words/fixed-snake.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F40D.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 211,
+      "answer": "spider",
+      "old": "images/words/spider.png",
+      "new": "images/words/fixed-spider.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F577.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 212,
+      "answer": "spoon",
+      "old": "images/words/spoon.png",
+      "new": "images/words/fixed-spoon.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F944.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 216,
+      "answer": "star",
+      "old": "images/words/star.jpg",
+      "new": "images/words/sa-shape-star.png",
+      "source": "Existing inspected site image",
+      "license": "unchanged"
+    },
+    {
+      "index": 218,
+      "answer": "sun",
+      "old": "images/words/sun.png",
+      "new": "images/words/fixed-sun.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/2600.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 225,
+      "answer": "tiger",
+      "old": "images/words/tiger.png",
+      "new": "images/words/fixed-tiger.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F405.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 227,
+      "answer": "tomato",
+      "old": "images/words/tomato.png",
+      "new": "images/words/fixed-tomato.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F345.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    },
+    {
+      "index": 230,
+      "answer": "trees",
+      "old": "images/words/trees.png",
+      "new": "images/words/fixed-trees.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F333.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background; repeated 3 times to show plural"
+    },
+    {
+      "index": 232,
+      "answer": "triangle",
+      "old": "images/words/triangle.jpg",
+      "new": "images/words/sa-shape-triangle.png",
+      "source": "Existing inspected site image",
+      "license": "unchanged"
+    },
+    {
+      "index": 244,
+      "answer": "won",
+      "old": "images/words/won.jpg",
+      "new": "images/words/fixed-won.png",
+      "source": "https://unpkg.com/openmoji@17.0.0/color/svg/1F3C6.svg",
+      "license": "CC BY-SA 4.0",
+      "author": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+      "modification": "Rasterized to PNG on white background"
+    }
+  ]
+}
