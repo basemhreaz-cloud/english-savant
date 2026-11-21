@@ -1,0 +1,4990 @@
+{
+ "grade": "m1",
+ "gradeName": "الصف الأول الإعدادي",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Life in a Digital World",
+   "pages": "3-14",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "A Day in My Digital Life"
+    },
+    {
+     "n": 2,
+     "title": "We Use Technology"
+    },
+    {
+     "n": 3,
+     "title": "Digital Devices"
+    },
+    {
+     "n": 4,
+     "title": "Story Time \"The Magic Classroom\" Chapter 1"
+    },
+    {
+     "n": 5,
+     "title": "An Email to a Friend"
+    },
+    {
+     "n": 6,
+     "title": "Team-Project Roundtable"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: A Day in My Digital Life",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 3)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Eating while looking at something on my __ is a bad habit.",
+       "options": [
+        "oven",
+        "table",
+        "screen",
+        "school"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "In the evening, I sometimes play online __ with my friend.",
+       "options": [
+        "tablets",
+        "games",
+        "boards",
+        "books"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The __ is a darker screen setting to protect your eyes in low light.",
+       "options": [
+        "evening mode",
+        "night mode",
+        "afternoon mode",
+        "morning mode"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Our teachers show us amazing videos about planets and animals using the __ in our class.",
+       "options": [
+        "ebook",
+        "book",
+        "smartboard",
+        "website"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I usually use my tablet to __ for news every morning.",
+       "options": [
+        "find",
+        "get",
+        "see",
+        "search"
+       ],
+       "answer": 3
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: We Use Technology",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 4)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I __ play games on my computer. (100%)",
+       "answer": [
+        "always"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I __ check my messages before sleeping. (80%)",
+       "answer": [
+        "usually"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I __ use social media during class. (10%)",
+       "answer": [
+        "rarely"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I __ forget to charge my phone. (50%)",
+       "answer": [
+        "sometimes"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I __ use a laptop at school. (0%)",
+       "answer": [
+        "never"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I (always) __ take my mobile phone to school. I don't like using it in class.",
+       "answer": [
+        "never"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Do) __ Noha speak English well?",
+       "answer": [
+        "Does"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "He never (drink) __ coffee before going to bed.",
+       "answer": [
+        "drinks"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Does) __ Ali and Adel play games every day?",
+       "answer": [
+        "Do"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Digital Devices",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 5)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "online platforms where people connect and share content",
+       "answer": [
+        "social media",
+        "social media platforms"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "the time you spend using devices like phones or computers",
+       "answer": [
+        "screen time"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "using computer technology or electronic devices",
+       "answer": [
+        "digital"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "an interactive board used in classrooms for teaching lessons",
+       "answer": [
+        "smartboard",
+        "a smartboard"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Story Time \"The Magic Classroom\" Chapter 1",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 8)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "The children were so excited. When the day came, they walked through a ",
+        " door and found themselves in a room filled with ",
+        " puzzles, shining books, and ",
+        " clues. On the wall, a message read (Only those who ",
+        " and stay curious can unlock the mysteries)."
+       ],
+       "answers": [
+        "magical",
+        "floating",
+        "glowing",
+        "collaborate"
+       ],
+       "bank": [
+        "floating",
+        "glowing",
+        "collaborate",
+        "magical",
+        "lock"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: An Email to a Friend",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 9)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We can __ (sending) our emails with a phrase like: Write back soon.",
+       "answer": [
+        "send",
+        "end"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "You should be kind and __ (respect) when you sit in a roundtable.",
+       "answer": [
+        "respectful"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "After school, I often go __ (offline) searching for the information for my homework.",
+       "answer": [
+        "online"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I'm writing this email to tell you about my __ (digit) day.",
+       "answer": [
+        "digital"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa456A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٤ و٥ و٦ · ص 10-11",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "make",
+        "the",
+        "with",
+        "video",
+        "parents.",
+        "She",
+        "her",
+        "never",
+        "to",
+        "webcam",
+        "uses",
+        "calls"
+       ],
+       "answer": [
+        "She",
+        "never",
+        "uses",
+        "the",
+        "webcam",
+        "to",
+        "make",
+        "video",
+        "calls",
+        "with",
+        "her",
+        "parents."
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nShe uses the webcam to make video calls with her parents. (never)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "to",
+        "information.",
+        "find",
+        "go",
+        "online"
+       ],
+       "answer": [
+        "I",
+        "go",
+        "online",
+        "to",
+        "find",
+        "information."
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nI go on the internet to find information. (online)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "ebooks?",
+        "Do",
+        "you",
+        "usually",
+        "read"
+       ],
+       "answer": [
+        "Do",
+        "you",
+        "usually",
+        "read",
+        "ebooks?"
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nDo you read ebooks? (usually)"
+      }
+     ]
+    },
+    {
+     "id": "wa456B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٤ و٥ و٦ · ص 10-11",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "always",
+        "by",
+        "day",
+        "start",
+        "my",
+        "phone.",
+        "I",
+        "checking",
+        "my"
+       ],
+       "answer": [
+        "I",
+        "always",
+        "start",
+        "my",
+        "day",
+        "by",
+        "checking",
+        "my",
+        "phone."
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nI start my day by checking my phone. (always)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "information",
+        "on",
+        "I",
+        "for",
+        "internet.",
+        "the",
+        "search"
+       ],
+       "answer": [
+        "I",
+        "search",
+        "for",
+        "information",
+        "on",
+        "the",
+        "internet."
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nI look for information on the internet. (search)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "you",
+        "often",
+        "tablet?",
+        "Do",
+        "use",
+        "your"
+       ],
+       "answer": [
+        "Do",
+        "you",
+        "often",
+        "use",
+        "your",
+        "tablet?"
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nDo you use your tablet? (often)"
+      }
+     ]
+    },
+    {
+     "id": "wa456C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٤ و٥ و٦ · ص 10-11",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "stop",
+        "playing",
+        "one",
+        "usually",
+        "after",
+        "hour."
+       ],
+       "answer": [
+        "I",
+        "usually",
+        "stop",
+        "playing",
+        "after",
+        "one",
+        "hour."
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nI stop playing after one hour. (usually)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "technology.",
+        "am",
+        "about",
+        "curious"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "curious",
+        "about",
+        "technology."
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nI want to know more about technology. (curious)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "games",
+        "sometimes",
+        "play",
+        "friends?",
+        "you",
+        "Do",
+        "your",
+        "online",
+        "with"
+       ],
+       "answer": [
+        "Do",
+        "you",
+        "sometimes",
+        "play",
+        "online",
+        "games",
+        "with",
+        "your",
+        "friends?"
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nDo you play online games with your friends? (sometimes)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "Learning to Learn",
+   "pages": "15-24",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "My Learning Journey"
+    },
+    {
+     "n": 2,
+     "title": "Learning Challenges and Solutions"
+    },
+    {
+     "n": 3,
+     "title": "Benefits of Learning Together"
+    },
+    {
+     "n": 4,
+     "title": "Story time: \"The Magic Classroom\" Chapter 2"
+    },
+    {
+     "n": 5,
+     "title": "My Learning plan"
+    },
+    {
+     "n": 6,
+     "title": "Team-Project Roundtable"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: My Learning Journey",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 15)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Visual learners often make maps and charts to __ information.",
+       "options": [
+        "choose",
+        "organize",
+        "know",
+        "take"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Auditory learners like to listen to music, discuss topics, and hear __",
+       "options": [
+        "experiments",
+        "sites",
+        "explanations",
+        "models"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "When you know how you learn best, you can choose the right __ for yourself.",
+       "options": [
+        "map",
+        "chart",
+        "method",
+        "note"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__ is related to hands-on activities and physical action.",
+       "answer": [
+        "Kinesthetic"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__ are visual tools used to organize information.",
+       "answer": [
+        "Mind maps"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__ is related to hearing things.",
+       "answer": [
+        "Auditory"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__ means to arrange or put things in a particular order or a neat way.",
+       "answer": [
+        "Organize"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__ is related to sight and seeing.",
+       "answer": [
+        "Visual"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Learning Challenges and Solutions",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 16)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I'm __ English with my friend.",
+       "options": [
+        "learns",
+        "learned",
+        "learning",
+        "learn"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "She can __ with others and understand them.",
+       "options": [
+        "communicating",
+        "communicate",
+        "communicated",
+        "communicates"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "They __ answer the questions because they are difficult.",
+       "options": [
+        "can",
+        "am",
+        "can't",
+        "is"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She __ (study) science with her father right now.",
+       "answer": [
+        "is studying"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We can __ (doing) experiments in the lab.",
+       "answer": [
+        "do"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "He __ (practice) hard to win the match.",
+       "answer": [
+        "is practicing",
+        "is practising",
+        "practices",
+        "practises"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We __ (can't) focus better when our teacher uses mind maps.",
+       "answer": [
+        "can"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "They __ (try) to solve the problem.",
+       "answer": [
+        "are trying",
+        "try"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "using",
+        "at",
+        "father",
+        "by",
+        "moment",
+        "organizing",
+        "My",
+        "charts.",
+        "his",
+        "this",
+        "work"
+       ],
+       "answer": [
+        "My",
+        "father",
+        "is",
+        "organizing",
+        "his",
+        "work",
+        "at",
+        "this",
+        "moment",
+        "by",
+        "using",
+        "charts."
+       ],
+       "passage": "Rewrite the following sentences using the correct form of verbs:\nMy father (organize) his work at this moment by using charts."
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "because",
+        "they",
+        "questions",
+        "answer",
+        "I",
+        "these",
+        "can",
+        "are",
+        "easy."
+       ],
+       "answer": [
+        "I",
+        "can",
+        "answer",
+        "these",
+        "questions",
+        "because",
+        "they",
+        "are",
+        "easy."
+       ],
+       "passage": "Rewrite the following sentences using the correct form of verbs:\nI can (answering) these questions because they are easy."
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "are",
+        "garden",
+        "right",
+        "We",
+        "planting",
+        "now.",
+        "the",
+        "flowers",
+        "in"
+       ],
+       "answer": [
+        "We",
+        "are",
+        "planting",
+        "flowers",
+        "in",
+        "the",
+        "garden",
+        "right",
+        "now."
+       ],
+       "passage": "Rewrite the following sentences using the correct form of verbs:\nWe (plant) flowers in the garden right now."
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "English.",
+        "Amira",
+        "teach",
+        "us",
+        "can"
+       ],
+       "answer": [
+        "Amira",
+        "can",
+        "teach",
+        "us",
+        "English."
+       ],
+       "passage": "Rewrite the following sentences using the correct form of verbs:\nAmira can (teaches) us English."
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Benefits of Learning Together",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 17)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We can use __ and websites to find information on the internet.",
+       "options": [
+        "projects",
+        "digital devices",
+        "experiments",
+        "solutions"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "You need to develop your skills to be __",
+       "options": [
+        "confident",
+        "enjoyable",
+        "alone",
+        "free"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Learning in groups has more __ than learning alone.",
+       "options": [
+        "apps",
+        "devices",
+        "benefits",
+        "solutions"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We can learn cooperation and __ from working in teams.",
+       "answer": [
+        "leadership"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Digital devices create powerful learning __.",
+       "answer": [
+        "experiences"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__ thinking helps you solve problems.",
+       "answer": [
+        "Creative"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "You need to share opinions and discuss problems to find __.",
+       "answer": [
+        "solutions"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Story time: \"The Magic Classroom\" Chapter 2",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 19)",
+     "questions": [
+      {
+       "type": "reorder",
+       "label": "order",
+       "words": [
+        "The students sang together, and the golden door opened.",
+        "The children saw an invisible bridge with a glowing sign.",
+        "They stepped onto the bridge and held hands.",
+        "A golden door appeared with a message about determination.",
+        "They refused to give up and kept trying."
+       ],
+       "answer": [
+        "The children saw an invisible bridge with a glowing sign.",
+        "They stepped onto the bridge and held hands.",
+        "A golden door appeared with a message about determination.",
+        "They refused to give up and kept trying.",
+        "The students sang together, and the golden door opened."
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "In front of the children was an ",
+        " bridge. A glowing sign read: \"Only those with ",
+        ", ambition, and courage can cross.\" Sara thought for a moment. \"Respect means we listen and care for each other.\" Zain added, \"",
+        " means we believe in our success.\" Omar took a deep ",
+        ", \"Courage means we try even when we are scared.\""
+       ],
+       "answers": [
+        "invisible",
+        "respect",
+        "Ambition",
+        "breath"
+       ],
+       "bank": [
+        "magical",
+        "breath",
+        "Ambition",
+        "invisible",
+        "respect"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: My Learning plan",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 20)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Learning how to learn is one of the most important ",
+        " for students. Every person has a different ",
+        " style. The key is to find your own style that works. Good learners don't just ",
+        " information. They understand it. They ask questions, take notes, and review ",
+        ". The most successful students are those who never stop trying to improve their learning."
+       ],
+       "answers": [
+        "skills",
+        "learning",
+        "memorize",
+        "regularly"
+       ],
+       "bank": [
+        "memorize",
+        "learning",
+        "regularly",
+        "skills",
+        "techniques"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa123A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ١ و٢ و٣ · ص 18",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "We",
+        "can",
+        "in",
+        "do",
+        "lab.",
+        "the",
+        "experiments"
+       ],
+       "answer": [
+        "We",
+        "can",
+        "do",
+        "experiments",
+        "in",
+        "the",
+        "lab."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nWe do experiments in the lab. (can)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "students",
+        "their",
+        "homework.",
+        "doing",
+        "are",
+        "The"
+       ],
+       "answer": [
+        "The",
+        "students",
+        "are",
+        "doing",
+        "their",
+        "homework."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nThe students do their homework. (are)"
+      }
+     ]
+    },
+    {
+     "id": "wa123B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ١ و٢ و٣ · ص 18",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "can't",
+        "a",
+        "car.",
+        "I",
+        "drive"
+       ],
+       "answer": [
+        "I",
+        "can't",
+        "drive",
+        "a",
+        "car."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nI don't drive a car. (can't)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "computer",
+        "is",
+        "fixing",
+        "home.",
+        "brother",
+        "at",
+        "the",
+        "My"
+       ],
+       "answer": [
+        "My",
+        "brother",
+        "is",
+        "fixing",
+        "the",
+        "computer",
+        "at",
+        "home."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nMy brother fixes the computer at home. (is)"
+      }
+     ]
+    },
+    {
+     "id": "wa123C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ١ و٢ و٣ · ص 18",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "my",
+        "I",
+        "revising",
+        "lessons",
+        "for",
+        "am",
+        "exams.",
+        "the"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "revising",
+        "my",
+        "lessons",
+        "for",
+        "the",
+        "exams."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nI revise my lessons for the exams. (am)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "our",
+        "We",
+        "phones",
+        "can't",
+        "in",
+        "class.",
+        "use"
+       ],
+       "answer": [
+        "We",
+        "can't",
+        "use",
+        "our",
+        "phones",
+        "in",
+        "class."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nWe don't use our phones in class. (can't)"
+      }
+     ]
+    },
+    {
+     "id": "wa456A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٤ و٥ و٦ · ص 21",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "learn",
+        "watching",
+        "are",
+        "videos",
+        "They",
+        "to",
+        "better."
+       ],
+       "answer": [
+        "They",
+        "are",
+        "watching",
+        "videos",
+        "to",
+        "learn",
+        "better."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nThey watch videos to learn better. (watching)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "better.",
+        "The",
+        "technique",
+        "showed",
+        "new",
+        "teacher",
+        "a",
+        "to",
+        "learn",
+        "us"
+       ],
+       "answer": [
+        "The",
+        "teacher",
+        "showed",
+        "us",
+        "a",
+        "new",
+        "technique",
+        "to",
+        "learn",
+        "better."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nThe teacher showed us a new way to learn better. (technique)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "invisible.",
+        "was",
+        "The",
+        "bridge"
+       ],
+       "answer": [
+        "The",
+        "bridge",
+        "was",
+        "invisible."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nThe bridge could not be seen. (invisible)"
+      }
+     ]
+    },
+    {
+     "id": "wa456B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٤ و٥ و٦ · ص 21",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "friends",
+        "my",
+        "in",
+        "with",
+        "communicate",
+        "English."
+       ],
+       "answer": [
+        "I",
+        "communicate",
+        "with",
+        "my",
+        "friends",
+        "in",
+        "English."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nI talk to my friends in English. (communicate)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "improving",
+        "She",
+        "skills.",
+        "her",
+        "is"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "improving",
+        "her",
+        "skills."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nShe improves her skills. (is)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "his",
+        "habits.",
+        "develop",
+        "can",
+        "He",
+        "learning"
+       ],
+       "answer": [
+        "He",
+        "can",
+        "develop",
+        "his",
+        "learning",
+        "habits."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nHe develops his learning habits. (can)"
+      }
+     ]
+    },
+    {
+     "id": "wa456C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٤ و٥ و٦ · ص 21",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "She",
+        "cannot",
+        "correctly.",
+        "pronounce",
+        "word",
+        "the"
+       ],
+       "answer": [
+        "She",
+        "cannot",
+        "pronounce",
+        "the",
+        "word",
+        "correctly."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nShe cannot say the word correctly. (pronounce)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "She",
+        "her",
+        "diagrams.",
+        "using",
+        "and",
+        "organizing",
+        "ideas",
+        "is",
+        "charts"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "organizing",
+        "her",
+        "ideas",
+        "using",
+        "charts",
+        "and",
+        "diagrams."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nShe organizes her ideas using charts and digrams. (is)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "difficult",
+        "can't",
+        "understand",
+        "lessons.",
+        "She"
+       ],
+       "answer": [
+        "She",
+        "can't",
+        "understand",
+        "difficult",
+        "lessons."
+       ],
+       "passage": "A) Rewrite the following sentences using the words in brackets:\nShe doesn't understand difficult lessons. (can't)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "Role Models",
+   "pages": "25-34",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "An Egyptian Hero"
+    },
+    {
+     "n": 2,
+     "title": "Heroes and Role Models"
+    },
+    {
+     "n": 3,
+     "title": "A Great Egyptian Thinker Dr. Gamal Hemdan"
+    },
+    {
+     "n": 4,
+     "title": "Story Time \"The Magic Classroom\" Chapter 3"
+    },
+    {
+     "n": 5,
+     "title": "A Hero Who Made a Difference \"Dr. Mohammed Ghoneim\""
+    },
+    {
+     "n": 6,
+     "title": "Team-Project Roundtable"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: An Egyptian Hero",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 25)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My father is the most __ person in my life.",
+       "options": [
+        "inspire",
+        "inspires",
+        "inspiring",
+        "inspired"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ is one of the qualities a scientist needs to help their community.",
+       "options": [
+        "Determination",
+        "Determine",
+        "Determines",
+        "Determined"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Dr. Samira's achievement in science made her a symbol of __ for many Egyptian girls.",
+       "options": [
+        "happiness",
+        "hope",
+        "sadness",
+        "failure"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Dr. Samira Moussa was kind and wanted to help her community. She believed that science should be used for ",
+        " and to ",
+        " people's lives. She often said, \"My wish for cancer treatment is to be as ",
+        " as aspirin.\" She worked hard in ",
+        " and taught students at Cairo University."
+       ],
+       "answers": [
+        "peace",
+        "improve",
+        "cheap",
+        "research"
+       ],
+       "bank": [
+        "research",
+        "improve",
+        "peace",
+        "cheap",
+        "expensive"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Heroes and Role Models",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 26)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Your __ model is someone you admire and try to be like him.",
+       "options": [
+        "rule",
+        "role",
+        "roll",
+        "reel"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Ahmed El Mansy fought the __ and protected our country.",
+       "options": [
+        "friends",
+        "partners",
+        "terrorists",
+        "tourists"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We __ all very happy on my brother's success yesterday.",
+       "options": [
+        "did",
+        "were",
+        "was",
+        "do"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "officer",
+        "Egyptian",
+        "the",
+        "was",
+        "Ahmed",
+        "Mansy",
+        "Army.",
+        "El",
+        "an",
+        "in"
+       ],
+       "answer": [
+        "Ahmed",
+        "El",
+        "Mansy",
+        "was",
+        "an",
+        "officer",
+        "in",
+        "the",
+        "Egyptian",
+        "Army."
+       ],
+       "passage": "Correct and write the mistakes in the following sentences:\nAhmed El Mansy is an officer in the Egyptian Army."
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "last",
+        "my",
+        "didn't",
+        "Friday.",
+        "I",
+        "uncle",
+        "visit"
+       ],
+       "answer": [
+        "I",
+        "didn't",
+        "visit",
+        "my",
+        "uncle",
+        "last",
+        "Friday."
+       ],
+       "passage": "Correct and write the mistakes in the following sentences:\nI don't visit my uncle last Friday."
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "She",
+        "a",
+        "year",
+        "her",
+        "bought",
+        "ago.",
+        "mobile",
+        "new"
+       ],
+       "answer": [
+        "She",
+        "bought",
+        "her",
+        "new",
+        "mobile",
+        "a",
+        "year",
+        "ago."
+       ],
+       "passage": "Correct and write the mistakes in the following sentences:\nShe buys her new mobile a year ago."
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Were",
+        "late",
+        "you",
+        "yesterday?",
+        "school",
+        "for"
+       ],
+       "answer": [
+        "Were",
+        "you",
+        "late",
+        "for",
+        "school",
+        "yesterday?"
+       ],
+       "passage": "Correct and write the mistakes in the following sentences:\nAre you late for school yesterday?"
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Where __ (does) your father spend his last weekend?",
+       "answer": [
+        "did"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I __ (don't) go to school yesterday as I was ill.",
+       "answer": [
+        "didn't",
+        "did not"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Last week, I __ (am not) in Cairo. I was in Aswan.",
+       "answer": [
+        "wasn't",
+        "was not"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__ (Do) Ali and Adel at home yesterday?",
+       "answer": [
+        "Were"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: A Great Egyptian Thinker Dr. Gamal Hemdan",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 27)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Dr. Gamal Hemdan was not only a geographer, but also a deep __",
+       "options": [
+        "artist",
+        "singer",
+        "thinker",
+        "painter"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Dr. Gamal Hemdan won many __ such as the State Appreciation Award in 1986.",
+       "options": [
+        "awards",
+        "titles",
+        "books",
+        "rewards"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "In his book, \"The Personality of Egypt\", Dr. Hemdan believed Egypt's location made it __",
+       "options": [
+        "power",
+        "powerless",
+        "powerful",
+        "powers"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "care__",
+       "answer": [
+        "ful"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__agree",
+       "answer": [
+        "dis"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "thank__",
+       "answer": [
+        "ful"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "environ__",
+       "answer": [
+        "ment"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__regular",
+       "answer": [
+        "ir"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__tidy",
+       "answer": [
+        "un"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__correct",
+       "answer": [
+        "in"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "geograph__",
+       "answer": [
+        "er"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Story Time \"The Magic Classroom\" Chapter 3",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 29)",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "The children found a glowing book in the first room.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "Mr. Adam told the children that the real magic was in the puzzles.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "The children learned that kindness and respect are important.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "The greatest lessons were about magic tricks.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "Mr. Adam mentioned honesty as doing the right thing even when no one is watching.",
+       "answer": true
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "The children returned to the classroom very happy and ",
+        " of themselves. They knew that the greatest ",
+        " they had learned were not about magic, but about ",
+        ", respect, and never giving ",
+        " on themselves or each other."
+       ],
+       "answers": [
+        "proud",
+        "lessons",
+        "kindness",
+        "up"
+       ],
+       "bank": [
+        "kindness",
+        "proud",
+        "lessons",
+        "up",
+        "down"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: A Hero Who Made a Difference \"Dr. Mohammed Ghoneim\"",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 30)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Dr. Mohamed Ghoniem is a famous Egyptian doctor and a hero to many people. He is a ",
+        " doctor who worked hard to help people with diseases. Dr. Ghoniem's ",
+        " are many, as he developed new methods for transplants. Many young doctors say that he ",
+        " them to become better doctors. He helps make communities stronger and ",
+        "."
+       ],
+       "answers": [
+        "kidney",
+        "strengths",
+        "inspires",
+        "healthier"
+       ],
+       "bank": [
+        "hero",
+        "kidney",
+        "strengths",
+        "inspires",
+        "healthier"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa456A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٤ و٥ و٦ · ص 31",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "Did",
+        "party",
+        "the",
+        "enjoy",
+        "yesterday?",
+        "she"
+       ],
+       "answer": [
+        "Did",
+        "she",
+        "enjoy",
+        "the",
+        "party",
+        "yesterday?"
+       ],
+       "passage": "A) Rewrite the following sentences:\nYes, she enjoyed the party yesterday. (Did)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "in",
+        "club.",
+        "Last",
+        "friend",
+        "the",
+        "I",
+        "week,",
+        "met",
+        "my"
+       ],
+       "answer": [
+        "Last",
+        "week,",
+        "I",
+        "met",
+        "my",
+        "friend",
+        "in",
+        "the",
+        "club."
+       ],
+       "passage": "A) Rewrite the following sentences:\nEvery month, i meet my friend in the club. (last week)"
+      }
+     ]
+    },
+    {
+     "id": "wa456B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٤ و٥ و٦ · ص 31",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "go",
+        "yesterday.",
+        "fishing",
+        "They",
+        "didn't"
+       ],
+       "answer": [
+        "They",
+        "didn't",
+        "go",
+        "fishing",
+        "yesterday."
+       ],
+       "passage": "A) Rewrite the following sentences:\nThey went fishing yesterday. (didn't)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Was",
+        "ago?",
+        "a",
+        "Ali",
+        "week",
+        "absent"
+       ],
+       "answer": [
+        "Was",
+        "Ali",
+        "absent",
+        "a",
+        "week",
+        "ago?"
+       ],
+       "passage": "A) Rewrite the following sentences:\nWas Ali absent last week. (ago)"
+      }
+     ]
+    },
+    {
+     "id": "wa456C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٤ و٥ و٦ · ص 31",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "didn't",
+        "come",
+        "last",
+        "night.",
+        "He",
+        "late"
+       ],
+       "answer": [
+        "He",
+        "didn't",
+        "come",
+        "late",
+        "last",
+        "night."
+       ],
+       "passage": "A) Rewrite the following sentences:\nHe came late last night. (didn't)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "they",
+        "study",
+        "yesterday?",
+        "well",
+        "Did"
+       ],
+       "answer": [
+        "Did",
+        "they",
+        "study",
+        "well",
+        "yesterday?"
+       ],
+       "passage": "A) Rewrite the following sentences:\nYes, they studied well yesterday. (Did)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Smart Choices",
+   "pages": "35-46",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Think Before you Choose"
+    },
+    {
+     "n": 2,
+     "title": "Decisions and Consequences"
+    },
+    {
+     "n": 3,
+     "title": "An Interview with an Athlete"
+    },
+    {
+     "n": 4,
+     "title": "Story Time \"The Dream Team\" Chapter 1"
+    },
+    {
+     "n": 5,
+     "title": "Asking for and Giving advice"
+    },
+    {
+     "n": 6,
+     "title": "Team-Project Roundtable"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Think Before you Choose",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 35)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "You should think about the __ and negative sides of your choices.",
+       "options": [
+        "careless",
+        "responsible",
+        "positive",
+        "difficult"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ means not caring about your actions.",
+       "options": [
+        "Responsible",
+        "Positive",
+        "Polite",
+        "Careless"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "You should think well before taking a __",
+       "options": [
+        "decision",
+        "success",
+        "party",
+        "birthday"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Ayman was excited about his school project and planned to work with his classmates. He chose four friends who were hardworking and always completed their tasks. One day, another student asked to join the group. He was not very ",
+        " and often forgot his homework. Ayman faced a difficult decision. He thought about the positive and negative sides of each ",
+        ". In the end, he made a fair and polite ",
+        " and explained his choice clearly. His friends respected his ",
+        " and the group worked successfully together."
+       ],
+       "answers": [
+        "responsible",
+        "choice",
+        "decision",
+        "opinion"
+       ],
+       "bank": [
+        "opinion",
+        "responsible",
+        "decision",
+        "choice",
+        "answer"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Decisions and Consequences",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 36)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "All our choices have __",
+       "options": [
+        "benefits",
+        "problems",
+        "mistakes",
+        "consequences"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A/An __ means something you want to achieve.",
+       "options": [
+        "opinion",
+        "problem",
+        "goal",
+        "situation"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ bad choices means we don't think carefully.",
+       "options": [
+        "Doing",
+        "Making",
+        "Behaving",
+        "Finishing"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "You __ (shouldn't) listen to your teacher's advice.",
+       "answer": [
+        "should"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "If you don't study hard, you __ (will) pass the math test.",
+       "answer": [
+        "won't",
+        "wo not"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The girls should __ (making) smart choices.",
+       "answer": [
+        "make"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "If she doesn't __ (eats) healthy food, she won't feel strong.",
+       "answer": [
+        "eat"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: An Interview with an Athlete",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 37-38)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "I talked to my coach, who had a big ",
+        " on me. We discussed the possible ",
+        ". I thought and said \"If I run, it will make the ",
+        " worse\" and \"If I rest, I will ",
+        " fully for the next race.\" Sometimes, you should take a wise decision before taking a risk."
+       ],
+       "answers": [
+        "influence",
+        "consequences",
+        "injury",
+        "recover"
+       ],
+       "bank": [
+        "influence",
+        "injury",
+        "recover",
+        "solutions",
+        "consequences"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Story Time \"The Dream Team\" Chapter 1",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 41)",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "Sara wanted to ignore the ideas of her teammates.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "The team gave up when their ideas failed at first.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "The children were excited to create something useful in the invention fair.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "Lily suggested using eco-friendly materials.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "The team gave up when their ideas failed at first.",
+       "answer": false
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Lily felt left out because her ideas were ",
+        ". Sara stopped and said gently, \"We need to be ",
+        ".\" \"Everyone's ideas matter. We are a team.\" Karim added wisely, \"We must have honesty. Let's make honest choices and think carefully.\" Even when their ideas failed at first, they kept trying. \"",
+        "!\" Sara reminded them. \"We can't ",
+        ".\""
+       ],
+       "answers": [
+        "ignored",
+        "fair",
+        "determination",
+        "give up"
+       ],
+       "bank": [
+        "give up",
+        "honesty",
+        "fair",
+        "ignored",
+        "determination"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: Asking for and Giving advice",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 42)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "You should __ new hobbies.",
+       "options": [
+        "explores",
+        "exploring",
+        "explore",
+        "explored"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "He made a good __ to improve his language.",
+       "options": [
+        "honesty",
+        "impact",
+        "decision",
+        "problem"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Every decision has a __, so you should think carefully.",
+       "options": [
+        "impact",
+        "consequence",
+        "injury",
+        "side"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "wa123A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ١ و٢ و٣ · ص 39-40",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "1. The main idea:",
+       "options": [
+        "Fatima ignored some students",
+        "Fatima made a careful decision about the trip",
+        "The trip was canceled",
+        "Fatima only invited her best friends"
+       ],
+       "answer": 1,
+       "passage": "Fatima was excited about a class trip to the museum. She had to decide who could go. Most of her classmates had finished their homework and behaved well, but two students had been careless. Fatima thought carefully. 'If I let everyone come, the trip may be crowded and hard to manage. If I only choose responsible students, others may feel left out,' she said. In the end, she invited the responsible students and politely explained her choice. The others understood, promised to improve, and the trip was a success."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "2. The underlined word \"responsible\" means __",
+       "options": [
+        "careless",
+        "dependable and careful",
+        "rude",
+        "selfish"
+       ],
+       "answer": 1,
+       "passage": "Fatima was excited about a class trip to the museum. She had to decide who could go. Most of her classmates had finished their homework and behaved well, but two students had been careless. Fatima thought carefully. 'If I let everyone come, the trip may be crowded and hard to manage. If I only choose responsible students, others may feel left out,' she said. In the end, she invited the responsible students and politely explained her choice. The others understood, promised to improve, and the trip was a success."
+      }
+     ]
+    },
+    {
+     "id": "wa123B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ١ و٢ و٣ · ص 39-40",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "1. The main idea:",
+       "options": [
+        "Sara did everything alone",
+        "Planning and teamwork helped the fair succeed",
+        "The fair was canceled",
+        "Students ignored planning"
+       ],
+       "answer": 1,
+       "passage": "Sara and her classmates were responsible for organizing a school fair. They had to decide which activities to include and how to plan their time. Some students wanted to prepare everything at the last minute, but Sara suggested planning carefully to avoid problems. She talked with her teacher and classmates about each idea and thought about the good and bad points. In the end, they made a clear plan and gave simple jobs to each student. The fair was successful, and everyone enjoyed it. Sara learned that making decisions together and planning carefully helps you succeed."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "2. The underlined word \"successful\" means __",
+       "options": [
+        "boring",
+        "difficult",
+        "achieving good results",
+        "messy"
+       ],
+       "answer": 2,
+       "passage": "Sara and her classmates were responsible for organizing a school fair. They had to decide which activities to include and how to plan their time. Some students wanted to prepare everything at the last minute, but Sara suggested planning carefully to avoid problems. She talked with her teacher and classmates about each idea and thought about the good and bad points. In the end, they made a clear plan and gave simple jobs to each student. The fair was successful, and everyone enjoyed it. Sara learned that making decisions together and planning carefully helps you succeed."
+      }
+     ]
+    },
+    {
+     "id": "wa123C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ١ و٢ و٣ · ص 39-40",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "1. The main idea:",
+       "options": [
+        "Ahmed always trains hard without rest",
+        "Ahmed made a smart decision to recover before competing",
+        "Ahmed lost the competition",
+        "Ahmed ignored his coach"
+       ],
+       "answer": 1,
+       "passage": "Ahmed is a young athlete who faced a difficult choice last summer. During training for a big competition, he felt very tired and stressed. Ahmed had to choose between taking a break or continuing training. He talked to his coach and family and thought about the results of each option. He decided to rest for a few days and then train again. This careful decision helped him get better and do well during the competition. Ahmed learned that listening to advice, thinking before acting, and taking care of his health can help you succeed."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "2. The underlined word \"stressed\" means __",
+       "options": [
+        "relaxed",
+        "worried and tired",
+        "excited",
+        "confident"
+       ],
+       "answer": 1,
+       "passage": "Ahmed is a young athlete who faced a difficult choice last summer. During training for a big competition, he felt very tired and stressed. Ahmed had to choose between taking a break or continuing training. He talked to his coach and family and thought about the results of each option. He decided to rest for a few days and then train again. This careful decision helped him get better and do well during the competition. Ahmed learned that listening to advice, thinking before acting, and taking care of his health can help you succeed."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "Future Dreams",
+   "pages": "47-57",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Discover Your Future!"
+    },
+    {
+     "n": 2,
+     "title": "An Interview with a Scientist"
+    },
+    {
+     "n": 3,
+     "title": "My Plan for a Future Career"
+    },
+    {
+     "n": 4,
+     "title": "Story Time \"The Dream Team\" Chapter 2"
+    },
+    {
+     "n": 5,
+     "title": "My Dream Job!"
+    },
+    {
+     "n": 6,
+     "title": "Team-Project Roundtable"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Discover Your Future!",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 47)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My brother has the __ to study abroad one day.",
+       "options": [
+        "patient",
+        "passion",
+        "passionate",
+        "pretend"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Your dream __ will become a reality if you start planning now.",
+       "options": [
+        "profession",
+        "professional",
+        "professionals",
+        "profile"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Choosing your dream job is an important step in your life. It helps you plan your future and ",
+        " your skills. Some students dream of becoming engineers, while others want to work in medicine or education. To reach your goal, you must work hard, gain experience, and stay focused on your ",
+        ". It is also important to learn new skills and improve them every day. When you believe in yourself, you can overcome ",
+        " and achieve your success. Always remember that success comes with effort and ",
+        "."
+       ],
+       "answers": [
+        "develop",
+        "goals",
+        "challenges",
+        "determination"
+       ],
+       "bank": [
+        "challenges",
+        "determination",
+        "goals",
+        "develop",
+        "path"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: An Interview with a Scientist",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 48)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My teacher said I have a real talent, and that gave me more __",
+       "options": [
+        "patience",
+        "confidence",
+        "bravery",
+        "kindness"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Dr.El-Baz helped the Apollo __ select safe landing sites on the moon.",
+       "options": [
+        "astronauts",
+        "astronomers",
+        "pilots",
+        "drivers"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My friends __ (take part) in the poetry competition.",
+       "answer": [
+        "are going to take part"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Malak __ (eat) Koshari for lunch today.",
+       "answer": [
+        "is going to eat"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "It is cloudy today. It __ (rain).",
+       "answer": [
+        "is going to rain"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "They __ (join) the volleyball team.",
+       "answer": [
+        "are going to join"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "study",
+        "medicine",
+        "in",
+        "am",
+        "going",
+        "future.",
+        "to",
+        "the"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "going",
+        "to",
+        "study",
+        "medicine",
+        "in",
+        "the",
+        "future."
+       ],
+       "passage": "Rewrite the following sentences:\nMy plan is to study medicine in the future. (I am...)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "be",
+        "to",
+        "a",
+        "going",
+        "graphic",
+        "is",
+        "designer.",
+        "She"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "going",
+        "to",
+        "be",
+        "a",
+        "graphic",
+        "designer."
+       ],
+       "passage": "Rewrite the following sentences:\nShe has an intention to be a graphic designer. (going)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "join",
+        "going",
+        "to",
+        "the",
+        "They",
+        "team.",
+        "are",
+        "football"
+       ],
+       "answer": [
+        "They",
+        "are",
+        "going",
+        "to",
+        "join",
+        "the",
+        "football",
+        "team."
+       ],
+       "passage": "Rewrite the following sentences:\nThey have decided to join the football team. (are going)"
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: My Plan for a Future Career",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 49)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My sister chose painting as it __ her talent.",
+       "options": [
+        "goes",
+        "matches",
+        "has",
+        "builds"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Working hard helps students __ their goals.",
+       "options": [
+        "do",
+        "go",
+        "achieve",
+        "read"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I should work very hard to make my dreams __ true.",
+       "options": [
+        "come",
+        "find",
+        "go",
+        "feel"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "I need a good education to reach my dream. After school, I will go to ",
+        " to study medicine. I will also need to ",
+        " in hospitals. This ",
+        " will help me have the ",
+        " I need for ",
+        " in my profession. It will give me confidence, experience, and knowledge to care for patients and achieve my goals in life. I will work hard every day."
+       ],
+       "answers": [
+        "university",
+        "train",
+        "training",
+        "skills",
+        "success"
+       ],
+       "bank": [
+        "success",
+        "university",
+        "train",
+        "training",
+        "skills"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Story Time \"The Dream Team\" Chapter 2",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 52)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "The team worked late, supporting each other. They ",
+        " every idea, and organized the work when ",
+        " tasks, and sharing ",
+        " along the way. When Karim made a mistake, no one blamed him. Instead, they helped him ",
+        " it."
+       ],
+       "answers": [
+        "respected",
+        "dividing",
+        "steps",
+        "fix"
+       ],
+       "bank": [
+        "steps",
+        "dividing",
+        "fix",
+        "respected",
+        "respect"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa123A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ١ و٢ و٣ · ص 50-51",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "going",
+        "buy",
+        "to",
+        "car.",
+        "is",
+        "He"
+       ],
+       "answer": [
+        "He",
+        "is",
+        "going",
+        "to",
+        "buy",
+        "a",
+        "car."
+       ],
+       "passage": "1- Rewrite the following sentences:\nHe has decided to buy a car. (going)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "study",
+        "to",
+        "is",
+        "going",
+        "medicine.",
+        "He"
+       ],
+       "answer": [
+        "He",
+        "is",
+        "going",
+        "to",
+        "study",
+        "medicine."
+       ],
+       "passage": "1- Rewrite the following sentences:\nHis goal is to study medicine. (He is)"
+      }
+     ]
+    },
+    {
+     "id": "wa123B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ١ و٢ و٣ · ص 50-51",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "to",
+        "abroad.",
+        "going",
+        "He",
+        "travel",
+        "is"
+       ],
+       "answer": [
+        "He",
+        "is",
+        "going",
+        "to",
+        "travel",
+        "abroad."
+       ],
+       "passage": "1- Rewrite the following sentences: [book labels this 'Choose the correct answer from a, b, c or d:' but the content is Rewrite, sic]\nHe has planned to travel abroad. (going)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "their",
+        "going",
+        "They",
+        "to",
+        "community.",
+        "are",
+        "help"
+       ],
+       "answer": [
+        "They",
+        "are",
+        "going",
+        "to",
+        "help",
+        "their",
+        "community."
+       ],
+       "passage": "1- Rewrite the following sentences: [book labels this 'Choose the correct answer from a, b, c or d:' but the content is Rewrite, sic]\nTheir intention is to help their community. (They)"
+      }
+     ]
+    },
+    {
+     "id": "wa123C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ١ و٢ و٣ · ص 50-51",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "He",
+        "London.",
+        "visit",
+        "to",
+        "going",
+        "is"
+       ],
+       "answer": [
+        "He",
+        "is",
+        "going",
+        "to",
+        "visit",
+        "London."
+       ],
+       "passage": "1- Rewrite the following sentences: [book labels this 'Choose the correct answer from a, b, c or d:' but the content is Rewrite, sic]\nHe has intended to visit London. (going)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "She",
+        "an",
+        "to",
+        "be",
+        "is",
+        "going",
+        "engineer."
+       ],
+       "answer": [
+        "She",
+        "is",
+        "going",
+        "to",
+        "be",
+        "an",
+        "engineer."
+       ],
+       "passage": "1- Rewrite the following sentences: [book labels this 'Choose the correct answer from a, b, c or d:' but the content is Rewrite, sic]\nHer Plan is to be an engineer. (She)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "Global Citizens",
+   "pages": "58-68",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Being a Global Citizen"
+    },
+    {
+     "n": 2,
+     "title": "Global Citizen Talk"
+    },
+    {
+     "n": 3,
+     "title": "Ocean Circle"
+    },
+    {
+     "n": 4,
+     "title": "Story Time \"The Dream Team\" Chapter 3"
+    },
+    {
+     "n": 5,
+     "title": "Let's Make a Difference"
+    },
+    {
+     "n": 6,
+     "title": "Team-Project Roundtable"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Being a Global Citizen",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 58)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Being a global citizen means being __ to people from different countries and cultures.",
+       "options": [
+        "fair",
+        "unfair",
+        "unkind",
+        "unlike"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Showing respect to everyone and working together in __ is a quality of a global citizen.",
+       "options": [
+        "pace",
+        "peace",
+        "piece",
+        "path"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The antonym of the word \"waste\" is __",
+       "options": [
+        "save",
+        "find",
+        "destroy",
+        "follow"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "In our schools, students should be young leaders who can change the world by __ good choices.",
+       "options": [
+        "doing",
+        "looking",
+        "making",
+        "throwing"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "In our schools, we learn to ",
+        " problems together and think about how we can ",
+        " our world. We also learn about ",
+        " our environment in different ways. We must remember that even small ",
+        " can make a big difference. We can plant trees, recycle waste, and help keep our community ",
+        " and clean. Working together makes our world better for everyone."
+       ],
+       "answers": [
+        "solve",
+        "improve",
+        "improving",
+        "actions",
+        "safe"
+       ],
+       "bank": [
+        "safe",
+        "solve",
+        "actions",
+        "improve",
+        "improving"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Global Citizen Talk",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 59)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Global __ means helping others and taking care of the environment.",
+       "options": [
+        "friendship",
+        "hardship",
+        "citizenship",
+        "championship"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "It's our __ to do voluntary work to help the environment.",
+       "options": [
+        "responsibility",
+        "ability",
+        "capability",
+        "capicity"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Everyone can __ to a better planet.",
+       "options": [
+        "salute",
+        "contribute",
+        "pollute",
+        "commute"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Young children must __ (doing) sports in the club.",
+       "answer": [
+        "do"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Mariam __ (don't) visit her aunt last week.",
+       "answer": [
+        "didn't",
+        "did not"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Students __ (mustn't) collect information before they start any project.",
+       "answer": [
+        "must"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We must __ (respects) people from other cultures.",
+       "answer": [
+        "respect"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My father __ (always is) early for his work.",
+       "answer": [
+        "is always"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "in",
+        "People",
+        "hospitals.",
+        "mustn't",
+        "smoke"
+       ],
+       "answer": [
+        "People",
+        "mustn't",
+        "smoke",
+        "in",
+        "hospitals."
+       ],
+       "passage": "Rewrite the following sentences using the word in brackets:\nPeople aren't allowed to smoke in hospitals. (mustn't)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "usually",
+        "gets",
+        "brother",
+        "up",
+        "early.",
+        "My"
+       ],
+       "answer": [
+        "My",
+        "brother",
+        "usually",
+        "gets",
+        "up",
+        "early."
+       ],
+       "passage": "Rewrite the following sentences using the word in brackets:\nIt's my brother's habit to get up early. (usually)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "school",
+        "wear",
+        "uniform.",
+        "must",
+        "your",
+        "You"
+       ],
+       "answer": [
+        "You",
+        "must",
+        "wear",
+        "your",
+        "school",
+        "uniform."
+       ],
+       "passage": "Rewrite the following sentences using the word in brackets:\nIt's a necessity to wear your school uniform. (must)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "We",
+        "trees",
+        "must",
+        "help",
+        "to",
+        "plant",
+        "environment.",
+        "the"
+       ],
+       "answer": [
+        "We",
+        "must",
+        "plant",
+        "trees",
+        "to",
+        "help",
+        "the",
+        "environment."
+       ],
+       "passage": "Rewrite the following sentences using the word in brackets:\nOur responsibility is to plant trees to help the environment. (must)"
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Ocean Circle",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 60)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "They played well, __ they won the championship.",
+       "answer": [
+        "so"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Mariam ate a big amount of Koshari __ she was very hungry.",
+       "answer": [
+        "because"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__ he reached the station late, he caught the train.",
+       "answer": [
+        "Although"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Story Time \"The Dream Team\" Chapter 3",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 63)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "On the day of the fair, teams presented their projects with ",
+        ". Sara and her team explained their machine ",
+        ". The judges were impressed by the teamwork and ",
+        " the team showed. Although another team won first prize, their teacher ",
+        " proudly and said, \"You are the real winners because the values you showed are more important than any trophy\"."
+       ],
+       "answers": [
+        "excitement",
+        "clearly",
+        "respect",
+        "clapped"
+       ],
+       "bank": [
+        "respect",
+        "clapped",
+        "clearly",
+        "excited",
+        "excitement"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: Let's Make a Difference",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 64)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Being a global citizen means caring about others and helping the __.",
+       "answer": [
+        "environment"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Students and teachers picked __ trash and planted trees.",
+       "answer": [
+        "up"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "When you write a Social Media post, __ with a catchy intro.",
+       "answer": [
+        "start"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "You can __ a poster you are making into two parts.",
+       "answer": [
+        "divide"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "A global citizen must __ responsibility and support others.",
+       "answer": [
+        "take"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ur1",
+   "title": "مراجعة الوحدة ١",
+   "pages": "12-14",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة الوحدة ١",
+     "sub": "من كتاب التقييمات (ص 12-14) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "Tarek starts his day by checking his books.",
+       "answer": false,
+       "passage": "Hi everyone! My name is Tarek, and I want to share my digital day with you. I always start my morning by checking my phone. I usually have three or four messages from my school friends. Sometimes, my cousin from Alexandria sends me funny pictures. At breakfast, I often use my tablet to search for news. My favorite app shows me interesting facts about animals and space. I never eat without looking at something on my screen - I know it's not a good habit!"
+      },
+      {
+       "type": "tf",
+       "q": "Tarek's cousin From Alex sends him funny jokes.",
+       "answer": false,
+       "passage": "Hi everyone! My name is Tarek, and I want to share my digital day with you. I always start my morning by checking my phone. I usually have three or four messages from my school friends. Sometimes, my cousin from Alexandria sends me funny pictures. At breakfast, I often use my tablet to search for news. My favorite app shows me interesting facts about animals and space. I never eat without looking at something on my screen - I know it's not a good habit!"
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Tarek uses his __ to search for news.",
+       "answer": [
+        "tablet"
+       ],
+       "passage": "Hi everyone! My name is Tarek, and I want to share my digital day with you. I always start my morning by checking my phone. I usually have three or four messages from my school friends. Sometimes, my cousin from Alexandria sends me funny pictures. At breakfast, I often use my tablet to search for news. My favorite app shows me interesting facts about animals and space. I never eat without looking at something on my screen - I know it's not a good habit!"
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Tarek's favorite app shows him facts about animals and __.",
+       "answer": [
+        "space"
+       ],
+       "passage": "Hi everyone! My name is Tarek, and I want to share my digital day with you. I always start my morning by checking my phone. I usually have three or four messages from my school friends. Sometimes, my cousin from Alexandria sends me funny pictures. At breakfast, I often use my tablet to search for news. My favorite app shows me interesting facts about animals and space. I never eat without looking at something on my screen - I know it's not a good habit!"
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Tarek __ eat without looking at something on his screen.",
+       "answer": [
+        "never"
+       ],
+       "passage": "Hi everyone! My name is Tarek, and I want to share my digital day with you. I always start my morning by checking my phone. I usually have three or four messages from my school friends. Sometimes, my cousin from Alexandria sends me funny pictures. At breakfast, I often use my tablet to search for news. My favorite app shows me interesting facts about animals and space. I never eat without looking at something on my screen - I know it's not a good habit!"
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "At school, we're learning to use technology __",
+       "options": [
+        "wisely",
+        "carelessly",
+        "quickly",
+        "fast"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I usually use my lap top to __ for information for my project.",
+       "options": [
+        "pay",
+        "search",
+        "play",
+        "take"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My father allows me to play online __ on weekends.",
+       "options": [
+        "pages",
+        "tablets",
+        "games",
+        "books"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Students should __ the time they spend online.",
+       "options": [
+        "improve",
+        "increase",
+        "deduce",
+        "reduce"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "At school, we sometimes use the smartboard in our science class. Our teacher shows us amazing videos about ",
+        " and animals. I love watching them! We also use computers in our computer ",
+        " twice a week. I'm learning to type faster - I can type 25 words ",
+        " minute now! After school, I always do my homework first. I usually search for information on my laptop when I need help with my ",
+        ". My favorite website has lots of useful information for students."
+       ],
+       "answers": [
+        "plants",
+        "class",
+        "per",
+        "projects"
+       ],
+       "bank": [
+        "projects",
+        "plants",
+        "per",
+        "class",
+        "decorations"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "a. Choose: The underlined pronoun \"it\" refers to the __",
+       "options": [
+        "building",
+        "community",
+        "goal",
+        "step"
+       ],
+       "answer": 2,
+       "passage": "Everyone has dreams and hopes for the future. Some people want to become doctors, engineers, or artists. Others dream of starting business or helping their community. To discover your future, you need to think about your talents and what you enjoy doing. It's also important to set a clear goal and make a good plan. When you work hard and believe in yourself, you can achieve it well. Your future begins today - so take the first step and start building the life you want!"
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "a. Choose: The underlined word \"clear\" has the same meaning as __",
+       "options": [
+        "obvious",
+        "unclear",
+        "confusing",
+        "uncertain"
+       ],
+       "answer": 0,
+       "passage": "Everyone has dreams and hopes for the future. Some people want to become doctors, engineers, or artists. Others dream of starting business or helping their community. To discover your future, you need to think about your talents and what you enjoy doing. It's also important to set a clear goal and make a good plan. When you work hard and believe in yourself, you can achieve it well. Your future begins today - so take the first step and start building the life you want!"
+      },
+      {
+       "type": "tf",
+       "q": "The students shared ideas and solved the challenge by working as a team.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "Adam said they need to show unkindness to succeed.",
+       "answer": false
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "plays",
+        "Ali",
+        "never",
+        "games.",
+        "online"
+       ],
+       "answer": [
+        "Ali",
+        "never",
+        "plays",
+        "online",
+        "games."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nAli doesn't play online games at all. (never)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "always",
+        "I",
+        "school",
+        "go",
+        "to",
+        "early."
+       ],
+       "answer": [
+        "I",
+        "always",
+        "go",
+        "to",
+        "school",
+        "early."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nI go to school early every day. (always)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "brother",
+        "room",
+        "Friday.",
+        "his",
+        "usually",
+        "cleans",
+        "My",
+        "every"
+       ],
+       "answer": [
+        "My",
+        "brother",
+        "usually",
+        "cleans",
+        "his",
+        "room",
+        "every",
+        "Friday."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nMy brother has a habit to clean his room every Friday. (usually)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "to",
+        "local",
+        "the",
+        "I",
+        "park.",
+        "sometimes",
+        "go"
+       ],
+       "answer": [
+        "I",
+        "sometimes",
+        "go",
+        "to",
+        "the",
+        "local",
+        "park."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nI go to the local park from time to time. (sometimes)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ur2",
+   "title": "مراجعة الوحدة ٢",
+   "pages": "22-24",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة الوحدة ٢",
+     "sub": "من كتاب التقييمات (ص 22-24) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "I use learning styles to improve my math.",
+       "answer": false,
+       "passage": "To improve my English, I use learning styles at home and at school. In English class, I try to sit at the front to see the board clearly. To practice writing, I write 3-5 sentences each day about what I did. I can record my voice to know the correct pronunciation of words. Sometimes, I can watch vidioes to help me as I can learn when I listen and see at the same time. Now, I am practicing vocabulary anywhere. I always speak to my friends in English. We like to draw diagrams to remind us. [sic 'vidioes']"
+      },
+      {
+       "type": "tf",
+       "q": "I try to sit at the front to see the board clearly.",
+       "answer": true,
+       "passage": "To improve my English, I use learning styles at home and at school. In English class, I try to sit at the front to see the board clearly. To practice writing, I write 3-5 sentences each day about what I did. I can record my voice to know the correct pronunciation of words. Sometimes, I can watch vidioes to help me as I can learn when I listen and see at the same time. Now, I am practicing vocabulary anywhere. I always speak to my friends in English. We like to draw diagrams to remind us. [sic 'vidioes']"
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "To practice __, I write 3-5 sentences each day about what I did.",
+       "answer": [
+        "writing"
+       ],
+       "passage": "To improve my English, I use learning styles at home and at school. In English class, I try to sit at the front to see the board clearly. To practice writing, I write 3-5 sentences each day about what I did. I can record my voice to know the correct pronunciation of words. Sometimes, I can watch vidioes to help me as I can learn when I listen and see at the same time. Now, I am practicing vocabulary anywhere. I always speak to my friends in English. We like to draw diagrams to remind us. [sic 'vidioes']"
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I can learn better when I __ and see at the same time.",
+       "answer": [
+        "listen"
+       ],
+       "passage": "To improve my English, I use learning styles at home and at school. In English class, I try to sit at the front to see the board clearly. To practice writing, I write 3-5 sentences each day about what I did. I can record my voice to know the correct pronunciation of words. Sometimes, I can watch vidioes to help me as I can learn when I listen and see at the same time. Now, I am practicing vocabulary anywhere. I always speak to my friends in English. We like to draw diagrams to remind us. [sic 'vidioes']"
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I always speak to my friends in __.",
+       "answer": [
+        "English"
+       ],
+       "passage": "To improve my English, I use learning styles at home and at school. In English class, I try to sit at the front to see the board clearly. To practice writing, I write 3-5 sentences each day about what I did. I can record my voice to know the correct pronunciation of words. Sometimes, I can watch vidioes to help me as I can learn when I listen and see at the same time. Now, I am practicing vocabulary anywhere. I always speak to my friends in English. We like to draw diagrams to remind us. [sic 'vidioes']"
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Teamwork is important as it helps students to be __",
+       "options": [
+        "easy",
+        "difficult",
+        "creative",
+        "slow"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "To be confident, students need to __ their skills.",
+       "options": [
+        "neglect",
+        "develop",
+        "try",
+        "make"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We need to share opinions and dicuss problems to find __",
+       "options": [
+        "difficulties",
+        "tablets",
+        "gamers",
+        "solutions"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Respect means we listen and care __ each other.",
+       "options": [
+        "in",
+        "for",
+        "to",
+        "at"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Teamwork teaches students cooperation and leadership; it also helps them to be ",
+        " thinkers. Learning with others helps students to ",
+        " new friends because they spend much time together doing projects, ",
+        " problems, and doing experiments. Modern technology makes group learning very enjoyable. Students can use apps and websites on the internet to find information about their work. Using digital ",
+        " creates powerful learning experiences."
+       ],
+       "answers": [
+        "creative",
+        "make",
+        "solve",
+        "devices"
+       ],
+       "bank": [
+        "make",
+        "solve",
+        "advise",
+        "devices",
+        "creative"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "a. Choose: The park needs more __",
+       "options": [
+        "workers",
+        "trees",
+        "soil",
+        "wood"
+       ],
+       "answer": 1,
+       "passage": "Ahmed is a university student who loves planting trees. One day, he hears that a park near his house needs some trees. The city doesn't have enough money to plant more, and Ahmed wants to help. He decides to use social media to spread the word. He posts a message on social media. He writes, \"Let's make our city greener! The local park needs trees. Join me to raise money and help to plant them!\". His friends see the post and share it with their friends. At last, many people give money and others offer help. Ahmed feels proud because he could make a difference."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "a. Choose: The underlined word \"raise\" has the same meaning as __",
+       "options": [
+        "collect",
+        "connect",
+        "damage",
+        "spoil"
+       ],
+       "answer": 0,
+       "passage": "Ahmed is a university student who loves planting trees. One day, he hears that a park near his house needs some trees. The city doesn't have enough money to plant more, and Ahmed wants to help. He decides to use social media to spread the word. He posts a message on social media. He writes, \"Let's make our city greener! The local park needs trees. Join me to raise money and help to plant them!\". His friends see the post and share it with their friends. At last, many people give money and others offer help. Ahmed feels proud because he could make a difference."
+      },
+      {
+       "type": "tf",
+       "q": "The students stepped onto the invisible bridge, holding hands, and encouraging each other.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "Courage means we try even when we feel safe.",
+       "answer": false
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "computer",
+        "repair",
+        "can",
+        "Emad",
+        "his",
+        "alone."
+       ],
+       "answer": [
+        "Emad",
+        "can",
+        "repair",
+        "his",
+        "computer",
+        "alone."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nEmad is able to repair his computer alone. (can)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "can't",
+        "She",
+        "food.",
+        "her",
+        "make",
+        "own"
+       ],
+       "answer": [
+        "She",
+        "can't",
+        "make",
+        "her",
+        "own",
+        "food."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nShe hasn't the ability to make her own food. (can)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "cleaning",
+        "his",
+        "room",
+        "now.",
+        "brother",
+        "is",
+        "My"
+       ],
+       "answer": [
+        "My",
+        "brother",
+        "is",
+        "cleaning",
+        "his",
+        "room",
+        "now."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nMy brother cleans his room every Friday. (now)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "am",
+        "homework",
+        "at",
+        "moment.",
+        "my",
+        "I",
+        "the",
+        "doing"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "doing",
+        "my",
+        "homework",
+        "at",
+        "the",
+        "moment."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nI do my homework in the eevning. (at the moment)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ur3",
+   "title": "مراجعة الوحدة ٣",
+   "pages": "32-34",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة الوحدة ٣",
+     "sub": "من كتاب التقييمات (ص 32-34) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "The monorail will increase pollution as it uses electricity instead of fuel.",
+       "answer": false,
+       "passage": "The monorail will improve the daily life of Egyptian citizen in many ways. First, it will reduce travel time, making it faster for people to move between different parts of the city. Second, it will help reduce pollution because it uses electricity instead of fuel. There are some main differences between the monorail and other types of public transportation. Unlike traditional trains or buses, the monorail runs above the ground on a single rail, so it doesn't get stuck in traffic. Also, it's faster, quieter, and more modern than older systems."
+      },
+      {
+       "type": "tf",
+       "q": "The monorail will reduce travel time.",
+       "answer": true,
+       "passage": "The monorail will improve the daily life of Egyptian citizen in many ways. First, it will reduce travel time, making it faster for people to move between different parts of the city. Second, it will help reduce pollution because it uses electricity instead of fuel. There are some main differences between the monorail and other types of public transportation. Unlike traditional trains or buses, the monorail runs above the ground on a single rail, so it doesn't get stuck in traffic. Also, it's faster, quieter, and more modern than older systems."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The monorail runs above the ground on a __ rail.",
+       "answer": [
+        "single"
+       ],
+       "passage": "The monorail will improve the daily life of Egyptian citizen in many ways. First, it will reduce travel time, making it faster for people to move between different parts of the city. Second, it will help reduce pollution because it uses electricity instead of fuel. There are some main differences between the monorail and other types of public transportation. Unlike traditional trains or buses, the monorail runs above the ground on a single rail, so it doesn't get stuck in traffic. Also, it's faster, quieter, and more modern than older systems."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The monorail uses __ instead of fuel.",
+       "answer": [
+        "electricity"
+       ],
+       "passage": "The monorail will improve the daily life of Egyptian citizen in many ways. First, it will reduce travel time, making it faster for people to move between different parts of the city. Second, it will help reduce pollution because it uses electricity instead of fuel. There are some main differences between the monorail and other types of public transportation. Unlike traditional trains or buses, the monorail runs above the ground on a single rail, so it doesn't get stuck in traffic. Also, it's faster, quieter, and more modern than older systems."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The monorail doesn't get __ in traffic.",
+       "answer": [
+        "stuck"
+       ],
+       "passage": "The monorail will improve the daily life of Egyptian citizen in many ways. First, it will reduce travel time, making it faster for people to move between different parts of the city. Second, it will help reduce pollution because it uses electricity instead of fuel. There are some main differences between the monorail and other types of public transportation. Unlike traditional trains or buses, the monorail runs above the ground on a single rail, so it doesn't get stuck in traffic. Also, it's faster, quieter, and more modern than older systems."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A/An __ is success in reaching a goal.",
+       "options": [
+        "achievement",
+        "difficulty",
+        "creativity",
+        "slowness"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Great Egyptians such as Dr Samira Mousa continue to __ people today.",
+       "options": [
+        "neglect",
+        "inspire",
+        "fight",
+        "discourage"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Dr Gamal Hemdan __ the State Appreciation Award in 1986.",
+       "options": [
+        "lost",
+        "wasted",
+        "won",
+        "solved"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The prefix __ gives the opposite of the word \"afraid\".",
+       "options": [
+        "in",
+        "un",
+        "il",
+        "dis"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Dr. Gamal Hemdan was a famous Egyptian geographer and writer. He was born in Egypt in 1928. He studied ",
+        " at Cairo university and later got his PHD from a university in ",
+        ". He wasn't only a scientist, but also a deep ",
+        ". He combined geography, history, and ",
+        " to explain why Egypt is a very special country."
+       ],
+       "answers": [
+        "geography",
+        "England",
+        "thinker",
+        "Politics"
+       ],
+       "bank": [
+        "thinker",
+        "England",
+        "geography",
+        "Politics",
+        "history"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "a) Choose: Tablets are useful for __",
+       "options": [
+        "listening to music",
+        "reading",
+        "watching movies",
+        "b&c"
+       ],
+       "answer": 3,
+       "passage": "People use many devices every day to help them with different tasks. One of the most important devices is the computer. Computers are used for work, school, and entertainment. They help us write documents, search the internet, and play games. Another important device is the tablet. Tablets are easy to carry and great for reading books, watching movies, and going online. Headphones are also important for many people. They allow us to listen to music, watch videos, and make calls. These devices make our lives more comfortable and enjoyable. They help us learn, communicate, and relax."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "a) Choose: Computers are used to __",
+       "options": [
+        "play outdoors",
+        "make phone calls",
+        "search the internet",
+        "watching television"
+       ],
+       "answer": 2,
+       "passage": "People use many devices every day to help them with different tasks. One of the most important devices is the computer. Computers are used for work, school, and entertainment. They help us write documents, search the internet, and play games. Another important device is the tablet. Tablets are easy to carry and great for reading books, watching movies, and going online. Headphones are also important for many people. They allow us to listen to music, watch videos, and make calls. These devices make our lives more comfortable and enjoyable. They help us learn, communicate, and relax."
+      },
+      {
+       "type": "tf",
+       "q": "The children found a glowing book on a crystal stand.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "Omar had courage because his friends believed in him.",
+       "answer": true
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Monday.",
+        "the",
+        "club",
+        "to",
+        "didn't",
+        "go",
+        "Hany",
+        "on"
+       ],
+       "answer": [
+        "Hany",
+        "didn't",
+        "go",
+        "to",
+        "the",
+        "club",
+        "on",
+        "Monday."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nHany never went to the club on Monday. (didn't)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "make",
+        "able",
+        "food.",
+        "to",
+        "She",
+        "own",
+        "was",
+        "her"
+       ],
+       "answer": [
+        "She",
+        "was",
+        "able",
+        "to",
+        "make",
+        "her",
+        "own",
+        "food."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nShe had the ability to make her own food. (was)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "cleaned",
+        "week",
+        "ago.",
+        "a",
+        "My",
+        "his",
+        "brother",
+        "room"
+       ],
+       "answer": [
+        "My",
+        "brother",
+        "cleaned",
+        "his",
+        "room",
+        "a",
+        "week",
+        "ago."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nMy brother cleaned his room last week. (ago)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "I",
+        "club.",
+        "I",
+        "played",
+        "When",
+        "young,",
+        "was",
+        "football",
+        "in"
+       ],
+       "answer": [
+        "When",
+        "I",
+        "was",
+        "young,",
+        "I",
+        "played",
+        "football",
+        "in",
+        "the",
+        "club."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nWhen I was young, I used to play football in the club. (played)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ur4",
+   "title": "مراجعة الوحدة ٤",
+   "pages": "44-46",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة الوحدة ٤",
+     "sub": "من كتاب التقييمات (ص 44-46) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "Big decisions can affect our future.",
+       "answer": true,
+       "passage": "Every day, we make many decisions. Some are small, like choosing clothes. Others are big, and can affect our future. Making smart choices is important because all choices have consequences. A smart choice can lead to good results, while a poor choice might cause problems. To make smart choices, consider all your options. Then, you should think about the possible consequences of each option. Also, try to focus on what is most important for your future."
+      },
+      {
+       "type": "tf",
+       "q": "A poor decisions can lead to good decisions.",
+       "answer": false,
+       "passage": "Every day, we make many decisions. Some are small, like choosing clothes. Others are big, and can affect our future. Making smart choices is important because all choices have consequences. A smart choice can lead to good results, while a poor choice might cause problems. To make smart choices, consider all your options. Then, you should think about the possible consequences of each option. Also, try to focus on what is most important for your future."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Making smart choices is important as all choices have __.",
+       "answer": [
+        "consequences"
+       ],
+       "passage": "Every day, we make many decisions. Some are small, like choosing clothes. Others are big, and can affect our future. Making smart choices is important because all choices have consequences. A smart choice can lead to good results, while a poor choice might cause problems. To make smart choices, consider all your options. Then, you should think about the possible consequences of each option. Also, try to focus on what is most important for your future."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "To make __ choices, consider all your options.",
+       "answer": [
+        "smart"
+       ],
+       "passage": "Every day, we make many decisions. Some are small, like choosing clothes. Others are big, and can affect our future. Making smart choices is important because all choices have consequences. A smart choice can lead to good results, while a poor choice might cause problems. To make smart choices, consider all your options. Then, you should think about the possible consequences of each option. Also, try to focus on what is most important for your future."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "When you make a smart choice, focus on what is important for your __.",
+       "answer": [
+        "future"
+       ],
+       "passage": "Every day, we make many decisions. Some are small, like choosing clothes. Others are big, and can affect our future. Making smart choices is important because all choices have consequences. A smart choice can lead to good results, while a poor choice might cause problems. To make smart choices, consider all your options. Then, you should think about the possible consequences of each option. Also, try to focus on what is most important for your future."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ means to act with care and think of others.",
+       "options": [
+        "Achievement",
+        "Difficult",
+        "Responsible",
+        "Slow"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The synonym of the word (decision) is __",
+       "options": [
+        "risk",
+        "choice",
+        "cause",
+        "question"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "To stop doing something is to __ up.",
+       "options": [
+        "lose",
+        "waste",
+        "win",
+        "give"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Climbing a mountain without preparation is a big __",
+       "options": [
+        "win",
+        "run",
+        "risk",
+        "benefit"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Last holiday, I had to ",
+        " a big decision. I wanted to ",
+        " part in a competition. I asked my mother's advice which had a great ",
+        " on my decision. Before I started training, I had a bad ",
+        ". I couldn't take a risk and play but I got a rest, which helped me to recover."
+       ],
+       "answers": [
+        "make",
+        "take",
+        "impact",
+        "injury"
+       ],
+       "bank": [
+        "impact",
+        "injury",
+        "make",
+        "take",
+        "injured"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "a) Choose: Bassim works for a small __",
+       "options": [
+        "hospital",
+        "school",
+        "theater",
+        "company"
+       ],
+       "answer": 0,
+       "passage": "Bassim is a doctor. He works in a small hospital in a village. He has a small house where he lives with his family. He has a garden where his wife grows some plants and flowers. She uses a tap to water the garden. Dr Bassim is helpful and friendly. All his patients like him. He has a small car which he uses to go to work. He drives carefully to work. On the weekend, he goes to the club where he practices running. In the evening, he enjoys a good time with his family."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "a) Choose: The underlined word \"friendly\" means __",
+       "options": [
+        "kind",
+        "bad",
+        "cruel",
+        "angry"
+       ],
+       "answer": 0,
+       "passage": "Bassim is a doctor. He works in a small hospital in a village. He has a small house where he lives with his family. He has a garden where his wife grows some plants and flowers. She uses a tap to water the garden. Dr Bassim is helpful and friendly. All his patients like him. He has a small car which he uses to go to work. He drives carefully to work. On the weekend, he goes to the club where he practices running. In the evening, he enjoys a good time with his family."
+      },
+      {
+       "type": "tf",
+       "q": "The children decided to build an electricity-saving machine.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "The team agreed to respect each other and give everyone a chance to speak.",
+       "answer": true
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "hands",
+        "your",
+        "before",
+        "You",
+        "meals.",
+        "should",
+        "wash"
+       ],
+       "answer": [
+        "You",
+        "should",
+        "wash",
+        "your",
+        "hands",
+        "before",
+        "meals."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nIt's important to wash your hands before meals. (should)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "eat",
+        "strong.",
+        "will",
+        "feel",
+        "you",
+        "you",
+        "healthy",
+        "If",
+        "food,"
+       ],
+       "answer": [
+        "If",
+        "you",
+        "eat",
+        "healthy",
+        "food,",
+        "you",
+        "will",
+        "feel",
+        "strong."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nEat healthy food to feel strong. (If)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "less",
+        "healthy.",
+        "If",
+        "you",
+        "sugar,",
+        "eat",
+        "you",
+        "will",
+        "be"
+       ],
+       "answer": [
+        "If",
+        "you",
+        "eat",
+        "less",
+        "sugar,",
+        "you",
+        "will",
+        "be",
+        "healthy."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nYou should eat less sugar to be healthy. (If)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "waste",
+        "shouldn't",
+        "You",
+        "time."
+       ],
+       "answer": [
+        "You",
+        "shouldn't",
+        "waste",
+        "your",
+        "time."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nI advise you not to waste your time. (shouldn't)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ur5",
+   "title": "مراجعة الوحدة ٥",
+   "pages": "55-57",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة الوحدة ٥",
+     "sub": "من كتاب التقييمات (ص 55-57) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "The sea was clear and warm.",
+       "answer": true,
+       "passage": "Hoda and her family visited Hurghada last year and they stayed in a fantastic resort on the beach. The sea was clear and warm. They went swimming every day. They saw lots of beautiful fish in the sea. They loved the food there. They wanted to go there again. They were very happy when they saw some tourists there."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Hoda and her family went __ every day.",
+       "answer": [
+        "swimming"
+       ],
+       "passage": "Hoda and her family visited Hurghada last year and they stayed in a fantastic resort on the beach. The sea was clear and warm. They went swimming every day. They saw lots of beautiful fish in the sea. They loved the food there. They wanted to go there again. They were very happy when they saw some tourists there."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "They were happy to see some __ in Hurghada.",
+       "answer": [
+        "tourists"
+       ],
+       "passage": "Hoda and her family visited Hurghada last year and they stayed in a fantastic resort on the beach. The sea was clear and warm. They went swimming every day. They saw lots of beautiful fish in the sea. They loved the food there. They wanted to go there again. They were very happy when they saw some tourists there."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "They saw a lot of __ fish in the sea.",
+       "answer": [
+        "beautiful"
+       ],
+       "passage": "Hoda and her family visited Hurghada last year and they stayed in a fantastic resort on the beach. The sea was clear and warm. They went swimming every day. They saw lots of beautiful fish in the sea. They loved the food there. They wanted to go there again. They were very happy when they saw some tourists there."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My friend has the __ to travel abroad one day.",
+       "options": [
+        "passion",
+        "difficulty",
+        "happiness",
+        "fast"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The synonym of the word (ambition) is __",
+       "options": [
+        "risk",
+        "goal",
+        "cause",
+        "question"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "To reach something you worked for is to __ it.",
+       "options": [
+        "lose",
+        "waste",
+        "achieve",
+        "give"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "His main __ is playing the guitar.",
+       "options": [
+        "loss",
+        "run",
+        "talent",
+        "benefits"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "My dream is to become a graphic ",
+        ". I enjoy drawing and using technology. Last summer, I joined a free ",
+        " programme in my city. It was hard work, but I learned a lot. My teacher said I have a real ",
+        ", and that made me ",
+        "."
+       ],
+       "answers": [
+        "designer",
+        "art",
+        "talent",
+        "confident"
+       ],
+       "bank": [
+        "confidence",
+        "confident",
+        "designer",
+        "art",
+        "talent"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "a) Choose: To save electricity, we should __ when you leave a room.",
+       "options": [
+        "use more lamps",
+        "leave devices",
+        "turn off lights",
+        "sleep early"
+       ],
+       "answer": 2,
+       "passage": "Saving electricity is important for both yourself and the environment. One simple way to save electricity is by turning off lights when you leave a room. Also, use energy-efficient light bulbs that consume less power. Unplug devices like phone chargers and other electronics when you are not using them, as they can still use energy when plugged in. Another way to save electricity is by changing your habits. In the winter, wear warm clothes instead of using the heater. In the summer, set the air conditioner to 24C and use fans to help cool down. Lastly, try to use natural light during the day instead of turning on lamps. By following these easy steps, you can reduce your electricity use and help the environment."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "a) Choose: The text suggests you use __ instead of lamps during the day.",
+       "options": [
+        "fans",
+        "natural lights",
+        "extra lamps",
+        "air conditioning"
+       ],
+       "answer": 1,
+       "passage": "Saving electricity is important for both yourself and the environment. One simple way to save electricity is by turning off lights when you leave a room. Also, use energy-efficient light bulbs that consume less power. Unplug devices like phone chargers and other electronics when you are not using them, as they can still use energy when plugged in. Another way to save electricity is by changing your habits. In the winter, wear warm clothes instead of using the heater. In the summer, set the air conditioner to 24C and use fans to help cool down. Lastly, try to use natural light during the day instead of turning on lamps. By following these easy steps, you can reduce your electricity use and help the environment."
+      },
+      {
+       "type": "tf",
+       "q": "The machine used sea water to water plants and clean small pathways.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "When Karim made a misake, no one blamed him.",
+       "answer": true
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "going",
+        "as",
+        "is",
+        "clouds.",
+        "It",
+        "are",
+        "to",
+        "some",
+        "rain",
+        "there"
+       ],
+       "answer": [
+        "It",
+        "is",
+        "going",
+        "to",
+        "rain",
+        "as",
+        "there",
+        "are",
+        "some",
+        "clouds."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nI think it will rain as there are some clouds. (It is)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "next",
+        "going",
+        "am",
+        "week.",
+        "travel",
+        "abroad",
+        "to"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "going",
+        "to",
+        "travel",
+        "abroad",
+        "next",
+        "week."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nI intend to travel abroad next week. (I am)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "to",
+        "in",
+        "medicine",
+        "going",
+        "is",
+        "She",
+        "study",
+        "university."
+       ],
+       "answer": [
+        "She",
+        "is",
+        "going",
+        "to",
+        "study",
+        "medicine",
+        "in",
+        "university."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nHer plan is to study medicine in university. (going)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "decision",
+        "He",
+        "has",
+        "made",
+        "to",
+        "new",
+        "a",
+        "buy",
+        "mobile."
+       ],
+       "answer": [
+        "He",
+        "has",
+        "made",
+        "a",
+        "decision",
+        "to",
+        "buy",
+        "a",
+        "new",
+        "mobile."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nHe has decided to buy a new mobile. (made)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ur6",
+   "title": "مراجعة الوحدة ٦",
+   "pages": "66-68",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة الوحدة ٦",
+     "sub": "من كتاب التقييمات (ص 66-68) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "Adel learned about global citizenship in his Math class.",
+       "answer": false,
+       "passage": "Adel learned about global citizenship in his English class. He was astonished to find out that small actions could make a big difference. He and his classmates decided to help by collecting books for schools in need. Adel joined a clean-up event at the park and started using less plastic at home. He felt proud to be part of something that helped others and protected the environment. His teacher said that being a global citizen means thinking about people and places around you. Adel realized that even young students can act with responsibility and kindness. He now encourages his friends to take care of the world."
+      },
+      {
+       "type": "tf",
+       "q": "Small actions could make a big difference.",
+       "answer": true,
+       "passage": "Adel learned about global citizenship in his English class. He was astonished to find out that small actions could make a big difference. He and his classmates decided to help by collecting books for schools in need. Adel joined a clean-up event at the park and started using less plastic at home. He felt proud to be part of something that helped others and protected the environment. His teacher said that being a global citizen means thinking about people and places around you. Adel realized that even young students can act with responsibility and kindness. He now encourages his friends to take care of the world."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Adel encourages his friends to __ of the world.",
+       "answer": [
+        "take care"
+       ],
+       "passage": "Adel learned about global citizenship in his English class. He was astonished to find out that small actions could make a big difference. He and his classmates decided to help by collecting books for schools in need. Adel joined a clean-up event at the park and started using less plastic at home. He felt proud to be part of something that helped others and protected the environment. His teacher said that being a global citizen means thinking about people and places around you. Adel realized that even young students can act with responsibility and kindness. He now encourages his friends to take care of the world."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Adel joined a clean up event at __.",
+       "answer": [
+        "the park"
+       ],
+       "passage": "Adel learned about global citizenship in his English class. He was astonished to find out that small actions could make a big difference. He and his classmates decided to help by collecting books for schools in need. Adel joined a clean-up event at the park and started using less plastic at home. He felt proud to be part of something that helped others and protected the environment. His teacher said that being a global citizen means thinking about people and places around you. Adel realized that even young students can act with responsibility and kindness. He now encourages his friends to take care of the world."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Adel realized that even young students can act with responsibility and __.",
+       "answer": [
+        "kindness"
+       ],
+       "passage": "Adel learned about global citizenship in his English class. He was astonished to find out that small actions could make a big difference. He and his classmates decided to help by collecting books for schools in need. Adel joined a clean-up event at the park and started using less plastic at home. He felt proud to be part of something that helped others and protected the environment. His teacher said that being a global citizen means thinking about people and places around you. Adel realized that even young students can act with responsibility and kindness. He now encourages his friends to take care of the world."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ means to do your duty and take care of something.",
+       "options": [
+        "Responsibility",
+        "Difficulty",
+        "Simplicity",
+        "Ability"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A global citizen must __ responsibility.",
+       "options": [
+        "give",
+        "take",
+        "cause",
+        "answer"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "To __ our planet, we must keep our school clan and save water and electricity.",
+       "options": [
+        "lose",
+        "waste",
+        "protect",
+        "give"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We can __ in beach clean-ups to save the oceans.",
+       "options": [
+        "participate",
+        "run",
+        "take",
+        "benefits"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Oceans connect people from many cultures and countries, showing the beauty of ",
+        " around us. We all share the sea, so it is our duty to ",
+        " it safe. We can take ",
+        " in clean-ups, teach others about saving oceans, and reduce ",
+        " at home and at school."
+       ],
+       "answers": [
+        "diversity",
+        "keep",
+        "part",
+        "waste"
+       ],
+       "bank": [
+        "kept",
+        "keep",
+        "diversity",
+        "part",
+        "waste"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "a) Choose: The underlined word \"it\" refers to __",
+       "options": [
+        "the car",
+        "electricity",
+        "fuel",
+        "carbon dioxide"
+       ],
+       "answer": 0,
+       "passage": "Driving cars is very bad for the environment. Using much clean transportation is very important for us. Clean transportation is anything you use to get around that produces less carbon emissions than normal cars. You can still drive your car, but your car needs to be either electric or use clean fuel. Electric vehicles are cars that you connect to electricity supply at a charging station, and that gives the car the power it needs to move. By 2030, there will be so many electric vehicles that will use much less oil every day than today."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "a) Choose: Clean transportation produces less carbon __",
+       "options": [
+        "emissions",
+        "natural gas",
+        "metals",
+        "oxygen"
+       ],
+       "answer": 0,
+       "passage": "Driving cars is very bad for the environment. Using much clean transportation is very important for us. Clean transportation is anything you use to get around that produces less carbon emissions than normal cars. You can still drive your car, but your car needs to be either electric or use clean fuel. Electric vehicles are cars that you connect to electricity supply at a charging station, and that gives the car the power it needs to move. By 2030, there will be so many electric vehicles that will use much less oil every day than today."
+      },
+      {
+       "type": "tf",
+       "q": "Sara and her team presented their water-Saving Machine carelessly.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "The judges were impressed by the teamwork and respect the group showed.",
+       "answer": true
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "hospitals.",
+        "Visitors",
+        "smoke",
+        "mustn't",
+        "in"
+       ],
+       "answer": [
+        "Visitors",
+        "mustn't",
+        "smoke",
+        "in",
+        "hospitals."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nIt isn't allowed for visitors to smoke in hospitals. (mustn't)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "rules.",
+        "must",
+        "the",
+        "school",
+        "You",
+        "obey"
+       ],
+       "answer": [
+        "You",
+        "must",
+        "obey",
+        "the",
+        "school",
+        "rules."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nIt is necessary to obey the school rules. (must)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "to",
+        "cultures.",
+        "different",
+        "is",
+        "It",
+        "respect",
+        "important"
+       ],
+       "answer": [
+        "It",
+        "is",
+        "important",
+        "to",
+        "respect",
+        "different",
+        "cultures."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nWe must respect different cultures. (It is important)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "school",
+        "by",
+        "He",
+        "to",
+        "bus.",
+        "goes",
+        "always"
+       ],
+       "answer": [
+        "He",
+        "always",
+        "goes",
+        "to",
+        "school",
+        "by",
+        "bus."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nHe goes to school by bus at all times. (always)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "final",
+   "title": "التقييم النهائي",
+   "pages": "69-71",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "التقييم النهائي",
+     "sub": "من كتاب التقييمات (ص 69-71) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "It's okay to try different things and learn from failure.",
+       "answer": true,
+       "passage": "Planning your future career starts with knowing your talents and interests. It's okay to try different things and learn from failure. Education and training help you build the skills you need. Besides personal goals, it's also important to be a global citizen. This means thinking about how your actions affect the world. For example, reducing plastic helps protect oceans and marine animals. Being a global citizen also means respecting others, and helping with global problems like climate change. Making smart, responsible choices now can help create a better future for everyone."
+      },
+      {
+       "type": "tf",
+       "q": "Increasing plastic helps protect oceans and marine animals.",
+       "answer": false,
+       "passage": "Planning your future career starts with knowing your talents and interests. It's okay to try different things and learn from failure. Education and training help you build the skills you need. Besides personal goals, it's also important to be a global citizen. This means thinking about how your actions affect the world. For example, reducing plastic helps protect oceans and marine animals. Being a global citizen also means respecting others, and helping with global problems like climate change. Making smart, responsible choices now can help create a better future for everyone."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Education and training helps you build the __ you need.",
+       "answer": [
+        "skills"
+       ],
+       "passage": "Planning your future career starts with knowing your talents and interests. It's okay to try different things and learn from failure. Education and training help you build the skills you need. Besides personal goals, it's also important to be a global citizen. This means thinking about how your actions affect the world. For example, reducing plastic helps protect oceans and marine animals. Being a global citizen also means respecting others, and helping with global problems like climate change. Making smart, responsible choices now can help create a better future for everyone."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Being a global citizen also means respecting others, and helping with global problems like __ change.",
+       "answer": [
+        "climate"
+       ],
+       "passage": "Planning your future career starts with knowing your talents and interests. It's okay to try different things and learn from failure. Education and training help you build the skills you need. Besides personal goals, it's also important to be a global citizen. This means thinking about how your actions affect the world. For example, reducing plastic helps protect oceans and marine animals. Being a global citizen also means respecting others, and helping with global problems like climate change. Making smart, responsible choices now can help create a better future for everyone."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Planning your future career starts with knowing your talents and __.",
+       "answer": [
+        "interests"
+       ],
+       "passage": "Planning your future career starts with knowing your talents and interests. It's okay to try different things and learn from failure. Education and training help you build the skills you need. Besides personal goals, it's also important to be a global citizen. This means thinking about how your actions affect the world. For example, reducing plastic helps protect oceans and marine animals. Being a global citizen also means respecting others, and helping with global problems like climate change. Making smart, responsible choices now can help create a better future for everyone."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Working in a team teaches students __ and responsibility.",
+       "options": [
+        "wasting time",
+        "cooperation",
+        "laziness",
+        "carelessness"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My brother __ a good decision when he accepted the job he was offered.",
+       "options": [
+        "left",
+        "threw",
+        "made",
+        "went"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Rules are sets of __ that people must follow.",
+       "options": [
+        "information",
+        "instructions",
+        "corruptions",
+        "invitations"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A __ gives his time and effort to help others for free.",
+       "options": [
+        "gardner",
+        "volunteer",
+        "plumber",
+        "doctor"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Learning in groups has more benefits than learning alone. When students work in large or small groups, they ",
+        " opinions, discuss problems and find ",
+        " to them. Teamwork helps students to ",
+        " their skills and be confident. It also helps them know how to ",
+        " with others and understand them."
+       ],
+       "answers": [
+        "share",
+        "solutions",
+        "develop",
+        "communicate"
+       ],
+       "bank": [
+        "develop",
+        "connect",
+        "solutions",
+        "share",
+        "communicate"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "a) Choose: Farida Osman was born in __",
+       "options": [
+        "Alexandria",
+        "Cairo",
+        "Giza",
+        "Luxor"
+       ],
+       "answer": 1,
+       "passage": "Farida Osman is a famous Egyptian swimmer. She was born in 1995 in Cairo. Farida started swimming when she was five years old. She practices every day to become better. Farida is very fast in the water. She has won many medals in different tournaments around the world. In 2017, she won a bronze medal. This made her the first Egyptian woman to win a swimming medal at that level. Farida is an example for many young athletes in Egypt. She shows that with hard work, you can achieve great success. Farida loves her country and always wants to make Egypt proud. She dreams of winning more medals and helping other young swimmers to succeed."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "a) Choose: Farida Osman started swimming in __",
+       "options": [
+        "1995",
+        "1998",
+        "2000",
+        "2002"
+       ],
+       "answer": 2,
+       "passage": "Farida Osman is a famous Egyptian swimmer. She was born in 1995 in Cairo. Farida started swimming when she was five years old. She practices every day to become better. Farida is very fast in the water. She has won many medals in different tournaments around the world. In 2017, she won a bronze medal. This made her the first Egyptian woman to win a swimming medal at that level. Farida is an example for many young athletes in Egypt. She shows that with hard work, you can achieve great success. Farida loves her country and always wants to make Egypt proud. She dreams of winning more medals and helping other young swimmers to succeed."
+      },
+      {
+       "type": "tf",
+       "q": "Adam said they need to show responsibility and work together to succeed.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "Omar wants to finish quickly and leave the lead.",
+       "answer": false
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "join",
+        "is",
+        "gym",
+        "next",
+        "going",
+        "to",
+        "He",
+        "month."
+       ],
+       "answer": [
+        "He",
+        "is",
+        "going",
+        "to",
+        "join",
+        "a",
+        "gym",
+        "next",
+        "month."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nHe has intended to join a gym next month. (going)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "you",
+        "punished.",
+        "come",
+        "you",
+        "early,",
+        "will",
+        "don't",
+        "be",
+        "If"
+       ],
+       "answer": [
+        "If",
+        "you",
+        "don't",
+        "come",
+        "early,",
+        "you",
+        "will",
+        "be",
+        "punished."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nCome early or you will be punished. (If)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "his",
+        "can",
+        "devices.",
+        "He",
+        "repair"
+       ],
+       "answer": [
+        "He",
+        "can",
+        "repair",
+        "his",
+        "devices."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nHe has the ability to repair his devices. (can)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "diet.",
+        "You",
+        "balanced",
+        "have",
+        "a",
+        "should"
+       ],
+       "answer": [
+        "You",
+        "should",
+        "have",
+        "a",
+        "balanced",
+        "diet."
+       ],
+       "passage": "6- Rewrite the following sentences using the words in brackets:\nI advise you to have a balanced diet. (should)"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
