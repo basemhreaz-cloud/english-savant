@@ -1,0 +1,4490 @@
+{
+ "grade": "m2",
+ "gradeName": "الصف الثاني الإعدادي",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Unit 1: Gen Alpha",
+   "pages": "4-14",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Meet Gen Alpha"
+    },
+    {
+     "n": 2,
+     "title": "Gen Alpha's Digital Life"
+    },
+    {
+     "n": 3,
+     "title": "The Digital Bridge"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Little Inventor — Chapter 1"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk: Expressing Identity Online"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Meet Gen Alpha",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 4-5)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Gen Alpha are the children who were born from around 2010 to the mid-2020s. They like creating short ",
+        " to show their hobbies and opinions. They share ",
+        " and send emojis to show their emotions. They are learning to ",
+        " online activities with real-life connections. They ",
+        " a powerful trend that is shaping the future."
+       ],
+       "answers": [
+        "videos",
+        "memes",
+        "balance",
+        "represent"
+       ],
+       "bank": [
+        "memes",
+        "balance",
+        "represent",
+        "videos",
+        "photos"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Ahmed and Omar are talking about Gen Alpha.\nAhmed: Where were you born?\nOmar: In 2012.\nAhmed: So you are one of Gen Alpha.\nOmar: ",
+        "?\nAhmed: They are the children who were born from 2010 to 2020.\nOmar: What else do you know about Gen Alpha?\nAhmed: They are called digital natives.\nOmar: ",
+        "?\nAhmed: Because they learn to use technology before they can read.\nOmar: ",
+        "?\nAhmed: They rarely spend a day without using technology.\nOmar: ",
+        "?\nAhmed: Their parents are trying to limit their children’s screen time."
+       ],
+       "answers": [
+        "who are gen alpha",
+        "why are they called digital natives",
+        "how often do they use technology",
+        "what are their parents trying to do"
+       ],
+       "bank": [
+        "who are gen alpha",
+        "why are they called digital natives",
+        "how often do they use technology",
+        "what are their parents trying to do"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Gen Alpha's Digital Life",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 5-6)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: My mom always cleans our rooms on Friday. (now)",
+       "answer": [
+        "my mom is cleaning our rooms now"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: I have booked the tickets to travel next week. (traveling)",
+       "answer": [
+        "i am traveling next week",
+        "i am travelling next week"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Ali does his homework every day. (at the moment)",
+       "answer": [
+        "ali is doing his homework at the moment"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Students read in the library. (Look)",
+       "answer": [
+        "look! students are reading in the library",
+        "look, students are reading in the library",
+        "look students are reading in the library"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: They have arranged to volunteer in protecting the environment. (are)",
+       "answer": [
+        "they are volunteering to protect the environment",
+        "they are volunteering in protecting the environment"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: He has booked a ticket to watch a play next week. (watching)",
+       "answer": [
+        "he is watching a play next week"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She is …… (travel) to Aswan next week.",
+       "answer": [
+        "traveling",
+        "travelling"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Adel …… (eat) Koshari right now.",
+       "answer": [
+        "is eating"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "They …… (play) football next Friday. They have arranged to do that.",
+       "answer": [
+        "are playing"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "At the moment, he …… (study) Science.",
+       "answer": [
+        "is studying"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "صحّح الخطأ: This week, they are play Tennis.",
+       "answer": [
+        "playing",
+        "this week, they are playing tennis"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "صحّح الخطأ: He is done a new project right now.",
+       "answer": [
+        "doing",
+        "he is doing a new project right now"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: The Digital Bridge",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 6)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Gen Z and Gen Alpha like short videos, emojis, and memes. Many of them care ",
+        " the environment. They share their ",
+        " through using technology. Both generations speak the same digital ",
+        " Technology helps them ",
+        " each other and cooperate to make their world a better place."
+       ],
+       "answers": [
+        "about",
+        "thoughts",
+        "language",
+        "understand"
+       ],
+       "bank": [
+        "language",
+        "understand",
+        "about",
+        "to",
+        "thoughts"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Story Time: The Little Inventor — Chapter 1",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 8)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Amal was a curious girl. She ",
+        " old toys, wires and little machines. The other children annoyed her and said, “You are ",
+        "” Her parents always told her, “Your identity is what makes you ",
+        "” Amal decided to build a ",
+        " robot to take part in a school fair. Her friend, Farida, encouraged her, “We believe in you, Amal.”"
+       ],
+       "answers": [
+        "used",
+        "strange",
+        "special",
+        "talking"
+       ],
+       "bank": [
+        "special",
+        "talking",
+        "used",
+        "creative",
+        "strange"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: Let's Talk: Expressing Identity Online",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 9)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "We can use the expression “In my opinion” to explain our ideas …… when talking to others.",
+       "answer": [
+        "clearly"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "We should put our mobiles …… during meals and before bedtime.",
+       "answer": [
+        "away"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Spending too much time on digital devices can be ……",
+       "answer": [
+        "harmful",
+        "addictive",
+        "bad"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "We should learn how to find a …… between our screen time and family life.",
+       "answer": [
+        "balance"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "A blog is an online journal or …… where someone writes regularly about a certain topic.",
+       "answer": [
+        "website"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: How long do you spend using technology every day? (How many)",
+       "answer": [
+        "how many hours do you spend using technology every day",
+        "how many hours do you spend using technology every day?"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: In my opinion, it's okay to enjoy your screen, but don't let it control you. (I think)",
+       "answer": [
+        "i think it's okay to enjoy your screen, but don't let it control you",
+        "i think it is okay to enjoy your screen, but do not let it control you"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waA",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "ص 7-8",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The time people spend using a screen is called ……",
+       "answer": [
+        "screen time"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "If you have the same ideas and interests with someone, it means you have something in ……",
+       "answer": [
+        "common"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: She writes her project plan. (now)",
+       "answer": [
+        "she is writing her project plan now"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Nadia volunteers to help her neighbors. (is)",
+       "answer": [
+        "nadia is volunteering to help her neighbors"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waB",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "ص 7-8",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "We should all treat old people …… kindness.",
+       "answer": [
+        "with"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "…… are small digital images used to express emotions or ideas in electronic messages.",
+       "answer": [
+        "emojis"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: The students study for the coming English exam. (at this moment)",
+       "answer": [
+        "the students are studying for the coming english exam at this moment"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: The children sing in their room. (Listen)",
+       "answer": [
+        "listen! the children are singing in their room",
+        "listen, the children are singing in their room",
+        "listen the children are singing in their room"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waC",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "ص 7-8",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Many parents encourage their children to use …… skills online.",
+       "answer": [
+        "critical thinking",
+        "critical"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Gen Alpha is a generation that is hoped to …… the future.",
+       "answer": [
+        "shape"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: My sister plays online games with her brother. (is)",
+       "answer": [
+        "my sister is playing online games with her brother"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: We watch a match in Cairo Stadium. (next Friday)",
+       "answer": [
+        "we are watching a match in cairo stadium next friday"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Model Exam on Unit 1",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 11-14)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Gen Alpha learn to use …… before they can read.",
+       "answer": [
+        "apps"
+       ],
+       "passage": "Gen Alpha are children born from 2010 onwards. They are called digital natives because they grow up in a digital environment. For them, smartphones, tablets, social media, and even artificial intelligence is normal. Many of them learn to use apps before they can read. Their daily life is highly connected to technology and full of digital experiences. They share memes, use emojis to express feelings, and make short videos to show hobbies or opinions."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Gen Alpha share ……, and use emojis to express feelings.",
+       "answer": [
+        "memes"
+       ],
+       "passage": "Gen Alpha are children born from 2010 onwards. They are called digital natives because they grow up in a digital environment. For them, smartphones, tablets, social media, and even artificial intelligence is normal. Many of them learn to use apps before they can read. Their daily life is highly connected to technology and full of digital experiences. They share memes, use emojis to express feelings, and make short videos to show hobbies or opinions."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What is Gen Alpha's life full of?",
+       "answer": [
+        "digital experiences"
+       ],
+       "passage": "Gen Alpha are children born from 2010 onwards. They are called digital natives because they grow up in a digital environment. For them, smartphones, tablets, social media, and even artificial intelligence is normal. Many of them learn to use apps before they can read. Their daily life is highly connected to technology and full of digital experiences. They share memes, use emojis to express feelings, and make short videos to show hobbies or opinions."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Why do Gen Alpha make short videos?",
+       "answer": [
+        "to show hobbies or opinions",
+        "to show their hobbies or opinions"
+       ],
+       "passage": "Gen Alpha are children born from 2010 onwards. They are called digital natives because they grow up in a digital environment. For them, smartphones, tablets, social media, and even artificial intelligence is normal. Many of them learn to use apps before they can read. Their daily life is highly connected to technology and full of digital experiences. They share memes, use emojis to express feelings, and make short videos to show hobbies or opinions."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Why are Gen Alpha called digital natives?",
+       "answer": [
+        "because they grow up in a digital environment",
+        "they grow up in a digital environment",
+        "because they learn to use apps before they can read"
+       ],
+       "passage": "Gen Alpha are children born from 2010 onwards. They are called digital natives because they grow up in a digital environment. For them, smartphones, tablets, social media, and even artificial intelligence is normal. Many of them learn to use apps before they can read. Their daily life is highly connected to technology and full of digital experiences. They share memes, use emojis to express feelings, and make short videos to show hobbies or opinions."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Your …… is shaped by your culture and experiences.",
+       "answer": [
+        "identity"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "A group of people born around the same time are called ……",
+       "answer": [
+        "a generation",
+        "generation"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The antonym of the word “encourage” is ……",
+       "options": [
+        "uncourage",
+        "support",
+        "motivate",
+        "discourage"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Both Gen Z and Gen Alpha are today’s young generations, growing up in a digital world. They have a lot in ",
+        ", like using smartphones to watch videos and play games. Social media helps them ",
+        ", even if they live far apart. Technology helps them speak the same digital ",
+        " and understand each other. It also helps them share their ideas and work together to make the world a ",
+        " place."
+       ],
+       "answers": [
+        "common",
+        "connect",
+        "language",
+        "better"
+       ],
+       "bank": [
+        "better",
+        "connect",
+        "common",
+        "language",
+        "connected"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Amina felt stressed when she saw ……",
+       "answer": [
+        "numbers"
+       ],
+       "passage": "Amina doesn’t like math. She used to think she had to study computer science because everyone says it’s excellent. But she felt stressed every time she saw numbers. One day, her cousin showed her a graphic design on a tablet. Amina drew it and made it move. She smiled for the first time in weeks. She learned that computer science is about numbers, but graphic design is about colors and ideas. She didn’t know you could make art with computers. Her motivation is creativity – not money. She says, “I don’t work for money. I work because I feel free.” She doesn’t want to be an engineer. She wants to design games for kids."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Amina learned that graphic design is about colors and ……",
+       "answer": [
+        "ideas"
+       ],
+       "passage": "Amina doesn’t like math. She used to think she had to study computer science because everyone says it’s excellent. But she felt stressed every time she saw numbers. One day, her cousin showed her a graphic design on a tablet. Amina drew it and made it move. She smiled for the first time in weeks. She learned that computer science is about numbers, but graphic design is about colors and ideas. She didn’t know you could make art with computers. Her motivation is creativity – not money. She says, “I don’t work for money. I work because I feel free.” She doesn’t want to be an engineer. She wants to design games for kids."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What two jobs did Amina learn about?",
+       "answer": [
+        "computer science and graphic design"
+       ],
+       "passage": "Amina doesn’t like math. She used to think she had to study computer science because everyone says it’s excellent. But she felt stressed every time she saw numbers. One day, her cousin showed her a graphic design on a tablet. Amina drew it and made it move. She smiled for the first time in weeks. She learned that computer science is about numbers, but graphic design is about colors and ideas. She didn’t know you could make art with computers. Her motivation is creativity – not money. She says, “I don’t work for money. I work because I feel free.” She doesn’t want to be an engineer. She wants to design games for kids."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Does Amina work for money? Why?",
+       "answer": [
+        "no, because she works because she feels free",
+        "no, she works because she feels free",
+        "no because she feels free"
+       ],
+       "passage": "Amina doesn’t like math. She used to think she had to study computer science because everyone says it’s excellent. But she felt stressed every time she saw numbers. One day, her cousin showed her a graphic design on a tablet. Amina drew it and made it move. She smiled for the first time in weeks. She learned that computer science is about numbers, but graphic design is about colors and ideas. She didn’t know you could make art with computers. Her motivation is creativity – not money. She says, “I don’t work for money. I work because I feel free.” She doesn’t want to be an engineer. She wants to design games for kids."
+      },
+      {
+       "type": "tf",
+       "q": "Amal decided to build a walking robot.",
+       "answer": false
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What did Amal’s parents teach her?",
+       "answer": [
+        "that her identity is what makes her special",
+        "her identity is what makes her special"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "How was Amal’s friend a good friend to her?",
+       "answer": [
+        "she encouraged her",
+        "she encouraged amal",
+        "by encouraging her"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: My brother cleans his room every Friday. (now)",
+       "answer": [
+        "my brother is cleaning his room now"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: I do my homework in the evening. (at the moment)",
+       "answer": [
+        "i am doing my homework at the moment"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: My brother has arranged to travel next Friday. (traveling)",
+       "answer": [
+        "my brother is traveling next friday",
+        "my brother is travelling next friday"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: I have a plan to buy a new mobile next month. (I am)",
+       "answer": [
+        "i am buying a new mobile next month"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (1): I am …… with my friends.",
+       "answer": [
+        "chatting"
+       ],
+       "passage": "Sara is discussing screen time with her mother.\nMother: Sara, you have been on your phone for a long time.\nSara: Yes, mother. I am ……(1)…… with my friends.\nMother: I know, but too much screen time isn’t good for your eyes.\nSara: How ……(2)…… should I use my phone?\nMother: About two hours a day for fun is enough.\nSara: Okay. Mother. I will do that.\nMother: Good. ……(3)…… are you going to do now?\nSara: I have to finish my science project. It’s about digital trends."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (2): How …… should I use my phone?",
+       "answer": [
+        "long"
+       ],
+       "passage": "Sara is discussing screen time with her mother.\nMother: Sara, you have been on your phone for a long time.\nSara: Yes, mother. I am ……(1)…… with my friends.\nMother: I know, but too much screen time isn’t good for your eyes.\nSara: How ……(2)…… should I use my phone?\nMother: About two hours a day for fun is enough.\nSara: Okay. Mother. I will do that.\nMother: Good. ……(3)…… are you going to do now?\nSara: I have to finish my science project. It’s about digital trends."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (4): …… are you going to do now?",
+       "answer": [
+        "what"
+       ],
+       "passage": "Sara is discussing screen time with her mother.\nMother: Sara, you have been on your phone for a long time.\nSara: Yes, mother. I am ……(1)…… with my friends.\nMother: I know, but too much screen time isn’t good for your eyes.\nSara: How ……(2)…… should I use my phone?\nMother: About two hours a day for fun is enough.\nSara: Okay. Mother. I will do that.\nMother: Good. ……(3)…… are you going to do now?\nSara: I have to finish my science project. It’s about digital trends."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "Unit 2: My Digital Footprint",
+   "pages": "15-25",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Protecting Your Privacy in the Digital Age"
+    },
+    {
+     "n": 2,
+     "title": "Staying Safe Online"
+    },
+    {
+     "n": 3,
+     "title": "Managing Your Online Data"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Little Inventor — Chapter 2"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk: Digital Detectives"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Protecting Your Privacy in the Digital Age",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 15)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Give the antonym of: safe",
+       "answer": [
+        "unsafe",
+        "dangerous"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Give the antonym of: easy",
+       "answer": [
+        "difficult",
+        "hard"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Give the antonym of: strong",
+       "answer": [
+        "weak"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Staying Safe Online",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 15-16)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Many companies make cars in Japan. (are made)",
+       "answer": [
+        "cars are made in japan"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Our uniforms are ironed every week. (Our mom)",
+       "answer": [
+        "our mom irons our uniforms every week"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: We should obey the traffic rules. (be)",
+       "answer": [
+        "the traffic rules should be obeyed"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: English is spoken in many parts of the world. (Many people)",
+       "answer": [
+        "many people speak english in many parts of the world"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: My mother cleans our apartment every day. (is)",
+       "answer": [
+        "our apartment is cleaned every day",
+        "our apartment is cleaned every day by my mother"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Egypt exports a lot of products to many countries. (exported)",
+       "answer": [
+        "a lot of products are exported to many countries",
+        "a lot of products are exported by egypt to many countries"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Teachers in our schools use the latest technology inside the classes. (used)",
+       "answer": [
+        "the latest technology is used inside the classes",
+        "the latest technology is used by teachers inside the classes"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: If water is boiled, it turns into vapor. (If we)",
+       "answer": [
+        "if we boil water, it turns into vapor",
+        "if we boil water it turns into vapor"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Strong passwords …… (use) to protect our information.",
+       "answer": [
+        "are used"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Our lessons …… (teach) well by our teachers.",
+       "answer": [
+        "are taught"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My room …… (keep) clean to stay healthy.",
+       "answer": [
+        "is kept"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Managing Your Online Data",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 16-17)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Your digital footprint is made up through the …… you leave behind when using social media.",
+       "answer": [
+        "traces",
+        "clues"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "When someone chooses to post or share something online, this is …… footprints.",
+       "answer": [
+        "active"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Think carefully before you share something online, as what you share adds to your ……",
+       "answer": [
+        "digital footprint",
+        "online identity",
+        "digital footprints"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "My brother’s favorite hobby is …… old stories.",
+       "answer": [
+        "collecting"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "We can use the prefix “……” to give the opposite of the word “comfortable”.",
+       "answer": [
+        "un"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Story Time: The Little Inventor — Chapter 2",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 19)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Before the fair day, Amal faced many problems. She felt like ",
+        " up, but her parents encouraged her to ",
+        " Yara helped her by showing empathy when Amal felt ",
+        " Amal fixed the problems with her robot. She made sure she was learning from ",
+        " places online. Finally, the robot blinked its eyes and said “Hello!”. Amal and Yara cheered with joy."
+       ],
+       "answers": [
+        "giving",
+        "persevere",
+        "frustrated",
+        "trustworthy"
+       ],
+       "bank": [
+        "frustrated",
+        "give",
+        "giving",
+        "persevere",
+        "trustworthy"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: Let's Talk: Digital Detectives",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 20)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Last year, my father’s Facebook account was …… as his password was very simple.",
+       "answer": [
+        "hacked"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "If I don’t set my privacy settings ……, all my photos online will be seen by others.",
+       "answer": [
+        "properly",
+        "correctly",
+        "well"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Don’t put yourself …… risk by trying extreme sports.",
+       "answer": [
+        "at"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "To stay safe online, you shouldn’t …… your full name or address.",
+       "answer": [
+        "share",
+        "post",
+        "give"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "You should …… sure that you don’t post your personal details online.",
+       "answer": [
+        "make"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: It is important to make a study plan. (should)",
+       "answer": [
+        "we should make a study plan",
+        "you should make a study plan"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: You should think twice before posting anything online. (carefully)",
+       "answer": [
+        "you should think carefully before posting anything online"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waA",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "ص 17-18",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Teachers explain their lessons using smartboards. (are)",
+       "answer": [
+        "lessons are explained using smartboards",
+        "lessons are explained by teachers using smartboards"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: We should follow the traffic rules. (be)",
+       "answer": [
+        "the traffic rules should be followed"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: It is important to get up early. (should)",
+       "answer": [
+        "we should get up early",
+        "you should get up early"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: A lot of videos are downloaded from the internet. (People)",
+       "answer": [
+        "people download a lot of videos from the internet"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: We use the Metro to go to and from our work. (is)",
+       "answer": [
+        "the metro is used to go to and from our work",
+        "the metro is used by us to go to and from our work"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waB",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "ص 17-18",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Teachers reward good students for their work. (are)",
+       "answer": [
+        "good students are rewarded for their work",
+        "good students are rewarded by teachers for their work"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Students should keep their school clean. (be)",
+       "answer": [
+        "their school should be kept clean",
+        "the school should be kept clean"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: You should go to school early. (important)",
+       "answer": [
+        "it is important to go to school early"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: A lot of messages are sent on the internet. (People)",
+       "answer": [
+        "people send a lot of messages on the internet"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: We use cameras to take photos. (are)",
+       "answer": [
+        "cameras are used to take photos"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waC",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "ص 17-18",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Teachers help students understand their lessons. (are)",
+       "answer": [
+        "students are helped to understand their lessons"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: We should give a hand to the poor. (be)",
+       "answer": [
+        "a hand should be given to the poor"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: It’s important to eat healthy food. (should)",
+       "answer": [
+        "we should eat healthy food",
+        "you should eat healthy food"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: A lot of projects are done in Egypt. (The government)",
+       "answer": [
+        "the government does a lot of projects in egypt"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: We produce different goods in our town. (are)",
+       "answer": [
+        "different goods are produced in our town"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Model Exam on Unit 2",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 22-25)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "When you use social media — like posting pictures or writing comments — you leave behind …… about what you like, what you think and who you are.",
+       "answer": [
+        "clues"
+       ],
+       "passage": "When you use social media — like posting pictures, writing comments, or liking videos — you leave behind clues about what you like, what you think, and who you are. These clues make up something called your digital footprints. There are two types: Active footprints — these happen when you choose to share something online. Passive footprints — these happen without your knowing, like when websites collect information about what you look for. Everything you do online helps build your online identity."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The clues you leave behind when using social media make up your digital ……",
+       "answer": [
+        "footprints",
+        "footprint"
+       ],
+       "passage": "When you use social media — like posting pictures, writing comments, or liking videos — you leave behind clues about what you like, what you think, and who you are. These clues make up something called your digital footprints. There are two types: Active footprints — these happen when you choose to share something online. Passive footprints — these happen without your knowing, like when websites collect information about what you look for. Everything you do online helps build your online identity."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What are the two types of digital footprints?",
+       "answer": [
+        "active and passive",
+        "active and passive footprints",
+        "active footprints and passive footprints"
+       ],
+       "passage": "When you use social media — like posting pictures, writing comments, or liking videos — you leave behind clues about what you like, what you think, and who you are. These clues make up something called your digital footprints. There are two types: Active footprints — these happen when you choose to share something online. Passive footprints — these happen without your knowing, like when websites collect information about what you look for. Everything you do online helps build your online identity."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What helps build your online identity?",
+       "answer": [
+        "everything you do online"
+       ],
+       "passage": "When you use social media — like posting pictures, writing comments, or liking videos — you leave behind clues about what you like, what you think, and who you are. These clues make up something called your digital footprints. There are two types: Active footprints — these happen when you choose to share something online. Passive footprints — these happen without your knowing, like when websites collect information about what you look for. Everything you do online helps build your online identity."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "When do active footprints happen?",
+       "answer": [
+        "when you choose to share something online"
+       ],
+       "passage": "When you use social media — like posting pictures, writing comments, or liking videos — you leave behind clues about what you like, what you think, and who you are. These clues make up something called your digital footprints. There are two types: Active footprints — these happen when you choose to share something online. Passive footprints — these happen without your knowing, like when websites collect information about what you look for. Everything you do online helps build your online identity."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The antonym of the word “careful” is ……",
+       "answer": [
+        "careless"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "To protect your online accounts, you need a strong ……",
+       "answer": [
+        "password"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "To stay safe online, we shouldn’t …… our personal data.",
+       "answer": [
+        "share",
+        "post"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "…… old stamps is one of my favorite hobbies.",
+       "options": [
+        "Collecting",
+        "Communicating",
+        "Cancelling",
+        "Connecting"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "There are some important tips to follow to protect your privacy online. Think before you share photos or ",
+        " online. You should change your ",
+        " every now and then. Everything you do online leaves a ",
+        ", like a footprint. This includes the websites you visit and the things you post. So, be careful about what you post as it can be hard to ",
+        " later."
+       ],
+       "answers": [
+        "updates",
+        "passwords",
+        "trace",
+        "remove"
+       ],
+       "bank": [
+        "passwords",
+        "updates",
+        "remove",
+        "trace",
+        "removal"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The story is mainly about ……",
+       "answer": [
+        "keeping promises",
+        "the importance of keeping promises"
+       ],
+       "passage": "Many years ago, a poor, kind farmer was walking through the forest when he found a small bird trapped in a net. The bird was weak, so the farmer gently freed it and helped it recover. Suddenly, the bird turned into a young man. He thanked the farmer and promised to stay and work on the farm. They planted crops, shared meals, and lived happily. However, the young man asked the farmer never to ask about his past. One day, curiosity made the farmer ask anyway. The young man felt sad and left forever. The farmer learned an important lesson: keeping promises is very important."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The underlined word “curiosity” means ……",
+       "answer": [
+        "the desire to know",
+        "wanting to know",
+        "the wish to know something"
+       ],
+       "passage": "Many years ago, a poor, kind farmer was walking through the forest when he found a small bird trapped in a net. The bird was weak, so the farmer gently freed it and helped it recover. Suddenly, the bird turned into a young man. He thanked the farmer and promised to stay and work on the farm. They planted crops, shared meals, and lived happily. However, the young man asked the farmer never to ask about his past. One day, curiosity made the farmer ask anyway. The young man felt sad and left forever. The farmer learned an important lesson: keeping promises is very important."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What did the farmer find in the forest?",
+       "answer": [
+        "a small bird trapped in a net",
+        "a bird trapped in a net",
+        "a small bird"
+       ],
+       "passage": "Many years ago, a poor, kind farmer was walking through the forest when he found a small bird trapped in a net. The bird was weak, so the farmer gently freed it and helped it recover. Suddenly, the bird turned into a young man. He thanked the farmer and promised to stay and work on the farm. They planted crops, shared meals, and lived happily. However, the young man asked the farmer never to ask about his past. One day, curiosity made the farmer ask anyway. The young man felt sad and left forever. The farmer learned an important lesson: keeping promises is very important."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What promise did the young man make to the farmer?",
+       "answer": [
+        "to stay and work on the farm",
+        "he promised to stay and work on the farm"
+       ],
+       "passage": "Many years ago, a poor, kind farmer was walking through the forest when he found a small bird trapped in a net. The bird was weak, so the farmer gently freed it and helped it recover. Suddenly, the bird turned into a young man. He thanked the farmer and promised to stay and work on the farm. They planted crops, shared meals, and lived happily. However, the young man asked the farmer never to ask about his past. One day, curiosity made the farmer ask anyway. The young man felt sad and left forever. The farmer learned an important lesson: keeping promises is very important."
+      },
+      {
+       "type": "tf",
+       "q": "Amal decided to persevere instead of giving up.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "Yara laughed at Amal when the robot wasn’t working.",
+       "answer": false
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What problems did Amal face as the fair came closer?",
+       "answer": [
+        "problems with her robot",
+        "she faced many problems with her robot",
+        "many problems with her robot"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Amira uses a strong password to protect her account. (is)",
+       "answer": [
+        "a strong password is used to protect her account"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Football isn’t played by us on Friday. (We)",
+       "answer": [
+        "we don't play football on friday",
+        "we do not play football on friday"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: My brother cleans his room every Friday. (His room)",
+       "answer": [
+        "his room is cleaned every friday",
+        "his room is cleaned by my brother every friday"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Do people speak English in Egypt? (Is)",
+       "answer": [
+        "is english spoken in egypt",
+        "is english spoken in egypt?"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (2): …… did you enjoy the most?",
+       "answer": [
+        "what"
+       ],
+       "passage": "Rana is telling Reem about her trip to the beach.\nReem: How was your trip to the beach?\nRana: It was ……(1)……!\nReem: Really! ……(2)…… did you enjoy the most?\nRana: I love building sandcastles. It was so much fun.\nReem: ……(3)…… it sunny while you were there?\nRana: Yes, it was hot during the day, but it felt cooler in the evening.\nReem: Did you sleep there too?\nRana: Yes, I slept in a big ……(4)…… near the waves."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (3): …… it sunny while you were there?",
+       "answer": [
+        "was"
+       ],
+       "passage": "Rana is telling Reem about her trip to the beach.\nReem: How was your trip to the beach?\nRana: It was ……(1)……!\nReem: Really! ……(2)…… did you enjoy the most?\nRana: I love building sandcastles. It was so much fun.\nReem: ……(3)…… it sunny while you were there?\nRana: Yes, it was hot during the day, but it felt cooler in the evening.\nReem: Did you sleep there too?\nRana: Yes, I slept in a big ……(4)…… near the waves."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (4): I slept in a big …… near the waves.",
+       "answer": [
+        "tent"
+       ],
+       "passage": "Rana is telling Reem about her trip to the beach.\nReem: How was your trip to the beach?\nRana: It was ……(1)……!\nReem: Really! ……(2)…… did you enjoy the most?\nRana: I love building sandcastles. It was so much fun.\nReem: ……(3)…… it sunny while you were there?\nRana: Yes, it was hot during the day, but it felt cooler in the evening.\nReem: Did you sleep there too?\nRana: Yes, I slept in a big ……(4)…… near the waves."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "Unit 3: Facing Challenges",
+   "pages": "26-37",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Overcoming Challenges"
+    },
+    {
+     "n": 2,
+     "title": "Advice for Facing Challenges"
+    },
+    {
+     "n": 3,
+     "title": "Facing Traffic Challenges"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Little Inventor — Chapter 3"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk: The Power of Facing Challenges"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Overcoming Challenges",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 26)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "With determination, Soha started to work harder. She wanted to overcome her ",
+        " with grammar. She watched videos and made grammar ",
+        " for her room. Each grammar rule felt like an ",
+        ", but she didn’t stop. Slowly, she began to ",
+        " She passed her next quiz and felt proud of herself."
+       ],
+       "answers": [
+        "challenges",
+        "posters",
+        "obstacle",
+        "improve"
+       ],
+       "bank": [
+        "obstacle",
+        "posters",
+        "challenges",
+        "improve",
+        "improved"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "How about …… (make) a study plan?",
+       "answer": [
+        "making"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I suggest …… (go) fishing tomorrow.",
+       "answer": [
+        "going"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Maybe we should …… (cleans) our garden.",
+       "answer": [
+        "clean"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "It might be a good idea to …… (redecorates) our apartment.",
+       "answer": [
+        "redecorate"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Advice for Facing Challenges",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 26-27)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: My brother played online yesterday. (yesterday’s evening)",
+       "answer": [
+        "my brother was playing online yesterday evening"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: While I was going home, I met an old friend. (When)",
+       "answer": [
+        "i met an old friend when i was going home",
+        "when i was going home, i met an old friend"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: I was studying English when my father came home. (As)",
+       "answer": [
+        "as i was studying english, my father came home",
+        "my father came home as i was studying english"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: While I was visiting Paris, I studied French. (During)",
+       "answer": [
+        "during my visit to paris, i studied french"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: When the teacher entered the class, the students were doing a project. (While)",
+       "answer": [
+        "while the teacher entered the class, the students were doing a project",
+        "the students were doing a project while the teacher entered the class"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: As we were riding bikes, Ali broke his leg. (When)",
+       "answer": [
+        "ali broke his leg when we were riding bikes",
+        "when we were riding bikes, ali broke his leg"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We …… (watch) a new movie last Friday.",
+       "answer": [
+        "watched"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "It was raining when we …… (leave) the cinema.",
+       "answer": [
+        "left"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "When he …… (fall) down, he was playing football.",
+       "answer": [
+        "fell"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "During my stay in France, I …… (study) French.",
+       "answer": [
+        "studied"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "صحّح الخطأ: While was sleeping, I had a bad dream.",
+       "answer": [
+        "while i was sleeping, i had a bad dream"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "صحّح الخطأ: During my study, the light was going out.",
+       "answer": [
+        "during my study, the light went out"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Facing Traffic Challenges",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 28)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The government is trying to find …… to most of our problems.",
+       "answer": [
+        "solutions"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "There are big traffic jams …… the streets and highways of Cairo.",
+       "answer": [
+        "on"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Most students feel …… before exams.",
+       "answer": [
+        "stressed",
+        "nervous",
+        "worried"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "One of the greatest projects in Cairo is building a lot of …… to solve the traffic problem.",
+       "answer": [
+        "bridges",
+        "flyovers"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The …… is a train that runs on a single rail, usually above the ground.",
+       "answer": [
+        "monorail"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Cairo is a very busy city. Every day, we find traffic ",
+        " on its streets and highways. People drive their cars and roads get ",
+        " This causes pollution, making the air ",
+        " It also makes people feel ",
+        " and tired from waiting."
+       ],
+       "answers": [
+        "jams",
+        "blocked",
+        "dirty",
+        "stressed"
+       ],
+       "bank": [
+        "blocked",
+        "dirty",
+        "jams",
+        "stressed",
+        "stress"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Story Time: The Little Inventor — Chapter 3",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 30-31)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "All the children displayed their work on the day of the fair. Amal stood ",
+        " with her robot. When she presented it, the robot spoke: “Be ",
+        " Never give up!”. The children ",
+        " Amal’s hard work and creativity. The teacher said, “Amal, you showed ",
+        " and honesty, you stayed true to who you are.” Amal felt proud because she had expressed herself honestly and used her tools responsibly."
+       ],
+       "answers": [
+        "proudly",
+        "yourself",
+        "admired",
+        "determination"
+       ],
+       "bank": [
+        "admired",
+        "proudly",
+        "determination",
+        "yourself",
+        "herself"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: Let's Talk: The Power of Facing Challenges",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 31-32)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "When I make a mistake during a presentation, I feel ……",
+       "answer": [
+        "embarrassed",
+        "nervous"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "I sometimes feel nervous when I have to …… a speech to my class.",
+       "answer": [
+        "give",
+        "make",
+        "deliver"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Our teacher asked our class to do a new project, so we …… more research online.",
+       "answer": [
+        "did"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Facing an obstacle can surprise us, but we can …… it with hard work and determination.",
+       "answer": [
+        "overcome"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Facing challenges in life teaches us to be braver and more ……",
+       "answer": [
+        "confident"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Our school principal …… that the school fair would be next month.",
+       "answer": [
+        "announced"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Facing challenges makes a lot of people better …… for the future.",
+       "answer": [
+        "prepared"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "We should all …… going, even if we face challenges.",
+       "answer": [
+        "keep"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waA",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "ص 29-30",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "She is …… of her son who won the competition.",
+       "answer": [
+        "proud"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Last week, I went to school late as I got …… in a traffic jam.",
+       "answer": [
+        "stuck"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The antonym of the word “courage” is “……”.",
+       "answer": [
+        "fear"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: I fell asleep. I watched a movie. (While)",
+       "answer": [
+        "i fell asleep while i was watching a movie",
+        "while i was watching a movie, i fell asleep"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: My mother made the salad. My father came. (When)",
+       "answer": [
+        "my mother made the salad when my father came",
+        "when my father came, my mother made the salad"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waB",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "ص 29-30",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Leila felt …… when she lost the race.",
+       "answer": [
+        "sad",
+        "upset",
+        "disappointed"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "A …… is a difficult situation or task.",
+       "answer": [
+        "challenge"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "She is trying to …… the challenges in her new job.",
+       "answer": [
+        "overcome",
+        "face"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "صحّح الخطأ: How about go fishing next week?",
+       "answer": [
+        "how about going fishing next week"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "صحّح الخطأ: During my flight to Paris, I watch a movie.",
+       "answer": [
+        "during my flight to paris, i watched a movie",
+        "during my flight to paris, i was watching a movie"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waC",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "ص 29-30",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "You should have …… to overcome your challenges.",
+       "answer": [
+        "courage",
+        "determination"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "A traffic jam happens when long lines of cars can’t move or are moving very ……",
+       "answer": [
+        "slowly"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The word “hard” is a synonym for “……”.",
+       "answer": [
+        "difficult"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "صحّح الخطأ: I suggest play tennis next weekend.",
+       "answer": [
+        "i suggest playing tennis next weekend"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "صحّح الخطأ: While my father was driving his car, it breaks down.",
+       "answer": [
+        "while my father was driving his car, it broke down"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Model Exam on Unit 3",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 34-37)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Every day in Cairo, there are big traffic …… on streets and highways.",
+       "answer": [
+        "jams",
+        "jam"
+       ],
+       "passage": "Cairo is a very busy city. Every day, there is a big traffic jam on streets and highways. Many people drive cars, and roads get blocked. This causes pollution, making the air dirty. It also makes people feel stressed and tired from waiting. Egypt is working to solve this problem. New metro lines like Line 3 and Line 4 were built. Projects such as Tahya Misr Bridge and 6th of October Bridge help cars move faster. The country is building an electric train and a monorail to give people more ways to travel. Egypt also made flyovers and tunnels. These plans made the roads better."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "When many people drive cars, roads get ……",
+       "answer": [
+        "blocked"
+       ],
+       "passage": "Cairo is a very busy city. Every day, there is a big traffic jam on streets and highways. Many people drive cars, and roads get blocked. This causes pollution, making the air dirty. It also makes people feel stressed and tired from waiting. Egypt is working to solve this problem. New metro lines like Line 3 and Line 4 were built. Projects such as Tahya Misr Bridge and 6th of October Bridge help cars move faster. The country is building an electric train and a monorail to give people more ways to travel. Egypt also made flyovers and tunnels. These plans made the roads better."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What makes the air dirty?",
+       "answer": [
+        "pollution"
+       ],
+       "passage": "Cairo is a very busy city. Every day, there is a big traffic jam on streets and highways. Many people drive cars, and roads get blocked. This causes pollution, making the air dirty. It also makes people feel stressed and tired from waiting. Egypt is working to solve this problem. New metro lines like Line 3 and Line 4 were built. Projects such as Tahya Misr Bridge and 6th of October Bridge help cars move faster. The country is building an electric train and a monorail to give people more ways to travel. Egypt also made flyovers and tunnels. These plans made the roads better."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What projects help cars move faster?",
+       "answer": [
+        "tahya misr bridge and 6th of october bridge",
+        "tahya misr bridge and the 6th of october bridge",
+        "bridges"
+       ],
+       "passage": "Cairo is a very busy city. Every day, there is a big traffic jam on streets and highways. Many people drive cars, and roads get blocked. This causes pollution, making the air dirty. It also makes people feel stressed and tired from waiting. Egypt is working to solve this problem. New metro lines like Line 3 and Line 4 were built. Projects such as Tahya Misr Bridge and 6th of October Bridge help cars move faster. The country is building an electric train and a monorail to give people more ways to travel. Egypt also made flyovers and tunnels. These plans made the roads better."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "How do people feel when they wait in traffic jams?",
+       "answer": [
+        "stressed and tired",
+        "they feel stressed and tired"
+       ],
+       "passage": "Cairo is a very busy city. Every day, there is a big traffic jam on streets and highways. Many people drive cars, and roads get blocked. This causes pollution, making the air dirty. It also makes people feel stressed and tired from waiting. Egypt is working to solve this problem. New metro lines like Line 3 and Line 4 were built. Projects such as Tahya Misr Bridge and 6th of October Bridge help cars move faster. The country is building an electric train and a monorail to give people more ways to travel. Egypt also made flyovers and tunnels. These plans made the roads better."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "In big cities, it’s easier to …… using buses, bikes, or trains.",
+       "answer": [
+        "travel",
+        "move",
+        "get around"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The words “blocked” and “open” are ……",
+       "answer": [
+        "antonyms",
+        "opposites"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The prefix …… gives the opposite of the word “afraid”.",
+       "answer": [
+        "un"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "He felt …… when he got low marks in his exams.",
+       "options": [
+        "happy",
+        "brave",
+        "disappointed",
+        "pleased"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Our team faced a big challenge last week. When our best player was ",
+        ", we needed to solve this problem before the final match. We looked for different ",
+        " and changed our plan. With great ",
+        ", we did our best and won the game. We were all very ",
+        " of our teamwork."
+       ],
+       "answers": [
+        "injured",
+        "solutions",
+        "determination",
+        "proud"
+       ],
+       "bank": [
+        "proud",
+        "injured",
+        "solutions",
+        "determination",
+        "injury"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Human beings are …… than computers.",
+       "answer": [
+        "less efficient"
+       ],
+       "passage": "Computers are being used more and more widely in the world today. They are far more efficient than human beings. They can store information and many other things we do, but faster and better. Computers can catch criminals. They can help the police fight crime and find out information about people’s appearance. Photographs of different kinds of criminals are seen across the computer screen. So computers are very useful for helping us catch thieves and murders. The only problem is that we now have a new kind of criminals. He is a very clever man who knows how to corrupt a computer, and he is very difficult to be caught."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The underlined word “They” refers to ……",
+       "answer": [
+        "computers"
+       ],
+       "passage": "Computers are being used more and more widely in the world today. They are far more efficient than human beings. They can store information and many other things we do, but faster and better. Computers can catch criminals. They can help the police fight crime and find out information about people’s appearance. Photographs of different kinds of criminals are seen across the computer screen. So computers are very useful for helping us catch thieves and murders. The only problem is that we now have a new kind of criminals. He is a very clever man who knows how to corrupt a computer, and he is very difficult to be caught."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Why are computers far more efficient than human beings?",
+       "answer": [
+        "because they can store information and do things faster and better",
+        "they store information and work faster and better",
+        "because they store information and work faster and better"
+       ],
+       "passage": "Computers are being used more and more widely in the world today. They are far more efficient than human beings. They can store information and many other things we do, but faster and better. Computers can catch criminals. They can help the police fight crime and find out information about people’s appearance. Photographs of different kinds of criminals are seen across the computer screen. So computers are very useful for helping us catch thieves and murders. The only problem is that we now have a new kind of criminals. He is a very clever man who knows how to corrupt a computer, and he is very difficult to be caught."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Why is it sometimes difficult to catch a criminal?",
+       "answer": [
+        "because he knows how to corrupt a computer",
+        "because he is a clever man who knows how to corrupt a computer"
+       ],
+       "passage": "Computers are being used more and more widely in the world today. They are far more efficient than human beings. They can store information and many other things we do, but faster and better. Computers can catch criminals. They can help the police fight crime and find out information about people’s appearance. Photographs of different kinds of criminals are seen across the computer screen. So computers are very useful for helping us catch thieves and murders. The only problem is that we now have a new kind of criminals. He is a very clever man who knows how to corrupt a computer, and he is very difficult to be caught."
+      },
+      {
+       "type": "tf",
+       "q": "Yara helped her friend Amal by giving her money.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "Amal felt proud because she had expressed herself honestly.",
+       "answer": true
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What message did Amal’s robot give at the fair?",
+       "answer": [
+        "be yourself. never give up",
+        "be yourself, never give up",
+        "be yourself and never give up",
+        "never give up"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: While I was walking to school, I saw an accident. (When)",
+       "answer": [
+        "when i was walking to school, i saw an accident",
+        "i saw an accident when i was walking to school"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: She had the ability to make her own food. (was)",
+       "answer": [
+        "she was able to make her own food"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: They were playing tennis when it started to rain. (While)",
+       "answer": [
+        "while they were playing tennis, it started to rain"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: They went to the park last week. (ago)",
+       "answer": [
+        "they went to the park a week ago"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (1): I am reading a book about ……",
+       "answer": [
+        "water"
+       ],
+       "passage": "Anas and Seif are talking about water.\nAnas: What are you doing?\nSeif: I am reading a book about ……(1)…….\nAnas: A book about water! ……(2)…… does it contain?\nSeif: It contains facts about water.\nAnas: ……(3)…… our bodies contain water?\nSeif: Yes, our bodies have water inside them.\nAnas: What is the importance of water in our bodies?\nSeif: ……(4)…… blood and keeping the body cool.\nAnas: Moving blood and keeping the body cool. Wow! Interesting facts."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (2): …… does it contain?",
+       "answer": [
+        "what"
+       ],
+       "passage": "Anas and Seif are talking about water.\nAnas: What are you doing?\nSeif: I am reading a book about ……(1)…….\nAnas: A book about water! ……(2)…… does it contain?\nSeif: It contains facts about water.\nAnas: ……(3)…… our bodies contain water?\nSeif: Yes, our bodies have water inside them.\nAnas: What is the importance of water in our bodies?\nSeif: ……(4)…… blood and keeping the body cool.\nAnas: Moving blood and keeping the body cool. Wow! Interesting facts."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (3): …… our bodies contain water?",
+       "answer": [
+        "do"
+       ],
+       "passage": "Anas and Seif are talking about water.\nAnas: What are you doing?\nSeif: I am reading a book about ……(1)…….\nAnas: A book about water! ……(2)…… does it contain?\nSeif: It contains facts about water.\nAnas: ……(3)…… our bodies contain water?\nSeif: Yes, our bodies have water inside them.\nAnas: What is the importance of water in our bodies?\nSeif: ……(4)…… blood and keeping the body cool.\nAnas: Moving blood and keeping the body cool. Wow! Interesting facts."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (4): …… blood and keeping the body cool.",
+       "answer": [
+        "moving"
+       ],
+       "passage": "Anas and Seif are talking about water.\nAnas: What are you doing?\nSeif: I am reading a book about ……(1)…….\nAnas: A book about water! ……(2)…… does it contain?\nSeif: It contains facts about water.\nAnas: ……(3)…… our bodies contain water?\nSeif: Yes, our bodies have water inside them.\nAnas: What is the importance of water in our bodies?\nSeif: ……(4)…… blood and keeping the body cool.\nAnas: Moving blood and keeping the body cool. Wow! Interesting facts."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Unit 4: Art and Expression",
+   "pages": "38-48",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "A Journey Through Art!"
+    },
+    {
+     "n": 2,
+     "title": "Exploring Art: Listen Up!"
+    },
+    {
+     "n": 3,
+     "title": "Biography of an Artist"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Adventure of the Hidden Island — Chapter 1"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk: My Performance Review"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: A Journey Through Art!",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 38-39)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "You can see many different …… in a gallery.",
+       "answer": [
+        "artworks",
+        "paintings"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Every artwork has a powerful ……",
+       "answer": [
+        "message"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Artists use different materials to create ……",
+       "answer": [
+        "artworks"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "…… is a very important life skill.",
+       "answer": [
+        "creativity",
+        "imagination"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The opposite of “imagination” is ……",
+       "answer": [
+        "reality"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Last week, I visited an art gallery in Zamalek. The gallery was filled with ",
+        " paintings and different kinds of sculptures. Artists showcased their original artworks. They ",
+        " different kinds of material like paper, clay, and ",
+        " This makes the artworks special and original. Each piece carries a meaningful ",
+        ""
+       ],
+       "answers": [
+        "colorful",
+        "mixed",
+        "metal",
+        "message"
+       ],
+       "bank": [
+        "colorful",
+        "mixed",
+        "message",
+        "metal"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (1): It was ……",
+       "answer": [
+        "great",
+        "amazing",
+        "wonderful",
+        "nice",
+        "fantastic"
+       ],
+       "passage": "Noor is telling Omar about an art gallery.\nOmar: Hi, Noor! How was your last weekend?\nNoor: Hi, Omar! It was ……(1)…….\nOmar: Where did you ……(2)……?\nNoor: I went to an art gallery in Zamalek. It was really fun!\nOmar: That sounds interesting! What did you enjoy the most?\nNoor: I enjoyed the ……(3)…… the most. They are made of smooth stone.\nOmar: Were there any other kinds of artworks?\nNoor: Yes, there were other amazing ……(4)…….\nOmar: That’s great."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (2): Where did you ……?",
+       "answer": [
+        "go"
+       ],
+       "passage": "Noor is telling Omar about an art gallery.\nOmar: Hi, Noor! How was your last weekend?\nNoor: Hi, Omar! It was ……(1)…….\nOmar: Where did you ……(2)……?\nNoor: I went to an art gallery in Zamalek. It was really fun!\nOmar: That sounds interesting! What did you enjoy the most?\nNoor: I enjoyed the ……(3)…… the most. They are made of smooth stone.\nOmar: Were there any other kinds of artworks?\nNoor: Yes, there were other amazing ……(4)…….\nOmar: That’s great."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (3): I enjoyed the …… the most. (مصنوعة من الحجر)",
+       "answer": [
+        "sculptures"
+       ],
+       "passage": "Noor is telling Omar about an art gallery.\nOmar: Hi, Noor! How was your last weekend?\nNoor: Hi, Omar! It was ……(1)…….\nOmar: Where did you ……(2)……?\nNoor: I went to an art gallery in Zamalek. It was really fun!\nOmar: That sounds interesting! What did you enjoy the most?\nNoor: I enjoyed the ……(3)…… the most. They are made of smooth stone.\nOmar: Were there any other kinds of artworks?\nNoor: Yes, there were other amazing ……(4)…….\nOmar: That’s great."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (4): There were other amazing ……",
+       "answer": [
+        "artworks"
+       ],
+       "passage": "Noor is telling Omar about an art gallery.\nOmar: Hi, Noor! How was your last weekend?\nNoor: Hi, Omar! It was ……(1)…….\nOmar: Where did you ……(2)……?\nNoor: I went to an art gallery in Zamalek. It was really fun!\nOmar: That sounds interesting! What did you enjoy the most?\nNoor: I enjoyed the ……(3)…… the most. They are made of smooth stone.\nOmar: Were there any other kinds of artworks?\nNoor: Yes, there were other amazing ……(4)…….\nOmar: That’s great."
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Exploring Art: Listen Up!",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 39)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "She passed the final exam …… she studied hard. (because / but / Although)",
+       "answer": [
+        "because"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "He is rich, …… he is unhappy. (because / but / Although)",
+       "answer": [
+        "but"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "…… she woke up early, she didn’t catch the bus. (because / but / Although)",
+       "answer": [
+        "although"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: He didn’t win the race. He hurt his knee. (because)",
+       "answer": [
+        "he didn't win the race because he hurt his knee",
+        "he did not win the race because he hurt his knee"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: They played well. They lost. (although)",
+       "answer": [
+        "although they played well, they lost",
+        "they lost although they played well",
+        "they played well although they lost"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: I ate unhealthy food. I gained weight. (so)",
+       "answer": [
+        "i ate unhealthy food, so i gained weight",
+        "i eat unhealthy food, so i gained weight"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: He was sick. He finished his homework. (but)",
+       "answer": [
+        "he was sick, but he finished his homework"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Biography of an Artist",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 40)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "After he died, he gained …… for his work.",
+       "answer": [
+        "recognition",
+        "fame"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Everyone liked the sculpture he made. It’s an …… statue.",
+       "answer": [
+        "amazing",
+        "incredible"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Next time, I will exhibit more …… artworks.",
+       "answer": [
+        "original",
+        "creative"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Mahmoud Mokhtar is a famous Egyptian ",
+        " He ",
+        " different kinds of art styles in his artworks. He gained international recognition for his remarkable artworks. One of his ",
+        " that had been recognized globally is Nahdet Misr Statue. He exhibited his artworks in many ",
+        " around the world. Al Khamaseen is one of his incredible pieces."
+       ],
+       "answers": [
+        "artist",
+        "mixed",
+        "artworks",
+        "exhibitions"
+       ],
+       "bank": [
+        "deserves",
+        "artist",
+        "mixed",
+        "artworks",
+        "exhibitions"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Story Time: The Adventure of the Hidden Island — Chapter 1",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 42-43)",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "Teamwork means to collaborate with each other.",
+       "answer": true
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Four friends — Hany, Faris, Malik, and Sami — were living on a quiet coastal island. One day, they found an old ",
+        " of a “Hidden Island”. Hany encouraged them to go and discover the ",
+        " They ",
+        " what they would need for the journey: food, water, notebooks, and a compass. They agreed on a rule of ",
+        " and respect. They ",
+        " the value of being different."
+       ],
+       "answers": [
+        "map",
+        "island",
+        "packed",
+        "collaboration",
+        "appreciated"
+       ],
+       "bank": [
+        "appreciated",
+        "packed",
+        "island",
+        "map",
+        "collaboration"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: Let's Talk: My Performance Review",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 43-44)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "To come up with new ideas means ……",
+       "answer": [
+        "to think of new ideas",
+        "to create new ideas",
+        "creating new ideas",
+        "thinking of new ideas"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Every piece of any artwork should be ……",
+       "answer": [
+        "original",
+        "special"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "His work is full of creativity and ……",
+       "answer": [
+        "imagination"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The opposite of “national” is ……",
+       "answer": [
+        "international"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Last week, we visited a modern art museum. All the ",
+        " were special and original. The sculptures looked very ",
+        " because they were different from anything else. Making art requires a lot of ",
+        " and creativity. An artwork doesn’t need to be ",
+        " to be valuable or beautiful."
+       ],
+       "answers": [
+        "pieces",
+        "stunning",
+        "imagination",
+        "perfect"
+       ],
+       "bank": [
+        "perfect",
+        "imagination",
+        "pieces",
+        "stunning"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waA",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "ص 41-42",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Our school encourages students to participate in the annual art exhibition to promote …… and imagination.",
+       "answer": [
+        "creativity"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "This gallery is filled with …… artworks.",
+       "answer": [
+        "original",
+        "amazing",
+        "creative"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The synonym of the word “original” is ……",
+       "answer": [
+        "creative",
+        "unique",
+        "new"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: He is rich, so he is wearing new clothes. (because)",
+       "answer": [
+        "he is wearing new clothes because he is rich"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Omar walked slowly because he was tired. (so)",
+       "answer": [
+        "omar was tired, so he walked slowly"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waB",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "ص 41-42",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Mahmoud Mokhtar is well known as a very creative ……",
+       "answer": [
+        "artist",
+        "sculptor"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Amir used to …… when he was young. He made an amazing sculpture.",
+       "answer": [
+        "sculpt",
+        "draw",
+        "paint"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The synonym of the word “valuable” is ……",
+       "answer": [
+        "precious",
+        "important"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: He was sick, so he didn’t go to school. (because)",
+       "answer": [
+        "he didn't go to school because he was sick",
+        "he did not go to school because he was sick"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Although she doesn’t draw well, she participated in the national competition. (but)",
+       "answer": [
+        "she doesn't draw well, but she participated in the national competition",
+        "she does not draw well, but she participated in the national competition"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waC",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "ص 41-42",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The gallery held a …… competition among artists every year.",
+       "answer": [
+        "annual",
+        "national",
+        "yearly"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The synonym of the word “incredible” is ……",
+       "answer": [
+        "amazing",
+        "unbelievable"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Although his artworks are amazing, he doesn’t receive recognition. (but)",
+       "answer": [
+        "his artworks are amazing, but he doesn't receive recognition",
+        "his artworks are amazing, but he does not receive recognition"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: He prepared well, so he won the race. (because)",
+       "answer": [
+        "he won the race because he prepared well"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Model Exam on Unit 4",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 44-48)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Artists can use …… colors to show joy.",
+       "answer": [
+        "bright, happy",
+        "bright",
+        "happy",
+        "bright happy"
+       ],
+       "passage": "Art is a powerful way to communicate without words. Artists can use bright, happy colors to show joy, or dark, gloomy colors to express their sadness. Sculptors can shape clay into figures that tell a story. An interactive artwork can make you feel like you are part of the artwork itself. You don’t need to be an expert to enjoy art. You just need to open your mind and let the artworks speak to you. So, the next time you visit a gallery, look closely and ask yourself: What is the artist trying to tell me?"
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "…… can shape clay into figures that tell a story.",
+       "answer": [
+        "sculptors"
+       ],
+       "passage": "Art is a powerful way to communicate without words. Artists can use bright, happy colors to show joy, or dark, gloomy colors to express their sadness. Sculptors can shape clay into figures that tell a story. An interactive artwork can make you feel like you are part of the artwork itself. You don’t need to be an expert to enjoy art. You just need to open your mind and let the artworks speak to you. So, the next time you visit a gallery, look closely and ask yourself: What is the artist trying to tell me?"
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "How can an artist show sadness?",
+       "answer": [
+        "by using dark, gloomy colors",
+        "by using dark gloomy colors",
+        "using dark, gloomy colors",
+        "dark, gloomy colors"
+       ],
+       "passage": "Art is a powerful way to communicate without words. Artists can use bright, happy colors to show joy, or dark, gloomy colors to express their sadness. Sculptors can shape clay into figures that tell a story. An interactive artwork can make you feel like you are part of the artwork itself. You don’t need to be an expert to enjoy art. You just need to open your mind and let the artworks speak to you. So, the next time you visit a gallery, look closely and ask yourself: What is the artist trying to tell me?"
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What do you need to enjoy art?",
+       "answer": [
+        "to open your mind",
+        "you just need to open your mind",
+        "just open your mind"
+       ],
+       "passage": "Art is a powerful way to communicate without words. Artists can use bright, happy colors to show joy, or dark, gloomy colors to express their sadness. Sculptors can shape clay into figures that tell a story. An interactive artwork can make you feel like you are part of the artwork itself. You don’t need to be an expert to enjoy art. You just need to open your mind and let the artworks speak to you. So, the next time you visit a gallery, look closely and ask yourself: What is the artist trying to tell me?"
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What should you do when you visit a gallery?",
+       "answer": [
+        "look closely and ask yourself what the artist is trying to tell you",
+        "look closely",
+        "look closely and ask what the artist is trying to tell me"
+       ],
+       "passage": "Art is a powerful way to communicate without words. Artists can use bright, happy colors to show joy, or dark, gloomy colors to express their sadness. Sculptors can shape clay into figures that tell a story. An interactive artwork can make you feel like you are part of the artwork itself. You don’t need to be an expert to enjoy art. You just need to open your mind and let the artworks speak to you. So, the next time you visit a gallery, look closely and ask yourself: What is the artist trying to tell me?"
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Gold is a shiny …… used for making jewelry.",
+       "answer": [
+        "metal"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "I think that art should really …… with people.",
+       "answer": [
+        "communicate",
+        "connect",
+        "speak"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Mahmoud Mokhtar …… international recognition by exhibiting his art in Paris.",
+       "answer": [
+        "gained"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "…… means something that is very hard to believe.",
+       "options": [
+        "Hidden",
+        "Lazy",
+        "Incredible",
+        "Secret"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Mahmoud Mokhtar was a very important national artist. He was one of the famous Egyptian sculptors. He learned to ",
+        " when he was still a child. His most famous work is Nahdet Misr Statue which symbolizes Egypt’s history and ",
+        " It became a big ",
+        " for Egypt and was put in a public square in Cairo in 1928. Mokhtar actively ",
+        " in the art movement, using his art to promote Egyptian identity."
+       ],
+       "answers": [
+        "sculpt",
+        "agriculture",
+        "symbol",
+        "participated"
+       ],
+       "bank": [
+        "participated",
+        "sculpt",
+        "symbol",
+        "agriculture",
+        "industry"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What study tool does Nader use for vocabulary?",
+       "answer": [
+        "flashcards",
+        "he uses flashcards"
+       ],
+       "passage": "Samir asks Nader how he is preparing for the science test. Samir says he struggles with vocabulary. Nader explains that he uses flashcards and suggests Samir make his own. He also advises Samir to add colors and pictures. According to Nader, drawing diagrams helps a lot because visual memory helps us understand and remember information. Samir likes the idea, but wonders about long processes like photosynthesis. Nader suggests making up a story and connecting steps to familiar things, since understanding is better than memorizing. Samir admits that he usually rereads notes and that this habit of his may need to change. However, Samir thinks that his method of using song lyrics helps him a lot when he studies. They decide to study together and mix methods."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "For long processes like photosynthesis, Nader suggests that Samir ……",
+       "answer": [
+        "make up a story",
+        "makes up a story",
+        "make up a story and connect steps to familiar things"
+       ],
+       "passage": "Samir asks Nader how he is preparing for the science test. Samir says he struggles with vocabulary. Nader explains that he uses flashcards and suggests Samir make his own. He also advises Samir to add colors and pictures. According to Nader, drawing diagrams helps a lot because visual memory helps us understand and remember information. Samir likes the idea, but wonders about long processes like photosynthesis. Nader suggests making up a story and connecting steps to familiar things, since understanding is better than memorizing. Samir admits that he usually rereads notes and that this habit of his may need to change. However, Samir thinks that his method of using song lyrics helps him a lot when he studies. They decide to study together and mix methods."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What does Nader add to flashcards to make them more interesting?",
+       "answer": [
+        "colors and pictures",
+        "he adds colors and pictures"
+       ],
+       "passage": "Samir asks Nader how he is preparing for the science test. Samir says he struggles with vocabulary. Nader explains that he uses flashcards and suggests Samir make his own. He also advises Samir to add colors and pictures. According to Nader, drawing diagrams helps a lot because visual memory helps us understand and remember information. Samir likes the idea, but wonders about long processes like photosynthesis. Nader suggests making up a story and connecting steps to familiar things, since understanding is better than memorizing. Samir admits that he usually rereads notes and that this habit of his may need to change. However, Samir thinks that his method of using song lyrics helps him a lot when he studies. They decide to study together and mix methods."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What do Samir and Nader decide to do at the end?",
+       "answer": [
+        "to study together and mix methods",
+        "study together and mix methods"
+       ],
+       "passage": "Samir asks Nader how he is preparing for the science test. Samir says he struggles with vocabulary. Nader explains that he uses flashcards and suggests Samir make his own. He also advises Samir to add colors and pictures. According to Nader, drawing diagrams helps a lot because visual memory helps us understand and remember information. Samir likes the idea, but wonders about long processes like photosynthesis. Nader suggests making up a story and connecting steps to familiar things, since understanding is better than memorizing. Samir admits that he usually rereads notes and that this habit of his may need to change. However, Samir thinks that his method of using song lyrics helps him a lot when he studies. They decide to study together and mix methods."
+      },
+      {
+       "type": "tf",
+       "q": "Although they were all different, the friends respected each other’s thoughts.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "Malik, who loved drawing, ignored the scenery.",
+       "answer": false
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What did the group of friends find one sunny morning?",
+       "answer": [
+        "an old map",
+        "a map of a hidden island",
+        "an old map of a hidden island",
+        "an old map of the hidden island"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Amir didn’t study hard, so he got low marks. (because)",
+       "answer": [
+        "amir got low marks because he did not study hard",
+        "amir got low marks because he didn't study hard"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Although Sama was tired, she was smiling. (but)",
+       "answer": [
+        "sama was tired, but she was smiling"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: The artist was very creative, so his work was amazing. (because)",
+       "answer": [
+        "the artist’s work was amazing because he was very creative",
+        "the artist's work was amazing because he was very creative"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: It was raining, but I went out. (Although)",
+       "answer": [
+        "although it was raining, i went out"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (1): My dream job is to be a ……",
+       "answer": [
+        "doctor"
+       ],
+       "passage": "Sally and Dina are talking about Dina’s dream job.\nSally: What is your dream job?\nDina: My dream job is to be a ……(1)…….\nSally: ……(2)…… do you want to be a doctor?\nDina: Because I want to help sick people get better.\nSally: Great! ……(3)…… inspired you?\nDina: My uncle, who is a doctor, inspired me.\nSally: What skills do doctors need?\nDina: They ……(4)… kindness, patience, and hard work."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (2): …… do you want to be a doctor?",
+       "answer": [
+        "why"
+       ],
+       "passage": "Sally and Dina are talking about Dina’s dream job.\nSally: What is your dream job?\nDina: My dream job is to be a ……(1)…….\nSally: ……(2)…… do you want to be a doctor?\nDina: Because I want to help sick people get better.\nSally: Great! ……(3)…… inspired you?\nDina: My uncle, who is a doctor, inspired me.\nSally: What skills do doctors need?\nDina: They ……(4)… kindness, patience, and hard work."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (3): …… inspired you?",
+       "answer": [
+        "who"
+       ],
+       "passage": "Sally and Dina are talking about Dina’s dream job.\nSally: What is your dream job?\nDina: My dream job is to be a ……(1)…….\nSally: ……(2)…… do you want to be a doctor?\nDina: Because I want to help sick people get better.\nSally: Great! ……(3)…… inspired you?\nDina: My uncle, who is a doctor, inspired me.\nSally: What skills do doctors need?\nDina: They ……(4)… kindness, patience, and hard work."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (4): They …… kindness, patience, and hard work.",
+       "answer": [
+        "need"
+       ],
+       "passage": "Sally and Dina are talking about Dina’s dream job.\nSally: What is your dream job?\nDina: My dream job is to be a ……(1)…….\nSally: ……(2)…… do you want to be a doctor?\nDina: Because I want to help sick people get better.\nSally: Great! ……(3)…… inspired you?\nDina: My uncle, who is a doctor, inspired me.\nSally: What skills do doctors need?\nDina: They ……(4)… kindness, patience, and hard work."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "Unit 5: Around the World",
+   "pages": "49-59",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Have You Ever Explored the World?"
+    },
+    {
+     "n": 2,
+     "title": "A Tour Around Cairo"
+    },
+    {
+     "n": 3,
+     "title": "Around the World in Four Amazing Places"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Adventure of the Hidden Island — Chapter 2"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk: Come Explore with Us"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Have You Ever Explored the World?",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 49)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "I went to Japan. I stayed in a beautiful city full of life. The ",
+        " is bigger than Marrakech’s. I explored Tokyo, the capital city. It’s one of the most ",
+        " places I’ve ever seen. The main language is Japanese. I joined a tea ceremony, a beautiful ",
+        " that shows calmness and kindness. Each country has a special ",
+        ""
+       ],
+       "answers": [
+        "population",
+        "impressive",
+        "tradition",
+        "landmark"
+       ],
+       "bank": [
+        "landmark",
+        "organized",
+        "tradition",
+        "population",
+        "impressive"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: A Tour Around Cairo",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 50)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Egypt is hotter than France. (colder)",
+       "answer": [
+        "france is colder than egypt"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: I haven’t read a more interesting book than this. (the most)",
+       "answer": [
+        "this is the most interesting book i have ever read",
+        "this is the most interesting book i have read"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: No mountain is higher than Everest. (highest)",
+       "answer": [
+        "everest is the highest mountain",
+        "everest is the highest mountain in the world"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Egypt has the most impressive civilization in the world. (more)",
+       "answer": [
+        "egypt has a more impressive civilization than any other country in the world",
+        "no country in the world has a more impressive civilization than egypt"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Grand Egyptian Museum is one of the …… (large) museums in the world.",
+       "answer": [
+        "largest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The population in China is …… (big) than Egypt’s.",
+       "answer": [
+        "bigger"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Our ancient history is the …… (more) impressive.",
+       "answer": [
+        "most"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Maria is …… (the most) beautiful than her friend.",
+       "answer": [
+        "more"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (1): Have you ever visited Khan El Khalili? — …… .",
+       "answer": [
+        "yes",
+        "yes, i have"
+       ],
+       "passage": "Maria and Hind are talking about Khan El Khalili.\nMaria: Have you ever visited Khan El Khalili?\nHind: ……(1)…… . It’s famous for its bazaars.\nMaria: Why do people like to visit Khan El Khalili?\nHind: To buy ……(2)…….\nMaria: What kind of souvenirs can they buy?\nHind: They can buy gifts and also they can bargain for fun.\nMaria: Wow! That is impressive indeed!\nHind: Do you like to visit it?\nMaria: ……(3)……, I like it very much."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (2): People visit Khan El Khalili to buy ……",
+       "answer": [
+        "souvenirs"
+       ],
+       "passage": "Maria and Hind are talking about Khan El Khalili.\nMaria: Have you ever visited Khan El Khalili?\nHind: ……(1)…… . It’s famous for its bazaars.\nMaria: Why do people like to visit Khan El Khalili?\nHind: To buy ……(2)…….\nMaria: What kind of souvenirs can they buy?\nHind: They can buy gifts and also they can bargain for fun.\nMaria: Wow! That is impressive indeed!\nHind: Do you like to visit it?\nMaria: ……(3)……, I like it very much."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (3): Do you like to visit it? — ……, I like it very much.",
+       "answer": [
+        "yes"
+       ],
+       "passage": "Maria and Hind are talking about Khan El Khalili.\nMaria: Have you ever visited Khan El Khalili?\nHind: ……(1)…… . It’s famous for its bazaars.\nMaria: Why do people like to visit Khan El Khalili?\nHind: To buy ……(2)…….\nMaria: What kind of souvenirs can they buy?\nHind: They can buy gifts and also they can bargain for fun.\nMaria: Wow! That is impressive indeed!\nHind: Do you like to visit it?\nMaria: ……(3)……, I like it very much."
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Around the World in Four Amazing Places",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 51)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Reykjavik is the capital of Iceland and the ",
+        " of amazing nature. It is the northernmost capital in the world. From here, you can visit the Blue ",
+        ", a warm and blue ",
+        " pool. You can also see volcanoes, ",
+        ", and maybe even the Northern lights in winter."
+       ],
+       "answers": [
+        "home",
+        "lagoon",
+        "geothermal",
+        "glaciers"
+       ],
+       "bank": [
+        "geothermal",
+        "glaciers",
+        "home",
+        "Lagoon",
+        "hiking"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Story Time: The Adventure of the Hidden Island — Chapter 2",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 53-54)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "When I was in Europe, I saw …… plants I have never seen before.",
+       "answer": [
+        "strange",
+        "amazing",
+        "new"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "You can enjoy the …… in Al Fayoum, and the beautiful weather.",
+       "answer": [
+        "scenery",
+        "nature"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "We can …… into pairs and explore the city.",
+       "answer": [
+        "split"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The story about how the pharaohs built the pyramids is still ……",
+       "answer": [
+        "a mystery",
+        "mysterious"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Yesterday, we went on a trip to the mountains. While walking through the forest, we heard a ",
+        " sound coming from behind the trees. Suddenly, we saw a beautiful ",
+        " falling down the rocks. My friend pointed at an old tree that had ",
+        " into two parts. Near the river, we also found some ",
+        " stones that sparkled in the sunlight."
+       ],
+       "answers": [
+        "strange",
+        "bird",
+        "split",
+        "shiny"
+       ],
+       "bank": [
+        "split",
+        "strange",
+        "shiny",
+        "bird"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: Let's Talk: Come Explore with Us",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 54-55)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Did you buy any …… for your mother when you were in London?",
+       "answer": [
+        "souvenirs",
+        "gifts"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Salah El Din’s …… was built to protect Cairo.",
+       "answer": [
+        "citadel"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Some people are afraid of sharks’ …… when they go swimming in the sea.",
+       "answer": [
+        "attacks"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The tourists go around the world to explore different traditions and ……",
+       "answer": [
+        "cultures"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Traveling makes you see famous …… and hear new languages.",
+       "answer": [
+        "landmarks"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We stayed for …… (awhile) when we were in France.",
+       "answer": [
+        "a while"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I think this trip gave us the best …… (memorize) we will keep forever.",
+       "answer": [
+        "memories"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Japan is …… (the modern) than India.",
+       "answer": [
+        "more modern"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The animals always …… (protects) their babies from danger.",
+       "answer": [
+        "protect"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waA",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "ص 52-53",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Each country has its own …… and culture.",
+       "answer": [
+        "traditions",
+        "history",
+        "identity"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The trip to Ras Mohamed was an …… experience.",
+       "answer": [
+        "amazing",
+        "unforgettable"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "My trip to the mountains gave me great …… that I will never forget.",
+       "answer": [
+        "memories"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Amira is the most intelligent student in her class. (more)",
+       "answer": [
+        "amira is more intelligent than any other student in her class"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waB",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "ص 52-53",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Dubai has become a famous …… city.",
+       "answer": [
+        "modern"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Aswan is a special place full of …… and culture.",
+       "answer": [
+        "history",
+        "traditions"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The ancient statue was …… from a single piece of stone.",
+       "answer": [
+        "carved",
+        "made"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: This is the most expensive car I have ever seen. (more)",
+       "answer": [
+        "i have never seen a more expensive car",
+        "i have never seen a more expensive car than this"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waC",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "ص 52-53",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "He told me about his amazing …… after climbing the mountains.",
+       "options": [
+        "paintings",
+        "mummies",
+        "statues",
+        "adventures"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The Pyramids in Giza were one of the ancient seven ……",
+       "answer": [
+        "wonders"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "We will go on a tour to many amazing ……",
+       "answer": [
+        "places",
+        "landmarks"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: This painting is the most beautiful one in the gallery. (more)",
+       "answer": [
+        "this painting is more beautiful than any other one in the gallery",
+        "this painting is more beautiful than any other painting in the gallery"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: The Nile River is longer than the Mississippi River. (longest)",
+       "answer": [
+        "the nile river is the longest",
+        "the nile river is the longest river"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Model Exam on Unit 5",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 56-59)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Japan is a country in ……",
+       "answer": [
+        "asia"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What is the capital of Japan?",
+       "answer": [
+        "tokyo"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What does the tea ceremony show?",
+       "answer": [
+        "calmness and kindness",
+        "it shows calmness and kindness"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Mount Fuji is a special …… in Japan.",
+       "answer": [
+        "landmark"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The synonym of the word “impressive” is ……",
+       "answer": [
+        "amazing",
+        "wonderful"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Dead bodies that have been preserved for a long time, especially in Ancient Egypt, are called ……",
+       "answer": [
+        "mummies"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "…… means the number of people living in a place.",
+       "options": [
+        "Tourists",
+        "Pollution",
+        "Population",
+        "Tours"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Petra is a famous historic place in Jordan. It is an ancient city ",
+        " into red rocks. It is over 2,000 years old and was once a rich ",
+        " city. The most famous ",
+        " is the Treasury, which you may know from movies. Petra is very special and is one of the New Seven ",
+        " of the world."
+       ],
+       "answers": [
+        "carved",
+        "trading",
+        "building",
+        "wonders"
+       ],
+       "bank": [
+        "trading",
+        "carved",
+        "building",
+        "wanders",
+        "wonders"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Without a good sense of ……, people cannot walk.",
+       "options": [
+        "thirst",
+        "hunger",
+        "heat",
+        "balance"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The word “sight” means the ability to ……",
+       "answer": [
+        "see"
+       ],
+       "passage": "We usually say that people have five senses. Senses enable us to learn what is happening around us. The five main senses are sight, hearing, touch, taste and smell. Each sense depends on a certain part of the body. This part receives the information and then the nerves send it to the brain. For example, eyes control sight, ears control hearing, and skin controls touch. Taste depends on the tongue, and the smell depends on the nose. There are also other senses which are equally as important. There is a sense of balance which stops us from falling down. We also have senses of hunger, thirst, heat and cold."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "How many senses do people have mainly?",
+       "answer": [
+        "five",
+        "5",
+        "five main senses"
+       ],
+       "passage": "We usually say that people have five senses. Senses enable us to learn what is happening around us. The five main senses are sight, hearing, touch, taste and smell. Each sense depends on a certain part of the body. This part receives the information and then the nerves send it to the brain. For example, eyes control sight, ears control hearing, and skin controls touch. Taste depends on the tongue, and the smell depends on the nose. There are also other senses which are equally as important. There is a sense of balance which stops us from falling down. We also have senses of hunger, thirst, heat and cold."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Ali is taller than Ayman. (shorter)",
+       "answer": [
+        "ayman is shorter than ali"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: No boy is fatter than Adel in class. (fattest)",
+       "answer": [
+        "adel is the fattest boy in class",
+        "adel is the fattest in class"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: I have never seen a more organized city than Tokyo. (most)",
+       "answer": [
+        "tokyo is the most organized city i have ever seen"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Gold is more expensive than silver. (Silver)",
+       "answer": [
+        "silver is less expensive than gold",
+        "silver is cheaper than gold"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (1): I’m doing my …… . I always do it after school.",
+       "answer": [
+        "homework"
+       ],
+       "passage": "Hany and Fady are talking about online games.\nHany: What are you doing, Fady?\nFady: I’m doing my ……(1)…… . I always do it after school.\nHany: Me, too. After I finish my homework, I usually play online games. Do you enjoy playing ……(2)……?\nFady: Yes, I love them. I always use my smartphone to play games online.\nHany: Who do you play with?\nFady: I play with my cousin.\nHany: How much ……(3)…… do you spend playing online games?\nFady: I spend around an hour.\nHany: Only an hour? I sometimes play for three hours.\nFady: You shouldn’t spend too much time playing games.\nHany: You’re right."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (2): Do you enjoy playing ……?",
+       "answer": [
+        "online games",
+        "games"
+       ],
+       "passage": "Hany and Fady are talking about online games.\nHany: What are you doing, Fady?\nFady: I’m doing my ……(1)…… . I always do it after school.\nHany: Me, too. After I finish my homework, I usually play online games. Do you enjoy playing ……(2)……?\nFady: Yes, I love them. I always use my smartphone to play games online.\nHany: Who do you play with?\nFady: I play with my cousin.\nHany: How much ……(3)…… do you spend playing online games?\nFady: I spend around an hour.\nHany: Only an hour? I sometimes play for three hours.\nFady: You shouldn’t spend too much time playing games.\nHany: You’re right."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (3): How much …… do you spend playing online games?",
+       "answer": [
+        "time"
+       ],
+       "passage": "Hany and Fady are talking about online games.\nHany: What are you doing, Fady?\nFady: I’m doing my ……(1)…… . I always do it after school.\nHany: Me, too. After I finish my homework, I usually play online games. Do you enjoy playing ……(2)……?\nFady: Yes, I love them. I always use my smartphone to play games online.\nHany: Who do you play with?\nFady: I play with my cousin.\nHany: How much ……(3)…… do you spend playing online games?\nFady: I spend around an hour.\nHany: Only an hour? I sometimes play for three hours.\nFady: You shouldn’t spend too much time playing games.\nHany: You’re right."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "Unit 6: Young Innovators",
+   "pages": "60-71",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Turning Ideas into an Impact"
+    },
+    {
+     "n": 2,
+     "title": "Inspiring Young Inventors"
+    },
+    {
+     "n": 3,
+     "title": "A Man of Impact"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Adventure of the Hidden Island — Chapter 3"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk: If I Were an Inventor"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Turning Ideas into an Impact",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 60-61)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "When engineers create a new app, they first try to ",
+        " any problems that might happen. Some apps are very ",
+        " The way people use an app can have a big ",
+        " on their daily lives. Then they make a new ",
+        " that works better."
+       ],
+       "answers": [
+        "identify",
+        "complex",
+        "impact",
+        "version"
+       ],
+       "bank": [
+        "version",
+        "impact",
+        "identify",
+        "complex",
+        "inventors"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (1): Do you like going shopping? — ……, of course.",
+       "answer": [
+        "yes"
+       ],
+       "passage": "Sara and Heba are talking about shopping.\nSara: Do you like going shopping?\nHeba: ……(1)……, of course.\nSara: Who do you go shopping with?\nHeba: With my sister.\nSara: ……(2)…… do you go shopping?\nHeba: We go shopping once a week.\nSara: ……(3)…… don’t you like about shopping?\nHeba: The only thing I don’t like about shopping is carrying the shopping bags."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (3): …… do you go shopping? — Once a week.",
+       "answer": [
+        "how often"
+       ],
+       "passage": "Sara and Heba are talking about shopping.\nSara: Do you like going shopping?\nHeba: ……(1)……, of course.\nSara: Who do you go shopping with?\nHeba: With my sister.\nSara: ……(2)…… do you go shopping?\nHeba: We go shopping once a week.\nSara: ……(3)…… don’t you like about shopping?\nHeba: The only thing I don’t like about shopping is carrying the shopping bags."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (4): …… don’t you like about shopping?",
+       "answer": [
+        "what"
+       ],
+       "passage": "Sara and Heba are talking about shopping.\nSara: Do you like going shopping?\nHeba: ……(1)……, of course.\nSara: Who do you go shopping with?\nHeba: With my sister.\nSara: ……(2)…… do you go shopping?\nHeba: We go shopping once a week.\nSara: ……(3)…… don’t you like about shopping?\nHeba: The only thing I don’t like about shopping is carrying the shopping bags."
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Inspiring Young Inventors",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 61-62)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "After washing the clothes, she put them in the …… to remove the water.",
+       "answer": [
+        "dryer"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "His room was so …… that it was hard to find all the clothes under the bed.",
+       "answer": [
+        "messy",
+        "untidy"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Be careful! The floor is wet and you might start ……",
+       "answer": [
+        "slipping"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "She used a bottle of water to …… the plants every morning.",
+       "answer": [
+        "water"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The student felt …… before the exam because she had studied hard.",
+       "answer": [
+        "confident"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She would pass the exam if she …… (study) harder.",
+       "answer": [
+        "studied"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "If I …… (can) fly, I would visit every country in the world.",
+       "answer": [
+        "could"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "If you …… (helps) me with homework, I will finish early.",
+       "answer": [
+        "help"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "If we …… (was) in Paris, we would visit the Eiffel Tower.",
+       "answer": [
+        "were"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: A Man of Impact",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 62-63)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "…… engineers use special tools to help patients.",
+       "answer": [
+        "biomedical"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Many young players see Mohamed Salah as their …… because of his success.",
+       "answer": [
+        "role model"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "…… can help people with problems such as movement difficulties.",
+       "answer": [
+        "robots",
+        "technology",
+        "sensors"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "…… can change lives and help those in need.",
+       "answer": [
+        "inventions"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Hany Azer is a famous Egyptian engineer who made a great ",
+        " in the world of ",
+        " engineering. He has a relative who works as ",
+        " engineer. They both used science and technology to help people live a better life. He is a ",
+        " for many students in Egypt and around the world."
+       ],
+       "answers": [
+        "impact",
+        "civil",
+        "biomedical",
+        "role model"
+       ],
+       "bank": [
+        "biomedical",
+        "role model",
+        "civil",
+        "impact",
+        "sensors"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Story Time: The Adventure of the Hidden Island — Chapter 3",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 65)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "The four friends left the island and returned to the village. When they arrived, they shared ",
+        " with others. They believe that ",
+        " is a very valuable skill in a teamwork. Their friendship grew ",
+        " Everyone in the village called them the island ",
+        " They think that ",
+        " makes adventures more fun!"
+       ],
+       "answers": [
+        "stories",
+        "leadership",
+        "stronger",
+        "explorers",
+        "creativity"
+       ],
+       "bank": [
+        "explorers",
+        "stories",
+        "stronger",
+        "creativity",
+        "leadership"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: Let's Talk: If I Were an Inventor",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 66)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Working together to come up with new ideas means ……",
+       "answer": [
+        "brainstorming",
+        "collaboration",
+        "teamwork"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "If you …… feedback, it would help improve your design.",
+       "answer": [
+        "received",
+        "get"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Your invention should have a useful …… on your community.",
+       "answer": [
+        "impact"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "If you didn’t come up with a design, you may miss the ……",
+       "answer": [
+        "chance",
+        "opportunity"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "We participated in a competition for young inventors. Our teacher encouraged us to ",
+        " a creative idea. We agreed on designing an innovative device to solve a real ",
+        " in our community. Our teacher told us that testing a ",
+        " and receiving ",
+        " will help improve our invention. We believe that teamwork and collaboration are very important."
+       ],
+       "answers": [
+        "brainstorm",
+        "problem",
+        "prototype",
+        "feedback"
+       ],
+       "bank": [
+        "feedback",
+        "problem",
+        "brainstorm",
+        "prototype"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waA",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "ص 63-64",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "We have different …… of smartphones in our company.",
+       "answer": [
+        "versions",
+        "types",
+        "models"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Inventions don’t have to be …… . What matters is the impact.",
+       "answer": [
+        "complex",
+        "complicated"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Working hard helps you …… great success.",
+       "answer": [
+        "achieve",
+        "reach"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waB",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "ص 63-64",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Do you have any …… about how to test this tool?",
+       "answer": [
+        "ideas",
+        "idea",
+        "feedback"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "A …… engineer works to make cities safe and organized.",
+       "answer": [
+        "civil"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Many inventors received …… for their achievements.",
+       "answer": [
+        "awards",
+        "prizes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waC",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "ص 63-64",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Learning a new language is a slow …… that takes time and practice.",
+       "answer": [
+        "process"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "His bedroom was so …… that he couldn’t find his shoes.",
+       "answer": [
+        "messy",
+        "untidy"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Biomedical engineers use tools like …… to help patients.",
+       "answer": [
+        "sensors"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Model Exam on Unit 6",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 68-71)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Hany Azer has a great impact in the world of …… engineering.",
+       "answer": [
+        "civil"
+       ],
+       "passage": "Hany Azer is a famous Egyptian engineer who made a great impact in the world of civil engineering. He was born in Tanta, Egypt, and later moved to Germany. He worked as the chief engineer for the Berlin Main Station, one of the largest train stations in Europe. Hany Azer has a relative who works as a biomedical engineer. Together, they believe in using science and technology to help people live better lives."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Hany Azer was born in Tanta, but later moved to ……",
+       "answer": [
+        "germany"
+       ],
+       "passage": "Hany Azer is a famous Egyptian engineer who made a great impact in the world of civil engineering. He was born in Tanta, Egypt, and later moved to Germany. He worked as the chief engineer for the Berlin Main Station, one of the largest train stations in Europe. Hany Azer has a relative who works as a biomedical engineer. Together, they believe in using science and technology to help people live better lives."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What did Hany Azer work as in Germany?",
+       "answer": [
+        "the chief engineer for the berlin main station",
+        "chief engineer for the berlin main station",
+        "chief engineer"
+       ],
+       "passage": "Hany Azer is a famous Egyptian engineer who made a great impact in the world of civil engineering. He was born in Tanta, Egypt, and later moved to Germany. He worked as the chief engineer for the Berlin Main Station, one of the largest train stations in Europe. Hany Azer has a relative who works as a biomedical engineer. Together, they believe in using science and technology to help people live better lives."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What job does Hany’s relative do?",
+       "answer": [
+        "biomedical engineer",
+        "a biomedical engineer",
+        "he works as a biomedical engineer"
+       ],
+       "passage": "Hany Azer is a famous Egyptian engineer who made a great impact in the world of civil engineering. He was born in Tanta, Egypt, and later moved to Germany. He worked as the chief engineer for the Berlin Main Station, one of the largest train stations in Europe. Hany Azer has a relative who works as a biomedical engineer. Together, they believe in using science and technology to help people live better lives."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What do Hany Azer and his relative believe about science and technology?",
+       "answer": [
+        "they believe in using science and technology to help people live better lives",
+        "using science and technology to help people live better lives"
+       ],
+       "passage": "Hany Azer is a famous Egyptian engineer who made a great impact in the world of civil engineering. He was born in Tanta, Egypt, and later moved to Germany. He worked as the chief engineer for the Berlin Main Station, one of the largest train stations in Europe. Hany Azer has a relative who works as a biomedical engineer. Together, they believe in using science and technology to help people live better lives."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Dr Zewail inspired a lot of scientists and ……",
+       "answer": [
+        "inventors"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Last year, a student created a …… device which made a big impact on her town.",
+       "answer": [
+        "smart",
+        "innovative",
+        "new"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Many inventions started with a simple ……",
+       "options": [
+        "thought",
+        "thinking",
+        "thinker",
+        "think"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Great scientists always come up …… great ideas.",
+       "options": [
+        "into",
+        "about",
+        "with",
+        "on"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Ahmed Idris was a brave Nubian soldier in the Egyptian ",
+        " He served in the Border Guard during the 1970s. In 1973, before the October War, he suggested using the Nubian language as a secret code for the army. His idea was very ",
+        " because the Nubian language was not written and was only known by Nubian people. The ",
+        " could not understand it. Thanks to his idea, the Egyptian army sent messages safely and ",
+        ""
+       ],
+       "answers": [
+        "army",
+        "smart",
+        "enemy",
+        "secretly"
+       ],
+       "bank": [
+        "enemy",
+        "secretly",
+        "army",
+        "smart",
+        "friends"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The underlined word “mine” refers to ……",
+       "answer": [
+        "my family",
+        "the writer’s family",
+        "the writer's family"
+       ],
+       "passage": "I visit my friend Ali about twice a month. He lives in a village twenty kilometers from me. We don’t attend the same local school, but we go to the same summer program each year. We met at a summer day camp about three years ago and became loyal friends. Ali comes from an entirely different background. He has a large family, I have a small one. His family follows many countryside traditions, mine follows city habits. He is poor, we are what many people would call comfortable. At my home we stayed at the home yard. But, I remember the first time I went to Ali’s house, we pulled out a couple of old bikes and begin to ride through the countryside."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Why don’t Ali and the writer attend the same school?",
+       "answer": [
+        "because ali lives in a village twenty kilometers away",
+        "because he lives in a village twenty kilometers away",
+        "ali lives in a village twenty kilometers from him"
+       ],
+       "passage": "I visit my friend Ali about twice a month. He lives in a village twenty kilometers from me. We don’t attend the same local school, but we go to the same summer program each year. We met at a summer day camp about three years ago and became loyal friends. Ali comes from an entirely different background. He has a large family, I have a small one. His family follows many countryside traditions, mine follows city habits. He is poor, we are what many people would call comfortable. At my home we stayed at the home yard. But, I remember the first time I went to Ali’s house, we pulled out a couple of old bikes and begin to ride through the countryside."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Is the writer’s family a wealthy family?",
+       "answer": [
+        "no",
+        "no, it is not",
+        "no, it's not"
+       ],
+       "passage": "I visit my friend Ali about twice a month. He lives in a village twenty kilometers from me. We don’t attend the same local school, but we go to the same summer program each year. We met at a summer day camp about three years ago and became loyal friends. Ali comes from an entirely different background. He has a large family, I have a small one. His family follows many countryside traditions, mine follows city habits. He is poor, we are what many people would call comfortable. At my home we stayed at the home yard. But, I remember the first time I went to Ali’s house, we pulled out a couple of old bikes and begin to ride through the countryside."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The two bikes were ……",
+       "options": [
+        "new",
+        "modern",
+        "out-of-date",
+        "up-to-date"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "tf",
+       "q": "As the sun set, the children gathered to leave the island, agreeing that their friendship grew stronger.",
+       "answer": true
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What important lesson did the friends share?",
+       "answer": [
+        "teamwork and collaboration are very important",
+        "the importance of teamwork and collaboration",
+        "teamwork",
+        "the value of being different"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: I don’t have much money, so I can’t buy a new laptop. (If)",
+       "answer": [
+        "if i had much money, i could buy a new laptop",
+        "if i had more money, i would buy a new laptop",
+        "if i had much money, i would buy a new laptop"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Come early, or you will be punished. (If)",
+       "answer": [
+        "if you don't come early, you will be punished",
+        "if you do not come early, you will be punished"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: We must respect different cultures. (If I were)",
+       "answer": [
+        "if i were you, i would respect different cultures",
+        "if i were you i would respect different cultures"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: It may rain tomorrow, so I will stay home. (If)",
+       "answer": [
+        "if it rains tomorrow, i will stay home"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (1): Is it ……? — Yes, I bought it yesterday.",
+       "answer": [
+        "new"
+       ],
+       "passage": "Ahmed: What a fantastic jacket you are wearing! Is it ……(1)……?\nEmad: Yes, I bought it yesterday.\nAhmed: ……(2)…… did you buy it?\nEmad: I bought it at City Stars.\nAhmed: How ……(3)…… is it?\nEmad: It is for 900 pounds.\nAhmed: Can you come with me to buy one?\nEmad: ……(4)……, of course."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (2): …… did you buy it?",
+       "answer": [
+        "where"
+       ],
+       "passage": "Ahmed: What a fantastic jacket you are wearing! Is it ……(1)……?\nEmad: Yes, I bought it yesterday.\nAhmed: ……(2)…… did you buy it?\nEmad: I bought it at City Stars.\nAhmed: How ……(3)…… is it?\nEmad: It is for 900 pounds.\nAhmed: Can you come with me to buy one?\nEmad: ……(4)……, of course."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (3): How …… is it? — 900 pounds.",
+       "answer": [
+        "much"
+       ],
+       "passage": "Ahmed: What a fantastic jacket you are wearing! Is it ……(1)……?\nEmad: Yes, I bought it yesterday.\nAhmed: ……(2)…… did you buy it?\nEmad: I bought it at City Stars.\nAhmed: How ……(3)…… is it?\nEmad: It is for 900 pounds.\nAhmed: Can you come with me to buy one?\nEmad: ……(4)……, of course."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (4): ……, of course.",
+       "answer": [
+        "yes",
+        "sure"
+       ],
+       "passage": "Ahmed: What a fantastic jacket you are wearing! Is it ……(1)……?\nEmad: Yes, I bought it yesterday.\nAhmed: ……(2)…… did you buy it?\nEmad: I bought it at City Stars.\nAhmed: How ……(3)…… is it?\nEmad: It is for 900 pounds.\nAhmed: Can you come with me to buy one?\nEmad: ……(4)……, of course."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "final",
+   "title": "التقييم النهائي",
+   "pages": "",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "التقييم النهائي",
+     "sub": "من كتاب التقييمات (ص ) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What did Malak invent?",
+       "answer": [
+        "a machine that cleans shoes",
+        "a shoe cleaning machine",
+        "a shoe-cleaning machine"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "To …… is to keep different things in equal and correct amounts.",
+       "answer": [
+        "balance"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Everything you do online leaves a ……, like a footprint.",
+       "answer": [
+        "trace"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "The main idea or feeling that an artist tries to share in their work is the ……",
+       "answer": [
+        "message"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "Something that is so special and you will never forget is called ……",
+       "answer": [
+        "unforgettable",
+        "memorable"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Facing challenges helps us grow stronger and more confident. When we ",
+        " with problems, we learn new skills. Each ",
+        " also teaches us something useful about ourselves and the world. Even when it feels hard, not ",
+        " up makes us braver. In the end, facing challenges makes us ",
+        " for the future."
+       ],
+       "answers": [
+        "deal",
+        "challenge",
+        "giving",
+        "prepare"
+       ],
+       "bank": [
+        "giving",
+        "deal",
+        "near",
+        "prepare",
+        "challenge"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The underlined phrase “took place” means ……",
+       "options": [
+        "in the place",
+        "rescued",
+        "happened",
+        "injured"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "It took only …… for the police rescue service to arrive.",
+       "options": [
+        "two hours",
+        "30 minutes",
+        "an hour",
+        "15 minutes"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "How did the accident happen?",
+       "answer": [
+        "he was blown off by a very strong wind and fell into the sea",
+        "a very strong wind blew him off the cliff and he fell into the sea",
+        "he was blown off the cliff by a strong wind and fell into the sea"
+       ],
+       "passage": "A 28-year-old man was rescued by helicopter yesterday in Dover after he fell into the sea near his holiday house. The accident took place while the man, Jack Peterson, was walking along a cliff. He was blown off by a very strong wind and fell into the sea. Luckily, a woman was watching the accident and soon she called the police rescue service. The man had struggled with the waves for about half an hour before the rescue service helicopter arrived. Again the man was lucky enough because when he was taken to hospital, doctors said he just had a broken arm. Now Mr. Peterson is in good health. “My life was saved by the woman who called the police, I can’t thank her enough,” said the man."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "What was the man’s injury when he reached the hospital?",
+       "answer": [
+        "a broken arm",
+        "he had a broken arm",
+        "broken arm"
+       ],
+       "passage": "A 28-year-old man was rescued by helicopter yesterday in Dover after he fell into the sea near his holiday house. The accident took place while the man, Jack Peterson, was walking along a cliff. He was blown off by a very strong wind and fell into the sea. Luckily, a woman was watching the accident and soon she called the police rescue service. The man had struggled with the waves for about half an hour before the rescue service helicopter arrived. Again the man was lucky enough because when he was taken to hospital, doctors said he just had a broken arm. Now Mr. Peterson is in good health. “My life was saved by the woman who called the police, I can’t thank her enough,” said the man."
+      },
+      {
+       "type": "tf",
+       "q": "When Amal felt frustrated, Yara showed anger.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "Amal made sure she never copied others’ work without permission.",
+       "answer": true
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: He has booked a ticket to travel to Alex next week. (travelling)",
+       "answer": [
+        "he is travelling to alex next week",
+        "he is traveling to alex next week"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: It was raining, but we played football. (Although)",
+       "answer": [
+        "although it was raining, we played football"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: Hany’s work is less impressive than Ali’s. (more)",
+       "answer": [
+        "ali’s work is more impressive than hany’s",
+        "ali's work is more impressive than hany's"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "أعد كتابة الجملة باستخدام الكلمة بين القوسين: We should keep our country clean. (be)",
+       "answer": [
+        "our country should be kept clean"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (1): …… you.",
+       "answer": [
+        "nice to meet",
+        "to meet"
+       ],
+       "passage": "Nabil is meeting a British tourist who is visiting Egypt.\nNabil: Hello, it’s nice to meet you.\nTourist: ……(1)…… you.\nNabil: ……(2)…… are you from?\nTourist: I’m from Britain.\nNabil: Is this your first visit to Egypt?\nTourist: ……(3)…… . I came here last year.\nNabil: What ……(4)…… did you visit in Egypt?\nTourist: I visited the Grand Egyptian Museum and the Pyramids."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (2): …… are you from?",
+       "answer": [
+        "where"
+       ],
+       "passage": "Nabil is meeting a British tourist who is visiting Egypt.\nNabil: Hello, it’s nice to meet you.\nTourist: ……(1)…… you.\nNabil: ……(2)…… are you from?\nTourist: I’m from Britain.\nNabil: Is this your first visit to Egypt?\nTourist: ……(3)…… . I came here last year.\nNabil: What ……(4)…… did you visit in Egypt?\nTourist: I visited the Grand Egyptian Museum and the Pyramids."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (3): Is this your first visit? — …… . I came here last year.",
+       "answer": [
+        "no"
+       ],
+       "passage": "Nabil is meeting a British tourist who is visiting Egypt.\nNabil: Hello, it’s nice to meet you.\nTourist: ……(1)…… you.\nNabil: ……(2)…… are you from?\nTourist: I’m from Britain.\nNabil: Is this your first visit to Egypt?\nTourist: ……(3)…… . I came here last year.\nNabil: What ……(4)…… did you visit in Egypt?\nTourist: I visited the Grand Egyptian Museum and the Pyramids."
+      },
+      {
+       "type": "typein",
+       "label": "typein",
+       "q": "كمّل الفجوة (4): What …… did you visit in Egypt?",
+       "answer": [
+        "places"
+       ],
+       "passage": "Nabil is meeting a British tourist who is visiting Egypt.\nNabil: Hello, it’s nice to meet you.\nTourist: ……(1)…… you.\nNabil: ……(2)…… are you from?\nTourist: I’m from Britain.\nNabil: Is this your first visit to Egypt?\nTourist: ……(3)…… . I came here last year.\nNabil: What ……(4)…… did you visit in Egypt?\nTourist: I visited the Grand Egyptian Museum and the Pyramids."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
