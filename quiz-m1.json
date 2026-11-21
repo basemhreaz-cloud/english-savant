@@ -1,0 +1,121 @@
+{
+ "grade": "m1",
+ "gradeName": "الصف الأول الإعدادي",
+ "examTitle": "Test on Units 1 · 2 · 3",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Our class ______ a break at 10:30 am.",
+   "options": [
+    "takes",
+    "take",
+    "taking",
+    "a & b"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mcq",
+   "q": "The parrot has very ______ feathers. It's wonderful!",
+   "options": [
+    "coloured",
+    "colourful",
+    "colour",
+    "colourfully"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "mcq",
+   "q": "My teacher has ______ hair – it's grey!",
+   "options": [
+    "coloured",
+    "colourful",
+    "colour",
+    "colourfully"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mcq",
+   "q": "Miss Aya helped the students ______ the difficult question.",
+   "options": [
+    "answer",
+    "to answer",
+    "answers",
+    "a & b"
+   ],
+   "answer": 3
+  },
+  {
+   "type": "cloze",
+   "bank": [
+    "projects",
+    "plants",
+    "per",
+    "class",
+    "decorations",
+    "for"
+   ],
+   "segments": [
+    "At school, we sometimes use the smartboard in our science class. Our teacher shows us amazing videos about ",
+    " and animals. I love watching them! We also use computers in our computer ",
+    " twice a week. I'm learning to type faster - I can type 25 words ",
+    " minute now! After school, I always do my homework first. I usually search for information on my laptop when I need help with my ",
+    ". My favorite website has lots of useful information for students."
+   ],
+   "answers": [
+    "plants",
+    "class",
+    "per",
+    "projects"
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Working in groups helps students build ______.",
+   "options": [
+    "mistakes",
+    "furniture",
+    "silence",
+    "confidence"
+   ],
+   "answer": 3,
+   "passage": "Last week our teacher asked us to work in groups. At first, I wasn't sure how it would go, but it turned out great! We shared ideas, helped each other, and finished our project faster. Learning together taught me the value of teamwork and cooperation. When one of us didn't understand something, someone else explained it clearly. It felt good to give and receive help. We also became more confident. Group work helped us think of creative ways to solve problems and learn new skills."
+  },
+  {
+   "type": "mcq",
+   "q": "The students learned how to ______ with others and understand them.",
+   "options": [
+    "communicate",
+    "forget",
+    "paint",
+    "hide"
+   ],
+   "answer": 0,
+   "passage": "Last week our teacher asked us to work in groups. At first, I wasn't sure how it would go, but it turned out great! We shared ideas, helped each other, and finished our project faster. Learning together taught me the value of teamwork and cooperation. When one of us didn't understand something, someone else explained it clearly. It felt good to give and receive help. We also became more confident. Group work helped us think of creative ways to solve problems and learn new skills."
+  },
+  {
+   "type": "cloze",
+   "bank": [
+    "What",
+    "won",
+    "studied",
+    "Where"
+   ],
+   "segments": [
+    "Mahmoud: Who is your favorite scientist?\nDima: I admire Dr. Ahmed Zewail.\nMahmoud: ",
+    " did he win?\nDima: He ",
+    " the Nobel Prize.\nMahmoud: What did he study?\nDima: He ",
+    " physics and chemistry.\nMahmoud: ",
+    " did he study?\nDima: At Alexandria University and then in the USA."
+   ],
+   "answers": [
+    "What",
+    "won",
+    "studied",
+    "Where"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "grade": "m2",
+ "gradeName": "الصف التاني الإعدادي",
+ "examTitle": "Units 1 · 2 · 3",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "A group of people born around the same time are called ______.",
+   "options": [
+    "generation",
+    "preparation",
+    "connection",
+    "presentation"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mcq",
+   "q": "He felt ______ when he got low marks in his exams.",
+   "options": [
+    "pleased",
+    "happy",
+    "brave",
+    "disappointed"
+   ],
+   "answer": 3
+  },
+  {
+   "type": "mcq",
+   "q": "The words \"blocked\" and \"open\" are ______.",
+   "options": [
+    "antonyms",
+    "synonyms",
+    "meanings",
+    "the same"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mcq",
+   "q": "The prefix ______ gives the opposite of the word \"afraid\".",
+   "options": [
+    "in-",
+    "un-",
+    "il-",
+    "dis-"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "cloze",
+   "bank": [
+    "admired",
+    "proudly",
+    "determination",
+    "yourself",
+    "herself"
+   ],
+   "segments": [
+    "All the children displayed their work on the day of the fair. Amal stood ",
+    " with her robot. When she presented it, the robot spoke: \"Be ",
+    "! Never give up!\". The children ",
+    " Amal's hard work and creativity. The teacher said, \"Amal, you showed ",
+    " and honesty, you stayed true to who you are.\""
+   ],
+   "answers": [
+    "proudly",
+    "yourself",
+    "admired",
+    "determination"
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "The Nile helps farmers because it gives them ______.",
+   "options": [
+    "gold",
+    "water",
+    "cars",
+    "books"
+   ],
+   "answer": 1,
+   "passage": "The Nile River is one of the longest rivers in the world. It flows through many countries in Africa, including Egypt. The river has been very important for people since ancient times. Farmers use its water to grow crops like wheat, rice, and vegetables. The Nile also gives water for drinking and helps produce electricity through dams. Boats travel on the river to move people and goods from place to place. Many visitors come to see the Nile because it is a famous part of history. Without the Nile, life in Egypt would be much harder."
+  },
+  {
+   "type": "mcq",
+   "q": "Without the Nile, life in Egypt would be ______.",
+   "options": [
+    "harder",
+    "easier",
+    "the same",
+    "perfect"
+   ],
+   "answer": 0,
+   "passage": "The Nile River is one of the longest rivers in the world. It flows through many countries in Africa, including Egypt. The river has been very important for people since ancient times. Farmers use its water to grow crops like wheat, rice, and vegetables. The Nile also gives water for drinking and helps produce electricity through dams. Boats travel on the river to move people and goods from place to place. Many visitors come to see the Nile because it is a famous part of history. Without the Nile, life in Egypt would be much harder."
+  },
+  {
+   "type": "cloze",
+   "bank": [
+    "share",
+    "Anything",
+    "Yes",
+    "nice"
+   ],
+   "segments": [
+    "Layla: I just made a new social media account! What should I do first?\nSami: First of all, don't ",
+    " your name or birthday.\nLayla: Okay. ",
+    " else?\nSami: You shouldn't post your personal address or your school name. That's private.\nLayla: Can I post pictures with my friends?\nSami: ",
+    ", but you should ask for their permission first.\nLayla: I see. This is ",
+    ". Thank you.\nSami: You are welcome."
+   ],
+   "answers": [
+    "share",
+    "Anything",
+    "Yes",
+    "nice"
+   ]
+  }
+ ]
+}

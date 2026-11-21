@@ -1,0 +1,139 @@
+{
+ "grade": "m3",
+ "gradeName": "الصف التالت الإعدادي",
+ "examTitle": "Test on Units 1 · 2 · 3",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "When I spoke in public, it helped me build ______ in my abilities.",
+   "options": [
+    "confidence",
+    "confident",
+    "confidently",
+    "confide"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mcq",
+   "q": "I haven't seen the movie and my brother hasn't ______.",
+   "options": [
+    "too",
+    "either",
+    "also",
+    "else"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "mcq",
+   "q": "The school was closed today ______ the heavy snow.",
+   "options": [
+    "because",
+    "due to",
+    "instead of",
+    "stop from"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "mcq",
+   "q": "When I saw him I recognized him ______.",
+   "options": [
+    "at once",
+    "on once",
+    "for once",
+    "to once"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "cloze",
+   "bank": [
+    "distraction",
+    "delighted",
+    "frustrated",
+    "discipline",
+    "challenge"
+   ],
+   "segments": [
+    "Learning to play the guitar is a ",
+    ". I feel ",
+    " when I make mistakes. But I have discipline. I practice for 30 minutes every day. My determination helps me not give up. I remove every ",
+    ", like my phone. After two months, I can play a simple song. The challenge is fun now. I always use ",
+    " and determination."
+   ],
+   "answers": [
+    "challenge",
+    "frustrated",
+    "distraction",
+    "discipline"
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "The best title for the passage is \"______\".",
+   "options": [
+    "Greater Cairo",
+    "Nile Delta",
+    "El Qalyubiya governorate",
+    "Egypt"
+   ],
+   "answer": 2,
+   "passage": "El Qalyubiya is a governorate in the north of Egypt and a part of Greater Cairo. It is a land of a great history that goes back to the ancient Egyptian times since Banha was one of the major cities at that time. El Qalyubiya Governorate covers about 100.09 km². Banha is the capital of El Qalyubiya Governorate in north-eastern Egypt. It's about 40 km from Cairo. It was founded as a city in 1850. Banha is an important transport hub, as rail lines from Cairo to various cities in the Nile Delta pass through it. El Qalyubiya has various means of transportation such as Metro, train and bus. Qalyubiya is known for its agricultural production of crops, fruits and vegetables. It is also the leading Egyptian governorate in the production of poultry breeding farms and eggs. The government provides the inhabitants with all important services: means of transportation, health care services and education."
+  },
+  {
+   "type": "mcq",
+   "q": "The underlined pronoun \"it\" refers to ______.",
+   "options": [
+    "Tanta",
+    "Banha",
+    "Cairo",
+    "Nile Delta"
+   ],
+   "answer": 1,
+   "passage": "Banha is the capital of El Qalyubiya Governorate in north-eastern Egypt. It's about 40 km from Cairo. It was founded as a city in 1850. Banha is an important transport hub, as rail lines from Cairo to various cities in the Nile Delta pass through it."
+  },
+  {
+   "type": "mcq",
+   "q": "Banha has been founded as a city for ______ years.",
+   "options": [
+    "40",
+    "85",
+    "100",
+    "176"
+   ],
+   "answer": 3,
+   "passage": "Banha was founded as a city in 1850."
+  },
+  {
+   "type": "typein",
+   "q": "They ______ (not / get) lost if they had used a map.",
+   "answer": [
+    "wouldn't have got",
+    "would not have got",
+    "wouldn't have gotten",
+    "would not have gotten"
+   ],
+   "label": "form"
+  },
+  {
+   "type": "typein",
+   "q": "My sister is studying medicine. She ______ (go) a doctor.",
+   "answer": [
+    "is going to be",
+    "will be"
+   ],
+   "label": "form"
+  },
+  {
+   "type": "typein",
+   "q": "He is not hungry now because he ______ (eat) a big lunch.",
+   "answer": [
+    "has eaten",
+    "'s eaten"
+   ],
+   "label": "form"
+  }
+ ]
+}

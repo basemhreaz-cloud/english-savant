@@ -1,0 +1,123 @@
+{
+ "grade": "p2",
+ "gradeName": "الصف التاني الابتدائي",
+ "examTitle": "First Term · Unit 3",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "I ______ my name.",
+   "options": [
+    "clap",
+    "write"
+   ],
+   "answer": 1,
+   "label": "choose"
+  },
+  {
+   "type": "mcq",
+   "q": "I ______ a picture.",
+   "options": [
+    "draw",
+    "draws"
+   ],
+   "answer": 0,
+   "label": "choose"
+  },
+  {
+   "type": "mcq",
+   "label": "sound",
+   "q": "b _ k _",
+   "options": [
+    "bike",
+    "book",
+    "bake"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mcq",
+   "label": "sound",
+   "q": "k _ _ e",
+   "options": [
+    "kite",
+    "kind",
+    "knee"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mcq",
+   "label": "sound",
+   "q": "f i _ _",
+   "options": [
+    "fish",
+    "five",
+    "film"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "reorder",
+   "words": [
+    "my",
+    "I",
+    "hand",
+    "raise",
+    "."
+   ],
+   "answer": [
+    "I",
+    "raise",
+    "my",
+    "hand",
+    "."
+   ]
+  },
+  {
+   "type": "reorder",
+   "words": [
+    "my",
+    "I",
+    "desk",
+    "clean",
+    "."
+   ],
+   "answer": [
+    "I",
+    "clean",
+    "my",
+    "desk",
+    "."
+   ]
+  },
+  {
+   "type": "unscramble",
+   "letters": "o r c l u o",
+   "answer": [
+    "colour"
+   ]
+  },
+  {
+   "type": "unscramble",
+   "letters": "a e r d",
+   "answer": [
+    "read",
+    "dear"
+   ]
+  },
+  {
+   "type": "unscramble",
+   "letters": "a e c n l",
+   "answer": [
+    "clean"
+   ]
+  },
+  {
+   "type": "unscramble",
+   "letters": "n l i e",
+   "answer": [
+    "line"
+   ]
+  }
+ ]
+}

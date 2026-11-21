@@ -1,0 +1,152 @@
+{
+ "grade": "p4",
+ "gradeName": "الصف الرابع الابتدائي",
+ "examTitle": "Units 1 · 2 · 3",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "He ______ to be happy, but he wasn't.",
+   "options": [
+    "called",
+    "pretended",
+    "hunted",
+    "caught"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "mcq",
+   "q": "I like to ______ old people cross the road.",
+   "options": [
+    "send",
+    "help",
+    "volunteer",
+    "collect"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "mcq",
+   "q": "Many ______ in the wild are endangered because of pollution.",
+   "options": [
+    "people",
+    "buildings",
+    "species",
+    "houses"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "mcq",
+   "q": "There's a loud noise. I can ______ it.",
+   "options": [
+    "taste",
+    "see",
+    "smell",
+    "hear"
+   ],
+   "answer": 3
+  },
+  {
+   "type": "mcq",
+   "q": "The ______ is black and white.",
+   "options": [
+    "monkey",
+    "zebra",
+    "bear",
+    "lion"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "mcq",
+   "q": "To \"______\" means to put yourself on a surface, like the ground or a bed.",
+   "options": [
+    "take care",
+    "slow down",
+    "lie down",
+    "pretend"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "cloze",
+   "bank": [
+    "striped",
+    "trunk",
+    "runs",
+    "fur",
+    "jumps"
+   ],
+   "segments": [
+    "Here are some facts about animals. The bear has thick ",
+    " and sharp claws. It catches fish. The zebra has a ",
+    " coat. It ",
+    " in groups. The elephant is big and gray. It uses its ",
+    " to spray water on its body."
+   ],
+   "answers": [
+    "fur",
+    "striped",
+    "runs",
+    "trunk"
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "The underlined word \"well\" means in a/an ______ way.",
+   "options": [
+    "good",
+    "difficult",
+    "easy",
+    "bad"
+   ],
+   "answer": 0,
+   "passage": "My birthday was last month. My uncle brought me a dog. He told me that animals need our help to stay healthy and safe. Also, each animal needs special care to live well. I was so excited to have a dog as a pet. I searched online about keeping pets at home. I found that they need daily care. So, I decided to take care of my dog and often take it to the vet."
+  },
+  {
+   "type": "mcq",
+   "q": "All pets need regular visits to the ______.",
+   "options": [
+    "doctor",
+    "engineer",
+    "teacher",
+    "vet"
+   ],
+   "answer": 3,
+   "passage": "My birthday was last month. My uncle brought me a dog. He told me that animals need our help to stay healthy and safe. Also, each animal needs special care to live well. I was so excited to have a dog as a pet. I searched online about keeping pets at home. I found that they need daily care. So, I decided to take care of my dog and often take it to the vet."
+  },
+  {
+   "type": "typein",
+   "q": "Her idea was good but ______ (relevant). She had to try again.",
+   "answer": [
+    "irrelevant"
+   ],
+   "label": "form"
+  },
+  {
+   "type": "typein",
+   "q": "She always ______ (volunteering) to help her neighbors.",
+   "answer": [
+    "volunteers"
+   ],
+   "label": "form"
+  },
+  {
+   "type": "typein",
+   "q": "______ (Do) Faten feed the cats?",
+   "answer": [
+    "Does"
+   ],
+   "label": "form"
+  },
+  {
+   "type": "typein",
+   "q": "She ______ (cycle) to school every morning.",
+   "answer": [
+    "cycles"
+   ],
+   "label": "form"
+  }
+ ]
+}

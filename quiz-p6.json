@@ -1,0 +1,146 @@
+{
+ "grade": "p6",
+ "gradeName": "الصف السادس الابتدائي",
+ "examTitle": "Units 1 · 2 · 3",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "A hero is someone who ______ great things.",
+   "options": [
+    "does",
+    "has",
+    "eats",
+    "makes"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mcq",
+   "q": "The Nile is very important ______ Egyptian people.",
+   "options": [
+    "for",
+    "at",
+    "on",
+    "from"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mcq",
+   "q": "Today, many people still depend ______ the Nile for their jobs and food.",
+   "options": [
+    "on",
+    "at",
+    "in",
+    "of"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mcq",
+   "q": "A discovery is something that you ______.",
+   "options": [
+    "lose",
+    "forget",
+    "find out",
+    "sell"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "cloze",
+   "bank": [
+    "breakfast",
+    "dinner",
+    "science",
+    "studies",
+    "classmates",
+    "fun",
+    "games"
+   ],
+   "segments": [
+    "My name is Yasser. I go to school in Egypt. I wake up early and eat my ",
+    " before I get dressed. At school, we learn many subjects like Arabic, English, and ",
+    ". During the break, I play with my ",
+    " and sometimes we go to the playground. I like my school because I learn new things and have ",
+    "."
+   ],
+   "answers": [
+    "breakfast",
+    "science",
+    "classmates",
+    "fun"
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "The text is about ______ in our community.",
+   "options": [
+    "homes",
+    "jobs",
+    "cars",
+    "resources"
+   ],
+   "answer": 1,
+   "passage": "Each worker does their best to help our community. Water resources engineers make sure we get clean water in our homes, schools, and other places. Paramedics do an important job. They work hard to help people in emergencies and save lives. Traffic officers help people cross the road and control cars. Without them, traffic would be noisy and dangerous. Street cleaners clean the streets and help keep the city beautiful. Mechanics fix cars and buses to help us move from one place to another. I think all jobs are important."
+  },
+  {
+   "type": "mcq",
+   "q": "______ work hard to help people in emergencies and save lives.",
+   "options": [
+    "Paramedics",
+    "Street cleaners",
+    "Traffic officers",
+    "Mechanics"
+   ],
+   "answer": 0,
+   "passage": "Each worker does their best to help our community. Water resources engineers make sure we get clean water in our homes, schools, and other places. Paramedics do an important job. They work hard to help people in emergencies and save lives. Traffic officers help people cross the road and control cars. Without them, traffic would be noisy and dangerous. Street cleaners clean the streets and help keep the city beautiful. Mechanics fix cars and buses to help us move from one place to another. I think all jobs are important."
+  },
+  {
+   "type": "typein",
+   "q": "They always ______ (tidies) the kitchen for their mum.",
+   "answer": [
+    "tidy"
+   ],
+   "label": "form"
+  },
+  {
+   "type": "reorder",
+   "words": [
+    "river",
+    "flooded",
+    "The",
+    "soil.",
+    "and brought",
+    "good"
+   ],
+   "answer": [
+    "The",
+    "river",
+    "flooded",
+    "and brought",
+    "good",
+    "soil."
+   ]
+  },
+  {
+   "type": "reorder",
+   "words": [
+    "the signs",
+    "Can",
+    "to",
+    "we",
+    "drivers?",
+    "give"
+   ],
+   "answer": [
+    "Can",
+    "we",
+    "give",
+    "the signs",
+    "to",
+    "drivers?"
+   ]
+  }
+ ]
+}

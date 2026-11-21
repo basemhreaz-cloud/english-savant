@@ -1,0 +1,118 @@
+{
+ "grade": "p1",
+ "gradeName": "الصف الأول الابتدائي",
+ "examTitle": "Unit Two · The Garden of Colors and Shapes",
+ "questions": [
+  {
+   "type": "mcq",
+   "label": "sound",
+   "q": "_ nake",
+   "options": [
+    "s",
+    "b",
+    "t"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mcq",
+   "label": "sound",
+   "q": "_ poon",
+   "options": [
+    "s",
+    "p",
+    "m"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mcq",
+   "label": "sound",
+   "q": "_ rrow",
+   "options": [
+    "a",
+    "o",
+    "e"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mcq",
+   "label": "sound",
+   "q": "_ nt",
+   "options": [
+    "a",
+    "e",
+    "o"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "unscramble",
+   "letters": "e e t r",
+   "answer": [
+    "tree"
+   ]
+  },
+  {
+   "type": "unscramble",
+   "letters": "e e g r n",
+   "answer": [
+    "green"
+   ]
+  },
+  {
+   "type": "unscramble",
+   "letters": "a r g s s",
+   "answer": [
+    "grass"
+   ]
+  },
+  {
+   "type": "unscramble",
+   "letters": "r u s q a e",
+   "answer": [
+    "square"
+   ]
+  },
+  {
+   "type": "tf",
+   "q": "The sky is blue.",
+   "answer": true
+  },
+  {
+   "type": "reorder",
+   "words": [
+    "it",
+    "What",
+    "color",
+    "is",
+    "?"
+   ],
+   "answer": [
+    "What",
+    "color",
+    "is",
+    "it",
+    "?"
+   ]
+  },
+  {
+   "type": "reorder",
+   "words": [
+    "an",
+    "axe",
+    "This",
+    "is",
+    "."
+   ],
+   "answer": [
+    "This",
+    "is",
+    "an",
+    "axe",
+    "."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "grade": "p5",
+ "gradeName": "الصف الخامس الابتدائي",
+ "examTitle": "Units 1 · 2 · 3",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "The Nile River flooded every year, bringing ______ soil to the land.",
+   "options": [
+    "Poor",
+    "Dry",
+    "Hot",
+    "Rich"
+   ],
+   "answer": 3
+  },
+  {
+   "type": "mcq",
+   "q": "Animals in the desert help nature stay in ______.",
+   "options": [
+    "Balance",
+    "Important",
+    "Energy",
+    "Hard"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mcq",
+   "q": "______ are healthcare workers who respond quickly in emergencies.",
+   "options": [
+    "Teacher",
+    "Engineer",
+    "Paramedics",
+    "Farmers"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "cloze",
+   "bank": [
+    "plants",
+    "water",
+    "floods",
+    "lizards"
+   ],
+   "segments": [
+    "Many strong and smart animals live in the desert. Desert foxes hunt at night. They eat animals like ",
+    ". Camels live in the desert too. They eat ",
+    ". Camels can go a long time without ",
+    ". Snakes eat rats. They never eat plants."
+   ],
+   "answers": [
+    "lizards",
+    "plants",
+    "water"
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Football makes our heart and ______ strong.",
+   "options": [
+    "ears",
+    "Fingers",
+    "Muscles",
+    "Hair"
+   ],
+   "answer": 2,
+   "passage": "There is a new TV program about the importance of sports. It explains that sports help us stay healthy and give us more energy. There are many sports we can do. For example, football makes our heart and muscles strong. Swimming helps the whole body and the lungs. Sports also help us look fit and make our bones stronger. A simple exercise can reduce stress and improve sleep. This supports mental health. If you feel tired during exercising, you can rest for a while and drink water."
+  },
+  {
+   "type": "mcq",
+   "q": "The underlined words \"mental health\" means how you ______ and think.",
+   "options": [
+    "Play",
+    "Feel",
+    "Sleep",
+    "Study"
+   ],
+   "answer": 1,
+   "passage": "There is a new TV program about the importance of sports. It explains that sports help us stay healthy and give us more energy. There are many sports we can do. For example, football makes our heart and muscles strong. Swimming helps the whole body and the lungs. Sports also help us look fit and make our bones stronger. A simple exercise can reduce stress and improve sleep. This supports mental health. If you feel tired during exercising, you can rest for a while and drink water."
+  },
+  {
+   "type": "typein",
+   "q": "Eating a lot of chips and drinking soda makes you ______ (fit).",
+   "answer": [
+    "unfit"
+   ],
+   "label": "form"
+  },
+  {
+   "type": "reorder",
+   "words": [
+    "vitamins.",
+    "and fruits",
+    "Vegetables",
+    "give",
+    "bodies",
+    "our"
+   ],
+   "answer": [
+    "Vegetables",
+    "and fruits",
+    "give",
+    "our",
+    "bodies",
+    "vitamins."
+   ]
+  },
+  {
+   "type": "reorder",
+   "words": [
+    "use",
+    "patients",
+    "knowledge",
+    "to",
+    "Doctors",
+    "check",
+    "their"
+   ],
+   "answer": [
+    "Doctors",
+    "use",
+    "their",
+    "knowledge",
+    "to",
+    "check",
+    "patients"
+   ]
+  }
+ ]
+}
