@@ -161,8 +161,8 @@ function buildReorder(card,q){
   });
 }
 fetch('quiz-'+gs+'.json').then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
-  document.getElementById('quiz-title').textContent='اختبر نفسك — '+d.gradeName+'.';
-  document.getElementById('quiz-sub').textContent=d.examTitle+' · من امتحانات مستر باسم، والتصحيح فوري بعد كل سؤال.';
+  var _qt=document.getElementById('quiz-title'); if(_qt)_qt.textContent='اختبر نفسك — '+d.gradeName+'.';
+  var _qs=document.getElementById('quiz-sub'); if(_qs)_qs.textContent=d.examTitle+' · من امتحانات مستر باسم، والتصحيح فوري بعد كل سؤال.';
   document.title='اختبر نفسك — '+d.gradeName+' | ENGLISH SAVANT';
   var body=document.getElementById('quiz-body');body.innerHTML='';
   total=d.questions.length;updateBar();
