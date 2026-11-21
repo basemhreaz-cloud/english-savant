@@ -118,7 +118,7 @@ button,.button,.chip,.icon-button{border-radius:12px}.island-toggle{border-radiu
 (function(){
 function esc(t){return String(t).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 function card(l){
-var vid=l.mp4?'<div class="video-wrap"><video controls="" preload="metadata" playsinline="" src="'+encodeURI(l.mp4)+'"></video></div>':l.youtube?'<div class="video-wrap"><iframe src="https://www.youtube-nocookie.com/embed/'+encodeURIComponent(l.youtube)+'" title="'+esc(l.title)+'" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>':'<div class="video-wrap"><div class="video-soon"><span class="play">▶</span><span>الفيديو بينزل هنا أول ما يترفع</span></div></div>';
+var vid=l.mp4?'<div class="video-wrap"><video controls="" preload="none" playsinline="" poster="'+encodeURI(l.mp4.replace(/\.mp4$/,'.jpg'))+'" src="'+encodeURI(l.mp4)+'"></video></div>':'<div class="video-wrap"><div class="video-soon"><span class="play">▶</span><span>الفيديو بينزل هنا أول ما يترفع</span></div></div>';
 return '<article class="lesson-card">'+vid+'<div class="lesson-meta"><h4>'+(l.part?esc(l.part)+' · ':'')+'<span dir="ltr">'+esc(l.title)+'</span></h4><div class="sub">'+(l.duration?'<span dir="ltr">'+esc(l.duration)+'</span>':'')+(l.soon?'<span class="badge-soon">قريبًا</span>':'')+'</div></div></article>';
 }
 fetch('lessons.json').then(function(r){return r.json()}).then(function(d){
