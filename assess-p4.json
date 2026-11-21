@@ -1,0 +1,5217 @@
+{
+ "grade": "p4",
+ "gradeName": "الصف الرابع الابتدائي",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "The Five Senses",
+   "pages": "4-12",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "What are the five senses."
+    },
+    {
+     "n": 2,
+     "title": "Healthy Habits"
+    },
+    {
+     "n": 3,
+     "title": "Story Time: Goha's Great Meal"
+    },
+    {
+     "n": 4,
+     "title": "Writing: Sequence Words"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: What are the five senses.",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 4)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Our __ help us stay safe and learn.",
+       "options": [
+        "toys",
+        "books",
+        "senses",
+        "neighbors"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "If we smell smoke, we know there's a __",
+       "options": [
+        "flower",
+        "tree",
+        "bird",
+        "fire"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We __ the teacher's voice in class.",
+       "options": [
+        "smell",
+        "see",
+        "hear",
+        "taste"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I can __ soft things with my fingers.",
+       "options": [
+        "hear",
+        "see",
+        "smell",
+        "touch"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "You use your __ to read a book.",
+       "options": [
+        "eyes",
+        "arms",
+        "nose",
+        "ears"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "q": "He sees ___ flying near the flowers.",
+       "answer": [
+        "butterflies"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He can ___ their beautiful wings.",
+       "answer": [
+        "see"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "His sister ___ the sweet … in the air.",
+       "answer": [
+        "smells"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "His sister … the sweet ___ in the air.",
+       "answer": [
+        "flowers"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Birds sing loudly, so she can ___ them in the tree.",
+       "answer": [
+        "hear"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Healthy Habits",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 5)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "isdk",
+       "answer": [
+        "kids"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "panlygi",
+       "answer": [
+        "playing"
+       ],
+       "hint": "لعب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "oaltoblf",
+       "answer": [
+        "football"
+       ],
+       "hint": "كرة قدم"
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My grandfather __ (drink) coffee in the morning.",
+       "answer": [
+        "drinks"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We __ (washes) our hands before eating.",
+       "answer": [
+        "wash"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Salma and I __ (takes) the school bus every morning.",
+       "answer": [
+        "take"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "He __ (read) stories in English class.",
+       "answer": [
+        "reads"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She __ (clean) her room every Friday.",
+       "answer": [
+        "cleans"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Story Time: Goha's Great Meal",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 6)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Omar paid with the sound of __",
+       "options": [
+        "coins",
+        "laughter",
+        "his voice",
+        "shoes"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The owner told Omar he must __",
+       "options": [
+        "pay",
+        "eat",
+        "leave",
+        "work"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Writing: Sequence Words",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 8)",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "At night, ___ I take a shower.",
+       "answer": [
+        "first"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "___ I have dinner with my family.",
+       "answer": [
+        "Then"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "___, I do my homework.",
+       "answer": [
+        "After that"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "___ I brush my teeth and read a book.",
+       "answer": [
+        "Next"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "___ I go to bed at nine o'clock because sleeping early keeps me healthy.",
+       "answer": [
+        "Finally"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: Think and Create",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 9-10)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A healthy lunch may have chicken, vegetables, fruit, and __",
+       "options": [
+        "candy",
+        "pizza",
+        "water",
+        "rice"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A healthy lunch helps children feel __",
+       "options": [
+        "tired",
+        "sleepy",
+        "strong",
+        "sad"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "q": "Is drinking water important?",
+       "answer": [
+        "yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٣ · ص 7",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "She was very ___ but had no money.",
+       "answer": [
+        "hungry"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "The ___ said, \"You must pay for … my pizza!\"",
+       "answer": [
+        "owner"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "The … said, \"You must pay for ___ my pizza!\"",
+       "answer": [
+        "smelling"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Nilly clapped her hands and said, \"Take the ___ as payment!\".",
+       "answer": [
+        "sound"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "The owner ___.",
+       "answer": [
+        "laughed"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٣ · ص 7",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "Our ___ help us listen to teachers in class.",
+       "answer": [
+        "ears"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "With our nose, we ___ clean air.",
+       "answer": [
+        "smell"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "We ___ our books with our hands and … lunch with our tongue.",
+       "answer": [
+        "touch"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "We … our books with our hands and ___ lunch with our tongue.",
+       "answer": [
+        "taste"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Our ___ help us learn.",
+       "answer": [
+        "senses"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٣ · ص 7",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "Shady eats a good ___ every morning to have energy.",
+       "answer": [
+        "breakfast"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "At school, he ___ with his … during break time.",
+       "answer": [
+        "plays"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "At school, he … with his ___ during break time.",
+       "answer": [
+        "friends"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He ___ for nine hours every night to keep his mind … and his body healthy.",
+       "answer": [
+        "sleeps"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He … for nine hours every night to keep his mind ___ and his body healthy.",
+       "answer": [
+        "sharp"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Review on Unit 1",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 11-12)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I always __ my teeth before I go to bed.",
+       "options": [
+        "brushing",
+        "brushes",
+        "brushed",
+        "brush"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We __ with our ears.",
+       "options": [
+        "taste",
+        "see",
+        "walk",
+        "hear"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "She __ her backpack every day.",
+       "options": [
+        "carrying",
+        "carried",
+        "carries",
+        "carry"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The yummy smell came from a __ nearby.",
+       "options": [
+        "school",
+        "TV",
+        "garden",
+        "restaurant"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I can __ the soup with my tongue.",
+       "options": [
+        "hear",
+        "smell",
+        "watch",
+        "taste"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "He gave the man the __ of his coins.",
+       "options": [
+        "food",
+        "sound",
+        "look",
+        "share"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "It's good to __ food with friends.",
+       "options": [
+        "play",
+        "brush",
+        "share",
+        "take"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "They __ the books in the morning.",
+       "options": [
+        "to read",
+        "reads",
+        "read",
+        "reading"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "She __ vitamins every morning.",
+       "options": [
+        "touches",
+        "hears",
+        "helps",
+        "takes"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My sister and I __ TV in the evening.",
+       "options": [
+        "watch",
+        "watches",
+        "watched",
+        "watching"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "I hear with my ___.",
+       "options": [
+        "tongue",
+        "eyes",
+        "senses",
+        "ears",
+        "smell"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "I ___ with my nose.",
+       "options": [
+        "eyes",
+        "ears",
+        "tongue",
+        "senses",
+        "smell"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "I taste with my ___.",
+       "options": [
+        "senses",
+        "smell",
+        "ears",
+        "eyes",
+        "tongue"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "These five ___ help me understand the world around me.",
+       "options": [
+        "eyes",
+        "smell",
+        "senses",
+        "ears",
+        "tongue"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "He wakes up early and ___ his teeth.",
+       "options": [
+        "watches",
+        "helps",
+        "breakfast",
+        "brushes",
+        "routines"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Then he eats ___.",
+       "options": [
+        "brushes",
+        "routines",
+        "watches",
+        "helps",
+        "breakfast"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "After school, he ___ our father.",
+       "options": [
+        "watches",
+        "routines",
+        "breakfast",
+        "helps",
+        "brushes"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "These are our daily habits and ___.",
+       "options": [
+        "brushes",
+        "breakfast",
+        "helps",
+        "routines",
+        "watches"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "He ___ something delicious.",
+       "options": [
+        "owner",
+        "smelled",
+        "restaurant",
+        "money",
+        "coins"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "He stopped near the ___ window and closed his eyes.",
+       "options": [
+        "owner",
+        "money",
+        "smelled",
+        "coins",
+        "restaurant"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "When the ___ came, Goha gave him the sound of … instead of real money.",
+       "options": [
+        "money",
+        "smelled",
+        "restaurant",
+        "owner",
+        "coins"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "When the … came, Goha gave him the sound of ___ instead of real money.",
+       "options": [
+        "restaurant",
+        "money",
+        "smelled",
+        "coins",
+        "owner"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "She eats fruit and takes her ___.",
+       "options": [
+        "wakes",
+        "help",
+        "studies",
+        "plays",
+        "vitamins"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Then she ___ English before going to school.",
+       "options": [
+        "wakes",
+        "vitamins",
+        "studies",
+        "help",
+        "plays"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Her brother ___ games after breakfast.",
+       "options": [
+        "plays",
+        "help",
+        "vitamins",
+        "wakes",
+        "studies"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "They both ___ their parents and watch cartoons at night before sleeping happily.",
+       "options": [
+        "studies",
+        "plays",
+        "wakes",
+        "vitamins",
+        "help"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Every day, she eats ___ like apples and bananas.",
+       "options": [
+        "energy",
+        "food",
+        "routines",
+        "fruit",
+        "vegetables"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "She also enjoys ___ such as carrots and peas.",
+       "options": [
+        "vegetables",
+        "fruit",
+        "routines",
+        "food",
+        "energy"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Her mother says it is important to eat from all ___ groups.",
+       "options": [
+        "food",
+        "vegetables",
+        "fruit",
+        "energy",
+        "routines"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "She feels strong and full of ___.",
+       "options": [
+        "fruit",
+        "food",
+        "routines",
+        "energy",
+        "vegetables"
+       ],
+       "answer": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "My Community",
+   "pages": "13-23",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Helping the community"
+    },
+    {
+     "n": 2,
+     "title": "Community problems and solutions"
+    },
+    {
+     "n": 3,
+     "title": "Egypt (My culture)"
+    },
+    {
+     "n": 4,
+     "title": "Egypt (My culture)"
+    },
+    {
+     "n": 5,
+     "title": "A diary Entry & A poster"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Helping the community",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 13-14)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Ali likes to __",
+       "options": [
+        "plant trees",
+        "feed cats",
+        "clean trash",
+        "collect clothes"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Ali has __ sister/s.",
+       "options": [
+        "no",
+        "two",
+        "one",
+        "three"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "q": "What does Ali like to collect?",
+       "answer": [
+        "clothes"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I __ clothes and give them to people who need them.",
+       "options": [
+        "sleep",
+        "help",
+        "collect",
+        "plant"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "It's important to help our __.",
+       "options": [
+        "toys",
+        "schools",
+        "neighbors",
+        "clothes"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Many people like to __ at the community park.",
+       "options": [
+        "volunteer",
+        "collect",
+        "give",
+        "plant"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We will go to the __ to help the environment.",
+       "options": [
+        "house",
+        "school",
+        "neighbors",
+        "community park"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Soad is a kind girl, she likes to __ animals.",
+       "options": [
+        "feed",
+        "write",
+        "plant",
+        "collect"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Community problems and solutions",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 15)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Do) Sally like ice-cream?",
+       "answer": [
+        "Does"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We (studies) English every day.",
+       "answer": [
+        "study"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Do) Adam to school on foot?",
+       "answer": [
+        "Does"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Ali (not eat) unhealthy food.",
+       "answer": [
+        "doesn't eat"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The farmers (not feed) the animals.",
+       "answer": [
+        "don't feed"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "___ is very bad near schools.",
+       "answer": [
+        "Traffic"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Our community has many ___.",
+       "answer": [
+        "problems"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Please, put ___ in bins.",
+       "answer": [
+        "trash"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Use ___ instead of cars.",
+       "answer": [
+        "school bus"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "We should ___ or cycle for short distances.",
+       "answer": [
+        "walk"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Egypt (My culture)",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 16)",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "It is a governorate in ___ Egypt.",
+       "answer": [
+        "Upper"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Men there wear ___ and women wear … dresses.",
+       "answer": [
+        "galabeyas"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Men there wear … and women wear ___ dresses.",
+       "answer": [
+        "colorful"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Farmers grow ___.",
+       "answer": [
+        "sugar cane"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "People there are very ___.",
+       "answer": [
+        "kind"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "has",
+        "Egypt",
+        "regions.",
+        "two",
+        "special"
+       ],
+       "answer": [
+        "Egypt",
+        "has",
+        "two",
+        "special",
+        "regions."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Egyptians",
+        "proud",
+        "culture.",
+        "their",
+        "of",
+        "are"
+       ],
+       "answer": [
+        "Egyptians",
+        "are",
+        "proud",
+        "of",
+        "their",
+        "culture."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Egypt",
+        "is",
+        "Upper",
+        "the",
+        "south.",
+        "in"
+       ],
+       "answer": [
+        "Upper",
+        "Egypt",
+        "is",
+        "in",
+        "the",
+        "south."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "in",
+        "colors.",
+        "bright",
+        "are",
+        "painted",
+        "Houses"
+       ],
+       "answer": [
+        "Houses",
+        "are",
+        "painted",
+        "in",
+        "bright",
+        "colors."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "sing",
+        "traditional",
+        "Families",
+        "songs."
+       ],
+       "answer": [
+        "Families",
+        "sing",
+        "traditional",
+        "songs."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "Egypt (My culture)",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 19)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Hala (like) dirty places.",
+       "answer": [
+        "likes"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "It is (legal) to drive fast.",
+       "answer": [
+        "illegal"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Ahmed (appears) after eating all sweets.",
+       "answer": [
+        "disappears"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The verb make has an (regular) past form.",
+       "answer": [
+        "irregular"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "He is (responsible), He forgot his keys.",
+       "answer": [
+        "irresponsible"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "A diary Entry & A poster",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 20)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My old school is still __ today.",
+       "options": [
+        "does",
+        "writes",
+        "plays",
+        "stands"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We can take __ from the train station.",
+       "options": [
+        "car",
+        "bus",
+        "train",
+        "taxi"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We go to the market to buy __.",
+       "options": [
+        "computers",
+        "beds",
+        "fruits",
+        "books"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ to school to stop air pollution.",
+       "options": [
+        "Wear",
+        "Ask",
+        "Walk",
+        "Read"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My mother told me __ about her family.",
+       "options": [
+        "foods",
+        "stories",
+        "letters",
+        "books"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "wa3A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٣ · ص 17-18",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "Delta.",
+        "rice",
+        "cotton",
+        "grow",
+        "in",
+        "and",
+        "Farmers"
+       ],
+       "answer": [
+        "Farmers",
+        "grow",
+        "cotton",
+        "and",
+        "rice",
+        "in",
+        "Delta."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Farida",
+        "street.",
+        "feeds",
+        "cats",
+        "the",
+        "in"
+       ],
+       "answer": [
+        "Farida",
+        "feeds",
+        "cats",
+        "in",
+        "the",
+        "street."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٣ · ص 17-18",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "has",
+        "regions.",
+        "Egypt",
+        "two",
+        "special"
+       ],
+       "answer": [
+        "Egypt",
+        "has",
+        "two",
+        "special",
+        "regions."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "school",
+        "go",
+        "to",
+        "I",
+        "by",
+        "bus."
+       ],
+       "answer": [
+        "I",
+        "go",
+        "to",
+        "school",
+        "by",
+        "bus."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٣ · ص 17-18",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "Egypt",
+        "Upper",
+        "galabeyas.",
+        "wear",
+        "Men",
+        "in"
+       ],
+       "answer": [
+        "Men",
+        "in",
+        "Upper",
+        "Egypt",
+        "wear",
+        "galabeyas."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "should",
+        "cycle",
+        "walk",
+        "to",
+        "You",
+        "or",
+        "school."
+       ],
+       "answer": [
+        "You",
+        "should",
+        "walk",
+        "or",
+        "cycle",
+        "to",
+        "school."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Review on Unit 2",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 22-23)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "You should throw trash in the __.",
+       "options": [
+        "book",
+        "pen",
+        "bin",
+        "pin"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "It is __ to smoke here.",
+       "options": [
+        "legal",
+        "like",
+        "illegal",
+        "dislike"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ you study English every day?",
+       "options": [
+        "Does",
+        "Are",
+        "Is",
+        "Do"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "He __ go to school by bus.",
+       "options": [
+        "isn't",
+        "doesn't",
+        "aren't",
+        "do"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "They __ the street on Sundays.",
+       "options": [
+        "collect",
+        "feed",
+        "help",
+        "clean"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The bus helps __ traffic.",
+       "options": [
+        "work",
+        "increase",
+        "plant",
+        "reduce"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "He __ go to school on Friday.",
+       "options": [
+        "doesn't",
+        "isn't",
+        "don't",
+        "aren't"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Traffic is bad __ schools.",
+       "options": [
+        "on",
+        "away",
+        "near",
+        "in"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The cat always __ after eating all the food.",
+       "options": [
+        "appears",
+        "dislikes",
+        "likes",
+        "disappears"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "She __ cats in the street.",
+       "options": [
+        "sleeps",
+        "walks",
+        "feeds",
+        "wears"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "q": "My community has many ___.",
+       "answer": [
+        "problems"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Cars ___ slowly in the morning … schools.",
+       "answer": [
+        "move"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Cars … slowly in the morning ___ schools.",
+       "answer": [
+        "near"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "So, we should use ___ instead of ….",
+       "answer": [
+        "buses"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "So, we should use … instead of ___.",
+       "answer": [
+        "cars"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We don't (puts) trash in bins.",
+       "answer": [
+        "put"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Do you (studys) Arabic every day?",
+       "answer": [
+        "study"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Cars (not move) quickly in the morning.",
+       "answer": [
+        "don't move"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I (like) loud sounds.",
+       "answer": [
+        "like"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "It's (legal) to drive very fast.",
+       "answer": [
+        "illegal"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "No, She doesn't (has) any books.",
+       "answer": [
+        "have"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Sun (not appears) at night.",
+       "answer": [
+        "doesn't appear"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Do) Ramy study English every day?",
+       "answer": [
+        "Does"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Ali (write) his homework in the evening.",
+       "answer": [
+        "writes"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "Animals in Our World",
+   "pages": "24-32",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Let's meet the animals"
+    },
+    {
+     "n": 2,
+     "title": "Taking Care Of Animals"
+    },
+    {
+     "n": 3,
+     "title": "Story Time (The Old Lion and The Fox)"
+    },
+    {
+     "n": 4,
+     "title": "Writing A Research Report / Think and Create A Collage"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Let's meet the animals",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 24)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "frgfeai",
+       "answer": [
+        "giraffe"
+       ],
+       "hint": "زرافة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eleahtnp",
+       "answer": [
+        "elephant"
+       ],
+       "hint": "فيل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "olni",
+       "answer": [
+        "lion"
+       ],
+       "hint": "أسد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "yonkme",
+       "answer": [
+        "monkey"
+       ],
+       "hint": "قرد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "earzb",
+       "answer": [
+        "zebra"
+       ],
+       "hint": "حمار وحشي"
+      },
+      {
+       "type": "typein",
+       "q": "___ has a spotted coat.",
+       "answer": [
+        "Giraffe"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "My dad is a ___ guide, he shows visitors the animals.",
+       "answer": [
+        "forest"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "___ are very good at climbing trees.",
+       "answer": [
+        "Monkeys"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "The ___ is an amazing place you can see animals up close.",
+       "answer": [
+        "forest park"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "The bear has a thick ___.",
+       "answer": [
+        "fur"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Taking Care Of Animals",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 25)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Giraffes need taller __",
+       "options": [
+        "trees",
+        "fans",
+        "seats",
+        "senses"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Elephants need __ spaces than monkeys.",
+       "options": [
+        "taller",
+        "bigger",
+        "heavier",
+        "smaller"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Ahmed is (short) than Ali.",
+       "answer": [
+        "shorter"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Sally is (lazy) than Rana.",
+       "answer": [
+        "lazier"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Elephants are (big) than cats.",
+       "answer": [
+        "bigger"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Cats are (safe) than lions.",
+       "answer": [
+        "safer"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Today is (hot) than yesterday.",
+       "answer": [
+        "hotter"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Story Time (The Old Lion and The Fox)",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 26)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "The old lion ___ to be very sick.",
+       "options": [
+        "mistakes",
+        "pretended",
+        "cave",
+        "come out",
+        "sick"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Many animals came into the lion's ___ to visit him but they didn't ….",
+       "options": [
+        "sick",
+        "mistakes",
+        "pretended",
+        "cave",
+        "come out"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "Many animals came into the lion's … to visit him but they didn't ___.",
+       "options": [
+        "mistakes",
+        "sick",
+        "pretended",
+        "cave",
+        "come out"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "He learned from the ___ of others.",
+       "options": [
+        "sick",
+        "come out",
+        "cave",
+        "pretended",
+        "mistakes"
+       ],
+       "answer": 4
+      },
+      {
+       "type": "tf",
+       "q": "The lion could hunt animals.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "The fox saw footprints coming out of the cave.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "The fox was a foolish animal.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "We should learn from the mistakes of others.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "The lion was really sick.",
+       "answer": false
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "Writing A Research Report / Think and Create A Collage",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 29)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Some animals are in danger because of __",
+       "options": [
+        "cutting down trees",
+        "planting trees",
+        "and",
+        "hunting animals",
+        "d",
+        "together"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ is an example for an endangered animal",
+       "options": [
+        "Cat",
+        "Dog",
+        "Giant panda",
+        "Rabbit"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "wa4 & 5A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد 4 & 5 · ص 30",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Hala is (short) than Amira.",
+       "answer": [
+        "shorter"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Sama is (lazy) than Abeer.",
+       "answer": [
+        "lazier"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My class is (big) than yours.",
+       "answer": [
+        "bigger"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Do) Ramy study English every day?",
+       "answer": [
+        "Does"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Ali (write) his homework in the evening.",
+       "answer": [
+        "writes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa4 & 5B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد 4 & 5 · ص 30",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Arabic is (easy) than French.",
+       "answer": [
+        "easier"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Does) they play football every day?",
+       "answer": [
+        "Do"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Hana is taller (then) Rana.",
+       "answer": [
+        "than"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Ahmed isn't (tall) than Ali.",
+       "answer": [
+        "taller"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Bears are (lazy) than monkeys.",
+       "answer": [
+        "lazier"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa4 & 5C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد 4 & 5 · ص 30",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Fruit is (healthy) than sweets.",
+       "answer": [
+        "healthier"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Sara is (pretty) than Heba.",
+       "answer": [
+        "prettier"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Does) you like ice-cream?",
+       "answer": [
+        "Do"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The plane is (fast) than the train.",
+       "answer": [
+        "faster"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Salma is (lazy) than Rana.",
+       "answer": [
+        "lazier"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Review on Unit 3",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 31-32)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Giraffes eat green __",
+       "options": [
+        "fish",
+        "meat",
+        "paper",
+        "leaves"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Elephants need __ spaces.",
+       "options": [
+        "heavier",
+        "thinner",
+        "smaller",
+        "bigger"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Rabbits eat fresh __.",
+       "options": [
+        "fruits",
+        "vegetables",
+        "insects",
+        "birds"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The monkey has a __ tail.",
+       "options": [
+        "loud",
+        "long",
+        "short",
+        "lazy"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Noha is __ than Nashwa.",
+       "options": [
+        "short",
+        "shorter",
+        "a short",
+        "shortest"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Sally is a __ girl.",
+       "options": [
+        "taller",
+        "nice",
+        "fatter",
+        "fattest"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The zebra has a __ coat.",
+       "options": [
+        "spotted",
+        "striped",
+        "gray",
+        "yellow"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A/An __ is one who shows visitors the animals.",
+       "options": [
+        "forest guide",
+        "vet",
+        "engineer",
+        "doctor"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Lions __ at night.",
+       "options": [
+        "play",
+        "sleep",
+        "hunt",
+        "walk"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Pets need __ care from their owners.",
+       "options": [
+        "yearly",
+        "weekly",
+        "daily",
+        "monthly"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "English is (easy) than French.",
+       "answer": [
+        "easier"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Hana is taller (then) Rana.",
+       "answer": [
+        "than"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Ahmed isn't (tall) than Ali.",
+       "answer": [
+        "taller"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Bears are (lazy) than monkeys.",
+       "answer": [
+        "lazier"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Fruit is (healthy) than sweets.",
+       "answer": [
+        "healthier"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Ola is (pretty) than Dina.",
+       "answer": [
+        "prettier"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Does) you like ice-cream?",
+       "answer": [
+        "Do"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The plane is (fast) than the train.",
+       "answer": [
+        "faster"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Sama is (lazy) than Hana.",
+       "answer": [
+        "lazier"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The lion is (strongest) than rabbit.",
+       "answer": [
+        "stronger"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Egypt My Homeland",
+   "pages": "33-42",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Places in Egypt"
+    },
+    {
+     "n": 2,
+     "title": "My city"
+    },
+    {
+     "n": 3,
+     "title": "The World of Big Numbers"
+    },
+    {
+     "n": 4,
+     "title": "Writing A Blog"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create A Leaflet"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Places in Egypt",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 33)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The __ is a very long river in Egypt.",
+       "options": [
+        "Nile",
+        "bazaar",
+        "museum",
+        "tower"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I want to __ the Egyptian Museum.",
+       "options": [
+        "walk",
+        "ride",
+        "build",
+        "visit"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "People buy __ from the bazaar.",
+       "options": [
+        "history",
+        "camels",
+        "gifts",
+        "pyramids"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A/An __ is a place with water and trees in the desert.",
+       "options": [
+        "oasis",
+        "museum",
+        "tower",
+        "bazaar"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "You can look down from the __ Tower.",
+       "options": [
+        "Egyptian",
+        "Cairo",
+        "Siwa",
+        "Giza"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "typein",
+       "q": "Ali is a tour ___ in Egypt.",
+       "answer": [
+        "guide"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He takes tourists to see the ___.",
+       "answer": [
+        "Pyramids"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "They stop to take ___ with their cameras.",
+       "answer": [
+        "pictures"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Many visitors want to ___ a … near the pyramids.",
+       "answer": [
+        "ride"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Many visitors want to … a ___ near the pyramids.",
+       "answer": [
+        "camel"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: My city",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 34)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "from",
+        "library",
+        "the",
+        "books",
+        "I",
+        "borrow"
+       ],
+       "answer": [
+        "I",
+        "borrow",
+        "books",
+        "from",
+        "the",
+        "library"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "museum",
+        "the",
+        "history",
+        "learn",
+        "in",
+        "We"
+       ],
+       "answer": [
+        "We",
+        "learn",
+        "history",
+        "in",
+        "the",
+        "museum"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The flower is growing __ (on) the pot.",
+       "answer": [
+        "in"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The sandwich is __ (next) the juice and the salad.",
+       "answer": [
+        "between"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She stands __ (in) of the board.",
+       "answer": [
+        "in front"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The picture is __ (under) the wall.",
+       "answer": [
+        "on"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My shoes are __ (in) to the bed.",
+       "answer": [
+        "next"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: The World of Big Numbers",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 35)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The number 1,000 is one __",
+       "options": [
+        "million",
+        "hundred",
+        "billion",
+        "thousand"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "120,000 is read as one hundred __ thousand.",
+       "options": [
+        "twenty",
+        "ten",
+        "million",
+        "billion"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "2,500,000,000 is read as two __ five hundred million.",
+       "options": [
+        "thousand",
+        "million",
+        "billion",
+        "hundred"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "560,000 is five hundred and sixty __",
+       "options": [
+        "hundred",
+        "billion",
+        "thousand",
+        "million"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "In 5,000,000,500, the last 5 is in the __ place.",
+       "options": [
+        "million",
+        "billion",
+        "ones",
+        "hundred"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word does NOT belong? (أي كلمة مختلفة عن الباقي؟)",
+       "options": [
+        "bat",
+        "pan",
+        "bin",
+        "bear"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word does NOT belong? (أي كلمة مختلفة عن الباقي؟)",
+       "options": [
+        "pin",
+        "bin",
+        "pear",
+        "pan"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word does NOT belong? (أي كلمة مختلفة عن الباقي؟)",
+       "options": [
+        "pay",
+        "bat",
+        "page",
+        "pan"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word does NOT belong? (أي كلمة مختلفة عن الباقي؟)",
+       "options": [
+        "bus",
+        "box",
+        "bun",
+        "pen"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word does NOT belong? (أي كلمة مختلفة عن الباقي؟)",
+       "options": [
+        "bag",
+        "pot",
+        "boat",
+        "bat"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Writing A Blog",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 38)",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "It is a ___ place.",
+       "answer": [
+        "famous"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "People come to ___ the mountain.",
+       "answer": [
+        "climb"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "They see ___ rocks, green plants, and sometimes animals.",
+       "answer": [
+        "colorful"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "When they reach the ___, they visit the old ….",
+       "answer": [
+        "top"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "When they reach the …, they visit the old ___.",
+       "answer": [
+        "monastery"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "weather",
+        "morning",
+        "is",
+        "cold",
+        "the",
+        "in",
+        "The"
+       ],
+       "answer": [
+        "The",
+        "weather",
+        "is",
+        "cold",
+        "in",
+        "the",
+        "morning"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "takes",
+        "museum",
+        "He",
+        "photos",
+        "of",
+        "the"
+       ],
+       "answer": [
+        "He",
+        "takes",
+        "photos",
+        "of",
+        "the",
+        "museum"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "to",
+        "the Pyramids",
+        "We",
+        "went",
+        "last",
+        "Friday"
+       ],
+       "answer": [
+        "We",
+        "went",
+        "to",
+        "the",
+        "Pyramids",
+        "last",
+        "Friday"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "to",
+        "Cairo",
+        "come",
+        "Tourists",
+        "every year"
+       ],
+       "answer": [
+        "Tourists",
+        "come",
+        "to",
+        "Cairo",
+        "every",
+        "year"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "South Sinai",
+        "in",
+        "Mountain",
+        "St. Catherine",
+        "is"
+       ],
+       "answer": [
+        "St.",
+        "Catherine",
+        "Mountain",
+        "is",
+        "in",
+        "South",
+        "Sinai"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: Think and Create A Leaflet",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 39)",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "You can swim in the desert.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "Dates grow on palm trees.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "You should wear a jacket during the day.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "Siwa Oasis has sweet dates and olive oil.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "You can see the sunset at the Salt Lake.",
+       "answer": true
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Tourists can swim and take photos at the Salt __",
+       "options": [
+        "Sea",
+        "River",
+        "Lake",
+        "Water"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Sweet __ are fresh from palm trees.",
+       "options": [
+        "bananas",
+        "apples",
+        "dates",
+        "lemons"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "It's a good idea to bring a __ at night in Siwa Oasis.",
+       "options": [
+        "T-shirt",
+        "jacket",
+        "swimming suit",
+        "hat"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "People wear light __ during the day in Siwa.",
+       "options": [
+        "clothes",
+        "bags",
+        "shoes",
+        "hats"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "You can see palm __ around the lake and desert.",
+       "options": [
+        "branches",
+        "trees",
+        "plants",
+        "leaves"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "wa3A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٣ · ص 36-37",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The Pyramids are very __",
+       "options": [
+        "short",
+        "new",
+        "famous",
+        "quiet"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Many tourists take __ near the Pyramids.",
+       "options": [
+        "tickets",
+        "books",
+        "pictures",
+        "food"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "q": "Where do visitors usually go after seeing the Pyramids?",
+       "answer": [
+        "the Egyptian Museum",
+        "Egyptian Museum",
+        "museum"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٣ · ص 36-37",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We go to the library to __ books.",
+       "options": [
+        "sell",
+        "throw",
+        "eat",
+        "borrow"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "You must be quiet inside the __",
+       "options": [
+        "library",
+        "school",
+        "street",
+        "shop"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "wa3C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٣ · ص 36-37",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Sami went to the Cairo __ on Friday.",
+       "options": [
+        "Tower",
+        "River",
+        "Hospital",
+        "Museum"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "They saw the whole __ from the top.",
+       "options": [
+        "desert",
+        "building",
+        "city",
+        "bazaar"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "q": "Who did Sami go with?",
+       "answer": [
+        "his brother",
+        "brother"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "A Day at Work",
+   "pages": "43-51",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Different Jobs"
+    },
+    {
+     "n": 2,
+     "title": "Jobs I Love!"
+    },
+    {
+     "n": 3,
+     "title": "Story Time \"The Last House\""
+    },
+    {
+     "n": 4,
+     "title": "Writing Non-Fiction"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Different Jobs",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 43)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "uniform",
+        "a blue",
+        "wearing",
+        "is",
+        "The nurse"
+       ],
+       "answer": [
+        "The",
+        "nurse",
+        "is",
+        "wearing",
+        "a",
+        "blue",
+        "uniform"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "to",
+        "want",
+        "be",
+        "I",
+        "a",
+        "police officer"
+       ],
+       "answer": [
+        "I",
+        "want",
+        "to",
+        "be",
+        "a",
+        "police",
+        "officer"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "The firefighter",
+        "saves",
+        "people",
+        "fire",
+        "stops",
+        "and"
+       ],
+       "answer": [
+        "The",
+        "firefighter",
+        "stops",
+        "fire",
+        "and",
+        "saves",
+        "people"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "wears",
+        "yellow",
+        "a",
+        "Ali",
+        "helmet"
+       ],
+       "answer": [
+        "Ali",
+        "wears",
+        "a",
+        "yellow",
+        "helmet"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "building",
+        "designs",
+        "a",
+        "new",
+        "He"
+       ],
+       "answer": [
+        "He",
+        "designs",
+        "a",
+        "new",
+        "building"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He is a ___ who wears a … coat.",
+       "answer": [
+        "doctor"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He is a … who wears a ___ coat.",
+       "answer": [
+        "white"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Every day he gives ___ to many sick children.",
+       "answer": [
+        "care"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He checks on the ___ to make sure they feel better.",
+       "answer": [
+        "patients"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He loves his job at the ___.",
+       "answer": [
+        "hospital"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Jobs I Love!",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 44)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Sama loves __ stories using her puppets.",
+       "options": [
+        "shouting",
+        "telling",
+        "watching",
+        "writing"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Hana feels __ when her students get good marks.",
+       "options": [
+        "happy",
+        "loud",
+        "tired",
+        "cold"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Voice-over actors often make cartoons sound more __",
+       "options": [
+        "quiet",
+        "far",
+        "real",
+        "boring"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Safi does many puppet __ for children.",
+       "options": [
+        "shows",
+        "plays",
+        "photos",
+        "dances"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Amr is a wildlife __ who loves taking pictures.",
+       "options": [
+        "photographer",
+        "actor",
+        "singer",
+        "mentor"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "This is the __ (tall) tree in the garden.",
+       "answer": [
+        "tallest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The elephant is the __ (big) animal.",
+       "answer": [
+        "biggest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "It was the __ (funny) day of the week.",
+       "answer": [
+        "funniest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My room is the __ (clean) room in the house.",
+       "answer": [
+        "cleanest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The Nile River is the __ (longer) one.",
+       "answer": [
+        "longest"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Story Time \"The Last House\"",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 45)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Seleem was famous for building __ houses.",
+       "options": [
+        "glass",
+        "old",
+        "tall",
+        "strong"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The king gave the house as a __",
+       "options": [
+        "room",
+        "prize",
+        "job",
+        "gift"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "typein",
+       "q": "What did the king give Seleem?",
+       "answer": [
+        "the house",
+        "a house",
+        "the house as a gift"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Writing Non-Fiction",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 47)",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "Every morning, he checks the fire ___ and his equipment.",
+       "answer": [
+        "truck"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He wears a ___ and a thick … uniform.",
+       "answer": [
+        "helmet"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He wears a … and a thick ___ uniform.",
+       "answer": [
+        "protective"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "When the ___ rings, he moves quickly to help people in ….",
+       "answer": [
+        "alarm"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "When the … rings, he moves quickly to help people in ___.",
+       "answer": [
+        "danger"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "morning",
+        "the",
+        "in",
+        "cold",
+        "Weather",
+        "the"
+       ],
+       "answer": [
+        "The",
+        "weather",
+        "is",
+        "cold",
+        "in",
+        "the",
+        "morning"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "feel",
+        "people",
+        "to",
+        "help",
+        "They",
+        "happy"
+       ],
+       "answer": [
+        "They",
+        "feel",
+        "happy",
+        "to",
+        "help",
+        "people"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "always",
+        "The fire",
+        "truck",
+        "clean",
+        "is"
+       ],
+       "answer": [
+        "The",
+        "fire",
+        "truck",
+        "is",
+        "always",
+        "clean"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "fight",
+        "He",
+        "to",
+        "special",
+        "tools",
+        "fire",
+        "uses"
+       ],
+       "answer": [
+        "He",
+        "uses",
+        "special",
+        "tools",
+        "to",
+        "fight",
+        "fire"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "fire station",
+        "The",
+        "in",
+        "works",
+        "a",
+        "firefighter"
+       ],
+       "answer": [
+        "The",
+        "firefighter",
+        "works",
+        "in",
+        "a",
+        "fire",
+        "station"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "الدرس ٥: Think and Create",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 48)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Use a __ to help you measure paper before cutting.",
+       "options": [
+        "jacket",
+        "ruler",
+        "glue",
+        "marker"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "You can make origami art that shows a __",
+       "options": [
+        "game",
+        "house",
+        "job",
+        "story"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "To make origami art, you need colored paper, scissors, and __",
+       "options": [
+        "books",
+        "markers",
+        "folders",
+        "bottles"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Origami can be used to make shapes, animals, or __",
+       "options": [
+        "jobs",
+        "objects",
+        "scissors",
+        "glue"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Use __ to stick small pieces of paper.",
+       "options": [
+        "tape",
+        "glue",
+        "scissors",
+        "water"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "wa3A",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد ٣ · ص 46",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "This is the __ (nice) puppet show.",
+       "answer": [
+        "nicest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My bag is __ (heavy) than yours.",
+       "answer": [
+        "heavier"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The giraffe is the __ (taller) animal.",
+       "answer": [
+        "tallest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "It was the __ (hot) day in the year.",
+       "answer": [
+        "hottest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Khan Al-Khalili is the __ (busy) market.",
+       "answer": [
+        "busiest"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3B",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد ٣ · ص 46",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The Cairo Tower is the __ (tall) building.",
+       "answer": [
+        "tallest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The lion is the __ (strong) animal.",
+       "answer": [
+        "strongest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My sister is the __ (happy) one in my family.",
+       "answer": [
+        "happiest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She is the __ (fast) girl in the class.",
+       "answer": [
+        "fastest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "It is the __ (nice) toy in the shop.",
+       "answer": [
+        "nicest"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wa3C",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد ٣ · ص 46",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My grandfather is the __ (older) one in my family.",
+       "answer": [
+        "oldest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The photographer took the __ (great) photos at the party.",
+       "answer": [
+        "greatest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The Summer is __ (hottest) than winter.",
+       "answer": [
+        "hotter"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Cheetah is the __ (fast) animal.",
+       "answer": [
+        "fastest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She watched the __ (big) show.",
+       "answer": [
+        "biggest"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Review on Unit 5",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 50-51)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Sara is a doctor. She helps __ people and checks their health.",
+       "options": [
+        "poor",
+        "sick",
+        "busy",
+        "old"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Ali is an engineer. He __ new buildings.",
+       "options": [
+        "builds",
+        "washes",
+        "cleans",
+        "paints"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A/An __ stops fires and saves people.",
+       "options": [
+        "police officer",
+        "nurse",
+        "engineer",
+        "firefighter"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The firefighter's job is important because he __ people.",
+       "options": [
+        "sees",
+        "sells",
+        "saves",
+        "sends"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The police officer wears a white __ and a cap.",
+       "options": [
+        "helmet",
+        "uniform",
+        "coat",
+        "vest"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "typein",
+       "q": "He worked slowly, board by ___.",
+       "answer": [
+        "board"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He made the house strong and ___.",
+       "answer": [
+        "beautiful"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Sami promised to always give his ___.",
+       "answer": [
+        "best"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "With each nail he ___, he felt proud.",
+       "answer": [
+        "hammered"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Dalia's job is to help students as a __",
+       "options": [
+        "singer",
+        "driver",
+        "mentor",
+        "nurse"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Children trust Dalia because she is __",
+       "options": [
+        "funny",
+        "quiet",
+        "loud",
+        "calm"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The firefighter is the __ (brave) hero in our town.",
+       "answer": [
+        "bravest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The engineer designed the __ (strong) bridge in the city.",
+       "answer": [
+        "strongest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The police officer is the __ (fast) at catching thieves.",
+       "answer": [
+        "fastest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "This tree is the __ (tall) one in the park.",
+       "answer": [
+        "tallest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The fire station is the __ (big) building in our area.",
+       "answer": [
+        "biggest"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "The hundred Dresses",
+   "pages": "52-58",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Story (The beginning)"
+    },
+    {
+     "n": 2,
+     "title": "Story (The Middle)"
+    },
+    {
+     "n": 3,
+     "title": "The End"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "Story (The beginning)",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 52)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "D__",
+       "answer": [
+        "re"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "P__",
+       "answer": [
+        "ar"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "C__",
+       "answer": [
+        "lo"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "Class__",
+       "answer": [
+        "ro"
+       ],
+       "hint": "فصل"
+      },
+      {
+       "type": "tf",
+       "q": "Wanda was a quiet girl and sat in the front of the calass.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "Wanda wore the same dress every day.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "Peggy and Maddie didn't annoy Wanda.",
+       "answer": false
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "Story (The Middle)",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 53)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda __ to the big city.",
+       "options": [
+        "worked",
+        "moved",
+        "returned",
+        "played"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Peggy and Maddie wrote a __ to Wanda.",
+       "options": [
+        "book",
+        "notebook",
+        "letter",
+        "story"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda won the __ competition.",
+       "options": [
+        "cooking",
+        "reading",
+        "drawing",
+        "writing"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda always wore the same __ dress every day.",
+       "options": [
+        "white",
+        "blue",
+        "red",
+        "black"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Miss Mason chose __ girl(s) to win the competition.",
+       "options": [
+        "two",
+        "four",
+        "three",
+        "one"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "tf",
+       "q": "Wanda won the drawing competition.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "Wanda's dad phoned Miss Mason.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "Wanda received the medal.",
+       "answer": false
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "The End",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 56)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Who said: \"I'm happy at my new school\".",
+       "options": [
+        "Peggy and Maddie",
+        "Wanda",
+        "Miss Mason"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Who said: \"We are sorry for our behavior\".",
+       "options": [
+        "Miss Mason",
+        "Wanda",
+        "Peggy and Maddie"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Who said: \"Thank you for your letter\".",
+       "options": [
+        "Peggy and Maddie",
+        "Wanda",
+        "Miss Mason"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Who said: \"We need to write to Wanda and apologize.\"",
+       "options": [
+        "Peggy and Maddie",
+        "Miss Mason",
+        "Wanda"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Who said: \"I will choose one boy and one girl as winners\".",
+       "options": [
+        "Peggy and Maddie",
+        "Miss Mason",
+        "Wanda"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "waThe MiddleA",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "بعد The Middle · ص 54-55",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda __ to the big city.",
+       "options": [
+        "worked",
+        "returned",
+        "moved",
+        "played"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Peggy and Maddie __ Wanda.",
+       "options": [
+        "wrote",
+        "annoyed",
+        "slept",
+        "said"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda had __ dress/es.",
+       "options": [
+        "one",
+        "three",
+        "two",
+        "five"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda's __ wrote to miss Mason.",
+       "options": [
+        "brother",
+        "baby",
+        "sister",
+        "father"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Maddie was afraid losing Peggy's __",
+       "options": [
+        "help",
+        "friendship",
+        "phone",
+        "watch"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "tf",
+       "q": "Wanda sat in the front of the class.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "Peggy was a popular girl at the school.",
+       "answer": true
+      }
+     ]
+    },
+    {
+     "id": "waThe MiddleB",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "بعد The Middle · ص 54-55",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda's dad wrote a __ to miss Mason.",
+       "options": [
+        "letter",
+        "phone",
+        "book",
+        "message"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda had one __ dress.",
+       "options": [
+        "blue",
+        "white",
+        "black",
+        "green"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ annoyed Wanda.",
+       "options": [
+        "Peggy",
+        "Wanda's mother",
+        "Miss Mason",
+        "Wanda's dad"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Miss Mason chose __ girl(s) to win the competition.",
+       "options": [
+        "four",
+        "three",
+        "one",
+        "two"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda __ to the big city.",
+       "options": [
+        "played",
+        "moved",
+        "returned",
+        "worked"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "tf",
+       "q": "Wanda was a quiet girl.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "Wanda always wore a red dress every day.",
+       "answer": false
+      }
+     ]
+    },
+    {
+     "id": "waThe MiddleC",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "بعد The Middle · ص 54-55",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda's dad wrote a __ to miss Mason.",
+       "options": [
+        "phone",
+        "book",
+        "message",
+        "letter"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda had one blue __",
+       "options": [
+        "skirt",
+        "blouse",
+        "shirt",
+        "dress"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Maddie was afraid losing Peggy's __",
+       "options": [
+        "watch",
+        "help",
+        "phone",
+        "friendship"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ annoyed Wanda.",
+       "options": [
+        "Peggy",
+        "Wanda's mother",
+        "Miss Mason",
+        "Wanda's dad"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda was a __ girl and sat in the front of the class.",
+       "options": [
+        "quiet",
+        "busy",
+        "bad",
+        "lazy"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "tf",
+       "q": "Peggy and Maddie annoyed Wanda.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "Wanda's brother sent a letter to Miss Mason.",
+       "answer": false
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Review on Unit 6",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 57-58)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Peggy laughed at Wanda's hundred __",
+       "options": [
+        "books",
+        "coats",
+        "dresses",
+        "pens"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Miss Mason received a letter from Wanda's __",
+       "options": [
+        "friend",
+        "father",
+        "mother",
+        "sister"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Peggy wrote a/an __ to Wanda.",
+       "options": [
+        "story",
+        "bag",
+        "letter",
+        "e-mail"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ won the drawing competition.",
+       "options": [
+        "Peggy",
+        "Wanda",
+        "Miss Mason",
+        "Maddie"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda __ to the big city.",
+       "options": [
+        "moved",
+        "asked",
+        "played",
+        "wrote"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda had one blue __",
+       "options": [
+        "shirt",
+        "dress",
+        "skirt",
+        "blouse"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Maddie was afraid losing Peggy's __",
+       "options": [
+        "help",
+        "phone",
+        "watch",
+        "friendship"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda had one __ dress.",
+       "options": [
+        "white",
+        "black",
+        "blue",
+        "green"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Miss Mason chose __ girl(s) to win the competition.",
+       "options": [
+        "one",
+        "two",
+        "four",
+        "three"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda was __ at her new school.",
+       "options": [
+        "tired",
+        "angry",
+        "sad",
+        "happy"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Wanda sat in the __ of the classroom.",
+       "options": [
+        "front",
+        "right",
+        "back",
+        "left"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Who said: \"I'm happy at my new school\".",
+       "options": [
+        "Peggy and Maddie",
+        "Miss Mason",
+        "Wanda"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Who said: \"We are sorry for our behavior\".",
+       "options": [
+        "Peggy and Maddie",
+        "Miss Mason",
+        "Wanda"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Who said: \"Thank you for your letter\".",
+       "options": [
+        "Miss Mason",
+        "Wanda",
+        "Peggy and Maddie"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Who said: \"We need to write to Wanda and apologize.\"",
+       "options": [
+        "Peggy and Maddie",
+        "Wanda",
+        "Miss Mason"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Who said: \"I will choose one boy and one girl as winners\".",
+       "options": [
+        "Peggy and Maddie",
+        "Miss Mason",
+        "Wanda"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "typein",
+       "q": "What color of Wanda's dress?",
+       "answer": [
+        "blue"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Where did Peggy and Maddie annoy Wanda?",
+       "answer": [
+        "at school",
+        "school",
+        "in school"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Who drew the beautiful dresses?",
+       "answer": [
+        "Wanda"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "What competition did Miss Mason announce?",
+       "answer": [
+        "drawing",
+        "the drawing competition",
+        "a drawing competition"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mr1",
+   "title": "المراجعة الشهرية",
+   "pages": "27-28",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "المراجعة الشهرية",
+     "sub": "من كتاب التقييمات (ص 27-28) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The cat is __ than the mouse.",
+       "options": [
+        "bigger",
+        "as big",
+        "biggest",
+        "big"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We __ flowers and trees in the park.",
+       "options": [
+        "plant",
+        "wear",
+        "does",
+        "feed"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I use my __ to taste food.",
+       "options": [
+        "tongue",
+        "arms",
+        "eyes",
+        "ears"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Fruit is a/an __ food.",
+       "options": [
+        "harmful",
+        "bad",
+        "healthy",
+        "unhealthy"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Sara __ to her village every week to visit her mother.",
+       "options": [
+        "travelling",
+        "travels",
+        "traveled",
+        "travel"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Nora (wash) her car every day.",
+       "answer": [
+        "washes"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Nashwa is (thin) than Hala.",
+       "answer": [
+        "thinner"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Does) you play football?",
+       "answer": [
+        "Do"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Hany doesn't (reads) well.",
+       "answer": [
+        "read"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Do you (gets) up late?",
+       "answer": [
+        "get"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We (doesn't) go to the club on Friday.",
+       "answer": [
+        "don't"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Dina is (pretty) than Amira.",
+       "answer": [
+        "prettier"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I ___ my face, … my teeth and get … for school.",
+       "answer": [
+        "wash"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I … my face, ___ my teeth and get … for school.",
+       "answer": [
+        "brush"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I … my face, … my teeth and get ___ for school.",
+       "answer": [
+        "dressed"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "___ I have my breakfast.",
+       "answer": [
+        "Then"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "___, I go to school.",
+       "answer": [
+        "Next"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Ahmed lives in __",
+       "options": [
+        "Cairo",
+        "Giza",
+        "Sohag",
+        "Luxor"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Ahmed is always __ for work.",
+       "options": [
+        "slow",
+        "late",
+        "lazy",
+        "busy"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "final1",
+   "title": "التقييم النهائي ١",
+   "pages": "58-60",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "التقييم النهائي ١",
+     "sub": "من كتاب التقييمات (ص 58-60) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A/An __ designs buildings.",
+       "options": [
+        "vet",
+        "doctor",
+        "engineer",
+        "farmer"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Is Ramy __ than Heba?",
+       "options": [
+        "tallest",
+        "a tall",
+        "taller",
+        "tall"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ you get up early?",
+       "options": [
+        "Am",
+        "Are",
+        "Is",
+        "Do"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ is bad near schools.",
+       "options": [
+        "Water",
+        "Food",
+        "Fire",
+        "Traffic"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "typein",
+       "q": "My father is a ___.",
+       "answer": [
+        "firefighter"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He works in ___ station.",
+       "answer": [
+        "fire"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He wears thin ___ uniform with bright yellow … and a heavy … to keep him safe.",
+       "answer": [
+        "protective"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He wears thin … uniform with bright yellow ___ and a heavy … to keep him safe.",
+       "answer": [
+        "stripes"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He wears thin … uniform with bright yellow … and a heavy ___ to keep him safe.",
+       "answer": [
+        "helmet"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Sara is a/an __",
+       "options": [
+        "vet",
+        "voice-over actor",
+        "nurse",
+        "engineer"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Sara makes voices for __",
+       "options": [
+        "cars",
+        "stories",
+        "cartoons",
+        "books"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "q": "What is Sara's job?",
+       "answer": [
+        "voice-over actor",
+        "a voice-over actor",
+        "voice over actor"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Does Sara like her job?",
+       "answer": [
+        "yes"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Hany is (strong) than Samy.",
+       "answer": [
+        "stronger"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Does) they play football?",
+       "answer": [
+        "Do"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Ahmed is the (tall) boy in his class.",
+       "answer": [
+        "tallest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She doesn't (reads) Arabic well.",
+       "answer": [
+        "read"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "final2",
+   "title": "التقييم النهائي ٢",
+   "pages": "60-62",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "التقييم النهائي ٢",
+     "sub": "من كتاب التقييمات (ص 60-62) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My sister __ English every day.",
+       "options": [
+        "speak",
+        "spoke",
+        "speaking",
+        "speaks"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Orange juice gives Sarah __ in the morning.",
+       "options": [
+        "fun",
+        "color",
+        "energy",
+        "sugar"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I __ with my eye.",
+       "options": [
+        "see",
+        "hear",
+        "smell",
+        "touch"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Adam is the __ boy in the class.",
+       "options": [
+        "tallest",
+        "shorter",
+        "taller",
+        "a tall"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We __ our neighbors.",
+       "options": [
+        "sell",
+        "plant",
+        "help",
+        "write"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ you like sweets?",
+       "options": [
+        "Are",
+        "Does",
+        "Do",
+        "Is"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "q": "On Tuesday, we ___ the school playground.",
+       "answer": [
+        "clean"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "We also ___ bottles and plastic to protect nature.",
+       "answer": [
+        "recycle"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Some students plant ___ around the building.",
+       "answer": [
+        "trees"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "We all ___ each other to make our … better.",
+       "answer": [
+        "help"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "We all … each other to make our ___ better.",
+       "answer": [
+        "school"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Habiba drew a __ with smoke.",
+       "options": [
+        "factory",
+        "park",
+        "book",
+        "house"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Our teacher __ the project.",
+       "options": [
+        "liked",
+        "ate",
+        "read",
+        "wrote"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "q": "What was the class project about?",
+       "answer": [
+        "clean air",
+        "clean-air",
+        "the clean air project"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Who wrote about trees?",
+       "answer": [
+        "Aya"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "This dog is (fast) than the other one.",
+       "answer": [
+        "faster"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The table is (under) to the TV.",
+       "answer": [
+        "next"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The giraffe is the (tall) animal in the zoo.",
+       "answer": [
+        "tallest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Yassin (visit) the museum last week.",
+       "answer": [
+        "visited"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "final3",
+   "title": "التقييم النهائي ٣",
+   "pages": "62-63",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "التقييم النهائي ٣",
+     "sub": "من كتاب التقييمات (ص 62-63) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Farida is the __ girl in my class.",
+       "options": [
+        "a tall",
+        "taller",
+        "tallest",
+        "tall"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I __ play football on weekend.",
+       "options": [
+        "do",
+        "are",
+        "am",
+        "don't"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I __ with my ear.",
+       "options": [
+        "touch",
+        "smell",
+        "hear",
+        "smell"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Sameh is a/an __, he works in hospital.",
+       "options": [
+        "doctor",
+        "engineer",
+        "student",
+        "teacher"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "She doesn't __ English.",
+       "options": [
+        "studies",
+        "study",
+        "studying",
+        "studied"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Ali __ dogs in the street.",
+       "options": [
+        "feeds",
+        "sells",
+        "plants",
+        "does"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "q": "I'm a ___ photographer.",
+       "answer": [
+        "wildlife"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I ___ pictures of …, birds and plants in nature.",
+       "answer": [
+        "take"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I … pictures of ___, birds and plants in nature.",
+       "answer": [
+        "animals"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "My favorite animals are ___.",
+       "answer": [
+        "monkeys"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Heba went to the __",
+       "options": [
+        "Cairo Tower",
+        "Egyptian Museum",
+        "Pyramids",
+        "zoo"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "They were very __",
+       "options": [
+        "happy",
+        "sad",
+        "lazy",
+        "angry"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "q": "Is the Egyptian Museum important?",
+       "answer": [
+        "yes"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Hany is the (strong) one in the class.",
+       "answer": [
+        "strongest"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Do) Ahmed study French every day?",
+       "answer": [
+        "Does"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Ahmed is (short) than Samir.",
+       "answer": [
+        "shorter"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She (don't) read Arabic well.",
+       "answer": [
+        "doesn't"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
