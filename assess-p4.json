@@ -100,35 +100,40 @@
        "q": "He sees ___ flying near the flowers.",
        "answer": [
         "butterflies"
-       ]
+       ],
+       "passage": "Word box: flowers – butterflies – hear – see – smells\nSamir can hear the birds in the garden. He sees (1) ______ flying near the flowers. He can (2) ______ their beautiful wings. His sister (3) ______ the sweet (4) ______ in the air. Birds sing loudly, so she can (5) ______ them in the tree."
       },
       {
        "type": "typein",
        "q": "He can ___ their beautiful wings.",
        "answer": [
         "see"
-       ]
+       ],
+       "passage": "Word box: flowers – butterflies – hear – see – smells\nSamir can hear the birds in the garden. He sees (1) ______ flying near the flowers. He can (2) ______ their beautiful wings. His sister (3) ______ the sweet (4) ______ in the air. Birds sing loudly, so she can (5) ______ them in the tree."
       },
       {
        "type": "typein",
        "q": "His sister ___ the sweet … in the air.",
        "answer": [
         "smells"
-       ]
+       ],
+       "passage": "Word box: flowers – butterflies – hear – see – smells\nSamir can hear the birds in the garden. He sees (1) ______ flying near the flowers. He can (2) ______ their beautiful wings. His sister (3) ______ the sweet (4) ______ in the air. Birds sing loudly, so she can (5) ______ them in the tree."
       },
       {
        "type": "typein",
        "q": "His sister … the sweet ___ in the air.",
        "answer": [
         "flowers"
-       ]
+       ],
+       "passage": "Word box: flowers – butterflies – hear – see – smells\nSamir can hear the birds in the garden. He sees (1) ______ flying near the flowers. He can (2) ______ their beautiful wings. His sister (3) ______ the sweet (4) ______ in the air. Birds sing loudly, so she can (5) ______ them in the tree."
       },
       {
        "type": "typein",
        "q": "Birds sing loudly, so she can ___ them in the tree.",
        "answer": [
         "hear"
-       ]
+       ],
+       "passage": "Word box: flowers – butterflies – hear – see – smells\nSamir can hear the birds in the garden. He sees (1) ______ flying near the flowers. He can (2) ______ their beautiful wings. His sister (3) ______ the sweet (4) ______ in the air. Birds sing loudly, so she can (5) ______ them in the tree."
       }
      ]
     },
@@ -220,7 +225,8 @@
         "his voice",
         "shoes"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Omar was walking home when he smelled soup from a restaurant. He didn't go in, but he stood there smiling. The owner said, \"If you enjoy the smell, you must pay.\" Omar laughed and shook his coins. \"This is the sound of my payment!\" he said. The owner laughed too."
       },
       {
        "type": "mcq",
@@ -232,7 +238,8 @@
         "leave",
         "work"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Omar was walking home when he smelled soup from a restaurant. He didn't go in, but he stood there smiling. The owner said, \"If you enjoy the smell, you must pay.\" Omar laughed and shook his coins. \"This is the sound of my payment!\" he said. The owner laughed too."
       }
      ]
     },
@@ -246,35 +253,40 @@
        "q": "At night, ___ I take a shower.",
        "answer": [
         "first"
-       ]
+       ],
+       "passage": "Word box: Then – After that – first – Next – Finally\nAt night, (1) ______ I take a shower. (2) ______ I have dinner with my family. (3) ______ , I do my homework. (4) ______ I brush my teeth and read a book. (5) ______ I go to bed at nine o'clock because sleeping early keeps me healthy."
       },
       {
        "type": "typein",
        "q": "___ I have dinner with my family.",
        "answer": [
         "Then"
-       ]
+       ],
+       "passage": "Word box: Then – After that – first – Next – Finally\nAt night, (1) ______ I take a shower. (2) ______ I have dinner with my family. (3) ______ , I do my homework. (4) ______ I brush my teeth and read a book. (5) ______ I go to bed at nine o'clock because sleeping early keeps me healthy."
       },
       {
        "type": "typein",
        "q": "___, I do my homework.",
        "answer": [
         "After that"
-       ]
+       ],
+       "passage": "Word box: Then – After that – first – Next – Finally\nAt night, (1) ______ I take a shower. (2) ______ I have dinner with my family. (3) ______ , I do my homework. (4) ______ I brush my teeth and read a book. (5) ______ I go to bed at nine o'clock because sleeping early keeps me healthy."
       },
       {
        "type": "typein",
        "q": "___ I brush my teeth and read a book.",
        "answer": [
         "Next"
-       ]
+       ],
+       "passage": "Word box: Then – After that – first – Next – Finally\nAt night, (1) ______ I take a shower. (2) ______ I have dinner with my family. (3) ______ , I do my homework. (4) ______ I brush my teeth and read a book. (5) ______ I go to bed at nine o'clock because sleeping early keeps me healthy."
       },
       {
        "type": "typein",
        "q": "___ I go to bed at nine o'clock because sleeping early keeps me healthy.",
        "answer": [
         "Finally"
-       ]
+       ],
+       "passage": "Word box: Then – After that – first – Next – Finally\nAt night, (1) ______ I take a shower. (2) ______ I have dinner with my family. (3) ______ , I do my homework. (4) ______ I brush my teeth and read a book. (5) ______ I go to bed at nine o'clock because sleeping early keeps me healthy."
       }
      ]
     },
@@ -293,7 +305,8 @@
         "water",
         "rice"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Healthy lunch helps children feel strong and happy. A good lunch may have rice, chicken, vegetables, and fruits. Drinking water is also important. You shouldn't eat too many sweets or fried food. If you eat well, you will be able to run, play, and study better. Some children bring lunch from home, while others eat at school. Try to choose healthy food every day to keep your body and mind strong."
       },
       {
        "type": "mcq",
@@ -305,14 +318,16 @@
         "strong",
         "sad"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Healthy lunch helps children feel strong and happy. A good lunch may have rice, chicken, vegetables, and fruits. Drinking water is also important. You shouldn't eat too many sweets or fried food. If you eat well, you will be able to run, play, and study better. Some children bring lunch from home, while others eat at school. Try to choose healthy food every day to keep your body and mind strong."
       },
       {
        "type": "typein",
        "q": "Is drinking water important?",
        "answer": [
         "yes"
-       ]
+       ],
+       "passage": "Healthy lunch helps children feel strong and happy. A good lunch may have rice, chicken, vegetables, and fruits. Drinking water is also important. You shouldn't eat too many sweets or fried food. If you eat well, you will be able to run, play, and study better. Some children bring lunch from home, while others eat at school. Try to choose healthy food every day to keep your body and mind strong."
       }
      ]
     },
@@ -326,35 +341,40 @@
        "q": "She was very ___ but had no money.",
        "answer": [
         "hungry"
-       ]
+       ],
+       "passage": "Word box: owner – smelling – hungry – sound – laughed\nNilly passed a pizza shop. She was very (1) ______ but had no money. The (2) ______ said, \"You must pay for (3) ______ my pizza!\" Nilly clapped her hands and said, \"Take the (4) ______ as payment!\". The owner (5) ______."
       },
       {
        "type": "typein",
        "q": "The ___ said, \"You must pay for … my pizza!\"",
        "answer": [
         "owner"
-       ]
+       ],
+       "passage": "Word box: owner – smelling – hungry – sound – laughed\nNilly passed a pizza shop. She was very (1) ______ but had no money. The (2) ______ said, \"You must pay for (3) ______ my pizza!\" Nilly clapped her hands and said, \"Take the (4) ______ as payment!\". The owner (5) ______."
       },
       {
        "type": "typein",
        "q": "The … said, \"You must pay for ___ my pizza!\"",
        "answer": [
         "smelling"
-       ]
+       ],
+       "passage": "Word box: owner – smelling – hungry – sound – laughed\nNilly passed a pizza shop. She was very (1) ______ but had no money. The (2) ______ said, \"You must pay for (3) ______ my pizza!\" Nilly clapped her hands and said, \"Take the (4) ______ as payment!\". The owner (5) ______."
       },
       {
        "type": "typein",
        "q": "Nilly clapped her hands and said, \"Take the ___ as payment!\".",
        "answer": [
         "sound"
-       ]
+       ],
+       "passage": "Word box: owner – smelling – hungry – sound – laughed\nNilly passed a pizza shop. She was very (1) ______ but had no money. The (2) ______ said, \"You must pay for (3) ______ my pizza!\" Nilly clapped her hands and said, \"Take the (4) ______ as payment!\". The owner (5) ______."
       },
       {
        "type": "typein",
        "q": "The owner ___.",
        "answer": [
         "laughed"
-       ]
+       ],
+       "passage": "Word box: owner – smelling – hungry – sound – laughed\nNilly passed a pizza shop. She was very (1) ______ but had no money. The (2) ______ said, \"You must pay for (3) ______ my pizza!\" Nilly clapped her hands and said, \"Take the (4) ______ as payment!\". The owner (5) ______."
       }
      ]
     },
@@ -368,35 +388,40 @@
        "q": "Our ___ help us listen to teachers in class.",
        "answer": [
         "ears"
-       ]
+       ],
+       "passage": "Word box: smell – ears – senses – touch – taste\nWe use our eyes to read books and see our friends. Our (1) ______ help us listen to teachers in class. With our nose, we (2) ______ clean air. We (3) ______ our books with our hands and (4) ______ lunch with our tongue. Our (5) ______ help us learn."
       },
       {
        "type": "typein",
        "q": "With our nose, we ___ clean air.",
        "answer": [
         "smell"
-       ]
+       ],
+       "passage": "Word box: smell – ears – senses – touch – taste\nWe use our eyes to read books and see our friends. Our (1) ______ help us listen to teachers in class. With our nose, we (2) ______ clean air. We (3) ______ our books with our hands and (4) ______ lunch with our tongue. Our (5) ______ help us learn."
       },
       {
        "type": "typein",
        "q": "We ___ our books with our hands and … lunch with our tongue.",
        "answer": [
         "touch"
-       ]
+       ],
+       "passage": "Word box: smell – ears – senses – touch – taste\nWe use our eyes to read books and see our friends. Our (1) ______ help us listen to teachers in class. With our nose, we (2) ______ clean air. We (3) ______ our books with our hands and (4) ______ lunch with our tongue. Our (5) ______ help us learn."
       },
       {
        "type": "typein",
        "q": "We … our books with our hands and ___ lunch with our tongue.",
        "answer": [
         "taste"
-       ]
+       ],
+       "passage": "Word box: smell – ears – senses – touch – taste\nWe use our eyes to read books and see our friends. Our (1) ______ help us listen to teachers in class. With our nose, we (2) ______ clean air. We (3) ______ our books with our hands and (4) ______ lunch with our tongue. Our (5) ______ help us learn."
       },
       {
        "type": "typein",
        "q": "Our ___ help us learn.",
        "answer": [
         "senses"
-       ]
+       ],
+       "passage": "Word box: smell – ears – senses – touch – taste\nWe use our eyes to read books and see our friends. Our (1) ______ help us listen to teachers in class. With our nose, we (2) ______ clean air. We (3) ______ our books with our hands and (4) ______ lunch with our tongue. Our (5) ______ help us learn."
       }
      ]
     },
@@ -410,35 +435,40 @@
        "q": "Shady eats a good ___ every morning to have energy.",
        "answer": [
         "breakfast"
-       ]
+       ],
+       "passage": "Word box: friends – sharp – breakfast – plays – sleeps\nShady eats a good (1) ______ every morning to have energy. At school, he (2) ______ with his (3) ______ during break time. He (4) ______ for nine hours every night to keep his mind (5) ______ and his body healthy."
       },
       {
        "type": "typein",
        "q": "At school, he ___ with his … during break time.",
        "answer": [
         "plays"
-       ]
+       ],
+       "passage": "Word box: friends – sharp – breakfast – plays – sleeps\nShady eats a good (1) ______ every morning to have energy. At school, he (2) ______ with his (3) ______ during break time. He (4) ______ for nine hours every night to keep his mind (5) ______ and his body healthy."
       },
       {
        "type": "typein",
        "q": "At school, he … with his ___ during break time.",
        "answer": [
         "friends"
-       ]
+       ],
+       "passage": "Word box: friends – sharp – breakfast – plays – sleeps\nShady eats a good (1) ______ every morning to have energy. At school, he (2) ______ with his (3) ______ during break time. He (4) ______ for nine hours every night to keep his mind (5) ______ and his body healthy."
       },
       {
        "type": "typein",
        "q": "He ___ for nine hours every night to keep his mind … and his body healthy.",
        "answer": [
         "sleeps"
-       ]
+       ],
+       "passage": "Word box: friends – sharp – breakfast – plays – sleeps\nShady eats a good (1) ______ every morning to have energy. At school, he (2) ______ with his (3) ______ during break time. He (4) ______ for nine hours every night to keep his mind (5) ______ and his body healthy."
       },
       {
        "type": "typein",
        "q": "He … for nine hours every night to keep his mind ___ and his body healthy.",
        "answer": [
         "sharp"
-       ]
+       ],
+       "passage": "Word box: friends – sharp – breakfast – plays – sleeps\nShady eats a good (1) ______ every morning to have energy. At school, he (2) ______ with his (3) ______ during break time. He (4) ______ for nine hours every night to keep his mind (5) ______ and his body healthy."
       }
      ]
     },
@@ -493,7 +523,7 @@
         "garden",
         "restaurant"
        ],
-       "answer": 2
+       "answer": 3
       },
       {
        "type": "mcq",
@@ -578,7 +608,8 @@
         "ears",
         "smell"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Word box: eyes – ears – smell – tongue – senses\nI see with my eyes. I hear with my (1) ______ . I (2) ______ with my nose. I taste with my (3) ______ . I touch with my hands. These five (4) ______ help me understand the world around me."
       },
       {
        "type": "mcq",
@@ -591,7 +622,8 @@
         "senses",
         "smell"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Word box: eyes – ears – smell – tongue – senses\nI see with my eyes. I hear with my (1) ______ . I (2) ______ with my nose. I taste with my (3) ______ . I touch with my hands. These five (4) ______ help me understand the world around me."
       },
       {
        "type": "mcq",
@@ -604,7 +636,8 @@
         "eyes",
         "tongue"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Word box: eyes – ears – smell – tongue – senses\nI see with my eyes. I hear with my (1) ______ . I (2) ______ with my nose. I taste with my (3) ______ . I touch with my hands. These five (4) ______ help me understand the world around me."
       },
       {
        "type": "mcq",
@@ -617,7 +650,8 @@
         "ears",
         "tongue"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Word box: eyes – ears – smell – tongue – senses\nI see with my eyes. I hear with my (1) ______ . I (2) ______ with my nose. I taste with my (3) ______ . I touch with my hands. These five (4) ______ help me understand the world around me."
       },
       {
        "type": "mcq",
@@ -630,7 +664,8 @@
         "brushes",
         "routines"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Word box: routines – brushes – breakfast – helps – watches\nMy brother and I play football every day. He wakes up early and (1) ______ his teeth. Then he eats (2) ______ . After school, he (3) ______ our father. We enjoy watching TV together at night. These are our daily habits and (4) ______ ."
       },
       {
        "type": "mcq",
@@ -643,7 +678,8 @@
         "helps",
         "breakfast"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Word box: routines – brushes – breakfast – helps – watches\nMy brother and I play football every day. He wakes up early and (1) ______ his teeth. Then he eats (2) ______ . After school, he (3) ______ our father. We enjoy watching TV together at night. These are our daily habits and (4) ______ ."
       },
       {
        "type": "mcq",
@@ -656,7 +692,8 @@
         "helps",
         "brushes"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Word box: routines – brushes – breakfast – helps – watches\nMy brother and I play football every day. He wakes up early and (1) ______ his teeth. Then he eats (2) ______ . After school, he (3) ______ our father. We enjoy watching TV together at night. These are our daily habits and (4) ______ ."
       },
       {
        "type": "mcq",
@@ -669,7 +706,8 @@
         "routines",
         "watches"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Word box: routines – brushes – breakfast – helps – watches\nMy brother and I play football every day. He wakes up early and (1) ______ his teeth. Then he eats (2) ______ . After school, he (3) ______ our father. We enjoy watching TV together at night. These are our daily habits and (4) ______ ."
       },
       {
        "type": "mcq",
@@ -682,7 +720,8 @@
         "money",
         "coins"
        ],
-       "answer": 1
+       "answer": 1,
+       "passage": "Word box: smelled – restaurant – owner – coins – money\nGoha walked to the market. He (1) ______ something delicious. He stopped near the (2) ______ window and closed his eyes. The smell made him feel full. When the (3) ______ came, Goha gave him the sound of (4) ______ instead of real money."
       },
       {
        "type": "mcq",
@@ -695,7 +734,8 @@
         "coins",
         "restaurant"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Word box: smelled – restaurant – owner – coins – money\nGoha walked to the market. He (1) ______ something delicious. He stopped near the (2) ______ window and closed his eyes. The smell made him feel full. When the (3) ______ came, Goha gave him the sound of (4) ______ instead of real money."
       },
       {
        "type": "mcq",
@@ -708,7 +748,8 @@
         "owner",
         "coins"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Word box: smelled – restaurant – owner – coins – money\nGoha walked to the market. He (1) ______ something delicious. He stopped near the (2) ______ window and closed his eyes. The smell made him feel full. When the (3) ______ came, Goha gave him the sound of (4) ______ instead of real money."
       },
       {
        "type": "mcq",
@@ -721,7 +762,8 @@
         "coins",
         "owner"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Word box: smelled – restaurant – owner – coins – money\nGoha walked to the market. He (1) ______ something delicious. He stopped near the (2) ______ window and closed his eyes. The smell made him feel full. When the (3) ______ came, Goha gave him the sound of (4) ______ instead of real money."
       },
       {
        "type": "mcq",
@@ -734,7 +776,8 @@
         "plays",
         "vitamins"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Word box: vitamins – studies – plays – help – wakes\nHabiba wakes up early every day. She eats fruit and takes her (1) ______ . Then she (2) ______ English before going to school. Her brother (3) ______ games after breakfast. They both (4) ______ their parents and watch cartoons at night before sleeping happily."
       },
       {
        "type": "mcq",
@@ -747,7 +790,8 @@
         "help",
         "plays"
        ],
-       "answer": 2
+       "answer": 2,
+       "passage": "Word box: vitamins – studies – plays – help – wakes\nHabiba wakes up early every day. She eats fruit and takes her (1) ______ . Then she (2) ______ English before going to school. Her brother (3) ______ games after breakfast. They both (4) ______ their parents and watch cartoons at night before sleeping happily."
       },
       {
        "type": "mcq",
@@ -760,7 +804,8 @@
         "wakes",
         "studies"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Word box: vitamins – studies – plays – help – wakes\nHabiba wakes up early every day. She eats fruit and takes her (1) ______ . Then she (2) ______ English before going to school. Her brother (3) ______ games after breakfast. They both (4) ______ their parents and watch cartoons at night before sleeping happily."
       },
       {
        "type": "mcq",
@@ -773,7 +818,8 @@
         "vitamins",
         "help"
        ],
-       "answer": 4
+       "answer": 4,
+       "passage": "Word box: vitamins – studies – plays – help – wakes\nHabiba wakes up early every day. She eats fruit and takes her (1) ______ . Then she (2) ______ English before going to school. Her brother (3) ______ games after breakfast. They both (4) ______ their parents and watch cartoons at night before sleeping happily."
       },
       {
        "type": "mcq",
@@ -786,7 +832,8 @@
         "fruit",
         "vegetables"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Word box: routines – food – fruit – vegetables – energy\nSara eats many kinds of food to stay healthy. Every day, she eats (1) ______ like apples and bananas. She also enjoys (2) ______ such as carrots and peas. Her mother says it is important to eat from all (3) ______ groups. Sara drinks milk, too. She feels strong and full of (4) ______ ."
       },
       {
        "type": "mcq",
@@ -799,7 +846,8 @@
         "food",
         "energy"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Word box: routines – food – fruit – vegetables – energy\nSara eats many kinds of food to stay healthy. Every day, she eats (1) ______ like apples and bananas. She also enjoys (2) ______ such as carrots and peas. Her mother says it is important to eat from all (3) ______ groups. Sara drinks milk, too. She feels strong and full of (4) ______ ."
       },
       {
        "type": "mcq",
@@ -812,7 +860,8 @@
         "energy",
         "routines"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Word box: routines – food – fruit – vegetables – energy\nSara eats many kinds of food to stay healthy. Every day, she eats (1) ______ like apples and bananas. She also enjoys (2) ______ such as carrots and peas. Her mother says it is important to eat from all (3) ______ groups. Sara drinks milk, too. She feels strong and full of (4) ______ ."
       },
       {
        "type": "mcq",
@@ -825,7 +874,8 @@
         "energy",
         "vegetables"
        ],
-       "answer": 3
+       "answer": 3,
+       "passage": "Word box: routines – food – fruit – vegetables – energy\nSara eats many kinds of food to stay healthy. Every day, she eats (1) ______ like apples and bananas. She also enjoys (2) ______ such as carrots and peas. Her mother says it is important to eat from all (3) ______ groups. Sara drinks milk, too. She feels strong and full of (4) ______ ."
       }
      ]
     }
