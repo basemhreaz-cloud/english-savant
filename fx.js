@@ -19,7 +19,7 @@ var css='.esfx-wash{position:absolute;inset:0;border-radius:inherit;pointer-even
 +'@keyframes esfxFade{0%{opacity:0;transform:translate(-50%,-50%) scale(1)}25%{opacity:1;transform:translate(-50%,-50%) scale(1)}100%{opacity:0;transform:translate(-50%,-50%) scale(1)}}';
 var st=document.createElement('style');st.textContent=css;document.head.appendChild(st);
 var base=(function(){var s=document.currentScript;return s&&s.src?s.src.replace(/[^\/]*$/,''):''})();
-var snd={};['ok','no'].forEach(function(k){var a=new Audio();a.preload='auto';a.src=base+'audio/'+k+'-'+(window.ES_FX_LANG||'ar')+'.mp3';a.addEventListener('error',function(){a.__bad=1});snd[k]=a});
+var snd={};['ok','no'].forEach(function(k){var a=new Audio();a.preload='auto';a.src=base+'audio/'+k+'-'+(window.ES_FX_LANG||'ar')+'.mp3?v=4';a.addEventListener('error',function(){a.__bad=1});snd[k]=a});
 var unlocked=false;
 function unlock(){if(unlocked)return;unlocked=true;['ok','no'].forEach(function(k){var a=snd[k];a.muted=true;var p=a.play();if(p&&p.then)p.then(function(){a.pause();a.currentTime=0;a.muted=false}).catch(function(){a.muted=false})})}
 ['pointerdown','touchstart','keydown'].forEach(function(e){document.addEventListener(e,unlock,{once:true,passive:true,capture:true})});
