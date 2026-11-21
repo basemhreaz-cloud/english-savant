@@ -28,6 +28,28 @@
      "title": "Daily Routines"
     }
    ],
+   "vocab": [
+    "hello",
+    "goodbye",
+    "class",
+    "school",
+    "teacher",
+    "student",
+    "tall",
+    "short",
+    "kind",
+    "funny"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "wh",
+     "cluster": "wh",
+     "words": [
+      "what"
+     ]
+    }
+   ],
    "stations": [
     {
      "id": "vocab",
@@ -119,6 +141,28 @@
     {
      "n": 4,
      "title": "Jobs in My Family"
+    }
+   ],
+   "vocab": [
+    "aunt",
+    "uncle",
+    "cousin"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "x = /gz/",
+     "cluster": "x",
+     "words": [
+      "exam"
+     ]
+    },
+    {
+     "focus": "ph = /f/",
+     "cluster": "ph",
+     "words": [
+      "phone"
+     ]
     }
    ],
    "stations": [
@@ -219,6 +263,33 @@
     {
      "n": 4,
      "title": "A School Trip to the Zoo"
+    }
+   ],
+   "vocab": [
+    "zoo",
+    "under",
+    "between",
+    "behind"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "double consonant endings ff/ll/ss/zz",
+     "cluster": "ff",
+     "words": [
+      "buzz"
+     ]
+    },
+    {
+     "focus": "ck = /k/",
+     "cluster": "ck",
+     "words": [
+      "duck",
+      "sock",
+      "back",
+      "neck",
+      "truck"
+     ]
     }
    ],
    "stations": [
@@ -340,6 +411,43 @@
     {
      "n": 3,
      "title": "A Big Win"
+    }
+   ],
+   "vocab": [
+    "happy",
+    "sad",
+    "excited",
+    "angry",
+    "shy",
+    "tired",
+    "bored",
+    "scared",
+    "went",
+    "draw"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "hard c = /k/",
+     "cluster": "",
+     "words": [
+      "cat",
+      "came",
+      "cold",
+      "carry"
+     ]
+    },
+    {
+     "focus": "soft c = /s/",
+     "cluster": "",
+     "words": [
+      "face",
+      "nice",
+      "city",
+      "ice",
+      "pencil",
+      "cent"
+     ]
     }
    ],
    "stations": [
@@ -530,6 +638,41 @@
      "title": "I Help My Community!"
     }
    ],
+   "vocab": [
+    "clean",
+    "share",
+    "care",
+    "win",
+    "cheer",
+    "plant",
+    "donate"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "hard g = /g/",
+     "cluster": "",
+     "words": [
+      "gum",
+      "dog",
+      "good",
+      "green",
+      "big",
+      "game"
+     ]
+    },
+    {
+     "focus": "soft g = /dʒ/ (before e, i, y)",
+     "cluster": "",
+     "words": [
+      "giraffe",
+      "egypt",
+      "page",
+      "huge",
+      "magic"
+     ]
+    }
+   ],
    "stations": [
     {
      "id": "vocab",
@@ -671,6 +814,35 @@
      "title": "Helping Others Succeed"
     }
    ],
+   "vocab": [
+    "goal",
+    "try",
+    "step",
+    "plan",
+    "practice",
+    "celebrate",
+    "success",
+    "reach",
+    "race",
+    "nervous"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "three-consonant clusters spr-, spl-, str-, scr-",
+     "cluster": "spr",
+     "words": [
+      "spring",
+      "spray",
+      "splash",
+      "split",
+      "screen",
+      "scratch",
+      "string",
+      "street"
+     ]
+    }
+   ],
    "stations": [
     {
      "id": "vocab",
@@ -748,6 +920,322 @@
        "letters": "_een",
        "answer": [
         "scr"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r1",
+   "num": "مراجعة الوحدات ١-٣",
+   "title": "مراجعة الوحدات ١-٣",
+   "pages": [
+    63,
+    66
+   ],
+   "review": true,
+   "vocab": [
+    "hello",
+    "goodbye",
+    "class",
+    "school",
+    "aunt",
+    "uncle",
+    "cousin",
+    "zoo",
+    "under",
+    "between",
+    "behind"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "wh",
+     "cluster": "wh",
+     "words": [
+      "what"
+     ]
+    },
+    {
+     "focus": "x = /gz/",
+     "cluster": "x",
+     "words": [
+      "exam"
+     ]
+    },
+    {
+     "focus": "double consonant endings ff/ll/ss/zz",
+     "cluster": "ff",
+     "words": [
+      "buzz"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة شاملة",
+     "sub": "أسئلة متنوعة من الوحدات",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_at",
+       "answer": [
+        "wh"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_xam",
+       "answer": [
+        "e"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "bu__",
+       "answer": [
+        "zz"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_one",
+       "answer": [
+        "ph"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "du__",
+       "answer": [
+        "ck"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "uceln",
+       "answer": [
+        "uncle"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "nedur",
+       "answer": [
+        "under"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "obeoydg",
+       "answer": [
+        "goodbye"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "nheidb",
+       "answer": [
+        "behind"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "unat",
+       "answer": [
+        "aunt"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "edttnus",
+       "answer": [
+        "student"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "num": "مراجعة الوحدات ٤-٦",
+   "title": "مراجعة الوحدات ٤-٦",
+   "pages": [
+    114,
+    117
+   ],
+   "review": true,
+   "vocab": [
+    "happy",
+    "sad",
+    "excited",
+    "angry",
+    "clean",
+    "share",
+    "care",
+    "win",
+    "goal",
+    "try",
+    "step",
+    "plan"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "hard c = /k/",
+     "cluster": "",
+     "words": [
+      "cat",
+      "came",
+      "cold",
+      "carry"
+     ]
+    },
+    {
+     "focus": "hard g = /g/",
+     "cluster": "",
+     "words": [
+      "gum",
+      "dog",
+      "good",
+      "green",
+      "big",
+      "game"
+     ]
+    },
+    {
+     "focus": "three-consonant clusters spr-, spl-, str-, scr-",
+     "cluster": "spr",
+     "words": [
+      "spring",
+      "spray",
+      "splash",
+      "split",
+      "screen",
+      "scratch",
+      "string",
+      "street"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة شاملة",
+     "sub": "أسئلة متنوعة من الوحدات",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ldhepe",
+       "answer": [
+        "helped"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "crae",
+       "answer": [
+        "race"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_og",
+       "answer": [
+        "d"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ame",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"is\":",
+       "answer": [
+        "was"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "wder",
+       "answer": [
+        "drew"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ash",
+       "answer": [
+        "spl"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"are\":",
+       "answer": [
+        "were"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_um",
+       "answer": [
+        "g"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_at",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "eabcrtlee",
+       "answer": [
+        "celebrate"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ing",
+       "answer": [
+        "spr"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "tadeon",
+       "answer": [
+        "donate"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "nalec",
+       "answer": [
+        "clean"
        ]
       }
      ]

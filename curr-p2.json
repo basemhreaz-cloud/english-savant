@@ -28,6 +28,45 @@
      "title": "Let's Write Together!"
     }
    ],
+   "vocab": [
+    "goodbye",
+    "please",
+    "pen",
+    "pencil",
+    "book",
+    "bag",
+    "chair",
+    "desk",
+    "board",
+    "door"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "short a /æ/",
+     "cluster": "",
+     "words": [
+      "cat",
+      "hat",
+      "fan",
+      "man",
+      "map",
+      "cap"
+     ]
+    },
+    {
+     "focus": "short e /e/ and short i /ɪ/",
+     "cluster": "",
+     "words": [
+      "pen",
+      "ten",
+      "hen",
+      "zip",
+      "fig",
+      "bin"
+     ]
+    }
+   ],
    "stations": [
     {
      "id": "vocab",
@@ -153,6 +192,49 @@
      "title": "Let's Count Together"
     }
    ],
+   "vocab": [
+    "blue",
+    "orange",
+    "green",
+    "red",
+    "yellow",
+    "circle",
+    "square",
+    "oval",
+    "color",
+    "shape"
+   ],
+   "sentences": [
+    "This is a red circle.",
+    "What color is this?"
+   ],
+   "phonics": [
+    {
+     "focus": "short o /ɒ/ and short u /ʌ/",
+     "cluster": "",
+     "words": [
+      "dog",
+      "box",
+      "fox",
+      "sun",
+      "cup",
+      "bun"
+     ]
+    },
+    {
+     "focus": "long a /eɪ/",
+     "cluster": "",
+     "words": [
+      "cake",
+      "lake",
+      "gate",
+      "cave",
+      "snake",
+      "grapes",
+      "name"
+     ]
+    }
+   ],
    "stations": [
     {
      "id": "vocab",
@@ -161,44 +243,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "rmbenu",
+       "letters": "ahpes",
        "answer": [
-        "number"
+        "shape"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "oavl",
-       "answer": [
-        "oval"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "enger",
+       "letters": "gerne",
        "answer": [
         "green"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "lebu",
+       "letters": "ersuaq",
+       "answer": [
+        "square"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rmbune",
+       "answer": [
+        "number"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "vlao",
+       "answer": [
+        "oval"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "lube",
        "answer": [
         "blue"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "wlleyo",
-       "answer": [
-        "yellow"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "aheps",
-       "answer": [
-        "shape"
        ]
       }
      ]
@@ -211,11 +293,11 @@
       {
        "type": "reorder",
        "words": [
-        "red",
         "is",
         "a",
+        "This",
         "circle.",
-        "This"
+        "red"
        ],
        "answer": [
         "This",
@@ -229,9 +311,9 @@
        "type": "reorder",
        "words": [
         "this?",
-        "is",
+        "What",
         "color",
-        "What"
+        "is"
        ],
        "answer": [
         "What",
@@ -239,6 +321,18 @@
         "is",
         "this?"
        ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "This is a red ___.",
+       "options": [
+        "square",
+        "red",
+        "circle",
+        "green"
+       ],
+       "answer": 2
       }
      ]
     },
@@ -276,24 +370,24 @@
        "label": "sound",
        "q": "Which word has the short o /ɒ/ and short u /ʌ/ sound?",
        "options": [
-        "cake",
-        "fox",
+        "cave",
         "grapes",
-        "gate"
+        "fox",
+        "lake"
        ],
-       "answer": 1
+       "answer": 2
       },
       {
        "type": "mcq",
        "label": "sound",
        "q": "Which word has the long a /eɪ/ sound?",
        "options": [
+        "sun",
         "gate",
-        "dog",
-        "cup",
-        "sun"
+        "box",
+        "dog"
        ],
-       "answer": 0
+       "answer": 1
       }
      ]
     }
@@ -325,6 +419,36 @@
      "title": "Writing About Our Class"
     }
    ],
+   "vocab": [
+    "read",
+    "write",
+    "clean",
+    "draw",
+    "sit",
+    "stand",
+    "play",
+    "color",
+    "sing",
+    "open"
+   ],
+   "sentences": [
+    "I read a book.",
+    "What do you do in the classroom?"
+   ],
+   "phonics": [
+    {
+     "focus": "initial consonant sounds",
+     "cluster": "",
+     "words": [
+      "sit",
+      "sun",
+      "clap",
+      "classmate",
+      "draw",
+      "door"
+     ]
+    }
+   ],
    "stations": [
     {
      "id": "vocab",
@@ -333,44 +457,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "capl",
+       "letters": "clpa",
        "answer": [
         "clap"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "awdr",
+       "letters": "dntas",
        "answer": [
-        "draw"
+        "stand"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "nclea",
-       "answer": [
-        "clean"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "epon",
+       "letters": "oenp",
        "answer": [
         "open"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "coorl",
+       "letters": "etirw",
        "answer": [
-        "color"
+        "write"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "tis",
+       "letters": "sign",
        "answer": [
-        "sit"
+        "sing"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "canle",
+       "answer": [
+        "clean"
        ]
       }
      ]
@@ -383,10 +507,10 @@
       {
        "type": "reorder",
        "words": [
-        "book.",
-        "I",
         "read",
-        "a"
+        "book.",
+        "a",
+        "I"
        ],
        "answer": [
         "I",
@@ -464,6 +588,46 @@
      "title": "Me and My Family"
     }
    ],
+   "vocab": [
+    "father",
+    "dad",
+    "mother",
+    "mom",
+    "sister",
+    "brother",
+    "grandmother",
+    "aunt",
+    "cousin",
+    "parents"
+   ],
+   "sentences": [
+    "This is my sister.",
+    "What do you do in the morning?"
+   ],
+   "phonics": [
+    {
+     "focus": "long o and long u",
+     "cluster": "",
+     "words": [
+      "nose",
+      "glue",
+      "rose",
+      "cube"
+     ]
+    },
+    {
+     "focus": "digraph th /θ/",
+     "cluster": "th",
+     "words": [
+      "thin",
+      "thick",
+      "thumb",
+      "thunder",
+      "math",
+      "teeth"
+     ]
+    }
+   ],
    "stations": [
     {
      "id": "vocab",
@@ -472,44 +636,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "utna",
+       "letters": "hdcienrl",
        "answer": [
-        "aunt"
+        "children"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "bayb",
-       "answer": [
-        "baby"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "swah",
-       "answer": [
-        "wash"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "edar",
-       "answer": [
-        "read"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "nrpates",
+       "letters": "tnpsrae",
        "answer": [
         "parents"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "milafy",
+       "letters": "whsa",
        "answer": [
-        "family"
+        "wash"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "add",
+       "answer": [
+        "dad"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "leeps",
+       "answer": [
+        "sleep"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "paly",
+       "answer": [
+        "play"
        ]
       }
      ]
@@ -522,10 +686,10 @@
       {
        "type": "reorder",
        "words": [
-        "This",
-        "sister.",
         "my",
-        "is"
+        "is",
+        "This",
+        "sister."
        ],
        "answer": [
         "This",
@@ -533,6 +697,18 @@
         "my",
         "sister."
        ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "This is my ___.",
+       "options": [
+        "sister",
+        "cousin",
+        "wash",
+        "brother"
+       ],
+       "answer": 0
       }
      ]
     },
@@ -560,6 +736,14 @@
       {
        "type": "unscramble",
        "label": "sound",
+       "letters": "_in",
+       "answer": [
+        "th"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
        "letters": "_ick",
        "answer": [
         "th"
@@ -578,24 +762,24 @@
        "label": "sound",
        "q": "Which word has the long o and long u sound?",
        "options": [
-        "rose",
-        "teeth",
+        "math",
+        "thin",
         "thunder",
-        "thick"
+        "rose"
        ],
-       "answer": 0
+       "answer": 3
       },
       {
        "type": "mcq",
        "label": "sound",
        "q": "Which word has the digraph th /θ/ sound?",
        "options": [
-        "rose",
-        "thumb",
+        "cube",
         "glue",
-        "cube"
+        "thumb",
+        "rose"
        ],
-       "answer": 1
+       "answer": 2
       }
      ]
     }
@@ -635,6 +819,49 @@
      "title": "Draw and Write + Self-Assessment"
     }
    ],
+   "vocab": [
+    "table",
+    "chair",
+    "bed",
+    "door",
+    "window",
+    "lamp",
+    "cup",
+    "plate",
+    "bathroom",
+    "kitchen"
+   ],
+   "sentences": [
+    "Where is the window?",
+    "The lamp is on the table.",
+    "What do you do at home?",
+    "I help my mother clean."
+   ],
+   "phonics": [
+    {
+     "focus": "digraph th /ð/",
+     "cluster": "th",
+     "words": [
+      "mother",
+      "father",
+      "brother",
+      "this",
+      "that"
+     ]
+    },
+    {
+     "focus": "digraph sh /ʃ/",
+     "cluster": "sh",
+     "words": [
+      "sheep",
+      "ship",
+      "shop",
+      "fish",
+      "dish",
+      "brush"
+     ]
+    }
+   ],
    "stations": [
     {
      "id": "vocab",
@@ -643,44 +870,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "oodr",
+       "letters": "whtca",
        "answer": [
-        "door"
+        "watch"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "pcu",
+       "letters": "whas",
        "answer": [
-        "cup"
+        "wash"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "okco",
+       "letters": "nidwwo",
+       "answer": [
+        "window"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "elpta",
+       "answer": [
+        "plate"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ookc",
        "answer": [
         "cook"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "cihra",
+       "letters": "hkcneti",
        "answer": [
-        "chair"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "obmartoh",
-       "answer": [
-        "bathroom"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "ehlp",
-       "answer": [
-        "help"
+        "kitchen"
        ]
       }
      ]
@@ -694,9 +921,9 @@
        "type": "reorder",
        "words": [
         "is",
-        "Where",
         "the",
-        "window?"
+        "window?",
+        "Where"
        ],
        "answer": [
         "Where",
@@ -708,12 +935,12 @@
       {
        "type": "reorder",
        "words": [
-        "on",
+        "lamp",
         "the",
-        "The",
         "is",
-        "table.",
-        "lamp"
+        "The",
+        "on",
+        "table."
        ],
        "answer": [
         "The",
@@ -727,12 +954,12 @@
       {
        "type": "reorder",
        "words": [
-        "do",
-        "do",
         "home?",
-        "at",
         "What",
-        "you"
+        "you",
+        "at",
+        "do",
+        "do"
        ],
        "answer": [
         "What",
@@ -749,9 +976,9 @@
        "q": "Where is the ___?",
        "options": [
         "window",
-        "wash",
-        "plate",
-        "help"
+        "cook",
+        "kitchen",
+        "chair"
        ],
        "answer": 0
       },
@@ -760,9 +987,9 @@
        "label": "cloze",
        "q": "The lamp is on the ___.",
        "options": [
-        "help",
-        "chair",
-        "wash",
+        "bed",
+        "door",
+        "watch",
         "table"
        ],
        "answer": 3
@@ -777,7 +1004,39 @@
       {
        "type": "unscramble",
        "label": "sound",
+       "letters": "_is",
+       "answer": [
+        "th"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_at",
+       "answer": [
+        "th"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
        "letters": "_eep",
+       "answer": [
+        "sh"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ip",
+       "answer": [
+        "sh"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_op",
        "answer": [
         "sh"
        ]
@@ -787,24 +1046,24 @@
        "label": "sound",
        "q": "Which word has the digraph th /ð/ sound?",
        "options": [
-        "brother",
+        "brush",
         "shop",
-        "dish",
-        "ship"
+        "ship",
+        "brother"
        ],
-       "answer": 0
+       "answer": 3
       },
       {
        "type": "mcq",
        "label": "sound",
        "q": "Which word has the digraph sh /ʃ/ sound?",
        "options": [
-        "mother",
         "this",
-        "brother",
-        "shop"
+        "mother",
+        "shop",
+        "father"
        ],
-       "answer": 3
+       "answer": 2
       }
      ]
     }
@@ -836,6 +1095,37 @@
      "title": "I Can Read and Write About My Home!"
     }
    ],
+   "vocab": [
+    "kitchen",
+    "bedroom",
+    "bathroom",
+    "garden",
+    "hall",
+    "balcony"
+   ],
+   "sentences": [
+    "There is a kitchen in my house.",
+    "There are three bedrooms.",
+    "Where do you eat?",
+    "I eat in the kitchen.",
+    "Where is the table?",
+    "It is in the dining room.",
+    "What is in your house?",
+    "There is a bathroom."
+   ],
+   "phonics": [
+    {
+     "focus": "digraph ch /tʃ/",
+     "cluster": "ch",
+     "words": [
+      "cheese",
+      "chicken",
+      "chin",
+      "lunch",
+      "beach"
+     ]
+    }
+   ],
    "stations": [
     {
      "id": "vocab",
@@ -844,44 +1134,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "ngdaer",
+       "letters": "dboeorm",
+       "answer": [
+        "bedroom"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "nardge",
        "answer": [
         "garden"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "hoartbmo",
-       "answer": [
-        "bathroom"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "onabcly",
+       "letters": "aolbncy",
        "answer": [
         "balcony"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "hlla",
+       "letters": "tbooarmh",
+       "answer": [
+        "bathroom"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ahll",
        "answer": [
         "hall"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "kintceh",
+       "letters": "ickhnte",
        "answer": [
         "kitchen"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "modrebo",
-       "answer": [
-        "bedroom"
        ]
       }
      ]
@@ -894,9 +1184,9 @@
       {
        "type": "reorder",
        "words": [
+        "bedrooms.",
         "are",
         "There",
-        "bedrooms.",
         "three"
        ],
        "answer": [
@@ -909,10 +1199,10 @@
       {
        "type": "reorder",
        "words": [
-        "you",
-        "do",
         "eat?",
-        "Where"
+        "Where",
+        "you",
+        "do"
        ],
        "answer": [
         "Where",
@@ -924,11 +1214,11 @@
       {
        "type": "reorder",
        "words": [
-        "in",
-        "I",
         "eat",
+        "the",
+        "in",
         "kitchen.",
-        "the"
+        "I"
        ],
        "answer": [
         "I",
@@ -943,22 +1233,22 @@
        "label": "cloze",
        "q": "I eat in the ___.",
        "options": [
-        "bedroom",
-        "bathroom",
-        "hall",
-        "kitchen"
+        "balcony",
+        "garden",
+        "kitchen",
+        "hall"
        ],
-       "answer": 3
+       "answer": 2
       },
       {
        "type": "mcq",
        "label": "cloze",
        "q": "There is a ___.",
        "options": [
-        "bedroom",
-        "bathroom",
         "hall",
-        "garden"
+        "bathroom",
+        "garden",
+        "bedroom"
        ],
        "answer": 1
       }
@@ -984,6 +1274,30 @@
        "answer": [
         "ch"
        ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_in",
+       "answer": [
+        "ch"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "lun__",
+       "answer": [
+        "ch"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "bea__",
+       "answer": [
+        "ch"
+       ]
       }
      ]
     }
@@ -998,6 +1312,64 @@
     48
    ],
    "review": true,
+   "vocab": [
+    "goodbye",
+    "please",
+    "pen",
+    "pencil",
+    "blue",
+    "orange",
+    "green",
+    "red",
+    "read",
+    "write",
+    "clean",
+    "draw"
+   ],
+   "sentences": [
+    "This is a red circle.",
+    "What color is this?",
+    "I read a book.",
+    "What do you do in the classroom?"
+   ],
+   "phonics": [
+    {
+     "focus": "short a /æ/",
+     "cluster": "",
+     "words": [
+      "cat",
+      "hat",
+      "fan",
+      "man",
+      "map",
+      "cap"
+     ]
+    },
+    {
+     "focus": "short o /ɒ/ and short u /ʌ/",
+     "cluster": "",
+     "words": [
+      "dog",
+      "box",
+      "fox",
+      "sun",
+      "cup",
+      "bun"
+     ]
+    },
+    {
+     "focus": "initial consonant sounds",
+     "cluster": "",
+     "words": [
+      "sit",
+      "sun",
+      "clap",
+      "classmate",
+      "draw",
+      "door"
+     ]
+    }
+   ],
    "stations": [
     {
      "id": "mix",
@@ -1005,13 +1377,29 @@
      "sub": "أسئلة متنوعة من الوحدات",
      "questions": [
       {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_it",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_og",
+       "answer": [
+        "d"
+       ]
+      },
+      {
        "type": "reorder",
        "words": [
-        "red",
         "is",
         "a",
+        "This",
         "circle.",
-        "This"
+        "red"
        ],
        "answer": [
         "This",
@@ -1019,6 +1407,80 @@
         "a",
         "red",
         "circle."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "this?",
+        "What",
+        "color",
+        "is"
+       ],
+       "answer": [
+        "What",
+        "color",
+        "is",
+        "this?"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "clpa",
+       "answer": [
+        "clap"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ox",
+       "answer": [
+        "b"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_un",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "bador",
+       "answer": [
+        "board"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "dntas",
+       "answer": [
+        "stand"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_en",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "iharc",
+       "answer": [
+        "chair"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ahpes",
+       "answer": [
+        "shape"
        ]
       },
       {
@@ -1032,40 +1494,10 @@
       {
        "type": "reorder",
        "words": [
-        "this?",
-        "is",
-        "color",
-        "What"
-       ],
-       "answer": [
-        "What",
-        "color",
-        "is",
-        "this?"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "iharc",
-       "answer": [
-        "chair"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_en",
-       "answer": [
-        "p"
-       ]
-      },
-      {
-       "type": "reorder",
-       "words": [
-        "book.",
-        "I",
         "read",
-        "a"
+        "book.",
+        "a",
+        "I"
        ],
        "answer": [
         "I",
@@ -1076,69 +1508,9 @@
       },
       {
        "type": "unscramble",
-       "letters": "capl",
+       "letters": "gerne",
        "answer": [
-        "clap"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "rmbenu",
-       "answer": [
-        "number"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_og",
-       "answer": [
-        "d"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "oavl",
-       "answer": [
-        "oval"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "awdr",
-       "answer": [
-        "draw"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_it",
-       "answer": [
-        "s"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_un",
-       "answer": [
-        "s"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_ox",
-       "answer": [
-        "b"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "bador",
-       "answer": [
-        "board"
+        "green"
        ]
       }
      ]
@@ -1154,6 +1526,62 @@
     101
    ],
    "review": true,
+   "vocab": [
+    "father",
+    "dad",
+    "mother",
+    "mom",
+    "table",
+    "chair",
+    "bed",
+    "door",
+    "kitchen",
+    "bedroom",
+    "bathroom",
+    "garden"
+   ],
+   "sentences": [
+    "This is my sister.",
+    "What do you do in the morning?",
+    "Where is the window?",
+    "The lamp is on the table.",
+    "There is a kitchen in my house.",
+    "There are three bedrooms."
+   ],
+   "phonics": [
+    {
+     "focus": "long o and long u",
+     "cluster": "",
+     "words": [
+      "nose",
+      "glue",
+      "rose",
+      "cube"
+     ]
+    },
+    {
+     "focus": "digraph th /ð/",
+     "cluster": "th",
+     "words": [
+      "mother",
+      "father",
+      "brother",
+      "this",
+      "that"
+     ]
+    },
+    {
+     "focus": "digraph ch /tʃ/",
+     "cluster": "ch",
+     "words": [
+      "cheese",
+      "chicken",
+      "chin",
+      "lunch",
+      "beach"
+     ]
+    }
+   ],
    "stations": [
     {
      "id": "mix",
@@ -1161,138 +1589,14 @@
      "sub": "أسئلة متنوعة من الوحدات",
      "questions": [
       {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_icken",
-       "answer": [
-        "ch"
-       ]
-      },
-      {
        "type": "reorder",
        "words": [
-        "are",
-        "There",
-        "bedrooms.",
-        "three"
-       ],
-       "answer": [
-        "There",
-        "are",
-        "three",
-        "bedrooms."
-       ]
-      },
-      {
-       "type": "reorder",
-       "words": [
-        "This",
-        "sister.",
-        "my",
-        "is"
-       ],
-       "answer": [
-        "This",
-        "is",
-        "my",
-        "sister."
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "oodr",
-       "answer": [
-        "door"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "utna",
-       "answer": [
-        "aunt"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_eese",
-       "answer": [
-        "ch"
-       ]
-      },
-      {
-       "type": "mcq",
-       "label": "sound",
-       "q": "Which word has the digraph th /ð/ sound?",
-       "options": [
-        "brother",
-        "shop",
-        "dish",
-        "ship"
-       ],
-       "answer": 0
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_eep",
-       "answer": [
-        "sh"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "ngdaer",
-       "answer": [
-        "garden"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_ose",
-       "answer": [
-        "n"
-       ]
-      },
-      {
-       "type": "reorder",
-       "words": [
-        "you",
-        "do",
-        "eat?",
-        "Where"
-       ],
-       "answer": [
-        "Where",
-        "do",
-        "you",
-        "eat?"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "pcu",
-       "answer": [
-        "cup"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "bayb",
-       "answer": [
-        "baby"
-       ]
-      },
-      {
-       "type": "reorder",
-       "words": [
-        "on",
+        "lamp",
         "the",
-        "The",
         "is",
-        "table.",
-        "lamp"
+        "The",
+        "on",
+        "table."
        ],
        "answer": [
         "The",
@@ -1304,18 +1608,18 @@
        ]
       },
       {
-       "type": "reorder",
-       "words": [
-        "is",
-        "Where",
-        "the",
-        "window?"
-       ],
+       "type": "unscramble",
+       "letters": "hdcienrl",
        "answer": [
-        "Where",
-        "is",
-        "the",
-        "window?"
+        "children"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ose",
+       "answer": [
+        "n"
        ]
       },
       {
@@ -1328,9 +1632,141 @@
       },
       {
        "type": "unscramble",
-       "letters": "hoartbmo",
+       "letters": "tnpsrae",
        "answer": [
-        "bathroom"
+        "parents"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_eese",
+       "answer": [
+        "ch"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "dboeorm",
+       "answer": [
+        "bedroom"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "bedrooms.",
+        "are",
+        "There",
+        "three"
+       ],
+       "answer": [
+        "There",
+        "are",
+        "three",
+        "bedrooms."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "my",
+        "is",
+        "This",
+        "sister."
+       ],
+       "answer": [
+        "This",
+        "is",
+        "my",
+        "sister."
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_at",
+       "answer": [
+        "th"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "whas",
+       "answer": [
+        "wash"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "nardge",
+       "answer": [
+        "garden"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "eat?",
+        "Where",
+        "you",
+        "do"
+       ],
+       "answer": [
+        "Where",
+        "do",
+        "you",
+        "eat?"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "cloze",
+       "q": "This is my ___.",
+       "options": [
+        "sister",
+        "cousin",
+        "wash",
+        "brother"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_is",
+       "answer": [
+        "th"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "whtca",
+       "answer": [
+        "watch"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_icken",
+       "answer": [
+        "ch"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "the",
+        "window?",
+        "Where"
+       ],
+       "answer": [
+        "Where",
+        "is",
+        "the",
+        "window?"
        ]
       }
      ]
