@@ -73,7 +73,7 @@ button,.button,.chip,.icon-button{border-radius:12px}.island-toggle{border-radiu
 <button class="q-check" id="unit-retry">حاول تاني من الأول</button>
 </div>
 </section>
-<section class="wrap section compact-section"><div class="unit-nav"><a class="button secondary" href="grade-m1.html">رجوع لصفحة الصف</a><a class="button secondary" href="assess-m1-u6.html">↩ الوحدة ٦</a><a class="button" href="assess-m1-ur2.html">مراجعة الوحدة ٢ ↪</a></div></section>
+<section class="wrap section compact-section"><div class="unit-nav"><a class="button secondary" href="grade-m1.html">رجوع لصفحة الصف</a><a class="button secondary" href="assess-m1-u6.html?v=20261121-assess3">↩ الوحدة ٦</a><a class="button" href="assess-m1-ur2.html?v=20261121-assess3">مراجعة الوحدة ٢ ↪</a></div></section>
 </main>
 
 <script>(function(){
@@ -257,7 +257,7 @@ function mountStation(root,st){
   });
   updateBar();
 }
-fetch('assess-m1.json').then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
+fetch('assess-m1.json?v=20261121-assess3',{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
   var u=d.units.find(function(x){return x.id===un});
   if(!u)throw 0;
   buildTeach(u);
