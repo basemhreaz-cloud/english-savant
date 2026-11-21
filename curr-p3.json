@@ -1,0 +1,758 @@
+{
+ "grade": "p3",
+ "gradeName": "الصف التالت الابتدائي",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Let's Learn Together!",
+   "pages": [
+    5,
+    26
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Greetings and Introductions"
+    },
+    {
+     "n": 2,
+     "title": "Classroom Rules"
+    },
+    {
+     "n": 3,
+     "title": "Describing People"
+    },
+    {
+     "n": 4,
+     "title": "Daily Routines"
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "edttnus",
+       "answer": [
+        "student"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "obeoydg",
+       "answer": [
+        "goodbye"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "lchoso",
+       "answer": [
+        "school"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "inkd",
+       "answer": [
+        "kind"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "lacss",
+       "answer": [
+        "class"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "yfnnu",
+       "answer": [
+        "funny"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_at",
+       "answer": [
+        "wh"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "My Family and I",
+   "pages": [
+    27,
+    42
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Meet My Family"
+    },
+    {
+     "n": 2,
+     "title": "Family Traditions and Celebrations"
+    },
+    {
+     "n": 3,
+     "title": "My Family Helps Me Grow"
+    },
+    {
+     "n": 4,
+     "title": "Jobs in My Family"
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "uceln",
+       "answer": [
+        "uncle"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "unat",
+       "answer": [
+        "aunt"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "uosinc",
+       "answer": [
+        "cousin"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_xam",
+       "answer": [
+        "e"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_one",
+       "answer": [
+        "ph"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the x = /gz/ sound?",
+       "options": [
+        "exam",
+        "phone"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the ph = /f/ sound?",
+       "options": [
+        "exam",
+        "phone"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "New Adventures",
+   "pages": [
+    43,
+    62
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Places Around Me"
+    },
+    {
+     "n": 2,
+     "title": "Egypt's Landmarks"
+    },
+    {
+     "n": 3,
+     "title": "Map It Out"
+    },
+    {
+     "n": 4,
+     "title": "A School Trip to the Zoo"
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "nheidb",
+       "answer": [
+        "behind"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "nedur",
+       "answer": [
+        "under"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ooz",
+       "answer": [
+        "zoo"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "etewenb",
+       "answer": [
+        "between"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "bu__",
+       "answer": [
+        "zz"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "du__",
+       "answer": [
+        "ck"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "so__",
+       "answer": [
+        "ck"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "ba__",
+       "answer": [
+        "ck"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the double consonant endings ff/ll/ss/zz sound?",
+       "options": [
+        "back",
+        "duck",
+        "buzz",
+        "truck"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the ck = /k/ sound?",
+       "options": [
+        "back",
+        "buzz"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Let's Tell Stories!",
+   "pages": [
+    67,
+    81
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "How We Feel"
+    },
+    {
+     "n": 2,
+     "title": "A Helping Hand"
+    },
+    {
+     "n": 3,
+     "title": "A Big Win"
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ldhepe",
+       "answer": [
+        "helped"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "wder",
+       "answer": [
+        "drew"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ecetdix",
+       "answer": [
+        "excited"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "dober",
+       "answer": [
+        "bored"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "etnw",
+       "answer": [
+        "went"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "iwn",
+       "answer": [
+        "win"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "قواعد الوحدة",
+     "sub": "اكتب التصريف الصحيح",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"is\":",
+       "answer": [
+        "was"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"are\":",
+       "answer": [
+        "were"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"do\":",
+       "answer": [
+        "did"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"see\":",
+       "answer": [
+        "saw"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"come\":",
+       "answer": [
+        "came"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_at",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ame",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ace",
+       "answer": [
+        "f"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ice",
+       "answer": [
+        "n"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the hard c = /k/ sound?",
+       "options": [
+        "nice",
+        "cold",
+        "face",
+        "cent"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the soft c = /s/ sound?",
+       "options": [
+        "city",
+        "came",
+        "carry",
+        "cat"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "Together Is Better",
+   "pages": [
+    82,
+    98
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Teamwork & Chores"
+    },
+    {
+     "n": 2,
+     "title": "Teamwork at School"
+    },
+    {
+     "n": 3,
+     "title": "Teamwork in Sports"
+    },
+    {
+     "n": 4,
+     "title": "I Help My Community!"
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "nalec",
+       "answer": [
+        "clean"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "tadeon",
+       "answer": [
+        "donate"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "paltn",
+       "answer": [
+        "plant"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "eechr",
+       "answer": [
+        "cheer"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "race",
+       "answer": [
+        "care"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "inw",
+       "answer": [
+        "win"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_um",
+       "answer": [
+        "g"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_og",
+       "answer": [
+        "d"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_iraffe",
+       "answer": [
+        "g"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_gypt",
+       "answer": [
+        "e"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the hard g = /g/ sound?",
+       "options": [
+        "giraffe",
+        "page",
+        "good",
+        "magic"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the soft g = /dʒ/ (before e, i, y) sound?",
+       "options": [
+        "green",
+        "gum",
+        "game",
+        "page"
+       ],
+       "answer": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "Dare to Dream",
+   "pages": [
+    99,
+    113
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "My Goal, My Dream"
+    },
+    {
+     "n": 2,
+     "title": "A Day To Remember"
+    },
+    {
+     "n": 3,
+     "title": "I Did It!"
+    },
+    {
+     "n": 4,
+     "title": "Helping Others Succeed"
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "eabcrtlee",
+       "answer": [
+        "celebrate"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "crae",
+       "answer": [
+        "race"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "dpruo",
+       "answer": [
+        "proud"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ecscssu",
+       "answer": [
+        "success"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "etsp",
+       "answer": [
+        "step"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "harce",
+       "answer": [
+        "reach"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ing",
+       "answer": [
+        "spr"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ash",
+       "answer": [
+        "spl"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_een",
+       "answer": [
+        "scr"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
