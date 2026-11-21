@@ -1,0 +1,3293 @@
+{
+ "grade": "m3",
+ "gradeName": "الصف الثالث الإعدادي",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Personal Identity",
+   "pages": "3-12",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Beyond My Looks"
+    },
+    {
+     "n": 2,
+     "title": "Self Discovery"
+    },
+    {
+     "n": 3,
+     "title": "The Mirror Moment"
+    },
+    {
+     "n": 4,
+     "title": "Story Time"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk / This Is Me"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Beyond My Looks",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 3)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "eaten",
+        "She",
+        "cream.",
+        "already",
+        "has",
+        "ice"
+       ],
+       "answer": [
+        "She",
+        "has",
+        "already",
+        "eaten",
+        "ice",
+        "cream."
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nShe eats ice cream. (already)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "haven't",
+        "yet.",
+        "football",
+        "We",
+        "played"
+       ],
+       "answer": [
+        "We",
+        "haven't",
+        "played",
+        "football",
+        "yet."
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nWe didn't play football. (yet)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "She",
+        "just",
+        "arrived.",
+        "has"
+       ],
+       "answer": [
+        "She",
+        "has",
+        "just",
+        "arrived."
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nShe arrived a short time ago. (just)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "for",
+        "Yossif",
+        "hasn't",
+        "sea",
+        "in",
+        "a",
+        "the",
+        "year.",
+        "swum"
+       ],
+       "answer": [
+        "Yossif",
+        "hasn't",
+        "swum",
+        "in",
+        "the",
+        "sea",
+        "for",
+        "a",
+        "year."
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nYossif last swam in the sea a year ago. (for)"
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Self Discovery",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 4)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "He looked at himself in the __ before going out of the house.",
+       "options": [
+        "sketchbook",
+        "mirror",
+        "glasses",
+        "wood"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Yasser is very outgoing and loves meeting new people. 'Outgoing' is an antonym for __",
+       "options": [
+        "introvert",
+        "happy",
+        "outstanding",
+        "shy"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The girl is __ the front row.",
+       "options": [
+        "in",
+        "on",
+        "off",
+        "over"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My homework __ yet.",
+       "options": [
+        "hasn't corrected",
+        "had corrected",
+        "hasn't been corrected",
+        "was corrected"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: The Mirror Moment",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 5)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "do",
+        "go",
+        "often",
+        "to",
+        "the",
+        "How",
+        "club?",
+        "you"
+       ],
+       "answer": [
+        "How",
+        "often",
+        "do",
+        "you",
+        "go",
+        "to",
+        "the",
+        "club?"
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nWe go to the club twice a week. (How often.....?)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "than",
+        "class",
+        "taller",
+        "No",
+        "in",
+        "Asmaa.",
+        "is",
+        "the",
+        "one"
+       ],
+       "answer": [
+        "No",
+        "one",
+        "in",
+        "the",
+        "class",
+        "is",
+        "taller",
+        "than",
+        "Asmaa."
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nAsmaa is the tallest one in the class. (No one........)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "than",
+        "younger",
+        "Hager.",
+        "is",
+        "Fatima"
+       ],
+       "answer": [
+        "Fatima",
+        "is",
+        "younger",
+        "than",
+        "Hager."
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nHager is older than Fatima. (Fatima.............)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "They",
+        "read",
+        "story.",
+        "the",
+        "already",
+        "have"
+       ],
+       "answer": [
+        "They",
+        "have",
+        "already",
+        "read",
+        "the",
+        "story."
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nThey read the story every week. (already)"
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "Let's Talk / This Is Me",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 8)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "What",
+        "have",
+        "they",
+        "played?"
+       ],
+       "answer": [
+        "What",
+        "have",
+        "they",
+        "played?"
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nThey have played tennis. (What ....?)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "long",
+        "How",
+        "trained?",
+        "has",
+        "Hassan"
+       ],
+       "answer": [
+        "How",
+        "long",
+        "has",
+        "Hassan",
+        "trained?"
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nHassan has trained for three hours. (How long...?)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "traveled?",
+        "Where",
+        "Yossif",
+        "has"
+       ],
+       "answer": [
+        "Where",
+        "has",
+        "Yossif",
+        "traveled?"
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nYossif has traveled to Aswan. (Where.....?)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Who",
+        "won",
+        "has",
+        "prize?",
+        "first",
+        "the"
+       ],
+       "answer": [
+        "Who",
+        "has",
+        "won",
+        "the",
+        "first",
+        "prize?"
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nFarida has won the first prize. (Who....?)"
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My sister __(break) her phone again!",
+       "answer": [
+        "has broken"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I __(not see) that movie yet.",
+       "answer": [
+        "haven't seen",
+        "have not seen"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We __(read) three chapters already.",
+       "answer": [
+        "have read"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She __(study) English since she was a child.",
+       "answer": [
+        "has studied"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__ you ever eaten falafel?",
+       "answer": [
+        "Have"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Have you ever __(eat) falafel?",
+       "answer": [
+        "eaten"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Review on Unit 1",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 10-12)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "You should have some important values which help you in your life such as ",
+        "which helps you overcome life's challenges. Self ",
+        "is a very important quality as it makes you sure of your ",
+        "and qualities. You should also know your ",
+        "and your weaknesses."
+       ],
+       "answers": [
+        "resilience",
+        "confidence",
+        "abilities",
+        "strengths"
+       ],
+       "bank": [
+        "strengths",
+        "confidence",
+        "resilience",
+        "abilities"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "What does self-confidence mainly mean?",
+       "options": [
+        "Being perfect",
+        "Believing in one's abilities",
+        "Avoiding challenges",
+        "Winning every time"
+       ],
+       "answer": 1,
+       "passage": "Self-confidence is the belief in one's own abilities. It helps people face challenges with courage and optimism. A confident student, for example, may try answering difficult questions in class even if they are not completely sure. This courage often leads to improvement, because making mistakes is part of learning. People with self-confidence are usually more willing to take opportunities. If someone believes in themselves, they are more likely to join competitions, apply for jobs, or speak in public. On the other hand, those who lack confidence may avoid such chances, fearing failure. Building self-confidence takes time. Small successes, supportive friends, and positive self-talk all help. Confidence grows step by step, like a plant watered every day. Eventually, it becomes strong enough to face bigger storms in life. Self-confidence does not mean being perfect; it means trusting yourself enough to try, learn, and grow."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "According to the passage, what helps in building self-confidence?",
+       "options": [
+        "Negative self-talk",
+        "Ignoring mistakes",
+        "Supportive friends",
+        "Avoiding risks"
+       ],
+       "answer": 2,
+       "passage": "Self-confidence is the belief in one's own abilities. It helps people face challenges with courage and optimism. A confident student, for example, may try answering difficult questions in class even if they are not completely sure. This courage often leads to improvement, because making mistakes is part of learning. People with self-confidence are usually more willing to take opportunities. If someone believes in themselves, they are more likely to join competitions, apply for jobs, or speak in public. On the other hand, those who lack confidence may avoid such chances, fearing failure. Building self-confidence takes time. Small successes, supportive friends, and positive self-talk all help. Confidence grows step by step, like a plant watered every day. Eventually, it becomes strong enough to face bigger storms in life. Self-confidence does not mean being perfect; it means trusting yourself enough to try, learn, and grow."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The passage compares self-confidence to __",
+       "options": [
+        "a mountain",
+        "a storm",
+        "a plant",
+        "a book"
+       ],
+       "answer": 2,
+       "passage": "Self-confidence is the belief in one's own abilities. It helps people face challenges with courage and optimism. A confident student, for example, may try answering difficult questions in class even if they are not completely sure. This courage often leads to improvement, because making mistakes is part of learning. People with self-confidence are usually more willing to take opportunities. If someone believes in themselves, they are more likely to join competitions, apply for jobs, or speak in public. On the other hand, those who lack confidence may avoid such chances, fearing failure. Building self-confidence takes time. Small successes, supportive friends, and positive self-talk all help. Confidence grows step by step, like a plant watered every day. Eventually, it becomes strong enough to face bigger storms in life. Self-confidence does not mean being perfect; it means trusting yourself enough to try, learn, and grow."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Self __ means learning more about who you are.",
+       "options": [
+        "discovery",
+        "esteem",
+        "confidence",
+        "denial"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "These beliefs __ my character and help me know what's right.",
+       "options": [
+        "share",
+        "shape",
+        "chop",
+        "shade"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Ibrahim stood in front of the mirror, __ his clothes for the fifth time.",
+       "options": [
+        "adjusting",
+        "cutting",
+        "buying",
+        "speaking"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We add the prefix __ to give the opposite of patient.",
+       "options": [
+        "in",
+        "il",
+        "im",
+        "un"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "He was very delighted after the match. The antonym of \"delighted\" is __",
+       "options": [
+        "happy",
+        "depressed",
+        "glad",
+        "pleased"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Have you ever tried to __ a change in your school or community?",
+       "options": [
+        "let",
+        "let",
+        "take",
+        "make"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "They __(are) gone to the market.",
+       "answer": [
+        "have"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Manar __(has encouraged) by her family.",
+       "answer": [
+        "has been encouraged"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "does",
+        "never",
+        "Sama",
+        "exercises."
+       ],
+       "answer": [
+        "Sama",
+        "never",
+        "does",
+        "exercises."
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nSama always does exercises. (never)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "yet?",
+        "the",
+        "you",
+        "Have",
+        "cleaned",
+        "flat"
+       ],
+       "answer": [
+        "Have",
+        "you",
+        "cleaned",
+        "the",
+        "flat",
+        "yet?"
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nDo you clean the flat? (yet)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "you",
+        "flat?",
+        "Have",
+        "the",
+        "already",
+        "tidied"
+       ],
+       "answer": [
+        "Have",
+        "you",
+        "already",
+        "tidied",
+        "the",
+        "flat?"
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nWill you tidy the flat? (already)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "drunk?",
+        "has",
+        "What",
+        "Sameh"
+       ],
+       "answer": [
+        "What",
+        "has",
+        "Sameh",
+        "drunk?"
+       ],
+       "passage": "Rewrite using the word(s) in brackets:\nSameh has drunk milk. (What.....?)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "Communication with Family and Friends",
+   "pages": "13-23",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Stay Connected"
+    },
+    {
+     "n": 2,
+     "title": "Communication, Challenges and Solutions"
+    },
+    {
+     "n": 3,
+     "title": "The Silent Dinner"
+    },
+    {
+     "n": 4,
+     "title": "Story Time"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk / Staying close"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Stay Connected",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 13)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Ahmed has __(ride) the bike already.",
+       "answer": [
+        "ridden"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "(Did) __ you tidied the room yet?",
+       "answer": [
+        "Have"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Where (do) __ you been?",
+       "answer": [
+        "have"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We __ just eaten fruits.",
+       "answer": [
+        "have"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We have just __(eat) fruits.",
+       "answer": [
+        "eaten"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Communication, Challenges and Solutions",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 14)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She has (win) __ the prize for poetry.",
+       "answer": [
+        "won"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Ibrahim hasn't finished the homework (for) __.",
+       "answer": [
+        "yet"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Mazen and Islam (are) __ painted the pictures.",
+       "answer": [
+        "have"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Soheir has lived in Cairo (just) __ ten years.",
+       "answer": [
+        "for"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: The Silent Dinner",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 15-16)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "What do people use today to make communication faster?",
+       "options": [
+        "Letters",
+        "Phones and emails",
+        "Face-to-face talks",
+        "Books"
+       ],
+       "answer": 1,
+       "passage": "Communication is one of the most important skills in our daily lives. People use different ways to communicate, such as speaking, writing, or sending messages through technology. Good communication helps us share ideas, solve problems, and build strong relationships. In the past, people depended on letters and face-to-face talks. Today, modern tools like phones, emails, and social media make communication faster and easier. However, it is not only about words. Listening carefully and showing respect are also important parts of effective communication."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which of the following is also an important part of communication?",
+       "options": [
+        "Shouting loudly",
+        "Writing long letters",
+        "Listening carefully",
+        "Using difficult words"
+       ],
+       "answer": 2,
+       "passage": "Communication is one of the most important skills in our daily lives. People use different ways to communicate, such as speaking, writing, or sending messages through technology. Good communication helps us share ideas, solve problems, and build strong relationships. In the past, people depended on letters and face-to-face talks. Today, modern tools like phones, emails, and social media make communication faster and easier. However, it is not only about words. Listening carefully and showing respect are also important parts of effective communication."
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "If he __ (revise) well, he would have got high marks.",
+       "answer": [
+        "had revised"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "They __ (win) if they had played well.",
+       "answer": [
+        "would have won"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "If Asmaa __ (sell) her house, she would have got much money.",
+       "answer": [
+        "had sold"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Reem __ (traveled) if she had had enough time.",
+       "answer": [
+        "would have traveled"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Review on Unit 2",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 20-23)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Adham: Hey, I've been thinking about our fight. ",
+        ", if we had communicated better, it wouldn't have happened. Mazen: ",
+        ". Sometimes things just get mixed up. It's important to be honest with each other. Adham: ",
+        "! I really want to resolve this and keep our bond strong. Mazen: ",
+        "! I want that too. Let's work on it together."
+       ],
+       "answers": [
+        "Honestly",
+        "I totally get that",
+        "For sure",
+        "That's cool"
+       ],
+       "bank": [
+        "That's cool",
+        "I totally get that",
+        "For sure",
+        "Honestly"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "What can help students manage their studies?",
+       "options": [
+        "Ignoring problems",
+        "Asking teachers for help",
+        "Stopping learning",
+        "Avoiding school"
+       ],
+       "answer": 1,
+       "passage": "Life is full of challenges, but each problem can be solved with patience and determination. Students, for example, may face difficulties in studying or managing their time. Instead of giving up, they can create study plans and ask teachers for help. At work, people might face stress or heavy responsibilities. The solution could be teamwork, taking short breaks, or learning new skills. Even in personal life, challenges such as lack of confidence can be overcome by setting small goals and celebrating success. Every challenge can become a chance to grow."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "According to the passage, challenges are seen as __",
+       "options": [
+        "problems to fear",
+        "reasons to stop trying",
+        "chances to grow",
+        "mistakes to avoid"
+       ],
+       "answer": 2,
+       "passage": "Life is full of challenges, but each problem can be solved with patience and determination. Students, for example, may face difficulties in studying or managing their time. Instead of giving up, they can create study plans and ask teachers for help. At work, people might face stress or heavy responsibilities. The solution could be teamwork, taking short breaks, or learning new skills. Even in personal life, challenges such as lack of confidence can be overcome by setting small goals and celebrating success. Every challenge can become a chance to grow."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Good __ is the key to strong relationships.",
+       "options": [
+        "communication",
+        "action",
+        "suggestion",
+        "fiction"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The best way to __ problems is through calm honest discussion.",
+       "options": [
+        "rise",
+        "increase",
+        "resolve",
+        "reconnect"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ means emotionally or physically not close.",
+       "options": [
+        "Close",
+        "Distant",
+        "Near",
+        "Click"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We add the __ \"in\" to \"appropriate\" to change it to the antonym.",
+       "options": [
+        "prefix",
+        "prep",
+        "adj",
+        "suffix"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Salah __ his fame when he played in England.",
+       "options": [
+        "gained",
+        "earned",
+        "lost",
+        "won"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Hassan decided to __ responsibility for his family.",
+       "options": [
+        "take",
+        "make",
+        "do",
+        "write"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "If Amr __ (study) hard, he would have succeeded.",
+       "answer": [
+        "had studied"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "If it __ (rain) heavily yesterday, I wouldn't have travelled.",
+       "answer": [
+        "had rained"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "If he had trained well, he __ (play) the match.",
+       "answer": [
+        "would have played"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "would",
+        "Huda",
+        "out.",
+        "I",
+        "gone",
+        "phoned,",
+        "had",
+        "have",
+        "If"
+       ],
+       "answer": [
+        "If",
+        "Huda",
+        "had",
+        "phoned,",
+        "I",
+        "would",
+        "have",
+        "gone",
+        "out."
+       ],
+       "passage": "Rewrite the following sentences using the word(s) in brackets:\nHuda didn't phone. I didn't go out. (If)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "If",
+        "wouldn't",
+        "have",
+        "Amr",
+        "he",
+        "hard,",
+        "trained",
+        "had",
+        "lost."
+       ],
+       "answer": [
+        "If",
+        "Amr",
+        "had",
+        "trained",
+        "hard,",
+        "he",
+        "wouldn't",
+        "have",
+        "lost."
+       ],
+       "passage": "Rewrite the following sentences using the word(s) in brackets:\nAmr lost because he didn't train hard. (If)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "late,",
+        "If",
+        "mother",
+        "have",
+        "very",
+        "hadn't",
+        "angry.",
+        "been",
+        "her",
+        "Salma",
+        "wouldn't",
+        "been"
+       ],
+       "answer": [
+        "If",
+        "Salma",
+        "hadn't",
+        "been",
+        "late,",
+        "her",
+        "mother",
+        "wouldn't",
+        "have",
+        "been",
+        "very",
+        "angry."
+       ],
+       "passage": "Rewrite the following sentences using the word(s) in brackets:\nSalma was late so her mother was very angry. (If)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "she",
+        "Hana",
+        "joined",
+        "first",
+        "team.",
+        "wouldn't",
+        "clever,",
+        "have",
+        "hadn't",
+        "been",
+        "the",
+        "If"
+       ],
+       "answer": [
+        "If",
+        "Hana",
+        "hadn't",
+        "been",
+        "clever,",
+        "she",
+        "wouldn't",
+        "have",
+        "joined",
+        "the",
+        "first",
+        "team."
+       ],
+       "passage": "Rewrite the following sentences using the word(s) in brackets:\nHana was clever so she joined the first team. (If)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "AI",
+   "pages": "23-31",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Artificial Intelligence"
+    },
+    {
+     "n": 2,
+     "title": "AI Technology"
+    },
+    {
+     "n": 3,
+     "title": "A Robot Teacher"
+    },
+    {
+     "n": 4,
+     "title": "Story Time"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk / Smart Robots"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Artificial Intelligence",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 23-24)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "be",
+        "flat",
+        "The",
+        "Shahd.",
+        "will",
+        "by",
+        "cleaned"
+       ],
+       "answer": [
+        "The",
+        "flat",
+        "will",
+        "be",
+        "cleaned",
+        "by",
+        "Shahd."
+       ],
+       "passage": "Rewrite the following sentences using the word(s) in brackets:\nShahd will clean the flat. (by)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "sentences",
+        "finished",
+        "Renad.",
+        "will",
+        "by",
+        "The",
+        "be"
+       ],
+       "answer": [
+        "The",
+        "sentences",
+        "will",
+        "be",
+        "finished",
+        "by",
+        "Renad."
+       ],
+       "passage": "Rewrite the following sentences using the word(s) in brackets:\nRenad will finish the sentences. (The sentences.......)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "be",
+        "won't",
+        "seen",
+        "Asmaa.",
+        "The",
+        "giraffe",
+        "by"
+       ],
+       "answer": [
+        "The",
+        "giraffe",
+        "won't",
+        "be",
+        "seen",
+        "by",
+        "Asmaa."
+       ],
+       "passage": "Rewrite the following sentences using the word(s) in brackets:\nAsmaa won't see the giraffe. (seen)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "next",
+        "will",
+        "The",
+        "watched",
+        "Friday.",
+        "be",
+        "match"
+       ],
+       "answer": [
+        "The",
+        "match",
+        "will",
+        "be",
+        "watched",
+        "next",
+        "Friday."
+       ],
+       "passage": "Rewrite the following sentences using the word(s) in brackets:\nWe will watch the match next Friday. (The match...........)"
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: AI Technology",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 24-25)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "flat",
+        "be",
+        "The",
+        "painted",
+        "soon.",
+        "will"
+       ],
+       "answer": [
+        "The",
+        "flat",
+        "will",
+        "be",
+        "painted",
+        "soon."
+       ],
+       "passage": "Rewrite the following sentences using the word(s) between brackets:\nHe will paint the flat soon. (The flat.........)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "by",
+        "will",
+        "report",
+        "be",
+        "The",
+        "prepared",
+        "Adham."
+       ],
+       "answer": [
+        "The",
+        "report",
+        "will",
+        "be",
+        "prepared",
+        "by",
+        "Adham."
+       ],
+       "passage": "Rewrite the following sentences using the word(s) between brackets:\nAdham will prepare the report. (The report......)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Ahmed.",
+        "Fish",
+        "river",
+        "be",
+        "the",
+        "will",
+        "in",
+        "by",
+        "caught"
+       ],
+       "answer": [
+        "Fish",
+        "will",
+        "be",
+        "caught",
+        "in",
+        "the",
+        "river",
+        "by",
+        "Ahmed."
+       ],
+       "passage": "Rewrite the following sentences using the word(s) between brackets:\nAhmed will catch fish in the river. (will be)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "visited",
+        "be",
+        "Malak",
+        "won't",
+        "by",
+        "Sara."
+       ],
+       "answer": [
+        "Malak",
+        "won't",
+        "be",
+        "visited",
+        "by",
+        "Sara."
+       ],
+       "passage": "Rewrite the following sentences using the word(s) between brackets:\nSara won't visit Malak. (by)"
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: A Robot Teacher",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 26-27)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Today we can send an/a __ message by phone.",
+       "options": [
+        "instant",
+        "slow",
+        "late",
+        "cold"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The internet __ was very weak yesterday.",
+       "options": [
+        "connection",
+        "table",
+        "animal",
+        "story"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Omar showed great __ when he started the project alone.",
+       "options": [
+        "initiative",
+        "chair",
+        "sport",
+        "holiday"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The charity asked for a __ to help poor families.",
+       "options": [
+        "gift",
+        "donation",
+        "picture",
+        "toy"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "Let's Talk / Smart Robots",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 29)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "She felt __ when she failed the exam.",
+       "options": [
+        "happy",
+        "disappointed",
+        "excited",
+        "strong"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Egypt has a warm and sunny __ most of the year.",
+       "options": [
+        "climate",
+        "desk",
+        "food",
+        "game"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I didn't __ my friend because she changed her hairstyle.",
+       "options": [
+        "recognize",
+        "open",
+        "build",
+        "fix"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The storm was very __ and destroyed many houses.",
+       "options": [
+        "small",
+        "weak",
+        "powerful",
+        "quiet"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We __ (go) to London the next summer.",
+       "answer": [
+        "will go"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I think my brother __ (study) engineering next year.",
+       "answer": [
+        "will study"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__ (Can) the house be decorated next month?",
+       "answer": [
+        "Can"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The English lesson __ (will explain) tomorrow.",
+       "answer": [
+        "will be explained"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The match __ (will cancel) if it rains.",
+       "answer": [
+        "will be cancelled"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Review on Unit 3",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 30-31)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "The team worked together to solve the problems. They decided to change their",
+        ". They researched which plants grow best in their ",
+        "and how to protect them from too much rain. They also built a better watering ",
+        "and l earned how to care for different ",
+        "of plants."
+       ],
+       "answers": [
+        "plan",
+        "climate",
+        "system",
+        "kinds"
+       ],
+       "bank": [
+        "system",
+        "climate",
+        "kinds",
+        "plan",
+        "initiative"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The underlined pronoun \"it\" refers to __",
+       "options": [
+        "hobby",
+        "spare time",
+        "life",
+        "game"
+       ],
+       "answer": 1,
+       "passage": "Time is very important, so if we have spare time, we should spend it in a useful way. A wise person is the one who makes the best use of it. Some people like to practise sports to keep fit and strong, others prefer reading and writing to enjoy their time and live in their own world. Reading is the most important and famous hobby that people can enjoy a lot. It helps them to spend a nice and useful time. A book is a good friend that you can have with you wherever you go. It provides you with different kinds of knowledge and lots of information. That is why we should encourage our pupils to go to school libraries. There, they can read and borrow books to know more about different subjects, countries and different people. Nowadays free reading competitions are held and winners are awarded to spread the love of reading among students as it gives them the chance to think better."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ can spread the love of reading among students.",
+       "options": [
+        "Watching TV",
+        "Practising sports",
+        "Free reading competitions",
+        "Running"
+       ],
+       "answer": 2,
+       "passage": "Time is very important, so if we have spare time, we should spend it in a useful way. A wise person is the one who makes the best use of it. Some people like to practise sports to keep fit and strong, others prefer reading and writing to enjoy their time and live in their own world. Reading is the most important and famous hobby that people can enjoy a lot. It helps them to spend a nice and useful time. A book is a good friend that you can have with you wherever you go. It provides you with different kinds of knowledge and lots of information. That is why we should encourage our pupils to go to school libraries. There, they can read and borrow books to know more about different subjects, countries and different people. Nowadays free reading competitions are held and winners are awarded to spread the love of reading among students as it gives them the chance to think better."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Artificial Intelligence allows the robot to __ decisions.",
+       "options": [
+        "do",
+        "make",
+        "read",
+        "put"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We add the prefix __ to give the opposite of abled",
+       "options": [
+        "im",
+        "in",
+        "ir",
+        "dis"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "AI and robots are not __. They are different.",
+       "options": [
+        "bad",
+        "useful",
+        "good",
+        "the same"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Abnormal is the antonym of __",
+       "options": [
+        "unusual",
+        "strange",
+        "odd",
+        "normal"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The synonym of kind is __",
+       "options": [
+        "cruel",
+        "unkind",
+        "bad",
+        "friendly"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Creative and imaginative are __",
+       "options": [
+        "synonyms",
+        "antonyms",
+        "different",
+        "opposite"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My sister is studying medicine. She __ (be) a doctor.",
+       "answer": [
+        "will be"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "My mother __ (can) probably do the shopping tomorrow.",
+       "answer": [
+        "can"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I expect that Ibrahim __ (win) the match.",
+       "answer": [
+        "will win"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Perhaps Mariam __ (should) visit us next Saturday.",
+       "answer": [
+        "will",
+        "should"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Screen Time",
+   "pages": "32-41",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Screen Time"
+    },
+    {
+     "n": 2,
+     "title": "Egypt's Smart Future"
+    },
+    {
+     "n": 3,
+     "title": "Balancing Screen Time"
+    },
+    {
+     "n": 4,
+     "title": "Story Time"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk / Small Changes"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Screen Time",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 32)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "friends.",
+        "You",
+        "respect",
+        "must"
+       ],
+       "answer": [
+        "You",
+        "must",
+        "respect",
+        "your",
+        "friends."
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nIt's necessary to respect your friends. (must)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "lost",
+        "Although",
+        "is",
+        "fast,",
+        "race.",
+        "he",
+        "he"
+       ],
+       "answer": [
+        "Although",
+        "he",
+        "is",
+        "fast,",
+        "he",
+        "lost",
+        "the",
+        "race."
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nHe is fast. He lost the race. (Although)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "early.",
+        "You",
+        "sleep",
+        "should"
+       ],
+       "answer": [
+        "You",
+        "should",
+        "sleep",
+        "early."
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nIt's a good idea to sleep early. (should)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "You",
+        "mustn't",
+        "park",
+        "here."
+       ],
+       "answer": [
+        "You",
+        "mustn't",
+        "park",
+        "here."
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nIt's forbidden to park here. (mustn't)"
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Egypt's Smart Future",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 33)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "If students ",
+        ".too much time playing video games late at night, they will feel ",
+        ".the next morning. This can ",
+        ".their ability to concentrate at school. To stay healthy, students should keep a good ",
+        "between study, play, and rest."
+       ],
+       "answers": [
+        "spend",
+        "tired",
+        "affect",
+        "balance"
+       ],
+       "bank": [
+        "tired",
+        "affect",
+        "balance",
+        "spend"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "up",
+        "she",
+        "she",
+        "got",
+        "train.",
+        "Although",
+        "caught",
+        "late,"
+       ],
+       "answer": [
+        "Although",
+        "she",
+        "got",
+        "up",
+        "late,",
+        "she",
+        "caught",
+        "the",
+        "train."
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nShe got up late. She caught the train. (Although)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "must",
+        "with",
+        "passport",
+        "You",
+        "you.",
+        "take"
+       ],
+       "answer": [
+        "You",
+        "must",
+        "take",
+        "your",
+        "passport",
+        "with",
+        "you."
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nIt's essential to take your passport with you. (must)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "novel.",
+        "read",
+        "should",
+        "You",
+        "the"
+       ],
+       "answer": [
+        "You",
+        "should",
+        "read",
+        "the",
+        "novel."
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nI advise you to read the novel. (should)"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "like",
+        "tennis,",
+        "don't",
+        "it",
+        "While",
+        "on",
+        "watch",
+        "I",
+        "TV."
+       ],
+       "answer": [
+        "While",
+        "I",
+        "don't",
+        "like",
+        "tennis,",
+        "I",
+        "watch",
+        "it",
+        "on",
+        "TV."
+       ],
+       "passage": "Rewrite the following sentences using the words in brackets:\nI don't like tennis. I watch it on TV. (While)"
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Balancing Screen Time",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 34-35)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We __ (should) make noise in the classroom.",
+       "answer": [
+        "shouldn't",
+        "should not"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "You should __ (obeyed) your teachers.",
+       "answer": [
+        "obey"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "We mustn't __ (to be) unkind and unfair to others.",
+       "answer": [
+        "be"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Good habits make our minds and bodies __ (health).",
+       "answer": [
+        "healthy"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Students __ (mustn't) come to school on time.",
+       "answer": [
+        "must"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "Let's Talk / Small Changes",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 37-38)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Scientists work hard to __ new medicines that can help cure dangerous diseases worldwide.",
+       "options": [
+        "develop",
+        "damage",
+        "refuse",
+        "come"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "He is very __. He can't lift the heavy weight.",
+       "options": [
+        "smart",
+        "lazy",
+        "weak",
+        "slow"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Technology helps us. __ the other hand, it causes distractions.",
+       "options": [
+        "On",
+        "In",
+        "At",
+        "Of"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We live in a __ world where technology develops quickly and changes our daily lives.",
+       "options": [
+        "modern",
+        "lazy",
+        "weak",
+        "old"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Review on Unit 4",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 39-41)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "I read a lot about the Grand Egyptian Museum, and that made me think about how ",
+        "our history is. Many young people spend a lot of time online but they rarely use it to learn about Egypt's ",
+        "I want to change that. My new goal is to help them use some of it to explore Egyptian history and ",
+        "like this one. Learning about our past can help us feel more ",
+        "to our country. If young people know their history, they can help ",
+        "it. This habit can prepare us to be better ",
+        "of Egypt."
+       ],
+       "answers": [
+        "important",
+        "culture",
+        "museums",
+        "connected",
+        "protect",
+        "citizens"
+       ],
+       "bank": [
+        "connected",
+        "protect",
+        "museums",
+        "culture",
+        "important",
+        "citizens"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Customers can click on __ button to find specific models, brands or items.",
+       "options": [
+        "share",
+        "search",
+        "save",
+        "dislike"
+       ],
+       "answer": 1,
+       "passage": "Online shopping is a form of electronic commerce which allows customers to directly buy goods or services from a seller over the internet using a web browser or a mobile app. Customers find a product of interest by visiting the website of the sellers directly or by searching among many of them using a shopping search engine, which displays the same product's availability and pricing at different e-sellers. Customers can shop online using a range of different computers and devices, including desktop computers, laptops, tablet computers and smart phones. Online stores usually enable shoppers to use \" search \" features to find specific models, brands or items. Online customers must have access to the Internet and a valid method of payment in order to pay, such as a credit card, debit card or service such as PayPal. Online shopping can be done anytime, but you need to be careful where you shop from! Buy from trusted sources and make sure you read the user reviews of both the seller and the product."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The underlined \"them\" refers to __",
+       "options": [
+        "customers",
+        "computers",
+        "products",
+        "sellers"
+       ],
+       "answer": 3,
+       "passage": "Online shopping is a form of electronic commerce which allows customers to directly buy goods or services from a seller over the internet using a web browser or a mobile app. Customers find a product of interest by visiting the website of the sellers directly or by searching among many of them using a shopping search engine, which displays the same product's availability and pricing at different e-sellers. Customers can shop online using a range of different computers and devices, including desktop computers, laptops, tablet computers and smart phones. Online stores usually enable shoppers to use \" search \" features to find specific models, brands or items. Online customers must have access to the Internet and a valid method of payment in order to pay, such as a credit card, debit card or service such as PayPal. Online shopping can be done anytime, but you need to be careful where you shop from! Buy from trusted sources and make sure you read the user reviews of both the seller and the product."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The best title of the passage is __",
+       "options": [
+        "Online shopping",
+        "Buying and selling",
+        "Ways of payment",
+        "Computer applications"
+       ],
+       "answer": 0,
+       "passage": "Online shopping is a form of electronic commerce which allows customers to directly buy goods or services from a seller over the internet using a web browser or a mobile app. Customers find a product of interest by visiting the website of the sellers directly or by searching among many of them using a shopping search engine, which displays the same product's availability and pricing at different e-sellers. Customers can shop online using a range of different computers and devices, including desktop computers, laptops, tablet computers and smart phones. Online stores usually enable shoppers to use \" search \" features to find specific models, brands or items. Online customers must have access to the Internet and a valid method of payment in order to pay, such as a credit card, debit card or service such as PayPal. Online shopping can be done anytime, but you need to be careful where you shop from! Buy from trusted sources and make sure you read the user reviews of both the seller and the product."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Spending too much time on screens can also make it harder to __",
+       "options": [
+        "eat",
+        "drink",
+        "focus",
+        "play"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Students were excit- __ to hear about the Grand Egyptian Museum.",
+       "options": [
+        "-ing",
+        "-er",
+        "-ed",
+        "-ment"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Egypt is working __ smart projects like the monorail.",
+       "options": [
+        "in",
+        "on",
+        "at",
+        "of"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I didn't hear the doorbell since I __ a shower.",
+       "options": [
+        "had",
+        "have",
+        "was having",
+        "am having"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "We __ throw rubbish into the sea or leave plastic on the beach.",
+       "options": [
+        "haven't",
+        "must",
+        "mustn't",
+        "should"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The antonym of the word \"interesting\" is __",
+       "options": [
+        "enjoyable",
+        "boring",
+        "exciting",
+        "wonderful"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "As I __ (watch) T V., the light went out.",
+       "answer": [
+        "was watching"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "While I was charging the battery, my phone __ (ringing).",
+       "answer": [
+        "rang"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "You __ (must) tell your personal information to everyone.",
+       "answer": [
+        "mustn't",
+        "must not"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__ (Should) you give me a hand, please?",
+       "answer": [
+        "Could",
+        "Can"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "He should __ (done) his homework.",
+       "answer": [
+        "do"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "Design Thinking",
+   "pages": "42-52",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Think like a Designer"
+    },
+    {
+     "n": 2,
+     "title": "Dream It, Build It"
+    },
+    {
+     "n": 3,
+     "title": "See through Their Eyes"
+    },
+    {
+     "n": 4,
+     "title": "Story Time"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk / Try, Learn, and Improve"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Think like a Designer",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 42)",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__ (Closes) the window well before leaving the flat.",
+       "answer": [
+        "Close"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Don't __ (ate) while the teacher is explaining.",
+       "answer": [
+        "eat"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "He prepared his bag. __ (First), he went to school.",
+       "answer": [
+        "Then"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Never __ (comes) late for school.",
+       "answer": [
+        "come"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Dream It, Build It",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 43)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Scientists will __ the space in the future to discover new planets and stars.",
+       "options": [
+        "explore",
+        "close",
+        "ignore",
+        "forget"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I always carry my books, laptop, and water bottle inside a big __",
+       "options": [
+        "pocket",
+        "basket",
+        "backpack",
+        "shelf"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The hotel looks very __ with its modern design, large garden, and bright colors.",
+       "options": [
+        "ugly",
+        "dirty",
+        "boring",
+        "attractive"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Every student has the __ to learn new skills if they work hard enough.",
+       "options": [
+        "mistake",
+        "failure",
+        "problem",
+        "ability"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The teacher __ a special trip for the class to visit the science museum.",
+       "options": [
+        "planned",
+        "forgot",
+        "missed",
+        "lost"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__ (Then), brainstorm the ideas. Next, test the prototypes.",
+       "answer": [
+        "First"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Please, __ (to close) the window.",
+       "answer": [
+        "close"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Pepper makes me feel sick. Please, __ (ever) offer me any.",
+       "answer": [
+        "never"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Adham, __ (listened) to me carefully.",
+       "answer": [
+        "listen"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "__ (Finally), We should write an introduction. We should start with it.",
+       "answer": [
+        "First"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: See through Their Eyes",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 44-45)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Learning a new language can be a big ",
+        "., but it is also very exciting. At the beginning, many students feel ",
+        "because they do not know many words or grammar rules. With practice and patience, they start to ",
+        "more and feel stronger in their skills. After some time, they become more",
+        "and are able to speak and write without fear."
+       ],
+       "answers": [
+        "challenge",
+        "confused",
+        "understand",
+        "confident"
+       ],
+       "bank": [
+        "confused",
+        "challenge",
+        "confident",
+        "understand"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Story Time",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 46)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Yesterday, I went to a bookshop to buy a story. My friend ",
+        "me about an amazing book. It is an ",
+        "story with many exciting events. Good stories can teach us lessons and also ",
+        "us when we feel bored. Sometimes, reading a story can ",
+        "new ideas into our minds and make us more creative. [5 box words for 4 gaps]"
+       ],
+       "answers": [
+        "told",
+        "adventure",
+        "entertain",
+        "spark"
+       ],
+       "bank": [
+        "adventure",
+        "told",
+        "spark",
+        "said",
+        "entertain"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Students can easily __ (learnt) English if they practice every day.",
+       "answer": [
+        "learn"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Scientists are searching for new __ (solute) to reduce air pollution.",
+       "answer": [
+        "solutions"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "After studying for three hours, the class needed a short __ (broke).",
+       "answer": [
+        "break"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The engineer is busy __ (designed) a new bridge across the river.",
+       "answer": [
+        "designing"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "Let's Talk / Try, Learn, and Improve",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 47-48)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Farmers work in the field of __ to grow food.",
+       "options": [
+        "agriculture",
+        "industry",
+        "trade",
+        "design"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "After a long day's work, he decided to __ the job and find another one.",
+       "options": [
+        "join",
+        "quit",
+        "enjoy",
+        "build"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "She is __ to her studies and does her homework on time.",
+       "options": [
+        "lazy",
+        "late",
+        "angry",
+        "dedicated"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "A truly __ student can think of new ideas and solve problems in unique ways.",
+       "options": [
+        "creative",
+        "lazy",
+        "boring",
+        "weak"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Review on Unit 5",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 50-52)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "When teams work together, they need to ",
+        ".new ideas to solve problems in creative ways. At first, some suggestions may not ",
+        "., but with discussion and cooperation the group can find better solutions. Success is not always a ",
+        ".result, because mistakes can happen along the way. However, every mistake teaches us something useful, and that is part of the learning ",
+        "that helps people grow stronger and more experienced."
+       ],
+       "answers": [
+        "come up with",
+        "make sense",
+        "perfect",
+        "process"
+       ],
+       "bank": [
+        "process",
+        "come up with",
+        "perfect",
+        "make sense"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The writer found __ in a library book.",
+       "options": [
+        "flour",
+        "pens",
+        "mails",
+        "money"
+       ],
+       "answer": 3,
+       "passage": "When I was a child, I loved spending hours reading books. I borrowed them from the library or received them as gifts, but nothing felt as exciting as getting a brand-new book. There was something special about being the first person to get through its pages. However, I didn't start reading it at once. Instead, I liked to take my time, looking at the cover and pictures. Once I started reading, I couldn't stop. My love for books grew so much that it became an expensive habit and so, my parents encouraged me to borrow library books. One day, while reading a library book, I found two hundred pounds hidden inside. Without a second thought, I returned the book and the money to the librarian and forgot about it. A month later, the librarian called me with news. He couldn't find the owner of the money, so he decided to give it to me. I'm sure you know how I spent this unexpected gift."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ is the writer's favorite hobby.",
+       "options": [
+        "Reading",
+        "Swimming",
+        "Diving",
+        "Hiking"
+       ],
+       "answer": 0,
+       "passage": "When I was a child, I loved spending hours reading books. I borrowed them from the library or received them as gifts, but nothing felt as exciting as getting a brand-new book. There was something special about being the first person to get through its pages. However, I didn't start reading it at once. Instead, I liked to take my time, looking at the cover and pictures. Once I started reading, I couldn't stop. My love for books grew so much that it became an expensive habit and so, my parents encouraged me to borrow library books. One day, while reading a library book, I found two hundred pounds hidden inside. Without a second thought, I returned the book and the money to the librarian and forgot about it. A month later, the librarian called me with news. He couldn't find the owner of the money, so he decided to give it to me. I'm sure you know how I spent this unexpected gift."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The mechanic gave me a very __ solution to fix my car using simple tools.",
+       "options": [
+        "weak",
+        "lazy",
+        "careless",
+        "practical"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Every scientist must clearly __ important terms so that others can understand their research easily.",
+       "options": [
+        "explain",
+        "hide",
+        "ignore",
+        "destroy"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The hotel offers a wonderful sea __ from every balcony, which attracts many tourists.",
+       "options": [
+        "rule",
+        "mistake",
+        "problem",
+        "view"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "One of the most __ ways to save money is to plan your shopping carefully.",
+       "options": [
+        "useful",
+        "noisy",
+        "careless",
+        "strange"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ open the window. It's very cold outside.",
+       "options": [
+        "Do",
+        "Don't",
+        "Isn't",
+        "Haven't"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Never __ smoking. It's harmful.",
+       "options": [
+        "tries",
+        "try",
+        "trying",
+        "tried"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Don't __ (being) afraid of cats. They're cute.",
+       "answer": [
+        "be"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She __ (come) up with a good idea for the project yesterday.",
+       "answer": [
+        "came"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "His explanation doesn't __ (makes) sense to the teacher.",
+       "answer": [
+        "make"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Nobody is __ (perfects), but we should always try our best.",
+       "answer": [
+        "perfect"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Learning English is a long __ (processed) that needs patience and practice.",
+       "answer": [
+        "process"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "Why Do We Like Stories?",
+   "pages": "52-61",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "The Power of Stories"
+    },
+    {
+     "n": 2,
+     "title": "The Story That Helped Me"
+    },
+    {
+     "n": 3,
+     "title": "Elements of a Story"
+    },
+    {
+     "n": 4,
+     "title": "Story Time"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk / My Own Story"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: The Power of Stories",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 52-53)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ means the ability to understand and share someone else's feeling.",
+       "options": [
+        "Creation",
+        "Empathy",
+        "Hesitation",
+        "Evil"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The children have __ types of toys. They have many types of them.",
+       "options": [
+        "awful",
+        "new",
+        "empty",
+        "various"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "To turn the adjective (critical) into an adverb, we add the suffix __",
+       "options": [
+        "ly",
+        "ing",
+        "ily",
+        "ion"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "During the class __. Youssef tried to prove that he is right.",
+       "options": [
+        "match",
+        "race",
+        "debate",
+        "team"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: The Story That Helped Me",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 53-54)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The story of the kind king teaches children an important __ about life.",
+       "options": [
+        "plan",
+        "mistake",
+        "question",
+        "moral"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "She spoke __ about her mistakes, and everyone respected her honesty.",
+       "options": [
+        "honestly",
+        "noisy",
+        "quietly",
+        "rude"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "It is __ to blame one student when the whole class was late.",
+       "options": [
+        "fair",
+        "kind",
+        "healthy",
+        "unfair"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The bus got __ in traffic for hours because of the accident.",
+       "options": [
+        "stuck",
+        "moved",
+        "arrived",
+        "free"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Mona said that she __ (will) go to the party the following day",
+       "answer": [
+        "would"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Many experts believe that technology can __ (prove) education.",
+       "answer": [
+        "improve"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She spoke very __ (honesty) during the interview about her past experiences.",
+       "answer": [
+        "honestly"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "It is __ (unfar) to judge people before knowing them well.",
+       "answer": [
+        "unfair"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Elements of a Story",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 54-56)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The students had a long __ about whether exams should be easier.",
+       "options": [
+        "discussion",
+        "holiday",
+        "party",
+        "problem"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The teacher gave clear __ on how to prepare for the science project.",
+       "options": [
+        "communications",
+        "recommendations",
+        "dangers",
+        "excuses"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The speaker was very __ and relaxed when she answered difficult questions on the stage.",
+       "options": [
+        "confident",
+        "afraid",
+        "worried",
+        "nervous"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "He became very __ when his little brother broke his favorite toy.",
+       "options": [
+        "angry",
+        "happy",
+        "relaxed",
+        "calm"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The car was __ (stocked) in the mud after the heavy rain.",
+       "answer": [
+        "stuck"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The students had a long __ (deposit) about technology in education.",
+       "answer": [
+        "discussion"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The doctor gave me several __ (recommends) for living a healthier life.",
+       "answer": [
+        "recommendations"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She felt very __ (confidence) before giving her speech on stage.",
+       "answer": [
+        "confident"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Story Time",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 57)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Reading stories can be very ",
+        "when they attract our attention. Every good story has ",
+        "that make us laugh, think, or even feel sad. The place and time where the story happens is called the ",
+        ".At the end, many stories also teach us a ",
+        ". about life, friendship, or honesty."
+       ],
+       "answers": [
+        "interesting",
+        "characters",
+        "setting",
+        "moral"
+       ],
+       "bank": [
+        "setting",
+        "moral",
+        "interesting",
+        "characters"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l5",
+     "title": "Let's Talk / My Own Story",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 58)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "__ increase critical thinking.",
+       "options": [
+        "Projects",
+        "Arguments",
+        "Sports",
+        "Markets"
+       ],
+       "answer": 1,
+       "passage": "School activities play a vital role in making learning enjoyable and meaningful. Students engage in fun and educational activities, such as sports, art, music, and drama. These activates not only make school life exciting but also teach valuable life skills. For example, group projects encourage teamwork and problem – solving, while arguments increase public speaking and critical thinking skills. Science experiments help students, provide opportunities to explore new places and connect classroom lessons to real life. These activities help students discover their hidden talents. [sic: 'activates']"
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The underlined word \"vital\" means __",
+       "options": [
+        "useless",
+        "valid",
+        "important",
+        "various"
+       ],
+       "answer": 2,
+       "passage": "School activities play a vital role in making learning enjoyable and meaningful. Students engage in fun and educational activities, such as sports, art, music, and drama. These activates not only make school life exciting but also teach valuable life skills. For example, group projects encourage teamwork and problem – solving, while arguments increase public speaking and critical thinking skills. Science experiments help students, provide opportunities to explore new places and connect classroom lessons to real life. These activities help students discover their hidden talents. [sic: 'activates']"
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "One day, a thief was very ",
+        "and wanted to find some food to eat. He walked until he reached a small ",
+        ". of water. There was a wooden ",
+        ". that connected the two sides. The thief quickly went ",
+        "to the other side where he found some fruits to eat."
+       ],
+       "answers": [
+        "hungry",
+        "stream",
+        "bridge",
+        "across"
+       ],
+       "bank": [
+        "bridge",
+        "stream",
+        "hungry",
+        "across"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Review on Unit 6",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 60-61)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Stories are an important part of our lives. Some stories have ",
+        "lessons that stay in our minds for a long time. Readers often ",
+        "books when they are full of exciting adventures or mysteries. Every story usually has key ",
+        "that help us understand the events better. Sometimes, the story also shows ",
+        "between people or groups, which makes the plot more dramatic."
+       ],
+       "answers": [
+        "powerful",
+        "enjoy",
+        "points",
+        "conflicts"
+       ],
+       "bank": [
+        "conflicts",
+        "enjoy",
+        "points",
+        "powerful"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The most suitable title of the passage is __",
+       "options": [
+        "Dogs and cats",
+        "Money and jewellery",
+        "The old lady and the waiter",
+        "The mother and her daughters"
+       ],
+       "answer": 2,
+       "passage": "Once there was an old lady whose husband had died and left her a big fortune and two sons. The two sons got married and went to live abroad. She became too old to live alone and look after herself. She went to live in a hotel near the sea. This rich lady had a pair of ugly dogs. She loved them. After a year a new young waiter came to work in the hotel. He began to do everything to please the old lady. He helped her to get into and out of the car which she hired when she wanted to go for a drive. Also, he pretended to like her unpleasant dogs. He cleaned them and looked after them in his free time. He thought that the rich lady would leave him a lot of money when she would die. But when she died a few years later, he discovered that she had left him only two things which she loved most in the world and which she thought he loved them too, the two dogs. All her money and jewelry went to her sons."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The lady's sons lived __ their mother.",
+       "options": [
+        "near",
+        "far from",
+        "with",
+        "next to"
+       ],
+       "answer": 1,
+       "passage": "Once there was an old lady whose husband had died and left her a big fortune and two sons. The two sons got married and went to live abroad. She became too old to live alone and look after herself. She went to live in a hotel near the sea. This rich lady had a pair of ugly dogs. She loved them. After a year a new young waiter came to work in the hotel. He began to do everything to please the old lady. He helped her to get into and out of the car which she hired when she wanted to go for a drive. Also, he pretended to like her unpleasant dogs. He cleaned them and looked after them in his free time. He thought that the rich lady would leave him a lot of money when she would die. But when she died a few years later, he discovered that she had left him only two things which she loved most in the world and which she thought he loved them too, the two dogs. All her money and jewelry went to her sons."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Green __ give us fresh air and make the environment more beautiful.",
+       "options": [
+        "planes",
+        "plants",
+        "plains",
+        "planets"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "There are new __ in the park where people can sit and relax.",
+       "options": [
+        "branches",
+        "spoons",
+        "doors",
+        "benches"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Cities need open __ where children can play and families can enjoy nature.",
+       "options": [
+        "spaces",
+        "spices",
+        "species",
+        "lanes"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Good food, exercise, and sleep are important for healthy __ of the body.",
+       "options": [
+        "growth",
+        "noise",
+        "mistake",
+        "damage"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Salma asks why __ in person for the job.",
+       "options": [
+        "has she applied",
+        "she has to apply",
+        "she had to apply",
+        "had she applied"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Hana __ that she needed to change her mobile.",
+       "options": [
+        "said",
+        "told",
+        "asked",
+        "inquired"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "She has made some food ………(to) her kids.",
+       "answer": [
+        "for"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Most people have never travelled ………… (at) plane.",
+       "answer": [
+        "by"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Mohamed …………… (go) to school. He hasn't come back yet.",
+       "answer": [
+        "has gone"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "I have learned to …………… (swims).",
+       "answer": [
+        "swim"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gr1",
+   "title": "المراجعة العامة ١",
+   "pages": "62-63",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "المراجعة العامة ١",
+     "sub": "من كتاب التقييمات (ص 62-63) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "The story ",
+        ".his interest in studying history.\nI called Salma, but she ",
+        ".nervously.\nYoung people should be ",
+        ".of how technology is important.\nMy dad advised me to avoid ",
+        ".with my classmates."
+       ],
+       "answers": [
+        "sparked",
+        "responded",
+        "aware",
+        "conflicts"
+       ],
+       "bank": [
+        "conflicts",
+        "sparked",
+        "aware",
+        "responded"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "What can too much screen time cause?",
+       "options": [
+        "Better sleep",
+        "Eye strain",
+        "More exercise",
+        "Stronger health"
+       ],
+       "answer": 1,
+       "passage": "Many young people today spend hours using phones, tablets, or computers. While technology helps us learn and connect, too much screen time can cause eye strain, poor sleep, and less physical activity. Experts suggest balancing online activities with outdoor play, reading, or talking with family. Setting limits on screen use can improve health and create more time for real-life experiences. Parents and teachers encourage children to use technology wisely."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Experts suggest balancing screen time with __",
+       "options": [
+        "eating fast food",
+        "sleeping all day",
+        "outdoor play",
+        "watching more TV"
+       ],
+       "answer": 2,
+       "passage": "Many young people today spend hours using phones, tablets, or computers. While technology helps us learn and connect, too much screen time can cause eye strain, poor sleep, and less physical activity. Experts suggest balancing online activities with outdoor play, reading, or talking with family. Setting limits on screen use can improve health and create more time for real-life experiences. Parents and teachers encourage children to use technology wisely."
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Farmers work in the field of ……………. to grow food.",
+       "options": [
+        "agriculture",
+        "industry",
+        "trade",
+        "design"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "After a long day's work, he decided to ……………. the job and find another one.",
+       "options": [
+        "join",
+        "quit",
+        "enjoy",
+        "build"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "……………. hesitate. Trust your abilities.",
+       "options": [
+        "Aren't",
+        "Doesn't",
+        "Isn't",
+        "Don't"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "……………. your time and effort.",
+       "options": [
+        "Saving",
+        "To save",
+        "Saves",
+        "Save"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The Egyptians are…………of their glorious past.",
+       "options": [
+        "natural",
+        "proud",
+        "eco-friendly",
+        "fertile"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Using solar energy is………… .",
+       "options": [
+        "friendly",
+        "unfriendly",
+        "eco-friendly",
+        "a & b"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "The teacher has already ………… (notice) the improvement in your work.",
+       "answer": [
+        "noticed"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "If students ………… (be) more respectful, classroom management would have been easier.",
+       "answer": [
+        "had been"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Many students feel ………… (stress) during exam periods.",
+       "answer": [
+        "stressed"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
