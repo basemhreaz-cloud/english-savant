@@ -618,7 +618,7 @@
    "num": 6,
    "title": "The Water Savers",
    "pages": [
-    84,
+    85,
     93
    ],
    "lessons": [
@@ -700,6 +700,57 @@
         "overflow"
        ],
        "hint": "فيضان"
+      }
+     ]
+    },
+    {
+     "id": "story",
+     "title": "افهم فكرة القصة",
+     "sub": "اقرأ الملخص أولًا، ثم اختر الإجابة. الأسئلة من صياغتنا.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What problem do the friends notice?",
+       "options": [
+        "Wasted water",
+        "Missing books",
+        "A broken bus"
+       ],
+       "answer": 0,
+       "passage": "Three friends notice wasted water at school. Noor keeps notes, Ahmed takes photos, and Farida makes posters. Mr Youssef shows them why fixing leaks matters. More classes join the project, and the school recognises the friends for their effort."
+      },
+      {
+       "type": "mcq",
+       "q": "Who takes photos?",
+       "options": [
+        "Noor",
+        "Ahmed",
+        "Farida"
+       ],
+       "answer": 1,
+       "passage": "Three friends notice wasted water at school. Noor keeps notes, Ahmed takes photos, and Farida makes posters. Mr Youssef shows them why fixing leaks matters. More classes join the project, and the school recognises the friends for their effort."
+      },
+      {
+       "type": "mcq",
+       "q": "Who makes posters?",
+       "options": [
+        "Farida",
+        "Ahmed",
+        "Mr Youssef"
+       ],
+       "answer": 0,
+       "passage": "Three friends notice wasted water at school. Noor keeps notes, Ahmed takes photos, and Farida makes posters. Mr Youssef shows them why fixing leaks matters. More classes join the project, and the school recognises the friends for their effort."
+      },
+      {
+       "type": "mcq",
+       "q": "What does the project show?",
+       "options": [
+        "Only teachers can help.",
+        "Teamwork can make a difference.",
+        "Small leaks never matter."
+       ],
+       "answer": 1,
+       "passage": "Three friends notice wasted water at school. Noor keeps notes, Ahmed takes photos, and Farida makes posters. Mr Youssef shows them why fixing leaks matters. More classes join the project, and the school recognises the friends for their effort."
       }
      ]
     }

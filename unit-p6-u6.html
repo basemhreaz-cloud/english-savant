@@ -56,13 +56,13 @@ button,.button,.chip,.icon-button{border-radius:12px}.island-toggle{border-radiu
 <section class="page-intro wrap">
 <span class="eyebrow">منهج الصف السادس الابتدائي · الوحدة ٦</span>
 <h1 dir="ltr">The Water Savers.</h1>
-<p class="lead">أنشطة تفاعلية من كتاب الوزارة (ص 84-93): كلمات الوحدة — والتصحيح فوري.</p>
+<p class="lead">أنشطة تفاعلية من كتاب الوزارة (ص 85-93): كلمات الوحدة — والتصحيح فوري.</p>
 <p class="section-sub" dir="ltr">Vocabulary and Characters · Story: The Water Savers · Story Exercises and Project</p>
 </section>
 
 
 
-<section class="wrap section compact-section">
+<section class="wrap section compact-section" id="water-savers-story"><div class="section-head"><div><p class="eyebrow">قصة الوحدة · شرح بصياغتنا</p><h2>The Water Savers</h2><p class="section-sub">القصة عن تحمّل المسؤولية والتعاون لحماية الميه. اقرأ الملخص، افتح المعاني، وبعدين حل الأسئلة.</p></div></div><img src="images/water-savers-original.svg" alt="رسمة أصلية لثلاثة طلاب يلاحظون صنبورًا يسرّب الماء ويسجلون المشكلة" style="width:100%;height:auto;border-radius:24px"/><small>رسم أصلي للموقع لتوضيح الفكرة، وليس صورة من الكتاب.</small><article class="teach-block" style="margin-top:24px"><h3>مين في القصة؟</h3><p>Noor وAhmed وFarida ثلاثة أصدقاء في المدرسة. Mr Youssef عامل المدرسة الذي يساعدهم. المدرّس يشجّعهم على المشروع.</p><h3>ملخص مبسّط بالإنجليزي</h3><div dir="ltr" style="line-height:1.9"><p>Three friends notice that their school is losing water. A tap drips, a damaged pipe leaks, and people sometimes leave water running. Noor, Ahmed and Farida decide to help instead of ignoring the problem.</p><p>Their teacher supports their idea. They collect information about wasted water: Noor keeps notes, Ahmed takes photos, and Farida creates posters. Mr Youssef helps them understand why repairing leaks matters. When another student makes fun of their work, they stay committed.</p><p>More people join in. The school displays their messages and classes try water-saving challenges. The friends receive recognition for their effort. The lesson is simple: cooperation and small daily choices can protect a resource everybody needs.</p></div><details><summary style="cursor:pointer;padding:14px 0">افتح الشرح بالعربي</summary><p>الأصدقاء لاحظوا تسريب الميه وقرروا يتصرفوا. جمعوا معلومات وصور وعملوا ملصقات، واتعلموا من عامل المدرسة أهمية إصلاح التسريب. حتى لما زميل سخر منهم ما وقفوش. فكرتهم انتشرت، والمدرسة شاركتهم وكرّمت مجهودهم. الفكرة الأساسية: التغيير مش لازم يبدأ بحاجة كبيرة، التعاون والعادات الصغيرة ليهم تأثير.</p></details><details><summary style="cursor:pointer;padding:14px 0">كلمات هتساعدك في القراءة</summary><p dir="ltr">drip = ينقّط · leak = تسرّب · resource = مورد · repair = يصلّح · poster = ملصق · cooperate = يتعاون</p></details><h3>فكّر وجرّب</h3><p>لو شفت حنفية بتسرّب في المدرسة، هتبلّغ مين؟ اكتب لنفسك خطوة تقدر تعملها من غير ما تعرّض نفسك للخطر. التصليح مسؤولية شخص مختص.</p><label for="water-note">فكرتك، لا تُرسل للموقع</label><textarea id="water-note" rows="3" style="width:100%;box-sizing:border-box"></textarea><p><small>ملخص تعليمي أصلي بالاعتماد على كتاب الوزارة، سادس ابتدائي، الترم الأول 2025/2026، Unit 6، ص 85–93. النص ليس نقلًا للقصة الكاملة.</small></p><a href="https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026/Primary/Primary6/Term1/StudentBook/English_Prim6_Tr1.pdf" target="_blank" rel="noopener">افتح كتاب الوزارة الأصلي ↗</a></article></section><section class="wrap section compact-section">
 <h2>الشرح التفاعلي</h2>
 <p class="section-sub">اتعلّم محتوى الوحدة الأول، وبعدين اختبر نفسك في المحطات تحت.</p>
 <div id="teach"><div class="lesson-empty">بنحضّر الشرح…</div></div>
@@ -262,7 +262,7 @@ function mountStation(root,st){
   });
   updateBar();
 }
-fetch('curr-p6.json').then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
+fetch('curr-p6.json?v=20261121-water',{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
   var u=d.units.find(function(x){return x.id===un});
   if(!u)throw 0;
   buildTeach(u);
