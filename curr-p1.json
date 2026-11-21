@@ -32,12 +32,13 @@
     "play",
     "friends",
     "bag",
+    "shake",
+    "hands",
     "teacher",
     "board",
     "desk",
     "chair",
-    "book",
-    "pencil"
+    "book"
    ],
    "sentences": [
     "What's your name?",
@@ -75,44 +76,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "lcinpe",
-       "answer": [
-        "pencil"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "drsefin",
+       "letters": "edsirfn",
        "answer": [
         "friends"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "hrcai",
+       "letters": "dnahs",
        "answer": [
-        "chair"
+        "hands"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "lypa",
-       "answer": [
-        "play"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "dsek",
+       "letters": "ekds",
        "answer": [
         "desk"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "rdabo",
+       "letters": "gba",
        "answer": [
-        "board"
+        "bag"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rahic",
+       "answer": [
+        "chair"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "aypl",
+       "answer": [
+        "play"
        ]
       }
      ]
@@ -126,8 +127,8 @@
        "type": "reorder",
        "words": [
         "your",
-        "name?",
-        "What's"
+        "What's",
+        "name?"
        ],
        "answer": [
         "What's",
@@ -138,8 +139,8 @@
       {
        "type": "reorder",
        "words": [
-        "friends.",
         "are",
+        "friends.",
         "We"
        ],
        "answer": [
@@ -151,9 +152,9 @@
       {
        "type": "reorder",
        "words": [
+        "book.",
         "your",
-        "Open",
-        "book."
+        "Open"
        ],
        "answer": [
         "Open",
@@ -166,9 +167,9 @@
        "label": "cloze",
        "q": "We are ___.",
        "options": [
-        "play",
         "book",
-        "teacher",
+        "chair",
+        "hands",
         "friends"
        ],
        "answer": 3
@@ -178,12 +179,12 @@
        "label": "cloze",
        "q": "Open your ___.",
        "options": [
-        "board",
         "book",
-        "desk",
-        "chair"
+        "teacher",
+        "board",
+        "pencil"
        ],
-       "answer": 1
+       "answer": 0
       }
      ]
     },
@@ -229,24 +230,24 @@
        "label": "sound",
        "q": "Which word has the Tt /t/ sound?",
        "options": [
-        "ill",
-        "tiger",
         "insect",
-        "ink"
+        "ink",
+        "tiger",
+        "ill"
        ],
-       "answer": 1
+       "answer": 2
       },
       {
        "type": "mcq",
        "label": "sound",
        "q": "Which word has the Ii /ɪ/ sound?",
        "options": [
+        "insect",
+        "tomato",
         "teacher",
-        "tiger",
-        "table",
-        "insect"
+        "tiger"
        ],
-       "answer": 3
+       "answer": 0
       }
      ]
     }
@@ -328,44 +329,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "ierclc",
+       "letters": "lube",
        "answer": [
-        "circle"
+        "blue"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "eregn",
+       "letters": "elbrttuyf",
+       "answer": [
+        "butterfly"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "eergn",
        "answer": [
         "green"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "sargs",
+       "letters": "uaesqr",
        "answer": [
-        "grass"
+        "square"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "dibr",
+       "letters": "ltergeanc",
        "answer": [
-        "bird"
+        "rectangle"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "erte",
+       "letters": "ksy",
        "answer": [
-        "tree"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "der",
-       "answer": [
-        "red"
+        "sky"
        ]
       }
      ]
@@ -378,10 +379,10 @@
       {
        "type": "reorder",
        "words": [
-        "is",
-        "grass",
         "green.",
-        "The"
+        "The",
+        "grass",
+        "is"
        ],
        "answer": [
         "The",
@@ -393,10 +394,10 @@
       {
        "type": "reorder",
        "words": [
-        "is",
-        "blue.",
+        "sky",
         "The",
-        "sky"
+        "blue.",
+        "is"
        ],
        "answer": [
         "The",
@@ -408,8 +409,8 @@
       {
        "type": "reorder",
        "words": [
-        "The",
         "yellow.",
+        "The",
         "sun",
         "is"
        ],
@@ -425,24 +426,24 @@
        "label": "cloze",
        "q": "The grass is ___.",
        "options": [
-        "flower",
-        "green",
+        "circle",
         "yellow",
-        "rectangle"
+        "green",
+        "red"
        ],
-       "answer": 1
+       "answer": 2
       },
       {
        "type": "mcq",
        "label": "cloze",
        "q": "The sky is ___.",
        "options": [
-        "green",
-        "square",
-        "grass",
-        "blue"
+        "flower",
+        "rectangle",
+        "blue",
+        "red"
        ],
-       "answer": 3
+       "answer": 2
       }
      ]
     },
@@ -488,12 +489,12 @@
        "label": "sound",
        "q": "Which word has the Ss /s/ sound?",
        "options": [
-        "apple",
+        "arrow",
         "axe",
-        "spoon",
-        "ant"
+        "ant",
+        "spoon"
        ],
-       "answer": 2
+       "answer": 3
       },
       {
        "type": "mcq",
@@ -501,11 +502,11 @@
        "q": "Which word has the Aa /æ/ sound?",
        "options": [
         "spoon",
-        "arrow",
+        "sun",
         "spider",
-        "sun"
+        "arrow"
        ],
-       "answer": 1
+       "answer": 3
       }
      ]
     }
@@ -601,30 +602,16 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "tfreha",
+       "letters": "otherbr",
        "answer": [
-        "father"
+        "brother"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "hrtmeo",
+       "letters": "rmohte",
        "answer": [
         "mother"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "ardfrhaegnt",
-       "answer": [
-        "grandfather"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "rsitse",
-       "answer": [
-        "sister"
        ]
       },
       {
@@ -636,9 +623,23 @@
       },
       {
        "type": "unscramble",
-       "letters": "hebotrr",
+       "letters": "tfehra",
        "answer": [
-        "brother"
+        "father"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "daoertrgnhm",
+       "answer": [
+        "grandmother"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "tiessr",
+       "answer": [
+        "sister"
        ]
       }
      ]
@@ -815,44 +816,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "seon",
-       "answer": [
-        "nose"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "rase",
+       "letters": "aesr",
        "answer": [
         "ears"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "ese",
+       "letters": "hrea",
        "answer": [
-        "see"
+        "hear"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "mells",
-       "answer": [
-        "smell"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "deah",
-       "answer": [
-        "head"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "tucoh",
+       "letters": "hcuot",
        "answer": [
         "touch"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "mhout",
+       "answer": [
+        "mouth"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "yees",
+       "answer": [
+        "eyes"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "otof",
+       "answer": [
+        "foot"
        ]
       }
      ]
@@ -865,10 +866,10 @@
       {
        "type": "reorder",
        "words": [
+        "can",
+        "see",
         "eyes.",
         "with",
-        "see",
-        "can",
         "I",
         "my"
        ],
@@ -884,11 +885,11 @@
       {
        "type": "reorder",
        "words": [
-        "I",
+        "hear",
+        "my",
         "ears.",
         "can",
-        "my",
-        "hear",
+        "I",
         "with"
        ],
        "answer": [
@@ -903,12 +904,12 @@
       {
        "type": "reorder",
        "words": [
-        "taste",
-        "with",
-        "tongue.",
         "my",
+        "tongue.",
+        "with",
         "I",
-        "can"
+        "can",
+        "taste"
        ],
        "answer": [
         "I",
@@ -924,10 +925,10 @@
        "label": "cloze",
        "q": "I can see with my ___.",
        "options": [
-        "head",
         "feet",
+        "taste",
         "eyes",
-        "mouth"
+        "head"
        ],
        "answer": 2
       },
@@ -936,10 +937,10 @@
        "label": "cloze",
        "q": "I can hear with my ___.",
        "options": [
-        "head",
+        "feet",
         "ears",
-        "smell",
-        "foot"
+        "see",
+        "hear"
        ],
        "answer": 1
       }
@@ -1119,44 +1120,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "woc",
+       "letters": "ocw",
        "answer": [
         "cow"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "sgge",
-       "answer": [
-        "eggs"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "amlls",
-       "answer": [
-        "small"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "einchck",
-       "answer": [
-        "chicken"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "cdku",
+       "letters": "ckdu",
        "answer": [
         "duck"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "ibg",
+       "letters": "kilm",
        "answer": [
-        "big"
+        "milk"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "heosr",
+       "answer": [
+        "horse"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "cicenkh",
+       "answer": [
+        "chicken"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "egsg",
+       "answer": [
+        "eggs"
        ]
       }
      ]
@@ -1169,11 +1170,11 @@
       {
        "type": "reorder",
        "words": [
-        "The",
-        "gives",
         "chicken",
+        "eggs.",
         "us",
-        "eggs."
+        "gives",
+        "The"
        ],
        "answer": [
         "The",
@@ -1186,9 +1187,9 @@
       {
        "type": "reorder",
        "words": [
-        "cow",
         "The",
         "big.",
+        "cow",
         "is"
        ],
        "answer": [
@@ -1201,9 +1202,9 @@
       {
        "type": "reorder",
        "words": [
+        "horse",
         "big.",
         "The",
-        "horse",
         "is"
        ],
        "answer": [
@@ -1218,24 +1219,24 @@
        "label": "cloze",
        "q": "The cow gives us milk, cheese and ___.",
        "options": [
-        "meat",
-        "small",
+        "duck",
         "cow",
-        "chicken"
+        "meat",
+        "milk"
        ],
-       "answer": 0
+       "answer": 2
       },
       {
        "type": "mcq",
        "label": "cloze",
        "q": "The chicken gives us ___.",
        "options": [
-        "farm",
         "duck",
-        "cheese",
-        "eggs"
+        "eggs",
+        "meat",
+        "cow"
        ],
-       "answer": 3
+       "answer": 1
       }
      ]
     },
@@ -1408,44 +1409,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "nlio",
+       "letters": "odg",
        "answer": [
-        "lion"
+        "dog"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "etsp",
+       "letters": "espt",
        "answer": [
         "pets"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "tiegr",
-       "answer": [
-        "tiger"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "fegfrai",
+       "letters": "ffirgea",
        "answer": [
         "giraffe"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "dirb",
+       "letters": "npeahlte",
        "answer": [
-        "bird"
+        "elephant"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "atc",
+       "letters": "utterl",
        "answer": [
-        "cat"
+        "turtle"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "sneka",
+       "answer": [
+        "snake"
        ]
       }
      ]
@@ -1459,11 +1460,11 @@
        "type": "reorder",
        "words": [
         "under",
-        "the",
-        "cat",
         "The",
+        "is",
+        "cat",
         "chair.",
-        "is"
+        "the"
        ],
        "answer": [
         "The",
@@ -1477,12 +1478,12 @@
       {
        "type": "reorder",
        "words": [
-        "sofa.",
-        "on",
-        "The",
         "the",
+        "The",
+        "is",
+        "on",
         "dog",
-        "is"
+        "sofa."
        ],
        "answer": [
         "The",
@@ -1496,12 +1497,12 @@
       {
        "type": "reorder",
        "words": [
-        "cage.",
-        "the",
-        "is",
         "in",
+        "bird",
+        "cage.",
         "The",
-        "bird"
+        "is",
+        "the"
        ],
        "answer": [
         "The",
@@ -1600,7 +1601,7 @@
     "play",
     "friends",
     "bag",
-    "teacher",
+    "shake",
     "grass",
     "flower",
     "tree",
@@ -1658,16 +1659,67 @@
      "sub": "أسئلة متنوعة من الوحدات",
      "questions": [
       {
+       "type": "reorder",
+       "words": [
+        "your",
+        "What's",
+        "name?"
+       ],
+       "answer": [
+        "What's",
+        "your",
+        "name?"
+       ]
+      },
+      {
        "type": "unscramble",
        "label": "sound",
-       "letters": "_pider",
+       "letters": "_omato",
+       "answer": [
+        "t"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "elbrttuyf",
+       "answer": [
+        "butterfly"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "lube",
+       "answer": [
+        "blue"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_un",
        "answer": [
         "s"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "hrtmeo",
+       "label": "sound",
+       "letters": "_ail",
+       "answer": [
+        "n"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_urse",
+       "answer": [
+        "n"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rmohte",
        "answer": [
         "mother"
        ]
@@ -1683,10 +1735,45 @@
       {
        "type": "reorder",
        "words": [
-        "is",
-        "blue.",
+        "are",
+        "friends.",
+        "We"
+       ],
+       "answer": [
+        "We",
+        "are",
+        "friends."
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "dnahs",
+       "answer": [
+        "hands"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "green.",
         "The",
-        "sky"
+        "grass",
+        "is"
+       ],
+       "answer": [
+        "The",
+        "grass",
+        "is",
+        "green."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "sky",
+        "The",
+        "blue.",
+        "is"
        ],
        "answer": [
         "The",
@@ -1698,109 +1785,23 @@
       {
        "type": "unscramble",
        "label": "sound",
-       "letters": "_urse",
-       "answer": [
-        "n"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "lcinpe",
-       "answer": [
-        "pencil"
-       ]
-      },
-      {
-       "type": "reorder",
-       "words": [
-        "friends.",
-        "are",
-        "We"
-       ],
-       "answer": [
-        "We",
-        "are",
-        "friends."
-       ]
-      },
-      {
-       "type": "reorder",
-       "words": [
-        "your",
-        "name?",
-        "What's"
-       ],
-       "answer": [
-        "What's",
-        "your",
-        "name?"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_ail",
-       "answer": [
-        "n"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "drsefin",
-       "answer": [
-        "friends"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "tfreha",
-       "answer": [
-        "father"
-       ]
-      },
-      {
-       "type": "reorder",
-       "words": [
-        "is",
-        "grass",
-        "green.",
-        "The"
-       ],
-       "answer": [
-        "The",
-        "grass",
-        "is",
-        "green."
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "eregn",
-       "answer": [
-        "green"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "ierclc",
-       "answer": [
-        "circle"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_un",
+       "letters": "_pider",
        "answer": [
         "s"
        ]
       },
       {
        "type": "unscramble",
-       "label": "sound",
-       "letters": "_omato",
+       "letters": "edsirfn",
        "answer": [
-        "t"
+        "friends"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "otherbr",
+       "answer": [
+        "brother"
        ]
       }
      ]
@@ -1880,72 +1881,26 @@
      "sub": "أسئلة متنوعة من الوحدات",
      "questions": [
       {
-       "type": "reorder",
-       "words": [
-        "I",
-        "ears.",
-        "can",
-        "my",
-        "hear",
-        "with"
-       ],
-       "answer": [
-        "I",
-        "can",
-        "hear",
-        "with",
-        "my",
-        "ears."
-       ]
-      },
-      {
-       "type": "reorder",
-       "words": [
-        "eyes.",
-        "with",
-        "see",
-        "can",
-        "I",
-        "my"
-       ],
-       "answer": [
-        "I",
-        "can",
-        "see",
-        "with",
-        "my",
-        "eyes."
-       ]
-      },
-      {
        "type": "unscramble",
        "label": "sound",
-       "letters": "_oon",
+       "letters": "_ird",
        "answer": [
-        "m"
+        "b"
        ]
       },
       {
        "type": "unscramble",
-       "label": "sound",
-       "letters": "_ed",
+       "letters": "odg",
        "answer": [
-        "r"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "rase",
-       "answer": [
-        "ears"
+        "dog"
        ]
       },
       {
        "type": "reorder",
        "words": [
-        "cow",
         "The",
         "big.",
+        "cow",
         "is"
        ],
        "answer": [
@@ -1958,93 +1913,27 @@
       {
        "type": "unscramble",
        "label": "sound",
-       "letters": "_onkey",
-       "answer": [
-        "m"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_ing",
+       "letters": "_ed",
        "answer": [
         "r"
        ]
       },
       {
-       "type": "reorder",
-       "words": [
-        "sofa.",
-        "on",
-        "The",
-        "the",
-        "dog",
-        "is"
-       ],
-       "answer": [
-        "The",
-        "dog",
-        "is",
-        "on",
-        "the",
-        "sofa."
-       ]
-      },
-      {
        "type": "unscramble",
-       "letters": "seon",
+       "letters": "ckdu",
        "answer": [
-        "nose"
-       ]
-      },
-      {
-       "type": "reorder",
-       "words": [
-        "The",
-        "gives",
-        "chicken",
-        "us",
-        "eggs."
-       ],
-       "answer": [
-        "The",
-        "chicken",
-        "gives",
-        "us",
-        "eggs."
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "etsp",
-       "answer": [
-        "pets"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "sgge",
-       "answer": [
-        "eggs"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_ird",
-       "answer": [
-        "b"
+        "duck"
        ]
       },
       {
        "type": "reorder",
        "words": [
         "under",
-        "the",
-        "cat",
         "The",
+        "is",
+        "cat",
         "chair.",
-        "is"
+        "the"
        ],
        "answer": [
         "The",
@@ -2058,6 +1947,14 @@
       {
        "type": "unscramble",
        "label": "sound",
+       "letters": "_onkey",
+       "answer": [
+        "m"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
        "letters": "_oy",
        "answer": [
         "b"
@@ -2065,16 +1962,120 @@
       },
       {
        "type": "unscramble",
-       "letters": "nlio",
+       "label": "sound",
+       "letters": "_ing",
        "answer": [
-        "lion"
+        "r"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "woc",
+       "label": "sound",
+       "letters": "_oon",
+       "answer": [
+        "m"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "espt",
+       "answer": [
+        "pets"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "can",
+        "see",
+        "eyes.",
+        "with",
+        "I",
+        "my"
+       ],
+       "answer": [
+        "I",
+        "can",
+        "see",
+        "with",
+        "my",
+        "eyes."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "chicken",
+        "eggs.",
+        "us",
+        "gives",
+        "The"
+       ],
+       "answer": [
+        "The",
+        "chicken",
+        "gives",
+        "us",
+        "eggs."
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ocw",
        "answer": [
         "cow"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "hear",
+        "my",
+        "ears.",
+        "can",
+        "I",
+        "with"
+       ],
+       "answer": [
+        "I",
+        "can",
+        "hear",
+        "with",
+        "my",
+        "ears."
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "hrea",
+       "answer": [
+        "hear"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "aesr",
+       "answer": [
+        "ears"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "The",
+        "is",
+        "on",
+        "dog",
+        "sofa."
+       ],
+       "answer": [
+        "The",
+        "dog",
+        "is",
+        "on",
+        "the",
+        "sofa."
        ]
       }
      ]

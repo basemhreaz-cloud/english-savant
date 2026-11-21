@@ -30,15 +30,15 @@
    ],
    "vocab": [
     "hello",
-    "goodbye",
-    "class",
-    "school",
-    "teacher",
-    "student",
-    "tall",
-    "short",
-    "kind",
-    "funny"
+    "good",
+    "morning",
+    "how",
+    "are",
+    "fine",
+    "thank",
+    "you",
+    "nice",
+    "meet"
    ],
    "sentences": [],
    "phonics": [
@@ -58,44 +58,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "edttnus",
+       "letters": "uhots",
        "answer": [
-        "student"
+        "shout"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "obeoydg",
+       "letters": "ees",
        "answer": [
-        "goodbye"
+        "see"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "lchoso",
+       "letters": "nadh",
        "answer": [
-        "school"
+        "hand"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "inkd",
+       "letters": "uclyr",
        "answer": [
-        "kind"
+        "curly"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "lacss",
+       "letters": "amy",
        "answer": [
-        "class"
+        "may"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "yfnnu",
+       "letters": "kanth",
        "answer": [
-        "funny"
+        "thank"
        ]
       }
      ]
@@ -146,7 +146,11 @@
    "vocab": [
     "aunt",
     "uncle",
-    "cousin"
+    "cousin",
+    "family",
+    "traditions",
+    "celebrations",
+    "jobs"
    ],
    "sentences": [],
    "phonics": [
@@ -173,23 +177,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "uceln",
+       "letters": "sboj",
+       "answer": [
+        "jobs"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "nsciuo",
+       "answer": [
+        "cousin"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "enulc",
        "answer": [
         "uncle"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "unat",
+       "letters": "tsridiotna",
        "answer": [
-        "aunt"
+        "traditions"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "uosinc",
+       "letters": "alymfi",
        "answer": [
-        "cousin"
+        "family"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "scnrtlboeiea",
+       "answer": [
+        "celebrations"
        ]
       }
      ]
@@ -266,10 +291,16 @@
     }
    ],
    "vocab": [
+    "places",
+    "neighborhood",
+    "egyptian",
+    "landmarks",
     "zoo",
+    "trip",
+    "words",
     "under",
-    "between",
-    "behind"
+    "next",
+    "between"
    ],
    "sentences": [],
    "phonics": [
@@ -300,16 +331,23 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "nheidb",
+       "letters": "saeplc",
        "answer": [
-        "behind"
+        "places"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "nedur",
+       "letters": "eebnetw",
        "answer": [
-        "under"
+        "between"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "oihebghndoro",
+       "answer": [
+        "neighborhood"
        ]
       },
       {
@@ -321,9 +359,16 @@
       },
       {
        "type": "unscramble",
-       "letters": "etewenb",
+       "letters": "ndlakamsr",
        "answer": [
-        "between"
+        "landmarks"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rnoft",
+       "answer": [
+        "front"
        ]
       }
      ]
@@ -371,9 +416,9 @@
        "q": "Which word has the double consonant endings ff/ll/ss/zz sound?",
        "options": [
         "back",
-        "duck",
+        "sock",
         "buzz",
-        "truck"
+        "neck"
        ],
        "answer": 2
       },
@@ -458,44 +503,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "ldhepe",
-       "answer": [
-        "helped"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "wder",
-       "answer": [
-        "drew"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "ecetdix",
-       "answer": [
-        "excited"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "dober",
+       "letters": "odebr",
        "answer": [
         "bored"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "etnw",
+       "letters": "dewr",
+       "answer": [
+        "drew"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "entw",
        "answer": [
         "went"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "iwn",
+       "letters": "ditre",
        "answer": [
-        "win"
+        "tired"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "cersad",
+       "answer": [
+        "scared"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "now",
+       "answer": [
+        "won"
        ]
       }
      ]
@@ -589,9 +634,9 @@
        "label": "sound",
        "q": "Which word has the hard c = /k/ sound?",
        "options": [
-        "nice",
-        "cold",
         "face",
+        "cold",
+        "nice",
         "cent"
        ],
        "answer": 1
@@ -601,12 +646,12 @@
        "label": "sound",
        "q": "Which word has the soft c = /s/ sound?",
        "options": [
-        "city",
-        "came",
         "carry",
+        "cold",
+        "city",
         "cat"
        ],
-       "answer": 0
+       "answer": 2
       }
      ]
     }
@@ -640,6 +685,8 @@
    ],
    "vocab": [
     "clean",
+    "tidy",
+    "bed",
     "share",
     "care",
     "win",
@@ -681,44 +728,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "nalec",
+       "letters": "iwn",
        "answer": [
-        "clean"
+        "win"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "tadeon",
+       "letters": "ebd",
        "answer": [
-        "donate"
+        "bed"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "paltn",
-       "answer": [
-        "plant"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "eechr",
+       "letters": "ecehr",
        "answer": [
         "cheer"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "race",
+       "letters": "itdy",
        "answer": [
-        "care"
+        "tidy"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "inw",
+       "letters": "ontdae",
        "answer": [
-        "win"
+        "donate"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "atlpn",
+       "answer": [
+        "plant"
        ]
       }
      ]
@@ -765,10 +812,10 @@
        "label": "sound",
        "q": "Which word has the hard g = /g/ sound?",
        "options": [
-        "giraffe",
         "page",
+        "egypt",
         "good",
-        "magic"
+        "huge"
        ],
        "answer": 2
       },
@@ -777,12 +824,12 @@
        "label": "sound",
        "q": "Which word has the soft g = /dʒ/ (before e, i, y) sound?",
        "options": [
+        "page",
+        "big",
         "green",
-        "gum",
-        "game",
-        "page"
+        "good"
        ],
-       "answer": 3
+       "answer": 0
       }
      ]
     }
@@ -851,44 +898,44 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "eabcrtlee",
+       "letters": "oagl",
        "answer": [
-        "celebrate"
+        "goal"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "crae",
+       "letters": "rtiecacp",
+       "answer": [
+        "practice"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "cear",
        "answer": [
         "race"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "dpruo",
+       "letters": "unsoerv",
        "answer": [
-        "proud"
+        "nervous"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "ecscssu",
+       "letters": "alnp",
+       "answer": [
+        "plan"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ccsssue",
        "answer": [
         "success"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "etsp",
-       "answer": [
-        "step"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "harce",
-       "answer": [
-        "reach"
        ]
       }
      ]
@@ -937,16 +984,17 @@
    "review": true,
    "vocab": [
     "hello",
-    "goodbye",
-    "class",
-    "school",
+    "good",
+    "morning",
+    "how",
     "aunt",
     "uncle",
     "cousin",
-    "zoo",
-    "under",
-    "between",
-    "behind"
+    "family",
+    "places",
+    "neighborhood",
+    "egyptian",
+    "landmarks"
    ],
    "sentences": [],
    "phonics": [
@@ -981,14 +1029,6 @@
       {
        "type": "unscramble",
        "label": "sound",
-       "letters": "_at",
-       "answer": [
-        "wh"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
        "letters": "_xam",
        "answer": [
         "e"
@@ -997,9 +1037,9 @@
       {
        "type": "unscramble",
        "label": "sound",
-       "letters": "bu__",
+       "letters": "_at",
        "answer": [
-        "zz"
+        "wh"
        ]
       },
       {
@@ -1012,6 +1052,48 @@
       },
       {
        "type": "unscramble",
+       "letters": "uhots",
+       "answer": [
+        "shout"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "nsciuo",
+       "answer": [
+        "cousin"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ees",
+       "answer": [
+        "see"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "saeplc",
+       "answer": [
+        "places"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "eebnetw",
+       "answer": [
+        "between"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "sboj",
+       "answer": [
+        "jobs"
+       ]
+      },
+      {
+       "type": "unscramble",
        "label": "sound",
        "letters": "du__",
        "answer": [
@@ -1020,44 +1102,10 @@
       },
       {
        "type": "unscramble",
-       "letters": "uceln",
+       "label": "sound",
+       "letters": "bu__",
        "answer": [
-        "uncle"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "nedur",
-       "answer": [
-        "under"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "obeoydg",
-       "answer": [
-        "goodbye"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "nheidb",
-       "answer": [
-        "behind"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "unat",
-       "answer": [
-        "aunt"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "edttnus",
-       "answer": [
-        "student"
+        "zz"
        ]
       }
      ]
@@ -1079,9 +1127,9 @@
     "excited",
     "angry",
     "clean",
+    "tidy",
+    "bed",
     "share",
-    "care",
-    "win",
     "goal",
     "try",
     "step",
@@ -1134,16 +1182,85 @@
      "questions": [
       {
        "type": "unscramble",
-       "letters": "ldhepe",
+       "label": "sound",
+       "letters": "_ing",
        "answer": [
-        "helped"
+        "spr"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"is\":",
+       "answer": [
+        "was"
        ]
       },
       {
        "type": "unscramble",
-       "letters": "crae",
+       "letters": "dewr",
        "answer": [
-        "race"
+        "drew"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "iwn",
+       "answer": [
+        "win"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ebd",
+       "answer": [
+        "bed"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_at",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ash",
+       "answer": [
+        "spl"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_um",
+       "answer": [
+        "g"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "oagl",
+       "answer": [
+        "goal"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rtiecacp",
+       "answer": [
+        "practice"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"are\":",
+       "answer": [
+        "were"
        ]
       },
       {
@@ -1163,79 +1280,10 @@
        ]
       },
       {
-       "type": "typein",
-       "label": "form",
-       "q": "Past of \"is\":",
-       "answer": [
-        "was"
-       ]
-      },
-      {
        "type": "unscramble",
-       "letters": "wder",
+       "letters": "odebr",
        "answer": [
-        "drew"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_ash",
-       "answer": [
-        "spl"
-       ]
-      },
-      {
-       "type": "typein",
-       "label": "form",
-       "q": "Past of \"are\":",
-       "answer": [
-        "were"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_um",
-       "answer": [
-        "g"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_at",
-       "answer": [
-        "c"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "eabcrtlee",
-       "answer": [
-        "celebrate"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "label": "sound",
-       "letters": "_ing",
-       "answer": [
-        "spr"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "tadeon",
-       "answer": [
-        "donate"
-       ]
-      },
-      {
-       "type": "unscramble",
-       "letters": "nalec",
-       "answer": [
-        "clean"
+        "bored"
        ]
       }
      ]
