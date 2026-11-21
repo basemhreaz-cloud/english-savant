@@ -1,0 +1,1366 @@
+{
+  "grade": "sa-g1",
+  "gradeName": "الصف الأول الابتدائي — المنهج السعودي (We Can 1)",
+  "units": [
+    {
+      "id": "u1",
+      "num": 1,
+      "title": "My Friends",
+      "pages": [
+        4,
+        11
+      ],
+      "lessons": [
+        {
+          "n": 1,
+          "title": "Talk Time"
+        },
+        {
+          "n": 2,
+          "title": "Rhythms and Sounds"
+        },
+        {
+          "n": 3,
+          "title": "Words: Colors"
+        },
+        {
+          "n": 4,
+          "title": "Fun Time"
+        }
+      ],
+      "vocab": [
+        "red",
+        "orange",
+        "yellow",
+        "green",
+        "blue",
+        "purple",
+        "pink",
+        "white",
+        "black",
+        "brown"
+      ],
+      "sentences": [
+        "Hello!",
+        "What's your name?",
+        "My name's Omar.",
+        "How are you?",
+        "I'm fine, thank you.",
+        "Good-bye!"
+      ],
+      "phonics": [
+        {
+          "focus": "Greetings: Hello · Hi"
+        },
+        {
+          "focus": "The Alphabet: A B C … Z"
+        }
+      ],
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "كلمات الوحدة: الألوان",
+          "sub": "رتّب الحروف واكتب الكلمة الصح",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "dre",
+              "answer": [
+                "red"
+              ],
+              "hint": "images/words/sa-color-red.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "geanor",
+              "answer": [
+                "orange"
+              ],
+              "hint": "images/words/sa-color-orange.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "lwyleo",
+              "answer": [
+                "yellow"
+              ],
+              "hint": "images/words/sa-color-yellow.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "rgeen",
+              "answer": [
+                "green"
+              ],
+              "hint": "images/words/sa-color-green.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "uleb",
+              "answer": [
+                "blue"
+              ],
+              "hint": "images/words/sa-color-blue.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "plepur",
+              "answer": [
+                "purple"
+              ],
+              "hint": "images/words/sa-color-purple.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "knip",
+              "answer": [
+                "pink"
+              ],
+              "hint": "images/words/sa-color-pink.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "wnorb",
+              "answer": [
+                "brown"
+              ],
+              "hint": "images/words/sa-color-brown.png"
+            }
+          ]
+        },
+        {
+          "id": "lang",
+          "title": "جمل الوحدة",
+          "sub": "رتّب الكلمات وكوّن الجملة، واختار الرد الصح",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "your",
+                "What's",
+                "name?"
+              ],
+              "answer": [
+                "What's",
+                "your",
+                "name?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "name's",
+                "My",
+                "Omar."
+              ],
+              "answer": [
+                "My",
+                "name's",
+                "Omar."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "are",
+                "How",
+                "you?"
+              ],
+              "answer": [
+                "How",
+                "are",
+                "you?"
+              ]
+            },
+            {
+              "type": "mcq",
+              "q": "Hello!",
+              "options": [
+                "Hi!",
+                "Good-bye!",
+                "Red"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "How are you?",
+              "options": [
+                "I'm fine, thank you.",
+                "My name's Omar.",
+                "Good-bye!"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Good-bye!",
+              "options": [
+                "See you again.",
+                "Hi!",
+                "Blue"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "phonics",
+          "title": "الحروف الأبجدية",
+          "sub": "اختار الإجابة الصح",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "The alphabet starts with ___",
+              "options": [
+                "A",
+                "M",
+                "Z"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The last letter is ___",
+              "options": [
+                "Z",
+                "A",
+                "C"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "tf",
+              "q": "B comes after A.",
+              "answer": true
+            },
+            {
+              "type": "tf",
+              "q": "Z comes before A.",
+              "answer": false
+            }
+          ]
+        }
+      ],
+      "explanation": [
+        {
+          "title": "نتعارف بالإنجليزي",
+          "text": "نستخدم Hello أو Hi للتحية. نسأل عن الاسم بـ What's your name? ونرد بـ My name is ثم الاسم. عبارة My name's هي الصيغة المختصرة لـ My name is."
+        },
+        {
+          "title": "الحال والوداع",
+          "text": "How are you? سؤال عن الحال، وليس عن الاسم. يمكن الرد بـ I'm fine, thank you. وعند الانصراف نستخدم Good-bye."
+        },
+        {
+          "title": "الألوان والحروف",
+          "text": "الألوان أسماء تصف ما نراه. راجع بطاقات red وgreen وblue وبقية الألوان. يبدأ ترتيب الحروف الإنجليزية بـ A وينتهي بـ Z."
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "num": 2,
+      "title": "My Body",
+      "pages": [
+        12,
+        19
+      ],
+      "lessons": [
+        {
+          "n": 1,
+          "title": "Talk Time"
+        },
+        {
+          "n": 2,
+          "title": "Rhythms and Sounds"
+        },
+        {
+          "n": 3,
+          "title": "Words: Instructions"
+        },
+        {
+          "n": 4,
+          "title": "Phonics: Short, Tall, and Tail Letters"
+        }
+      ],
+      "vocab": [
+        "head",
+        "shoulders",
+        "knees",
+        "toes",
+        "eyes",
+        "ears",
+        "mouth",
+        "nose"
+      ],
+      "sentences": [
+        "Close your eyes!",
+        "Open your eyes!",
+        "Raise your hands!",
+        "Clap your hands!",
+        "Please stand up.",
+        "Please sit down."
+      ],
+      "phonics": [
+        {
+          "focus": "Short letters: a c e i m n o r s u v w x z"
+        },
+        {
+          "focus": "Tall letters: b d f h k l t"
+        },
+        {
+          "focus": "Tail letters: g j p q y"
+        }
+      ],
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "كلمات الوحدة: جسمي",
+          "sub": "رتّب الحروف واكتب الكلمة الصح",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "seye",
+              "answer": [
+                "eyes"
+              ],
+              "hint": "images/words/eyes.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "rase",
+              "answer": [
+                "ears"
+              ],
+              "hint": "images/words/ears.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "thuom",
+              "answer": [
+                "mouth"
+              ],
+              "hint": "images/words/mouth.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "sone",
+              "answer": [
+                "nose"
+              ],
+              "hint": "images/words/nose.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "sote",
+              "answer": [
+                "toes"
+              ],
+              "hint": "images/words/toes.png"
+            },
+            {
+              "type": "mcq",
+              "q": "اختر الكلمة التي تعني رأسًا.",
+              "options": [
+                "head",
+                "nose",
+                "ears"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "اختر الكلمة التي تعني كتفين.",
+              "options": [
+                "eyes",
+                "shoulders",
+                "toes"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "اختر الكلمة التي تعني ركبتين.",
+              "options": [
+                "mouth",
+                "nose",
+                "knees"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "lang",
+          "title": "جمل الوحدة",
+          "sub": "رتّب الكلمات وكوّن الجملة، وأكمل الفراغ",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "your",
+                "Close",
+                "eyes!"
+              ],
+              "answer": [
+                "Close",
+                "your",
+                "eyes!"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "your",
+                "Clap",
+                "hands!"
+              ],
+              "answer": [
+                "Clap",
+                "your",
+                "hands!"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "stand",
+                "Please",
+                "up."
+              ],
+              "answer": [
+                "Please",
+                "stand",
+                "up."
+              ]
+            },
+            {
+              "type": "mcq",
+              "q": "Teacher: 'Close your eyes!' You: ___",
+              "options": [
+                "Okay!",
+                "Hello!",
+                "Red"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "cloze",
+              "segments": [
+                "",
+                " your hands!"
+              ],
+              "answers": [
+                "Clap"
+              ],
+              "bank": [
+                "Clap",
+                "Nose",
+                "Red"
+              ]
+            },
+            {
+              "type": "cloze",
+              "segments": [
+                "Please ",
+                " down."
+              ],
+              "answers": [
+                "sit"
+              ],
+              "bank": [
+                "sit",
+                "red",
+                "nose"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "phonics",
+          "title": "الحروف: قصير وطويل وذيل",
+          "sub": "اختار الإجابة الصح",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Which is a short letter?",
+              "options": [
+                "m",
+                "b",
+                "p"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Which is a tall letter?",
+              "options": [
+                "a",
+                "t",
+                "g"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Which is a tail letter?",
+              "options": [
+                "m",
+                "b",
+                "y"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "tf",
+              "q": "g is a tail letter.",
+              "answer": true
+            },
+            {
+              "type": "tf",
+              "q": "a is a tall letter.",
+              "answer": false
+            },
+            {
+              "type": "tf",
+              "q": "o is a short letter.",
+              "answer": true
+            }
+          ]
+        }
+      ],
+      "explanation": [
+        {
+          "title": "أعضاء الجسم",
+          "text": "head تعني الرأس، eyes العينين، ears الأذنين، mouth الفم، nose الأنف. shoulders تعني الكتفين، knees الركبتين، toes أصابع القدمين."
+        },
+        {
+          "title": "نفهم التعليمات",
+          "text": "Open تعني افتح، وClose أغلق، وRaise ارفع، وClap صفّق. بعد الفعل نحدد الجزء المطلوب، مثل your eyes أو your hands. Please تجعل الطلب مهذبًا."
+        },
+        {
+          "title": "شكل الحروف الصغيرة",
+          "text": "بعض الحروف قصيرة داخل السطر مثل a وm. بعض الحروف تمتد للأعلى مثل b وt. وأخرى لها جزء أسفل السطر مثل g وy. التصنيف هنا بحسب شكل الكتابة."
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "num": 3,
+      "title": "My Family",
+      "pages": [
+        20,
+        27
+      ],
+      "lessons": [
+        {
+          "n": 1,
+          "title": "Talk Time"
+        },
+        {
+          "n": 2,
+          "title": "Fun Time"
+        },
+        {
+          "n": 3,
+          "title": "Words: Family"
+        },
+        {
+          "n": 4,
+          "title": "Phonics: Aa to Ee"
+        }
+      ],
+      "vocab": [
+        "grandpa",
+        "grandma",
+        "dad",
+        "mom",
+        "brother",
+        "sister"
+      ],
+      "sentences": [
+        "This is my brother, Adam.",
+        "This is my sister, Mona.",
+        "Nice to meet you.",
+        "Nice to meet you, too."
+      ],
+      "phonics": [
+        {
+          "focus": "Aa",
+          "cluster": "a",
+          "words": [
+            "apple"
+          ]
+        },
+        {
+          "focus": "Bb",
+          "cluster": "b",
+          "words": [
+            "bear"
+          ]
+        },
+        {
+          "focus": "Cc",
+          "cluster": "c",
+          "words": [
+            "cow"
+          ]
+        },
+        {
+          "focus": "Dd",
+          "cluster": "d",
+          "words": [
+            "duck"
+          ]
+        },
+        {
+          "focus": "Ee",
+          "cluster": "e",
+          "words": [
+            "egg"
+          ]
+        }
+      ],
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "كلمات الوحدة: عائلتي",
+          "sub": "رتّب الحروف واكتب الكلمة الصح",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "اختر الكلمة التي تعني: جد",
+              "options": [
+                "grandpa",
+                "nose",
+                "red"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "اختر الكلمة التي تعني: جدة",
+              "options": [
+                "grandma",
+                "nose",
+                "red"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "اختر الكلمة التي تعني: أب",
+              "options": [
+                "dad",
+                "nose",
+                "red"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "اختر الكلمة التي تعني: أم",
+              "options": [
+                "mom",
+                "nose",
+                "red"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "اختر الكلمة التي تعني: أخ",
+              "options": [
+                "brother",
+                "nose",
+                "red"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "اختر الكلمة التي تعني: أخت",
+              "options": [
+                "sister",
+                "nose",
+                "red"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "lang",
+          "title": "جمل الوحدة",
+          "sub": "رتّب الكلمات وكوّن الجملة، واختار الرد الصح",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "is",
+                "This",
+                "my",
+                "brother,",
+                "Adam."
+              ],
+              "answer": [
+                "This",
+                "is",
+                "my",
+                "brother,",
+                "Adam."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "to",
+                "Nice",
+                "meet",
+                "you."
+              ],
+              "answer": [
+                "Nice",
+                "to",
+                "meet",
+                "you."
+              ]
+            },
+            {
+              "type": "mcq",
+              "q": "You meet a new friend. You say: ___",
+              "options": [
+                "Nice to meet you.",
+                "Good-bye!",
+                "Red"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "cloze",
+              "segments": [
+                "This is my ",
+                ", Mona."
+              ],
+              "answers": [
+                "sister"
+              ],
+              "bank": [
+                "sister",
+                "red",
+                "nose"
+              ]
+            },
+            {
+              "type": "mcq",
+              "q": "This is my brother, Adam. Adam says: ___",
+              "options": [
+                "Nice to meet you.",
+                "Clap your hands!",
+                "Blue"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "tf",
+              "q": "'Nice to meet you, too' is the reply to 'Nice to meet you'.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "id": "phonics",
+          "title": "الأصوات: Aa إلى Ee",
+          "sub": "رتّب الحروف واكتب الكلمة الصح",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "اختر الكلمة التي تعني: تفاحة",
+              "options": [
+                "apple",
+                "nose",
+                "red"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "unscramble",
+              "letters": "woc",
+              "answer": [
+                "cow"
+              ],
+              "hint": "images/words/cow.jpg"
+            },
+            {
+              "type": "mcq",
+              "q": "اختر الكلمة التي تعني: بطة",
+              "options": [
+                "duck",
+                "nose",
+                "red"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "unscramble",
+              "letters": "gge",
+              "answer": [
+                "egg"
+              ],
+              "hint": "images/words/egg.png"
+            },
+            {
+              "type": "mcq",
+              "q": "Which word begins with B?",
+              "options": [
+                "egg",
+                "bear",
+                "cow"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Which word starts with D?",
+              "options": [
+                "duck",
+                "cow",
+                "egg"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "tf",
+              "q": "Apple starts with A.",
+              "answer": true
+            }
+          ]
+        }
+      ],
+      "explanation": [
+        {
+          "title": "أفراد العائلة",
+          "text": "dad تعني الأب وmom الأم. grandpa الجد وgrandma الجدة. brother الأخ وsister الأخت. نستخدم my قبل الاسم عندما نتحدث عن عائلتنا."
+        },
+        {
+          "title": "نقدم شخصًا آخر",
+          "text": "نبدأ بـ This is ثم my واسم صلة القرابة أو friend، ثم اسم الشخص. مثال أصلي: This is my brother, Adam. نقول Nice to meet you عند التعارف."
+        },
+        {
+          "title": "أول خمسة حروف",
+          "text": "لاحظ الحرف الأول في apple وbear وcow وduck وegg. هذه أمثلة على A وB وC وD وE، مع التدريب على شكل الحرف الكبير والصغير."
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "num": 4,
+      "title": "How Old Are You?",
+      "pages": [
+        28,
+        35
+      ],
+      "vocab": [
+        "one",
+        "two",
+        "three",
+        "four",
+        "five",
+        "six",
+        "seven",
+        "eight",
+        "nine",
+        "ten",
+        "square",
+        "triangle",
+        "rectangle",
+        "circle",
+        "diamond",
+        "star"
+      ],
+      "sentences": [
+        "How old are you?",
+        "I'm eight years old.",
+        "What's this shape?"
+      ],
+      "phonics": [
+        {
+          "focus": "Ff /f/",
+          "cluster": "f",
+          "words": [
+            "fish"
+          ]
+        },
+        {
+          "focus": "Gg /g/",
+          "cluster": "g",
+          "words": [
+            "goat"
+          ]
+        },
+        {
+          "focus": "Hh /h/",
+          "cluster": "h",
+          "words": [
+            "hat"
+          ]
+        },
+        {
+          "focus": "Ii /ɪ/",
+          "cluster": "i",
+          "words": [
+            "ink"
+          ]
+        },
+        {
+          "focus": "Jj /dʒ/",
+          "cluster": "j",
+          "words": [
+            "jet"
+          ]
+        }
+      ],
+      "stations": [
+        {
+          "id": "words",
+          "title": "الأشكال والكلمات",
+          "sub": "تدريب أصلي من إعداد ENGLISH SAVANT، وليس نقلًا لأسئلة الكتاب.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "quares",
+              "answer": [
+                "square"
+              ],
+              "hint": "images/words/sa-shape-square.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "rianglet",
+              "answer": [
+                "triangle"
+              ],
+              "hint": "images/words/sa-shape-triangle.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "irclec",
+              "answer": [
+                "circle"
+              ],
+              "hint": "images/words/sa-shape-circle.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "tars",
+              "answer": [
+                "star"
+              ],
+              "hint": "images/words/sa-shape-star.png"
+            },
+            {
+              "type": "mcq",
+              "q": "اختر معنى rectangle.",
+              "options": [
+                "مستطيل",
+                "دائرة",
+                "نجمة"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "اختر معنى diamond.",
+              "options": [
+                "مثلث",
+                "معيّن",
+                "مربع"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "language",
+          "title": "السؤال عن العمر",
+          "sub": "تدريب أصلي من إعداد ENGLISH SAVANT، وليس نقلًا لأسئلة الكتاب.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "سألتَ زميلك عن عمره. اختر السؤال المناسب.",
+              "options": [
+                "How old are you?",
+                "What's your name?",
+                "How are you?"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "old.",
+                "eight",
+                "I'm",
+                "years"
+              ],
+              "answer": [
+                "I'm",
+                "eight",
+                "years",
+                "old."
+              ]
+            },
+            {
+              "type": "mcq",
+              "q": "Omar is 8. Complete: I am ___ years old.",
+              "options": [
+                "six",
+                "eight",
+                "ten"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Mona is 6. Complete: I am ___ years old.",
+              "options": [
+                "nine",
+                "seven",
+                "six"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "tf",
+              "q": "Seven is 7.",
+              "answer": true
+            },
+            {
+              "type": "tf",
+              "q": "Ten is 2.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "id": "phonics",
+          "title": "الأصوات F إلى J",
+          "sub": "تدريب أصلي من إعداد ENGLISH SAVANT، وليس نقلًا لأسئلة الكتاب.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "اختر الكلمة التي تعني: سمكة",
+              "options": [
+                "fish",
+                "nose",
+                "red"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "unscramble",
+              "letters": "oatg",
+              "answer": [
+                "goat"
+              ],
+              "hint": "images/words/goat.jpg"
+            },
+            {
+              "type": "mcq",
+              "q": "اختر الكلمة التي تعني: قبعة",
+              "options": [
+                "hat",
+                "nose",
+                "red"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "unscramble",
+              "letters": "nki",
+              "answer": [
+                "ink"
+              ],
+              "hint": "images/words/ink.png"
+            },
+            {
+              "type": "mcq",
+              "q": "Which word begins with J?",
+              "options": [
+                "hat",
+                "jet",
+                "fish"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "tf",
+              "q": "Goat begins with G.",
+              "answer": true
+            }
+          ]
+        }
+      ],
+      "explanation": [
+        {
+          "title": "السؤال عن العمر",
+          "text": "How old are you? تعني كم عمرك؟ نجيب بـ I am ثم عدد السنوات ثم years old. مثال أصلي: I am eight years old."
+        },
+        {
+          "title": "أسماء الأشكال",
+          "text": "square مربع، triangle مثلث، rectangle مستطيل، circle دائرة، diamond معيّن، وstar نجمة. راقب شكل كل بطاقة قبل اختيار الكلمة."
+        },
+        {
+          "title": "الحروف F إلى J",
+          "text": "قارن أول صوت في fish وgoat وhat وink وjet. لا تخلط بين اسم الحرف وصوته داخل الكلمة. راجع الكلمة مكتوبة ثم حاول تمييز أول حرف."
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "num": 5,
+      "title": "What's This? What's That?",
+      "pages": [
+        36,
+        43
+      ],
+      "vocab": [
+        "pencil",
+        "notebook",
+        "apple",
+        "book",
+        "red",
+        "green",
+        "purple",
+        "pink",
+        "blue",
+        "black",
+        "white",
+        "yellow"
+      ],
+      "sentences": [
+        "What's this?",
+        "It's a pencil.",
+        "What's that?",
+        "That's a book.",
+        "What color is it?"
+      ],
+      "phonics": [
+        {
+          "focus": "Revision: A to J"
+        }
+      ],
+      "stations": [
+        {
+          "id": "words",
+          "title": "الأشياء والألوان",
+          "sub": "تدريب أصلي من إعداد ENGLISH SAVANT، وليس نقلًا لأسئلة الكتاب.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "encilp",
+              "answer": [
+                "pencil"
+              ],
+              "hint": "images/words/pencil.png"
+            },
+            {
+              "type": "mcq",
+              "q": "اختر الكلمة التي تعني: تفاحة",
+              "options": [
+                "apple",
+                "nose",
+                "red"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "unscramble",
+              "letters": "ookb",
+              "answer": [
+                "book"
+              ],
+              "hint": "images/words/book.jpg"
+            },
+            {
+              "type": "unscramble",
+              "letters": "urplep",
+              "answer": [
+                "purple"
+              ],
+              "hint": "images/words/sa-color-purple.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "lackb",
+              "answer": [
+                "black"
+              ],
+              "hint": "images/words/sa-color-black.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "hitew",
+              "answer": [
+                "white"
+              ],
+              "hint": "images/words/sa-color-white.png"
+            }
+          ]
+        },
+        {
+          "id": "language",
+          "title": "هذا وذلك",
+          "sub": "تدريب أصلي من إعداد ENGLISH SAVANT، وليس نقلًا لأسئلة الكتاب.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "تشير إلى قلم رصاص قريب منك. اختر السؤال.",
+              "options": [
+                "What's this?",
+                "How old are you?",
+                "What's your name?"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "تشير إلى كتاب بعيد عنك. اختر السؤال.",
+              "options": [
+                "How are you?",
+                "What's that?",
+                "How old are you?"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "a",
+                "pencil.",
+                "It's"
+              ],
+              "answer": [
+                "It's",
+                "a",
+                "pencil."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "an",
+                "This",
+                "is",
+                "apple."
+              ],
+              "answer": [
+                "This",
+                "is",
+                "an",
+                "apple."
+              ]
+            },
+            {
+              "type": "mcq",
+              "q": "اختر سؤال اللون.",
+              "options": [
+                "What color is it?",
+                "How old is he?",
+                "What's your name?"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "أكمل: It is ___ apple.",
+              "options": [
+                "a",
+                "an",
+                "is"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "review",
+          "title": "مراجعة A إلى J",
+          "sub": "تدريب أصلي من إعداد ENGLISH SAVANT، وليس نقلًا لأسئلة الكتاب.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Which word begins with A?",
+              "options": [
+                "fish",
+                "apple",
+                "hat"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Which word begins with C?",
+              "options": [
+                "cow",
+                "egg",
+                "jet"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Which word begins with E?",
+              "options": [
+                "goat",
+                "bear",
+                "egg"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Which word begins with I?",
+              "options": [
+                "ink",
+                "duck",
+                "cow"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "tf",
+              "q": "Duck begins with D.",
+              "answer": true
+            },
+            {
+              "type": "tf",
+              "q": "Fish begins with H.",
+              "answer": false
+            }
+          ]
+        }
+      ],
+      "explanation": [
+        {
+          "title": "القريب والبعيد",
+          "text": "نستخدم this عند الإشارة إلى شيء قريب، وthat لشيء بعيد. يتغير السؤال إلى What's this? أو What's that? بحسب المسافة."
+        },
+        {
+          "title": "نجيب عن الشيء ولونه",
+          "text": "نجيب بـ It is أو It's ثم اسم الشيء. نستخدم an قبل apple لأن بدايتها صوت متحرك. What color is it? يسأل عن لون شيء واحد."
+        },
+        {
+          "title": "مراجعة الحروف",
+          "text": "راجع A إلى J من خلال الكلمات التي تعلمتها. ابدأ بالنظر إلى أول حرف، ثم ميّز الصوت، ثم حاول تذكر الكلمة دون النظر إليها."
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://files.shawahid.sa/books/1448-GE-PE-K01-SM1-ENGLMH-part1.pdf",
+    "title": "We Can 1, Student Book, Part 1",
+    "isbn": "9781398962385",
+    "note": "Publisher textbook read from a third-party mirror. Mirror labels it 1448. Official direct PDF endpoint returned HTTP 500."
+  }
+}
