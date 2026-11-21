@@ -29,6 +29,7 @@ function say(ok){
 }
 function tts(ok){try{if(!window.speechSynthesis)return;var u=new SpeechSynthesisUtterance(ok?'الإجابة صحيحة':'الإجابة خاطئة');u.lang='ar-EG';u.rate=.95;speechSynthesis.cancel();speechSynthesis.speak(u)}catch(e){}}
 function run(ok,card){
+ if(!ok&&card&&window.__esExplain)window.__esExplain(card);
  var big=document.createElement('div');big.className='esfx-big '+(ok?'ok':'no');big.textContent=ok?'🎉':'❌';
  var cx=innerWidth/2,cy=innerHeight/2,W=300;
  if(card){var r=card.getBoundingClientRect();
@@ -57,4 +58,53 @@ function scan(r){(r.querySelectorAll?r.querySelectorAll('.q-state'):[]).forEach(
 scan(document);
 new MutationObserver(function(ms){ms.forEach(function(m){m.addedNodes.forEach(function(n){if(n.nodeType===1){if(n.classList&&n.classList.contains('q-state'))watch(n);scan(n)}})})}).observe(document.documentElement,{childList:true,subtree:true});
 window.__esFxTest=run;
+})();
+
+/* wrong-answer explainer (P1 model): compact Arabic note inside the card + browser speechSynthesis. Rule-based per question type. */
+(function(){
+var DICT=null,loading=null;
+function dict(cb){if(DICT)return cb(DICT);if(!loading){loading=fetch((window.ES_BASE||'')+'data/explain-ar.json?v=1').then(function(r){return r.json()}).catch(function(){return{words:{},sentences:{}}})}loading.then(function(d){DICT=d;cb(d)})}
+var css='.esx-note{margin-top:10px;border:1px solid rgba(214,158,46,.5);background:rgba(250,240,205,.55);border-radius:10px;padding:10px 12px;font-size:13px;line-height:1.9;color:inherit}.esx-note b{font-weight:700}.esx-note .esx-en{direction:ltr;unicode-bidi:isolate;font-weight:600}.esx-note button{margin-top:6px;border:1px solid rgba(214,158,46,.7);background:transparent;border-radius:100px;padding:3px 12px;font-size:12px;cursor:pointer;color:inherit}.dark .esx-note{background:rgba(120,90,20,.25)}';
+var st=document.createElement('style');st.textContent=css;document.head.appendChild(st);
+function chosen(card,q){
+ try{
+  if(q.type==='mcq'||q.type==='tf'){var n=card.querySelector('.opt.no');return n?n.textContent.replace(/[✓✗]/g,'').trim():''}
+  if(q.type==='typein'||q.type==='unscramble'){var i=card.querySelector('.q-input');return i?i.value.trim():''}
+  if(q.type==='reorder'){return [].map.call(card.querySelectorAll('.built .wchip'),function(b){return b.dataset.w}).join(' ')}
+  if(q.type==='cloze'){return [].map.call(card.querySelectorAll('select.no'),function(s){return s.value}).join(' · ')}
+ }catch(e){}return''}
+function build(card,q,d){
+ var ch=chosen(card,q),L=[],speak=[],ar,cor,full;
+ function en(t){return '<span class="esx-en">'+t.replace(/[&<>]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;'}[c]})+'</span>'}
+ if(q.type==='unscramble'){
+  var miss=q.letters.indexOf('_')>=0;
+  full=miss?q.letters.replace('_',q.answer[0]):q.answer[0];ar=d.words[full];
+  if(miss){L.push('الحرف الناقص هو <b>'+en(q.answer[0])+'</b> عشان الكلمة تبقى '+en(full)+(ar?' ومعناها '+ar:'')+'.');speak.push('الحرف الناقص هو '+q.answer[0]+'، والكلمة '+full+(ar?' ومعناها '+ar:''));}
+  else{L.push('الكلمة الصح هي '+en(full)+(ar?' ومعناها '+ar:'')+'. رتّب حروفها '+en(q.letters.split('').join(' - '))+' على الترتيب الصح.');speak.push('الكلمة الصح هي '+full+(ar?' ومعناها '+ar:''));}
+  if(ch)L.push('إنت كتبت '+en(ch)+'، وده مش مظبوط في الحروف.');
+ }else if(q.type==='reorder'){
+  full=q.answer.join(' ');ar=d.sentences[full];
+  L.push((ar?'معنى الجملة: <b>'+ar+'</b><br>':'')+'الترتيب الصح: '+en(full));
+  if(ch)L.push('إنت رتّبتها '+en(ch)+'. الجملة الإنجليزي بتبدأ بالفاعل وبعده الفعل.');
+  speak.push((ar?'معنى الجملة: '+ar+'. ':'')+'الترتيب الصح هو: '+full);
+ }else if(q.type==='mcq'){
+  cor=q.options[q.answer];full=q.q.replace(/_{2,}/,cor);ar=d.sentences[full];
+  L.push((ar?'معنى الجملة: <b>'+ar+'</b><br>':'')+'الإجابة الصح: '+en(cor)+' فتبقى الجملة '+en(full));
+  if(ch)L.push('اختيارك '+en(ch)+' مش بيكمّل معنى الجملة دي.');
+  speak.push((ar?'معنى الجملة: '+ar+'. ':'')+'الإجابة الصح هي '+cor+(ch?'. واختيارك '+ch+' مش مناسب لمعنى الجملة':''));
+ }else if(q.type==='tf'){
+  L.push('الجملة دي '+(q.answer?'<b>صح</b>':'<b>غلط</b>')+'. ارجع للقطعة وقارن.');speak.push('الجملة دي '+(q.answer?'صح':'غلط'));
+ }else{
+  var a=q.answer?(q.answer[0]||q.answers&&q.answers.join(' ')):'';
+  L.push('الإجابة الصح: '+en(String(a||'')));if(ch)L.push('إنت كتبت '+en(ch)+'. راجع الكلمة والإملاء.');speak.push('الإجابة الصح هي '+a);
+ }
+ var n=document.createElement('div');n.className='esx-note';n.innerHTML=L.join('<br>');
+ var b=document.createElement('button');b.type='button';b.textContent='🔊 اسمع الشرح';
+ var txt=speak.join('. ');
+ b.addEventListener('click',function(){say(txt)});n.appendChild(document.createElement('br'));n.appendChild(b);
+ card.appendChild(n);
+ setTimeout(function(){say(txt)},1500);
+}
+function say(t){try{if(!window.speechSynthesis)return;var u=new SpeechSynthesisUtterance(t);u.lang='ar-EG';u.rate=.95;speechSynthesis.cancel();speechSynthesis.speak(u)}catch(e){}}
+window.__esExplain=function(card){try{var q=card.__q;if(!q||card.querySelector('.esx-note'))return;dict(function(d){build(card,q,d)})}catch(e){}};
 })();
