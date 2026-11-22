@@ -15,7 +15,7 @@ try{
  const back=node('a','grade-back','← رجوع لفيديوهات الصف');back.href=grade?'videos-'+grade+'.html':'lessons.html';if(grade){const check=await fetch(back.href,{method:'HEAD'});if(!check.ok){back.href=(grade.startsWith('sa-')?grade:'grade-'+grade)+'.html';back.textContent='← رجوع لصفحة الصف'}}intro.prepend(back);
  const card=node('article','video-watch-card');let player;
  if(l.mp4){
-  const local=/^videos\/[A-Za-z0-9_.-]+\.mp4$/.test(l.mp4),repoRelease=/^https:\/\/github\.com\/basemhreaz-cloud\/english-savant\/releases\/download\/kg2-u[34]-hd-20261122\/[A-Za-z0-9_.-]+\.mp4$/.test(l.mp4);if(!local&&!repoRelease)throw Error('source');
+  const local=/^videos\/[A-Za-z0-9_.-]+\.mp4$/.test(l.mp4),repoRelease=/^https:\/\/github\.com\/basemhreaz-cloud\/english-savant\/releases\/download\/(?:kg2-u[34]-hd-20261122|p1-u1-full-lesson-20261122)\/[A-Za-z0-9_.-]+\.mp4$/.test(l.mp4);if(!local&&!repoRelease)throw Error('source');
   const poster=local?l.mp4.replace(/\.mp4$/,'.jpg'):l.poster;if(!/^videos\/[A-Za-z0-9_.-]+\.jpg$/.test(poster||''))throw Error('poster');
   player=node('video');player.controls=true;player.preload='none';player.playsInline=true;const version=/^[a-f0-9]{12}$/.test(l.media_version||'')?'?v='+l.media_version:'';player.poster=poster+version;player.src=l.mp4+version;player.setAttribute('aria-label',l.title);
  }else{
