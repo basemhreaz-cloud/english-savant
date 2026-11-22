@@ -1,0 +1,84 @@
+name: Publish checked P1 reading explanations
+on:
+  workflow_dispatch:
+    inputs:
+      asset_id:
+        type: string
+        required: true
+      packet_sha256:
+        type: string
+        required: true
+      names_sha256:
+        type: string
+        required: true
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: english-savant-verified-bank-batch
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ github.token }}
+      ASSET_ID: ${{ inputs.asset_id }}
+      PACKET_SHA: ${{ inputs.packet_sha256 }}
+      NAMES_SHA: ${{ inputs.names_sha256 }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Locate exact private checked P1 packet
+        run: |
+          gh api repos/$GITHUB_REPOSITORY/releases > /tmp/releases.json
+          python3 <<'PY'
+          import os,re,json,pathlib
+          aid=os.environ['ASSET_ID'];assert re.fullmatch('[0-9]+',aid)
+          for key in ['PACKET_SHA','NAMES_SHA']:assert re.fullmatch('[a-f0-9]{64}',os.environ[key])
+          rows=[r for r in json.load(open('/tmp/releases.json')) if r['draft'] and r['name']=='P1 checked explanation transfer' and len(r['assets'])==1 and str(r['assets'][0]['id'])==aid]
+          assert len(rows)==1,'Exact private checked packet not found'
+          assert rows[0]['assets'][0]['size']<20000000
+          pathlib.Path('/tmp/draft-id').write_text(str(rows[0]['id']))
+          PY
+          gh api -H 'Accept: application/octet-stream' repos/$GITHUB_REPOSITORY/releases/assets/$ASSET_ID > /tmp/checked.zip
+      - name: Validate file scope, QA, exact hashes and current source before writing
+        run: |
+          python3 <<'PY'
+          import os,pathlib,zipfile,json,hashlib,subprocess
+          def sha(b):return hashlib.sha256(b).hexdigest() if b is not None else None
+          assert sha(pathlib.Path('/tmp/checked.zip').read_bytes())==os.environ['PACKET_SHA']
+          with zipfile.ZipFile('/tmp/checked.zip') as z:
+            assert sum(i.file_size for i in z.infolist())<40000000
+            p=json.loads(z.read('transfer.json'));names=set(p['files'])
+            assert 0<len(names)<=7 and len(z.namelist())==len(names)+1 and set(z.namelist())==names|{'transfer.json'}
+            assert sha('\n'.join(sorted(names)).encode())==p['names_sha256']==os.environ['NAMES_SHA']
+            assert p['qa_receipt']['passed'] is True
+            for name,v in p['files'].items():
+              f=pathlib.Path(name)
+              assert not f.is_absolute() and '..' not in f.parts
+              assert name in {'explain-p1-u1.html','p1-explanations-u1.json','p1-explanation.js','p1-explanation.css','p1-explanation-check.html','p1-explanation-check.js','teach-p1-u1.html'}
+              assert not name.startswith(('.git','videos/')) and f.suffix in ('.html','.js','.css','.json','.mp3','.wav','.webp','.png','.jpg','.svg','.mp4')
+              assert sha(f.read_bytes() if f.exists() else None)==v['before'],'Concurrent source change: '+name
+              assert sha(z.read(name))==v['after'],'Checked file integrity: '+name
+            for name in names:
+              f=pathlib.Path(name);f.parent.mkdir(parents=True,exist_ok=True);f.write_bytes(z.read(name))
+              if f.suffix=='.json':json.loads(f.read_text())
+              if f.suffix=='.js':subprocess.run(['node','--check',name],check=True)
+          subprocess.run(['git','config','user.name','basemhreaz-cloud'],check=True)
+          subprocess.run(['git','config','user.email','basemhreaz-cloud@users.noreply.github.com'],check=True)
+          subprocess.run(['git','add','--']+sorted(names),check=True)
+          subprocess.run(['git','commit','-m','Publish checked P1 reading explanations'],check=True)
+          subprocess.run(['git','push','origin','HEAD:main'],check=True)
+          PY
+      - name: Remove only consumed private checked P1 packet
+        run: |
+          draft=$(cat /tmp/draft-id)
+          gh api repos/$GITHUB_REPOSITORY/releases/$draft > /tmp/used-draft.json
+          python3 <<'PY'
+          import json,os
+          p=json.load(open('/tmp/used-draft.json'));assert p['draft'] and p['name']=='P1 checked explanation transfer' and len(p['assets'])==1 and str(p['assets'][0]['id'])==os.environ['ASSET_ID']
+          PY
+          gh api --method DELETE repos/$GITHUB_REPOSITORY/releases/$draft
