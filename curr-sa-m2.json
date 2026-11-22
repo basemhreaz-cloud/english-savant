@@ -1,0 +1,892 @@
+{
+  "grade": "sa-m2",
+  "gradeName": "الصف الثاني المتوسط · المنهج السعودي (Super Goal 2)",
+  "units": [
+    {
+      "id": "u1",
+      "num": 1,
+      "title": "Are You Here on Vacation?",
+      "pages": [
+        2,
+        9
+      ],
+      "lessons": [],
+      "vocab": [
+        "vacation",
+        "festival",
+        "writer",
+        "novelist",
+        "poet",
+        "guest",
+        "hotel",
+        "hostel",
+        "reservation",
+        "reception desk",
+        "key card",
+        "concierge",
+        "elevator",
+        "conference",
+        "nickname",
+        "first name",
+        "last name",
+        "spell",
+        "nationality",
+        "occupation",
+        "arrival date",
+        "length of stay",
+        "passport",
+        "introduce",
+        "greeting",
+        "farewell",
+        "polite",
+        "request",
+        "backpacker",
+        "budget",
+        "inexpensive",
+        "share",
+        "laundry room",
+        "kitchen",
+        "pot",
+        "dish",
+        "monument",
+        "history",
+        "culture",
+        "tour",
+        "competition",
+        "prize",
+        "community project",
+        "castle",
+        "boat",
+        "across from",
+        "between",
+        "next to",
+        "near",
+        "far from",
+        "corner",
+        "turn left",
+        "turn right",
+        "go straight ahead",
+        "north",
+        "south",
+        "east",
+        "west",
+        "block"
+      ],
+      "sentences": [
+        "I am here for the festival.",
+        "Are you here on vacation?",
+        "Where are you from?",
+        "How are you doing?",
+        "Who is that man?",
+        "Why are you here?",
+        "How long are you staying?",
+        "Nice to meet you.",
+        "You are welcome.",
+        "Could you repeat that, please?",
+        "I would like to make a reservation.",
+        "Turn left at the next corner."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "تحية وتعريف ووداع",
+          "text": "لما تقابل شخص جديد تقول Nice to meet you، وهو يرد Nice to meet you, too. بعد Thank you نقول You are welcome. بعد اعتذار زي I am sorry تقدر ترد That is all right. Good night بنستخدمها عند الوداع بالليل. introduce معناها تعرّف شخص على شخص، وnickname اسم شهرة، غير first name وlast name."
+        },
+        {
+          "title": "فعل be في الحاضر",
+          "text": "مع I استخدم am، ومع he وshe وit استخدم is، ومع you وwe وthey استخدم are. مثال: I am on vacation وThey are here for the festival. في سؤال نعم أو لا قدم الفعل: Are you a student? Is he a guest? الإجابة Yes, I am أوNo, I am not، وYes, he is أوNo, he is not. مع they: Yes, they are وNo, they are not."
+        },
+        {
+          "title": "أدوات السؤال ومعنى الإجابة",
+          "text": "How عن الحال، وWhat عن إيه، وWhen عن إمتى، وWhere عن فين أو منين، وWho عن مين، وWhy عن السبب. How long عن المدة. Fine, thanks إجابة عن الحال، وIn February عن وقت، وBecause I am on vacation عن سبب. استخدم الصيغ الكاملة في الكتابة؛ الكتاب بينبه إن اختصارات زي How're وWhy're غير رسمية."
+        },
+        {
+          "title": "طلبات مهذبة من غير بيانات حقيقية",
+          "text": "would like أهدى وألطف من want في الطلب الرسمي: I would like to make a reservation. تقدر تبدأ السؤال بـCan أوCould أوMay، وتضيف please. في تدريباتنا هنحدد نوع المعلومة المطلوبة، زي arrival date أوlength of stay، أو نستخدم بيانات خيالية. مش مطلوب منك تكتب عنوانك أو تليفونك أو بيانات جواز أو كارت حقيقية."
+        },
+        {
+          "title": "حروف جر المكان والاتجاهات",
+          "text": "across from مقابل على الناحية التانية، وbetween بين حاجتين، وnext to بجوار مباشرة. near قريب وfar from بعيد، وon the corner عند الناصية. Turn left لف شمال وTurn right لف يمين وGo straight ahead امشِ على طول. north شمال جغرافي وsouth جنوب وeast شرق وwest غرب. كل علاقة مكان هنا موضحة بالكلام، مش بخريطة غايبة."
+        },
+        {
+          "title": "قراءة عن إقامة افتراضية",
+          "text": "hostel نُزل للمسافرين، وguest ضيف، وshare يشارك، وlaundry room غرفة غسيل. دور في النص على اسم الضيف وسبب الزيارة ومدة الإقامة ومكان المرافق. النص هنا أصلي عن نُزل افتراضي، ومش عرض حجز حقيقي أو معلومات حديثة عن فندق معين. النص كامل فوق كل سؤال، ومش محتاج تسجيل."
+        }
+      ],
+      "meanings": {
+        "vacation": "إجازة",
+        "festival": "مهرجان",
+        "writer": "كاتب",
+        "novelist": "روائي",
+        "poet": "شاعر",
+        "guest": "ضيف",
+        "hotel": "فندق",
+        "hostel": "نُزل للمسافرين",
+        "reservation": "حجز",
+        "reception desk": "مكتب الاستقبال",
+        "key card": "كارت مفتاح الغرفة",
+        "concierge": "موظف مساعدة نزلاء الفندق",
+        "elevator": "أسانسير",
+        "conference": "مؤتمر",
+        "nickname": "اسم شهرة",
+        "first name": "الاسم الأول",
+        "last name": "اسم العيلة",
+        "spell": "يهجّي حروف الكلمة",
+        "nationality": "جنسية",
+        "occupation": "وظيفة أو مهنة",
+        "arrival date": "تاريخ الوصول",
+        "length of stay": "مدة الإقامة",
+        "passport": "جواز سفر",
+        "introduce": "يعرّف شخص بشخص تاني",
+        "greeting": "تحية",
+        "farewell": "وداع",
+        "polite": "مهذب",
+        "request": "طلب",
+        "backpacker": "مسافر بشنطة ظهر",
+        "budget": "ميزانية",
+        "inexpensive": "مش غالي",
+        "share": "يشارك",
+        "laundry room": "غرفة غسيل",
+        "kitchen": "مطبخ",
+        "pot": "حلة طبخ",
+        "dish": "طبق",
+        "monument": "معلم أثري أو تذكاري",
+        "history": "تاريخ",
+        "culture": "ثقافة",
+        "tour": "جولة",
+        "competition": "مسابقة",
+        "prize": "جائزة",
+        "community project": "مشروع لخدمة المجتمع",
+        "castle": "قلعة",
+        "boat": "مركب",
+        "across from": "مقابل على الناحية التانية",
+        "between": "بين حاجتين",
+        "next to": "بجوار مباشرة",
+        "near": "قريب من",
+        "far from": "بعيد عن",
+        "corner": "ناصية",
+        "turn left": "لف شمال",
+        "turn right": "لف يمين",
+        "go straight ahead": "امشِ على طول",
+        "north": "شمال جغرافي",
+        "south": "جنوب",
+        "east": "شرق",
+        "west": "غرب",
+        "block": "جزء من الشارع بين تقاطعين"
+      },
+      "sentenceMeanings": {
+        "I am here for the festival.": "أنا هنا عشان المهرجان.",
+        "Are you here on vacation?": "إنت هنا في إجازة؟",
+        "Where are you from?": "إنت منين؟",
+        "How are you doing?": "عامل إيه؟",
+        "Who is that man?": "مين الراجل ده؟",
+        "Why are you here?": "إنت هنا ليه؟",
+        "How long are you staying?": "هتقعد مدة قد إيه؟",
+        "Nice to meet you.": "اتشرفت بمعرفتك.",
+        "You are welcome.": "العفو.",
+        "Could you repeat that, please?": "ممكن تعيد الكلام من فضلك؟",
+        "I would like to make a reservation.": "أنا حابب أعمل حجز.",
+        "Turn left at the next corner.": "لف شمال عند الناصية الجاية."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "السفر والتعارف",
+          "sub": "رتب حروف الكلمة حسب معناها.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "acationv",
+              "answer": [
+                "vacation"
+              ],
+              "hint": "إجازة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "estivalf",
+              "answer": [
+                "festival"
+              ],
+              "hint": "مهرجان"
+            },
+            {
+              "type": "unscramble",
+              "letters": "uestg",
+              "answer": [
+                "guest"
+              ],
+              "hint": "ضيف"
+            },
+            {
+              "type": "unscramble",
+              "letters": "otelh",
+              "answer": [
+                "hotel"
+              ],
+              "hint": "فندق"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ostelh",
+              "answer": [
+                "hostel"
+              ],
+              "hint": "نُزل للمسافرين"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ovelistn",
+              "answer": [
+                "novelist"
+              ],
+              "hint": "روائي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "oetp",
+              "answer": [
+                "poet"
+              ],
+              "hint": "شاعر"
+            },
+            {
+              "type": "unscramble",
+              "letters": "icknamen",
+              "answer": [
+                "nickname"
+              ],
+              "hint": "اسم شهرة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "eservationr",
+              "answer": [
+                "reservation"
+              ],
+              "hint": "حجز"
+            },
+            {
+              "type": "unscramble",
+              "letters": "assportp",
+              "answer": [
+                "passport"
+              ],
+              "hint": "جواز سفر"
+            }
+          ]
+        },
+        {
+          "id": "grammar",
+          "title": "فعل be وأدوات السؤال",
+          "sub": "اقرأ الفاعل والإجابة قبل الاختيار.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "I ___ here on vacation.",
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "He ___ a hotel guest.",
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "They ___ writers.",
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "We ___ here for the festival.",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "You ___ welcome.",
+              "options": [
+                "is",
+                "are",
+                "am"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "She ___ a poet.",
+              "options": [
+                "am",
+                "are",
+                "is"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Are you a student? Yes, I ___.",
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Is he here? No, he ___.",
+              "options": [
+                "is",
+                "isn't",
+                "aren't"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Are they from Egypt? Yes, they ___.",
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "___ are you doing? Fine, thanks.",
+              "options": [
+                "How",
+                "Who",
+                "When"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "___ is your name? My name is Omar.",
+              "options": [
+                "When",
+                "What",
+                "Where"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ is the festival? In February.",
+              "options": [
+                "Who",
+                "Where",
+                "When"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "___ are you from? I am from Jeddah.",
+              "options": [
+                "Where",
+                "Who",
+                "When"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "___ is that woman? She is my aunt.",
+              "options": [
+                "When",
+                "Who",
+                "Where"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ are you here? Because I am on vacation.",
+              "options": [
+                "Where",
+                "When",
+                "Why"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "___ are you staying? Four days.",
+              "options": [
+                "How long",
+                "Who",
+                "Where"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "responses",
+          "title": "تحية ورد مناسب",
+          "sub": "مواقف مكتوبة من غير تسجيل.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Someone says: Nice to meet you. Choose a suitable reply.",
+              "options": [
+                "Nice to meet you, too.",
+                "Turn left.",
+                "My room is upstairs."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Someone says: Thank you. Choose a suitable reply.",
+              "options": [
+                "Good night.",
+                "You are welcome.",
+                "I am from Jeddah."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Someone says: I am sorry. Choose a suitable reply.",
+              "options": [
+                "Turn right.",
+                "Four days.",
+                "That is all right."
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Someone asks: How are you doing?",
+              "options": [
+                "Fine, thanks.",
+                "At the hotel.",
+                "In February."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "You say goodbye at night. Choose a farewell.",
+              "options": [
+                "Welcome to the hotel.",
+                "Good night. See you tomorrow.",
+                "Let me introduce my friend."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Which sentence introduces a friend?",
+              "options": [
+                "I am here on vacation.",
+                "Where is the kitchen?",
+                "Let me introduce you to my friend, Ali."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "directions",
+          "title": "المكان والاتجاهات",
+          "sub": "كل المعلومات مكتوبة، ومفيش خريطة ناقصة.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "The park is opposite the hotel, on the other side of the road. It is ___ the hotel.",
+              "options": [
+                "across from",
+                "under",
+                "in"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The bank has a store on one side and a pharmacy on the other. It is ___ them.",
+              "options": [
+                "on",
+                "between",
+                "under"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "The kitchen is immediately beside the dining room. It is ___ the dining room.",
+              "options": [
+                "far from",
+                "under",
+                "next to"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "The hotel is a short walk from the museum. It is ___ the museum.",
+              "options": [
+                "near",
+                "far from",
+                "between"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The airport is a long distance from town. It is ___ town.",
+              "options": [
+                "next to",
+                "far from",
+                "in"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "The bus stop is ___ the corner.",
+              "options": [
+                "under",
+                "between",
+                "on"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Which direction means شرق؟",
+              "options": [
+                "east",
+                "west",
+                "north"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Which direction means غرب؟",
+              "options": [
+                "south",
+                "west",
+                "east"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "polite",
+          "title": "طلبات مهذبة",
+          "sub": "تدريب لغوي فقط، من غير جمع بيانات شخصية.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Choose the most polite request to hear something again.",
+              "options": [
+                "Could you repeat that, please?",
+                "Repeat it!",
+                "Say it now!"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "A hotel clerk offers help politely. What does the clerk say?",
+              "options": [
+                "What do you want?",
+                "Can I help you?",
+                "Go away."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "I would like ___ a reservation.",
+              "options": [
+                "making",
+                "makes",
+                "to make"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct word in this practice request: May I ___ your passport, please?",
+              "options": [
+                "see",
+                "seeing",
+                "sees"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the most polite way to ask for the restaurant.",
+              "options": [
+                "Tell me now!",
+                "Excuse me. Where is the restaurant?",
+                "Where restaurant?"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "A practice form asks: How many days are you staying? What information is needed?",
+              "options": [
+                "First name",
+                "Nationality",
+                "Length of stay"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "قراءة: نُزل افتراضي",
+          "sub": "النص كامل فوق كل سؤال. ده مش حجز حقيقي.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "What is the guest's name?",
+              "options": [
+                "Omar Saleh",
+                "Ali Mansour",
+                "Ahmed Hassan"
+              ],
+              "answer": 0,
+              "passage": "Fictional hostel practice: The guest is Omar Saleh. He is from Jeddah. He is here for a writers festival, not on vacation. His stay is four days. The hostel has a shared kitchen. The restaurant is next to the reception desk. The laundry room is across from the kitchen. Omar's room is on the second floor. The guests share the kitchen. This is a classroom text, not a real booking."
+            },
+            {
+              "type": "mcq",
+              "q": "Where is Omar from?",
+              "options": [
+                "Mumbai",
+                "Jeddah",
+                "Riyadh"
+              ],
+              "answer": 1,
+              "passage": "Fictional hostel practice: The guest is Omar Saleh. He is from Jeddah. He is here for a writers festival, not on vacation. His stay is four days. The hostel has a shared kitchen. The restaurant is next to the reception desk. The laundry room is across from the kitchen. Omar's room is on the second floor. The guests share the kitchen. This is a classroom text, not a real booking."
+            },
+            {
+              "type": "mcq",
+              "q": "Why is he here?",
+              "options": [
+                "For a sports competition",
+                "On vacation",
+                "For a writers festival"
+              ],
+              "answer": 2,
+              "passage": "Fictional hostel practice: The guest is Omar Saleh. He is from Jeddah. He is here for a writers festival, not on vacation. His stay is four days. The hostel has a shared kitchen. The restaurant is next to the reception desk. The laundry room is across from the kitchen. Omar's room is on the second floor. The guests share the kitchen. This is a classroom text, not a real booking."
+            },
+            {
+              "type": "mcq",
+              "q": "How long is his stay?",
+              "options": [
+                "Four days",
+                "Two days",
+                "Seven days"
+              ],
+              "answer": 0,
+              "passage": "Fictional hostel practice: The guest is Omar Saleh. He is from Jeddah. He is here for a writers festival, not on vacation. His stay is four days. The hostel has a shared kitchen. The restaurant is next to the reception desk. The laundry room is across from the kitchen. Omar's room is on the second floor. The guests share the kitchen. This is a classroom text, not a real booking."
+            },
+            {
+              "type": "mcq",
+              "q": "Which floor is Omar's room on?",
+              "options": [
+                "The first floor",
+                "The second floor",
+                "The third floor"
+              ],
+              "answer": 1,
+              "passage": "Fictional hostel practice: The guest is Omar Saleh. He is from Jeddah. He is here for a writers festival, not on vacation. His stay is four days. The hostel has a shared kitchen. The restaurant is next to the reception desk. The laundry room is across from the kitchen. Omar's room is on the second floor. The guests share the kitchen. This is a classroom text, not a real booking."
+            },
+            {
+              "type": "mcq",
+              "q": "Where is the restaurant?",
+              "options": [
+                "Across from the museum",
+                "Inside the kitchen",
+                "Next to the reception desk"
+              ],
+              "answer": 2,
+              "passage": "Fictional hostel practice: The guest is Omar Saleh. He is from Jeddah. He is here for a writers festival, not on vacation. His stay is four days. The hostel has a shared kitchen. The restaurant is next to the reception desk. The laundry room is across from the kitchen. Omar's room is on the second floor. The guests share the kitchen. This is a classroom text, not a real booking."
+            },
+            {
+              "type": "mcq",
+              "q": "Where is the laundry room?",
+              "options": [
+                "Across from the kitchen",
+                "Next to the airport",
+                "Inside Omar's room"
+              ],
+              "answer": 0,
+              "passage": "Fictional hostel practice: The guest is Omar Saleh. He is from Jeddah. He is here for a writers festival, not on vacation. His stay is four days. The hostel has a shared kitchen. The restaurant is next to the reception desk. The laundry room is across from the kitchen. Omar's room is on the second floor. The guests share the kitchen. This is a classroom text, not a real booking."
+            },
+            {
+              "type": "mcq",
+              "q": "What do the guests share?",
+              "options": [
+                "A car",
+                "The kitchen",
+                "A passport"
+              ],
+              "answer": 1,
+              "passage": "Fictional hostel practice: The guest is Omar Saleh. He is from Jeddah. He is here for a writers festival, not on vacation. His stay is four days. The hostel has a shared kitchen. The restaurant is next to the reception desk. The laundry room is across from the kitchen. Omar's room is on the second floor. The guests share the kitchen. This is a classroom text, not a real booking."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب الجملة",
+          "sub": "السؤال والتعارف والطلب والاتجاهات.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "festival.",
+                "the",
+                "for",
+                "here",
+                "am",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "am",
+                "here",
+                "for",
+                "the",
+                "festival."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "from?",
+                "you",
+                "are",
+                "Where"
+              ],
+              "answer": [
+                "Where",
+                "are",
+                "you",
+                "from?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "staying?",
+                "you",
+                "are",
+                "long",
+                "How"
+              ],
+              "answer": [
+                "How",
+                "long",
+                "are",
+                "you",
+                "staying?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "please?",
+                "that,",
+                "repeat",
+                "you",
+                "Could"
+              ],
+              "answer": [
+                "Could",
+                "you",
+                "repeat",
+                "that,",
+                "please?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "corner.",
+                "next",
+                "the",
+                "at",
+                "left",
+                "Turn"
+              ],
+              "answer": [
+                "Turn",
+                "left",
+                "at",
+                "the",
+                "next",
+                "corner."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "restaurant.",
+                "the",
+                "to",
+                "next",
+                "is",
+                "kitchen",
+                "The"
+              ],
+              "answer": [
+                "The",
+                "kitchen",
+                "is",
+                "next",
+                "to",
+                "the",
+                "restaurant."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g8/g8-english-1448.pdf",
+    "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K08-SM1-ENGLMH-v2.pdf",
+    "title": "Super Goal 2, Part 1, Unit 1, pages 2–9",
+    "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint has a certificate error. Mirror bytes matched the reviewed PDF. Original explanations and exercises, not copied textbook questions.",
+    "reviewedUnits": {
+      "u1": [
+        2,
+        9
+      ]
+    }
+  }
+}
