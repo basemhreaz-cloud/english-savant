@@ -1,0 +1,569 @@
+{
+  "grade": "P1",
+  "term": 1,
+  "unit": 1,
+  "kind": "interactive_explanation",
+  "audio_status": "No recorded teaching audio generated or certified for this reading explanation.",
+  "lessons": [
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "lesson_title": "Greetings",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 1, pdf p.8-11",
+      "goal_ar": "النهارده هنتعلم نسلّم على بعض بالإنجليزي: نقول أهلاً، نقول اسمنا، ونودّع صاحبنا.",
+      "steps": [
+        {
+          "id": "e1-1",
+          "kind": "gloss",
+          "title_ar": "اقرا المحادثة",
+          "body_ar": "Maya وHana بيتقابلوا لأول مرة. اقرا الجمل واحدة واحدة.",
+          "en": [
+            "Maya: What's your name?",
+            "Hana: I'm Hana! Nice to meet you, Maya!",
+            "Maya: Do you want to shake hands?",
+            "Maya: Goodbye, Hana!"
+          ],
+          "source_page": "8"
+        },
+        {
+          "id": "e1-2",
+          "kind": "gloss",
+          "title_ar": "يعني إيه؟",
+          "body_ar": "Hello = أهلاً. What's your name? = اسمك إيه؟ My name is Maya = اسمي Maya. Nice to meet you = أنا مبسوط إني قابلتك. Goodbye = مع السلامة.",
+          "source_page": "8-9"
+        },
+        {
+          "id": "e1-3",
+          "kind": "word",
+          "title_ar": "Hello",
+          "body_ar": "Hello بنقولها لما نقابل حد. زي أهلاً. اقرا: Hello!",
+          "en": [
+            "Hello!"
+          ],
+          "check_ref": "p1-u1-l1-01",
+          "source_page": "9"
+        },
+        {
+          "id": "e1-4",
+          "kind": "word",
+          "title_ar": "Goodbye",
+          "body_ar": "Goodbye بنقولها لما نمشي ونسيب حد. زي مع السلامة. اقرا: Goodbye!",
+          "en": [
+            "Goodbye!"
+          ],
+          "check_ref": "p1-u1-l1-02",
+          "source_page": "9"
+        },
+        {
+          "id": "e1-5",
+          "kind": "word",
+          "title_ar": "shake hands",
+          "body_ar": "shake hands يعني نسلّم باليد. بنقولها لما نقابل حد جديد. بص على الصورة: الإيدين ماسكين في بعض.",
+          "en": [
+            "shake hands"
+          ],
+          "image": "p1-lessons-assets/img/handshake.png",
+          "check_ref": "p1-u1-l1-hs01",
+          "source_page": "9"
+        },
+        {
+          "id": "e1-6",
+          "kind": "word",
+          "title_ar": "play",
+          "body_ar": "play يعني نلعب. بص على الولدين، بيلعبوا مع بعض بالمكعبات.",
+          "en": [
+            "play"
+          ],
+          "image": "p1-lessons-assets/img/kg-play.png",
+          "check_ref": "p1-u1-l1-pl01",
+          "source_page": "9"
+        },
+        {
+          "id": "e1-7",
+          "kind": "pattern",
+          "title_ar": "اسمك إيه؟",
+          "body_ar": "لما حد يسألك What's your name? ترد: My name is ... وتحط اسمك. مثال: My name is Hana.",
+          "en": [
+            "What's your name?",
+            "My name is Hana."
+          ],
+          "check_ref": "p1-u1-l1-11",
+          "source_page": "9"
+        },
+        {
+          "id": "e1-8",
+          "kind": "pattern",
+          "title_ar": "is / am / are",
+          "body_ar": "I am Hana. (أنا) My name is Maya. (اسمي) We are friends. (احنا) نقول am مع I، وis مع name، وare مع we.",
+          "en": [
+            "I am Hana.",
+            "My name is Maya.",
+            "We are friends."
+          ],
+          "check_ref": "p1-u1-l1-15",
+          "source_page": "9"
+        },
+        {
+          "id": "e1-9",
+          "kind": "check",
+          "title_ar": "جرّب بنفسك",
+          "body_ar": "اختار الإجابة الصح.",
+          "check_ref": "p1-u1-l1-12"
+        },
+        {
+          "id": "e1-10",
+          "kind": "check",
+          "title_ar": "رتّب الكلمات",
+          "body_ar": "رتّب الكلمات عشان تعمل جملة صح.",
+          "check_ref": "p1-u1-l1-25"
+        },
+        {
+          "id": "e1-11",
+          "kind": "dialogue_practice",
+          "title_ar": "كمّل المحادثة",
+          "body_ar": "كمّل المحادثة الصغيرة بنفسك.",
+          "check_ref": "p1-u1-l1-30",
+          "source_page": "8-9"
+        },
+        {
+          "id": "e1-12",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "Hello للسلام. Goodbye للوداع. My name is ... لاسمك. shake hands نسلّم. We are friends!"
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "lesson_title": "Phonics (Tt)",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 2, pdf p.12-16",
+      "goal_ar": "النهارده هنعرف حرف T: صوته، شكله، وكلمات بتبدأ بيه.",
+      "steps": [
+        {
+          "id": "e2-1",
+          "kind": "sound",
+          "title_ar": "صوت حرف T",
+          "body_ar": "حرف T ليه اسم وصوت. في أول tiger وtomato بنستخدم صوته /t/، مش اسم الحرف. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "T t",
+            "tiger · tomato"
+          ],
+          "source_page": "12"
+        },
+        {
+          "id": "e2-2",
+          "kind": "word",
+          "title_ar": "tiger",
+          "body_ar": "tiger يعني نمر. بتبدأ بحرف t. بص على الصورة.",
+          "en": [
+            "tiger"
+          ],
+          "image": "p1-lessons-assets/img/tiger.png",
+          "check_ref": "p1-u1-l2-tg01",
+          "source_page": "12"
+        },
+        {
+          "id": "e2-3",
+          "kind": "word",
+          "title_ar": "tomato",
+          "body_ar": "tomato يعني طماطم. بتبدأ بحرف t.",
+          "en": [
+            "tomato"
+          ],
+          "image": "p1-lessons-assets/img/obj-tomato.png",
+          "check_ref": "p1-u1-l2-obj01",
+          "source_page": "12"
+        },
+        {
+          "id": "e2-4",
+          "kind": "word",
+          "title_ar": "table",
+          "body_ar": "table يعني ترابيزة. بتبدأ بحرف t.",
+          "en": [
+            "table"
+          ],
+          "image": "p1-lessons-assets/img/obj-table.png",
+          "check_ref": "p1-u1-l2-20",
+          "source_page": "12"
+        },
+        {
+          "id": "e2-5",
+          "kind": "word",
+          "title_ar": "tree",
+          "body_ar": "tree يعني شجرة. بتبدأ بحرف t.",
+          "en": [
+            "tree"
+          ],
+          "image": "p1-lessons-assets/img/tree.png",
+          "check_ref": "p1-u1-l2-21",
+          "source_page": "12"
+        },
+        {
+          "id": "e2-6",
+          "kind": "word",
+          "title_ar": "teacher",
+          "body_ar": "teacher يعني مدرس أو مدرسة. بتبدأ بحرف t. (الصورة في كتابك صفحة 12-13)",
+          "en": [
+            "teacher"
+          ],
+          "check_ref": "p1-u1-l2-22",
+          "source_page": "12-13"
+        },
+        {
+          "id": "e2-7",
+          "kind": "letter",
+          "title_ar": "شكل الحرف",
+          "body_ar": "الحرف الكبير T والصغير t. اتتبّعهم على النقط في كتابك صفحة 13 و14، واتبع الأسهم عشان تعرف تبدأ منين.",
+          "en": [
+            "Tt"
+          ],
+          "check_ref": "p1-u1-l2-08",
+          "source_page": "12-16"
+        },
+        {
+          "id": "e2-8",
+          "kind": "check",
+          "title_ar": "أول حرف",
+          "body_ar": "اختار الحرف اللي بتبدأ بيه الكلمة.",
+          "check_ref": "p1-u1-l2-10",
+          "source_page": "15"
+        },
+        {
+          "id": "e2-9",
+          "kind": "check",
+          "title_ar": "شوف الصورة",
+          "body_ar": "بص على الصورة واختار أول حرف.",
+          "check_ref": "p1-u1-l2-tg02",
+          "source_page": "15"
+        },
+        {
+          "id": "e2-10",
+          "kind": "check",
+          "title_ar": "اللي مش بيبدأ بـ t",
+          "body_ar": "اختار الكلمة اللي مش بتبدأ بحرف t.",
+          "check_ref": "p1-u1-l2-14"
+        },
+        {
+          "id": "e2-11",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u1-l2-29"
+        },
+        {
+          "id": "e2-12",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "t صوتها ت خفيفة. tiger، tomato، table، tree، teacher كلهم بيبدأوا بـ t."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "lesson_title": "Around My Classroom",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 3, pdf p.17-20",
+      "goal_ar": "النهارده هنتعرف على حاجات الفصل وأوامر المدرس.",
+      "steps": [
+        {
+          "id": "e3-1",
+          "kind": "word",
+          "title_ar": "book",
+          "body_ar": "book يعني كتاب. بتقرا فيه.",
+          "en": [
+            "book"
+          ],
+          "image": "p1-lessons-assets/img/book.png",
+          "check_ref": "p1-u1-l3-img02",
+          "source_page": "17"
+        },
+        {
+          "id": "e3-2",
+          "kind": "word",
+          "title_ar": "bag",
+          "body_ar": "bag يعني شنطة. بنحط فيها كتبنا.",
+          "en": [
+            "bag"
+          ],
+          "image": "p1-lessons-assets/img/bag.png",
+          "check_ref": "p1-u1-l3-img03",
+          "source_page": "17"
+        },
+        {
+          "id": "e3-3",
+          "kind": "word",
+          "title_ar": "pencil",
+          "body_ar": "pencil يعني قلم رصاص. بنكتب بيه.",
+          "en": [
+            "pencil"
+          ],
+          "image": "p1-lessons-assets/img/pencil.png",
+          "check_ref": "p1-u1-l3-img01",
+          "source_page": "17"
+        },
+        {
+          "id": "e3-4",
+          "kind": "word",
+          "title_ar": "chair",
+          "body_ar": "chair يعني كرسي. بنقعد عليه.",
+          "en": [
+            "chair"
+          ],
+          "image": "p1-lessons-assets/img/chair.png",
+          "check_ref": "p1-u1-l3-img04",
+          "source_page": "17"
+        },
+        {
+          "id": "e3-5",
+          "kind": "word",
+          "title_ar": "desk",
+          "body_ar": "desk يعني مكتب أو تختة. بنكتب عليه.",
+          "en": [
+            "desk"
+          ],
+          "image": "p1-lessons-assets/img/desk.png",
+          "check_ref": "p1-u1-l3-img05",
+          "source_page": "17"
+        },
+        {
+          "id": "e3-6",
+          "kind": "word",
+          "title_ar": "board",
+          "body_ar": "board يعني سبورة. المدرس بيكتب عليها.",
+          "en": [
+            "board"
+          ],
+          "image": "p1-lessons-assets/img/board.png",
+          "check_ref": "p1-u1-l3-img06",
+          "source_page": "17"
+        },
+        {
+          "id": "e3-7",
+          "kind": "word",
+          "title_ar": "teacher",
+          "body_ar": "teacher يعني مدرس أو مدرسة. المدرس هو اللي بيقول الأوامر.",
+          "en": [
+            "teacher"
+          ],
+          "check_ref": "p1-u1-l3-07",
+          "source_page": "17"
+        },
+        {
+          "id": "e3-8",
+          "kind": "command",
+          "title_ar": "Stand up.",
+          "body_ar": "لما المدرس يقول Stand up. يعني قف. قف على رجليك.",
+          "en": [
+            "Stand up."
+          ],
+          "image": "p1-lessons-assets/img/stand.png",
+          "check_ref": "p1-u1-l3-stand01",
+          "source_page": "18"
+        },
+        {
+          "id": "e3-9",
+          "kind": "command",
+          "title_ar": "Sit down.",
+          "body_ar": "لما المدرس يقول Sit down. يعني اقعد.",
+          "en": [
+            "Sit down."
+          ],
+          "image": "p1-lessons-assets/img/sit.png",
+          "check_ref": "p1-u1-l3-sit01",
+          "source_page": "18"
+        },
+        {
+          "id": "e3-10",
+          "kind": "command",
+          "title_ar": "Open your book.",
+          "body_ar": "Open your book. يعني افتح كتابك. الكتاب كان مقفول وبعدين اتفتح (بص على 1 و2).",
+          "en": [
+            "Open your book."
+          ],
+          "image": "p1-lessons-assets/img/open-book-seq.png",
+          "check_ref": "p1-u1-l3-opn01",
+          "source_page": "18"
+        },
+        {
+          "id": "e3-11",
+          "kind": "pattern",
+          "title_ar": "الأمر",
+          "body_ar": "لما نطلب من حد حاجة نبدأ بالفعل على طول: Stand up. Sit down. Open your book.",
+          "en": [
+            "Stand up.",
+            "Sit down.",
+            "Open your book."
+          ],
+          "check_ref": "p1-u1-l3-25",
+          "source_page": "18"
+        },
+        {
+          "id": "e3-12",
+          "kind": "check",
+          "title_ar": "جرّب بنفسك",
+          "body_ar": "اختار الصح.",
+          "check_ref": "p1-u1-l3-16"
+        },
+        {
+          "id": "e3-13",
+          "kind": "check",
+          "title_ar": "اللي مش في الفصل",
+          "body_ar": "اختار اللي مش بتلاقيه في الفصل.",
+          "check_ref": "p1-u1-l3-19",
+          "source_page": "19"
+        },
+        {
+          "id": "e3-14",
+          "kind": "dialogue_practice",
+          "title_ar": "كمّل المحادثة",
+          "body_ar": "كمّل المحادثة الصغيرة.",
+          "check_ref": "p1-u1-l3-30",
+          "source_page": "20"
+        },
+        {
+          "id": "e3-15",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "book، bag، pencil، chair، desk، board، teacher. وأوامر: Stand up. Sit down. Open your book."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "lesson_title": "Phonics (Ii)",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 4, pdf p.21-24",
+      "goal_ar": "النهارده هنعرف حرف I: صوته القصير، شكله، وكلمات بتبدأ بيه.",
+      "steps": [
+        {
+          "id": "e4-1",
+          "kind": "sound",
+          "title_ar": "صوت حرف I",
+          "body_ar": "حرف i في in وill صوته قصير /ɪ/، مش اسم الحرف آي. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "I i",
+            "in · ill"
+          ],
+          "source_page": "21"
+        },
+        {
+          "id": "e4-2",
+          "kind": "word",
+          "title_ar": "in",
+          "body_ar": "in يعني جوه. بص على الصورة: الكورة جوه الصندوق. بتبدأ بحرف i.",
+          "en": [
+            "in"
+          ],
+          "image": "p1-lessons-assets/img/ball-in-box.png",
+          "check_ref": "p1-u1-l4-22",
+          "source_page": "21"
+        },
+        {
+          "id": "e4-3",
+          "kind": "word",
+          "title_ar": "ill",
+          "body_ar": "ill يعني عيّان أو مريض. بص على الولد، باين عليه تعبان. بتبدأ بحرف i.",
+          "en": [
+            "ill"
+          ],
+          "image": "p1-lessons-assets/img/ill.png",
+          "check_ref": "p1-u1-l4-ill01",
+          "source_page": "21"
+        },
+        {
+          "id": "e4-4",
+          "kind": "word",
+          "title_ar": "insect",
+          "body_ar": "insect يعني حشرة. بتبدأ بحرف i.",
+          "en": [
+            "insect"
+          ],
+          "image": "p1-lessons-assets/img/kg-ant.png",
+          "check_ref": "p1-u1-l4-ins01",
+          "source_page": "21"
+        },
+        {
+          "id": "e4-5",
+          "kind": "word",
+          "title_ar": "ink",
+          "body_ar": "ink يعني حبر. بتبدأ بحرف i.",
+          "en": [
+            "ink"
+          ],
+          "image": "p1-lessons-assets/img/kg-ink.png",
+          "check_ref": "p1-u1-l4-obj01",
+          "source_page": "21"
+        },
+        {
+          "id": "e4-6",
+          "kind": "letter",
+          "title_ar": "شكل الحرف",
+          "body_ar": "الحرف الكبير I والصغير i. اتتبّعهم على النقط في كتابك صفحة 22 و24، واتبع الأسهم.",
+          "en": [
+            "Ii"
+          ],
+          "check_ref": "p1-u1-l4-08",
+          "source_page": "22-24"
+        },
+        {
+          "id": "e4-7",
+          "kind": "compare",
+          "title_ar": "T ولا I؟",
+          "body_ar": "T صوتها ت. i صوتها i القصيرة. tiger بتبدأ بـ t. insect بتبدأ بـ i. فرّق بينهم.",
+          "en": [
+            "tiger → t",
+            "insect → i"
+          ],
+          "check_ref": "p1-u1-l4-15",
+          "source_page": "24"
+        },
+        {
+          "id": "e4-8",
+          "kind": "check",
+          "title_ar": "أول حرف",
+          "body_ar": "اختار الحرف اللي بتبدأ بيه الكلمة.",
+          "check_ref": "p1-u1-l4-10",
+          "source_page": "24"
+        },
+        {
+          "id": "e4-9",
+          "kind": "check",
+          "title_ar": "شوف الصورة",
+          "body_ar": "بص على الصورة واختار أول حرف.",
+          "check_ref": "p1-u1-l4-ill02",
+          "source_page": "23-24"
+        },
+        {
+          "id": "e4-10",
+          "kind": "check",
+          "title_ar": "اللي مش بيبدأ بـ i",
+          "body_ar": "اختار الكلمة اللي مش بتبدأ بحرف i.",
+          "check_ref": "p1-u1-l4-13"
+        },
+        {
+          "id": "e4-11",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u1-l4-30"
+        },
+        {
+          "id": "e4-12",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "i صوتها قصير. in، ill، insect، ink كلهم بيبدأوا بـ i. وtiger بتبدأ بـ t."
+        }
+      ]
+    }
+  ],
+  "presentation": "Reading explanation with interactive checks; no recorded teaching audio or trace animation."
+}
