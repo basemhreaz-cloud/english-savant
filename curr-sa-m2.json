@@ -2631,12 +2631,876 @@
           ]
         }
       ]
+    },
+    {
+      "id": "u4",
+      "num": 4,
+      "title": "Favorite Pastimes",
+      "pages": [
+        26,
+        33
+      ],
+      "lessons": [],
+      "vocab": [
+        "pastime",
+        "hobby",
+        "leisure",
+        "hang out",
+        "work out",
+        "food court",
+        "board game",
+        "hockey",
+        "ice-skate",
+        "rink",
+        "cook",
+        "paint",
+        "draw",
+        "brush",
+        "imagination",
+        "relaxing",
+        "creative",
+        "unusual",
+        "skill",
+        "equipment",
+        "model airplane",
+        "aeromodelling",
+        "aerobatics",
+        "radio-controlled",
+        "signal",
+        "wing",
+        "wingspan",
+        "engine",
+        "motor",
+        "launch",
+        "landing",
+        "competition",
+        "crowd",
+        "once",
+        "twice",
+        "three times",
+        "always",
+        "usually",
+        "often",
+        "sometimes",
+        "seldom",
+        "never",
+        "know how to",
+        "enjoy",
+        "feel like",
+        "recommend",
+        "suggest",
+        "dislike",
+        "cannot stand",
+        "prefer",
+        "hope",
+        "would like",
+        "I see",
+        "stuff like that"
+      ],
+      "sentences": [
+        "How often do you work out?",
+        "I practice twice a week.",
+        "She usually paints on weekends.",
+        "He is always on time.",
+        "I know how to swim.",
+        "I do not know how to cook.",
+        "Painting is a relaxing hobby.",
+        "I enjoy drawing.",
+        "We recommend playing board games.",
+        "She hopes to join the club.",
+        "I would love to come along.",
+        "I spend my free time reading."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "سؤال How often وعدد المرات",
+          "text": "How often بنسأل بيها كل قد إيه أو عدد مرات تكرار نشاط. once a week مرة في الأسبوع، وtwice a week مرتين، وthree times a week ثلاث مرات، وevery day كل يوم. اقرا الأيام أو العدد المكتوب في السؤال، وماتعتمدش على جدول مش ظاهر."
+        },
+        {
+          "title": "ظروف التكرار ومكانها",
+          "text": "always دائمًا، وusually عادةً، وoften كتير، وsometimes أحيانًا، وseldom نادرًا، وnever أبدًا. مكانها المعتاد بعد be: He is always on time. ومع الأفعال التانية قبل الفعل: She usually paints. sometimes ينفع تيجي في أول الجملة كمان، مش موضع واحد بس."
+        },
+        {
+          "title": "know how to والمهارة",
+          "text": "know how to وبعدها فعل أساسي معناها يعرف يعمل حاجة، زي can. مثال: I know how to swim. ومع he: He knows how to swim. النفي I do not know how to cook يعني مش بعرف أطبخ، زي I cannot cook في معنى القدرة هنا."
+        },
+        {
+          "title": "gerund: فعل ing بيتصرف كاسم",
+          "text": "ممكن صيغة ing تكون اسم أو فاعل: Painting is a relaxing hobby. وبنستخدمها بعد enjoy وdislike وsuggest وrecommend وfeel like وcannot stand، وبعد spend time. مثال: I enjoy drawing وI spend my free time reading."
+        },
+        {
+          "title": "المصدر to وبعده الفعل",
+          "text": "بعد want وhope وwould like وwould love استخدم to وبعدها الفعل الأساسي. مثال: She hopes to join the club وI would love to come along. like وlove وhate وprefer ممكن ييجي بعدهم gerund أومصدر. عشان كده مش بنحط playing وto play كبديلين متنافسين بعد like في سؤال له إجابة واحدة."
+        },
+        {
+          "title": "دعوة وفهم معنى الكلام",
+          "text": "I see معناها فهمت. You mean وبعدها جملة وسيلة تتأكد بيها إنك فاهم صح. stuff like that معناها حاجات من النوع ده. You should come along sometime دعوة إنك تيجي معانا في وقت ما. I would love to قبول مهذب للدعوة."
+        },
+        {
+          "title": "قراءة عن ناد خيالي للهوايات",
+          "text": "model airplane نموذج طيارة صغير، مش طيارة ركاب بتركبها. النص هنا أصلي عن ناد خيالي وهوايات ومواعيد تدريب. موجود كامل فوق كل سؤال. مفيش أسعار أو سرعات أو إحصائيات إنترنت قديمة معروضة كمعلومات حالية، ومفيش تعليمات فعلية لتشغيل أو طيران نموذج."
+        }
+      ],
+      "meanings": {
+        "pastime": "حاجة بتحب تعملها في وقت الفراغ",
+        "hobby": "هواية",
+        "leisure": "وقت فراغ",
+        "hang out": "يقضي وقت مع أصحابه",
+        "work out": "يتمرن رياضيًا",
+        "food court": "منطقة مطاعم في مول",
+        "board game": "لعبة على لوحة",
+        "hockey": "هوكي",
+        "ice-skate": "يتزلج على الجليد",
+        "rink": "حلبة تزلج",
+        "cook": "يطبخ",
+        "paint": "يرسم بالألوان",
+        "draw": "يرسم بالقلم",
+        "brush": "فرشة رسم",
+        "imagination": "خيال",
+        "relaxing": "مريح للأعصاب",
+        "creative": "إبداعي",
+        "unusual": "غير معتاد",
+        "skill": "مهارة",
+        "equipment": "أدوات أو معدات",
+        "model airplane": "طيارة نموذج صغيرة",
+        "aeromodelling": "هواية نماذج الطيارات",
+        "aerobatics": "حركات استعراضية في الجو",
+        "radio-controlled": "بيتحكم فيه باللاسلكي",
+        "signal": "إشارة",
+        "wing": "جناح",
+        "wingspan": "المسافة بين طرفي الجناحين",
+        "engine": "محرك",
+        "motor": "موتور",
+        "launch": "يطلق أو يبدأ طيران نموذج",
+        "landing": "هبوط",
+        "competition": "مسابقة",
+        "crowd": "حشد أو تجمع ناس",
+        "once": "مرة واحدة",
+        "twice": "مرتين",
+        "three times": "ثلاث مرات",
+        "always": "دائمًا",
+        "usually": "عادةً",
+        "often": "كتير أو بشكل متكرر",
+        "sometimes": "أحيانًا",
+        "seldom": "نادرًا",
+        "never": "ولا مرة أو أبدًا",
+        "know how to": "يعرف إزاي يعمل حاجة",
+        "enjoy": "يستمتع بـ",
+        "feel like": "نفسه يعمل حاجة",
+        "recommend": "يوصي أو ينصح بـ",
+        "suggest": "يقترح",
+        "dislike": "ما يحبش",
+        "cannot stand": "ما يطيقش",
+        "prefer": "يفضل",
+        "hope": "يأمل",
+        "would like": "يرغب أو يحب بشكل مهذب",
+        "I see": "فهمت",
+        "stuff like that": "حاجات من النوع ده"
+      },
+      "sentenceMeanings": {
+        "How often do you work out?": "بتتمرن كل قد إيه؟",
+        "I practice twice a week.": "أنا بتدرب مرتين في الأسبوع.",
+        "She usually paints on weekends.": "هي عادةً بترسم بالألوان في الويك إند.",
+        "He is always on time.": "هو دايمًا بييجي في معاده.",
+        "I know how to swim.": "أنا بعرف أعوم.",
+        "I do not know how to cook.": "أنا مش بعرف أطبخ.",
+        "Painting is a relaxing hobby.": "الرسم بالألوان هواية مريحة للأعصاب.",
+        "I enjoy drawing.": "أنا بستمتع بالرسم.",
+        "We recommend playing board games.": "إحنا بننصح بلعب ألعاب اللوحات.",
+        "She hopes to join the club.": "هي بتأمل تنضم للنادي.",
+        "I would love to come along.": "أنا أحب أجي معاكم.",
+        "I spend my free time reading.": "أنا بقضي وقت فراغي في القراءة."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "هوايات وأدوات ومهارات",
+          "sub": "رتب الحروف حسب المعنى.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "obbyh",
+              "answer": [
+                "hobby"
+              ],
+              "hint": "هواية"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ockeyh",
+              "answer": [
+                "hockey"
+              ],
+              "hint": "هوكي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "inkr",
+              "answer": [
+                "rink"
+              ],
+              "hint": "حلبة تزلج"
+            },
+            {
+              "type": "unscramble",
+              "letters": "aintp",
+              "answer": [
+                "paint"
+              ],
+              "hint": "يرسم بالألوان"
+            },
+            {
+              "type": "unscramble",
+              "letters": "rushb",
+              "answer": [
+                "brush"
+              ],
+              "hint": "فرشة رسم"
+            },
+            {
+              "type": "unscramble",
+              "letters": "nginee",
+              "answer": [
+                "engine"
+              ],
+              "hint": "محرك"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ignals",
+              "answer": [
+                "signal"
+              ],
+              "hint": "إشارة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "rowdc",
+              "answer": [
+                "crowd"
+              ],
+              "hint": "حشد أو تجمع ناس"
+            },
+            {
+              "type": "unscramble",
+              "letters": "kills",
+              "answer": [
+                "skill"
+              ],
+              "hint": "مهارة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "quipmente",
+              "answer": [
+                "equipment"
+              ],
+              "hint": "أدوات أو معدات"
+            }
+          ]
+        },
+        {
+          "id": "frequency",
+          "title": "كل قد إيه؟",
+          "sub": "الأعداد وظروف التكرار واضحة في كل سؤال.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "___ do you practice? Twice a week.",
+              "options": [
+                "How often",
+                "Who",
+                "Where"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Mona paints on Monday only each week. She paints ___.",
+              "options": [
+                "twice a week",
+                "once a week",
+                "three times a week"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Ali practices on Monday and Thursday each week. He practices ___.",
+              "options": [
+                "once a week",
+                "every day",
+                "twice a week"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Sara reads at the club on Sunday, Tuesday, and Thursday each week. She goes ___.",
+              "options": [
+                "three times a week",
+                "once a week",
+                "twice a week"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The activity happens on every occasion, without exception. Choose the matching word.",
+              "options": [
+                "never",
+                "always",
+                "seldom"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "The activity does not happen on any occasion. Choose the matching word.",
+              "options": [
+                "always",
+                "usually",
+                "never"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Which word means rarely?",
+              "options": [
+                "seldom",
+                "always",
+                "never"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Which word means on some occasions?",
+              "options": [
+                "always",
+                "sometimes",
+                "never"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Which word means on most occasions?",
+              "options": [
+                "never",
+                "seldom",
+                "usually"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "He ___ on time.",
+              "options": [
+                "is always",
+                "always are",
+                "always am"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "She usually ___ after school.",
+              "options": [
+                "paint",
+                "paints",
+                "painting"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "I ___ play board games with my brother.",
+              "options": [
+                "am often",
+                "is often",
+                "often"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "skills",
+          "title": "know how to",
+          "sub": "اتكلم عن مهارة وقدرة، مش عدد مرات النشاط.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "I know how ___ swim.",
+              "options": [
+                "to",
+                "for",
+                "at"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "She ___ how to ice-skate.",
+              "options": [
+                "know",
+                "knows",
+                "knowing"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "He knows how to cook. This means ___.",
+              "options": [
+                "He cannot cook.",
+                "He cooks every day.",
+                "He can cook."
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "I do not know how to ski. Choose the same meaning about ability.",
+              "options": [
+                "I cannot ski.",
+                "I ski every day.",
+                "I am skiing now."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Do you know how to ___ a computer?",
+              "options": [
+                "using",
+                "use",
+                "uses"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct sentence.",
+              "options": [
+                "She know how to paint.",
+                "She knows how painting.",
+                "She knows how to paint."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "gerunds",
+          "title": "gerund أوinfinitive",
+          "sub": "اختيار يراعي الأفعال اللي ينفع بعدها الصيغتين.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "I enjoy ___ pictures.",
+              "options": [
+                "drawing",
+                "draw",
+                "to drawing"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "She dislikes ___ in a crowded place.",
+              "options": [
+                "shop",
+                "shopping",
+                "to shopping"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "We recommend ___ board games.",
+              "options": [
+                "play",
+                "to playing",
+                "playing"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "I feel like ___ a book.",
+              "options": [
+                "reading",
+                "read",
+                "to reading"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "He cannot stand ___ games.",
+              "options": [
+                "lose",
+                "losing",
+                "to losing"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "They suggest ___ the art club.",
+              "options": [
+                "join",
+                "to joining",
+                "joining"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "She spends her free time ___ flowers.",
+              "options": [
+                "painting",
+                "paint",
+                "to painting"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "We hope ___ the competition.",
+              "options": [
+                "winning",
+                "to win",
+                "win"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "I want ___ a new hobby.",
+              "options": [
+                "trying",
+                "try",
+                "to try"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "I would love ___ with you.",
+              "options": [
+                "to come",
+                "coming",
+                "come"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "After like, which pair gives two correct forms?",
+              "options": [
+                "play / plays",
+                "playing / to play",
+                "to playing / plays"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ is a relaxing hobby.",
+              "options": [
+                "Paint",
+                "To painting",
+                "Painting"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "responses",
+          "title": "دعوة وفهم ومعنى",
+          "sub": "مواقف مكتوبة من غير تسجيل.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "A friend explains the idea. You now understand. Which reply means I understand?",
+              "options": [
+                "I see.",
+                "How often?",
+                "Once a week."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "You mean, you build small model planes? The phrase You mean checks ___.",
+              "options": [
+                "the price",
+                "understanding",
+                "the time"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "You should come along sometime. This is ___.",
+              "options": [
+                "a refusal",
+                "a price list",
+                "an invitation"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Stuff like that means ___.",
+              "options": [
+                "that kind of thing",
+                "never again",
+                "a different country"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "A friend invites you to the club. Choose a clear polite acceptance.",
+              "options": [
+                "Never speak to me.",
+                "I would love to come.",
+                "I cannot understand the word club."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Yousef builds model airplanes, not passenger aircraft. What does he build?",
+              "options": [
+                "Real passenger jets",
+                "Cars",
+                "Small airplane models"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "قراءة: نادي هوايات افتراضي",
+          "sub": "النص كامل فوق كل سؤال، من غير جدول أو صورة غايبة.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "What does Lina enjoy?",
+              "options": [
+                "Painting",
+                "Skiing",
+                "Cooking"
+              ],
+              "answer": 0,
+              "passage": "Fictional hobby club: Lina enjoys painting. She goes to the art room on Tuesdays and Thursdays, so she paints at the club twice a week. She needs paper, paints, and brushes. Omar has a different hobby. He builds model airplanes in the club workshop once a week, on Saturdays. These are small models, not planes that carry people. Omar knows how to use a computer, but he does not know how to ice-skate. The two friends sometimes play board games together. Lina likes her hobby because it is relaxing. This is a classroom story, not an invitation to a real club."
+            },
+            {
+              "type": "mcq",
+              "q": "How often does she paint at the club?",
+              "options": [
+                "Once a week",
+                "Twice a week",
+                "Every day"
+              ],
+              "answer": 1,
+              "passage": "Fictional hobby club: Lina enjoys painting. She goes to the art room on Tuesdays and Thursdays, so she paints at the club twice a week. She needs paper, paints, and brushes. Omar has a different hobby. He builds model airplanes in the club workshop once a week, on Saturdays. These are small models, not planes that carry people. Omar knows how to use a computer, but he does not know how to ice-skate. The two friends sometimes play board games together. Lina likes her hobby because it is relaxing. This is a classroom story, not an invitation to a real club."
+            },
+            {
+              "type": "mcq",
+              "q": "Which equipment does Lina need?",
+              "options": [
+                "A hockey stick",
+                "A ladder",
+                "Paper, paints, and brushes"
+              ],
+              "answer": 2,
+              "passage": "Fictional hobby club: Lina enjoys painting. She goes to the art room on Tuesdays and Thursdays, so she paints at the club twice a week. She needs paper, paints, and brushes. Omar has a different hobby. He builds model airplanes in the club workshop once a week, on Saturdays. These are small models, not planes that carry people. Omar knows how to use a computer, but he does not know how to ice-skate. The two friends sometimes play board games together. Lina likes her hobby because it is relaxing. This is a classroom story, not an invitation to a real club."
+            },
+            {
+              "type": "mcq",
+              "q": "What does Omar build?",
+              "options": [
+                "Model airplanes",
+                "Passenger planes",
+                "Bridges"
+              ],
+              "answer": 0,
+              "passage": "Fictional hobby club: Lina enjoys painting. She goes to the art room on Tuesdays and Thursdays, so she paints at the club twice a week. She needs paper, paints, and brushes. Omar has a different hobby. He builds model airplanes in the club workshop once a week, on Saturdays. These are small models, not planes that carry people. Omar knows how to use a computer, but he does not know how to ice-skate. The two friends sometimes play board games together. Lina likes her hobby because it is relaxing. This is a classroom story, not an invitation to a real club."
+            },
+            {
+              "type": "mcq",
+              "q": "When does Omar go to the workshop?",
+              "options": [
+                "On Tuesdays",
+                "On Saturdays",
+                "On Thursdays"
+              ],
+              "answer": 1,
+              "passage": "Fictional hobby club: Lina enjoys painting. She goes to the art room on Tuesdays and Thursdays, so she paints at the club twice a week. She needs paper, paints, and brushes. Omar has a different hobby. He builds model airplanes in the club workshop once a week, on Saturdays. These are small models, not planes that carry people. Omar knows how to use a computer, but he does not know how to ice-skate. The two friends sometimes play board games together. Lina likes her hobby because it is relaxing. This is a classroom story, not an invitation to a real club."
+            },
+            {
+              "type": "mcq",
+              "q": "What does Omar know how to use?",
+              "options": [
+                "Ice skates",
+                "A passenger jet",
+                "A computer"
+              ],
+              "answer": 2,
+              "passage": "Fictional hobby club: Lina enjoys painting. She goes to the art room on Tuesdays and Thursdays, so she paints at the club twice a week. She needs paper, paints, and brushes. Omar has a different hobby. He builds model airplanes in the club workshop once a week, on Saturdays. These are small models, not planes that carry people. Omar knows how to use a computer, but he does not know how to ice-skate. The two friends sometimes play board games together. Lina likes her hobby because it is relaxing. This is a classroom story, not an invitation to a real club."
+            },
+            {
+              "type": "mcq",
+              "q": "What do the friends sometimes play together?",
+              "options": [
+                "Board games",
+                "Hockey",
+                "Football"
+              ],
+              "answer": 0,
+              "passage": "Fictional hobby club: Lina enjoys painting. She goes to the art room on Tuesdays and Thursdays, so she paints at the club twice a week. She needs paper, paints, and brushes. Omar has a different hobby. He builds model airplanes in the club workshop once a week, on Saturdays. These are small models, not planes that carry people. Omar knows how to use a computer, but he does not know how to ice-skate. The two friends sometimes play board games together. Lina likes her hobby because it is relaxing. This is a classroom story, not an invitation to a real club."
+            },
+            {
+              "type": "mcq",
+              "q": "Why does Lina like painting?",
+              "options": [
+                "It is expensive.",
+                "It is relaxing.",
+                "It happens every day."
+              ],
+              "answer": 1,
+              "passage": "Fictional hobby club: Lina enjoys painting. She goes to the art room on Tuesdays and Thursdays, so she paints at the club twice a week. She needs paper, paints, and brushes. Omar has a different hobby. He builds model airplanes in the club workshop once a week, on Saturdays. These are small models, not planes that carry people. Omar knows how to use a computer, but he does not know how to ice-skate. The two friends sometimes play board games together. Lina likes her hobby because it is relaxing. This is a classroom story, not an invitation to a real club."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب جملة عن هواية",
+          "sub": "تكرار ومهارة واستمتاع وهدف.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "out?",
+                "work",
+                "you",
+                "do",
+                "often",
+                "How"
+              ],
+              "answer": [
+                "How",
+                "often",
+                "do",
+                "you",
+                "work",
+                "out?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "week.",
+                "a",
+                "twice",
+                "practice",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "practice",
+                "twice",
+                "a",
+                "week."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "swim.",
+                "to",
+                "how",
+                "know",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "know",
+                "how",
+                "to",
+                "swim."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "pictures.",
+                "drawing",
+                "enjoy",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "enjoy",
+                "drawing",
+                "pictures."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "hobby.",
+                "relaxing",
+                "a",
+                "is",
+                "Painting"
+              ],
+              "answer": [
+                "Painting",
+                "is",
+                "a",
+                "relaxing",
+                "hobby."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "club.",
+                "the",
+                "join",
+                "to",
+                "hopes",
+                "She"
+              ],
+              "answer": [
+                "She",
+                "hopes",
+                "to",
+                "join",
+                "the",
+                "club."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "source": {
     "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g8/g8-english-1448.pdf",
     "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K08-SM1-ENGLMH-v2.pdf",
-    "title": "Super Goal 2, Part 1, Units 1–3, pages 2–25",
+    "title": "Super Goal 2, Part 1, Units 1–4, pages 2–33",
     "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint has a certificate error. Mirror bytes matched the reviewed PDF. Original explanations and exercises, not copied textbook questions.",
     "reviewedUnits": {
       "u1": [
@@ -2650,6 +3514,10 @@
       "u3": [
         18,
         25
+      ],
+      "u4": [
+        26,
+        33
       ]
     }
   }
