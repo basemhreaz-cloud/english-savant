@@ -1,5 +1,5 @@
 {
-  "version": "20261122-story1",
+  "version": "20261122-wordsforms1",
   "options": {
     "requireVerified": true,
     "holdFlagged": true
@@ -107,7 +107,7 @@
     {
       "id": "k2u2-trace-l",
       "kind": "trace",
-      "title_ar": "نتتبّع حروف D وM وg",
+      "title_ar": "نتتبّع D وM وG ونسمع كلماتهم",
       "instr": "ar2-i-trace",
       "items": [
         {
@@ -131,32 +131,83 @@
           "poster": "assets/kg2/anim/anim-trace-k2-m-lower-final.png"
         },
         {
+          "glyph": "G",
+          "mp4": "assets/kg2/anim/anim-trace-k2-G-upper.mp4",
+          "poster": "assets/kg2/anim/anim-trace-k2-G-upper-final.png"
+        },
+        {
           "glyph": "g",
           "mp4": "assets/kg2/anim/anim-trace-k2-g-lower.mp4",
           "poster": "assets/kg2/anim/anim-trace-k2-g-lower-final.png"
         }
       ],
-      "held_text": "حرف G متاح قريبًا (اتجاه الحركة لسه بيتراجع).",
       "words": [
         {
           "word": "dress",
           "img": "pics/dress.webp",
           "ar": "ar-meaning-dress",
           "en": "en-word-dress",
-          "label_en": "dress"
+          "label_en": "dress",
+          "letter": "Dd"
+        },
+        {
+          "word": "donkey",
+          "img": "pics/donkey.webp",
+          "ar": "u2-ar-word-donkey",
+          "en": "u2-en-word-donkey",
+          "label_en": "donkey",
+          "letter": "Dd"
+        },
+        {
+          "word": "mug",
+          "img": "pics/mug.webp",
+          "ar": "u2-ar-word-mug",
+          "en": "u2-en-word-mug",
+          "label_en": "mug",
+          "letter": "Mm"
+        },
+        {
+          "word": "mommy",
+          "img": "pics/mommy.webp",
+          "ar": "u2-ar-word-mommy",
+          "en": "u2-en-word-mommy",
+          "label_en": "mommy",
+          "letter": "Mm"
+        },
+        {
+          "word": "grass",
+          "img": "pics/grass.webp",
+          "ar": "u2-ar-word-grass",
+          "en": "u2-en-word-grass",
+          "label_en": "grass",
+          "letter": "Gg"
+        },
+        {
+          "word": "guitar",
+          "img": "pics/guitar.webp",
+          "ar": "u2-ar-word-guitar",
+          "en": "u2-en-word-guitar",
+          "label_en": "guitar",
+          "letter": "Gg"
         }
       ]
     },
     {
       "id": "k2u2-count",
       "kind": "count-trace",
-      "title_ar": "نعدّ ونتتبّع ٣ و٥",
+      "title_ar": "نعدّ ونتتبّع ٣ و٤ و٥",
       "instr": "ar2-i-count",
       "items": [
         {
           "glyph": "3",
           "mp4": "assets/kg2/anim/anim-trace-k2-n3.mp4",
           "poster": "assets/kg2/anim/anim-trace-k2-n3-final.png"
+        },
+        {
+          "glyph": "4",
+          "mp4": "assets/kg2/anim/anim-trace-k2-n4.mp4",
+          "poster": "assets/kg2/anim/anim-trace-k2-n4-final.png",
+          "note_ar": "دليل حركة أصلي مبسّط، مش نقل حرفي من الكتاب."
         },
         {
           "glyph": "5",
@@ -186,8 +237,7 @@
           "en": "en-n-5",
           "ar": "ar-meaning-five"
         }
-      ],
-      "held_text": "الرقم 4 متاح هنا للعدّ بس، حركة تتبّعه قريبًا."
+      ]
     },
     {
       "id": "k2u2-song",

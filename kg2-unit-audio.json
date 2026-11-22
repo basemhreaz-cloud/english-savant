@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": "20261122-wordsforms1",
   "scope": "Checked whole-word, meaning, instruction and line clips. Not isolated phonemes.",
   "audio": {
     "ar-m-t-shirt": {
@@ -1284,6 +1284,116 @@
       "src": "assets/kg2/u2/u2-en-st-4b.mp3",
       "verified": true,
       "sha256": "32ca619c75d10652198d1003d965f8163026cb2bffe12f3f19e3022ededc7b8d"
+    },
+    "u2-ar-word-donkey": {
+      "src": "assets/kg2/audio/u2-ar-word-donkey.mp3",
+      "sha256": "c8d6fe44935a4c44569621a626a2c9e31512e6253a482438b6a3c766a4cab357",
+      "verified": true
+    },
+    "u2-en-word-donkey": {
+      "src": "assets/kg2/audio/u2-en-word-donkey.mp3",
+      "sha256": "95f3be000baf60ab2da93bb5280691515cf7a4ea85324de4d7889576f3b4b058",
+      "verified": true
+    },
+    "u2-ar-word-mug": {
+      "src": "assets/kg2/audio/u2-ar-word-mug.mp3",
+      "sha256": "97c7b4822aebd76c3cc464453aba6988641c514377e390a2756a774bba6464d6",
+      "verified": true
+    },
+    "u2-en-word-mug": {
+      "src": "assets/kg2/audio/u2-en-word-mug.mp3",
+      "sha256": "fbdf95270f39de2ec1e96b62702176c35958ad90f8f585c6640d3746eaa2f6aa",
+      "verified": true
+    },
+    "u2-ar-word-mommy": {
+      "src": "assets/kg2/audio/u2-ar-word-mommy.mp3",
+      "sha256": "a265f5cb34d5f83b601341d36525f54ffadb52bfe2e33ed21771dfa3316868a9",
+      "verified": true
+    },
+    "u2-en-word-mommy": {
+      "src": "assets/kg2/audio/u2-en-word-mommy.mp3",
+      "sha256": "017333d063dfb173a7271d4c8a51acfe475898fea5d48147d7eb6efed6b3b60a",
+      "verified": true
+    },
+    "u2-ar-word-grass": {
+      "src": "assets/kg2/audio/u2-ar-word-grass.mp3",
+      "sha256": "9cd8e741c5b911ca9e5e0952957210e80648bfaf6e7f4dde5193f2e34bcd38a7",
+      "verified": true
+    },
+    "u2-en-word-grass": {
+      "src": "assets/kg2/audio/u2-en-word-grass.mp3",
+      "sha256": "e2c38979e7353ad290324e10bf065b1ec73fe0888869a326f360fa7eac4aa803",
+      "verified": true
+    },
+    "u2-ar-word-guitar": {
+      "src": "assets/kg2/audio/u2-ar-word-guitar.mp3",
+      "sha256": "4c73cbd96af2e336fba5422dc4041441f721babf6798b176c5fae4a8b7ad8001",
+      "verified": true
+    },
+    "u2-en-word-guitar": {
+      "src": "assets/kg2/audio/u2-en-word-guitar.mp3",
+      "sha256": "b37dda2e2b53b246e43bcc04254eb7a5ba8ef66b44a5e6bf2c402484807e1a3e",
+      "verified": true
+    },
+    "next-ar-flower": {
+      "src": "assets/kg2/audio/next-ar-flower.mp3",
+      "sha256": "972475598659e480d7116ae524bc51f794fb8e40011b5bd1c7e1f25d6921fedd",
+      "verified": true
+    },
+    "next-en-flower": {
+      "src": "assets/kg2/audio/next-en-flower.mp3",
+      "sha256": "cad10b2c40d2e968ede9a305dd92ca4ffa54b6e7e83863c31f892ac678c6cc4f",
+      "verified": true
+    },
+    "next-ar-on": {
+      "src": "assets/kg2/audio/next-ar-on.mp3",
+      "sha256": "5995181726e138df1afeff266eadbc35f0600d024c96b51dcec3b18adc305d40",
+      "verified": true
+    },
+    "next-en-on": {
+      "src": "assets/kg2/audio/next-en-on.mp3",
+      "sha256": "bb761ca3fbcf6c03f50a401fea7267cdb975ab95ebf29b9d3f4ad9f2755c816e",
+      "verified": true
+    },
+    "next-ar-rice": {
+      "src": "assets/kg2/audio/next-ar-rice.mp3",
+      "sha256": "f187c39702d8a7e91903fbd0fa17825fed5dfd5bfde7f6b283420cee169ab80a",
+      "verified": true
+    },
+    "next-en-rice": {
+      "src": "assets/kg2/audio/next-en-rice.mp3",
+      "sha256": "618a060a112ffdcaaae8d3e4fefa09fd7916fc5f544eda9d478042f2d846f895",
+      "verified": true
+    },
+    "next-ar-rabbit": {
+      "src": "assets/kg2/audio/next-ar-rabbit.mp3",
+      "sha256": "289ab0a4368749086acac4506427a0bdba2ce2f9862e8435ddd77aee88453528",
+      "verified": true
+    },
+    "next-en-rabbit": {
+      "src": "assets/kg2/audio/next-en-rabbit.mp3",
+      "sha256": "d3aa5882905c8ecf1099172d2ffa6a626f2631f3d499987bf4d5bc400efcc638",
+      "verified": true
+    },
+    "next-ar-color": {
+      "src": "assets/kg2/audio/next-ar-color.mp3",
+      "sha256": "66eb70453d8d07b71e423654154fd2cb7afa29a843a8268f25349a88a945031f",
+      "verified": true
+    },
+    "next-en-color": {
+      "src": "assets/kg2/audio/next-en-color.mp3",
+      "sha256": "57f57bafa4c204c3468fa484b9e0856a9094085f32b8a48e7b2275f8c593843b",
+      "verified": true
+    },
+    "next-ar-head": {
+      "src": "assets/kg2/audio/next-ar-head.mp3",
+      "sha256": "a4a1f1ac3f773de33bf04b42c9fa6a3dbc91222fe9a7686dbccad580c7f0051c",
+      "verified": true
+    },
+    "next-en-head": {
+      "src": "assets/kg2/audio/next-en-head.mp3",
+      "sha256": "63a4bdf4c14d0682ec1be87a705285e09468d362449b19dbe0bba21269fd8269",
+      "verified": true
     }
   }
 }

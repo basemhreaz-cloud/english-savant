@@ -1,0 +1,1559 @@
+{
+  "version": 1,
+  "scope": "Letter-example whole words only: Arabic meaning first, then English word. Not isolated phonemes, not instructions, games or assessments.",
+  "source_hash": "84c7bdde462f1b9207baba73304fcbf5af9387626df5825d6bf7804475fcd1ac",
+  "status": "Operationally checked whole-word pairs. Evidence combines paired/contextual speech review, decoded signal and browser QA, not human or phonetic certification.",
+  "pairs": {
+    "lw-toys": [
+      "lw-ar-toys",
+      "lw-en-toys"
+    ],
+    "lw-turtle": [
+      "lw-ar-turtle",
+      "lw-en-turtle"
+    ],
+    "lw-train": [
+      "lw-ar-train",
+      "lw-en-train"
+    ],
+    "lw-insects": [
+      "lw-ar-insects",
+      "lw-en-insects"
+    ],
+    "lw-ink": [
+      "lw-ar-ink",
+      "lw-en-ink"
+    ],
+    "lw-in": [
+      "lw-ar-in",
+      "lw-en-in"
+    ],
+    "lw-star": [
+      "lw-ar-star",
+      "lw-en-star"
+    ],
+    "lw-sun": [
+      "lw-ar-sun",
+      "lw-en-sun"
+    ],
+    "lw-school": [
+      "lw-ar-school",
+      "lw-en-school"
+    ],
+    "lw-apple": [
+      "lw-ar-apple",
+      "lw-en-apple"
+    ],
+    "lw-ant": [
+      "lw-ar-ant",
+      "lw-en-ant"
+    ],
+    "lw-nest": [
+      "lw-ar-nest",
+      "lw-en-nest"
+    ],
+    "lw-night": [
+      "lw-ar-night",
+      "lw-en-night"
+    ],
+    "lw-numbers": [
+      "lw-ar-numbers",
+      "lw-en-numbers"
+    ],
+    "lw-pen": [
+      "lw-ar-pen",
+      "lw-en-pen"
+    ],
+    "lw-pan": [
+      "lw-ar-pan",
+      "lw-en-pan"
+    ],
+    "lw-pants": [
+      "lw-ar-pants",
+      "lw-en-pants"
+    ],
+    "lw-helicopter": [
+      "lw-ar-helicopter",
+      "lw-en-helicopter"
+    ],
+    "lw-honey": [
+      "lw-ar-honey",
+      "lw-en-honey"
+    ],
+    "lw-heart": [
+      "lw-ar-heart",
+      "lw-en-heart"
+    ],
+    "lw-dog": [
+      "lw-ar-dog",
+      "lw-en-dog"
+    ],
+    "lw-desk": [
+      "picture-ar-w-desk",
+      "picture-en-w-desk"
+    ],
+    "lw-dress": [
+      "lw-ar-dress",
+      "lw-en-dress"
+    ],
+    "lw-robot": [
+      "lw-ar-robot",
+      "lw-en-robot"
+    ],
+    "lw-rice": [
+      "lw-ar-rice",
+      "lw-en-rice"
+    ],
+    "lw-rabbit": [
+      "lw-ar-rabbit",
+      "lw-en-rabbit"
+    ],
+    "lw-egg": [
+      "lw-ar-egg",
+      "lw-en-egg"
+    ],
+    "lw-elephant": [
+      "lw-ar-elephant",
+      "lw-en-elephant"
+    ],
+    "lw-cap": [
+      "lw-ar-cap",
+      "lw-en-cap"
+    ],
+    "lw-cow": [
+      "lw-ar-cow",
+      "lw-en-cow"
+    ],
+    "lw-cloud": [
+      "lw-ar-cloud",
+      "lw-en-cloud"
+    ],
+    "lw-kiwi": [
+      "lw-ar-kiwi",
+      "lw-en-kiwi"
+    ],
+    "lw-kite": [
+      "lw-ar-kite",
+      "lw-en-kite"
+    ],
+    "lw-kick": [
+      "lw-ar-kick",
+      "lw-en-kick"
+    ],
+    "lw-monkey": [
+      "lw-ar-monkey",
+      "lw-en-monkey"
+    ],
+    "lw-man": [
+      "lw-ar-man",
+      "lw-en-man"
+    ],
+    "lw-mom": [
+      "lw-ar-mom",
+      "lw-en-mom"
+    ]
+  },
+  "assets": {
+    "lw-ar-toys": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-toys.mp3",
+      "sha256": "0cba2c9f6ec259da2cd2dd7544251ca58e6c9e915d66529b3b0ae4f48bfad078",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-toys",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": [
+        "asr_unchecked"
+      ]
+    },
+    "lw-en-toys": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-toys.mp3",
+      "sha256": "02f38831540a7ed734bfffbb8d831d42a0885b5b75932e2a79f7cfce7126cb2b",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-toys",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": []
+    },
+    "lw-ar-turtle": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-turtle.mp3",
+      "sha256": "1a5eb04596e5a2808ab7feed4ad09324d17c6bcb71eb49f06440103638110002",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-turtle",
+      "historical_flags": [
+        "asr_mismatch_listen_check"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-turtle": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-turtle.mp3",
+      "sha256": "3a200149f3d692f2a5813814032779384e7fec9840ceedc08c38f6332a1e9b0d",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-turtle",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-train": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-train.mp3",
+      "sha256": "999c62394cea0eece8db2e6bf7264d681ae3e432a1e3d871c71b3a66f0f67c0d",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-train",
+      "historical_flags": [
+        "asr_mismatch_listen_check",
+        "full_scale_peak"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-train": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-train.mp3",
+      "sha256": "36572bee799cfe6c96b9647241fcf3ae743bd45d564cd5cfad04b0b9f21ba12b",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-train",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-insects": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-insects.mp3",
+      "sha256": "6b6facf65e53c593a77a4aa306d1db7427831a43be038a0a82850f853090c035",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-insects",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": [
+        "asr_unchecked"
+      ]
+    },
+    "lw-en-insects": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-insects.mp3",
+      "sha256": "7cc29720a75ee16c0659941c1abe7971c1359d6d05c930e5340f61a87566a212",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u1 aud-word-insects",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": []
+    },
+    "lw-ar-ink": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-ink.mp3",
+      "sha256": "1618ecaa51c4f0bf19e005625d5d46156e6559177fcda7ccf9686ed679a42d8f",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-ink",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": [
+        "asr_unchecked"
+      ]
+    },
+    "lw-en-ink": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-ink.mp3",
+      "sha256": "9f434c94a5729b5e539c7182db2ee14d52b2e76250328a2674ade91a5042b46f",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-ink",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": []
+    },
+    "lw-ar-in": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-in.mp3",
+      "sha256": "f4832b7c01e37d97ab8645d79d050b535f57dde72b8c28387feaf89168aaaf6f",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-in",
+      "historical_flags": [
+        "asr_unchecked"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-in": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-in.mp3",
+      "sha256": "5ad0341106f668eaf357ea357967fedd6fdc6508c8e7763d909a70eb2ac70230",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u1 aud-word-in",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-star": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-star.mp3",
+      "sha256": "41bc8a508491a34d18f83e3c4ecf5c1b655dea042e1b046c3376f1864180f0c7",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-star",
+      "historical_flags": [
+        "asr_mismatch_listen_check",
+        "full_scale_peak"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-star": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-star.mp3",
+      "sha256": "0f74316c0f6a3128a084f3a2d15bd3b1c58c924d74ccd9ac16061696c4caebf7",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-star",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-sun": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-sun.mp3",
+      "sha256": "715b72c7cf472e6efc318cddb5901b66de5e73314601d9b067897176320710dc",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-sun",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": [
+        "asr_unchecked"
+      ]
+    },
+    "lw-en-sun": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-sun.mp3",
+      "sha256": "41eceeb62275063216d7f9d94d03f2fc7862592b8473b988958cf8c14a79c745",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-sun",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": []
+    },
+    "lw-ar-school": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-school.mp3",
+      "sha256": "e507f4d96941eb9d8b838d5be7352c7e264d033fead0799c217c904ffc884c73",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-school",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": [
+        "asr_match"
+      ]
+    },
+    "lw-en-school": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-school.mp3",
+      "sha256": "7af076cf13154bb73b4e4319e9e2176b1231e34383cb3080ca6adf6ceb4a4851",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-school",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": []
+    },
+    "lw-ar-apple": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-apple.mp3",
+      "sha256": "c39839bd6cef039b68f17f9d6995976f3f2fed11733354daf5aa892cfd90b3a0",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-apple",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": [
+        "asr_unchecked"
+      ]
+    },
+    "lw-en-apple": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-apple.mp3",
+      "sha256": "0a83873a020b1319b16be1bbcf4f6ba5474b4946e74179400b3a4cd71195051a",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-apple",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": []
+    },
+    "lw-ar-ant": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-ant.mp3",
+      "sha256": "5efb258796574d1f73978a62d6b4abbfbdbd3381dd44d099f43326f4f6132ad4",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-ant",
+      "historical_flags": [
+        "asr_mismatch_listen_check"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-ant": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-ant.mp3",
+      "sha256": "d71532d6f8150778303c31df65241a41200c3aa97eb9bd790a12390f56069bb3",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u2 aud-word-ant",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-nest": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-nest.mp3",
+      "sha256": "d1cf87bfeb2c62e6983179772bc4be2ad2e6c90812e9f79ee2df08a19620bb42",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-nest",
+      "historical_flags": [
+        "asr_mismatch_listen_check"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-nest": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-nest.mp3",
+      "sha256": "d97c53f4614c87292d46d34be2ed09e95f1b9e4b3fa45b78c1c656b71ce8515a",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u2 aud-word-nest",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-night": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-night.mp3",
+      "sha256": "40d30767d0973fd5db0953c591d519766f7144cf6bd9ae513868d57f2f349d94",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-night",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": [
+        "asr_match"
+      ]
+    },
+    "lw-en-night": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-night.mp3",
+      "sha256": "4f651f120fb18af2086bfc18f06b5e4baf70b2b05bca1e1cf9cbf871944b9df0",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-night",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": []
+    },
+    "lw-ar-numbers": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-numbers.mp3",
+      "sha256": "cdcfcb33e45213462bae735fe974f15f9f2534e69bdd0b79b2fb4f872226e827",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-numbers",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": [
+        "asr_unchecked"
+      ]
+    },
+    "lw-en-numbers": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-numbers.mp3",
+      "sha256": "060815472c2b946c185f52e9eb7d76860aade24989b34c998c478b82ebc871e5",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u2 aud-word-numbers",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": []
+    },
+    "lw-ar-pen": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-pen.mp3",
+      "sha256": "89316589e8b52a04e17c92cc6bbb7519f28f1b4a6d380e135bcc1bf00e23c430",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-pen",
+      "historical_flags": [
+        "asr_unchecked"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-pen": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-pen.mp3",
+      "sha256": "0bf32aff74d631628a70d0a1cf1dbd3a82b0648438513c8f36b3cf416818b20a",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u3 aud-word-pen",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-pan": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-pan.mp3",
+      "sha256": "0a576247ce94ee525d0881e45ce4997c835406c1498dfff238ca14fdafceba71",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-pan",
+      "historical_flags": [
+        "asr_mismatch_listen_check"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-pan": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-pan.mp3",
+      "sha256": "e1f6429195251f70a5a94fcb405db0e00e36e7aa6a40843553092beec3976ebf",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u3 aud-word-pan",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-pants": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-pants.mp3",
+      "sha256": "e66ed28ff1266da7ab112e6770812293e9ae2fe06a41f68e55a9fb76e78a35d2",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-pants",
+      "historical_flags": [
+        "asr_unchecked"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-pants": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-pants.mp3",
+      "sha256": "5b4bd0215bb1b9218885fb4859c9fa8eb10425b5f85a00cec9f3bfb4c30b7158",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-pants",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-helicopter": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-helicopter.mp3",
+      "sha256": "dfadfcee6416ef37245ab27264b8d44e91dcbb03b924ecde263aa839603c1825",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-helicopter",
+      "historical_flags": [
+        "asr_unchecked"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-helicopter": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-helicopter.mp3",
+      "sha256": "3bac72b7adf59f3cfc26d9f0a2ddd179573b675a429880f5853421ece97a1f25",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-helicopter",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-honey": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-honey.mp3",
+      "sha256": "0c653c5d176a64745d08c42a491563647bcc9cd2341aac9febebd74a816fffc6",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-honey",
+      "historical_flags": [
+        "asr_unchecked",
+        "full_scale_peak"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-honey": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-honey.mp3",
+      "sha256": "c54943b207c5cc46c9bbf89a3af8f2a2f2e1562b89e374d89b1646d2d297969c",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-honey",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-heart": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-heart.mp3",
+      "sha256": "81b91c10aa12e6abd693cda6ec46f19e8be15ca360fe4763ae27e2641fe883f2",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-heart",
+      "historical_flags": [
+        "asr_mismatch_listen_check"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-heart": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-heart.mp3",
+      "sha256": "1c9ae3d771f556a1c4d00922027f8e25c44791b4756ae48a5df94de9bfd90718",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-heart",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-dog": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-dog.mp3",
+      "sha256": "3579ff49a7d381e629f84e55fafe24e1fb822728d452ed4ac648e51bd2a70820",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-dog",
+      "historical_flags": [
+        "asr_unchecked"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-dog": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-dog.mp3",
+      "sha256": "b11ec933aa4d0831e7f9ba6d30719dcc994b355b14360f17a6142035017b0ae9",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u3 aud-word-dog",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-dress": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-dress.mp3",
+      "sha256": "6773e896f482af8204507bdc8e3aef4c89c7ed4e5e06bbe4f6d89163ad69ffb7",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-dress",
+      "historical_flags": [
+        "asr_mismatch_listen_check"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-dress": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-dress.mp3",
+      "sha256": "903ca66709613f5ea5aa3b2e18d064d3c965265500fb9c57367fcddb47748a6b",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-dress",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-robot": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-robot.mp3",
+      "sha256": "a9545aa4bb5e82a6b8f124ac05ea19b113f6a7c7eab6c94ee4a336e230d8bceb",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-robot",
+      "historical_flags": [
+        "asr_unchecked"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-robot": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-robot.mp3",
+      "sha256": "21c8745995ca483587a2a60e43d35dea27d6034550bde2b12b334a45e27d9d5d",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u3 aud-word-robot",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-rice": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-rice.mp3",
+      "sha256": "1853dc590a6dbac9895e28040caf47529ff6ccc349dab153ba1d479eb4f01e4c",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-rice",
+      "historical_flags": [
+        "asr_unchecked"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-rice": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-rice.mp3",
+      "sha256": "c831921383309a6b03a5da83474290810250cd5c110659d4a662e48643c9b448",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u3 aud-word-rice",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-rabbit": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-rabbit.mp3",
+      "sha256": "8fd34949019d77d31d0ac57102bd3507a76c2687f645a74afdd918af798bb676",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-rabbit",
+      "historical_flags": [
+        "asr_match"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-rabbit": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-rabbit.mp3",
+      "sha256": "06c947a5ee704fd533fb3b1caec7da19f1a43e66c7b8e91234f33b12be884605",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-rabbit",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": -2,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-egg": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-egg.mp3",
+      "sha256": "5ee39e9acf6e6fc0663d71c00f0643aeb9d5c29ab894d5656ed8348a6e07b303",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-egg",
+      "historical_flags": [
+        "asr_mismatch_listen_check"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-egg": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-egg.mp3",
+      "sha256": "ff17189c2476f8b5594ecd349cf0f7319a9be5b25d86cf55505ec1c7501764fa",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-egg",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-elephant": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-elephant.mp3",
+      "sha256": "6acb9153bdfe393ccaa7923547bc450a124617862adfa7c12ad0b8b749817bae",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-elephant",
+      "historical_flags": [
+        "asr_unchecked"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-elephant": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-elephant.mp3",
+      "sha256": "4a83dcfc0a6e5874ac4d8d01d601aa5b6f7bbf624b2b4902c6316559e01fcf80",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u4 aud-word-elephant",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-cap": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-cap.mp3",
+      "sha256": "6731e801a1d3720b7f4a90fd3defb89c0a8721885ce8df87ef3332f2e66a5a1c",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-cap",
+      "historical_flags": [
+        "asr_unchecked"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-cap": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-cap.mp3",
+      "sha256": "d9eaa0ce2555085abc9297e87abe8deb551ed61abbd7d7fd4f313b2699af0a6c",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-cap",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-cow": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-cow.mp3",
+      "sha256": "0ce88244d8eb59dbbc2884fb4045ab523de8ab2fb302d367c16f00d3a9ac8456",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-cow",
+      "historical_flags": [
+        "asr_mismatch_listen_check"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-cow": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-cow.mp3",
+      "sha256": "cf6ce8d2d60a71a8621c977a0d1061ccf21b861ce560e861ad5e6694b5e8683a",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u4 aud-word-cow",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-cloud": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-cloud.mp3",
+      "sha256": "920261337e6791ba7c5a082c138e09d73ceb087c539cb7e22362a78d8c01b976",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-cloud",
+      "historical_flags": [
+        "asr_unchecked"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-cloud": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-cloud.mp3",
+      "sha256": "ef97f7bf20c9a47575b7a73bd7b25950e443912bef2ec248654893df20f949a0",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u4 aud-word-cloud",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-kiwi": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-kiwi.mp3",
+      "sha256": "50ddce05dff0da5662607b71a597286c5bf1f35c85a9798a25e670d339df7dd1",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-kiwi",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": [
+        "asr_unchecked"
+      ]
+    },
+    "lw-en-kiwi": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-kiwi.mp3",
+      "sha256": "01fd67eb9a6a7212273efa1a6f4bf3ace627ba37a4989e1a34145c3704c5a917",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-kiwi",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": []
+    },
+    "lw-ar-kite": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-kite.mp3",
+      "sha256": "5053089bdffe2b8a7976d21a08f86d9ebdf82df2565c9b10d2ece55842ba148c",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-kite",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": [
+        "asr_unchecked"
+      ]
+    },
+    "lw-en-kite": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-kite.mp3",
+      "sha256": "8474177c87981f1dcf46d49a8478eae5f2b05991d509fd867f15434b7bd3c4ce",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-kite",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": []
+    },
+    "lw-ar-kick": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-kick.mp3",
+      "sha256": "f0c4f4f000431296fa79485f89d065e083209c9adc820d3e6617ef0a931628ff",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-kick",
+      "historical_flags": [
+        "asr_unchecked"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-kick": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-kick.mp3",
+      "sha256": "10178f7ddfc92cd1849d0b776531a2d41613a360df9b8bfd345b66f10dbd0045",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-kick",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-monkey": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-monkey.mp3",
+      "sha256": "9ee801c1fbf39b07a255a1f0c54864b2964a526bc84929e1abf0ef74552c36df",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-monkey",
+      "historical_flags": [
+        "asr_unchecked"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-en-monkey": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-monkey.mp3",
+      "sha256": "7a62b9169976fcaa025905b3a1de70808bb053c3c7ad262070a1a945c7bac29c",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u4 aud-word-monkey",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "lw-ar-man": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-man.mp3",
+      "sha256": "2eb26df3ae2a36c5a65fb6b9b76e8fa34d732f7e45687ec2a926b097e789ab74",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-man",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": [
+        "asr_unchecked"
+      ]
+    },
+    "lw-en-man": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-man.mp3",
+      "sha256": "a2c01c38bc4aad37bba0ab6717d7309fd0f741751e186f8c2f10ab3904590fb5",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u4 aud-word-man",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": []
+    },
+    "lw-ar-mom": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-mom.mp3",
+      "sha256": "15158376ca6a16d416450d3512819b58939b3960bd88a0f8a72c1ee52bb5446e",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-mom",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": [
+        "asr_match"
+      ]
+    },
+    "lw-en-mom": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-mom.mp3",
+      "sha256": "c100fe36fe53fcd6c8c9618cfbbe8c39f73b7f2691c923374dc7d4647ae07676",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-mom",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": []
+    }
+  },
+  "coverage": {
+    "toys": {
+      "status": "checked by transcription, bound",
+      "verified": true
+    },
+    "turtle": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar heard as سولها"
+    },
+    "train": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar heard as unrelated English"
+    },
+    "insects": {
+      "status": "checked by transcription, bound",
+      "verified": true
+    },
+    "ink": {
+      "status": "checked by transcription, bound",
+      "verified": true
+    },
+    "in": {
+      "status": "held",
+      "verified": false,
+      "reason": "En heard as a Hindi-script word, Ar heard as \"Goa\""
+    },
+    "star": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar heard as نيجما"
+    },
+    "sun": {
+      "status": "checked by transcription, bound",
+      "verified": true
+    },
+    "school": {
+      "status": "checked by transcription, bound",
+      "verified": true
+    },
+    "apple": {
+      "status": "checked by transcription, bound",
+      "verified": true
+    },
+    "ant": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar heard as unrelated words"
+    },
+    "nest": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar heard as دوش"
+    },
+    "night": {
+      "status": "checked by transcription, bound",
+      "verified": true
+    },
+    "numbers": {
+      "status": "checked by transcription, bound",
+      "verified": true
+    },
+    "pen": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar heard as \"The alarm\""
+    },
+    "pan": {
+      "status": "held",
+      "verified": false,
+      "reason": "transcript matches but foundation mismatch flag, needs 2nd check"
+    },
+    "pants": {
+      "status": "held",
+      "verified": false,
+      "reason": "transcripts match but clip peaks at -0.1 dB (clipping risk), needs level fix"
+    },
+    "helicopter": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar says English helicopter, not هليكوبتر"
+    },
+    "honey": {
+      "status": "held",
+      "verified": false,
+      "reason": "transcripts match but foundation full-scale-peak flag"
+    },
+    "heart": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar heard as English \"the Alb\""
+    },
+    "dog": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar says English dog, not كلب"
+    },
+    "desk": {
+      "status": "reuses checked core pair",
+      "verified": true
+    },
+    "dress": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar heard as non-Arabic gibberish"
+    },
+    "robot": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar says English robot, not روبوت"
+    },
+    "rice": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar heard as دروز"
+    },
+    "rabbit": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar says English rabbit, not أرنب"
+    },
+    "egg": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar says بيدا not بيضة"
+    },
+    "elephant": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar heard as English \"the feel\""
+    },
+    "cap": {
+      "status": "held",
+      "verified": false,
+      "reason": "transcripts match but clip peaks at -0.0 dB (clipping risk), needs level fix"
+    },
+    "cow": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar heard as non-Arabic gibberish"
+    },
+    "cloud": {
+      "status": "held",
+      "verified": false,
+      "reason": "transcripts match but clip peaks at -0.3 dB (clipping risk), needs level fix"
+    },
+    "kiwi": {
+      "status": "checked by transcription, bound",
+      "verified": true
+    },
+    "kite": {
+      "status": "checked by transcription, bound",
+      "verified": true
+    },
+    "kick": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar heard as يشوت (loanword, not a meaning), needs decision"
+    },
+    "monkey": {
+      "status": "held",
+      "verified": false,
+      "reason": "Ar heard as English \"the Earth\""
+    },
+    "man": {
+      "status": "checked by transcription, bound",
+      "verified": true
+    },
+    "mom": {
+      "status": "checked by transcription, bound",
+      "verified": true
+    }
+  }
+}
