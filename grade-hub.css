@@ -3,3 +3,5 @@
 .grade-organized .page-intro{padding-top:24px}.grade-organized .page-intro>*,.grade-organized .compact-section,.grade-organized .teach-block{animation:none!important}.grade-organized .grade-entry:focus-visible{outline:3px solid var(--olive);outline-offset:4px}
 
 .teaching-page .t-card{overflow-wrap:anywhere;min-width:0;line-height:1.5}.teaching-page .page-intro,.teaching-page .section{animation:none!important}
+
+body.dark .grade-entry{background:#242821}body.dark .grade-entry:hover{background:#2c3329}body.dark .grade-entry-open,body.dark .grade-entry-icon,body.dark .grade-back{color:#d7e1ca}body.dark .grade-entry-icon{background:rgba(168,179,154,.14)}body.dark .grade-entry:focus-visible{outline-color:#d7e1ca}
