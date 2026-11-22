@@ -1,0 +1,567 @@
+{
+  "version": 1,
+  "unit": {
+    "id": "kg2-t1-u2p"
+  },
+  "activities": [
+    {
+      "id": "k2u2p-listen",
+      "kind": "listen-choose",
+      "title_ar": "اسمع واختار الهدوم",
+      "help": "اسمع الكلمة بالإنجليزي واختار صورتها. نقدر نعيد الصوت ونجرب تاني براحتنا.",
+      "rounds": [
+        {
+          "target": {
+            "word": "T-shirt",
+            "img": "u2p/t-shirt.webp",
+            "ar": "ar-m-t-shirt",
+            "en": "en-word-t-shirt",
+            "label_en": "T-shirt"
+          },
+          "choices": [
+            {
+              "word": "skirt",
+              "img": "u2p/skirt.webp",
+              "ar": "ar-meaning-skirt",
+              "en": "en-word-skirt",
+              "label_en": "skirt"
+            },
+            {
+              "word": "T-shirt",
+              "img": "u2p/t-shirt.webp",
+              "ar": "ar-m-t-shirt",
+              "en": "en-word-t-shirt",
+              "label_en": "T-shirt"
+            },
+            {
+              "word": "dress",
+              "img": "u2p/dress.webp",
+              "ar": "ar-meaning-dress",
+              "en": "en-word-dress",
+              "label_en": "dress",
+              "letter": "Dd"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "cap",
+            "img": "u2p/cap.webp",
+            "ar": "ar-m-cap",
+            "en": "en-word-cap",
+            "label_en": "cap"
+          },
+          "choices": [
+            {
+              "word": "cap",
+              "img": "u2p/cap.webp",
+              "ar": "ar-m-cap",
+              "en": "en-word-cap",
+              "label_en": "cap"
+            },
+            {
+              "word": "shorts",
+              "img": "u2p/shorts.webp",
+              "ar": "ar-m-shorts",
+              "en": "en-word-shorts",
+              "label_en": "shorts"
+            },
+            {
+              "word": "socks",
+              "img": "u2p/socks.webp",
+              "ar": "ar-m-socks",
+              "en": "en-word-socks",
+              "label_en": "socks"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "shoes",
+            "img": "u2p/shoes.webp",
+            "ar": "ar-m-shoes",
+            "en": "en-word-shoes",
+            "label_en": "shoes"
+          },
+          "choices": [
+            {
+              "word": "pants",
+              "img": "u2p/pants.webp",
+              "ar": "ar-m-pants",
+              "en": "en-word-pants",
+              "label_en": "pants"
+            },
+            {
+              "word": "dress",
+              "img": "u2p/dress.webp",
+              "ar": "ar-meaning-dress",
+              "en": "en-word-dress",
+              "label_en": "dress",
+              "letter": "Dd"
+            },
+            {
+              "word": "shoes",
+              "img": "u2p/shoes.webp",
+              "ar": "ar-m-shoes",
+              "en": "en-word-shoes",
+              "label_en": "shoes"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "skirt",
+            "img": "u2p/skirt.webp",
+            "ar": "ar-meaning-skirt",
+            "en": "en-word-skirt",
+            "label_en": "skirt"
+          },
+          "choices": [
+            {
+              "word": "shorts",
+              "img": "u2p/shorts.webp",
+              "ar": "ar-m-shorts",
+              "en": "en-word-shorts",
+              "label_en": "shorts"
+            },
+            {
+              "word": "skirt",
+              "img": "u2p/skirt.webp",
+              "ar": "ar-meaning-skirt",
+              "en": "en-word-skirt",
+              "label_en": "skirt"
+            },
+            {
+              "word": "T-shirt",
+              "img": "u2p/t-shirt.webp",
+              "ar": "ar-m-t-shirt",
+              "en": "en-word-t-shirt",
+              "label_en": "T-shirt"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "socks",
+            "img": "u2p/socks.webp",
+            "ar": "ar-m-socks",
+            "en": "en-word-socks",
+            "label_en": "socks"
+          },
+          "choices": [
+            {
+              "word": "socks",
+              "img": "u2p/socks.webp",
+              "ar": "ar-m-socks",
+              "en": "en-word-socks",
+              "label_en": "socks"
+            },
+            {
+              "word": "cap",
+              "img": "u2p/cap.webp",
+              "ar": "ar-m-cap",
+              "en": "en-word-cap",
+              "label_en": "cap"
+            },
+            {
+              "word": "pants",
+              "img": "u2p/pants.webp",
+              "ar": "ar-m-pants",
+              "en": "en-word-pants",
+              "label_en": "pants"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "dress",
+            "img": "u2p/dress.webp",
+            "ar": "ar-meaning-dress",
+            "en": "en-word-dress",
+            "label_en": "dress",
+            "letter": "Dd"
+          },
+          "choices": [
+            {
+              "word": "shoes",
+              "img": "u2p/shoes.webp",
+              "ar": "ar-m-shoes",
+              "en": "en-word-shoes",
+              "label_en": "shoes"
+            },
+            {
+              "word": "T-shirt",
+              "img": "u2p/t-shirt.webp",
+              "ar": "ar-m-t-shirt",
+              "en": "en-word-t-shirt",
+              "label_en": "T-shirt"
+            },
+            {
+              "word": "dress",
+              "img": "u2p/dress.webp",
+              "ar": "ar-meaning-dress",
+              "en": "en-word-dress",
+              "label_en": "dress",
+              "letter": "Dd"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "shorts",
+            "img": "u2p/shorts.webp",
+            "ar": "ar-m-shorts",
+            "en": "en-word-shorts",
+            "label_en": "shorts"
+          },
+          "choices": [
+            {
+              "word": "cap",
+              "img": "u2p/cap.webp",
+              "ar": "ar-m-cap",
+              "en": "en-word-cap",
+              "label_en": "cap"
+            },
+            {
+              "word": "shorts",
+              "img": "u2p/shorts.webp",
+              "ar": "ar-m-shorts",
+              "en": "en-word-shorts",
+              "label_en": "shorts"
+            },
+            {
+              "word": "skirt",
+              "img": "u2p/skirt.webp",
+              "ar": "ar-meaning-skirt",
+              "en": "en-word-skirt",
+              "label_en": "skirt"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "pants",
+            "img": "u2p/pants.webp",
+            "ar": "ar-m-pants",
+            "en": "en-word-pants",
+            "label_en": "pants"
+          },
+          "choices": [
+            {
+              "word": "pants",
+              "img": "u2p/pants.webp",
+              "ar": "ar-m-pants",
+              "en": "en-word-pants",
+              "label_en": "pants"
+            },
+            {
+              "word": "socks",
+              "img": "u2p/socks.webp",
+              "ar": "ar-m-socks",
+              "en": "en-word-socks",
+              "label_en": "socks"
+            },
+            {
+              "word": "shoes",
+              "img": "u2p/shoes.webp",
+              "ar": "ar-m-shoes",
+              "en": "en-word-shoes",
+              "label_en": "shoes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k2u2p-match",
+      "kind": "match-pairs",
+      "title_ar": "لاقي نفس الهدوم",
+      "help": "المس صورة من اليمين وبعدها نفس الصورة من الشمال. بنستخدم نفس الرسمة مرتين.",
+      "left": [
+        {
+          "word": "cap",
+          "img": "u2p/cap.webp",
+          "ar": "ar-m-cap",
+          "en": "en-word-cap",
+          "label_en": "cap"
+        },
+        {
+          "word": "dress",
+          "img": "u2p/dress.webp",
+          "ar": "ar-meaning-dress",
+          "en": "en-word-dress",
+          "label_en": "dress",
+          "letter": "Dd"
+        },
+        {
+          "word": "shoes",
+          "img": "u2p/shoes.webp",
+          "ar": "ar-m-shoes",
+          "en": "en-word-shoes",
+          "label_en": "shoes"
+        },
+        {
+          "word": "pants",
+          "img": "u2p/pants.webp",
+          "ar": "ar-m-pants",
+          "en": "en-word-pants",
+          "label_en": "pants"
+        }
+      ],
+      "right": [
+        {
+          "word": "shoes",
+          "img": "u2p/shoes.webp",
+          "ar": "ar-m-shoes",
+          "en": "en-word-shoes",
+          "label_en": "shoes"
+        },
+        {
+          "word": "pants",
+          "img": "u2p/pants.webp",
+          "ar": "ar-m-pants",
+          "en": "en-word-pants",
+          "label_en": "pants"
+        },
+        {
+          "word": "cap",
+          "img": "u2p/cap.webp",
+          "ar": "ar-m-cap",
+          "en": "en-word-cap",
+          "label_en": "cap"
+        },
+        {
+          "word": "dress",
+          "img": "u2p/dress.webp",
+          "ar": "ar-meaning-dress",
+          "en": "en-word-dress",
+          "label_en": "dress",
+          "letter": "Dd"
+        }
+      ]
+    },
+    {
+      "id": "k2u2p-initial",
+      "kind": "bucket",
+      "title_ar": "نختار أول حرف",
+      "help": "اسمع معنى الصورة بالعربي وبعده الكلمة بالإنجليزي. وبعدين اختار أول حرف، ونحكي عن الكلمة مع شخص كبير.",
+      "buckets": [
+        "Dd",
+        "Mm",
+        "Gg"
+      ],
+      "items": [
+        {
+          "word": "dress",
+          "img": "u2p/dress.webp",
+          "ar": "ar-meaning-dress",
+          "en": "en-word-dress",
+          "label_en": "dress",
+          "letter": "Dd",
+          "ok": "Dd"
+        },
+        {
+          "word": "donkey",
+          "img": "u2p/donkey.webp",
+          "ar": "u2-ar-word-donkey",
+          "en": "u2-en-word-donkey",
+          "label_en": "donkey",
+          "letter": "Dd",
+          "ok": "Dd"
+        },
+        {
+          "word": "mug",
+          "img": "u2p/mug.webp",
+          "ar": "u2-ar-word-mug",
+          "en": "u2-en-word-mug",
+          "label_en": "mug",
+          "letter": "Mm",
+          "ok": "Mm"
+        },
+        {
+          "word": "mommy",
+          "img": "u2p/mommy.webp",
+          "ar": "u2-ar-word-mommy",
+          "en": "u2-en-word-mommy",
+          "label_en": "mommy",
+          "letter": "Mm",
+          "ok": "Mm"
+        },
+        {
+          "word": "grass",
+          "img": "u2p/grass.webp",
+          "ar": "u2-ar-word-grass",
+          "en": "u2-en-word-grass",
+          "label_en": "grass",
+          "letter": "Gg",
+          "ok": "Gg"
+        },
+        {
+          "word": "guitar",
+          "img": "u2p/guitar.webp",
+          "ar": "u2-ar-word-guitar",
+          "en": "u2-en-word-guitar",
+          "label_en": "guitar",
+          "letter": "Gg",
+          "ok": "Gg"
+        }
+      ]
+    },
+    {
+      "id": "k2u2p-count",
+      "kind": "count-choose",
+      "title_ar": "عدّ 3 و4 و5",
+      "help": "شاور على كل قطعة مرة وعدّها. اختار العدد. بنعدّ قطعة الهدوم الكاملة أو المج، مش تفاصيل الصورة.",
+      "choices": [
+        3,
+        4,
+        5
+      ],
+      "rounds": [
+        {
+          "img": "u2p/t-shirt.webp",
+          "repeat": 3,
+          "alt": "t-shirt",
+          "ok": 3
+        },
+        {
+          "img": "u2p/shorts.webp",
+          "repeat": 4,
+          "alt": "shorts",
+          "ok": 4
+        },
+        {
+          "img": "u2p/cap.webp",
+          "repeat": 5,
+          "alt": "cap",
+          "ok": 5
+        },
+        {
+          "img": "u2p/mug.webp",
+          "repeat": 3,
+          "alt": "mug",
+          "ok": 3
+        },
+        {
+          "img": "u2p/mug.webp",
+          "repeat": 4,
+          "alt": "mug",
+          "ok": 4
+        }
+      ]
+    },
+    {
+      "id": "k2u2p-build",
+      "kind": "build-count",
+      "title_ar": "كوّن العدد بإيدك",
+      "help": "اختار قطع الهدوم لحد ما توصل للعدد المطلوب. تقدر تشيل اختيارك وتجرب تاني. مفيش درجات.",
+      "rounds": [
+        {
+          "word": {
+            "word": "T-shirt",
+            "img": "u2p/t-shirt.webp",
+            "ar": "ar-m-t-shirt",
+            "en": "en-word-t-shirt",
+            "label_en": "T-shirt"
+          },
+          "target": 3
+        },
+        {
+          "word": {
+            "word": "shorts",
+            "img": "u2p/shorts.webp",
+            "ar": "ar-m-shorts",
+            "en": "en-word-shorts",
+            "label_en": "shorts"
+          },
+          "target": 4
+        },
+        {
+          "word": {
+            "word": "cap",
+            "img": "u2p/cap.webp",
+            "ar": "ar-m-cap",
+            "en": "en-word-cap",
+            "label_en": "cap"
+          },
+          "target": 5
+        }
+      ]
+    },
+    {
+      "id": "k2u2p-personal",
+      "kind": "open-choice",
+      "title_ar": "أنا عندي…",
+      "help": "اختار صورة وقلّد الجملة مع شخص كبير: I have ... الجملة تدريب لغوي، مش سؤال عن هدومك الحقيقية. تقدر تحكي أو ترسم اختيارك من غير تسجيل.",
+      "frame": "I have",
+      "choices": [
+        {
+          "word": "T-shirt",
+          "img": "u2p/t-shirt.webp",
+          "ar": "ar-m-t-shirt",
+          "en": "en-word-t-shirt",
+          "label_en": "T-shirt"
+        },
+        {
+          "word": "cap",
+          "img": "u2p/cap.webp",
+          "ar": "ar-m-cap",
+          "en": "en-word-cap",
+          "label_en": "cap"
+        },
+        {
+          "word": "shoes",
+          "img": "u2p/shoes.webp",
+          "ar": "ar-m-shoes",
+          "en": "en-word-shoes",
+          "label_en": "shoes"
+        },
+        {
+          "word": "skirt",
+          "img": "u2p/skirt.webp",
+          "ar": "ar-meaning-skirt",
+          "en": "en-word-skirt",
+          "label_en": "skirt"
+        },
+        {
+          "word": "socks",
+          "img": "u2p/socks.webp",
+          "ar": "ar-m-socks",
+          "en": "en-word-socks",
+          "label_en": "socks"
+        },
+        {
+          "word": "dress",
+          "img": "u2p/dress.webp",
+          "ar": "ar-meaning-dress",
+          "en": "en-word-dress",
+          "label_en": "dress",
+          "letter": "Dd"
+        },
+        {
+          "word": "shorts",
+          "img": "u2p/shorts.webp",
+          "ar": "ar-m-shorts",
+          "en": "en-word-shorts",
+          "label_en": "shorts"
+        },
+        {
+          "word": "pants",
+          "img": "u2p/pants.webp",
+          "ar": "ar-m-pants",
+          "en": "en-word-pants",
+          "label_en": "pants"
+        }
+      ]
+    }
+  ],
+  "held": [
+    "صوت التعليمات الجديدة لسه قيد المراجعة. حد كبير يقرأ المطلوب.",
+    "دي أنشطة أصلية بناءً على أهداف المفردات والحروف والعد في الكتاب. مش نسخة من تمارين الكتاب أو مفتاح رسمي."
+  ],
+  "source_context": {
+    "PDF38": "Clothing recognition: T-shirt, cap, shoes, skirt, socks, dress, shorts, pants.",
+    "PDF46-50": "Numbers3/4/5 with clothing and mugs; use original layouts and derive keys from rendered counts, not copied worksheet coordinates.",
+    "PDF42,51,53-54": "D=dress/donkey; M=mug/mommy; G=guitar/grass. Names are characters, not teaching-example answers."
+  }
+}
