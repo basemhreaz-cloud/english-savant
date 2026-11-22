@@ -1,0 +1,755 @@
+{
+ "version": 1,
+ "activities": [
+  {
+   "id": "k2u4p-meals",
+   "kind": "meal-choice",
+   "title_ar": "الوجبة مع وقتها",
+   "help": "حسب يوم الشخصيات في الوحدة: الفطار الصبح، والغدا الظهر، والعشا بالليل. شخص كبير يقرأ السؤال. دي لعبة صور أصلية، مش حكم على مواعيد بيتنا.",
+   "rounds": [
+    {
+     "context": {
+      "word": "breakfast",
+      "img": "pics/breakfast.webp",
+      "ar": "ar-m-breakfast",
+      "en": "en-u4-w-breakfast",
+      "label_en": "breakfast"
+     },
+     "target": {
+      "word": "morning",
+      "img": "pics/morning.webp",
+      "ar": "ar-m-morning",
+      "en": "en-u4-w-morning",
+      "label_en": "morning"
+     },
+     "choices": [
+      {
+       "word": "night",
+       "img": "pics/night.webp",
+       "ar": "ar-m-night",
+       "en": "en-u4-w-night",
+       "label_en": "night"
+      },
+      {
+       "word": "morning",
+       "img": "pics/morning.webp",
+       "ar": "ar-m-morning",
+       "en": "en-u4-w-morning",
+       "label_en": "morning"
+      },
+      {
+       "word": "noon",
+       "img": "pics/noon.webp",
+       "ar": "ar-m-noon",
+       "en": "en-u4-w-noon",
+       "label_en": "noon"
+      }
+     ]
+    },
+    {
+     "context": {
+      "word": "lunch",
+      "img": "pics/lunch.webp",
+      "ar": "ar-m-lunch",
+      "en": "en-u4-w-lunch",
+      "label_en": "lunch"
+     },
+     "target": {
+      "word": "noon",
+      "img": "pics/noon.webp",
+      "ar": "ar-m-noon",
+      "en": "en-u4-w-noon",
+      "label_en": "noon"
+     },
+     "choices": [
+      {
+       "word": "noon",
+       "img": "pics/noon.webp",
+       "ar": "ar-m-noon",
+       "en": "en-u4-w-noon",
+       "label_en": "noon"
+      },
+      {
+       "word": "night",
+       "img": "pics/night.webp",
+       "ar": "ar-m-night",
+       "en": "en-u4-w-night",
+       "label_en": "night"
+      },
+      {
+       "word": "morning",
+       "img": "pics/morning.webp",
+       "ar": "ar-m-morning",
+       "en": "en-u4-w-morning",
+       "label_en": "morning"
+      }
+     ]
+    },
+    {
+     "context": {
+      "word": "dinner",
+      "img": "pics/dinner.webp",
+      "ar": "ar-m-dinner",
+      "en": "en-u4-w-dinner",
+      "label_en": "dinner"
+     },
+     "target": {
+      "word": "night",
+      "img": "pics/night.webp",
+      "ar": "ar-m-night",
+      "en": "en-u4-w-night",
+      "label_en": "night"
+     },
+     "choices": [
+      {
+       "word": "morning",
+       "img": "pics/morning.webp",
+       "ar": "ar-m-morning",
+       "en": "en-u4-w-morning",
+       "label_en": "morning"
+      },
+      {
+       "word": "noon",
+       "img": "pics/noon.webp",
+       "ar": "ar-m-noon",
+       "en": "en-u4-w-noon",
+       "label_en": "noon"
+      },
+      {
+       "word": "night",
+       "img": "pics/night.webp",
+       "ar": "ar-m-night",
+       "en": "en-u4-w-night",
+       "label_en": "night"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "k2u4p-listen",
+   "kind": "listen-choose",
+   "title_ar": "اسمع واختار الصورة",
+   "help": "اسمع الكلمة بالإنجليزي، وبعدها اختار صورتها. اختيار الصورة يسمّعك العربي وبعده الإنجليزي. نقدر نعيد ونجرب من غير درجات.",
+   "rounds": [
+    {
+     "target": {
+      "word": "wolf",
+      "img": "pics/wolf.webp",
+      "ar": "ar-m-wolf",
+      "en": "en-u4-w-wolf",
+      "label_en": "wolf"
+     },
+     "choices": [
+      {
+       "word": "camel",
+       "img": "pics/camel.webp",
+       "ar": "ar-m-camel",
+       "en": "en-u4-w-camel",
+       "label_en": "camel"
+      },
+      {
+       "word": "wolf",
+       "img": "pics/wolf.webp",
+       "ar": "ar-m-wolf",
+       "en": "en-u4-w-wolf",
+       "label_en": "wolf"
+      },
+      {
+       "word": "rabbit",
+       "img": "pics/rabbit.webp",
+       "ar": "next-ar-rabbit",
+       "en": "next-en-rabbit",
+       "label_en": "rabbit"
+      }
+     ]
+    },
+    {
+     "target": {
+      "word": "water",
+      "img": "pics/water.webp",
+      "ar": "ar-m-water",
+      "en": "en-u4-w-water",
+      "label_en": "water"
+     },
+     "choices": [
+      {
+       "word": "water",
+       "img": "pics/water.webp",
+       "ar": "ar-m-water",
+       "en": "en-u4-w-water",
+       "label_en": "water"
+      },
+      {
+       "word": "ruler",
+       "img": "pics/ruler.webp",
+       "ar": "ar-m-ruler",
+       "en": "en-u4-w-ruler",
+       "label_en": "ruler"
+      },
+      {
+       "word": "cat",
+       "img": "pics/cat.webp",
+       "ar": "ar-m-cat",
+       "en": "en-u4-w-cat",
+       "label_en": "cat"
+      }
+     ]
+    },
+    {
+     "target": {
+      "word": "watch",
+      "img": "pics/watch.webp",
+      "ar": "ar-m-watch",
+      "en": "en-u4-w-watch",
+      "label_en": "watch"
+     },
+     "choices": [
+      {
+       "word": "under",
+       "img": "pics/under.webp",
+       "ar": "ar-m-under",
+       "en": "en-u4-w-under",
+       "label_en": "under"
+      },
+      {
+       "word": "color",
+       "img": "pics/color.webp",
+       "ar": "next-ar-color",
+       "en": "next-en-color",
+       "label_en": "color"
+      },
+      {
+       "word": "watch",
+       "img": "pics/watch.webp",
+       "ar": "ar-m-watch",
+       "en": "en-u4-w-watch",
+       "label_en": "watch"
+      }
+     ]
+    },
+    {
+     "target": {
+      "word": "camel",
+      "img": "pics/camel.webp",
+      "ar": "ar-m-camel",
+      "en": "en-u4-w-camel",
+      "label_en": "camel"
+     },
+     "choices": [
+      {
+       "word": "rice",
+       "img": "pics/rice.webp",
+       "ar": "next-ar-rice",
+       "en": "next-en-rice",
+       "label_en": "rice"
+      },
+      {
+       "word": "camel",
+       "img": "pics/camel.webp",
+       "ar": "ar-m-camel",
+       "en": "en-u4-w-camel",
+       "label_en": "camel"
+      },
+      {
+       "word": "umbrella",
+       "img": "pics/umbrella.webp",
+       "ar": "ar-m-umbrella",
+       "en": "en-u4-w-umbrella",
+       "label_en": "umbrella"
+      }
+     ]
+    },
+    {
+     "target": {
+      "word": "cat",
+      "img": "pics/cat.webp",
+      "ar": "ar-m-cat",
+      "en": "en-u4-w-cat",
+      "label_en": "cat"
+     },
+     "choices": [
+      {
+       "word": "cat",
+       "img": "pics/cat.webp",
+       "ar": "ar-m-cat",
+       "en": "en-u4-w-cat",
+       "label_en": "cat"
+      },
+      {
+       "word": "wolf",
+       "img": "pics/wolf.webp",
+       "ar": "ar-m-wolf",
+       "en": "en-u4-w-wolf",
+       "label_en": "wolf"
+      },
+      {
+       "word": "rabbit",
+       "img": "pics/rabbit.webp",
+       "ar": "next-ar-rabbit",
+       "en": "next-en-rabbit",
+       "label_en": "rabbit"
+      }
+     ]
+    },
+    {
+     "target": {
+      "word": "color",
+      "img": "pics/color.webp",
+      "ar": "next-ar-color",
+      "en": "next-en-color",
+      "label_en": "color"
+     },
+     "choices": [
+      {
+       "word": "water",
+       "img": "pics/water.webp",
+       "ar": "ar-m-water",
+       "en": "en-u4-w-water",
+       "label_en": "water"
+      },
+      {
+       "word": "ruler",
+       "img": "pics/ruler.webp",
+       "ar": "ar-m-ruler",
+       "en": "en-u4-w-ruler",
+       "label_en": "ruler"
+      },
+      {
+       "word": "color",
+       "img": "pics/color.webp",
+       "ar": "next-ar-color",
+       "en": "next-en-color",
+       "label_en": "color"
+      }
+     ]
+    },
+    {
+     "target": {
+      "word": "rice",
+      "img": "pics/rice.webp",
+      "ar": "next-ar-rice",
+      "en": "next-en-rice",
+      "label_en": "rice"
+     },
+     "choices": [
+      {
+       "word": "under",
+       "img": "pics/under.webp",
+       "ar": "ar-m-under",
+       "en": "en-u4-w-under",
+       "label_en": "under"
+      },
+      {
+       "word": "rice",
+       "img": "pics/rice.webp",
+       "ar": "next-ar-rice",
+       "en": "next-en-rice",
+       "label_en": "rice"
+      },
+      {
+       "word": "watch",
+       "img": "pics/watch.webp",
+       "ar": "ar-m-watch",
+       "en": "en-u4-w-watch",
+       "label_en": "watch"
+      }
+     ]
+    },
+    {
+     "target": {
+      "word": "rabbit",
+      "img": "pics/rabbit.webp",
+      "ar": "next-ar-rabbit",
+      "en": "next-en-rabbit",
+      "label_en": "rabbit"
+     },
+     "choices": [
+      {
+       "word": "rabbit",
+       "img": "pics/rabbit.webp",
+       "ar": "next-ar-rabbit",
+       "en": "next-en-rabbit",
+       "label_en": "rabbit"
+      },
+      {
+       "word": "camel",
+       "img": "pics/camel.webp",
+       "ar": "ar-m-camel",
+       "en": "en-u4-w-camel",
+       "label_en": "camel"
+      },
+      {
+       "word": "umbrella",
+       "img": "pics/umbrella.webp",
+       "ar": "ar-m-umbrella",
+       "en": "en-u4-w-umbrella",
+       "label_en": "umbrella"
+      }
+     ]
+    },
+    {
+     "target": {
+      "word": "ruler",
+      "img": "pics/ruler.webp",
+      "ar": "ar-m-ruler",
+      "en": "en-u4-w-ruler",
+      "label_en": "ruler"
+     },
+     "choices": [
+      {
+       "word": "cat",
+       "img": "pics/cat.webp",
+       "ar": "ar-m-cat",
+       "en": "en-u4-w-cat",
+       "label_en": "cat"
+      },
+      {
+       "word": "wolf",
+       "img": "pics/wolf.webp",
+       "ar": "ar-m-wolf",
+       "en": "en-u4-w-wolf",
+       "label_en": "wolf"
+      },
+      {
+       "word": "ruler",
+       "img": "pics/ruler.webp",
+       "ar": "ar-m-ruler",
+       "en": "en-u4-w-ruler",
+       "label_en": "ruler"
+      }
+     ]
+    },
+    {
+     "target": {
+      "word": "under",
+      "img": "pics/under.webp",
+      "ar": "ar-m-under",
+      "en": "en-u4-w-under",
+      "label_en": "under"
+     },
+     "choices": [
+      {
+       "word": "water",
+       "img": "pics/water.webp",
+       "ar": "ar-m-water",
+       "en": "en-u4-w-water",
+       "label_en": "water"
+      },
+      {
+       "word": "under",
+       "img": "pics/under.webp",
+       "ar": "ar-m-under",
+       "en": "en-u4-w-under",
+       "label_en": "under"
+      },
+      {
+       "word": "color",
+       "img": "pics/color.webp",
+       "ar": "next-ar-color",
+       "en": "next-en-color",
+       "label_en": "color"
+      }
+     ]
+    },
+    {
+     "target": {
+      "word": "umbrella",
+      "img": "pics/umbrella.webp",
+      "ar": "ar-m-umbrella",
+      "en": "en-u4-w-umbrella",
+      "label_en": "umbrella"
+     },
+     "choices": [
+      {
+       "word": "umbrella",
+       "img": "pics/umbrella.webp",
+       "ar": "ar-m-umbrella",
+       "en": "en-u4-w-umbrella",
+       "label_en": "umbrella"
+      },
+      {
+       "word": "rice",
+       "img": "pics/rice.webp",
+       "ar": "next-ar-rice",
+       "en": "next-en-rice",
+       "label_en": "rice"
+      },
+      {
+       "word": "watch",
+       "img": "pics/watch.webp",
+       "ar": "ar-m-watch",
+       "en": "en-u4-w-watch",
+       "label_en": "watch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "k2u4p-match",
+   "kind": "match-pairs",
+   "title_ar": "لاقي نفس الصورة",
+   "help": "المس صورة من اليمين وبعدها نفس الصورة من الشمال. بنستخدم نفس الرسمة مرتين.",
+   "left": [
+    {
+     "word": "watch",
+     "img": "pics/watch.webp",
+     "ar": "ar-m-watch",
+     "en": "en-u4-w-watch",
+     "label_en": "watch"
+    },
+    {
+     "word": "cat",
+     "img": "pics/cat.webp",
+     "ar": "ar-m-cat",
+     "en": "en-u4-w-cat",
+     "label_en": "cat"
+    },
+    {
+     "word": "ruler",
+     "img": "pics/ruler.webp",
+     "ar": "ar-m-ruler",
+     "en": "en-u4-w-ruler",
+     "label_en": "ruler"
+    },
+    {
+     "word": "umbrella",
+     "img": "pics/umbrella.webp",
+     "ar": "ar-m-umbrella",
+     "en": "en-u4-w-umbrella",
+     "label_en": "umbrella"
+    }
+   ],
+   "right": [
+    {
+     "word": "ruler",
+     "img": "pics/ruler.webp",
+     "ar": "ar-m-ruler",
+     "en": "en-u4-w-ruler",
+     "label_en": "ruler"
+    },
+    {
+     "word": "umbrella",
+     "img": "pics/umbrella.webp",
+     "ar": "ar-m-umbrella",
+     "en": "en-u4-w-umbrella",
+     "label_en": "umbrella"
+    },
+    {
+     "word": "watch",
+     "img": "pics/watch.webp",
+     "ar": "ar-m-watch",
+     "en": "en-u4-w-watch",
+     "label_en": "watch"
+    },
+    {
+     "word": "cat",
+     "img": "pics/cat.webp",
+     "ar": "ar-m-cat",
+     "en": "en-u4-w-cat",
+     "label_en": "cat"
+    }
+   ]
+  },
+  {
+   "id": "k2u4p-initial",
+   "kind": "bucket",
+   "title_ar": "أول حرف في الكلمة",
+   "help": "اسمع معنى الصورة بالعربي وبعده الكلمة بالإنجليزي. اختار أول حرف بمساعدة شخص كبير. under معناها تحت، والصورة فيها كرة تحت ترابيزة. color اسم للّون، مش أمر بالتلوين. مفيش صوت حرف منفصل.",
+   "buckets": [
+    "Ww",
+    "Cc",
+    "Rr",
+    "Uu"
+   ],
+   "items": [
+    {
+     "word": "wolf",
+     "img": "pics/wolf.webp",
+     "ar": "ar-m-wolf",
+     "en": "en-u4-w-wolf",
+     "label_en": "wolf",
+     "ok": "Ww"
+    },
+    {
+     "word": "water",
+     "img": "pics/water.webp",
+     "ar": "ar-m-water",
+     "en": "en-u4-w-water",
+     "label_en": "water",
+     "ok": "Ww"
+    },
+    {
+     "word": "watch",
+     "img": "pics/watch.webp",
+     "ar": "ar-m-watch",
+     "en": "en-u4-w-watch",
+     "label_en": "watch",
+     "ok": "Ww"
+    },
+    {
+     "word": "camel",
+     "img": "pics/camel.webp",
+     "ar": "ar-m-camel",
+     "en": "en-u4-w-camel",
+     "label_en": "camel",
+     "ok": "Cc"
+    },
+    {
+     "word": "cat",
+     "img": "pics/cat.webp",
+     "ar": "ar-m-cat",
+     "en": "en-u4-w-cat",
+     "label_en": "cat",
+     "ok": "Cc"
+    },
+    {
+     "word": "color",
+     "img": "pics/color.webp",
+     "ar": "next-ar-color",
+     "en": "next-en-color",
+     "label_en": "color",
+     "ok": "Cc"
+    },
+    {
+     "word": "rice",
+     "img": "pics/rice.webp",
+     "ar": "next-ar-rice",
+     "en": "next-en-rice",
+     "label_en": "rice",
+     "ok": "Rr"
+    },
+    {
+     "word": "rabbit",
+     "img": "pics/rabbit.webp",
+     "ar": "next-ar-rabbit",
+     "en": "next-en-rabbit",
+     "label_en": "rabbit",
+     "ok": "Rr"
+    },
+    {
+     "word": "ruler",
+     "img": "pics/ruler.webp",
+     "ar": "ar-m-ruler",
+     "en": "en-u4-w-ruler",
+     "label_en": "ruler",
+     "ok": "Rr"
+    },
+    {
+     "word": "under",
+     "img": "pics/under.webp",
+     "ar": "ar-m-under",
+     "en": "en-u4-w-under",
+     "label_en": "under",
+     "ok": "Uu"
+    },
+    {
+     "word": "umbrella",
+     "img": "pics/umbrella.webp",
+     "ar": "ar-m-umbrella",
+     "en": "en-u4-w-umbrella",
+     "label_en": "umbrella",
+     "ok": "Uu"
+    }
+   ]
+  },
+  {
+   "id": "k2u4p-count",
+   "kind": "count-choose",
+   "title_ar": "عدّ تسعة وعشرة",
+   "help": "شاور على كل صورة مرة وعدّها. بنعدّ كل مجموعة لوحدها، وعدّ الكوبايات مش الميّه. الرسومات البديلة موجودة من قبل، مش صور الكتاب.",
+   "choices": [
+    9,
+    10
+   ],
+   "rounds": [
+    {
+     "img": "pics/camel.webp",
+     "repeat": 10,
+     "alt": "الجِمال",
+     "ok": 10
+    },
+    {
+     "img": "pics/water.webp",
+     "repeat": 9,
+     "alt": "كوبايات الميّه",
+     "ok": 9
+    },
+    {
+     "img": "pics/leaf.webp",
+     "repeat": 9,
+     "alt": "ورق الشجر",
+     "ok": 9
+    },
+    {
+     "img": "pics/flower.webp",
+     "repeat": 10,
+     "alt": "الزهور",
+     "ok": 10
+    }
+   ]
+  },
+  {
+   "id": "k2u4p-build",
+   "kind": "build-count",
+   "title_ar": "كوّن تسعة وعشرة",
+   "help": "اختار صور ورق الشجر لحد ما توصل للعدد المطلوب. تقدر تشيل اختيارك وتعدّ تاني. ده تدريب أصلي من غير درجات.",
+   "rounds": [
+    {
+     "word": {
+      "word": "leaf",
+      "img": "pics/leaf.webp",
+      "ar": "ar-m-leaf",
+      "en": "en-u3-w-leaf",
+      "label_en": "leaf"
+     },
+     "target": 9
+    },
+    {
+     "word": {
+      "word": "leaf",
+      "img": "pics/leaf.webp",
+      "ar": "ar-m-leaf",
+      "en": "en-u3-w-leaf",
+      "label_en": "leaf"
+     },
+     "target": 10
+    }
+   ]
+  }
+ ],
+ "held": [
+  "مفيش مفتاح لعدّ فاكهة القصة أو طريق متاهة."
+ ],
+ "source_context": {
+  "full_pdf_pages": [
+   87,
+   111
+  ],
+  "routine": [
+   88,
+   89,
+   107,
+   111
+  ],
+  "letters": [
+   92,
+   100,
+   103,
+   104,
+   109
+  ],
+  "counts": {
+   "99": {
+    "camels": 10,
+    "glasses": 9
+   },
+   "109": {
+    "leaves": 9,
+    "flowers": 10
+   }
+  },
+  "source_url": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/KG/KG2/Term1/StudentBook/English_language_kg2_t1.pdf"
+ }
+}

@@ -1,1 +1,757 @@
-{"schema":1,"source_hash":"84c7bdde462f1b9207baba73304fcbf5af9387626df5825d6bf7804475fcd1ac","preview_only":false,"units":[{"id":"kg1-t1-u2","n":2,"title_en":"I Can Find it at School!","title_ar":"أقدر ألاقيه في المدرسة!","activities":[{"id":"u2-a1","kind":"look-listen-point","words":["w-classroom","w-teacher","w-chair","w-desk","w-board","w-book","w-pencil","w-eraser","w-crayon","w-playground","w-swing","w-slide"],"game_ids":[],"game_feedback":{},"parent_guide":"شوفوا الصور والكلمات مع بعض. الصوت وألعاب السماع لسه قيد المراجعة.","instruction_audio":"aud-instr-u2-a1"},{"id":"u2-a3","kind":"sound-and-trace","letters":["l-s","l-a","l-n"],"game_ids":[],"game_feedback":{},"parent_guide":"نشوف الحروف والكلمات ونجرّب تتبّع S وA وN بإصبعنا. مفيش تقييم للنطق أو الخط.","instruction_audio":"aud-instr-u2-a3"},{"id":"u2-a4","kind":"count-color-shape","numbers":["n-2"],"game_ids":[],"game_feedback":{},"parent_guide":"عدّوا الحاجات بصوت عالي وبصباع الطفل. بعدين لوّنوا الشكل بنفس اللون المذكور.","instruction_audio":"aud-instr-u2-a4"},{"id":"u2-a7","kind":"color","game_ids":[],"game_feedback":{},"parent_guide":"تلوين حر لحاجات الفصل.","instruction_audio":"aud-instr-u2-a7"},{"id":"u2-a8","kind":"story","panels":["Good morning, class. Today we will learn about classroom objects.","I will color the flower with my crayon.","Hello, Selim. I have a new pencil.","Don't forget to use your eraser if you make a mistake."],"game_ids":[],"game_feedback":{},"parent_guide":"اتفرجوا على القصة والطفل يمثّل: يمسك قلم، يلوّن، يمسح بالأستيكة. الفكرة: مفيش مشكلة لو غلطت، المحي حل.","instruction_audio":"aud-instr-u2-a8"},{"id":"u2-a9","kind":"project","materials_en":["paper","crayons","glue","scissors","craft sticks"],"game_ids":[],"game_feedback":{},"parent_guide":"مشروع يدوي: شنطة مدرسة من ورق. الطفل يعرضها ويقول This is my school bag. صوّره فيديو لو حابب وانت بتحتفظ بيه مش بيترفع.","instruction_audio":"aud-instr-u2-a9"}]}],"vocab":[{"id":"w-classroom","en":"classroom","ar_gloss":"فصل","unit":2,"image_id":"img-w-classroom","audio_id":"aud-word-w-classroom"},{"id":"w-teacher","en":"teacher","ar_gloss":"مدرّسة/مدرّس","unit":2,"image_id":"img-w-teacher","audio_id":"aud-word-w-teacher"},{"id":"w-chair","en":"chair","ar_gloss":"كرسي","unit":2,"image_id":"img-w-chair","audio_id":"aud-word-w-chair"},{"id":"w-desk","en":"desk","ar_gloss":"درج/ترابيزة المدرسة","unit":2,"image_id":"img-w-desk","audio_id":"aud-word-w-desk"},{"id":"w-board","en":"board","ar_gloss":"سبورة","unit":2,"image_id":"img-w-board","audio_id":"aud-word-w-board"},{"id":"w-book","en":"book","ar_gloss":"كتاب","unit":2,"image_id":"img-w-book","audio_id":"aud-word-w-book"},{"id":"w-pencil","en":"pencil","ar_gloss":"قلم رصاص","unit":2,"image_id":"img-w-pencil","audio_id":"aud-word-w-pencil"},{"id":"w-eraser","en":"eraser","ar_gloss":"أستيكة","unit":2,"image_id":"img-w-eraser","audio_id":"aud-word-w-eraser"},{"id":"w-crayon","en":"crayon","ar_gloss":"قلم شمع","unit":2,"image_id":"img-w-crayon","audio_id":"aud-word-w-crayon"},{"id":"w-playground","en":"playground","ar_gloss":"ملعب","unit":2,"image_id":"img-w-playground","audio_id":"aud-word-w-playground"},{"id":"w-swing","en":"swing","ar_gloss":"أرجوحة","unit":2,"image_id":"img-w-swing","audio_id":"aud-word-w-swing"},{"id":"w-slide","en":"slide","ar_gloss":"زحلقة","unit":2,"image_id":"img-w-slide","audio_id":"aud-word-w-slide"}],"letters":[{"id":"l-s","unit":2,"upper":"S","lower":"s","letter_name":"ess","sound_taught":"/s/","ipa":"s","trace_path_upper":"Start at the top right, curve left and around, then curve right and down like a snake.","trace_path_lower":"Same snake as S, small."},{"id":"l-a","unit":2,"upper":"A","lower":"a","letter_name":"ay","sound_taught":"short /a/","ipa":"æ","trace_path_upper":"Slant down to the left. Lift. Slant down to the right from the top. Lift. Go across the middle.","trace_path_lower":"Stroke 1: a short line straight down on the right. Stroke 2: go round the circle, counter-clockwise."},{"id":"l-n","unit":2,"upper":"N","lower":"n","letter_name":"en","sound_taught":"/n/","ipa":"n","trace_path_upper":"Go straight down. Lift. Slant down from the top-left to the bottom-right. Lift. Go straight up on the right.","trace_path_lower":"Go straight down. Go back up, then over the hump and down."}],"numbers":[{"id":"n-2","number":2,"unit":2,"color":"blue","shape":"square","count_sentences":["I can see 2 chairs.","I can see 2 pencils."],"printed_pages":[25,26,27]}],"colors":[{"id":"c-red","en":"red","ar":"أحمر"},{"id":"c-blue","en":"blue","ar":"أزرق"},{"id":"c-yellow","en":"yellow","ar":"أصفر"},{"id":"c-green","en":"green","ar":"أخضر"},{"id":"c-orange","en":"orange","ar":"برتقالي"}],"shapes":[{"id":"s-circle","en":"circle","ar":"دايرة"},{"id":"s-square","en":"square","ar":"مربع"},{"id":"s-star","en":"star","ar":"نجمة"},{"id":"s-heart","en":"heart","ar":"قلب"},{"id":"s-triangle","en":"triangle","ar":"مثلث"}],"media":{},"games":[],"stories":[{"activity":"u2-a8","printed_pages":[34],"panels":[{"n":1,"image":"img-story-u2-a8-p1","narration_audio":["aud-story-u2-a8-p1-l1"]},{"n":2,"image":"img-story-u2-a8-p2","narration_audio":["aud-story-u2-a8-p2-l1"]},{"n":3,"image":"img-story-u2-a8-p3","narration_audio":["aud-story-u2-a8-p3-l1"]},{"n":4,"image":"img-story-u2-a8-p4","narration_audio":["aud-story-u2-a8-p4-l1"]}]}],"letter_words":[{"letter":"l-s","word":"star","image":"img-star","audio":"aud-word-star"},{"letter":"l-s","word":"sun","image":"img-sun","audio":"aud-word-sun"},{"letter":"l-s","word":"school","image":"img-school","audio":"aud-word-school"},{"letter":"l-a","word":"apple","image":"img-apple","audio":"aud-word-apple"},{"letter":"l-a","word":"ant","image":"img-ant","audio":"aud-word-ant"},{"letter":"l-n","word":"nest","image":"img-nest","audio":"aud-word-nest"},{"letter":"l-n","word":"night","image":"img-night","audio":"aud-word-night"},{"letter":"l-n","word":"numbers","image":"img-numbers","audio":"aud-word-numbers"}],"activity_media":[{"activity":"u2-a1","kind":"look-listen-point","unit":2,"images":["img-w-classroom","img-w-teacher","img-w-chair","img-w-desk","img-w-board","img-w-book","img-w-pencil","img-w-eraser","img-w-crayon","img-w-playground","img-w-swing","img-w-slide"],"audio":["aud-instr-u2-a1","aud-parent-u2-a1","aud-word-w-classroom","aud-word-w-teacher","aud-word-w-chair","aud-word-w-desk","aud-word-w-board","aud-word-w-book","aud-word-w-pencil","aud-word-w-eraser","aud-word-w-crayon","aud-word-w-playground","aud-word-w-swing","aud-word-w-slide"],"anim":[]},{"activity":"u2-a2","kind":"hear-and-tap","unit":2,"images":[],"audio":["aud-instr-u2-a2","aud-parent-u2-a2"],"anim":[]},{"activity":"u2-a3","kind":"sound-and-trace","unit":2,"images":["img-letter-s","img-star","img-sun","img-school","img-letter-a","img-apple","img-ant","img-letter-n","img-nest","img-night","img-numbers"],"audio":["aud-instr-u2-a3","aud-parent-u2-a3","aud-phoneme-s","aud-word-star","aud-word-sun","aud-word-school","aud-phoneme-a","aud-word-apple","aud-word-ant","aud-phoneme-n","aud-word-nest","aud-word-night","aud-word-numbers"],"anim":["anim-trace-s-upper","anim-trace-s-lower","anim-trace-a-upper","anim-trace-a-lower","anim-trace-n-upper","anim-trace-n-lower"]},{"activity":"u2-a4","kind":"count-color-shape","unit":2,"images":["img-count-2-a","img-count-2-b","img-color-blue","img-shape-square-filled","img-shape-square-outline"],"audio":["aud-instr-u2-a4","aud-parent-u2-a4","aud-number-2","aud-count-2-1","aud-count-2-2","aud-color-blue","aud-shape-square"],"anim":["anim-trace-n-2"]},{"activity":"u2-a5","kind":"look-listen-circle","unit":2,"images":["img-w-swing","img-w-slide","img-pointer-circle-hint"],"audio":["aud-instr-u2-a5","aud-parent-u2-a5","aud-word-w-swing","aud-word-w-slide"],"anim":[]},{"activity":"u2-a6","kind":"circle-matching-letter","unit":2,"images":["img-star","img-letter-s","img-ant","img-letter-a","img-nest","img-letter-n"],"audio":["aud-instr-u2-a6","aud-parent-u2-a6","aud-word-star","aud-word-ant","aud-word-nest"],"anim":[]},{"activity":"u2-a7","kind":"color","unit":2,"images":["img-colorpage-u2-a7"],"audio":["aud-instr-u2-a7","aud-parent-u2-a7"],"anim":[]},{"activity":"u2-a8","kind":"story","unit":2,"images":[],"audio":["aud-instr-u2-a8","aud-parent-u2-a8"],"anim":[]},{"activity":"u2-a9","kind":"project","unit":2,"images":["img-project-u2-a9-sample","img-project-u2-a9-template"],"audio":["aud-instr-u2-a9","aud-parent-u2-a9","aud-say-u2-a9"],"anim":[]}],"geometry":{"triangle-red.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZGI1MDUwIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAyNCBMMTgzIDE2OSBMMTcgMTY5IFoiLz48L2c+PC9zdmc+","heart-orange.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZWM5MTNjIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxNzMgQzY3IDE0MyAyMyAxMTEgMjMgNjggQzIzIDE5IDgxIDE4IDEwMCA1NiBDMTE5IDE4IDE3NyAxOSAxNzcgNjggQzE3NyAxMTEgMTMzIDE0MyAxMDAgMTczIFoiLz48L2c+PC9zdmc+","square-blue.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNGQ4MmM0IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMzEiIHk9IjMxIiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEzOCIvPjwvZz48L3N2Zz4=","heart.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxNzMgQzY3IDE0MyAyMyAxMTEgMjMgNjggQzIzIDE5IDgxIDE4IDEwMCA1NiBDMTE5IDE4IDE3NyAxOSAxNzcgNjggQzE3NyAxMTEgMTMzIDE0MyAxMDAgMTczIFoiLz48L2c+PC9zdmc+","star-green.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNjRhNDZhIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxOSBMMTI0IDcwIEwxODAgNzcgTDEzOSAxMTYgTDE0OSAxNzQgTDEwMCAxNDcgTDUxIDE3NCBMNjEgMTE2IEwyMCA3NyBMNzYgNzAgWiIvPjwvZz48L3N2Zz4=","circle.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI3MiIvPjwvZz48L3N2Zz4=","circle-outline.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI3MiIvPjwvZz48L3N2Zz4=","heart-blue.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNGQ4MmM0IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxNzMgQzY3IDE0MyAyMyAxMTEgMjMgNjggQzIzIDE5IDgxIDE4IDEwMCA1NiBDMTE5IDE4IDE3NyAxOSAxNzcgNjggQzE3NyAxMTEgMTMzIDE0MyAxMDAgMTczIFoiLz48L2c+PC9zdmc+","star-red.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZGI1MDUwIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxOSBMMTI0IDcwIEwxODAgNzcgTDEzOSAxMTYgTDE0OSAxNzQgTDEwMCAxNDcgTDUxIDE3NCBMNjEgMTE2IEwyMCA3NyBMNzYgNzAgWiIvPjwvZz48L3N2Zz4=","square-red.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZGI1MDUwIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMzEiIHk9IjMxIiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEzOCIvPjwvZz48L3N2Zz4=","triangle.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAyNCBMMTgzIDE2OSBMMTcgMTY5IFoiLz48L2c+PC9zdmc+","star-blue.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNGQ4MmM0IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxOSBMMTI0IDcwIEwxODAgNzcgTDEzOSAxMTYgTDE0OSAxNzQgTDEwMCAxNDcgTDUxIDE3NCBMNjEgMTE2IEwyMCA3NyBMNzYgNzAgWiIvPjwvZz48L3N2Zz4=","square-yellow.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZTZiZjM4IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMzEiIHk9IjMxIiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEzOCIvPjwvZz48L3N2Zz4=","star-outline.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxOSBMMTI0IDcwIEwxODAgNzcgTDEzOSAxMTYgTDE0OSAxNzQgTDEwMCAxNDcgTDUxIDE3NCBMNjEgMTE2IEwyMCA3NyBMNzYgNzAgWiIvPjwvZz48L3N2Zz4=","circle-blue.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNGQ4MmM0IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI3MiIvPjwvZz48L3N2Zz4=","square.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMzEiIHk9IjMxIiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEzOCIvPjwvZz48L3N2Zz4=","circle-green.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNjRhNDZhIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI3MiIvPjwvZz48L3N2Zz4=","circle-orange.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZWM5MTNjIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI3MiIvPjwvZz48L3N2Zz4=","heart-green.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNjRhNDZhIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxNzMgQzY3IDE0MyAyMyAxMTEgMjMgNjggQzIzIDE5IDgxIDE4IDEwMCA1NiBDMTE5IDE4IDE3NyAxOSAxNzcgNjggQzE3NyAxMTEgMTMzIDE0MyAxMDAgMTczIFoiLz48L2c+PC9zdmc+","square-orange.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZWM5MTNjIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMzEiIHk9IjMxIiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEzOCIvPjwvZz48L3N2Zz4=","star-yellow.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZTZiZjM4IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxOSBMMTI0IDcwIEwxODAgNzcgTDEzOSAxMTYgTDE0OSAxNzQgTDEwMCAxNDcgTDUxIDE3NCBMNjEgMTE2IEwyMCA3NyBMNzYgNzAgWiIvPjwvZz48L3N2Zz4=","circle-red.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZGI1MDUwIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI3MiIvPjwvZz48L3N2Zz4=","triangle-green.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNjRhNDZhIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAyNCBMMTgzIDE2OSBMMTcgMTY5IFoiLz48L2c+PC9zdmc+","heart-yellow.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZTZiZjM4IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxNzMgQzY3IDE0MyAyMyAxMTEgMjMgNjggQzIzIDE5IDgxIDE4IDEwMCA1NiBDMTE5IDE4IDE3NyAxOSAxNzcgNjggQzE3NyAxMTEgMTMzIDE0MyAxMDAgMTczIFoiLz48L2c+PC9zdmc+","triangle-yellow.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZTZiZjM4IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAyNCBMMTgzIDE2OSBMMTcgMTY5IFoiLz48L2c+PC9zdmc+","triangle-orange.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZWM5MTNjIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAyNCBMMTgzIDE2OSBMMTcgMTY5IFoiLz48L2c+PC9zdmc+","star.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxOSBMMTI0IDcwIEwxODAgNzcgTDEzOSAxMTYgTDE0OSAxNzQgTDEwMCAxNDcgTDUxIDE3NCBMNjEgMTE2IEwyMCA3NyBMNzYgNzAgWiIvPjwvZz48L3N2Zz4=","triangle-outline.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAyNCBMMTgzIDE2OSBMMTcgMTY5IFoiLz48L2c+PC9zdmc+","triangle-blue.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNGQ4MmM0IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAyNCBMMTgzIDE2OSBMMTcgMTY5IFoiLz48L2c+PC9zdmc+","circle-yellow.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZTZiZjM4IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI3MiIvPjwvZz48L3N2Zz4=","square-green.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNjRhNDZhIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMzEiIHk9IjMxIiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEzOCIvPjwvZz48L3N2Zz4=","star-orange.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZWM5MTNjIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxOSBMMTI0IDcwIEwxODAgNzcgTDEzOSAxMTYgTDE0OSAxNzQgTDEwMCAxNDcgTDUxIDE3NCBMNjEgMTE2IEwyMCA3NyBMNzYgNzAgWiIvPjwvZz48L3N2Zz4=","heart-red.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZGI1MDUwIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxNzMgQzY3IDE0MyAyMyAxMTEgMjMgNjggQzIzIDE5IDgxIDE4IDEwMCA1NiBDMTE5IDE4IDE3NyAxOSAxNzcgNjggQzE3NyAxMTEgMTMzIDE0MyAxMDAgMTczIFoiLz48L2c+PC9zdmc+","heart-outline.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxNzMgQzY3IDE0MyAyMyAxMTEgMjMgNjggQzIzIDE5IDgxIDE4IDEwMCA1NiBDMTE5IDE4IDE3NyAxOSAxNzcgNjggQzE3NyAxMTEgMTMzIDE0MyAxMDAgMTczIFoiLz48L2c+PC9zdmc+","square-outline.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMzEiIHk9IjMxIiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEzOCIvPjwvZz48L3N2Zz4="},"release_scope":"unit2-visual-practice"}
+{
+  "schema": 1,
+  "source_hash": "84c7bdde462f1b9207baba73304fcbf5af9387626df5825d6bf7804475fcd1ac",
+  "preview_only": false,
+  "units": [
+    {
+      "id": "kg1-t1-u2",
+      "n": 2,
+      "title_en": "I Can Find it at School!",
+      "title_ar": "أقدر ألاقيه في المدرسة!",
+      "activities": [
+        {
+          "id": "u2-a1",
+          "kind": "look-listen-point",
+          "words": [
+            "w-classroom",
+            "w-teacher",
+            "w-chair",
+            "w-desk",
+            "w-board",
+            "w-book",
+            "w-pencil",
+            "w-eraser",
+            "w-crayon",
+            "w-playground",
+            "w-swing",
+            "w-slide"
+          ],
+          "game_ids": [],
+          "game_feedback": {},
+          "parent_guide": "شوفوا الصور والكلمات مع بعض. الصوت وألعاب السماع لسه قيد المراجعة.",
+          "instruction_audio": "aud-instr-u2-a1"
+        },
+        {
+          "id": "u2-a3",
+          "kind": "sound-and-trace",
+          "letters": [
+            "l-s",
+            "l-a",
+            "l-n"
+          ],
+          "game_ids": [],
+          "game_feedback": {},
+          "parent_guide": "نشوف الحروف والكلمات ونجرّب تتبّع S وA وN بإصبعنا. مفيش تقييم للنطق أو الخط.",
+          "instruction_audio": "aud-instr-u2-a3"
+        },
+        {
+          "id": "u2-a4",
+          "kind": "count-color-shape",
+          "numbers": [
+            "n-2"
+          ],
+          "game_ids": [],
+          "game_feedback": {},
+          "parent_guide": "عدّوا الحاجات بصوت عالي وبصباع الطفل. بعدين لوّنوا الشكل بنفس اللون المذكور.",
+          "instruction_audio": "aud-instr-u2-a4"
+        },
+        {
+          "id": "u2-a7",
+          "kind": "color",
+          "game_ids": [],
+          "game_feedback": {},
+          "parent_guide": "تلوين حر لحاجات الفصل.",
+          "instruction_audio": "aud-instr-u2-a7"
+        },
+        {
+          "id": "u2-a8",
+          "kind": "story",
+          "panels": [
+            "Good morning, class. Today we will learn about classroom objects.",
+            "I will color the flower with my crayon.",
+            "Hello, Selim. I have a new pencil.",
+            "Don't forget to use your eraser if you make a mistake."
+          ],
+          "game_ids": [],
+          "game_feedback": {},
+          "parent_guide": "اتفرجوا على القصة والطفل يمثّل: يمسك قلم، يلوّن، يمسح بالأستيكة. الفكرة: مفيش مشكلة لو غلطت، المحي حل.",
+          "instruction_audio": "aud-instr-u2-a8"
+        },
+        {
+          "id": "u2-a9",
+          "kind": "project",
+          "materials_en": [
+            "paper",
+            "crayons",
+            "glue",
+            "scissors",
+            "craft sticks"
+          ],
+          "game_ids": [],
+          "game_feedback": {},
+          "parent_guide": "مشروع يدوي: شنطة مدرسة من ورق. الطفل يعرضها ويقول This is my school bag. صوّره فيديو لو حابب وانت بتحتفظ بيه مش بيترفع.",
+          "instruction_audio": "aud-instr-u2-a9"
+        },
+        {
+          "kind": "original-practice",
+          "game_ids": [],
+          "game_feedback": {},
+          "parent_guide": "تدريب أصلي من إعداد الموقع بفكرة من كتاب الوزارة، مش نسخة من صفحة أو امتحان. شخص كبير يساعد في قراءة السؤال. نستخدم صور وأصوات الكلمات الموجودة، عربي ثم إنجليزي، من غير تخمين صوت حرف منفرد أو تسجيل أو درجات.",
+          "id": "u2-a10",
+          "original_practice": {
+            "title_ar": "نختار لعبة الملعب",
+            "source_pdf_pages": [
+              25
+            ],
+            "adaptation_note": "Original adult-read swing/slide picture choices. The source listening track is not supplied and is not reconstructed or claimed.",
+            "rounds": [
+              {
+                "kind": "picture",
+                "prompt_ar": "شخص كبير يقرا: فين صورة الـمرجيحة؟",
+                "picture_choices": [
+                  "img-w-slide",
+                  "img-w-swing",
+                  "img-w-book",
+                  "img-w-eraser"
+                ],
+                "answer": "img-w-swing",
+                "answer_word": "w-swing",
+                "success_ar": "لقينا الصورة. نسمع اسمها عربي وبعده إنجليزي.",
+                "retry_ar": "نبص على شكل ألعاب الملعب ونجرب تاني."
+              },
+              {
+                "kind": "picture",
+                "prompt_ar": "شخص كبير يقرا: فين صورة الـزحليقة؟",
+                "picture_choices": [
+                  "img-w-swing",
+                  "img-w-eraser",
+                  "img-w-slide",
+                  "img-w-book"
+                ],
+                "answer": "img-w-slide",
+                "answer_word": "w-slide",
+                "success_ar": "لقينا الصورة. نسمع اسمها عربي وبعده إنجليزي.",
+                "retry_ar": "نبص على شكل ألعاب الملعب ونجرب تاني."
+              }
+            ]
+          }
+        },
+        {
+          "kind": "original-practice",
+          "game_ids": [],
+          "game_feedback": {},
+          "parent_guide": "تدريب أصلي من إعداد الموقع بفكرة من كتاب الوزارة، مش نسخة من صفحة أو امتحان. شخص كبير يساعد في قراءة السؤال. نستخدم صور وأصوات الكلمات الموجودة، عربي ثم إنجليزي، من غير تخمين صوت حرف منفرد أو تسجيل أو درجات.",
+          "id": "u2-a11",
+          "original_practice": {
+            "title_ar": "أول حرف: S و A و N",
+            "source_pdf_pages": [
+              36
+            ],
+            "adaptation_note": "Reverses source letter-to-picture direction into picture-to-letter, using star/ant/nest; no claim of exact worksheet clone.",
+            "rounds": [
+              {
+                "kind": "category",
+                "image": "img-star",
+                "letter_word": "star",
+                "answer_letter_word": "star",
+                "sound_label": "نسمع اسم الصورة: عربي ثم إنجليزي",
+                "prompt_ar": "نسمع اسم الصورة مع شخص كبير، وبعدين نختار أول حرف في الكلمة.",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "A a"
+                  },
+                  {
+                    "id": "S",
+                    "label": "S s"
+                  },
+                  {
+                    "id": "N",
+                    "label": "N n"
+                  }
+                ],
+                "answer": "S",
+                "success_ar": "لقينا أول حرف. نسمع الكلمة كاملة مرة كمان.",
+                "retry_ar": "نسمع اسم الصورة تاني بالراحة، ونجرب حرف تاني."
+              },
+              {
+                "kind": "category",
+                "image": "img-ant",
+                "letter_word": "ant",
+                "answer_letter_word": "ant",
+                "sound_label": "نسمع اسم الصورة: عربي ثم إنجليزي",
+                "prompt_ar": "نسمع اسم الصورة مع شخص كبير، وبعدين نختار أول حرف في الكلمة.",
+                "choices": [
+                  {
+                    "id": "N",
+                    "label": "N n"
+                  },
+                  {
+                    "id": "S",
+                    "label": "S s"
+                  },
+                  {
+                    "id": "A",
+                    "label": "A a"
+                  }
+                ],
+                "answer": "A",
+                "success_ar": "لقينا أول حرف. نسمع الكلمة كاملة مرة كمان.",
+                "retry_ar": "نسمع اسم الصورة تاني بالراحة، ونجرب حرف تاني."
+              },
+              {
+                "kind": "category",
+                "image": "img-nest",
+                "letter_word": "nest",
+                "answer_letter_word": "nest",
+                "sound_label": "نسمع اسم الصورة: عربي ثم إنجليزي",
+                "prompt_ar": "نسمع اسم الصورة مع شخص كبير، وبعدين نختار أول حرف في الكلمة.",
+                "choices": [
+                  {
+                    "id": "N",
+                    "label": "N n"
+                  },
+                  {
+                    "id": "A",
+                    "label": "A a"
+                  },
+                  {
+                    "id": "S",
+                    "label": "S s"
+                  }
+                ],
+                "answer": "N",
+                "success_ar": "لقينا أول حرف. نسمع الكلمة كاملة مرة كمان.",
+                "retry_ar": "نسمع اسم الصورة تاني بالراحة، ونجرب حرف تاني."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "id": "w-classroom",
+      "en": "classroom",
+      "ar_gloss": "فصل",
+      "unit": 2,
+      "image_id": "img-w-classroom",
+      "audio_id": "aud-word-w-classroom"
+    },
+    {
+      "id": "w-teacher",
+      "en": "teacher",
+      "ar_gloss": "مدرّسة/مدرّس",
+      "unit": 2,
+      "image_id": "img-w-teacher",
+      "audio_id": "aud-word-w-teacher"
+    },
+    {
+      "id": "w-chair",
+      "en": "chair",
+      "ar_gloss": "كرسي",
+      "unit": 2,
+      "image_id": "img-w-chair",
+      "audio_id": "aud-word-w-chair"
+    },
+    {
+      "id": "w-desk",
+      "en": "desk",
+      "ar_gloss": "درج/ترابيزة المدرسة",
+      "unit": 2,
+      "image_id": "img-w-desk",
+      "audio_id": "aud-word-w-desk"
+    },
+    {
+      "id": "w-board",
+      "en": "board",
+      "ar_gloss": "سبورة",
+      "unit": 2,
+      "image_id": "img-w-board",
+      "audio_id": "aud-word-w-board"
+    },
+    {
+      "id": "w-book",
+      "en": "book",
+      "ar_gloss": "كتاب",
+      "unit": 2,
+      "image_id": "img-w-book",
+      "audio_id": "aud-word-w-book"
+    },
+    {
+      "id": "w-pencil",
+      "en": "pencil",
+      "ar_gloss": "قلم رصاص",
+      "unit": 2,
+      "image_id": "img-w-pencil",
+      "audio_id": "aud-word-w-pencil"
+    },
+    {
+      "id": "w-eraser",
+      "en": "eraser",
+      "ar_gloss": "أستيكة",
+      "unit": 2,
+      "image_id": "img-w-eraser",
+      "audio_id": "aud-word-w-eraser"
+    },
+    {
+      "id": "w-crayon",
+      "en": "crayon",
+      "ar_gloss": "قلم شمع",
+      "unit": 2,
+      "image_id": "img-w-crayon",
+      "audio_id": "aud-word-w-crayon"
+    },
+    {
+      "id": "w-playground",
+      "en": "playground",
+      "ar_gloss": "ملعب",
+      "unit": 2,
+      "image_id": "img-w-playground",
+      "audio_id": "aud-word-w-playground"
+    },
+    {
+      "id": "w-swing",
+      "en": "swing",
+      "ar_gloss": "أرجوحة",
+      "unit": 2,
+      "image_id": "img-w-swing",
+      "audio_id": "aud-word-w-swing"
+    },
+    {
+      "id": "w-slide",
+      "en": "slide",
+      "ar_gloss": "زحلقة",
+      "unit": 2,
+      "image_id": "img-w-slide",
+      "audio_id": "aud-word-w-slide"
+    }
+  ],
+  "letters": [
+    {
+      "id": "l-s",
+      "unit": 2,
+      "upper": "S",
+      "lower": "s",
+      "letter_name": "ess",
+      "sound_taught": "/s/",
+      "ipa": "s",
+      "trace_path_upper": "Start at the top right, curve left and around, then curve right and down like a snake.",
+      "trace_path_lower": "Same snake as S, small."
+    },
+    {
+      "id": "l-a",
+      "unit": 2,
+      "upper": "A",
+      "lower": "a",
+      "letter_name": "ay",
+      "sound_taught": "short /a/",
+      "ipa": "æ",
+      "trace_path_upper": "Slant down to the left. Lift. Slant down to the right from the top. Lift. Go across the middle.",
+      "trace_path_lower": "Stroke 1: a short line straight down on the right. Stroke 2: go round the circle, counter-clockwise."
+    },
+    {
+      "id": "l-n",
+      "unit": 2,
+      "upper": "N",
+      "lower": "n",
+      "letter_name": "en",
+      "sound_taught": "/n/",
+      "ipa": "n",
+      "trace_path_upper": "Go straight down. Lift. Slant down from the top-left to the bottom-right. Lift. Go straight up on the right.",
+      "trace_path_lower": "Go straight down. Go back up, then over the hump and down."
+    }
+  ],
+  "numbers": [
+    {
+      "id": "n-2",
+      "number": 2,
+      "unit": 2,
+      "color": "blue",
+      "shape": "square",
+      "count_sentences": [
+        "I can see 2 chairs.",
+        "I can see 2 pencils."
+      ],
+      "printed_pages": [
+        25,
+        26,
+        27
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": "c-red",
+      "en": "red",
+      "ar": "أحمر"
+    },
+    {
+      "id": "c-blue",
+      "en": "blue",
+      "ar": "أزرق"
+    },
+    {
+      "id": "c-yellow",
+      "en": "yellow",
+      "ar": "أصفر"
+    },
+    {
+      "id": "c-green",
+      "en": "green",
+      "ar": "أخضر"
+    },
+    {
+      "id": "c-orange",
+      "en": "orange",
+      "ar": "برتقالي"
+    }
+  ],
+  "shapes": [
+    {
+      "id": "s-circle",
+      "en": "circle",
+      "ar": "دايرة"
+    },
+    {
+      "id": "s-square",
+      "en": "square",
+      "ar": "مربع"
+    },
+    {
+      "id": "s-star",
+      "en": "star",
+      "ar": "نجمة"
+    },
+    {
+      "id": "s-heart",
+      "en": "heart",
+      "ar": "قلب"
+    },
+    {
+      "id": "s-triangle",
+      "en": "triangle",
+      "ar": "مثلث"
+    }
+  ],
+  "media": {},
+  "games": [],
+  "stories": [
+    {
+      "activity": "u2-a8",
+      "printed_pages": [
+        34
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "image": "img-story-u2-a8-p1",
+          "narration_audio": [
+            "aud-story-u2-a8-p1-l1"
+          ]
+        },
+        {
+          "n": 2,
+          "image": "img-story-u2-a8-p2",
+          "narration_audio": [
+            "aud-story-u2-a8-p2-l1"
+          ]
+        },
+        {
+          "n": 3,
+          "image": "img-story-u2-a8-p3",
+          "narration_audio": [
+            "aud-story-u2-a8-p3-l1"
+          ]
+        },
+        {
+          "n": 4,
+          "image": "img-story-u2-a8-p4",
+          "narration_audio": [
+            "aud-story-u2-a8-p4-l1"
+          ]
+        }
+      ]
+    }
+  ],
+  "letter_words": [
+    {
+      "letter": "l-s",
+      "word": "star",
+      "image": "img-star",
+      "audio": "aud-word-star"
+    },
+    {
+      "letter": "l-s",
+      "word": "sun",
+      "image": "img-sun",
+      "audio": "aud-word-sun"
+    },
+    {
+      "letter": "l-s",
+      "word": "school",
+      "image": "img-school",
+      "audio": "aud-word-school"
+    },
+    {
+      "letter": "l-a",
+      "word": "apple",
+      "image": "img-apple",
+      "audio": "aud-word-apple"
+    },
+    {
+      "letter": "l-a",
+      "word": "ant",
+      "image": "img-ant",
+      "audio": "aud-word-ant"
+    },
+    {
+      "letter": "l-n",
+      "word": "nest",
+      "image": "img-nest",
+      "audio": "aud-word-nest"
+    },
+    {
+      "letter": "l-n",
+      "word": "night",
+      "image": "img-night",
+      "audio": "aud-word-night"
+    },
+    {
+      "letter": "l-n",
+      "word": "numbers",
+      "image": "img-numbers",
+      "audio": "aud-word-numbers"
+    }
+  ],
+  "activity_media": [
+    {
+      "activity": "u2-a1",
+      "kind": "look-listen-point",
+      "unit": 2,
+      "images": [
+        "img-w-classroom",
+        "img-w-teacher",
+        "img-w-chair",
+        "img-w-desk",
+        "img-w-board",
+        "img-w-book",
+        "img-w-pencil",
+        "img-w-eraser",
+        "img-w-crayon",
+        "img-w-playground",
+        "img-w-swing",
+        "img-w-slide"
+      ],
+      "audio": [
+        "aud-instr-u2-a1",
+        "aud-parent-u2-a1",
+        "aud-word-w-classroom",
+        "aud-word-w-teacher",
+        "aud-word-w-chair",
+        "aud-word-w-desk",
+        "aud-word-w-board",
+        "aud-word-w-book",
+        "aud-word-w-pencil",
+        "aud-word-w-eraser",
+        "aud-word-w-crayon",
+        "aud-word-w-playground",
+        "aud-word-w-swing",
+        "aud-word-w-slide"
+      ],
+      "anim": []
+    },
+    {
+      "activity": "u2-a2",
+      "kind": "hear-and-tap",
+      "unit": 2,
+      "images": [],
+      "audio": [
+        "aud-instr-u2-a2",
+        "aud-parent-u2-a2"
+      ],
+      "anim": []
+    },
+    {
+      "activity": "u2-a3",
+      "kind": "sound-and-trace",
+      "unit": 2,
+      "images": [
+        "img-letter-s",
+        "img-star",
+        "img-sun",
+        "img-school",
+        "img-letter-a",
+        "img-apple",
+        "img-ant",
+        "img-letter-n",
+        "img-nest",
+        "img-night",
+        "img-numbers"
+      ],
+      "audio": [
+        "aud-instr-u2-a3",
+        "aud-parent-u2-a3",
+        "aud-phoneme-s",
+        "aud-word-star",
+        "aud-word-sun",
+        "aud-word-school",
+        "aud-phoneme-a",
+        "aud-word-apple",
+        "aud-word-ant",
+        "aud-phoneme-n",
+        "aud-word-nest",
+        "aud-word-night",
+        "aud-word-numbers"
+      ],
+      "anim": [
+        "anim-trace-s-upper",
+        "anim-trace-s-lower",
+        "anim-trace-a-upper",
+        "anim-trace-a-lower",
+        "anim-trace-n-upper",
+        "anim-trace-n-lower"
+      ]
+    },
+    {
+      "activity": "u2-a4",
+      "kind": "count-color-shape",
+      "unit": 2,
+      "images": [
+        "img-count-2-a",
+        "img-count-2-b",
+        "img-color-blue",
+        "img-shape-square-filled",
+        "img-shape-square-outline"
+      ],
+      "audio": [
+        "aud-instr-u2-a4",
+        "aud-parent-u2-a4",
+        "aud-number-2",
+        "aud-count-2-1",
+        "aud-count-2-2",
+        "aud-color-blue",
+        "aud-shape-square"
+      ],
+      "anim": [
+        "anim-trace-n-2"
+      ]
+    },
+    {
+      "activity": "u2-a5",
+      "kind": "look-listen-circle",
+      "unit": 2,
+      "images": [
+        "img-w-swing",
+        "img-w-slide",
+        "img-pointer-circle-hint"
+      ],
+      "audio": [
+        "aud-instr-u2-a5",
+        "aud-parent-u2-a5",
+        "aud-word-w-swing",
+        "aud-word-w-slide"
+      ],
+      "anim": []
+    },
+    {
+      "activity": "u2-a6",
+      "kind": "circle-matching-letter",
+      "unit": 2,
+      "images": [
+        "img-star",
+        "img-letter-s",
+        "img-ant",
+        "img-letter-a",
+        "img-nest",
+        "img-letter-n"
+      ],
+      "audio": [
+        "aud-instr-u2-a6",
+        "aud-parent-u2-a6",
+        "aud-word-star",
+        "aud-word-ant",
+        "aud-word-nest"
+      ],
+      "anim": []
+    },
+    {
+      "activity": "u2-a7",
+      "kind": "color",
+      "unit": 2,
+      "images": [
+        "img-colorpage-u2-a7"
+      ],
+      "audio": [
+        "aud-instr-u2-a7",
+        "aud-parent-u2-a7"
+      ],
+      "anim": []
+    },
+    {
+      "activity": "u2-a8",
+      "kind": "story",
+      "unit": 2,
+      "images": [],
+      "audio": [
+        "aud-instr-u2-a8",
+        "aud-parent-u2-a8"
+      ],
+      "anim": []
+    },
+    {
+      "activity": "u2-a9",
+      "kind": "project",
+      "unit": 2,
+      "images": [
+        "img-project-u2-a9-sample",
+        "img-project-u2-a9-template"
+      ],
+      "audio": [
+        "aud-instr-u2-a9",
+        "aud-parent-u2-a9",
+        "aud-say-u2-a9"
+      ],
+      "anim": []
+    }
+  ],
+  "geometry": {
+    "triangle-red.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZGI1MDUwIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAyNCBMMTgzIDE2OSBMMTcgMTY5IFoiLz48L2c+PC9zdmc+",
+    "heart-orange.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZWM5MTNjIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxNzMgQzY3IDE0MyAyMyAxMTEgMjMgNjggQzIzIDE5IDgxIDE4IDEwMCA1NiBDMTE5IDE4IDE3NyAxOSAxNzcgNjggQzE3NyAxMTEgMTMzIDE0MyAxMDAgMTczIFoiLz48L2c+PC9zdmc+",
+    "square-blue.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNGQ4MmM0IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMzEiIHk9IjMxIiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEzOCIvPjwvZz48L3N2Zz4=",
+    "heart.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxNzMgQzY3IDE0MyAyMyAxMTEgMjMgNjggQzIzIDE5IDgxIDE4IDEwMCA1NiBDMTE5IDE4IDE3NyAxOSAxNzcgNjggQzE3NyAxMTEgMTMzIDE0MyAxMDAgMTczIFoiLz48L2c+PC9zdmc+",
+    "star-green.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNjRhNDZhIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxOSBMMTI0IDcwIEwxODAgNzcgTDEzOSAxMTYgTDE0OSAxNzQgTDEwMCAxNDcgTDUxIDE3NCBMNjEgMTE2IEwyMCA3NyBMNzYgNzAgWiIvPjwvZz48L3N2Zz4=",
+    "circle.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI3MiIvPjwvZz48L3N2Zz4=",
+    "circle-outline.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI3MiIvPjwvZz48L3N2Zz4=",
+    "heart-blue.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNGQ4MmM0IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxNzMgQzY3IDE0MyAyMyAxMTEgMjMgNjggQzIzIDE5IDgxIDE4IDEwMCA1NiBDMTE5IDE4IDE3NyAxOSAxNzcgNjggQzE3NyAxMTEgMTMzIDE0MyAxMDAgMTczIFoiLz48L2c+PC9zdmc+",
+    "star-red.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZGI1MDUwIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxOSBMMTI0IDcwIEwxODAgNzcgTDEzOSAxMTYgTDE0OSAxNzQgTDEwMCAxNDcgTDUxIDE3NCBMNjEgMTE2IEwyMCA3NyBMNzYgNzAgWiIvPjwvZz48L3N2Zz4=",
+    "square-red.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZGI1MDUwIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMzEiIHk9IjMxIiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEzOCIvPjwvZz48L3N2Zz4=",
+    "triangle.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAyNCBMMTgzIDE2OSBMMTcgMTY5IFoiLz48L2c+PC9zdmc+",
+    "star-blue.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNGQ4MmM0IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxOSBMMTI0IDcwIEwxODAgNzcgTDEzOSAxMTYgTDE0OSAxNzQgTDEwMCAxNDcgTDUxIDE3NCBMNjEgMTE2IEwyMCA3NyBMNzYgNzAgWiIvPjwvZz48L3N2Zz4=",
+    "square-yellow.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZTZiZjM4IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMzEiIHk9IjMxIiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEzOCIvPjwvZz48L3N2Zz4=",
+    "star-outline.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxOSBMMTI0IDcwIEwxODAgNzcgTDEzOSAxMTYgTDE0OSAxNzQgTDEwMCAxNDcgTDUxIDE3NCBMNjEgMTE2IEwyMCA3NyBMNzYgNzAgWiIvPjwvZz48L3N2Zz4=",
+    "circle-blue.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNGQ4MmM0IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI3MiIvPjwvZz48L3N2Zz4=",
+    "square.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMzEiIHk9IjMxIiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEzOCIvPjwvZz48L3N2Zz4=",
+    "circle-green.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNjRhNDZhIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI3MiIvPjwvZz48L3N2Zz4=",
+    "circle-orange.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZWM5MTNjIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI3MiIvPjwvZz48L3N2Zz4=",
+    "heart-green.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNjRhNDZhIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxNzMgQzY3IDE0MyAyMyAxMTEgMjMgNjggQzIzIDE5IDgxIDE4IDEwMCA1NiBDMTE5IDE4IDE3NyAxOSAxNzcgNjggQzE3NyAxMTEgMTMzIDE0MyAxMDAgMTczIFoiLz48L2c+PC9zdmc+",
+    "square-orange.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZWM5MTNjIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMzEiIHk9IjMxIiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEzOCIvPjwvZz48L3N2Zz4=",
+    "star-yellow.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZTZiZjM4IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxOSBMMTI0IDcwIEwxODAgNzcgTDEzOSAxMTYgTDE0OSAxNzQgTDEwMCAxNDcgTDUxIDE3NCBMNjEgMTE2IEwyMCA3NyBMNzYgNzAgWiIvPjwvZz48L3N2Zz4=",
+    "circle-red.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZGI1MDUwIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI3MiIvPjwvZz48L3N2Zz4=",
+    "triangle-green.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNjRhNDZhIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAyNCBMMTgzIDE2OSBMMTcgMTY5IFoiLz48L2c+PC9zdmc+",
+    "heart-yellow.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZTZiZjM4IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxNzMgQzY3IDE0MyAyMyAxMTEgMjMgNjggQzIzIDE5IDgxIDE4IDEwMCA1NiBDMTE5IDE4IDE3NyAxOSAxNzcgNjggQzE3NyAxMTEgMTMzIDE0MyAxMDAgMTczIFoiLz48L2c+PC9zdmc+",
+    "triangle-yellow.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZTZiZjM4IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAyNCBMMTgzIDE2OSBMMTcgMTY5IFoiLz48L2c+PC9zdmc+",
+    "triangle-orange.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZWM5MTNjIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAyNCBMMTgzIDE2OSBMMTcgMTY5IFoiLz48L2c+PC9zdmc+",
+    "star.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxOSBMMTI0IDcwIEwxODAgNzcgTDEzOSAxMTYgTDE0OSAxNzQgTDEwMCAxNDcgTDUxIDE3NCBMNjEgMTE2IEwyMCA3NyBMNzYgNzAgWiIvPjwvZz48L3N2Zz4=",
+    "triangle-outline.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAyNCBMMTgzIDE2OSBMMTcgMTY5IFoiLz48L2c+PC9zdmc+",
+    "triangle-blue.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNGQ4MmM0IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAyNCBMMTgzIDE2OSBMMTcgMTY5IFoiLz48L2c+PC9zdmc+",
+    "circle-yellow.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZTZiZjM4IiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI3MiIvPjwvZz48L3N2Zz4=",
+    "square-green.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjNjRhNDZhIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMzEiIHk9IjMxIiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEzOCIvPjwvZz48L3N2Zz4=",
+    "star-orange.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZWM5MTNjIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxOSBMMTI0IDcwIEwxODAgNzcgTDEzOSAxMTYgTDE0OSAxNzQgTDEwMCAxNDcgTDUxIDE3NCBMNjEgMTE2IEwyMCA3NyBMNzYgNzAgWiIvPjwvZz48L3N2Zz4=",
+    "heart-red.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSIjZGI1MDUwIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxNzMgQzY3IDE0MyAyMyAxMTEgMjMgNjggQzIzIDE5IDgxIDE4IDEwMCA1NiBDMTE5IDE4IDE3NyAxOSAxNzcgNjggQzE3NyAxMTEgMTMzIDE0MyAxMDAgMTczIFoiLz48L2c+PC9zdmc+",
+    "heart-outline.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwMCAxNzMgQzY3IDE0MyAyMyAxMTEgMjMgNjggQzIzIDE5IDgxIDE4IDEwMCA1NiBDMTE5IDE4IDE3NyAxOSAxNzcgNjggQzE3NyAxMTEgMTMzIDE0MyAxMDAgMTczIFoiLz48L2c+PC9zdmc+",
+    "square-outline.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM1MzYxNGIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMzEiIHk9IjMxIiB3aWR0aD0iMTM4IiBoZWlnaHQ9IjEzOCIvPjwvZz48L3N2Zz4="
+  },
+  "release_scope": "unit2-visual-practice"
+}
