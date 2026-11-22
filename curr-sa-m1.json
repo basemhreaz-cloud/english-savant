@@ -2554,12 +2554,583 @@
           ]
         }
       ]
+    },
+    {
+      "id": "exp1",
+      "num": "مراجعة 1–4",
+      "kind": "review",
+      "title": "Expansion · Units 1–4",
+      "pages": [
+        34,
+        39
+      ],
+      "lessons": [],
+      "vocab": [
+        "modern",
+        "enormous",
+        "painting",
+        "skeleton",
+        "fossil",
+        "rabbit",
+        "parrot",
+        "turtle",
+        "pet",
+        "museum",
+        "guide",
+        "tourist",
+        "country",
+        "nationality",
+        "trip",
+        "prize",
+        "contest",
+        "partner",
+        "group",
+        "floor",
+        "broom",
+        "brush",
+        "teeth",
+        "hurry",
+        "command",
+        "school gate",
+        "pencil",
+        "bag",
+        "Monday",
+        "May"
+      ],
+      "sentences": [
+        "What is your name?",
+        "Where are you from?",
+        "How old are you?",
+        "When is the trip?",
+        "Who is your partner?",
+        "Please close the door.",
+        "Work with a partner.",
+        "Make your bed.",
+        "Use the broom to sweep.",
+        "Do not touch the objects."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "راجع الكلمات حسب مجموعتها",
+          "text": "فيه كلمات لمعروضات المتحف زي painting وskeleton وfossil، وفيه حيوانات زي rabbit وparrot وturtle. الكلمات modern حديث وenormous ضخم جدًا بتوصف الحاجة، مش اسم معروض أو حيوان. اسأل نفسك الكلمة اسم حاجة ولا صفة ليها."
+        },
+        {
+          "title": "اختار أداة السؤال المناسبة",
+          "text": "What للسؤال عن إيه، وWho عن مين، وWhere عن فين أو منين، وWhen عن إمتى. How old سؤال كامل عن العمر. لازم تقرأ الإجابة عشان تختار السؤال: In May إجابة عن وقت، وHadi إجابة عن شخص، وThirteen إجابة عن عمر."
+        },
+        {
+          "title": "be والإشارة والأدوات",
+          "text": "راجع I am وhe/she/it is وyou/we/they are. للمفرد القريب this وللبعيد that، وللجمع القريب these وللبعيد those. في الأسئلة هنا المسافة والعدد مكتوبين. نستخدم a قبل صوت ساكن وan قبل صوت متحرك في بداية الاسم المفرد المعدود: a museum وan airplane."
+        },
+        {
+          "title": "تعليمات الفصل والبيت",
+          "text": "الأمر يبدأ بالفعل: Open your books وClose the door. Make your bed معناها رتب سريرك، وBrush your teeth فرّش أسنانك، وUse the broom to sweep استخدم المقشة للكنس. Get off the phone في السياق ده يعني بطل استخدام التليفون. للنهي حط Do not أوDon't قبل الفعل: Don't touch."
+        },
+        {
+          "title": "افهم إعلانًا مكتوبًا بأمان",
+          "text": "قبل ما تجاوب عن أي إعلان، دور على اليوم والشهر والمكان واسم المسؤول والتعليمات. النص هنا إعلان أصلي عن رحلة افتراضية، مش عرض حقيقي ولا دعوة لحجز. كل المعلومات المطلوبة للحل موجودة في النص الكامل فوق كل سؤال، ومش مطلوب منك بيانات شخصية."
+        }
+      ],
+      "meanings": {
+        "modern": "حديث",
+        "enormous": "ضخم جدًا",
+        "painting": "لوحة مرسومة",
+        "skeleton": "هيكل عظمي",
+        "fossil": "حفرية",
+        "rabbit": "أرنب",
+        "parrot": "ببغاء",
+        "turtle": "سلحفاة",
+        "pet": "حيوان أليف",
+        "museum": "متحف",
+        "guide": "مرشد",
+        "tourist": "سائح",
+        "country": "بلد",
+        "nationality": "جنسية",
+        "trip": "رحلة",
+        "prize": "جائزة",
+        "contest": "مسابقة",
+        "partner": "زميل في نشاط ثنائي",
+        "group": "مجموعة",
+        "floor": "أرضية",
+        "broom": "مقشة",
+        "brush": "يفرّش أو فرشاة حسب السياق",
+        "teeth": "أسنان",
+        "hurry": "يسرع",
+        "command": "أمر أو تعليمات",
+        "school gate": "بوابة المدرسة",
+        "pencil": "قلم رصاص",
+        "bag": "شنطة",
+        "Monday": "الاثنين",
+        "May": "مايو"
+      },
+      "sentenceMeanings": {
+        "What is your name?": "اسمك إيه؟",
+        "Where are you from?": "إنت منين؟",
+        "How old are you?": "عندك كام سنة؟",
+        "When is the trip?": "الرحلة إمتى؟",
+        "Who is your partner?": "مين زميلك في النشاط؟",
+        "Please close the door.": "من فضلك اقفل الباب.",
+        "Work with a partner.": "اشتغل مع زميل.",
+        "Make your bed.": "رتّب سريرك.",
+        "Use the broom to sweep.": "استخدم المقشة للكنس.",
+        "Do not touch the objects.": "ما تلمسش المعروضات."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "مراجعة الكلمات",
+          "sub": "رتب الحروف حسب المعنى العربي.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "odernm",
+              "answer": [
+                "modern"
+              ],
+              "hint": "حديث"
+            },
+            {
+              "type": "unscramble",
+              "letters": "normouse",
+              "answer": [
+                "enormous"
+              ],
+              "hint": "ضخم جدًا"
+            },
+            {
+              "type": "unscramble",
+              "letters": "aintingp",
+              "answer": [
+                "painting"
+              ],
+              "hint": "لوحة مرسومة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "keletons",
+              "answer": [
+                "skeleton"
+              ],
+              "hint": "هيكل عظمي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "abbitr",
+              "answer": [
+                "rabbit"
+              ],
+              "hint": "أرنب"
+            },
+            {
+              "type": "unscramble",
+              "letters": "arrotp",
+              "answer": [
+                "parrot"
+              ],
+              "hint": "ببغاء"
+            },
+            {
+              "type": "unscramble",
+              "letters": "urtlet",
+              "answer": [
+                "turtle"
+              ],
+              "hint": "سلحفاة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ossilf",
+              "answer": [
+                "fossil"
+              ],
+              "hint": "حفرية"
+            }
+          ]
+        },
+        {
+          "id": "grammar",
+          "title": "مراجعة القواعد والأسئلة",
+          "sub": "راجع السؤال والإجابة والعدد والمسافة قبل الاختيار.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "___ old is Ali? He is thirteen.",
+              "options": [
+                "How",
+                "What",
+                "Where"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "___ is your name? My name is Hadi.",
+              "options": [
+                "When",
+                "What",
+                "How old"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ are they from? They are from Egypt.",
+              "options": [
+                "Who",
+                "When",
+                "Where"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "___ is your test? It is in May.",
+              "options": [
+                "When",
+                "Who",
+                "Where"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "___ is your best friend? Hadi is my best friend.",
+              "options": [
+                "Where",
+                "Who",
+                "How old"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "I ___ a student.",
+              "options": [
+                "is",
+                "are",
+                "am"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "They ___ my classmates.",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "One bag is near me. ___ is my bag.",
+              "options": [
+                "Those",
+                "This",
+                "These"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Two paintings are far from us. ___ are paintings.",
+              "options": [
+                "This",
+                "That",
+                "Those"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "This is ___ museum. Choose a or an.",
+              "options": [
+                "a",
+                "an",
+                "no article"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "That is ___ airplane. Choose a or an.",
+              "options": [
+                "a",
+                "an",
+                "no article"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Is she a tourist? No, she ___.",
+              "options": [
+                "are not",
+                "am not",
+                "is not"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "commands",
+          "title": "تعليمات الفصل والبيت",
+          "sub": "مواقف مكتوبة من غير تسجيل صوتي.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Your teacher wants you to open your books. Choose the command.",
+              "options": [
+                "Open your books.",
+                "Close your books.",
+                "Use the broom."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The door is open. Your teacher wants it shut. Choose the command.",
+              "options": [
+                "Open the door.",
+                "Close the door.",
+                "Find a partner."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Work with a partner means work ___.",
+              "options": [
+                "alone",
+                "with nobody",
+                "with one classmate"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "What do you use a broom to do?",
+              "options": [
+                "Sweep the floor",
+                "Brush your teeth",
+                "Read a book"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The bus is ready to leave. Which command tells you to move quickly?",
+              "options": [
+                "Sit down slowly.",
+                "Hurry up.",
+                "Take your time."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Get off the phone means ___.",
+              "options": [
+                "buy a new phone",
+                "make a phone call",
+                "stop using the phone"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Which command asks you to tidy your bed?",
+              "options": [
+                "Make your bed.",
+                "Open your books.",
+                "Close the window."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Visitors must not touch the objects. Choose the instruction.",
+              "options": [
+                "Touch every object.",
+                "Do not touch the objects.",
+                "Take the objects home."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "قراءة إعلان تدريبي",
+          "sub": "النص كامل فوق كل سؤال. إعلان افتراضي، مش رحلة حقيقية.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "What day is the trip?",
+              "options": [
+                "Monday",
+                "Friday",
+                "Sunday"
+              ],
+              "answer": 0,
+              "passage": "Fictional Museum Club practice notice: Our trip is on Monday in May. Meet at the school gate. The trip is for twelve students. Work with one partner. Bring a pencil and a small bag. Our guide is Mr. Salem. The museum has paintings and fossils. Visitors must not touch the objects. This is a reading exercise, not a real trip announcement."
+            },
+            {
+              "type": "mcq",
+              "q": "What month is the trip in?",
+              "options": [
+                "March",
+                "May",
+                "July"
+              ],
+              "answer": 1,
+              "passage": "Fictional Museum Club practice notice: Our trip is on Monday in May. Meet at the school gate. The trip is for twelve students. Work with one partner. Bring a pencil and a small bag. Our guide is Mr. Salem. The museum has paintings and fossils. Visitors must not touch the objects. This is a reading exercise, not a real trip announcement."
+            },
+            {
+              "type": "mcq",
+              "q": "Where should the students meet?",
+              "options": [
+                "At the airport",
+                "At a gift shop",
+                "At the school gate"
+              ],
+              "answer": 2,
+              "passage": "Fictional Museum Club practice notice: Our trip is on Monday in May. Meet at the school gate. The trip is for twelve students. Work with one partner. Bring a pencil and a small bag. Our guide is Mr. Salem. The museum has paintings and fossils. Visitors must not touch the objects. This is a reading exercise, not a real trip announcement."
+            },
+            {
+              "type": "mcq",
+              "q": "Who is the guide?",
+              "options": [
+                "Mr. Salem",
+                "Hadi",
+                "Ali"
+              ],
+              "answer": 0,
+              "passage": "Fictional Museum Club practice notice: Our trip is on Monday in May. Meet at the school gate. The trip is for twelve students. Work with one partner. Bring a pencil and a small bag. Our guide is Mr. Salem. The museum has paintings and fossils. Visitors must not touch the objects. This is a reading exercise, not a real trip announcement."
+            },
+            {
+              "type": "mcq",
+              "q": "Which item should a student bring?",
+              "options": [
+                "A broom",
+                "A pencil",
+                "A radio"
+              ],
+              "answer": 1,
+              "passage": "Fictional Museum Club practice notice: Our trip is on Monday in May. Meet at the school gate. The trip is for twelve students. Work with one partner. Bring a pencil and a small bag. Our guide is Mr. Salem. The museum has paintings and fossils. Visitors must not touch the objects. This is a reading exercise, not a real trip announcement."
+            },
+            {
+              "type": "mcq",
+              "q": "Which things does the museum have?",
+              "options": [
+                "Pets and toys",
+                "Cars and buses",
+                "Paintings and fossils"
+              ],
+              "answer": 2,
+              "passage": "Fictional Museum Club practice notice: Our trip is on Monday in May. Meet at the school gate. The trip is for twelve students. Work with one partner. Bring a pencil and a small bag. Our guide is Mr. Salem. The museum has paintings and fossils. Visitors must not touch the objects. This is a reading exercise, not a real trip announcement."
+            },
+            {
+              "type": "mcq",
+              "q": "What must visitors NOT do?",
+              "options": [
+                "Touch the objects",
+                "Bring a bag",
+                "Work with a partner"
+              ],
+              "answer": 0,
+              "passage": "Fictional Museum Club practice notice: Our trip is on Monday in May. Meet at the school gate. The trip is for twelve students. Work with one partner. Bring a pencil and a small bag. Our guide is Mr. Salem. The museum has paintings and fossils. Visitors must not touch the objects. This is a reading exercise, not a real trip announcement."
+            },
+            {
+              "type": "mcq",
+              "q": "How many students is the trip for?",
+              "options": [
+                "Twenty",
+                "Twelve",
+                "Two"
+              ],
+              "answer": 1,
+              "passage": "Fictional Museum Club practice notice: Our trip is on Monday in May. Meet at the school gate. The trip is for twelve students. Work with one partner. Bring a pencil and a small bag. Our guide is Mr. Salem. The museum has paintings and fossils. Visitors must not touch the objects. This is a reading exercise, not a real trip announcement."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب الجملة",
+          "sub": "راجع ترتيب السؤال والأمر ووصف الجمع.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "you?",
+                "old",
+                "How",
+                "are"
+              ],
+              "answer": [
+                "How",
+                "old",
+                "are",
+                "you?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "paintings.",
+                "modern",
+                "are",
+                "These"
+              ],
+              "answer": [
+                "These",
+                "are",
+                "modern",
+                "paintings."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "touch.",
+                "not",
+                "Please",
+                "do"
+              ],
+              "answer": [
+                "Please",
+                "do",
+                "not",
+                "touch."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "partner.",
+                "a",
+                "with",
+                "Work"
+              ],
+              "answer": [
+                "Work",
+                "with",
+                "a",
+                "partner."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "source": {
     "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g7/g7-english-1448.pdf",
     "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K07-SM1-ENGLMH.pdf",
-    "title": "Super Goal 1, Part 1, Units 1–4, pages 2–33",
+    "title": "Super Goal 1, Part 1, Units 1–4 and Expansion, pages 2–39",
     "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint returned HTTP500. Original explanations and exercises, not copied textbook questions.",
     "reviewedUnits": {
       "u1": [
@@ -2577,6 +3148,10 @@
       "u4": [
         26,
         33
+      ],
+      "exp1": [
+        34,
+        39
       ]
     }
   }
