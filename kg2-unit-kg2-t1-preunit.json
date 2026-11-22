@@ -1,1 +1,373 @@
-{"version":"20261122-pairs1","options":{"requireVerified":true,"holdFlagged":true},"unit":{"id":"kg2-t1-preunit","title_en":"Warm-up","title_ar":"تسخين قبل الوحدات","eyebrow":"KG2 · الفصل الأول · تسخين"},"activities":[{"id":"k2pre-trace","kind":"trace","title_ar":"نتتبّع أشكال","instr":"ar2-i-trace","items":[{"glyph":"الأقواس","mp4":"assets/kg2/pre/trace-arches.mp4","poster":"assets/kg2/pre/trace-arches-final.webp"},{"glyph":"الزجزاج","mp4":"assets/kg2/pre/trace-zigzag.mp4","poster":"assets/kg2/pre/trace-zigzag-final.webp"},{"glyph":"المربع","mp4":"assets/kg2/pre/trace-square.mp4","poster":"assets/kg2/pre/trace-square-final.webp"},{"glyph":"الدائرة","mp4":"assets/kg2/pre/trace-circle.mp4","poster":"assets/kg2/pre/trace-circle-final.webp"},{"glyph":"المثلث","mp4":"assets/kg2/pre/trace-triangle.mp4","poster":"assets/kg2/pre/trace-triangle-final.webp"},{"glyph":"القلب","mp4":"assets/kg2/pre/trace-heart.mp4","poster":"assets/kg2/pre/trace-heart-final.webp"}]}],"held":["تمارين الحوار والتعارف والجسم والمدرسة (لسه من غير صوت وصور مطابقة)"]}
+{
+  "version": "20261122-preunit1",
+  "unit": {
+    "id": "kg2-t1-preunit",
+    "title_en": "Warm-up",
+    "title_ar": "تسخين قبل الوحدات",
+    "eyebrow": "KG2 · الفصل الأول · تسخين"
+  },
+  "activities": [
+    {
+      "id": "k2pre-greet",
+      "kind": "tap-words",
+      "title_ar": "نسلّم على بعض",
+      "instr": "ar4-i-tap",
+      "help": "اضغط على الصورة. هتسمع معناها بالعربي وبعدها الكلمة بالإنجليزي.",
+      "words": [
+        {
+          "word": "hello",
+          "label_en": "hello",
+          "img": "pre1/w-hello.webp",
+          "ar": "k1-ar-w-hello",
+          "en": "k1-en-w-hello"
+        },
+        {
+          "word": "Hi",
+          "label_en": "Hi",
+          "img": "pre1/w-hi.webp",
+          "ar": "k1-ar-w-hi",
+          "en": "k1-en-w-hi"
+        },
+        {
+          "word": "good morning",
+          "label_en": "good morning",
+          "img": "pre1/w-good-morning.webp",
+          "ar": "k1-ar-w-good-morning",
+          "en": "k1-en-w-good-morning"
+        },
+        {
+          "word": "goodbye",
+          "label_en": "goodbye",
+          "img": "pre1/w-goodbye.webp",
+          "ar": "k1-ar-w-goodbye",
+          "en": "k1-en-w-goodbye"
+        },
+        {
+          "word": "boy",
+          "label_en": "boy",
+          "img": "pre1/w-boy.webp",
+          "ar": "k1-ar-w-boy",
+          "en": "k1-en-w-boy"
+        },
+        {
+          "word": "girl",
+          "label_en": "girl",
+          "img": "pre1/w-girl.webp",
+          "ar": "k1-ar-w-girl",
+          "en": "k1-en-w-girl"
+        },
+        {
+          "word": "friends",
+          "label_en": "friends",
+          "img": "pre1/w-friends.webp",
+          "ar": "k1-ar-w-friends",
+          "en": "k1-en-w-friends"
+        }
+      ]
+    },
+    {
+      "id": "k2pre-role",
+      "kind": "lines",
+      "title_ar": "نمثّل مع شخص كبير",
+      "help": "الشخص الكبير والطفل يمثّلوا الجُمل دي سوا. من غير صوت جاهز لسه، والطفل يقول اسمه هو. مفيش اسم بيتسجّل.",
+      "lines": [
+        {
+          "text": "Hello."
+        },
+        {
+          "text": "Good morning."
+        },
+        {
+          "text": "What is your name?"
+        },
+        {
+          "text": "My name is ___."
+        },
+        {
+          "text": "I'm a boy. / I'm a girl."
+        },
+        {
+          "text": "We are friends."
+        },
+        {
+          "text": "Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "k2pre-school",
+      "kind": "tap-words",
+      "title_ar": "كلمات المدرسة",
+      "instr": "ar4-i-tap",
+      "help": "اضغط على الصورة. هتسمع معناها بالعربي وبعدها الكلمة بالإنجليزي.",
+      "words": [
+        {
+          "word": "classroom",
+          "label_en": "classroom",
+          "img": "pre1/w-classroom.webp",
+          "ar": "k1-ar-w-classroom",
+          "en": "k1-en-w-classroom"
+        },
+        {
+          "word": "teacher",
+          "label_en": "teacher",
+          "img": "pre1/w-teacher.webp",
+          "ar": "k1-ar-w-teacher",
+          "en": "k1-en-w-teacher"
+        },
+        {
+          "word": "chair",
+          "label_en": "chair",
+          "img": "pre1/w-chair.webp",
+          "ar": "k1-ar-w-chair",
+          "en": "k1-en-w-chair"
+        },
+        {
+          "word": "desk",
+          "label_en": "desk",
+          "img": "pre1/w-desk.webp",
+          "ar": "k1-ar-w-desk",
+          "en": "k1-en-w-desk"
+        },
+        {
+          "word": "board",
+          "label_en": "board",
+          "img": "pre1/w-board.webp",
+          "ar": "k1-ar-w-board",
+          "en": "k1-en-w-board"
+        }
+      ]
+    },
+    {
+      "id": "k2pre-bag",
+      "kind": "sort-bag",
+      "title_ar": "إيه اللي في شنطة المدرسة؟",
+      "instr": "ar34-i-choose",
+      "help": "اضغط على الصورة وسمعها، وبعدين اختار: بنحطها في الشنطة ولا لأ؟ مفيش درجات.",
+      "items": [
+        {
+          "img": "pre1/w-pencil.webp",
+          "alt": "pencil",
+          "word": "pencil",
+          "inbag": true,
+          "ar": "k1-ar-w-pencil",
+          "en": "k1-en-w-pencil"
+        },
+        {
+          "img": "pre1/w-eraser.webp",
+          "alt": "eraser",
+          "word": "eraser",
+          "inbag": true,
+          "ar": "k1-ar-w-eraser",
+          "en": "k1-en-w-eraser"
+        },
+        {
+          "img": "pre1/w-book.webp",
+          "alt": "book",
+          "word": "book",
+          "inbag": true,
+          "ar": "k1-ar-w-book",
+          "en": "k1-en-w-book"
+        },
+        {
+          "img": "pre1/w-crayon.webp",
+          "alt": "crayon",
+          "word": "crayon",
+          "inbag": true,
+          "ar": "k1-ar-w-crayon",
+          "en": "k1-en-w-crayon"
+        },
+        {
+          "img": "pre1/w-tree.webp",
+          "alt": "tree",
+          "word": "tree",
+          "inbag": false,
+          "ar": "k1-ar-w-tree",
+          "en": "k1-en-w-tree"
+        }
+      ],
+      "note": "صورة الكلب مش متاحة لسه، فاستخدمنا الشجرة كمثال لحاجة مش في الشنطة."
+    },
+    {
+      "id": "k2pre-family",
+      "kind": "tap-words",
+      "title_ar": "أسرتنا",
+      "instr": "ar4-i-tap",
+      "help": "اضغط على الصورة. هتسمع معناها بالعربي وبعدها الكلمة بالإنجليزي.",
+      "words": [
+        {
+          "word": "grandfather",
+          "label_en": "grandfather",
+          "img": "pre1/w-grandfather.webp",
+          "ar": "k1-ar-w-grandfather",
+          "en": "k1-en-w-grandfather"
+        },
+        {
+          "word": "grandmother",
+          "label_en": "grandmother",
+          "img": "pre1/w-grandmother.webp",
+          "ar": "k1-ar-w-grandmother",
+          "en": "k1-en-w-grandmother"
+        },
+        {
+          "word": "father",
+          "label_en": "father",
+          "img": "pre1/w-father.webp",
+          "ar": "k1-ar-w-father",
+          "en": "k1-en-w-father"
+        },
+        {
+          "word": "mother",
+          "label_en": "mother",
+          "img": "pre1/w-mother.webp",
+          "ar": "k1-ar-w-mother",
+          "en": "k1-en-w-mother"
+        },
+        {
+          "word": "sister",
+          "label_en": "sister",
+          "img": "pre1/w-sister.webp",
+          "ar": "k1-ar-w-sister",
+          "en": "k1-en-w-sister"
+        },
+        {
+          "word": "brother",
+          "label_en": "brother",
+          "img": "pre1/w-brother.webp",
+          "ar": "k1-ar-w-brother",
+          "en": "k1-en-w-brother"
+        }
+      ]
+    },
+    {
+      "id": "k2pre-body",
+      "kind": "tap-words",
+      "title_ar": "جسمنا",
+      "instr": "ar4-i-tap",
+      "help": "اضغط على الصورة. هتسمع معناها بالعربي وبعدها الكلمة بالإنجليزي.",
+      "words": [
+        {
+          "word": "face",
+          "label_en": "face",
+          "img": "pre1/w-face.webp",
+          "ar": "k1-ar-w-face",
+          "en": "k1-en-w-face"
+        },
+        {
+          "word": "hair",
+          "label_en": "hair",
+          "img": "pre1/w-hair.webp",
+          "ar": "k1-ar-w-hair",
+          "en": "k1-en-w-hair"
+        },
+        {
+          "word": "eyes",
+          "label_en": "eyes",
+          "img": "pre1/w-eyes.webp",
+          "ar": "k1-ar-w-eyes",
+          "en": "k1-en-w-eyes"
+        },
+        {
+          "word": "ears",
+          "label_en": "ears",
+          "img": "pre1/w-ears.webp",
+          "ar": "k1-ar-w-ears",
+          "en": "k1-en-w-ears"
+        },
+        {
+          "word": "nose",
+          "label_en": "nose",
+          "img": "pre1/w-nose.webp",
+          "ar": "k1-ar-w-nose",
+          "en": "k1-en-w-nose"
+        },
+        {
+          "word": "mouth",
+          "label_en": "mouth",
+          "img": "pre1/w-mouth.webp",
+          "ar": "k1-ar-w-mouth",
+          "en": "k1-en-w-mouth"
+        },
+        {
+          "word": "teeth",
+          "label_en": "teeth",
+          "img": "pre1/w-teeth.webp",
+          "ar": "k1-ar-w-teeth",
+          "en": "k1-en-w-teeth"
+        },
+        {
+          "word": "arms",
+          "label_en": "arms",
+          "img": "pre1/w-arms.webp",
+          "ar": "k1-ar-w-arms",
+          "en": "k1-en-w-arms"
+        },
+        {
+          "word": "hands",
+          "label_en": "hands",
+          "img": "pre1/w-hands.webp",
+          "ar": "k1-ar-w-hands",
+          "en": "k1-en-w-hands"
+        },
+        {
+          "word": "legs",
+          "label_en": "legs",
+          "img": "pre1/w-legs.webp",
+          "ar": "k1-ar-w-legs",
+          "en": "k1-en-w-legs"
+        },
+        {
+          "word": "feet",
+          "label_en": "feet",
+          "img": "pre1/w-feet.webp",
+          "ar": "k1-ar-w-feet",
+          "en": "k1-en-w-feet"
+        }
+      ]
+    },
+    {
+      "id": "k2pre-trace",
+      "kind": "trace",
+      "title_ar": "نتتبّع أشكال",
+      "instr": "ar2-i-trace",
+      "items": [
+        {
+          "glyph": "الأقواس",
+          "mp4": "assets/kg2/pre/trace-arches.mp4",
+          "poster": "assets/kg2/pre/trace-arches-final.webp"
+        },
+        {
+          "glyph": "الزجزاج",
+          "mp4": "assets/kg2/pre/trace-zigzag.mp4",
+          "poster": "assets/kg2/pre/trace-zigzag-final.webp"
+        },
+        {
+          "glyph": "المربع",
+          "mp4": "assets/kg2/pre/trace-square.mp4",
+          "poster": "assets/kg2/pre/trace-square-final.webp"
+        },
+        {
+          "glyph": "الدائرة",
+          "mp4": "assets/kg2/pre/trace-circle.mp4",
+          "poster": "assets/kg2/pre/trace-circle-final.webp"
+        },
+        {
+          "glyph": "المثلث",
+          "mp4": "assets/kg2/pre/trace-triangle.mp4",
+          "poster": "assets/kg2/pre/trace-triangle-final.webp"
+        },
+        {
+          "glyph": "القلب",
+          "mp4": "assets/kg2/pre/trace-heart.mp4",
+          "poster": "assets/kg2/pre/trace-heart-final.webp"
+        }
+      ]
+    }
+  ],
+  "held": [
+    "جمل الحوار والتعارف لسه من غير صوت جاهز (مكتوبة للتمثيل مع شخص كبير)",
+    "كلمة head وجمل \"I have...\" وجمل \"This is my...\" لسه من غير صوت",
+    "صورة الكلب لشنطة المدرسة"
+  ],
+  "audio": {}
+}
