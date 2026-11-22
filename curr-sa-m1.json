@@ -467,12 +467,717 @@
           ]
         }
       ]
+    },
+    {
+      "id": "u2",
+      "num": 2,
+      "title": "What Day Is Today?",
+      "pages": [
+        10,
+        17
+      ],
+      "lessons": [],
+      "vocab": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December",
+        "day",
+        "month",
+        "year",
+        "today",
+        "tomorrow",
+        "date",
+        "age",
+        "birth date",
+        "vacation",
+        "final test",
+        "calendar",
+        "partner",
+        "first",
+        "second",
+        "third",
+        "fifth",
+        "eighth",
+        "ninth",
+        "twelfth",
+        "twentieth",
+        "thirtieth",
+        "forty",
+        "eighty",
+        "one hundred",
+        "one thousand",
+        "our",
+        "your",
+        "their"
+      ],
+      "sentences": [
+        "What day is today?",
+        "What month is it?",
+        "What is the date?",
+        "How old are you?",
+        "I am thirteen years old.",
+        "When is your vacation?",
+        "Our vacation is in July.",
+        "Their test is on Monday.",
+        "Work with a partner.",
+        "Take out your pencils.",
+        "Put your bags away.",
+        "Look at page twelve."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "الأيام والشهور والتاريخ",
+          "text": "احفظ ترتيب أيام الأسبوع والشهور. يوم غير تاريخ: What day is today? بنرد عليه باسم اليوم، وWhat is the date? بنرد عليه بالشهر ورقم اليوم. أسماء الأيام والشهور تبدأ بحرف كبير: Monday وJanuary. في أمثلة الكتاب الشهر بييجي قبل رقم اليوم، فـ4/13 هنا معناها April thirteenth."
+        },
+        {
+          "title": "العدد والعدد الترتيبي",
+          "text": "one وtwo وthree أعداد بنعد بيها. first وsecond وthird أعداد ترتيبية، ونستخدمها في ترتيب الشهور وقراءة التاريخ. انتبه لكتابة fifth وeighth وninth وtwelfth وtwentieth. 21st بنقراها twenty-first، و40 بتتكتب forty من غير u، و80 بتتكتب eighty."
+        },
+        {
+          "title": "What وWhen وHow old",
+          "text": "What day للسؤال عن يوم الأسبوع، وWhat month عن الشهر، وWhat is the date? عن التاريخ. When للسؤال عن إمتى، وممكن الإجابة تكون شهر أو يوم أو تاريخ كامل. How old للسؤال عن العمر: How old is Hadi? He is fourteen. السؤال عن العمر ينفع كمان مع عمر مبنى أو حاجة."
+        },
+        {
+          "title": "in وon مع الوقت",
+          "text": "نستخدم in مع الشهور والفصول والسنين: in November، in winter، in 2026. ونستخدم on مع الأيام والتواريخ: on Thursday، on November twenty-first. ما نحطش on قبل اسم الشهر لوحده."
+        },
+        {
+          "title": "our وyour وtheir",
+          "text": "our معناها الخاص بنا، وyour الخاص بك أو بكم، وtheir الخاص بهم. كلها تيجي قبل اسم: Our names are Rami and Hadi. لما تخاطب زمايلك تقول your books، ولما تتكلم عن شنط ناس تانية تقول their bags."
+        },
+        {
+          "title": "تعليمات الفصل",
+          "text": "الأمر يبدأ بالفعل: Open your books يعني افتحوا كتبكم، وClose your books اقفلوها. Work with a partner اشتغل مع زميل. Take out your pencils طلّعوا أقلامكم. Put your bags away حطّوا الشنط في مكانها. Please بتخلي الطلب مؤدب، وListen and repeat معناها اسمع وكرر. أسئلتنا هنا قراءة ومش محتاجة تسجيل."
+        }
+      ],
+      "meanings": {
+        "Sunday": "الأحد",
+        "Monday": "الاثنين",
+        "Tuesday": "الثلاثاء",
+        "Wednesday": "الأربعاء",
+        "Thursday": "الخميس",
+        "Friday": "الجمعة",
+        "Saturday": "السبت",
+        "January": "يناير",
+        "February": "فبراير",
+        "March": "مارس",
+        "April": "أبريل",
+        "May": "مايو",
+        "June": "يونيو",
+        "July": "يوليو",
+        "August": "أغسطس",
+        "September": "سبتمبر",
+        "October": "أكتوبر",
+        "November": "نوفمبر",
+        "December": "ديسمبر",
+        "day": "يوم",
+        "month": "شهر",
+        "year": "سنة",
+        "today": "النهارده",
+        "tomorrow": "بكرة",
+        "date": "تاريخ",
+        "age": "عمر",
+        "birth date": "تاريخ الميلاد",
+        "vacation": "إجازة",
+        "final test": "امتحان نهائي",
+        "calendar": "تقويم",
+        "partner": "زميل في نشاط ثنائي",
+        "first": "الأول",
+        "second": "الثاني",
+        "third": "الثالث",
+        "fifth": "الخامس",
+        "eighth": "الثامن",
+        "ninth": "التاسع",
+        "twelfth": "الثاني عشر",
+        "twentieth": "العشرون",
+        "thirtieth": "الثلاثون",
+        "forty": "أربعون",
+        "eighty": "ثمانون",
+        "one hundred": "مئة",
+        "one thousand": "ألف",
+        "our": "الخاص بنا",
+        "your": "الخاص بك أو بكم",
+        "their": "الخاص بهم"
+      },
+      "sentenceMeanings": {
+        "What day is today?": "النهارده يوم إيه؟",
+        "What month is it?": "إحنا في شهر إيه؟",
+        "What is the date?": "التاريخ إيه؟",
+        "How old are you?": "عندك كام سنة؟",
+        "I am thirteen years old.": "عندي تلتاشر سنة.",
+        "When is your vacation?": "إجازتك إمتى؟",
+        "Our vacation is in July.": "إجازتنا في يوليو.",
+        "Their test is on Monday.": "امتحانهم يوم الاثنين.",
+        "Work with a partner.": "اشتغل مع زميل.",
+        "Take out your pencils.": "طلّعوا أقلامكم الرصاص.",
+        "Put your bags away.": "حطّوا شنطكم في مكانها.",
+        "Look at page twelve.": "بصّوا على صفحة اتناشر."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "الكلمات ومعانيها",
+          "sub": "رتب الحروف حسب المعنى العربي. حافظ على الحرف الكبير في الأسماء.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "ondayM",
+              "answer": [
+                "Monday"
+              ],
+              "hint": "الاثنين"
+            },
+            {
+              "type": "unscramble",
+              "letters": "hursdayT",
+              "answer": [
+                "Thursday"
+              ],
+              "hint": "الخميس"
+            },
+            {
+              "type": "unscramble",
+              "letters": "aturdayS",
+              "answer": [
+                "Saturday"
+              ],
+              "hint": "السبت"
+            },
+            {
+              "type": "unscramble",
+              "letters": "anuaryJ",
+              "answer": [
+                "January"
+              ],
+              "hint": "يناير"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ebruaryF",
+              "answer": [
+                "February"
+              ],
+              "hint": "فبراير"
+            },
+            {
+              "type": "unscramble",
+              "letters": "eptemberS",
+              "answer": [
+                "September"
+              ],
+              "hint": "سبتمبر"
+            },
+            {
+              "type": "unscramble",
+              "letters": "acationv",
+              "answer": [
+                "vacation"
+              ],
+              "hint": "إجازة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "alendarc",
+              "answer": [
+                "calendar"
+              ],
+              "hint": "تقويم"
+            },
+            {
+              "type": "unscramble",
+              "letters": "artnerp",
+              "answer": [
+                "partner"
+              ],
+              "hint": "زميل في نشاط ثنائي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "omorrowt",
+              "answer": [
+                "tomorrow"
+              ],
+              "hint": "بكرة"
+            }
+          ]
+        },
+        {
+          "id": "grammar",
+          "title": "القواعد والتاريخ",
+          "sub": "اقرأ الجملة واختار الإجابة الوحيدة الصحيحة.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Our vacation is ___ July.",
+              "options": [
+                "on",
+                "in",
+                "at"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Their match is ___ Thursday.",
+              "options": [
+                "in",
+                "at",
+                "on"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "The test is ___ November twenty-first.",
+              "options": [
+                "on",
+                "in",
+                "under"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "My birthday is ___ March.",
+              "options": [
+                "on",
+                "in",
+                "at"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ old is Hadi? He is fourteen.",
+              "options": [
+                "What",
+                "When",
+                "How"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "___ day is today? It is Tuesday.",
+              "options": [
+                "What",
+                "How old",
+                "Where"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "___ is your vacation? It is in August.",
+              "options": [
+                "How old",
+                "When",
+                "Who"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "We are Rami and Hadi. ___ names are Rami and Hadi.",
+              "options": [
+                "Their",
+                "Your",
+                "Our"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "I am speaking to two students: What are ___ names?",
+              "options": [
+                "your",
+                "our",
+                "their"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Those boys are my classmates. ___ test is tomorrow.",
+              "options": [
+                "Our",
+                "Their",
+                "Your"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correctly capitalized day.",
+              "options": [
+                "wednesday",
+                "WEDNesday",
+                "Wednesday"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "In the month-first format used here, 4/13 is ___.",
+              "options": [
+                "April thirteenth",
+                "March fourteenth",
+                "April thirtieth"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "numbers",
+          "title": "الأيام والشهور والأرقام",
+          "sub": "راجع ترتيب الأيام والشهور وكتابة الأعداد.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "The day after Wednesday is ___.",
+              "options": [
+                "Thursday",
+                "Tuesday",
+                "Monday"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The day before Sunday is ___.",
+              "options": [
+                "Monday",
+                "Saturday",
+                "Tuesday"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "The month after August is ___.",
+              "options": [
+                "July",
+                "October",
+                "September"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "December is the ___ month of the year.",
+              "options": [
+                "twelfth",
+                "second",
+                "tenth"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "September is the ___ month of the year.",
+              "options": [
+                "eighth",
+                "ninth",
+                "sixth"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct spelling of 40.",
+              "options": [
+                "fourty",
+                "fourteen",
+                "forty"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the ordinal number for 8th.",
+              "options": [
+                "eighth",
+                "eight",
+                "eighteen"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the ordinal number for 21st.",
+              "options": [
+                "twenty",
+                "twenty-first",
+                "twelfth"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Which number is one thousand?",
+              "options": [
+                "100",
+                "10",
+                "1,000"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Which number is eighty?",
+              "options": [
+                "80",
+                "18",
+                "8"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "classroom",
+          "title": "تعليمات الفصل",
+          "sub": "مواقف مكتوبة، من غير صوت أو صور مطلوبة للحل.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "The teacher says: \"Work with a partner.\" You should work ___.",
+              "options": [
+                "alone",
+                "with one classmate",
+                "with nobody"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "The teacher says: \"Take out your pencils.\" What do you need?",
+              "options": [
+                "Your lunch",
+                "Your shoes",
+                "Your pencils"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Your books are open. Which instruction means to shut them?",
+              "options": [
+                "Close your books.",
+                "Open your books.",
+                "Take out your pencils."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The teacher wants the bags in their usual place. The instruction is:",
+              "options": [
+                "Look at page twelve.",
+                "Put your bags away.",
+                "Work with a partner."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Which word makes an instruction more polite?",
+              "options": [
+                "Yesterday",
+                "Thirteen",
+                "Please"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "\"Look at page twelve\" means you should find page ___.",
+              "options": [
+                "12",
+                "20",
+                "2"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "قراءة تقويم تدريبي",
+          "sub": "نص أصلي افتراضي، مش جدول مواعيد حقيقي. النص كامل فوق كل سؤال.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "How old is Rami?",
+              "options": [
+                "Twelve",
+                "Thirteen",
+                "Fourteen"
+              ],
+              "answer": 1,
+              "passage": "Practice class calendar, a fictional example: My name is Rami. I am thirteen. Hadi and I are classmates. Hadi is fourteen. Our English test is in November. It is on November twenty-first. Our football match is on Thursday. Hadi's birth month is March."
+            },
+            {
+              "type": "mcq",
+              "q": "How old is Hadi?",
+              "options": [
+                "Twelve",
+                "Thirteen",
+                "Fourteen"
+              ],
+              "answer": 2,
+              "passage": "Practice class calendar, a fictional example: My name is Rami. I am thirteen. Hadi and I are classmates. Hadi is fourteen. Our English test is in November. It is on November twenty-first. Our football match is on Thursday. Hadi's birth month is March."
+            },
+            {
+              "type": "mcq",
+              "q": "What month is the English test in?",
+              "options": [
+                "November",
+                "March",
+                "July"
+              ],
+              "answer": 0,
+              "passage": "Practice class calendar, a fictional example: My name is Rami. I am thirteen. Hadi and I are classmates. Hadi is fourteen. Our English test is in November. It is on November twenty-first. Our football match is on Thursday. Hadi's birth month is March."
+            },
+            {
+              "type": "mcq",
+              "q": "What is the test date?",
+              "options": [
+                "November first",
+                "November twenty-first",
+                "March twenty-first"
+              ],
+              "answer": 1,
+              "passage": "Practice class calendar, a fictional example: My name is Rami. I am thirteen. Hadi and I are classmates. Hadi is fourteen. Our English test is in November. It is on November twenty-first. Our football match is on Thursday. Hadi's birth month is March."
+            },
+            {
+              "type": "mcq",
+              "q": "What day is the football match?",
+              "options": [
+                "Tuesday",
+                "Friday",
+                "Thursday"
+              ],
+              "answer": 2,
+              "passage": "Practice class calendar, a fictional example: My name is Rami. I am thirteen. Hadi and I are classmates. Hadi is fourteen. Our English test is in November. It is on November twenty-first. Our football match is on Thursday. Hadi's birth month is March."
+            },
+            {
+              "type": "mcq",
+              "q": "What is Hadi's birth month?",
+              "options": [
+                "March",
+                "November",
+                "August"
+              ],
+              "answer": 0,
+              "passage": "Practice class calendar, a fictional example: My name is Rami. I am thirteen. Hadi and I are classmates. Hadi is fourteen. Our English test is in November. It is on November twenty-first. Our football match is on Thursday. Hadi's birth month is March."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب الجملة",
+          "sub": "ابدأ بالكلمة اللي أول حرف فيها كبير، وحافظ على علامة نهاية الجملة.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "Monday.",
+                "on",
+                "test",
+                "Our",
+                "is"
+              ],
+              "answer": [
+                "Our",
+                "test",
+                "is",
+                "on",
+                "Monday."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "vacation?",
+                "your",
+                "is",
+                "When"
+              ],
+              "answer": [
+                "When",
+                "is",
+                "your",
+                "vacation?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "they?",
+                "old",
+                "How",
+                "are"
+              ],
+              "answer": [
+                "How",
+                "old",
+                "are",
+                "they?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "a",
+                "partner.",
+                "with",
+                "Work"
+              ],
+              "answer": [
+                "Work",
+                "with",
+                "a",
+                "partner."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "source": {
     "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g7/g7-english-1448.pdf",
     "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K07-SM1-ENGLMH.pdf",
-    "title": "Super Goal 1, Part 1, Unit 1, pages 2–9",
-    "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint returned HTTP500. Original explanations and exercises, not copied textbook questions."
+    "title": "Super Goal 1, Part 1, Units 1–2, pages 2–17",
+    "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint returned HTTP500. Original explanations and exercises, not copied textbook questions.",
+    "reviewedUnits": {
+      "u1": [
+        2,
+        9
+      ],
+      "u2": [
+        10,
+        17
+      ]
+    }
   }
 }
