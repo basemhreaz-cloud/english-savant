@@ -1,0 +1,31 @@
+name: Restore checked P1 ten-star exam image
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: english-savant-verified-bank-batch
+  cancel-in-progress: false
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Restore only verified missing image
+        run: |
+          python3 <<'PYCODE'
+          import pathlib,base64,hashlib
+          p=pathlib.Path('p1-lessons-assets/img/count-stars-10.png')
+          b=base64.b64decode('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')
+          assert hashlib.sha256(b).hexdigest()=='f90286410217d581918da272b81c2d1f60715668abf451be18640e0b499424b0'
+          assert not p.exists() or p.read_bytes()==b
+          p.write_bytes(b)
+          PYCODE
+          git config user.name basemhreaz-cloud
+          git config user.email basemhreaz-cloud@users.noreply.github.com
+          git add -- p1-lessons-assets/img/count-stars-10.png
+          git diff --cached --quiet && exit 0
+          git commit -m 'Restore checked ten-star image for P1 unit exam'
+          git push origin HEAD:main
