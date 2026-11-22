@@ -1,0 +1,478 @@
+{
+  "grade": "sa-m1",
+  "gradeName": "الصف الأول المتوسط · المنهج السعودي (Super Goal 1)",
+  "units": [
+    {
+      "id": "u1",
+      "num": 1,
+      "title": "Good Morning!",
+      "pages": [
+        2,
+        9
+      ],
+      "lessons": [],
+      "vocab": [
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "good night",
+        "goodbye",
+        "classmate",
+        "student",
+        "teacher",
+        "friend",
+        "eraser",
+        "scissors",
+        "notebook",
+        "pencil",
+        "crayon",
+        "paints",
+        "read",
+        "write",
+        "cut",
+        "erase",
+        "color"
+      ],
+      "sentences": [
+        "I am ready.",
+        "You are my friend.",
+        "He is a student.",
+        "She is our teacher.",
+        "We are classmates.",
+        "They are friends.",
+        "Her name is Nora.",
+        "His name is Omar.",
+        "Nice to meet you.",
+        "We cut with scissors."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "التحية حسب الوقت",
+          "text": "بنقول Good morning في الصبح، وGood afternoon بعد الظهر، وGood evening في المساء عند المقابلة. Good night بنستخدمها عند الوداع بالليل أو قبل النوم، مش بدل التحية عند الوصول."
+        },
+        {
+          "title": "فعل be: am / is / are",
+          "text": "مع I نستخدم am. مع he وshe والاسم المفرد نستخدم is. مع you وwe وthey والجمع نستخدم are. الاختصارات: I am = I’m، he is = he’s، she is = she’s، you are = you’re، we are = we’re، they are = they’re."
+        },
+        {
+          "title": "الاسم والملكية",
+          "text": "my معناها الخاص بي، وyour الخاص بك، وhis الخاص به، وher الخاص بها. بنختارها حسب صاحب الحاجة، مش حسب الحاجة نفسها: Mona → her name، Omar → his name. وWhat’s your name? معناها اسمك إيه؟"
+        },
+        {
+          "title": "السؤال والتعارف",
+          "text": "في سؤال be بنقدم الفعل: You are new. تصبح Are you new? عند التعارف بنقول Nice to meet you، والرد Nice to meet you, too. جملة This is my friend بتقدم بيها صديقك."
+        },
+        {
+          "title": "أدوات المدرسة",
+          "text": "بنقرأ books، ونكتب بقلم أو قلم رصاص، ونقص بـscissors، ونمسح بـeraser، ونلوّن بـcrayons، ونرسم بالألوان paints. الجملة تبدأ بحرف كبير، والسؤال آخره علامة استفهام."
+        }
+      ],
+      "meanings": {
+        "good morning": "صباح الخير",
+        "good afternoon": "تحية بعد الظهر",
+        "good evening": "مساء الخير",
+        "good night": "تصبح على خير",
+        "goodbye": "إلى اللقاء",
+        "classmate": "زميل في الفصل",
+        "student": "طالب",
+        "teacher": "معلّم",
+        "friend": "صديق",
+        "eraser": "أستيكة",
+        "scissors": "مقص",
+        "notebook": "كشكول",
+        "pencil": "قلم رصاص",
+        "crayon": "قلم تلوين شمع",
+        "paints": "ألوان للرسم",
+        "read": "يقرأ",
+        "write": "يكتب",
+        "cut": "يقص",
+        "erase": "يمسح",
+        "color": "يلوّن"
+      },
+      "sentenceMeanings": {
+        "I am ready.": "أنا مستعد.",
+        "You are my friend.": "أنت صديقي.",
+        "He is a student.": "هو طالب.",
+        "She is our teacher.": "هي معلّمتنا.",
+        "We are classmates.": "إحنا زمايل في الفصل.",
+        "They are friends.": "هم أصدقاء.",
+        "Her name is Nora.": "اسمها نورا.",
+        "His name is Omar.": "اسمه عمر.",
+        "Nice to meet you.": "سعيد بلقائك.",
+        "We cut with scissors.": "إحنا بنقص بالمقص."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "الكلمات ومعانيها",
+          "sub": "رتب حروف الكلمة حسب المعنى العربي.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "tudents",
+              "answer": [
+                "student"
+              ],
+              "hint": "طالب"
+            },
+            {
+              "type": "unscramble",
+              "letters": "eachert",
+              "answer": [
+                "teacher"
+              ],
+              "hint": "معلّم"
+            },
+            {
+              "type": "unscramble",
+              "letters": "riendf",
+              "answer": [
+                "friend"
+              ],
+              "hint": "صديق"
+            },
+            {
+              "type": "unscramble",
+              "letters": "rasere",
+              "answer": [
+                "eraser"
+              ],
+              "hint": "أستيكة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "encilp",
+              "answer": [
+                "pencil"
+              ],
+              "hint": "قلم رصاص"
+            },
+            {
+              "type": "unscramble",
+              "letters": "otebookn",
+              "answer": [
+                "notebook"
+              ],
+              "hint": "كشكول"
+            }
+          ]
+        },
+        {
+          "id": "grammar",
+          "title": "القواعد",
+          "sub": "اختار الكلمة الوحيدة اللي تكمل الجملة صح.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "I ___ ready for class.",
+              "options": [
+                "is",
+                "am",
+                "are"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Nora ___ my classmate.",
+              "options": [
+                "are",
+                "am",
+                "is"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "You ___ kind.",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Omar and Ali ___ students.",
+              "options": [
+                "is",
+                "are",
+                "am"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "We ___ in the same class.",
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "He is Omar. ___ name is Omar.",
+              "options": [
+                "His",
+                "Her",
+                "My"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "She is Nora. ___ name is Nora.",
+              "options": [
+                "His",
+                "Your",
+                "Her"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "I am Sami. ___ name is Sami.",
+              "options": [
+                "Your",
+                "My",
+                "His"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ you a new student?",
+              "options": [
+                "Is",
+                "Am",
+                "Are"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "The short form of \"they are\" is ___.",
+              "options": [
+                "they’re",
+                "their",
+                "there"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "language",
+          "title": "مواقف وأدوات",
+          "sub": "اقرأ الموقف الأول، وبعده اختار الرد المناسب.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "You meet your teacher at 8:00 a.m. You say:",
+              "options": [
+                "Good night.",
+                "Good morning.",
+                "Goodbye."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "You arrive at an evening class at 7:00 p.m. You say:",
+              "options": [
+                "Good evening.",
+                "Good night.",
+                "See you later."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Your friend says: \"Nice to meet you.\" You reply:",
+              "options": [
+                "Good night.",
+                "I am ten.",
+                "Nice to meet you, too."
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "You want to know a new student’s name. You ask:",
+              "options": [
+                "What’s your name?",
+                "How are you?",
+                "Where is your book?"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "We ___ with scissors.",
+              "options": [
+                "read",
+                "cut",
+                "erase"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "We ___ a pencil mark with an eraser.",
+              "options": [
+                "paint",
+                "read",
+                "erase"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "We ___ stories in books.",
+              "options": [
+                "read",
+                "cut",
+                "erase"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correctly written question.",
+              "options": [
+                "are you new.",
+                "Are you new?",
+                "are you new?"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "قراءة قصيرة",
+          "sub": "نص أصلي للتدريب على أهداف الوحدة. كل سؤال معاه النص كامل.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Who is new in the class?",
+              "options": [
+                "Huda",
+                "Lina",
+                "The teacher"
+              ],
+              "answer": 1,
+              "passage": "Lina: Hello. My name is Lina. I am a new student. I am from Abha. Huda: Hi, Lina. I am Huda, your classmate. Welcome to our class! Lina: Thank you, Huda. Nice to meet you. Huda: Nice to meet you, too."
+            },
+            {
+              "type": "mcq",
+              "q": "Where is Lina from?",
+              "options": [
+                "Abha",
+                "Jeddah",
+                "Dammam"
+              ],
+              "answer": 0,
+              "passage": "Lina: Hello. My name is Lina. I am a new student. I am from Abha. Huda: Hi, Lina. I am Huda, your classmate. Welcome to our class! Lina: Thank you, Huda. Nice to meet you. Huda: Nice to meet you, too."
+            },
+            {
+              "type": "mcq",
+              "q": "What is Huda’s relationship to Lina?",
+              "options": [
+                "Her mother",
+                "Her teacher",
+                "Her classmate"
+              ],
+              "answer": 2,
+              "passage": "Lina: Hello. My name is Lina. I am a new student. I am from Abha. Huda: Hi, Lina. I am Huda, your classmate. Welcome to our class! Lina: Thank you, Huda. Nice to meet you. Huda: Nice to meet you, too."
+            },
+            {
+              "type": "mcq",
+              "q": "Huda welcomes Lina. Which word describes Huda?",
+              "options": [
+                "Friendly",
+                "Asleep",
+                "Hungry"
+              ],
+              "answer": 0,
+              "passage": "Lina: Hello. My name is Lina. I am a new student. I am from Abha. Huda: Hi, Lina. I am Huda, your classmate. Welcome to our class! Lina: Thank you, Huda. Nice to meet you. Huda: Nice to meet you, too."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب الجملة",
+          "sub": "اضغط الكلمات بالترتيب، ثم تحقق.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "name",
+                "is",
+                "My",
+                "Sami."
+              ],
+              "answer": [
+                "My",
+                "name",
+                "is",
+                "Sami."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "you",
+                "Are",
+                "new?"
+              ],
+              "answer": [
+                "Are",
+                "you",
+                "new?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "classmates.",
+                "are",
+                "We"
+              ],
+              "answer": [
+                "We",
+                "are",
+                "classmates."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "meet",
+                "Nice",
+                "you.",
+                "to"
+              ],
+              "answer": [
+                "Nice",
+                "to",
+                "meet",
+                "you."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g7/g7-english-1448.pdf",
+    "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K07-SM1-ENGLMH.pdf",
+    "title": "Super Goal 1, Part 1, Unit 1, pages 2–9",
+    "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint returned HTTP500. Original explanations and exercises, not copied textbook questions."
+  }
+}
