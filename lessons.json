@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "lessons": [
     {
       "id": "psc-ep1",
@@ -115,6 +115,26 @@
       "duration": "13:44",
       "mp4": "videos/ES_M2_T1_U1.mp4",
       "poster": "videos/ES_M2_T1_U1.jpg",
+      "soon": false
+    },
+    {
+      "id": "m3-u1",
+      "grade": "m3",
+      "title": "Personal Identity",
+      "part": "الوحدة الأولى",
+      "duration": "14:33",
+      "mp4": "videos/ES_M3_T1_U1.mp4",
+      "poster": "videos/ES_M3_T1_U1.jpg",
+      "soon": false
+    },
+    {
+      "id": "p2-u2",
+      "grade": "p2",
+      "title": "Colors, Shapes and Numbers",
+      "part": "الوحدة الثانية",
+      "duration": "13:14",
+      "mp4": "videos/ES_P2_T1_U2.mp4",
+      "poster": "videos/ES_P2_T1_U2.jpg",
       "soon": false
     }
   ]
