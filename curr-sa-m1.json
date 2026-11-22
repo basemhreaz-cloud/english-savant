@@ -3878,12 +3878,727 @@
           ]
         }
       ]
+    },
+    {
+      "id": "u6",
+      "num": 6,
+      "title": "Is There a View?",
+      "pages": [
+        48,
+        55
+      ],
+      "lessons": [],
+      "vocab": [
+        "house",
+        "apartment",
+        "bedroom",
+        "living room",
+        "dining room",
+        "kitchen",
+        "bathroom",
+        "laundry room",
+        "garden",
+        "yard",
+        "garage",
+        "balcony",
+        "view",
+        "upstairs",
+        "downstairs",
+        "bed",
+        "desk",
+        "closet",
+        "lamp",
+        "rug",
+        "shelf",
+        "sofa",
+        "armchair",
+        "sound system",
+        "curtains",
+        "cabinet",
+        "microwave",
+        "stove",
+        "sink",
+        "dishwasher",
+        "refrigerator",
+        "mirror",
+        "shower",
+        "bathtub",
+        "washer",
+        "dryer",
+        "comfortable",
+        "modern",
+        "quiet",
+        "crowded",
+        "unusual",
+        "houseboat",
+        "cave",
+        "electricity",
+        "running water",
+        "in",
+        "on",
+        "under",
+        "behind",
+        "in front of",
+        "and",
+        "but",
+        "or"
+      ],
+      "sentences": [
+        "There is a bed in the room.",
+        "There are two chairs.",
+        "There is not a garage.",
+        "Are there any flowers?",
+        "Is there a balcony?",
+        "The cat is under the chair.",
+        "The lamp is on the desk.",
+        "The garden is in front of the house.",
+        "My room is small but comfortable.",
+        "You can sit on the sofa or the armchair.",
+        "What is your favorite room?",
+        "There are flowers on the balcony."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "الغرف وحاجات البيت",
+          "text": "bedroom أوضة نوم، وliving room أوضة معيشة، وkitchen مطبخ، وbathroom حمام. sofa كنبة وarmchair كرسي مريح بذراعين وcloset دولاب ملابس. فرّق بين dishwasher غسالة أطباق وwasher غسالة ملابس. balcony بلكونة، وview إطلالة. upstairs فوق في الدور العلوي وdownstairs تحت في الدور السفلي."
+        },
+        {
+          "title": "There is وThere are",
+          "text": "عشان تقول فيه حاجة، استخدم There is قبل المفرد: There is a desk. وقبل الجمع استخدم There are: There are two chairs. There's اختصار There is. في وصف البيت تقدر تقول The apartment has two bedrooms أوThere are two bedrooms in the apartment. ما تستخدمش has بعد There."
+        },
+        {
+          "title": "السؤال والنفي عن الموجود",
+          "text": "للسؤال قدم is أوare: Is there a balcony? Are there any flowers? الإجابة Yes, there is أوNo, there isn't للمفرد، وYes, there are أوNo, there aren't للجمع. للنفي: There isn't a garage وThere aren't any trees. اقرا وصف المكان عشان تعرف الحاجة موجودة ولا مش موجودة، مش من القاعدة وحدها."
+        },
+        {
+          "title": "حروف جر المكان من كلام واضح",
+          "text": "in داخل، وon على سطح الحاجة، وunder تحت، وbehind خلف، وin front of قدام. The lamp is on the desk يعني المصباح على المكتب. The cat is under the chair يعني القطة تحت الكرسي. كل سؤال مكان هنا بيوضح العلاقة بالكلام، ومش بيعتمد على صورة مش ظاهرة أو خريطة."
+        },
+        {
+          "title": "and وbut وor",
+          "text": "and للإضافة وربط كلمات أو أفكار: a sofa and a table. but للتضاد: The room is small but comfortable. or للاختيار بين بدائل: the sofa or the armchair. لما but تربط جملتين كاملتين، نستخدم فاصلة قبلها: My room isn't big, but it is comfortable. أسئلة المحطة بتحدد لك هل المطلوب إضافة ولا تضاد ولا اختيار عشان ميبقاش فيه أكتر من معنى محتمل."
+        },
+        {
+          "title": "وصف بيت وفهم نص",
+          "text": "ابدأ بنوع البيت، وبعد كده عدد الغرف وإيه الموجود فيها ومكانه. اذكر أوضتك المفضلة ووصف بسيط زي modern أوcomfortable. تقدر تبدأ بالمكان: In the garden, there are flowers. النص التدريبي هنا عن شقة افتراضية، ومش بيطلب منك عنوانك أو صور بيتك الحقيقي. النص كامل فوق كل سؤال، ومش محتاج تسجيل صوتي."
+        }
+      ],
+      "meanings": {
+        "house": "بيت",
+        "apartment": "شقة",
+        "bedroom": "غرفة نوم",
+        "living room": "غرفة معيشة",
+        "dining room": "غرفة سفرة",
+        "kitchen": "مطبخ",
+        "bathroom": "حمام",
+        "laundry room": "غرفة غسيل",
+        "garden": "حديقة",
+        "yard": "فناء البيت",
+        "garage": "جراج",
+        "balcony": "بلكونة",
+        "view": "منظر أو إطلالة",
+        "upstairs": "فوق في الدور العلوي",
+        "downstairs": "تحت في الدور السفلي",
+        "bed": "سرير",
+        "desk": "مكتب",
+        "closet": "دولاب ملابس",
+        "lamp": "مصباح",
+        "rug": "سجادة",
+        "shelf": "رف",
+        "sofa": "كنبة",
+        "armchair": "كرسي مريح بذراعين",
+        "sound system": "نظام صوت",
+        "curtains": "ستاير",
+        "cabinet": "دولاب تخزين",
+        "microwave": "ميكروويف",
+        "stove": "بوتاجاز",
+        "sink": "حوض",
+        "dishwasher": "غسالة أطباق",
+        "refrigerator": "تلاجة",
+        "mirror": "مرآة",
+        "shower": "دُش",
+        "bathtub": "بانيو",
+        "washer": "غسالة ملابس",
+        "dryer": "مجفف ملابس",
+        "comfortable": "مريح",
+        "modern": "حديث",
+        "quiet": "هادئ",
+        "crowded": "مزدحم",
+        "unusual": "غير معتاد",
+        "houseboat": "بيت عائم على مركب",
+        "cave": "كهف",
+        "electricity": "كهرباء",
+        "running water": "مياه جارية من الحنفيات",
+        "in": "داخل أو في",
+        "on": "على سطح الشيء",
+        "under": "تحت",
+        "behind": "خلف",
+        "in front of": "أمام",
+        "and": "و للإضافة",
+        "but": "لكن للتضاد",
+        "or": "أو للاختيار"
+      },
+      "sentenceMeanings": {
+        "There is a bed in the room.": "فيه سرير في الغرفة.",
+        "There are two chairs.": "فيه كرسيين.",
+        "There is not a garage.": "مفيش جراج.",
+        "Are there any flowers?": "فيه زهور؟",
+        "Is there a balcony?": "فيه بلكونة؟",
+        "The cat is under the chair.": "القطة تحت الكرسي.",
+        "The lamp is on the desk.": "المصباح على المكتب.",
+        "The garden is in front of the house.": "الحديقة قدام البيت.",
+        "My room is small but comfortable.": "أوضتي صغيرة لكن مريحة.",
+        "You can sit on the sofa or the armchair.": "تقدر تقعد على الكنبة أو الكرسي المريح.",
+        "What is your favorite room?": "إيه أوضتك المفضلة؟",
+        "There are flowers on the balcony.": "فيه زهور على البلكونة."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "الغرف وحاجات البيت",
+          "sub": "رتب الحروف حسب المعنى العربي.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "edroomb",
+              "answer": [
+                "bedroom"
+              ],
+              "hint": "غرفة نوم"
+            },
+            {
+              "type": "unscramble",
+              "letters": "itchenk",
+              "answer": [
+                "kitchen"
+              ],
+              "hint": "مطبخ"
+            },
+            {
+              "type": "unscramble",
+              "letters": "athroomb",
+              "answer": [
+                "bathroom"
+              ],
+              "hint": "حمام"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ofas",
+              "answer": [
+                "sofa"
+              ],
+              "hint": "كنبة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "losetc",
+              "answer": [
+                "closet"
+              ],
+              "hint": "دولاب ملابس"
+            },
+            {
+              "type": "unscramble",
+              "letters": "urtainsc",
+              "answer": [
+                "curtains"
+              ],
+              "hint": "ستاير"
+            },
+            {
+              "type": "unscramble",
+              "letters": "irrorm",
+              "answer": [
+                "mirror"
+              ],
+              "hint": "مرآة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "helfs",
+              "answer": [
+                "shelf"
+              ],
+              "hint": "رف"
+            },
+            {
+              "type": "unscramble",
+              "letters": "efrigeratorr",
+              "answer": [
+                "refrigerator"
+              ],
+              "hint": "تلاجة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ishwasherd",
+              "answer": [
+                "dishwasher"
+              ],
+              "hint": "غسالة أطباق"
+            },
+            {
+              "type": "unscramble",
+              "letters": "alconyb",
+              "answer": [
+                "balcony"
+              ],
+              "hint": "بلكونة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "arageg",
+              "answer": [
+                "garage"
+              ],
+              "hint": "جراج"
+            }
+          ]
+        },
+        {
+          "id": "grammar",
+          "title": "الموجود في البيت والسؤال عنه",
+          "sub": "راجع المفرد والجمع ووصف المكان المكتوب.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "There ___ a bed in the room.",
+              "options": [
+                "is",
+                "are",
+                "am"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "There ___ two chairs.",
+              "options": [
+                "is",
+                "are",
+                "am"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "There ___ a flower on the table.",
+              "options": [
+                "am",
+                "are",
+                "is"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "The house has no garage. There ___ a garage.",
+              "options": [
+                "isn't",
+                "is",
+                "aren't"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The garden has no trees. There ___ any trees.",
+              "options": [
+                "are",
+                "aren't",
+                "isn't"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ there a balcony?",
+              "options": [
+                "Am",
+                "Are",
+                "Is"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "___ there any flowers?",
+              "options": [
+                "Are",
+                "Is",
+                "Am"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Is there a desk? Yes, there ___.",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Are there curtains? No, there ___.",
+              "options": [
+                "is",
+                "are",
+                "aren't"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "There's means ___.",
+              "options": [
+                "There is",
+                "There are",
+                "There am"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "My apartment ___ two bedrooms.",
+              "options": [
+                "have",
+                "has",
+                "are"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ is your favorite room? The living room.",
+              "options": [
+                "Who",
+                "When",
+                "What"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "positions",
+          "title": "المكان من غير صور",
+          "sub": "العلاقة المكانية كلها مكتوبة في السؤال.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "The ball is inside the box. It is ___ the box.",
+              "options": [
+                "in",
+                "behind",
+                "on"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The book rests on the top surface of the table. It is ___ the table.",
+              "options": [
+                "under",
+                "on",
+                "behind"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "The cat is below the chair. It is ___ the chair.",
+              "options": [
+                "on",
+                "in",
+                "under"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "The garden is in front of the house. The house is ___ the garden.",
+              "options": [
+                "behind",
+                "under",
+                "on"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The chair is at the front of the desk, not behind it. The chair is ___ the desk.",
+              "options": [
+                "under",
+                "in front of",
+                "in"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "The lamp is on the desk. The desk is ___ the lamp.",
+              "options": [
+                "on",
+                "in",
+                "under"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "The cat is inside the box. Where is it?",
+              "options": [
+                "In the box",
+                "On the box",
+                "Behind the box"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Which preposition means خلف?",
+              "options": [
+                "under",
+                "behind",
+                "on"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "conjunctions",
+          "title": "and وbut وor",
+          "sub": "كل سؤال محدد فيه المطلوب: إضافة أو تضاد أو اختيار.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Choose the word for ADDITION: There is a sofa ___ a table.",
+              "options": [
+                "and",
+                "but",
+                "or"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the word showing CONTRAST: The room is small ___ comfortable.",
+              "options": [
+                "and",
+                "but",
+                "or"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Offer a CHOICE: You can sit on the sofa ___ the armchair.",
+              "options": [
+                "and",
+                "but",
+                "or"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Choose CONTRAST: There are flowers, ___ there are no trees.",
+              "options": [
+                "but",
+                "and",
+                "or"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Offer a CHOICE: Write the word ___ draw a picture.",
+              "options": [
+                "but",
+                "or",
+                "and"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Join two actions as an ADDITION: We read ___ write in class.",
+              "options": [
+                "or",
+                "but",
+                "and"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "قراءة: شقة افتراضية",
+          "sub": "النص كامل فوق كل سؤال، من غير صورة أو عنوان حقيقي.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "How many bedrooms does the apartment have?",
+              "options": [
+                "Two",
+                "One",
+                "Three"
+              ],
+              "answer": 0,
+              "passage": "Fictional apartment practice: My name is Maha. Our apartment has two bedrooms and one bathroom. There is a kitchen and a living room. There is not a dining room. The apartment is small but comfortable. My favorite room is the living room. There is a sofa in it. There are flowers on the balcony. The refrigerator is in the kitchen. There is no garage."
+            },
+            {
+              "type": "mcq",
+              "q": "How many bathrooms are there?",
+              "options": [
+                "Two",
+                "One",
+                "Three"
+              ],
+              "answer": 1,
+              "passage": "Fictional apartment practice: My name is Maha. Our apartment has two bedrooms and one bathroom. There is a kitchen and a living room. There is not a dining room. The apartment is small but comfortable. My favorite room is the living room. There is a sofa in it. There are flowers on the balcony. The refrigerator is in the kitchen. There is no garage."
+            },
+            {
+              "type": "mcq",
+              "q": "Is there a dining room?",
+              "options": [
+                "Yes, there is.",
+                "There are two.",
+                "No, there is not."
+              ],
+              "answer": 2,
+              "passage": "Fictional apartment practice: My name is Maha. Our apartment has two bedrooms and one bathroom. There is a kitchen and a living room. There is not a dining room. The apartment is small but comfortable. My favorite room is the living room. There is a sofa in it. There are flowers on the balcony. The refrigerator is in the kitchen. There is no garage."
+            },
+            {
+              "type": "mcq",
+              "q": "What is Maha's favorite room?",
+              "options": [
+                "The living room",
+                "The kitchen",
+                "The bathroom"
+              ],
+              "answer": 0,
+              "passage": "Fictional apartment practice: My name is Maha. Our apartment has two bedrooms and one bathroom. There is a kitchen and a living room. There is not a dining room. The apartment is small but comfortable. My favorite room is the living room. There is a sofa in it. There are flowers on the balcony. The refrigerator is in the kitchen. There is no garage."
+            },
+            {
+              "type": "mcq",
+              "q": "Where are the flowers?",
+              "options": [
+                "Under the bed",
+                "On the balcony",
+                "In the garage"
+              ],
+              "answer": 1,
+              "passage": "Fictional apartment practice: My name is Maha. Our apartment has two bedrooms and one bathroom. There is a kitchen and a living room. There is not a dining room. The apartment is small but comfortable. My favorite room is the living room. There is a sofa in it. There are flowers on the balcony. The refrigerator is in the kitchen. There is no garage."
+            },
+            {
+              "type": "mcq",
+              "q": "Where is the refrigerator?",
+              "options": [
+                "In the bedroom",
+                "In the bathroom",
+                "In the kitchen"
+              ],
+              "answer": 2,
+              "passage": "Fictional apartment practice: My name is Maha. Our apartment has two bedrooms and one bathroom. There is a kitchen and a living room. There is not a dining room. The apartment is small but comfortable. My favorite room is the living room. There is a sofa in it. There are flowers on the balcony. The refrigerator is in the kitchen. There is no garage."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب الجملة",
+          "sub": "راجع There is/are والمكان وأدوات الربط.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "balcony.",
+                "the",
+                "on",
+                "flowers",
+                "are",
+                "There"
+              ],
+              "answer": [
+                "There",
+                "are",
+                "flowers",
+                "on",
+                "the",
+                "balcony."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "room.",
+                "my",
+                "in",
+                "desk",
+                "a",
+                "is",
+                "There"
+              ],
+              "answer": [
+                "There",
+                "is",
+                "a",
+                "desk",
+                "in",
+                "my",
+                "room."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "curtains?",
+                "any",
+                "there",
+                "Are"
+              ],
+              "answer": [
+                "Are",
+                "there",
+                "any",
+                "curtains?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "comfortable.",
+                "but",
+                "small",
+                "is",
+                "room",
+                "The"
+              ],
+              "answer": [
+                "The",
+                "room",
+                "is",
+                "small",
+                "but",
+                "comfortable."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "source": {
     "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g7/g7-english-1448.pdf",
     "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K07-SM1-ENGLMH.pdf",
-    "title": "Super Goal 1, Part 1, Units 1–5 and Expansion 1–4, pages 2–47",
+    "title": "Super Goal 1, Part 1, Units 1–6 and Expansion 1–4, pages 2–55",
     "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint returned HTTP500. Original explanations and exercises, not copied textbook questions.",
     "reviewedUnits": {
       "u1": [
@@ -3909,6 +4624,10 @@
       "u5": [
         40,
         47
+      ],
+      "u6": [
+        48,
+        55
       ]
     }
   }
