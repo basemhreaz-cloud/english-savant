@@ -3495,12 +3495,714 @@
           ]
         }
       ]
+    },
+    {
+      "id": "exp1",
+      "num": "مراجعة 1–4",
+      "title": "Expansion · Units 1–4",
+      "pages": [
+        34,
+        39
+      ],
+      "lessons": [],
+      "vocab": [
+        "driver",
+        "translator",
+        "manager",
+        "writer",
+        "salesperson",
+        "reporter",
+        "nurse",
+        "uniform",
+        "tourist",
+        "board game",
+        "tournament",
+        "network",
+        "encourage",
+        "pressure",
+        "scream",
+        "fan",
+        "commentator",
+        "strategy",
+        "skill",
+        "compete",
+        "grab",
+        "ache",
+        "look forward to",
+        "strife",
+        "share",
+        "rush",
+        "crawl out of bed",
+        "make myself a bite",
+        "fit in",
+        "get your act together",
+        "be laid off",
+        "typical",
+        "some",
+        "any"
+      ],
+      "sentences": [
+        "A driver drives.",
+        "A translator translates.",
+        "I know how to play chess.",
+        "She does not know how to type.",
+        "They are watching the game now.",
+        "What is your favorite pastime?",
+        "How often do you practice?",
+        "We do not have any apples.",
+        "Would you like some water?",
+        "I look forward to the weekend."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "مراجعة بسيطة: المهنة والفعل",
+          "text": "اربط المهنة بالفعل: driver معdrives وtranslator معtranslates وwriter معwrites. في المضارع البسيط مع he أوshe نضيف s أوes. بعد does وdoes not الفعل يرجع لأصله. في السؤال عن الوظيفة What does he do?"
+        },
+        {
+          "title": "قدرة وحركة دلوقتي",
+          "text": "can ومعناها القدرة ممكن نستبدلها بـknow how to. مع she نقول She knows how to type. النفي She does not know how to type. المضارع المستمر am أوis أوare وبعده ing بيصف الفعل اللي بيحصل دلوقتي. كل مواقفنا موضحة بالكلام، مش بصورة غايبة."
+        },
+        {
+          "title": "سؤال عن شخص أو وقت أو تكرار",
+          "text": "Who بنسأل بيها عن شخص، وWhen عن وقت، وHow often عن التكرار. شوف نوع الإجابة: اسم شخص، أوat eight، أوtwice a week. سؤال What is your favorite pastime? عن النشاط المفضل."
+        },
+        {
+          "title": "some وany في أمثلة المراجعة",
+          "text": "في الأمثلة البسيطة هنا نستخدم some مع الإثبات، وany في النفي والسؤال عن وجود حاجة. مثال: We have some apples وWe do not have any apples. لكن في العرض المهذب ينفع some: Would you like some water? عشان كده ما بنعتبرش أي سؤال لازم ياخد any بشكل مطلق."
+        },
+        {
+          "title": "مفردات بطولة ويوم عمل",
+          "text": "tournament بطولة، وfan مشجع، وpressure ضغط، وencourage يشجع. grab ياخد حاجة بسرعة وبثبات، وrush يستعجل، وshare نصيب من الشغل أو الحاجة. look forward to معناها يستنى حاجة جاية بفرحة. تعبير be laid off معناه فقدان الوظيفة، مش مجرد نقل لمكان تاني."
+        },
+        {
+          "title": "نصين أصليين بدل اعتماد على تسجيل",
+          "text": "القراءة هنا عن بطولة مدرسية خيالية ويوم عمل خيالي. كل سؤال تحته النص الخاص به كامل. النصين مش أخبار حديثة عن بلد أو شركة، ومفيش إحصائيات ألعاب قديمة أو ادعاءات صحية من حوار الكتاب معروضة كحقائق. مراجعة المفردات مكتوبة، ومش محتاجة سماع الأنشودة."
+        }
+      ],
+      "meanings": {
+        "driver": "سائق",
+        "translator": "مترجم",
+        "manager": "مدير",
+        "writer": "كاتب",
+        "salesperson": "موظف مبيعات",
+        "reporter": "مراسل صحفي",
+        "nurse": "ممرض أو ممرضة",
+        "uniform": "زي موحد",
+        "tourist": "سائح",
+        "board game": "لعبة على لوحة",
+        "tournament": "بطولة بين مجموعة لاعبين أو فرق",
+        "network": "شبكة، زي مجموعة قنوات",
+        "encourage": "يشجع",
+        "pressure": "ضغط",
+        "scream": "صرخة",
+        "fan": "مشجع",
+        "commentator": "معلق",
+        "strategy": "استراتيجية أو خطة لعب",
+        "skill": "مهارة",
+        "compete": "يتنافس",
+        "grab": "يمسك أو ياخد حاجة بسرعة وبثبات",
+        "ache": "يوجعه أو يحس بألم",
+        "look forward to": "يستنى حاجة جاية بفرحة",
+        "strife": "صعوبة أو صراع",
+        "share": "نصيب أو جزء يخص الشخص",
+        "rush": "يستعجل أو يجري بسرعة",
+        "crawl out of bed": "يقوم من السرير ببطء",
+        "make myself a bite": "أحضر لنفسي حاجة خفيفة آكلها",
+        "fit in": "يندمج أو يبقى جزء من الفريق",
+        "get your act together": "نظم نفسك واشتغل بشكل أحسن",
+        "be laid off": "يفقد شغله بسبب إنهاء الوظيفة",
+        "typical": "معتاد أو نمطي",
+        "some": "بعض أو كمية، حسب الجملة",
+        "any": "أي أو ولا حاجة، حسب السؤال والنفي"
+      },
+      "sentenceMeanings": {
+        "A driver drives.": "السائق بيسوق.",
+        "A translator translates.": "المترجم بيترجم.",
+        "I know how to play chess.": "أنا بعرف ألعب شطرنج.",
+        "She does not know how to type.": "هي مش بتعرف تكتب على الكيبورد.",
+        "They are watching the game now.": "هم بيتفرجوا على الماتش دلوقتي.",
+        "What is your favorite pastime?": "إيه هوايتك أو نشاطك المفضل؟",
+        "How often do you practice?": "بتتدرب كل قد إيه؟",
+        "We do not have any apples.": "مفيش عندنا تفاح.",
+        "Would you like some water?": "تحب شوية مية؟",
+        "I look forward to the weekend.": "أنا مستني الويك إند بفرحة."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "كلمات مراجعة ووظائف",
+          "sub": "رتب الحروف حسب المعنى.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "riverd",
+              "answer": [
+                "driver"
+              ],
+              "hint": "سائق"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ranslatort",
+              "answer": [
+                "translator"
+              ],
+              "hint": "مترجم"
+            },
+            {
+              "type": "unscramble",
+              "letters": "eporterr",
+              "answer": [
+                "reporter"
+              ],
+              "hint": "مراسل صحفي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "niformu",
+              "answer": [
+                "uniform"
+              ],
+              "hint": "زي موحد"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ournamentt",
+              "answer": [
+                "tournament"
+              ],
+              "hint": "بطولة بين مجموعة لاعبين أو فرق"
+            },
+            {
+              "type": "unscramble",
+              "letters": "etworkn",
+              "answer": [
+                "network"
+              ],
+              "hint": "شبكة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ressurep",
+              "answer": [
+                "pressure"
+              ],
+              "hint": "ضغط"
+            },
+            {
+              "type": "unscramble",
+              "letters": "rabg",
+              "answer": [
+                "grab"
+              ],
+              "hint": "يمسك أو ياخد حاجة بسرعة وبثبات"
+            },
+            {
+              "type": "unscramble",
+              "letters": "hares",
+              "answer": [
+                "share"
+              ],
+              "hint": "نصيب أو جزء يخص الشخص"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ushr",
+              "answer": [
+                "rush"
+              ],
+              "hint": "يستعجل"
+            }
+          ]
+        },
+        {
+          "id": "grammar",
+          "title": "مراجعة قواعد الوحدات",
+          "sub": "المهنة والقدرة والسؤال والتكرار والمستمر.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "A driver ___ a bus.",
+              "options": [
+                "drives",
+                "drive",
+                "driving"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "A translator ___ from one language to another.",
+              "options": [
+                "translate",
+                "translates",
+                "translating"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "The nurse ___ in a hospital.",
+              "options": [
+                "work",
+                "working",
+                "works"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "What does the reporter ___?",
+              "options": [
+                "do",
+                "does",
+                "doing"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "She does not ___ for that company.",
+              "options": [
+                "works",
+                "work",
+                "working"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Look! The tourist ___ reading a map.",
+              "options": [
+                "am",
+                "are",
+                "is"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "The fans ___ watching the game now.",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "He is ___ a uniform now.",
+              "options": [
+                "wear",
+                "wearing",
+                "wears"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ is that man? He is our neighbor.",
+              "options": [
+                "When",
+                "How often",
+                "Who"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "___ do you start work? At eight.",
+              "options": [
+                "When",
+                "Who",
+                "How often"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "___ do you practice? Twice a week.",
+              "options": [
+                "Who",
+                "How often",
+                "Where"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "What ___ your favorite pastime?",
+              "options": [
+                "are",
+                "am",
+                "is"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "I can play chess. Choose the same meaning about ability.",
+              "options": [
+                "I know how to play chess.",
+                "I play chess every day.",
+                "I do not know how to play chess."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "She cannot type. Choose the same meaning about ability.",
+              "options": [
+                "She knows how to type.",
+                "She does not know how to type.",
+                "She types every morning."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "She ___ starts work at eight.",
+              "options": [
+                "is usually",
+                "usually is",
+                "usually"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "He ___ a game after lunch on Saturdays.",
+              "options": [
+                "starts",
+                "start",
+                "starting"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "functions",
+          "title": "كمية وعرض وتعبير",
+          "sub": "اقرأ الجملة والمعنى، مش قاعدة عامة مضللة.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Use the normal negative form: We do not have ___ apples.",
+              "options": [
+                "some",
+                "any",
+                "an"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Use the normal affirmative form: There are ___ apples on the table.",
+              "options": [
+                "any",
+                "an",
+                "some"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct word in this polite offer: Would you ___ some water?",
+              "options": [
+                "like",
+                "likes",
+                "liking"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The text says the team has zero points. It does not have ___ points.",
+              "options": [
+                "a",
+                "any",
+                "an"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Get your act together means ___.",
+              "options": [
+                "wear more formal clothes",
+                "change your name",
+                "organize yourself and do a better job"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Be laid off means ___.",
+              "options": [
+                "lose your job",
+                "get a different desk",
+                "win a game"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "قراءة: بطولة ويوم عمل",
+          "sub": "كل سؤال مع النص الخاص به كاملًا.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "How many students are competing in the school tournament?",
+              "options": [
+                "Eight",
+                "Four",
+                "Twelve"
+              ],
+              "answer": 0,
+              "passage": "Fictional school tournament: On Friday, the school games club is holding a board-game tournament. Eight students are competing. Their friends are watching and encouraging them. The school reporter, Hani, is writing a short article. The final starts at four in the afternoon. The players practice once a week. This is an original classroom story, not a real event announcement."
+            },
+            {
+              "type": "mcq",
+              "q": "Who is writing an article about the tournament?",
+              "options": [
+                "Nabil",
+                "Hani",
+                "The manager"
+              ],
+              "answer": 1,
+              "passage": "Fictional school tournament: On Friday, the school games club is holding a board-game tournament. Eight students are competing. Their friends are watching and encouraging them. The school reporter, Hani, is writing a short article. The final starts at four in the afternoon. The players practice once a week. This is an original classroom story, not a real event announcement."
+            },
+            {
+              "type": "mcq",
+              "q": "When does the final start?",
+              "options": [
+                "At eight in the morning",
+                "At five",
+                "At four in the afternoon"
+              ],
+              "answer": 2,
+              "passage": "Fictional school tournament: On Friday, the school games club is holding a board-game tournament. Eight students are competing. Their friends are watching and encouraging them. The school reporter, Hani, is writing a short article. The final starts at four in the afternoon. The players practice once a week. This is an original classroom story, not a real event announcement."
+            },
+            {
+              "type": "mcq",
+              "q": "How often do the players practice?",
+              "options": [
+                "Once a week",
+                "Twice a week",
+                "Every day"
+              ],
+              "answer": 0,
+              "passage": "Fictional school tournament: On Friday, the school games club is holding a board-game tournament. Eight students are competing. Their friends are watching and encouraging them. The school reporter, Hani, is writing a short article. The final starts at four in the afternoon. The players practice once a week. This is an original classroom story, not a real event announcement."
+            },
+            {
+              "type": "mcq",
+              "q": "What does Nabil do?",
+              "options": [
+                "He is a pilot.",
+                "He is a translator.",
+                "He is a nurse."
+              ],
+              "answer": 1,
+              "passage": "Fictional working day: Nabil is a translator. He starts work at eight each morning. Today, he is translating a short article. His manager asks everyone to do a fair share of the work. At lunch, Nabil makes himself a bite in the kitchen. He finishes work at five. He looks forward to walking with his brother in the evening. This is an original classroom story about a fictional worker."
+            },
+            {
+              "type": "mcq",
+              "q": "What is Nabil translating today?",
+              "options": [
+                "A novel",
+                "A shopping list",
+                "A short article"
+              ],
+              "answer": 2,
+              "passage": "Fictional working day: Nabil is a translator. He starts work at eight each morning. Today, he is translating a short article. His manager asks everyone to do a fair share of the work. At lunch, Nabil makes himself a bite in the kitchen. He finishes work at five. He looks forward to walking with his brother in the evening. This is an original classroom story about a fictional worker."
+            },
+            {
+              "type": "mcq",
+              "q": "What does Nabil do at lunch?",
+              "options": [
+                "He makes himself a bite.",
+                "He holds a tournament.",
+                "He goes to the airport."
+              ],
+              "answer": 0,
+              "passage": "Fictional working day: Nabil is a translator. He starts work at eight each morning. Today, he is translating a short article. His manager asks everyone to do a fair share of the work. At lunch, Nabil makes himself a bite in the kitchen. He finishes work at five. He looks forward to walking with his brother in the evening. This is an original classroom story about a fictional worker."
+            },
+            {
+              "type": "mcq",
+              "q": "What does Nabil look forward to in the evening?",
+              "options": [
+                "Reading a report",
+                "Walking with his brother",
+                "Starting work"
+              ],
+              "answer": 1,
+              "passage": "Fictional working day: Nabil is a translator. He starts work at eight each morning. Today, he is translating a short article. His manager asks everyone to do a fair share of the work. At lunch, Nabil makes himself a bite in the kitchen. He finishes work at five. He looks forward to walking with his brother in the evening. This is an original classroom story about a fictional worker."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب جمل المراجعة",
+          "sub": "الجملة كاملة من غير صوت أو صورة ناقصة.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "drives.",
+                "driver",
+                "A"
+              ],
+              "answer": [
+                "A",
+                "driver",
+                "drives."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "chess.",
+                "play",
+                "to",
+                "how",
+                "know",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "know",
+                "how",
+                "to",
+                "play",
+                "chess."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "type.",
+                "to",
+                "how",
+                "know",
+                "not",
+                "does",
+                "She"
+              ],
+              "answer": [
+                "She",
+                "does",
+                "not",
+                "know",
+                "how",
+                "to",
+                "type."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "now.",
+                "game",
+                "the",
+                "watching",
+                "are",
+                "They"
+              ],
+              "answer": [
+                "They",
+                "are",
+                "watching",
+                "the",
+                "game",
+                "now."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "pastime?",
+                "favorite",
+                "your",
+                "is",
+                "What"
+              ],
+              "answer": [
+                "What",
+                "is",
+                "your",
+                "favorite",
+                "pastime?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "practice?",
+                "you",
+                "do",
+                "often",
+                "How"
+              ],
+              "answer": [
+                "How",
+                "often",
+                "do",
+                "you",
+                "practice?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "apples.",
+                "any",
+                "have",
+                "not",
+                "do",
+                "We"
+              ],
+              "answer": [
+                "We",
+                "do",
+                "not",
+                "have",
+                "any",
+                "apples."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "weekend.",
+                "the",
+                "to",
+                "forward",
+                "look",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "look",
+                "forward",
+                "to",
+                "the",
+                "weekend."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "source": {
     "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g8/g8-english-1448.pdf",
     "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K08-SM1-ENGLMH-v2.pdf",
-    "title": "Super Goal 2, Part 1, Units 1–4, pages 2–33",
+    "title": "Super Goal 2, Part 1, Units 1–4 and Expansion 1–4, pages 2–39",
     "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint has a certificate error. Mirror bytes matched the reviewed PDF. Original explanations and exercises, not copied textbook questions.",
     "reviewedUnits": {
       "u1": [
@@ -3518,6 +4220,10 @@
       "u4": [
         26,
         33
+      ],
+      "exp1": [
+        34,
+        39
       ]
     }
   }
