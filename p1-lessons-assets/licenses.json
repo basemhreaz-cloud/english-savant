@@ -25,5 +25,23 @@
     "license_source": "https://openclipart.org/share",
     "changes": "None; fit in card during lesson",
     "verified": "Actual pixels show clasped handshake hands, not holding hands."
+  },
+  {
+    "asset": "P1_U1_sit_CC0.png",
+    "source": "https://openclipart.org/detail/322985/sitting-pretty",
+    "author": "oksmith / publicdomainq.net",
+    "license": "CC0 1.0",
+    "license_source": "https://openclipart.org/share",
+    "verified": "Actual pixels clear seated girl, chair and knees/feet visible. No adult occupation inference.",
+    "deployed_asset": "p1-lessons-assets/img/sit.png"
+  },
+  {
+    "asset": "p1-lessons-assets/img/open-book-seq.png",
+    "source": "https://openclipart.org/detail/326740/book-hands",
+    "author": "revzack",
+    "license": "CC0 1.0",
+    "license_source": "https://openclipart.org/share",
+    "changes": "Open book image composed beside approved original closed red book assets/kg2/pre1/w-book.webp with arrow and numbered sequence; scaled to card.",
+    "verified": "Actual source and native composite pixels inspected; closed-to-open state clear."
   }
 ]
