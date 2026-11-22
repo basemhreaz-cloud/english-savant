@@ -108,3 +108,5 @@ function build(card,q,d){
 function say(t){try{if(!window.speechSynthesis)return;var u=new SpeechSynthesisUtterance(t);u.lang='ar-EG';u.rate=.95;speechSynthesis.cancel();speechSynthesis.speak(u)}catch(e){}}
 window.__esExplain=function(card){try{var q=card.__q;if(!q||card.querySelector('.esx-note'))return;dict(function(d){build(card,q,d)})}catch(e){}};
 })();
+
+;(function(){document.querySelectorAll('a[href]').forEach(function(a){if(!/^(?:\.\/)?adults\.html(?:[?#]|$)/.test(a.getAttribute('href')||''))return;var w=document.createTreeWalker(a,NodeFilter.SHOW_TEXT);var n;while(n=w.nextNode())n.nodeValue=n.nodeValue.replace(/اتكلم إنجليزي|اتكلم انجليزي/g,'اتعلم بنفسك')})})();
