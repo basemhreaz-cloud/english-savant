@@ -46,7 +46,7 @@ function history(){const out=$('#history');if(!out)return;const data=store.get('
   if (!header) return;
   const labels = {"index.html": "الرئيسية", "learn.html": "ابدأ التعلّم", "grades.html": "مناهج مصر", "saudi.html": "مناهج السعودية", "adults.html": "اتكلم إنجليزي", "booklets.html": "الكتب والمراجعات", "tools.html": "الأدوات"};
   const page = location.pathname.split('/').pop() || 'index.html';
-  const label = labels[page] || document.title.split(' | ')[0];
+  const label = document.body.dataset.navLabel || labels[page] || document.title.split(' | ')[0];
   const slot = document.createElement('div'); slot.className = 'header-slot';
   header.before(slot); slot.append(header);
   const toggle = document.createElement('button');
