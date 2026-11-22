@@ -1,0 +1,4732 @@
+[
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-01",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": [
+      "grandfather"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'grandfather' يعني إيه؟",
+    "options": [
+      "أم",
+      "أب",
+      "جدو",
+      "أخ"
+    ],
+    "answer": "جدو",
+    "explanation_ar": "grandfather = جدو.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-02",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": [
+      "father"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'father' يعني إيه؟",
+    "options": [
+      "جدو",
+      "أخت",
+      "أخ",
+      "أب"
+    ],
+    "answer": "أب",
+    "explanation_ar": "father = أب.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-03",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": [
+      "mother"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'mother' يعني إيه؟",
+    "options": [
+      "جدو",
+      "أم",
+      "أخت",
+      "أخ"
+    ],
+    "answer": "أم",
+    "explanation_ar": "mother = أم.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-04",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": [
+      "sister"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'sister' يعني إيه؟",
+    "options": [
+      "تيتة",
+      "أخت",
+      "أب",
+      "أم"
+    ],
+    "answer": "أخت",
+    "explanation_ar": "sister = أخت.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-05",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": [
+      "brother"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'brother' يعني إيه؟",
+    "options": [
+      "أخت",
+      "أخ",
+      "جدو",
+      "تيتة"
+    ],
+    "answer": "أخ",
+    "explanation_ar": "brother = أخ.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-06",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": [
+      "grandmother"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'grandmother' يعني إيه؟",
+    "options": [
+      "أب",
+      "أم",
+      "أخت",
+      "تيتة"
+    ],
+    "answer": "تيتة",
+    "explanation_ar": "grandmother = تيتة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-07",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": [
+      "grandfather"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'جدو' بالإنجليزي؟",
+    "options": [
+      "grandfather",
+      "brother",
+      "sister",
+      "grandmother"
+    ],
+    "answer": "grandfather",
+    "explanation_ar": "جدو بالإنجليزي: grandfather.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-08",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": [
+      "father"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'أب' بالإنجليزي؟",
+    "options": [
+      "grandfather",
+      "mother",
+      "grandmother",
+      "father"
+    ],
+    "answer": "father",
+    "explanation_ar": "أب بالإنجليزي: father.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-09",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": [
+      "mother"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'أم' بالإنجليزي؟",
+    "options": [
+      "grandfather",
+      "mother",
+      "father",
+      "sister"
+    ],
+    "answer": "mother",
+    "explanation_ar": "أم بالإنجليزي: mother.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-10",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": [
+      "sister"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'أخت' بالإنجليزي؟",
+    "options": [
+      "father",
+      "brother",
+      "sister",
+      "grandfather"
+    ],
+    "answer": "sister",
+    "explanation_ar": "أخت بالإنجليزي: sister.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-11",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": [
+      "brother"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'أخ' بالإنجليزي؟",
+    "options": [
+      "brother",
+      "father",
+      "sister",
+      "grandfather"
+    ],
+    "answer": "brother",
+    "explanation_ar": "أخ بالإنجليزي: brother.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-12",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": [
+      "grandmother"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'تيتة' بالإنجليزي؟",
+    "options": [
+      "grandfather",
+      "grandmother",
+      "brother",
+      "father"
+    ],
+    "answer": "grandmother",
+    "explanation_ar": "تيتة بالإنجليزي: grandmother.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-13",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: جدو   ( g__________ )",
+    "options": null,
+    "answer": "grandfather",
+    "accept": [
+      "grandfather"
+    ],
+    "explanation_ar": "جدو = grandfather.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-14",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: أب   ( f_____ )",
+    "options": null,
+    "answer": "father",
+    "accept": [
+      "father"
+    ],
+    "explanation_ar": "أب = father.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-15",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: أم   ( m_____ )",
+    "options": null,
+    "answer": "mother",
+    "accept": [
+      "mother"
+    ],
+    "explanation_ar": "أم = mother.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-16",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: أخت   ( s_____ )",
+    "options": null,
+    "answer": "sister",
+    "accept": [
+      "sister"
+    ],
+    "explanation_ar": "أخت = sister.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-17",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: أخ   ( b______ )",
+    "options": null,
+    "answer": "brother",
+    "accept": [
+      "brother"
+    ],
+    "explanation_ar": "أخ = brother.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-18",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: تيتة   ( g__________ )",
+    "options": null,
+    "answer": "grandmother",
+    "accept": [
+      "grandmother"
+    ],
+    "explanation_ar": "تيتة = grandmother.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-19",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (جدو).",
+    "options": null,
+    "answer": "grandfather",
+    "letters": [
+      "a",
+      "d",
+      "n",
+      "f",
+      "t",
+      "r",
+      "g",
+      "r",
+      "e",
+      "a",
+      "h"
+    ],
+    "accept": [
+      "grandfather"
+    ],
+    "explanation_ar": "الكلمة: g-r-a-n-d-f-a-t-h-e-r.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-20",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (أب).",
+    "options": null,
+    "answer": "father",
+    "letters": [
+      "e",
+      "h",
+      "a",
+      "t",
+      "r",
+      "f"
+    ],
+    "accept": [
+      "father"
+    ],
+    "explanation_ar": "الكلمة: f-a-t-h-e-r.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-21",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (أم).",
+    "options": null,
+    "answer": "mother",
+    "letters": [
+      "e",
+      "r",
+      "t",
+      "h",
+      "m",
+      "o"
+    ],
+    "accept": [
+      "mother"
+    ],
+    "explanation_ar": "الكلمة: m-o-t-h-e-r.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-22",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (أخت).",
+    "options": null,
+    "answer": "sister",
+    "letters": [
+      "r",
+      "t",
+      "s",
+      "e",
+      "i",
+      "s"
+    ],
+    "accept": [
+      "sister"
+    ],
+    "explanation_ar": "الكلمة: s-i-s-t-e-r.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-23",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (أخ).",
+    "options": null,
+    "answer": "brother",
+    "letters": [
+      "b",
+      "r",
+      "o",
+      "h",
+      "t",
+      "r",
+      "e"
+    ],
+    "accept": [
+      "brother"
+    ],
+    "explanation_ar": "الكلمة: b-r-o-t-h-e-r.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-24",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "This is my father.",
+    "explanation_ar": "الجملة: This is my father.",
+    "answer_kind": "text_key",
+    "words": [
+      "This",
+      "is",
+      "father",
+      "my",
+      "."
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "my",
+      "father",
+      "."
+    ],
+    "accept": [
+      "This is my father."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-25",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "This is my sister.",
+    "explanation_ar": "الجملة: This is my sister.",
+    "answer_kind": "text_key",
+    "words": [
+      "sister",
+      ".",
+      "is",
+      "This",
+      "my"
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "my",
+      "sister",
+      "."
+    ],
+    "accept": [
+      "This is my sister."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-26",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "This is your mother.",
+    "explanation_ar": "الجملة: This is your mother.",
+    "answer_kind": "text_key",
+    "words": [
+      "mother",
+      "This",
+      ".",
+      "is",
+      "your"
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "your",
+      "mother",
+      "."
+    ],
+    "accept": [
+      "This is your mother."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-27",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "Who is this?",
+    "explanation_ar": "الجملة: Who is this?",
+    "answer_kind": "text_key",
+    "words": [
+      "this",
+      "Who",
+      "is",
+      "?"
+    ],
+    "answer_tokens": [
+      "Who",
+      "is",
+      "this",
+      "?"
+    ],
+    "accept": [
+      "Who is this?"
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-28",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "A: Who is this? B: This is ____ mother.",
+    "options": [
+      "am",
+      "a",
+      "my",
+      "is"
+    ],
+    "answer": "my",
+    "explanation_ar": "my = بتاعتي.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-29",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "This is ____ bag. (it belongs to the person you talk to)",
+    "options": [
+      "I",
+      "me",
+      "your",
+      "my"
+    ],
+    "answer": "your",
+    "explanation_ar": "your = بتاعتك.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-30",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Ahmed has a car. It is ____ car.",
+    "options": [
+      "Ahmed is",
+      "Ahmeds",
+      "Ahmed",
+      "Ahmed's"
+    ],
+    "answer": "Ahmed's",
+    "explanation_ar": "'s بتدل على الملكية.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-31",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "My father's father is my ____.",
+    "options": [
+      "sister",
+      "mother",
+      "grandfather",
+      "brother"
+    ],
+    "answer": "grandfather",
+    "explanation_ar": "أبو أبويا هو جدي.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-32",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "My mother's mother is my ____.",
+    "options": [
+      "father",
+      "brother",
+      "grandmother",
+      "sister"
+    ],
+    "answer": "grandmother",
+    "explanation_ar": "أم أمي هي تيتتي.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-33",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "My mother has a son. He is not me. He is my ____.",
+    "options": [
+      "sister",
+      "brother",
+      "mother",
+      "grandmother"
+    ],
+    "answer": "brother",
+    "explanation_ar": "ابن أبويا هو أخويا.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-34",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "My mother has a daughter. She is not me. She is my ____.",
+    "options": [
+      "grandfather",
+      "sister",
+      "brother",
+      "mother"
+    ],
+    "answer": "sister",
+    "explanation_ar": "بنت أبويا هي أختي.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-35",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Who is she? ____ is my mother.",
+    "options": [
+      "How",
+      "Where",
+      "This",
+      "Who"
+    ],
+    "answer": "This",
+    "explanation_ar": "This is my mother.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-36",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'dad' means the same as ____.",
+    "options": [
+      "mother",
+      "sister",
+      "brother",
+      "father"
+    ],
+    "answer": "father",
+    "explanation_ar": "dad = father.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-37",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'mom' means the same as ____.",
+    "options": [
+      "brother",
+      "mother",
+      "sister",
+      "father"
+    ],
+    "answer": "mother",
+    "explanation_ar": "mom = mother.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-38",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "'my' shows something belongs to me.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "my = بتاعي.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-39",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "'your' shows something belongs to the person I talk to.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "your = بتاعك.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-40",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "'Ahmed's car' means the car belongs to Ahmed.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "'s للملكية.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-41",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "A grandmother is a boy.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "grandmother = تيتة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-42",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "A brother is a boy in my family.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "brother = ولد في العيلة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "id": "p2-u4l1-43",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 1, pdf p.50-52",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write one word in each blank. Words: brother / father / grandmother.",
+    "options": null,
+    "dialogue": [
+      {
+        "speaker": "Omar",
+        "text": "Who is this?"
+      },
+      {
+        "speaker": "Aly",
+        "text": "This is my {1}. (أبي)"
+      },
+      {
+        "speaker": "Omar",
+        "text": "And who is she?"
+      },
+      {
+        "speaker": "Aly",
+        "text": "She is my {2}. She is my father's mother."
+      },
+      {
+        "speaker": "Omar",
+        "text": "And this boy?"
+      },
+      {
+        "speaker": "Aly",
+        "text": "Yes! He is my {3}. (أخي)"
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "father",
+          "dad"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "grandmother"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "brother"
+        ]
+      }
+    ],
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: father. 2: grandmother. 3: brother.",
+    "answer_kind": "blanks_text"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-01",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "grandfather"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'grandfather' يعني إيه؟",
+    "options": [
+      "جدو",
+      "غراء",
+      "أخ",
+      "أم"
+    ],
+    "answer": "جدو",
+    "explanation_ar": "grandfather = جدو.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-02",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "father"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'father' يعني إيه؟",
+    "options": [
+      "مكعب",
+      "غراء",
+      "أخ",
+      "أب"
+    ],
+    "answer": "أب",
+    "explanation_ar": "father = أب.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-03",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "mother"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'mother' يعني إيه؟",
+    "options": [
+      "تيتة",
+      "أب",
+      "أم",
+      "غراء"
+    ],
+    "answer": "أم",
+    "explanation_ar": "mother = أم.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-04",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "sister"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'sister' يعني إيه؟",
+    "options": [
+      "أخت",
+      "تيتة",
+      "أخ",
+      "وردة"
+    ],
+    "answer": "أخت",
+    "explanation_ar": "sister = أخت.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-05",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "brother"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'brother' يعني إيه؟",
+    "options": [
+      "غراء",
+      "تيتة",
+      "مناخير",
+      "أخ"
+    ],
+    "answer": "أخ",
+    "explanation_ar": "brother = أخ.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-06",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "grandmother"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'grandmother' يعني إيه؟",
+    "options": [
+      "أب",
+      "وردة",
+      "تيتة",
+      "غراء"
+    ],
+    "answer": "تيتة",
+    "explanation_ar": "grandmother = تيتة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-07",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "nose"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'nose' يعني إيه؟",
+    "options": [
+      "مناخير",
+      "وردة",
+      "غراء",
+      "أب"
+    ],
+    "answer": "مناخير",
+    "explanation_ar": "nose = مناخير.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-08",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "rose"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'rose' يعني إيه؟",
+    "options": [
+      "غراء",
+      "مكعب",
+      "وردة",
+      "أب"
+    ],
+    "answer": "وردة",
+    "explanation_ar": "rose = وردة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-09",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "cube"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'cube' يعني إيه؟",
+    "options": [
+      "أم",
+      "أخت",
+      "مكعب",
+      "تيتة"
+    ],
+    "answer": "مكعب",
+    "explanation_ar": "cube = مكعب.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-10",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "glue"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'glue' يعني إيه؟",
+    "options": [
+      "تيتة",
+      "أب",
+      "غراء",
+      "مكعب"
+    ],
+    "answer": "غراء",
+    "explanation_ar": "glue = غراء.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-11",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "grandfather"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'جدو' بالإنجليزي؟",
+    "options": [
+      "brother",
+      "nose",
+      "rose",
+      "grandfather"
+    ],
+    "answer": "grandfather",
+    "explanation_ar": "جدو بالإنجليزي: grandfather.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-12",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "father"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'أب' بالإنجليزي؟",
+    "options": [
+      "brother",
+      "rose",
+      "sister",
+      "father"
+    ],
+    "answer": "father",
+    "explanation_ar": "أب بالإنجليزي: father.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-13",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "mother"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'أم' بالإنجليزي؟",
+    "options": [
+      "mother",
+      "sister",
+      "rose",
+      "brother"
+    ],
+    "answer": "mother",
+    "explanation_ar": "أم بالإنجليزي: mother.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-14",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "sister"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'أخت' بالإنجليزي؟",
+    "options": [
+      "glue",
+      "brother",
+      "father",
+      "sister"
+    ],
+    "answer": "sister",
+    "explanation_ar": "أخت بالإنجليزي: sister.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-15",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "brother"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'أخ' بالإنجليزي؟",
+    "options": [
+      "grandfather",
+      "grandmother",
+      "cube",
+      "brother"
+    ],
+    "answer": "brother",
+    "explanation_ar": "أخ بالإنجليزي: brother.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-16",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": [
+      "grandmother"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'تيتة' بالإنجليزي؟",
+    "options": [
+      "sister",
+      "father",
+      "grandmother",
+      "nose"
+    ],
+    "answer": "grandmother",
+    "explanation_ar": "تيتة بالإنجليزي: grandmother.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-17",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: جدو   ( g__________ )",
+    "options": null,
+    "answer": "grandfather",
+    "accept": [
+      "grandfather"
+    ],
+    "explanation_ar": "جدو = grandfather.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-18",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: أب   ( f_____ )",
+    "options": null,
+    "answer": "father",
+    "accept": [
+      "father"
+    ],
+    "explanation_ar": "أب = father.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-19",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: أم   ( m_____ )",
+    "options": null,
+    "answer": "mother",
+    "accept": [
+      "mother"
+    ],
+    "explanation_ar": "أم = mother.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-20",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: أخت   ( s_____ )",
+    "options": null,
+    "answer": "sister",
+    "accept": [
+      "sister"
+    ],
+    "explanation_ar": "أخت = sister.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-21",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: أخ   ( b______ )",
+    "options": null,
+    "answer": "brother",
+    "accept": [
+      "brother"
+    ],
+    "explanation_ar": "أخ = brother.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-22",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: تيتة   ( g__________ )",
+    "options": null,
+    "answer": "grandmother",
+    "accept": [
+      "grandmother"
+    ],
+    "explanation_ar": "تيتة = grandmother.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-23",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (جدو).",
+    "options": null,
+    "answer": "grandfather",
+    "letters": [
+      "a",
+      "n",
+      "a",
+      "h",
+      "f",
+      "d",
+      "e",
+      "r",
+      "g",
+      "r",
+      "t"
+    ],
+    "accept": [
+      "grandfather"
+    ],
+    "explanation_ar": "الكلمة: g-r-a-n-d-f-a-t-h-e-r.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-24",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (أب).",
+    "options": null,
+    "answer": "father",
+    "letters": [
+      "h",
+      "e",
+      "r",
+      "f",
+      "a",
+      "t"
+    ],
+    "accept": [
+      "father"
+    ],
+    "explanation_ar": "الكلمة: f-a-t-h-e-r.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-25",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (أم).",
+    "options": null,
+    "answer": "mother",
+    "letters": [
+      "h",
+      "o",
+      "e",
+      "r",
+      "t",
+      "m"
+    ],
+    "accept": [
+      "mother"
+    ],
+    "explanation_ar": "الكلمة: m-o-t-h-e-r.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-26",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (أخت).",
+    "options": null,
+    "answer": "sister",
+    "letters": [
+      "t",
+      "i",
+      "s",
+      "r",
+      "e",
+      "s"
+    ],
+    "accept": [
+      "sister"
+    ],
+    "explanation_ar": "الكلمة: s-i-s-t-e-r.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-27",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (أخ).",
+    "options": null,
+    "answer": "brother",
+    "letters": [
+      "r",
+      "b",
+      "h",
+      "e",
+      "t",
+      "o",
+      "r"
+    ],
+    "accept": [
+      "brother"
+    ],
+    "explanation_ar": "الكلمة: b-r-o-t-h-e-r.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-28",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "This is my grandmother.",
+    "explanation_ar": "الجملة: This is my grandmother.",
+    "answer_kind": "text_key",
+    "words": [
+      "is",
+      "my",
+      "This",
+      ".",
+      "grandmother"
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "my",
+      "grandmother",
+      "."
+    ],
+    "accept": [
+      "This is my grandmother."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-29",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "This is your sister.",
+    "explanation_ar": "الجملة: This is your sister.",
+    "answer_kind": "text_key",
+    "words": [
+      "This",
+      ".",
+      "your",
+      "is",
+      "sister"
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "your",
+      "sister",
+      "."
+    ],
+    "accept": [
+      "This is your sister."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-30",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "This is my father.",
+    "explanation_ar": "الجملة: This is my father.",
+    "answer_kind": "text_key",
+    "words": [
+      "father",
+      "This",
+      ".",
+      "is",
+      "my"
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "my",
+      "father",
+      "."
+    ],
+    "accept": [
+      "This is my father."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-31",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "This is your mother.",
+    "explanation_ar": "الجملة: This is your mother.",
+    "answer_kind": "text_key",
+    "words": [
+      "your",
+      "is",
+      "mother",
+      "This",
+      "."
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "your",
+      "mother",
+      "."
+    ],
+    "accept": [
+      "This is your mother."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-32",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Which word has the long o sound /əʊ/?",
+    "options": [
+      "not",
+      "nut",
+      "net",
+      "nose"
+    ],
+    "answer": "nose",
+    "explanation_ar": "nose صوتها /nəʊz/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-33",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Which word has the long o sound /əʊ/?",
+    "options": [
+      "rug",
+      "red",
+      "rose",
+      "rod"
+    ],
+    "answer": "rose",
+    "explanation_ar": "rose صوتها /rəʊz/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-34",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Which word has the long u sound /juː/?",
+    "options": [
+      "cube",
+      "cut",
+      "cub",
+      "cup"
+    ],
+    "answer": "cube",
+    "explanation_ar": "cube صوتها /kjuːb/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-35",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Which word has the long u sound /uː/?",
+    "options": [
+      "gum",
+      "game",
+      "glue",
+      "get"
+    ],
+    "answer": "glue",
+    "explanation_ar": "glue صوتها /ɡluː/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-36",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Circle the correct word: red or ____ (a flower)",
+    "options": [
+      "rod",
+      "rose",
+      "red",
+      "rob"
+    ],
+    "answer": "rose",
+    "explanation_ar": "الوردة rose.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-37",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Write the missing letter: r _ se (وردة)",
+    "options": [
+      "o",
+      "a",
+      "i",
+      "u"
+    ],
+    "answer": "o",
+    "explanation_ar": "rose = r-o-s-e.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-38",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Write the missing letter: n _ se (مناخير)",
+    "options": [
+      "o",
+      "u",
+      "a",
+      "i"
+    ],
+    "answer": "o",
+    "explanation_ar": "nose = n-o-s-e.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-39",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Write the missing letter: c _ be (مكعب)",
+    "options": [
+      "a",
+      "i",
+      "u",
+      "o"
+    ],
+    "answer": "u",
+    "explanation_ar": "cube = c-u-b-e.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-40",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Write the missing letter: g _ ue (غراء)",
+    "options": [
+      "l",
+      "n",
+      "m",
+      "r"
+    ],
+    "answer": "l",
+    "explanation_ar": "glue = g-l-u-e.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-41",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "This is my ____. (she is my mother's mother)",
+    "options": [
+      "brother",
+      "sister",
+      "father",
+      "grandmother"
+    ],
+    "answer": "grandmother",
+    "explanation_ar": "أم أمي.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-42",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "This is my ____. (he is my father's father)",
+    "options": [
+      "grandfather",
+      "mother",
+      "brother",
+      "sister"
+    ],
+    "answer": "grandfather",
+    "explanation_ar": "أبو أبويا.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-43",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Choose: This is ____ sister. (هذه أختك)",
+    "options": [
+      "me",
+      "your",
+      "am",
+      "my"
+    ],
+    "answer": "your",
+    "explanation_ar": "your = بتاعتك.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-44",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "nose and rose have the long o sound.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "الاتنين فيهم /əʊ/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-45",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "cube and glue have the long u sound.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "الاتنين فيهم صوت u الطويل.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-46",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "'rose' is a family member.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "rose وردة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-47",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "A brother and a sister are in a family.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "الاتنين من العيلة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-48",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "net has the long o sound.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "net فيها /e/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "id": "p2-u4l2-49",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 2, pdf p.53-56",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write one word in each blank. Words: grandmother / mother / grandfather.",
+    "options": null,
+    "dialogue": [
+      {
+        "speaker": "Maya",
+        "text": "Look at my family tree. This is my {1}. (أمي)"
+      },
+      {
+        "speaker": "Hana",
+        "text": "And who is this?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "This is my {2}. She is my father's mother."
+      },
+      {
+        "speaker": "Hana",
+        "text": "Is this your {3}?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "Yes, he is my mother's father."
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "mother",
+          "mom"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "grandmother"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "grandfather"
+        ]
+      }
+    ],
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: mother. 2: grandmother. 3: grandfather.",
+    "answer_kind": "blanks_text"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-01",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": [
+      "wake up"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'wake up' يعني إيه؟",
+    "options": [
+      "بمشي",
+      "بصحى",
+      "بنام",
+      "بغسل"
+    ],
+    "answer": "بصحى",
+    "explanation_ar": "wake up = بصحى.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-02",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": [
+      "eat"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'eat' يعني إيه؟",
+    "options": [
+      "بنضّف بالفرشة",
+      "باكل",
+      "بلعب",
+      "بغسل"
+    ],
+    "answer": "باكل",
+    "explanation_ar": "eat = باكل.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-03",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": [
+      "play"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'play' يعني إيه؟",
+    "options": [
+      "بصحى",
+      "بغسل",
+      "بلعب",
+      "بنام"
+    ],
+    "answer": "بلعب",
+    "explanation_ar": "play = بلعب.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-04",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": [
+      "sleep"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'sleep' يعني إيه؟",
+    "options": [
+      "بنام",
+      "بغسل",
+      "بصحى",
+      "بلعب"
+    ],
+    "answer": "بنام",
+    "explanation_ar": "sleep = بنام.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-05",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": [
+      "brush"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'brush' يعني إيه؟",
+    "options": [
+      "بنام",
+      "بلعب",
+      "بقرأ",
+      "بنضّف بالفرشة"
+    ],
+    "answer": "بنضّف بالفرشة",
+    "explanation_ar": "brush = بنضّف بالفرشة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-06",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": [
+      "read"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'read' يعني إيه؟",
+    "options": [
+      "بمشي",
+      "بصحى",
+      "بقرأ",
+      "بلعب"
+    ],
+    "answer": "بقرأ",
+    "explanation_ar": "read = بقرأ.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-07",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": [
+      "wash"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'wash' يعني إيه؟",
+    "options": [
+      "بلعب",
+      "بمشي",
+      "بغسل",
+      "باكل"
+    ],
+    "answer": "بغسل",
+    "explanation_ar": "wash = بغسل.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-08",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": [
+      "walk"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'walk' يعني إيه؟",
+    "options": [
+      "بمشي",
+      "بصحى",
+      "بلعب",
+      "باكل"
+    ],
+    "answer": "بمشي",
+    "explanation_ar": "walk = بمشي.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-09",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": [
+      "wake up"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'بصحى' بالإنجليزي؟",
+    "options": [
+      "play",
+      "read",
+      "wake up",
+      "sleep"
+    ],
+    "answer": "wake up",
+    "explanation_ar": "بصحى بالإنجليزي: wake up.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-10",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": [
+      "eat"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'باكل' بالإنجليزي؟",
+    "options": [
+      "brush",
+      "walk",
+      "eat",
+      "sleep"
+    ],
+    "answer": "eat",
+    "explanation_ar": "باكل بالإنجليزي: eat.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-11",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": [
+      "play"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'بلعب' بالإنجليزي؟",
+    "options": [
+      "walk",
+      "eat",
+      "read",
+      "play"
+    ],
+    "answer": "play",
+    "explanation_ar": "بلعب بالإنجليزي: play.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-12",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": [
+      "sleep"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'بنام' بالإنجليزي؟",
+    "options": [
+      "read",
+      "play",
+      "sleep",
+      "brush"
+    ],
+    "answer": "sleep",
+    "explanation_ar": "بنام بالإنجليزي: sleep.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-13",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": [
+      "brush"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'بنضّف بالفرشة' بالإنجليزي؟",
+    "options": [
+      "wake up",
+      "read",
+      "brush",
+      "sleep"
+    ],
+    "answer": "brush",
+    "explanation_ar": "بنضّف بالفرشة بالإنجليزي: brush.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-14",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": [
+      "read"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'بقرأ' بالإنجليزي؟",
+    "options": [
+      "wash",
+      "play",
+      "eat",
+      "read"
+    ],
+    "answer": "read",
+    "explanation_ar": "بقرأ بالإنجليزي: read.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-15",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: بصحى   ( w___ u_ )",
+    "options": null,
+    "answer": "wake up",
+    "accept": [
+      "wake up"
+    ],
+    "explanation_ar": "بصحى = wake up.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-16",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: باكل   ( e__ )",
+    "options": null,
+    "answer": "eat",
+    "accept": [
+      "eat"
+    ],
+    "explanation_ar": "باكل = eat.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-17",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: بلعب   ( p___ )",
+    "options": null,
+    "answer": "play",
+    "accept": [
+      "play"
+    ],
+    "explanation_ar": "بلعب = play.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-18",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: بنام   ( s____ )",
+    "options": null,
+    "answer": "sleep",
+    "accept": [
+      "sleep"
+    ],
+    "explanation_ar": "بنام = sleep.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-19",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: بنضّف بالفرشة   ( b____ )",
+    "options": null,
+    "answer": "brush",
+    "accept": [
+      "brush"
+    ],
+    "explanation_ar": "بنضّف بالفرشة = brush.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-20",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: بقرأ   ( r___ )",
+    "options": null,
+    "answer": "read",
+    "accept": [
+      "read"
+    ],
+    "explanation_ar": "بقرأ = read.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-21",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (باكل).",
+    "options": null,
+    "answer": "eat",
+    "letters": [
+      "e",
+      "t",
+      "a"
+    ],
+    "accept": [
+      "eat"
+    ],
+    "explanation_ar": "الكلمة: e-a-t.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-22",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (بلعب).",
+    "options": null,
+    "answer": "play",
+    "letters": [
+      "y",
+      "a",
+      "p",
+      "l"
+    ],
+    "accept": [
+      "play"
+    ],
+    "explanation_ar": "الكلمة: p-l-a-y.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-23",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (بنام).",
+    "options": null,
+    "answer": "sleep",
+    "letters": [
+      "s",
+      "e",
+      "e",
+      "l",
+      "p"
+    ],
+    "accept": [
+      "sleep"
+    ],
+    "explanation_ar": "الكلمة: s-l-e-e-p.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-24",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (بنضّف بالفرشة).",
+    "options": null,
+    "answer": "brush",
+    "letters": [
+      "r",
+      "b",
+      "u",
+      "s",
+      "h"
+    ],
+    "accept": [
+      "brush"
+    ],
+    "explanation_ar": "الكلمة: b-r-u-s-h.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-25",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (بقرأ).",
+    "options": null,
+    "answer": "read",
+    "letters": [
+      "e",
+      "d",
+      "a",
+      "r"
+    ],
+    "accept": [
+      "read"
+    ],
+    "explanation_ar": "الكلمة: r-e-a-d.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-26",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "I wake up at seven.",
+    "explanation_ar": "الجملة: I wake up at seven.",
+    "answer_kind": "text_key",
+    "words": [
+      "wake",
+      ".",
+      "up",
+      "seven",
+      "I",
+      "at"
+    ],
+    "answer_tokens": [
+      "I",
+      "wake",
+      "up",
+      "at",
+      "seven",
+      "."
+    ],
+    "accept": [
+      "I wake up at seven."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-27",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "I brush my teeth at night.",
+    "explanation_ar": "الجملة: I brush my teeth at night.",
+    "answer_kind": "text_key",
+    "words": [
+      "night",
+      "my",
+      ".",
+      "brush",
+      "I",
+      "at",
+      "teeth"
+    ],
+    "answer_tokens": [
+      "I",
+      "brush",
+      "my",
+      "teeth",
+      "at",
+      "night",
+      "."
+    ],
+    "accept": [
+      "I brush my teeth at night."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-28",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "I play after school.",
+    "explanation_ar": "الجملة: I play after school.",
+    "answer_kind": "text_key",
+    "words": [
+      "school",
+      "I",
+      ".",
+      "play",
+      "after"
+    ],
+    "answer_tokens": [
+      "I",
+      "play",
+      "after",
+      "school",
+      "."
+    ],
+    "accept": [
+      "I play after school."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-29",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "He eats breakfast.",
+    "explanation_ar": "الجملة: He eats breakfast.",
+    "answer_kind": "text_key",
+    "words": [
+      "breakfast",
+      "He",
+      "eats",
+      "."
+    ],
+    "answer_tokens": [
+      "He",
+      "eats",
+      "breakfast",
+      "."
+    ],
+    "accept": [
+      "He eats breakfast."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-30",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "I ____ my teeth at night. (أفرش)",
+    "options": [
+      "play",
+      "wash",
+      "brush",
+      "sleep"
+    ],
+    "answer": "brush",
+    "explanation_ar": "بنفرش سناننا بالليل.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-31",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "I ____ after school. (ألعب)",
+    "options": [
+      "wake",
+      "brush",
+      "play",
+      "sleep"
+    ],
+    "answer": "play",
+    "explanation_ar": "بنلعب بعد المدرسة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-32",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "I wake up ____ seven.",
+    "options": [
+      "at",
+      "after",
+      "in",
+      "on"
+    ],
+    "answer": "at",
+    "explanation_ar": "مع الساعة بنقول at.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-33",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "He ____ breakfast.",
+    "options": [
+      "eating",
+      "eats",
+      "eaten",
+      "eat"
+    ],
+    "answer": "eats",
+    "explanation_ar": "مع He بنضيف s: eats.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-34",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "She ____ early. (sleep)",
+    "options": [
+      "slept",
+      "sleep",
+      "sleeps",
+      "sleeping"
+    ],
+    "answer": "sleeps",
+    "explanation_ar": "مع She بنضيف s.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-35",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "I eat breakfast ____ the morning.",
+    "options": [
+      "in",
+      "on",
+      "to",
+      "at"
+    ],
+    "answer": "in",
+    "explanation_ar": "in the morning.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-36",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "I brush my teeth ____ night.",
+    "options": [
+      "in",
+      "to",
+      "on",
+      "at"
+    ],
+    "answer": "at",
+    "explanation_ar": "at night.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-37",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "What do you do in the morning?",
+    "options": [
+      "I sleep at night.",
+      "I wake up.",
+      "I play in bed.",
+      "I brush at night."
+    ],
+    "answer": "I wake up.",
+    "explanation_ar": "الصبح بنصحى.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-38",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "What do you do at night?",
+    "options": [
+      "I go to school.",
+      "I brush my teeth.",
+      "I play football.",
+      "I eat breakfast."
+    ],
+    "answer": "I brush my teeth.",
+    "explanation_ar": "بالليل بنفرش سناننا.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-39",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "He ____ after school.",
+    "options": [
+      "played",
+      "play",
+      "plays",
+      "playing"
+    ],
+    "answer": "plays",
+    "explanation_ar": "He plays.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-40",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "I ____ a book. (أقرأ)",
+    "options": [
+      "reads",
+      "read",
+      "readed",
+      "reading"
+    ],
+    "answer": "read",
+    "explanation_ar": "مع I بنستخدم read.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-41",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "'I brush my teeth at night.' is correct.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "جملة صحيحة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-42",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "'He eat breakfast.' is correct.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "الصح: He eats breakfast.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-43",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "We say 'in the morning'.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "in the morning.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-44",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "We say 'at night'.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "at night.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-45",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "'I wake up at seven.' means أصحى الساعة سبعة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "wake up = أصحى.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "id": "p2-u4l3-46",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 3, pdf p.57-59",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write one word in each blank. Words: brush / morning / eat.",
+    "options": null,
+    "dialogue": [
+      {
+        "speaker": "Mom",
+        "text": "What do you do in the {1}, Sara?"
+      },
+      {
+        "speaker": "Sara",
+        "text": "I wake up at seven and I {2} breakfast."
+      },
+      {
+        "speaker": "Mom",
+        "text": "And at night?"
+      },
+      {
+        "speaker": "Sara",
+        "text": "I {3} my teeth and I read a book."
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "morning"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "eat"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "brush"
+        ]
+      }
+    ],
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: morning. 2: eat. 3: brush.",
+    "answer_kind": "blanks_text"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-01",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": [
+      "thin"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'thin' يعني إيه؟",
+    "options": [
+      "صباع الإبهام",
+      "رفيع",
+      "سميك",
+      "بمشي"
+    ],
+    "answer": "رفيع",
+    "explanation_ar": "thin = رفيع.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-02",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": [
+      "thick"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'thick' يعني إيه؟",
+    "options": [
+      "رفيع",
+      "سنان",
+      "رياضيات",
+      "سميك"
+    ],
+    "answer": "سميك",
+    "explanation_ar": "thick = سميك.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-03",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": [
+      "thumb"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'thumb' يعني إيه؟",
+    "options": [
+      "صباع الإبهام",
+      "سميك",
+      "سنان",
+      "بصحى"
+    ],
+    "answer": "صباع الإبهام",
+    "explanation_ar": "thumb = صباع الإبهام.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-04",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": [
+      "thunder"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'thunder' يعني إيه؟",
+    "options": [
+      "رفيع",
+      "سنان",
+      "بمشي",
+      "رعد"
+    ],
+    "answer": "رعد",
+    "explanation_ar": "thunder = رعد.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-05",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": [
+      "math"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'math' يعني إيه؟",
+    "options": [
+      "سنان",
+      "رعد",
+      "رياضيات",
+      "بصحى"
+    ],
+    "answer": "رياضيات",
+    "explanation_ar": "math = رياضيات.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-06",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": [
+      "teeth"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'teeth' يعني إيه؟",
+    "options": [
+      "رفيع",
+      "سنان",
+      "صباع الإبهام",
+      "رياضيات"
+    ],
+    "answer": "سنان",
+    "explanation_ar": "teeth = سنان.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-07",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": [
+      "wake up"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'wake up' يعني إيه؟",
+    "options": [
+      "سنان",
+      "بصحى",
+      "بمشي",
+      "رياضيات"
+    ],
+    "answer": "بصحى",
+    "explanation_ar": "wake up = بصحى.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-08",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": [
+      "walk"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'walk' يعني إيه؟",
+    "options": [
+      "بصحى",
+      "بمشي",
+      "رياضيات",
+      "سميك"
+    ],
+    "answer": "بمشي",
+    "explanation_ar": "walk = بمشي.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-09",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": [
+      "thin"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'رفيع' بالإنجليزي؟",
+    "options": [
+      "teeth",
+      "thumb",
+      "thin",
+      "math"
+    ],
+    "answer": "thin",
+    "explanation_ar": "رفيع بالإنجليزي: thin.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-10",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": [
+      "thick"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'سميك' بالإنجليزي؟",
+    "options": [
+      "thick",
+      "thunder",
+      "wake up",
+      "math"
+    ],
+    "answer": "thick",
+    "explanation_ar": "سميك بالإنجليزي: thick.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-11",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": [
+      "thumb"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'صباع الإبهام' بالإنجليزي؟",
+    "options": [
+      "thick",
+      "thumb",
+      "thin",
+      "wake up"
+    ],
+    "answer": "thumb",
+    "explanation_ar": "صباع الإبهام بالإنجليزي: thumb.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-12",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": [
+      "thunder"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'رعد' بالإنجليزي؟",
+    "options": [
+      "thunder",
+      "teeth",
+      "math",
+      "thick"
+    ],
+    "answer": "thunder",
+    "explanation_ar": "رعد بالإنجليزي: thunder.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-13",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": [
+      "math"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'رياضيات' بالإنجليزي؟",
+    "options": [
+      "thick",
+      "math",
+      "thunder",
+      "wake up"
+    ],
+    "answer": "math",
+    "explanation_ar": "رياضيات بالإنجليزي: math.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-14",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": [
+      "teeth"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'سنان' بالإنجليزي؟",
+    "options": [
+      "teeth",
+      "thumb",
+      "wake up",
+      "thick"
+    ],
+    "answer": "teeth",
+    "explanation_ar": "سنان بالإنجليزي: teeth.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-15",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: رفيع   ( t___ )",
+    "options": null,
+    "answer": "thin",
+    "accept": [
+      "thin"
+    ],
+    "explanation_ar": "رفيع = thin.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-16",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: سميك   ( t____ )",
+    "options": null,
+    "answer": "thick",
+    "accept": [
+      "thick"
+    ],
+    "explanation_ar": "سميك = thick.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-17",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: صباع الإبهام   ( t____ )",
+    "options": null,
+    "answer": "thumb",
+    "accept": [
+      "thumb"
+    ],
+    "explanation_ar": "صباع الإبهام = thumb.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-18",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: رعد   ( t______ )",
+    "options": null,
+    "answer": "thunder",
+    "accept": [
+      "thunder"
+    ],
+    "explanation_ar": "رعد = thunder.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-19",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: رياضيات   ( m___ )",
+    "options": null,
+    "answer": "math",
+    "accept": [
+      "math"
+    ],
+    "explanation_ar": "رياضيات = math.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-20",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: سنان   ( t____ )",
+    "options": null,
+    "answer": "teeth",
+    "accept": [
+      "teeth"
+    ],
+    "explanation_ar": "سنان = teeth.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-21",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (رفيع).",
+    "options": null,
+    "answer": "thin",
+    "letters": [
+      "h",
+      "i",
+      "n",
+      "t"
+    ],
+    "accept": [
+      "thin"
+    ],
+    "explanation_ar": "الكلمة: t-h-i-n.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-22",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (سميك).",
+    "options": null,
+    "answer": "thick",
+    "letters": [
+      "k",
+      "t",
+      "h",
+      "c",
+      "i"
+    ],
+    "accept": [
+      "thick"
+    ],
+    "explanation_ar": "الكلمة: t-h-i-c-k.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-23",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (صباع الإبهام).",
+    "options": null,
+    "answer": "thumb",
+    "letters": [
+      "t",
+      "b",
+      "u",
+      "h",
+      "m"
+    ],
+    "accept": [
+      "thumb"
+    ],
+    "explanation_ar": "الكلمة: t-h-u-m-b.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-24",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (رعد).",
+    "options": null,
+    "answer": "thunder",
+    "letters": [
+      "e",
+      "h",
+      "u",
+      "n",
+      "t",
+      "d",
+      "r"
+    ],
+    "accept": [
+      "thunder"
+    ],
+    "explanation_ar": "الكلمة: t-h-u-n-d-e-r.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-25",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (رياضيات).",
+    "options": null,
+    "answer": "math",
+    "letters": [
+      "h",
+      "a",
+      "m",
+      "t"
+    ],
+    "accept": [
+      "math"
+    ],
+    "explanation_ar": "الكلمة: m-a-t-h.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-26",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "I wake up at seven.",
+    "explanation_ar": "الجملة: I wake up at seven.",
+    "answer_kind": "text_key",
+    "words": [
+      "at",
+      "I",
+      ".",
+      "wake",
+      "up",
+      "seven"
+    ],
+    "answer_tokens": [
+      "I",
+      "wake",
+      "up",
+      "at",
+      "seven",
+      "."
+    ],
+    "accept": [
+      "I wake up at seven."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-27",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "They play after school.",
+    "explanation_ar": "الجملة: They play after school.",
+    "answer_kind": "text_key",
+    "words": [
+      ".",
+      "They",
+      "play",
+      "after",
+      "school"
+    ],
+    "answer_tokens": [
+      "They",
+      "play",
+      "after",
+      "school",
+      "."
+    ],
+    "accept": [
+      "They play after school."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-28",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "I eat breakfast.",
+    "explanation_ar": "الجملة: I eat breakfast.",
+    "answer_kind": "text_key",
+    "words": [
+      "eat",
+      "breakfast",
+      "I",
+      "."
+    ],
+    "answer_tokens": [
+      "I",
+      "eat",
+      "breakfast",
+      "."
+    ],
+    "accept": [
+      "I eat breakfast."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-29",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "I brush my teeth.",
+    "explanation_ar": "الجملة: I brush my teeth.",
+    "answer_kind": "text_key",
+    "words": [
+      ".",
+      "I",
+      "teeth",
+      "my",
+      "brush"
+    ],
+    "answer_tokens": [
+      "I",
+      "brush",
+      "my",
+      "teeth",
+      "."
+    ],
+    "accept": [
+      "I brush my teeth."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-30",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Which word starts with the th sound /θ/?",
+    "options": [
+      "tin",
+      "sin",
+      "fin",
+      "thin"
+    ],
+    "answer": "thin",
+    "explanation_ar": "thin بتبدأ بـ /θ/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-31",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Which word starts with the th sound /θ/?",
+    "options": [
+      "bed",
+      "thumb",
+      "sun",
+      "lamp"
+    ],
+    "answer": "thumb",
+    "explanation_ar": "thumb بتبدأ بـ /θ/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-32",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Which word starts with the th sound /θ/?",
+    "options": [
+      "thunder",
+      "under",
+      "winter",
+      "tunnel"
+    ],
+    "answer": "thunder",
+    "explanation_ar": "thunder بتبدأ بـ /θ/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-33",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Which word ends with the th sound /θ/?",
+    "options": [
+      "map",
+      "math",
+      "man",
+      "mat"
+    ],
+    "answer": "math",
+    "explanation_ar": "math بتنتهي بـ /θ/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-34",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Which word has the th sound /θ/ in the middle or end?",
+    "options": [
+      "tea",
+      "ten",
+      "feet",
+      "teeth"
+    ],
+    "answer": "teeth",
+    "explanation_ar": "teeth بتنتهي بـ /θ/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-35",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Fill the missing letters: ma__ (رياضيات)",
+    "options": [
+      "ch",
+      "ph",
+      "sh",
+      "th"
+    ],
+    "answer": "th",
+    "explanation_ar": "math = ma + th.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-36",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Fill the missing letters: tee__ (سنان)",
+    "options": [
+      "ch",
+      "th",
+      "sh",
+      "ph"
+    ],
+    "answer": "th",
+    "explanation_ar": "teeth = tee + th.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-37",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Fill the missing letters: __umb (صباع الإبهام)",
+    "options": [
+      "ph",
+      "th",
+      "ch",
+      "sh"
+    ],
+    "answer": "th",
+    "explanation_ar": "thumb = th + umb.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-38",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "We brush our ____ at night.",
+    "options": [
+      "thunder",
+      "teeth",
+      "thumb",
+      "math"
+    ],
+    "answer": "teeth",
+    "explanation_ar": "بنفرش سناننا.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-39",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Hold a pencil with your finger and your ____.",
+    "options": [
+      "thunder",
+      "thick",
+      "math",
+      "thumb"
+    ],
+    "answer": "thumb",
+    "explanation_ar": "بنمسك القلم بالإبهام.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-40",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Read: 'Play after school.' When do they play?",
+    "options": [
+      "at night",
+      "at seven",
+      "after school",
+      "in the morning"
+    ],
+    "answer": "after school",
+    "explanation_ar": "after school.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-41",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "thin, thick and thumb start with the th sound.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "الثلاثة بتبدأ بـ /θ/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-42",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "teeth has the th sound at the end.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "teeth بتنتهي بـ /θ/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-43",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "'tin' and 'thin' sound the same.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "thin بتبدأ بـ /θ/ و tin بتبدأ بـ /t/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-44",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "'I play after school.' is a daily routine sentence.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "جملة عن الروتين.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-45",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "We hear thunder when it is sunny and quiet.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "الرعد بيطلع مع العاصفة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "id": "p2-u4l4-46",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 4 Lesson 4, pdf p.60-63",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write one word in each blank. Words: play / teeth / brush.",
+    "options": null,
+    "dialogue": [
+      {
+        "speaker": "Mom",
+        "text": "What do you do after school, Sara?"
+      },
+      {
+        "speaker": "Sara",
+        "text": "I {1} with my friends."
+      },
+      {
+        "speaker": "Mom",
+        "text": "And at night?"
+      },
+      {
+        "speaker": "Sara",
+        "text": "I {2} my {3} and I read a book."
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "play"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "brush"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "teeth"
+        ]
+      }
+    ],
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: play. 2: brush. 3: teeth.",
+    "answer_kind": "blanks_text"
+  }
+]

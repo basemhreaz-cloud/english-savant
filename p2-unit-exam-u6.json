@@ -1,0 +1,849 @@
+[
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 1,
+    "lesson_title": "My Home",
+    "id": "p2-u6l1-48",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 1, pdf p.83-85",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write one word in each blank. Words: room / kitchen / bedroom.",
+    "options": null,
+    "dialogue": [
+      {
+        "speaker": "Aly",
+        "text": "Welcome to my home! This is the {1}. We cook here."
+      },
+      {
+        "speaker": "Omar",
+        "text": "And where do you eat?"
+      },
+      {
+        "speaker": "Aly",
+        "text": "We eat in the dining {2}. There is a big table."
+      },
+      {
+        "speaker": "Omar",
+        "text": "And where do you sleep?"
+      },
+      {
+        "speaker": "Aly",
+        "text": "I sleep in my {3}."
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "kitchen"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "room"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "bedroom"
+        ]
+      }
+    ],
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: kitchen. 2: room. 3: bedroom.",
+    "answer_kind": "blanks_text"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 1,
+    "lesson_title": "My Home",
+    "id": "p2-u6l1-19",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 1, pdf p.83-85",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: أوضة النوم   ( b______ )",
+    "options": null,
+    "answer": "bedroom",
+    "accept": [
+      "bedroom"
+    ],
+    "explanation_ar": "أوضة النوم = bedroom.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 1,
+    "lesson_title": "My Home",
+    "id": "p2-u6l1-28",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 1, pdf p.83-85",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (صالة).",
+    "options": null,
+    "answer": "hall",
+    "letters": [
+      "l",
+      "l",
+      "h",
+      "a"
+    ],
+    "accept": [
+      "hall"
+    ],
+    "explanation_ar": "الكلمة: h-a-l-l.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 1,
+    "lesson_title": "My Home",
+    "id": "p2-u6l1-47",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 1, pdf p.83-85",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "A balcony is inside the bedroom.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "البلكونة برا.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 1,
+    "lesson_title": "My Home",
+    "id": "p2-u6l1-44",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 1, pdf p.83-85",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "We sleep in the garden.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "بننام في أوضة النوم.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 1,
+    "lesson_title": "My Home",
+    "id": "p2-u6l1-37",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 1, pdf p.83-85",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "We eat dinner at the table in the ____.",
+    "options": [
+      "garden",
+      "hall",
+      "dining room",
+      "bathroom"
+    ],
+    "answer": "dining room",
+    "explanation_ar": "السفرة في أوضة السفرة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 1,
+    "lesson_title": "My Home",
+    "id": "p2-u6l1-16",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 1, pdf p.83-85",
+    "passage": null,
+    "image_optional": [
+      "balcony"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'بلكونة' بالإنجليزي؟",
+    "options": [
+      "balcony",
+      "garden",
+      "bathroom",
+      "living room"
+    ],
+    "answer": "balcony",
+    "explanation_ar": "بلكونة بالإنجليزي: balcony.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 1,
+    "lesson_title": "My Home",
+    "id": "p2-u6l1-10",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 1, pdf p.83-85",
+    "passage": null,
+    "image_optional": [
+      "living room"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'أوضة المعيشة' بالإنجليزي؟",
+    "options": [
+      "hall",
+      "kitchen",
+      "living room",
+      "bedroom"
+    ],
+    "answer": "living room",
+    "explanation_ar": "أوضة المعيشة بالإنجليزي: living room.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 2,
+    "lesson_title": "Let's Talk About Our Home!",
+    "id": "p2-u6l2-18",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 2, pdf p.86-87",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: أوضة المعيشة   ( l_____ r___ )",
+    "options": null,
+    "answer": "living room",
+    "accept": [
+      "living room"
+    ],
+    "explanation_ar": "أوضة المعيشة = living room.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 2,
+    "lesson_title": "Let's Talk About Our Home!",
+    "id": "p2-u6l2-32",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 2, pdf p.86-87",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "It is in the dining room.",
+    "explanation_ar": "الجملة: It is in the dining room.",
+    "answer_kind": "text_key",
+    "words": [
+      "in",
+      "is",
+      "room",
+      ".",
+      "the",
+      "It",
+      "dining"
+    ],
+    "answer_tokens": [
+      "It",
+      "is",
+      "in",
+      "the",
+      "dining",
+      "room",
+      "."
+    ],
+    "accept": [
+      "It is in the dining room."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 2,
+    "lesson_title": "Let's Talk About Our Home!",
+    "id": "p2-u6l2-45",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 2, pdf p.86-87",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "'I sleep in my bedroom at night.' is correct.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "جملة صحيحة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 2,
+    "lesson_title": "Let's Talk About Our Home!",
+    "id": "p2-u6l2-46",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 2, pdf p.86-87",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "There is a fridge in the kitchen.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "أيوه.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 2,
+    "lesson_title": "Let's Talk About Our Home!",
+    "id": "p2-u6l2-37",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 2, pdf p.86-87",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Clue: There is a bed. We sleep there. Where is it?",
+    "options": [
+      "bathroom",
+      "bedroom",
+      "kitchen",
+      "garden"
+    ],
+    "answer": "bedroom",
+    "explanation_ar": "السرير = أوضة النوم.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 2,
+    "lesson_title": "Let's Talk About Our Home!",
+    "id": "p2-u6l2-02",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 2, pdf p.86-87",
+    "passage": null,
+    "image_optional": [
+      "living room"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'living room' يعني إيه؟",
+    "options": [
+      "أوضة النوم",
+      "أوضة المعيشة",
+      "مطبخ",
+      "حمام"
+    ],
+    "answer": "أوضة المعيشة",
+    "explanation_ar": "living room = أوضة المعيشة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 2,
+    "lesson_title": "Let's Talk About Our Home!",
+    "id": "p2-u6l2-15",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 2, pdf p.86-87",
+    "passage": null,
+    "image_optional": [
+      "hall"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'صالة' بالإنجليزي؟",
+    "options": [
+      "balcony",
+      "bedroom",
+      "hall",
+      "garden"
+    ],
+    "answer": "hall",
+    "explanation_ar": "صالة بالإنجليزي: hall.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 2,
+    "lesson_title": "Let's Talk About Our Home!",
+    "id": "p2-u6l2-14",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 2, pdf p.86-87",
+    "passage": null,
+    "image_optional": [
+      "garden"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'جنينة' بالإنجليزي؟",
+    "options": [
+      "kitchen",
+      "balcony",
+      "living room",
+      "garden"
+    ],
+    "answer": "garden",
+    "explanation_ar": "جنينة بالإنجليزي: garden.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 3,
+    "lesson_title": "Where Things Are in My House!",
+    "id": "p2-u6l3-48",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 3, pdf p.88-89",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write one word in each blank. Words: in / are / kitchen.",
+    "options": null,
+    "dialogue": [
+      {
+        "speaker": "Maya",
+        "text": "There {1} three bedrooms in my house."
+      },
+      {
+        "speaker": "Hana",
+        "text": "There is a {2} in my house. We cook there."
+      },
+      {
+        "speaker": "Maya",
+        "text": "The flowers are {3} the garden."
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "are"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "kitchen"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "in"
+        ]
+      }
+    ],
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: are. 2: kitchen. 3: in.",
+    "answer_kind": "blanks_text"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 3,
+    "lesson_title": "Where Things Are in My House!",
+    "id": "p2-u6l3-20",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 3, pdf p.88-89",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: مطبخ   ( k______ )",
+    "options": null,
+    "answer": "kitchen",
+    "accept": [
+      "kitchen"
+    ],
+    "explanation_ar": "مطبخ = kitchen.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 3,
+    "lesson_title": "Where Things Are in My House!",
+    "id": "p2-u6l3-22",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 3, pdf p.88-89",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (فرخة).",
+    "options": null,
+    "answer": "chicken",
+    "letters": [
+      "i",
+      "e",
+      "n",
+      "c",
+      "k",
+      "h",
+      "c"
+    ],
+    "accept": [
+      "chicken"
+    ],
+    "explanation_ar": "الكلمة: c-h-i-c-k-e-n.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 3,
+    "lesson_title": "Where Things Are in My House!",
+    "id": "p2-u6l3-47",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 3, pdf p.88-89",
+    "passage": "In Mona's room, the bed is next to the window. The lamp is on the desk.",
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "The lamp is on the desk.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "النص: The lamp is on the desk.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 3,
+    "lesson_title": "Where Things Are in My House!",
+    "id": "p2-u6l3-45",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 3, pdf p.88-89",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "'There is chairs in the kitchen.' is correct.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "الصح: There are chairs.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 3,
+    "lesson_title": "Where Things Are in My House!",
+    "id": "p2-u6l3-32",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 3, pdf p.88-89",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "There ____ a TV in the living room.",
+    "options": [
+      "am",
+      "are",
+      "do",
+      "is"
+    ],
+    "answer": "is",
+    "explanation_ar": "TV واحد.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 3,
+    "lesson_title": "Where Things Are in My House!",
+    "id": "p2-u6l3-12",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 3, pdf p.88-89",
+    "passage": null,
+    "image_optional": [
+      "lunch"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'غداء' بالإنجليزي؟",
+    "options": [
+      "chicken",
+      "bedrooms",
+      "lunch",
+      "cheese"
+    ],
+    "answer": "lunch",
+    "explanation_ar": "غداء بالإنجليزي: lunch.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 3,
+    "lesson_title": "Where Things Are in My House!",
+    "id": "p2-u6l3-02",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 3, pdf p.88-89",
+    "passage": null,
+    "image_optional": [
+      "chicken"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'chicken' يعني إيه؟",
+    "options": [
+      "جنينة",
+      "غداء",
+      "فرخة",
+      "أوض النوم"
+    ],
+    "answer": "فرخة",
+    "explanation_ar": "chicken = فرخة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 4,
+    "lesson_title": "I Can Read and Write About My Home!",
+    "id": "p2-u6l4-19",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 4, pdf p.90-92",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: أوضة النوم   ( b______ )",
+    "options": null,
+    "answer": "bedroom",
+    "accept": [
+      "bedroom"
+    ],
+    "explanation_ar": "أوضة النوم = bedroom.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 4,
+    "lesson_title": "I Can Read and Write About My Home!",
+    "id": "p2-u6l4-31",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 4, pdf p.90-92",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "I wash my face in the bathroom.",
+    "explanation_ar": "الجملة: I wash my face in the bathroom.",
+    "answer_kind": "text_key",
+    "words": [
+      "face",
+      "in",
+      ".",
+      "my",
+      "the",
+      "I",
+      "wash",
+      "bathroom"
+    ],
+    "answer_tokens": [
+      "I",
+      "wash",
+      "my",
+      "face",
+      "in",
+      "the",
+      "bathroom",
+      "."
+    ],
+    "accept": [
+      "I wash my face in the bathroom."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 4,
+    "lesson_title": "I Can Read and Write About My Home!",
+    "id": "p2-u6l4-43",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 4, pdf p.90-92",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "'The kitchen is big.' is a sentence about a room.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "جملة عن أوضة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 4,
+    "lesson_title": "I Can Read and Write About My Home!",
+    "id": "p2-u6l4-46",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 4, pdf p.90-92",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "The living room has a TV.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "جملة من الكتاب.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 4,
+    "lesson_title": "I Can Read and Write About My Home!",
+    "id": "p2-u6l4-03",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 4, pdf p.90-92",
+    "passage": null,
+    "image_optional": [
+      "bedroom"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'bedroom' يعني إيه؟",
+    "options": [
+      "أوضة النوم",
+      "أوضة السفرة",
+      "أوضة المعيشة",
+      "مطبخ"
+    ],
+    "answer": "أوضة النوم",
+    "explanation_ar": "bedroom = أوضة النوم.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 4,
+    "lesson_title": "I Can Read and Write About My Home!",
+    "id": "p2-u6l4-04",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 4, pdf p.90-92",
+    "passage": null,
+    "image_optional": [
+      "bathroom"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'bathroom' يعني إيه؟",
+    "options": [
+      "أوضة المعيشة",
+      "مطبخ",
+      "صالة",
+      "حمام"
+    ],
+    "answer": "حمام",
+    "explanation_ar": "bathroom = حمام.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 4,
+    "lesson_title": "I Can Read and Write About My Home!",
+    "id": "p2-u6l4-09",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 4, pdf p.90-92",
+    "passage": null,
+    "image_optional": [
+      "kitchen"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'مطبخ' بالإنجليزي؟",
+    "options": [
+      "hall",
+      "kitchen",
+      "garden",
+      "living room"
+    ],
+    "answer": "kitchen",
+    "explanation_ar": "مطبخ بالإنجليزي: kitchen.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 6,
+    "lesson": 4,
+    "lesson_title": "I Can Read and Write About My Home!",
+    "id": "p2-u6l4-12",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 6 Lesson 4, pdf p.90-92",
+    "passage": null,
+    "image_optional": [
+      "bathroom"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'حمام' بالإنجليزي؟",
+    "options": [
+      "living room",
+      "garden",
+      "bathroom",
+      "hall"
+    ],
+    "answer": "bathroom",
+    "explanation_ar": "حمام بالإنجليزي: bathroom.",
+    "answer_kind": "closed"
+  }
+]

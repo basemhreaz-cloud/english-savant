@@ -1,0 +1,853 @@
+[
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Classroom Greetings",
+    "id": "p2-u1l1-39",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 1, pdf p.6-7",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write one word in each blank. Words: goodbye / sit / name / hello.",
+    "options": null,
+    "dialogue": [
+      {
+        "speaker": "Ali",
+        "text": "{1}, I'm Ali. What's your name?"
+      },
+      {
+        "speaker": "Sara",
+        "text": "My {2} is Sara."
+      },
+      {
+        "speaker": "Ali",
+        "text": "May I {3} down here, Sara?"
+      },
+      {
+        "speaker": "Sara",
+        "text": "Yes, please."
+      },
+      {
+        "speaker": "Ali",
+        "text": "I have to go now. {4}, Sara!"
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "hello",
+          "hi"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "name"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "sit"
+        ]
+      },
+      {
+        "n": 4,
+        "accept": [
+          "goodbye"
+        ]
+      }
+    ],
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: hello. 2: name. 3: sit. 4: goodbye.",
+    "answer_kind": "blanks_text"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Classroom Greetings",
+    "id": "p2-u1l1-15",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 1, pdf p.6-7",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: مدرّس   ( t______ )",
+    "options": null,
+    "answer": "teacher",
+    "accept": [
+      "teacher"
+    ],
+    "explanation_ar": "مدرّس = teacher.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Classroom Greetings",
+    "id": "p2-u1l1-18",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 1, pdf p.6-7",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (أهلاً).",
+    "options": null,
+    "answer": "hello",
+    "letters": [
+      "e",
+      "o",
+      "l",
+      "h",
+      "l"
+    ],
+    "accept": [
+      "hello"
+    ],
+    "explanation_ar": "الكلمة: h-e-l-l-o.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Classroom Greetings",
+    "id": "p2-u1l1-36",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 1, pdf p.6-7",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "Hello means مع السلامة.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "Hello يعني أهلاً. Goodbye هي مع السلامة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Classroom Greetings",
+    "id": "p2-u1l1-38",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 1, pdf p.6-7",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "'What's your name?' asks about a person's name.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "السؤال عن الاسم.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Classroom Greetings",
+    "id": "p2-u1l1-31",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 1, pdf p.6-7",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "A: What's your name? B: My ____ is Sara.",
+    "options": [
+      "morning",
+      "chair",
+      "name",
+      "desk"
+    ],
+    "answer": "name",
+    "explanation_ar": "My name is ... يعني اسمي ...",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Classroom Greetings",
+    "id": "p2-u1l1-05",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 1, pdf p.6-7",
+    "passage": null,
+    "image_optional": [
+      "desk"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'desk' يعني إيه؟",
+    "options": [
+      "شنطة",
+      "أهلاً",
+      "طالب",
+      "مكتب"
+    ],
+    "answer": "مكتب",
+    "explanation_ar": "desk = مكتب.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Classroom Greetings",
+    "id": "p2-u1l1-03",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 1, pdf p.6-7",
+    "passage": null,
+    "image_optional": [
+      "teacher"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'teacher' يعني إيه؟",
+    "options": [
+      "الصبح",
+      "أهلاً",
+      "مدرّس",
+      "مع السلامة"
+    ],
+    "answer": "مدرّس",
+    "explanation_ar": "teacher = مدرّس.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "id": "p2-u1l2-16",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 2, pdf p.8-10",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: سبورة   ( b____ )",
+    "options": null,
+    "answer": "board",
+    "accept": [
+      "board"
+    ],
+    "explanation_ar": "سبورة = board.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "id": "p2-u1l2-26",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 2, pdf p.8-10",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "He is a student.",
+    "explanation_ar": "الجملة: He is a student.",
+    "answer_kind": "text_key",
+    "words": [
+      ".",
+      "is",
+      "a",
+      "He",
+      "student"
+    ],
+    "answer_tokens": [
+      "He",
+      "is",
+      "a",
+      "student",
+      "."
+    ],
+    "accept": [
+      "He is a student."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "id": "p2-u1l2-40",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 2, pdf p.8-10",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "We sit on a door.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "بنقعد على chair مش door.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "id": "p2-u1l2-39",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 2, pdf p.8-10",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "A notebook is for writing.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "الكراسة للكتابة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "id": "p2-u1l2-36",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 2, pdf p.8-10",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "Circle the correct word: ____ (a small animal that says meow)",
+    "options": [
+      "cot",
+      "kit",
+      "cat",
+      "cut"
+    ],
+    "answer": "cat",
+    "explanation_ar": "القطة cat.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "id": "p2-u1l2-05",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 2, pdf p.8-10",
+    "passage": null,
+    "image_optional": [
+      "door"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'door' يعني إيه؟",
+    "options": [
+      "مسطرة",
+      "باب",
+      "كتاب",
+      "مكتب"
+    ],
+    "answer": "باب",
+    "explanation_ar": "door = باب.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "id": "p2-u1l2-12",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 2, pdf p.8-10",
+    "passage": null,
+    "image_optional": [
+      "chair"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'كرسي' بالإنجليزي؟",
+    "options": [
+      "door",
+      "chair",
+      "board",
+      "bag"
+    ],
+    "answer": "chair",
+    "explanation_ar": "كرسي بالإنجليزي: chair.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "id": "p2-u1l2-03",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 2, pdf p.8-10",
+    "passage": null,
+    "image_optional": [
+      "chair"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'chair' يعني إيه؟",
+    "options": [
+      "شباك",
+      "شنطة",
+      "ممحاة",
+      "كرسي"
+    ],
+    "answer": "كرسي",
+    "explanation_ar": "chair = كرسي.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "id": "p2-u1l3-42",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 3, pdf p.11-13",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write one word in each blank. Words: eraser / ruler / door.",
+    "options": null,
+    "dialogue": [
+      {
+        "speaker": "Aly",
+        "text": "What is this, Omar?"
+      },
+      {
+        "speaker": "Omar",
+        "text": "This is an {1}. It erases mistakes."
+      },
+      {
+        "speaker": "Aly",
+        "text": "And what is that?"
+      },
+      {
+        "speaker": "Omar",
+        "text": "That is a {2}. It measures lines."
+      },
+      {
+        "speaker": "Aly",
+        "text": "Where is the {3}? We open it to go out."
+      },
+      {
+        "speaker": "Omar",
+        "text": "It is over there."
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "eraser"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "ruler"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "door"
+        ]
+      }
+    ],
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: eraser. 2: ruler. 3: door.",
+    "answer_kind": "blanks_text"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "id": "p2-u1l3-13",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 3, pdf p.11-13",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: مقلمة   ( p_____ c___ )",
+    "options": null,
+    "answer": "pencil case",
+    "accept": [
+      "pencil case"
+    ],
+    "explanation_ar": "مقلمة = pencil case.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "id": "p2-u1l3-17",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 3, pdf p.11-13",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "unscramble",
+    "prompt": "رتّب الحروف علشان تكوّن كلمة (سبورة).",
+    "options": null,
+    "answer": "board",
+    "letters": [
+      "b",
+      "r",
+      "a",
+      "o",
+      "d"
+    ],
+    "accept": [
+      "board"
+    ],
+    "explanation_ar": "الكلمة: b-o-a-r-d.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "id": "p2-u1l3-41",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 3, pdf p.11-13",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "We use a ruler to measure.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "المسطرة للقياس.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "id": "p2-u1l3-39",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 3, pdf p.11-13",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "pen and ten have the same vowel sound.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "الاتنين فيهم /e/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "id": "p2-u1l3-28",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 3, pdf p.11-13",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "You carry your books in a ____.",
+    "options": [
+      "door",
+      "window",
+      "bag",
+      "board"
+    ],
+    "answer": "bag",
+    "explanation_ar": "الكتب في bag.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "id": "p2-u1l3-25",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 3, pdf p.11-13",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "A: What is this? B: This is ____ eraser.",
+    "options": [
+      "an",
+      "the",
+      "a",
+      "two"
+    ],
+    "answer": "an",
+    "explanation_ar": "قبل eraser بنقول an لأنها بتبدأ بحرف صوت متحرك.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "id": "p2-u1l3-03",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 3, pdf p.11-13",
+    "passage": null,
+    "image_optional": [
+      "window"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'window' يعني إيه؟",
+    "options": [
+      "سبورة",
+      "شباك",
+      "ممحاة",
+      "شنطة"
+    ],
+    "answer": "شباك",
+    "explanation_ar": "window = شباك.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together",
+    "id": "p2-u1l4-17",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 4, pdf p.14-16",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "typein",
+    "prompt": "اكتب الكلمة بالإنجليزي: سلة   ( b__ )",
+    "options": null,
+    "answer": "bin",
+    "accept": [
+      "bin"
+    ],
+    "explanation_ar": "سلة = bin.",
+    "answer_kind": "text_key"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together",
+    "id": "p2-u1l4-22",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 4, pdf p.14-16",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "This is my pencil case.",
+    "explanation_ar": "الجملة: This is my pencil case.",
+    "answer_kind": "text_key",
+    "words": [
+      "pencil",
+      "case",
+      "This",
+      ".",
+      "my",
+      "is"
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "my",
+      "pencil",
+      "case",
+      "."
+    ],
+    "accept": [
+      "This is my pencil case."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together",
+    "id": "p2-u1l4-39",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 4, pdf p.14-16",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "'This my is bag.' is correct.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "الترتيب الصح: This is my bag.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together",
+    "id": "p2-u1l4-37",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 4, pdf p.14-16",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "tf",
+    "prompt": "bin and fig have the short i sound.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "الاتنين فيهم /ɪ/.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together",
+    "id": "p2-u1l4-12",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 4, pdf p.14-16",
+    "passage": null,
+    "image_optional": [
+      "zip"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "إزاي نقول 'سوستة' بالإنجليزي؟",
+    "options": [
+      "hen",
+      "bin",
+      "ten",
+      "zip"
+    ],
+    "answer": "zip",
+    "explanation_ar": "سوستة بالإنجليزي: zip.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together",
+    "id": "p2-u1l4-30",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 4, pdf p.14-16",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "A ____ is a sweet fruit.",
+    "options": [
+      "bin",
+      "fig",
+      "pen",
+      "zip"
+    ],
+    "answer": "fig",
+    "explanation_ar": "fig = تين.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together",
+    "id": "p2-u1l4-07",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 4, pdf p.14-16",
+    "passage": null,
+    "image_optional": [
+      "pencil case"
+    ],
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "'pencil case' يعني إيه؟",
+    "options": [
+      "تين",
+      "قلم حبر",
+      "سلة",
+      "مقلمة"
+    ],
+    "answer": "مقلمة",
+    "explanation_ar": "pencil case = مقلمة.",
+    "answer_kind": "closed"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together",
+    "id": "p2-u1l4-27",
+    "source_ref": "Ministry Primary 2 T1 student book, Unit 1 Lesson 4, pdf p.14-16",
+    "passage": null,
+    "image_optional": null,
+    "requires_image": false,
+    "type": "mcq",
+    "prompt": "This is ____ pencil case.",
+    "options": [
+      "is",
+      "I",
+      "me",
+      "my"
+    ],
+    "answer": "my",
+    "explanation_ar": "نقول my علشان الحاجة بتاعتي.",
+    "answer_kind": "closed"
+  }
+]
