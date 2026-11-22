@@ -1,1 +1,727 @@
-{"grade":"p3","id":4,"title":"Let's Tell Stories!","questions":[{"id":1,"type":"MCQ","prompt":"When I win a game, I feel ___.","answer":"b","options":["sad","happy","angry"],"answer_index":1,"grading":"closed"},{"id":2,"type":"MCQ","prompt":"When I see a big dog, I feel ___. (خائف)","answer":"b","options":["excited","scared","bored"],"answer_index":1,"grading":"closed"},{"id":3,"type":"MCQ","prompt":"When my toy breaks, I feel ___.","answer":"a","options":["sad","happy","excited"],"answer_index":0,"grading":"closed"},{"id":4,"type":"MCQ","prompt":"When I wait for my birthday, I feel ___. (متحمس)","answer":"a","options":["excited","bored","tired"],"answer_index":0,"grading":"closed"},{"id":5,"type":"MCQ","prompt":"When someone takes my pen, I feel ___.","answer":"b","options":["happy","angry","shy"],"answer_index":1,"grading":"closed"},{"id":6,"type":"MCQ","prompt":"After running for an hour, I feel ___. (متعب)","answer":"a","options":["tired","excited","happy"],"answer_index":0,"grading":"closed"},{"id":7,"type":"MCQ","prompt":"When the lesson is long and not fun, I feel ___. (أشعر بالملل)","answer":"b","options":["excited","bored","happy"],"answer_index":1,"grading":"closed"},{"id":8,"type":"MCQ","prompt":"A new student may feel ___ on the first day. (خجول)","answer":"b","options":["angry","shy","tired"],"answer_index":1,"grading":"closed"},{"id":9,"type":"MCQ","prompt":"Yesterday he ___ to the zoo.","answer":"b","options":["go","went","goes"],"answer_index":1,"grading":"closed"},{"id":10,"type":"MCQ","prompt":"They ___ a lion at the zoo.","answer":"b","options":["see","saw","seen"],"answer_index":1,"grading":"closed"},{"id":11,"type":"MCQ","prompt":"\"خائف\" in English: ___.","answer":"b","options":["happy","scared","shy"],"answer_index":1,"grading":"closed"},{"id":12,"type":"MCQ","prompt":"\"متحمس\" in English: ___.","answer":"a","options":["excited","tired","bored"],"answer_index":0,"grading":"closed"},{"id":13,"type":"MCQ","prompt":"She ___ happy because it was her birthday.","answer":"b","options":["were","was","is"],"answer_index":1,"grading":"closed"},{"id":14,"type":"MCQ","prompt":"They ___ tired after the trip.","answer":"b","options":["was","were","is"],"answer_index":1,"grading":"closed"},{"id":15,"type":"MCQ","prompt":"The baby cried because he was ___.","answer":"c","options":["happy","excited","sad"],"answer_index":2,"grading":"closed"},{"id":16,"type":"MCQ","prompt":"I ___ my old friend at the park yesterday.","answer":"b","options":["see","saw","seeing"],"answer_index":1,"grading":"closed"},{"id":17,"type":"MCQ","prompt":"\"غاضب\" in English: ___.","answer":"a","options":["angry","shy","bored"],"answer_index":0,"grading":"closed"},{"id":18,"type":"MCQ","prompt":"We ___ a story about a brave boy.","answer":"b","options":["readed","read","reading"],"answer_index":1,"grading":"closed"},{"id":19,"type":"MCQ","prompt":"The mouse was ___ of the cat.","answer":"b","options":["happy","scared","excited"],"answer_index":1,"grading":"closed"},{"id":20,"type":"MCQ","prompt":"I feel ___ when I help my mom.","answer":"a","options":["happy","angry","scared"],"answer_index":0,"grading":"closed"},{"id":21,"type":"COMPLETE","prompt":"Lina got a new bike. She is ___. (سعيدة)","answer":"happy","models":["happy"],"wordbox":["happy","sad","scared","excited","angry","tired","bored","shy"],"grading":"closed"},{"id":22,"type":"COMPLETE","prompt":"He lost his ball. He is ___. (حزين)","answer":"sad","models":["sad"],"wordbox":["happy","sad","scared","excited","angry","tired","bored","shy"],"grading":"closed"},{"id":23,"type":"COMPLETE","prompt":"The room is dark. The girl is ___. (خائفة)","answer":"scared","models":["scared"],"wordbox":["happy","sad","scared","excited","angry","tired","bored","shy"],"grading":"closed"},{"id":24,"type":"COMPLETE","prompt":"Tomorrow is the school trip! We are ___. (متحمسون)","answer":"excited","models":["excited"],"wordbox":["happy","sad","scared","excited","angry","tired","bored","shy"],"grading":"closed"},{"id":25,"type":"COMPLETE","prompt":"He broke my pencil case. I am ___. (غاضب)","answer":"angry","models":["angry"],"wordbox":["happy","sad","scared","excited","angry","tired","bored","shy"],"grading":"closed"},{"id":26,"type":"COMPLETE","prompt":"We walked for two hours. We are ___. (متعبون)","answer":"tired","models":["tired"],"wordbox":["happy","sad","scared","excited","angry","tired","bored","shy"],"grading":"closed"},{"id":27,"type":"COMPLETE","prompt":"The film is slow. I am ___. (أشعر بالملل)","answer":"bored","models":["bored"],"wordbox":["happy","sad","scared","excited","angry","tired","bored","shy"],"grading":"closed"},{"id":28,"type":"COMPLETE","prompt":"She doesn't talk in class. She is ___. (خجولة)","answer":"shy","models":["shy"],"wordbox":["happy","sad","scared","excited","angry","tired","bored","shy"],"grading":"closed"},{"id":29,"type":"LETTERS","prompt":"p y p a h (سعيد)","answer":"happy","models":["happy"],"grading":"closed"},{"id":30,"type":"LETTERS","prompt":"d a s (حزين)","answer":"sad","models":["sad"],"grading":"closed"},{"id":31,"type":"LETTERS","prompt":"e d t i r (متعب)","answer":"tired","models":["tired"],"grading":"closed"},{"id":32,"type":"LETTERS","prompt":"y h s (خجول)","answer":"shy","models":["shy"],"grading":"closed"},{"id":33,"type":"LETTERS","prompt":"r g n a y (غاضب)","answer":"angry","models":["angry"],"grading":"closed"},{"id":34,"type":"LETTERS","prompt":"d e b o r (يشعر بالملل)","answer":"bored","models":["bored"],"grading":"closed"},{"id":35,"type":"REORDER","prompt":"went – He – zoo. – to – the","answer":"He went to the zoo.","models":["He went to the zoo."],"grading":"model_review"},{"id":36,"type":"REORDER","prompt":"saw – They – elephant. – an","answer":"They saw an elephant.","models":["They saw an elephant."],"grading":"model_review"},{"id":37,"type":"REORDER","prompt":"was – She – happy.","answer":"She was happy.","models":["She was happy."],"grading":"model_review"},{"id":38,"type":"REORDER","prompt":"were – We – tired.","answer":"We were tired.","models":["We were tired."],"grading":"model_review"},{"id":39,"type":"REORDER","prompt":"am – I – excited.","answer":"I am excited.","models":["I am excited."],"grading":"model_review"},{"id":40,"type":"REORDER","prompt":"boy – The – shy. – was","answer":"The boy was shy.","models":["The boy was shy."],"grading":"model_review"},{"id":41,"type":"READ","prompt":"Omar went to the ___.","answer":"b","passage":"Omar went to the beach with his family on Friday. He was very excited. He swam in the sea and played with the sand. He made a big sand house with his little brother. At the end of the day he was tired but happy. It was a great day.","options":["park","beach","zoo"],"answer_index":1,"grading":"closed"},{"id":42,"type":"READ","prompt":"At first, Omar was ___.","answer":"a","passage":"Omar went to the beach with his family on Friday. He was very excited. He swam in the sea and played with the sand. He made a big sand house with his little brother. At the end of the day he was tired but happy. It was a great day.","options":["excited","sad","angry"],"answer_index":0,"grading":"closed"},{"id":43,"type":"READ","prompt":"At the end, Omar was tired but ___.","answer":"b","passage":"Omar went to the beach with his family on Friday. He was very excited. He swam in the sea and played with the sand. He made a big sand house with his little brother. At the end of the day he was tired but happy. It was a great day.","options":["bored","happy","scared"],"answer_index":1,"grading":"closed"},{"id":44,"type":"READ","prompt":"What did Omar do in the sea?","answer":"He swam.","models":["He swam."],"passage":"Omar went to the beach with his family on Friday. He was very excited. He swam in the sea and played with the sand. He made a big sand house with his little brother. At the end of the day he was tired but happy. It was a great day.","grading":"model_review"},{"id":45,"type":"READ","prompt":"When did the family go to the beach?","answer":"On Friday.","models":["On Friday."],"passage":"Omar went to the beach with his family on Friday. He was very excited. He swam in the sea and played with the sand. He made a big sand house with his little brother. At the end of the day he was tired but happy. It was a great day.","grading":"model_review"},{"id":46,"type":"PUNCT","prompt":"he went to the zoo","answer":"He went to the zoo.","models":["He went to the zoo."],"grading":"model_review"},{"id":47,"type":"PUNCT","prompt":"were you happy","answer":"Were you happy?","models":["Were you happy?"],"grading":"model_review"},{"id":48,"type":"PUNCT","prompt":"they saw a big lion","answer":"They saw a big lion.","models":["They saw a big lion."],"grading":"model_review"},{"id":49,"type":"PUNCT","prompt":"i was scared","answer":"I was scared.","models":["I was scared."],"grading":"model_review"},{"id":50,"type":"PUNCT","prompt":"she is shy in class","answer":"She is shy in class.","models":["She is shy in class."],"grading":"model_review"},{"id":51,"type":"WRITE","prompt":"(walked, played, happy)","answer":"We walked to school yesterday.","models":["We walked to school yesterday.","They played in the garden.","The little boy is happy."],"grading":"model_review","min_words":15,"sentences":3}],"version":"81b286e1585d"}
+{
+  "grade": "p3",
+  "id": 4,
+  "title": "Let's Tell Stories!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MCQ",
+      "prompt": "When I win a game, I feel ___.",
+      "answer": "b",
+      "options": [
+        "sad",
+        "happy",
+        "angry"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "لما بكسب لعبة بحس بالسعادة: happy. sad حزين وangry غاضب."
+    },
+    {
+      "id": 2,
+      "type": "MCQ",
+      "prompt": "When I see a big dog, I feel ___. (خائف)",
+      "answer": "b",
+      "options": [
+        "excited",
+        "scared",
+        "bored"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (خائف) معناها scared. لما أشوف كلب كبير ممكن أخاف."
+    },
+    {
+      "id": 3,
+      "type": "MCQ",
+      "prompt": "When my toy breaks, I feel ___.",
+      "answer": "a",
+      "options": [
+        "sad",
+        "happy",
+        "excited"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "لما لعبتي بتتكسر بحزن: sad. happy وexcited مشاعر فرح."
+    },
+    {
+      "id": 4,
+      "type": "MCQ",
+      "prompt": "When I wait for my birthday, I feel ___. (متحمس)",
+      "answer": "a",
+      "options": [
+        "excited",
+        "bored",
+        "tired"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (متحمس) معناها excited، وبنبقى متحمسين وإحنا مستنيين عيد ميلادنا."
+    },
+    {
+      "id": 5,
+      "type": "MCQ",
+      "prompt": "When someone takes my pen, I feel ___.",
+      "answer": "b",
+      "options": [
+        "happy",
+        "angry",
+        "shy"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "لما حد ياخد قلمي بتضايق وأتعصب: angry. shy معناها خجول وhappy سعيد."
+    },
+    {
+      "id": 6,
+      "type": "MCQ",
+      "prompt": "After running for an hour, I feel ___. (متعب)",
+      "answer": "a",
+      "options": [
+        "tired",
+        "excited",
+        "happy"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بعد الجري ساعة بحس بالتعب: tired. الكلمة العربية (متعب) معناها tired."
+    },
+    {
+      "id": 7,
+      "type": "MCQ",
+      "prompt": "When the lesson is long and not fun, I feel ___. (أشعر بالملل)",
+      "answer": "b",
+      "options": [
+        "excited",
+        "bored",
+        "happy"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الدرس الطويل والممل بيحسسني بالملل: bored. الكلمة العربية معناها bored."
+    },
+    {
+      "id": 8,
+      "type": "MCQ",
+      "prompt": "A new student may feel ___ on the first day. (خجول)",
+      "answer": "b",
+      "options": [
+        "angry",
+        "shy",
+        "tired"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الطالب الجديد في أول يوم ممكن يبقى خجول: shy. الكلمة العربية (خجول) معناها shy."
+    },
+    {
+      "id": 9,
+      "type": "MCQ",
+      "prompt": "Yesterday he ___ to the zoo.",
+      "answer": "b",
+      "options": [
+        "go",
+        "went",
+        "goes"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "كلمة Yesterday بتدل على الماضي، وماضي go هو went. go للحاضر وgoes للمفرد الغايب."
+    },
+    {
+      "id": 10,
+      "type": "MCQ",
+      "prompt": "They ___ a lion at the zoo.",
+      "answer": "b",
+      "options": [
+        "see",
+        "saw",
+        "seen"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الجملة ماضية، وماضي see هو saw. see للمضارع وseen مش بنستخدمها لوحدها."
+    },
+    {
+      "id": 11,
+      "type": "MCQ",
+      "prompt": "\"خائف\" in English: ___.",
+      "answer": "b",
+      "options": [
+        "happy",
+        "scared",
+        "shy"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (خائف) معناها scared. happy سعيد وshy خجول."
+    },
+    {
+      "id": 12,
+      "type": "MCQ",
+      "prompt": "\"متحمس\" in English: ___.",
+      "answer": "a",
+      "options": [
+        "excited",
+        "tired",
+        "bored"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (متحمس) معناها excited. tired متعب وbored زهقان."
+    },
+    {
+      "id": 13,
+      "type": "MCQ",
+      "prompt": "She ___ happy because it was her birthday.",
+      "answer": "b",
+      "options": [
+        "were",
+        "was",
+        "is"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "She مفرد وفي الماضي، فنقول was. were للجمع وis للحاضر."
+    },
+    {
+      "id": 14,
+      "type": "MCQ",
+      "prompt": "They ___ tired after the trip.",
+      "answer": "b",
+      "options": [
+        "was",
+        "were",
+        "is"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "They جمع وفي الماضي (after the trip)، فنقول were. was للمفرد."
+    },
+    {
+      "id": 15,
+      "type": "MCQ",
+      "prompt": "The baby cried because he was ___.",
+      "answer": "c",
+      "options": [
+        "happy",
+        "excited",
+        "sad"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "الطفل بيعيط لما يبقى حزين: sad. happy وexcited مش بيعيّطوا الطفل."
+    },
+    {
+      "id": 16,
+      "type": "MCQ",
+      "prompt": "I ___ my old friend at the park yesterday.",
+      "answer": "b",
+      "options": [
+        "see",
+        "saw",
+        "seeing"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "كلمة yesterday بتدل على الماضي، وماضي see هو saw. see وseeing مش مناسبين."
+    },
+    {
+      "id": 17,
+      "type": "MCQ",
+      "prompt": "\"غاضب\" in English: ___.",
+      "answer": "a",
+      "options": [
+        "angry",
+        "shy",
+        "bored"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (غاضب) معناها angry. shy خجول وbored زهقان."
+    },
+    {
+      "id": 18,
+      "type": "MCQ",
+      "prompt": "We ___ a story about a brave boy.",
+      "answer": "b",
+      "options": [
+        "readed",
+        "read",
+        "reading"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "ماضي read بيتكتب read لكن بيتنطق ريد (red). readed غلط، لأن الفعل ده مش بياخد ed."
+    },
+    {
+      "id": 19,
+      "type": "MCQ",
+      "prompt": "The mouse was ___ of the cat.",
+      "answer": "b",
+      "options": [
+        "happy",
+        "scared",
+        "excited"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الفار كان خايف من القطة: scared. happy وexcited مش بيتناسبوا مع القطة."
+    },
+    {
+      "id": 20,
+      "type": "MCQ",
+      "prompt": "I feel ___ when I help my mom.",
+      "answer": "a",
+      "options": [
+        "happy",
+        "angry",
+        "scared"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "لما أساعد أمي بحس بالسعادة: happy. angry وscared مش مناسبين."
+    },
+    {
+      "id": 21,
+      "type": "COMPLETE",
+      "prompt": "Lina got a new bike. She is ___. (سعيدة)",
+      "answer": "happy",
+      "models": [
+        "happy"
+      ],
+      "wordbox": [
+        "happy",
+        "sad",
+        "scared",
+        "excited",
+        "angry",
+        "tired",
+        "bored",
+        "shy"
+      ],
+      "grading": "closed",
+      "explanation_ar": "ليلى جابت عجلة جديدة، فهي سعيدة: happy. الكلمة العربية (سعيدة) هي الدليل."
+    },
+    {
+      "id": 22,
+      "type": "COMPLETE",
+      "prompt": "He lost his ball. He is ___. (حزين)",
+      "answer": "sad",
+      "models": [
+        "sad"
+      ],
+      "wordbox": [
+        "happy",
+        "sad",
+        "scared",
+        "excited",
+        "angry",
+        "tired",
+        "bored",
+        "shy"
+      ],
+      "grading": "closed",
+      "explanation_ar": "هو ضيّع كورته فهو حزين: sad. الكلمة العربية (حزين) معناها sad."
+    },
+    {
+      "id": 23,
+      "type": "COMPLETE",
+      "prompt": "The room is dark. The girl is ___. (خائفة)",
+      "answer": "scared",
+      "models": [
+        "scared"
+      ],
+      "wordbox": [
+        "happy",
+        "sad",
+        "scared",
+        "excited",
+        "angry",
+        "tired",
+        "bored",
+        "shy"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الأوضة ضلمة والبنت خايفة: scared. الكلمة العربية (خائفة) معناها scared."
+    },
+    {
+      "id": 24,
+      "type": "COMPLETE",
+      "prompt": "Tomorrow is the school trip! We are ___. (متحمسون)",
+      "answer": "excited",
+      "models": [
+        "excited"
+      ],
+      "wordbox": [
+        "happy",
+        "sad",
+        "scared",
+        "excited",
+        "angry",
+        "tired",
+        "bored",
+        "shy"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بكرة رحلة المدرسة فإحنا متحمسين: excited."
+    },
+    {
+      "id": 25,
+      "type": "COMPLETE",
+      "prompt": "He broke my pencil case. I am ___. (غاضب)",
+      "answer": "angry",
+      "models": [
+        "angry"
+      ],
+      "wordbox": [
+        "happy",
+        "sad",
+        "scared",
+        "excited",
+        "angry",
+        "tired",
+        "bored",
+        "shy"
+      ],
+      "grading": "closed",
+      "explanation_ar": "كسر المقلمة بتاعتي فأنا غاضب: angry."
+    },
+    {
+      "id": 26,
+      "type": "COMPLETE",
+      "prompt": "We walked for two hours. We are ___. (متعبون)",
+      "answer": "tired",
+      "models": [
+        "tired"
+      ],
+      "wordbox": [
+        "happy",
+        "sad",
+        "scared",
+        "excited",
+        "angry",
+        "tired",
+        "bored",
+        "shy"
+      ],
+      "grading": "closed",
+      "explanation_ar": "مشينا ساعتين فإحنا تعبانين: tired."
+    },
+    {
+      "id": 27,
+      "type": "COMPLETE",
+      "prompt": "The film is slow. I am ___. (أشعر بالملل)",
+      "answer": "bored",
+      "models": [
+        "bored"
+      ],
+      "wordbox": [
+        "happy",
+        "sad",
+        "scared",
+        "excited",
+        "angry",
+        "tired",
+        "bored",
+        "shy"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الفيلم بطيء فأنا زهقان: bored."
+    },
+    {
+      "id": 28,
+      "type": "COMPLETE",
+      "prompt": "She doesn't talk in class. She is ___. (خجولة)",
+      "answer": "shy",
+      "models": [
+        "shy"
+      ],
+      "wordbox": [
+        "happy",
+        "sad",
+        "scared",
+        "excited",
+        "angry",
+        "tired",
+        "bored",
+        "shy"
+      ],
+      "grading": "closed",
+      "explanation_ar": "هي مبتتكلمش في الفصل، فهي خجولة: shy."
+    },
+    {
+      "id": 29,
+      "type": "LETTERS",
+      "prompt": "p y p a h (سعيد)",
+      "answer": "happy",
+      "models": [
+        "happy"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: happy. معناها سعيد."
+    },
+    {
+      "id": 30,
+      "type": "LETTERS",
+      "prompt": "d a s (حزين)",
+      "answer": "sad",
+      "models": [
+        "sad"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: sad. معناها حزين."
+    },
+    {
+      "id": 31,
+      "type": "LETTERS",
+      "prompt": "e d t i r (متعب)",
+      "answer": "tired",
+      "models": [
+        "tired"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: tired. معناها متعب."
+    },
+    {
+      "id": 32,
+      "type": "LETTERS",
+      "prompt": "y h s (خجول)",
+      "answer": "shy",
+      "models": [
+        "shy"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: shy. معناها خجول."
+    },
+    {
+      "id": 33,
+      "type": "LETTERS",
+      "prompt": "r g n a y (غاضب)",
+      "answer": "angry",
+      "models": [
+        "angry"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: angry. معناها غاضب."
+    },
+    {
+      "id": 34,
+      "type": "LETTERS",
+      "prompt": "d e b o r (يشعر بالملل)",
+      "answer": "bored",
+      "models": [
+        "bored"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: bored. معناها يشعر بالملل."
+    },
+    {
+      "id": 35,
+      "type": "REORDER",
+      "prompt": "went – He – zoo. – to – the",
+      "answer": "He went to the zoo.",
+      "models": [
+        "He went to the zoo."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: He went to the zoo. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 36,
+      "type": "REORDER",
+      "prompt": "saw – They – elephant. – an",
+      "answer": "They saw an elephant.",
+      "models": [
+        "They saw an elephant."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: They saw an elephant. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 37,
+      "type": "REORDER",
+      "prompt": "was – She – happy.",
+      "answer": "She was happy.",
+      "models": [
+        "She was happy."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: She was happy. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 38,
+      "type": "REORDER",
+      "prompt": "were – We – tired.",
+      "answer": "We were tired.",
+      "models": [
+        "We were tired."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: We were tired. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 39,
+      "type": "REORDER",
+      "prompt": "am – I – excited.",
+      "answer": "I am excited.",
+      "models": [
+        "I am excited."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: I am excited. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 40,
+      "type": "REORDER",
+      "prompt": "boy – The – shy. – was",
+      "answer": "The boy was shy.",
+      "models": [
+        "The boy was shy."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: The boy was shy. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 41,
+      "type": "READ",
+      "prompt": "Omar went to the ___.",
+      "answer": "b",
+      "passage": "Omar went to the beach with his family on Friday. He was very excited. He swam in the sea and played with the sand. He made a big sand house with his little brother. At the end of the day he was tired but happy. It was a great day.",
+      "options": [
+        "park",
+        "beach",
+        "zoo"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: Omar went to the beach. يعني راح البحر (الشاطئ): beach."
+    },
+    {
+      "id": 42,
+      "type": "READ",
+      "prompt": "At first, Omar was ___.",
+      "answer": "a",
+      "passage": "Omar went to the beach with his family on Friday. He was very excited. He swam in the sea and played with the sand. He made a big sand house with his little brother. At the end of the day he was tired but happy. It was a great day.",
+      "options": [
+        "excited",
+        "sad",
+        "angry"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: He was very excited. يعني في الأول كان متحمس: excited."
+    },
+    {
+      "id": 43,
+      "type": "READ",
+      "prompt": "At the end, Omar was tired but ___.",
+      "answer": "b",
+      "passage": "Omar went to the beach with his family on Friday. He was very excited. He swam in the sea and played with the sand. He made a big sand house with his little brother. At the end of the day he was tired but happy. It was a great day.",
+      "options": [
+        "bored",
+        "happy",
+        "scared"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: he was tired but happy. يعني في الآخر كان سعيد: happy."
+    },
+    {
+      "id": 44,
+      "type": "READ",
+      "prompt": "What did Omar do in the sea?",
+      "answer": "He swam.",
+      "models": [
+        "He swam."
+      ],
+      "passage": "Omar went to the beach with his family on Friday. He was very excited. He swam in the sea and played with the sand. He made a big sand house with his little brother. At the end of the day he was tired but happy. It was a great day.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: He swam in the sea. يعني عام في البحر: He swam."
+    },
+    {
+      "id": 45,
+      "type": "READ",
+      "prompt": "When did the family go to the beach?",
+      "answer": "On Friday.",
+      "models": [
+        "On Friday."
+      ],
+      "passage": "Omar went to the beach with his family on Friday. He was very excited. He swam in the sea and played with the sand. He made a big sand house with his little brother. At the end of the day he was tired but happy. It was a great day.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: Omar went to the beach with his family on Friday. يعني يوم الجمعة: On Friday."
+    },
+    {
+      "id": 46,
+      "type": "PUNCT",
+      "prompt": "he went to the zoo",
+      "answer": "He went to the zoo.",
+      "models": [
+        "He went to the zoo."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: He went to the zoo. بنبدأ بحرف كبير (He) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 47,
+      "type": "PUNCT",
+      "prompt": "were you happy",
+      "answer": "Were you happy?",
+      "models": [
+        "Were you happy?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Were you happy? بنبدأ بحرف كبير (Were) وننهي بعلامة الاستفهام (?) لأنها سؤال."
+    },
+    {
+      "id": 48,
+      "type": "PUNCT",
+      "prompt": "they saw a big lion",
+      "answer": "They saw a big lion.",
+      "models": [
+        "They saw a big lion."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: They saw a big lion. بنبدأ بحرف كبير (They) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 49,
+      "type": "PUNCT",
+      "prompt": "i was scared",
+      "answer": "I was scared.",
+      "models": [
+        "I was scared."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: I was scared. بنبدأ بحرف كبير (I) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 50,
+      "type": "PUNCT",
+      "prompt": "she is shy in class",
+      "answer": "She is shy in class.",
+      "models": [
+        "She is shy in class."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: She is shy in class. بنبدأ بحرف كبير (She) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 51,
+      "type": "WRITE",
+      "prompt": "(walked, played, happy)",
+      "answer": "We walked to school yesterday.",
+      "models": [
+        "We walked to school yesterday.",
+        "They played in the garden.",
+        "The little boy is happy."
+      ],
+      "grading": "model_review",
+      "min_words": 15,
+      "sentences": 3,
+      "explanation_ar": "الكلمات: walked وplayed وhappy. نستخدم الماضي في جمل: We walked to school yesterday. happy بتيجي بعد is أو was. نبدأ بحرف كبير وننهي بنقطة. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة."
+    }
+  ],
+  "version": "81b286e1585d"
+}

@@ -1,1 +1,727 @@
-{"grade":"p3","id":5,"title":"Together Is Better","questions":[{"id":1,"type":"MCQ","prompt":"When we work together, work is ___.","answer":"b","options":["harder","easier","bad"],"answer_index":1,"grading":"closed"},{"id":2,"type":"MCQ","prompt":"\"نرتّب\" in English: ___.","answer":"a","options":["tidy up","win","donate"],"answer_index":0,"grading":"closed"},{"id":3,"type":"MCQ","prompt":"I ___ my toys with my sister. (أشارك)","answer":"a","options":["share","win","fix"],"answer_index":0,"grading":"closed"},{"id":4,"type":"MCQ","prompt":"We ___ trees in the school garden.","answer":"b","options":["donate","plant","win"],"answer_index":1,"grading":"closed"},{"id":5,"type":"MCQ","prompt":"We ___ old clothes to poor children.","answer":"b","options":["plant","donate","fix"],"answer_index":1,"grading":"closed"},{"id":6,"type":"MCQ","prompt":"When our team scores, we ___.","answer":"a","options":["cheer","care","tidy"],"answer_index":0,"grading":"closed"},{"id":7,"type":"MCQ","prompt":"Dad can ___ the broken chair.","answer":"b","options":["agree","fix","win"],"answer_index":1,"grading":"closed"},{"id":8,"type":"MCQ","prompt":"We ___ on one plan for the project.","answer":"a","options":["agree","cheer","share"],"answer_index":0,"grading":"closed"},{"id":9,"type":"MCQ","prompt":"I ___ my mom with the chores.","answer":"a","options":["help","win","plant"],"answer_index":0,"grading":"closed"},{"id":10,"type":"MCQ","prompt":"The team worked hard and ___ the match.","answer":"a","options":["won","win","wins"],"answer_index":0,"grading":"closed"},{"id":11,"type":"MCQ","prompt":"\"يهتم / يعتني\" in English: ___.","answer":"a","options":["care","share","cheer"],"answer_index":0,"grading":"closed"},{"id":12,"type":"MCQ","prompt":"We ___ our room every Friday. (نرتّب)","answer":"a","options":["tidy up","donate","plant"],"answer_index":0,"grading":"closed"},{"id":13,"type":"MCQ","prompt":"When you share, you feel ___.","answer":"b","options":["angry","happy","bored"],"answer_index":1,"grading":"closed"},{"id":14,"type":"MCQ","prompt":"\"فاز\" (الماضي) in English: ___.","answer":"b","options":["win","won","wins"],"answer_index":1,"grading":"closed"},{"id":15,"type":"MCQ","prompt":"We ___ money to help the sick children.","answer":"a","options":["donated","planted","fixed"],"answer_index":0,"grading":"closed"},{"id":16,"type":"MCQ","prompt":"Let's ___ the classroom after art.","answer":"b","options":["break","tidy up","win"],"answer_index":1,"grading":"closed"},{"id":17,"type":"MCQ","prompt":"Two heads are ___ than one.","answer":"b","options":["worse","better","bad"],"answer_index":1,"grading":"closed"},{"id":18,"type":"MCQ","prompt":"We ___ a big tree in front of the school last week.","answer":"b","options":["plant","planted","planting"],"answer_index":1,"grading":"closed"},{"id":19,"type":"MCQ","prompt":"\"يشجّع (يهتف)\" in English: ___.","answer":"a","options":["cheer","care","share"],"answer_index":0,"grading":"closed"},{"id":20,"type":"MCQ","prompt":"When we ___, everyone gets some.","answer":"b","options":["win","share","fix"],"answer_index":1,"grading":"closed"},{"id":21,"type":"COMPLETE","prompt":"Let's ___ up the class before we leave.","answer":"tidy","models":["tidy"],"wordbox":["tidy","share","plant","donate","win","cheer","fix","help"],"grading":"closed"},{"id":22,"type":"COMPLETE","prompt":"I ___ my sandwich with my friend.","answer":"share","models":["share"],"wordbox":["tidy","share","plant","donate","win","cheer","fix","help"],"grading":"closed"},{"id":23,"type":"COMPLETE","prompt":"We ___ flowers on the balcony.","answer":"plant","models":["plant"],"wordbox":["tidy","share","plant","donate","win","cheer","fix","help"],"grading":"closed"},{"id":24,"type":"COMPLETE","prompt":"We ___ our old books to the school library.","answer":"donate","models":["donate"],"wordbox":["tidy","share","plant","donate","win","cheer","fix","help"],"grading":"closed"},{"id":25,"type":"COMPLETE","prompt":"Everyone wants to ___ the game.","answer":"win","models":["win"],"wordbox":["tidy","share","plant","donate","win","cheer","fix","help"],"grading":"closed"},{"id":26,"type":"COMPLETE","prompt":"The fans ___ for their team.","answer":"cheer","models":["cheer"],"wordbox":["tidy","share","plant","donate","win","cheer","fix","help"],"grading":"closed"},{"id":27,"type":"COMPLETE","prompt":"Can you ___ my bike? The wheel is broken.","answer":"fix","models":["fix"],"wordbox":["tidy","share","plant","donate","win","cheer","fix","help"],"grading":"closed"},{"id":28,"type":"COMPLETE","prompt":"I ___ my little brother with his homework.","answer":"help","models":["help"],"wordbox":["tidy","share","plant","donate","win","cheer","fix","help"],"grading":"closed"},{"id":29,"type":"LETTERS","prompt":"s a h r e (يشارك)","answer":"share","models":["share"],"grading":"closed"},{"id":30,"type":"LETTERS","prompt":"p l a n t (يزرع)","answer":"plant","models":["plant"],"grading":"closed"},{"id":31,"type":"LETTERS","prompt":"e h c r e (يهتف)","answer":"cheer","models":["cheer"],"grading":"closed"},{"id":32,"type":"LETTERS","prompt":"n i w (يفوز)","answer":"win","models":["win"],"grading":"closed"},{"id":33,"type":"LETTERS","prompt":"x i f (يصلح)","answer":"fix","models":["fix"],"grading":"closed"},{"id":34,"type":"LETTERS","prompt":"l p e h (يساعد)","answer":"help","models":["help"],"grading":"closed"},{"id":35,"type":"REORDER","prompt":"tidy – Let's – class. – the – up","answer":"Let's tidy up the class.","models":["Let's tidy up the class."],"grading":"model_review"},{"id":36,"type":"REORDER","prompt":"my – share – I – toys.","answer":"I share my toys.","models":["I share my toys."],"grading":"model_review"},{"id":37,"type":"REORDER","prompt":"help – We – other. – each","answer":"We help each other.","models":["We help each other."],"grading":"model_review"},{"id":38,"type":"REORDER","prompt":"trees. – They – planted","answer":"They planted trees.","models":["They planted trees."],"grading":"model_review"},{"id":39,"type":"REORDER","prompt":"match. – won – team – The – the","answer":"The team won the match.","models":["The team won the match."],"grading":"model_review"},{"id":40,"type":"REORDER","prompt":"a – agree – We – plan. – on","answer":"We agree on a plan.","models":["We agree on a plan."],"grading":"model_review"},{"id":41,"type":"READ","prompt":"Class 3B wanted to help their ___.","answer":"b","passage":"Class 3B wanted to help their school. The pupils made a plan together. Some children planted flowers, and others cleaned the garden. They donated their old books to small schools. The kind teachers helped them with the hard work in the garden. Everyone cheered when the work was done. Together is better!","options":["homes","school","club"],"answer_index":1,"grading":"closed"},{"id":42,"type":"READ","prompt":"Some children planted ___.","answer":"a","passage":"Class 3B wanted to help their school. The pupils made a plan together. Some children planted flowers, and others cleaned the garden. They donated their old books to small schools. The kind teachers helped them with the hard work in the garden. Everyone cheered when the work was done. Together is better!","options":["flowers","trees","books"],"answer_index":0,"grading":"closed"},{"id":43,"type":"READ","prompt":"They donated their old ___.","answer":"c","passage":"Class 3B wanted to help their school. The pupils made a plan together. Some children planted flowers, and others cleaned the garden. They donated their old books to small schools. The kind teachers helped them with the hard work in the garden. Everyone cheered when the work was done. Together is better!","options":["toys","clothes","books"],"answer_index":2,"grading":"closed"},{"id":44,"type":"READ","prompt":"What did the pupils do when the work was done?","answer":"They cheered.","models":["They cheered."],"passage":"Class 3B wanted to help their school. The pupils made a plan together. Some children planted flowers, and others cleaned the garden. They donated their old books to small schools. The kind teachers helped them with the hard work in the garden. Everyone cheered when the work was done. Together is better!","grading":"model_review"},{"id":45,"type":"READ","prompt":"What is the lesson of the text?","answer":"Working together is better.","models":["Working together is better."],"passage":"Class 3B wanted to help their school. The pupils made a plan together. Some children planted flowers, and others cleaned the garden. They donated their old books to small schools. The kind teachers helped them with the hard work in the garden. Everyone cheered when the work was done. Together is better!","grading":"model_review"},{"id":46,"type":"PUNCT","prompt":"let's tidy up the room","answer":"Let's tidy up the room.","models":["Let's tidy up the room."],"grading":"model_review"},{"id":47,"type":"PUNCT","prompt":"we share our food","answer":"We share our food.","models":["We share our food."],"grading":"model_review"},{"id":48,"type":"PUNCT","prompt":"did they win the match","answer":"Did they win the match?","models":["Did they win the match?"],"grading":"model_review"},{"id":49,"type":"PUNCT","prompt":"the children planted a tree","answer":"The children planted a tree.","models":["The children planted a tree."],"grading":"model_review"},{"id":50,"type":"PUNCT","prompt":"i help my mom with the chores","answer":"I help my mom with the chores.","models":["I help my mom with the chores."],"grading":"model_review"},{"id":51,"type":"WRITE","prompt":"(share, plant, help)","answer":"I share my toys with my friends.","models":["I share my toys with my friends.","We plant a tree in the garden.","I help my father at home."],"grading":"model_review","min_words":15,"sentences":3}],"version":"4beeedfcc848"}
+{
+  "grade": "p3",
+  "id": 5,
+  "title": "Together Is Better",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MCQ",
+      "prompt": "When we work together, work is ___.",
+      "answer": "b",
+      "options": [
+        "harder",
+        "easier",
+        "bad"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "لما بنشتغل مع بعض الشغل بيبقى أسهل: easier. harder معناها أصعب، وbad معناها وحش."
+    },
+    {
+      "id": 2,
+      "type": "MCQ",
+      "prompt": "\"نرتّب\" in English: ___.",
+      "answer": "a",
+      "options": [
+        "tidy up",
+        "win",
+        "donate"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (نرتّب) معناها tidy up. win معناها نكسب وdonate نتبرع."
+    },
+    {
+      "id": 3,
+      "type": "MCQ",
+      "prompt": "I ___ my toys with my sister. (أشارك)",
+      "answer": "a",
+      "options": [
+        "share",
+        "win",
+        "fix"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (أشارك) معناها share، وبنشارك لعبنا مع أختنا. win وfix ملهمش علاقة بالمشاركة."
+    },
+    {
+      "id": 4,
+      "type": "MCQ",
+      "prompt": "We ___ trees in the school garden.",
+      "answer": "b",
+      "options": [
+        "donate",
+        "plant",
+        "win"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنزرع الشجر في حديقة المدرسة: plant. donate معناها نتبرع وwin معناها نكسب."
+    },
+    {
+      "id": 5,
+      "type": "MCQ",
+      "prompt": "We ___ old clothes to poor children.",
+      "answer": "b",
+      "options": [
+        "plant",
+        "donate",
+        "fix"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنتبرع بالهدوم القديمة للأطفال الفقراء: donate. plant معناها نزرع."
+    },
+    {
+      "id": 6,
+      "type": "MCQ",
+      "prompt": "When our team scores, we ___.",
+      "answer": "a",
+      "options": [
+        "cheer",
+        "care",
+        "tidy"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "لما فريقنا يجيب جون بنشجعه ونهتف: cheer. care معناها نهتم وtidy معناها نرتب."
+    },
+    {
+      "id": 7,
+      "type": "MCQ",
+      "prompt": "Dad can ___ the broken chair.",
+      "answer": "b",
+      "options": [
+        "agree",
+        "fix",
+        "win"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بابا يقدر يصلّح الكرسي المكسور: fix. agree معناها يوافق وwin معناها يكسب."
+    },
+    {
+      "id": 8,
+      "type": "MCQ",
+      "prompt": "We ___ on one plan for the project.",
+      "answer": "a",
+      "options": [
+        "agree",
+        "cheer",
+        "share"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنتفق على خطة واحدة للمشروع: agree. cheer معناها نهتف وshare معناها نشارك."
+    },
+    {
+      "id": 9,
+      "type": "MCQ",
+      "prompt": "I ___ my mom with the chores.",
+      "answer": "a",
+      "options": [
+        "help",
+        "win",
+        "plant"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بساعد أمي في شغل البيت: help. win وplant مش بيتناسبوا مع شغل البيت."
+    },
+    {
+      "id": 10,
+      "type": "MCQ",
+      "prompt": "The team worked hard and ___ the match.",
+      "answer": "a",
+      "options": [
+        "won",
+        "win",
+        "wins"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الجملة ماضية (worked)، فنقول won. win للمضارع وwins للمفرد الغايب."
+    },
+    {
+      "id": 11,
+      "type": "MCQ",
+      "prompt": "\"يهتم / يعتني\" in English: ___.",
+      "answer": "a",
+      "options": [
+        "care",
+        "share",
+        "cheer"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (يهتم / يعتني) معناها care. share معناها يشارك وcheer يهتف."
+    },
+    {
+      "id": 12,
+      "type": "MCQ",
+      "prompt": "We ___ our room every Friday. (نرتّب)",
+      "answer": "a",
+      "options": [
+        "tidy up",
+        "donate",
+        "plant"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (نرتّب) معناها tidy up، وبنرتب أوضتنا كل جمعة. donate وplant مش مناسبين."
+    },
+    {
+      "id": 13,
+      "type": "MCQ",
+      "prompt": "When you share, you feel ___.",
+      "answer": "b",
+      "options": [
+        "angry",
+        "happy",
+        "bored"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "لما بنشارك بنبقى سعداء: happy. angry غاضب وbored زهقان."
+    },
+    {
+      "id": 14,
+      "type": "MCQ",
+      "prompt": "\"فاز\" (الماضي) in English: ___.",
+      "answer": "b",
+      "options": [
+        "win",
+        "won",
+        "wins"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (فاز) في الماضي معناها won. win للحاضر وwins للمفرد."
+    },
+    {
+      "id": 15,
+      "type": "MCQ",
+      "prompt": "We ___ money to help the sick children.",
+      "answer": "a",
+      "options": [
+        "donated",
+        "planted",
+        "fixed"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنتبرع بفلوس لمساعدة الأطفال المرضى: donated. planted معناها زرعنا وfixed معناها صلحنا."
+    },
+    {
+      "id": 16,
+      "type": "MCQ",
+      "prompt": "Let's ___ the classroom after art.",
+      "answer": "b",
+      "options": [
+        "break",
+        "tidy up",
+        "win"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بعد حصة الرسم بنرتب الفصل: tidy up. break معناها يكسر وwin معناها يكسب."
+    },
+    {
+      "id": 17,
+      "type": "MCQ",
+      "prompt": "Two heads are ___ than one.",
+      "answer": "b",
+      "options": [
+        "worse",
+        "better",
+        "bad"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "المثل: Two heads are better than one، يعني اتنين أحسن من واحد. better معناها أحسن وworse أسوأ."
+    },
+    {
+      "id": 18,
+      "type": "MCQ",
+      "prompt": "We ___ a big tree in front of the school last week.",
+      "answer": "b",
+      "options": [
+        "plant",
+        "planted",
+        "planting"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "كلمة last week بتدل على الماضي، فنقول planted. plant وplanting مش بتعبر عن الماضي."
+    },
+    {
+      "id": 19,
+      "type": "MCQ",
+      "prompt": "\"يشجّع (يهتف)\" in English: ___.",
+      "answer": "a",
+      "options": [
+        "cheer",
+        "care",
+        "share"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (يشجّع) معناها cheer. care معناها يهتم وshare معناها يشارك."
+    },
+    {
+      "id": 20,
+      "type": "MCQ",
+      "prompt": "When we ___, everyone gets some.",
+      "answer": "b",
+      "options": [
+        "win",
+        "share",
+        "fix"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "لما بنشارك الكل بياخد حاجة: share. win وfix مش بيخلوا الكل ياخد."
+    },
+    {
+      "id": 21,
+      "type": "COMPLETE",
+      "prompt": "Let's ___ up the class before we leave.",
+      "answer": "tidy",
+      "models": [
+        "tidy"
+      ],
+      "wordbox": [
+        "tidy",
+        "share",
+        "plant",
+        "donate",
+        "win",
+        "cheer",
+        "fix",
+        "help"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنرتب الفصل قبل ما نمشي: tidy up. tidy معناها نرتب."
+    },
+    {
+      "id": 22,
+      "type": "COMPLETE",
+      "prompt": "I ___ my sandwich with my friend.",
+      "answer": "share",
+      "models": [
+        "share"
+      ],
+      "wordbox": [
+        "tidy",
+        "share",
+        "plant",
+        "donate",
+        "win",
+        "cheer",
+        "fix",
+        "help"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بشارك الساندوتش مع صاحبي: share."
+    },
+    {
+      "id": 23,
+      "type": "COMPLETE",
+      "prompt": "We ___ flowers on the balcony.",
+      "answer": "plant",
+      "models": [
+        "plant"
+      ],
+      "wordbox": [
+        "tidy",
+        "share",
+        "plant",
+        "donate",
+        "win",
+        "cheer",
+        "fix",
+        "help"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنزرع الورد في البلكونة: plant."
+    },
+    {
+      "id": 24,
+      "type": "COMPLETE",
+      "prompt": "We ___ our old books to the school library.",
+      "answer": "donate",
+      "models": [
+        "donate"
+      ],
+      "wordbox": [
+        "tidy",
+        "share",
+        "plant",
+        "donate",
+        "win",
+        "cheer",
+        "fix",
+        "help"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنتبرع بكتبنا القديمة لمكتبة المدرسة: donate."
+    },
+    {
+      "id": 25,
+      "type": "COMPLETE",
+      "prompt": "Everyone wants to ___ the game.",
+      "answer": "win",
+      "models": [
+        "win"
+      ],
+      "wordbox": [
+        "tidy",
+        "share",
+        "plant",
+        "donate",
+        "win",
+        "cheer",
+        "fix",
+        "help"
+      ],
+      "grading": "closed",
+      "explanation_ar": "كل واحد عايز يكسب اللعبة: win."
+    },
+    {
+      "id": 26,
+      "type": "COMPLETE",
+      "prompt": "The fans ___ for their team.",
+      "answer": "cheer",
+      "models": [
+        "cheer"
+      ],
+      "wordbox": [
+        "tidy",
+        "share",
+        "plant",
+        "donate",
+        "win",
+        "cheer",
+        "fix",
+        "help"
+      ],
+      "grading": "closed",
+      "explanation_ar": "المشجعين بيهتفوا لفريقهم: cheer."
+    },
+    {
+      "id": 27,
+      "type": "COMPLETE",
+      "prompt": "Can you ___ my bike? The wheel is broken.",
+      "answer": "fix",
+      "models": [
+        "fix"
+      ],
+      "wordbox": [
+        "tidy",
+        "share",
+        "plant",
+        "donate",
+        "win",
+        "cheer",
+        "fix",
+        "help"
+      ],
+      "grading": "closed",
+      "explanation_ar": "ممكن تصلّح عجلتي؟ العجلة مكسورة: fix."
+    },
+    {
+      "id": 28,
+      "type": "COMPLETE",
+      "prompt": "I ___ my little brother with his homework.",
+      "answer": "help",
+      "models": [
+        "help"
+      ],
+      "wordbox": [
+        "tidy",
+        "share",
+        "plant",
+        "donate",
+        "win",
+        "cheer",
+        "fix",
+        "help"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بساعد أخويا الصغير في واجبه: help."
+    },
+    {
+      "id": 29,
+      "type": "LETTERS",
+      "prompt": "s a h r e (يشارك)",
+      "answer": "share",
+      "models": [
+        "share"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: share. معناها يشارك."
+    },
+    {
+      "id": 30,
+      "type": "LETTERS",
+      "prompt": "p l a n t (يزرع)",
+      "answer": "plant",
+      "models": [
+        "plant"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: plant. معناها يزرع."
+    },
+    {
+      "id": 31,
+      "type": "LETTERS",
+      "prompt": "e h c r e (يهتف)",
+      "answer": "cheer",
+      "models": [
+        "cheer"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: cheer. معناها يهتف."
+    },
+    {
+      "id": 32,
+      "type": "LETTERS",
+      "prompt": "n i w (يفوز)",
+      "answer": "win",
+      "models": [
+        "win"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: win. معناها يفوز."
+    },
+    {
+      "id": 33,
+      "type": "LETTERS",
+      "prompt": "x i f (يصلح)",
+      "answer": "fix",
+      "models": [
+        "fix"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: fix. معناها يصلح."
+    },
+    {
+      "id": 34,
+      "type": "LETTERS",
+      "prompt": "l p e h (يساعد)",
+      "answer": "help",
+      "models": [
+        "help"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: help. معناها يساعد."
+    },
+    {
+      "id": 35,
+      "type": "REORDER",
+      "prompt": "tidy – Let's – class. – the – up",
+      "answer": "Let's tidy up the class.",
+      "models": [
+        "Let's tidy up the class."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Let's tidy up the class. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 36,
+      "type": "REORDER",
+      "prompt": "my – share – I – toys.",
+      "answer": "I share my toys.",
+      "models": [
+        "I share my toys."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: I share my toys. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 37,
+      "type": "REORDER",
+      "prompt": "help – We – other. – each",
+      "answer": "We help each other.",
+      "models": [
+        "We help each other."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: We help each other. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 38,
+      "type": "REORDER",
+      "prompt": "trees. – They – planted",
+      "answer": "They planted trees.",
+      "models": [
+        "They planted trees."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: They planted trees. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 39,
+      "type": "REORDER",
+      "prompt": "match. – won – team – The – the",
+      "answer": "The team won the match.",
+      "models": [
+        "The team won the match."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: The team won the match. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 40,
+      "type": "REORDER",
+      "prompt": "a – agree – We – plan. – on",
+      "answer": "We agree on a plan.",
+      "models": [
+        "We agree on a plan."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: We agree on a plan. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 41,
+      "type": "READ",
+      "prompt": "Class 3B wanted to help their ___.",
+      "answer": "b",
+      "passage": "Class 3B wanted to help their school. The pupils made a plan together. Some children planted flowers, and others cleaned the garden. They donated their old books to small schools. The kind teachers helped them with the hard work in the garden. Everyone cheered when the work was done. Together is better!",
+      "options": [
+        "homes",
+        "school",
+        "club"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: Class 3B wanted to help their school. يعني الفصل عايز يساعد مدرسته: school."
+    },
+    {
+      "id": 42,
+      "type": "READ",
+      "prompt": "Some children planted ___.",
+      "answer": "a",
+      "passage": "Class 3B wanted to help their school. The pupils made a plan together. Some children planted flowers, and others cleaned the garden. They donated their old books to small schools. The kind teachers helped them with the hard work in the garden. Everyone cheered when the work was done. Together is better!",
+      "options": [
+        "flowers",
+        "trees",
+        "books"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: Some children planted flowers. يعني بعض الأطفال زرعوا ورد: flowers."
+    },
+    {
+      "id": 43,
+      "type": "READ",
+      "prompt": "They donated their old ___.",
+      "answer": "c",
+      "passage": "Class 3B wanted to help their school. The pupils made a plan together. Some children planted flowers, and others cleaned the garden. They donated their old books to small schools. The kind teachers helped them with the hard work in the garden. Everyone cheered when the work was done. Together is better!",
+      "options": [
+        "toys",
+        "clothes",
+        "books"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: They donated their old books. يعني اتبرعوا بكتبهم القديمة: books."
+    },
+    {
+      "id": 44,
+      "type": "READ",
+      "prompt": "What did the pupils do when the work was done?",
+      "answer": "They cheered.",
+      "models": [
+        "They cheered."
+      ],
+      "passage": "Class 3B wanted to help their school. The pupils made a plan together. Some children planted flowers, and others cleaned the garden. They donated their old books to small schools. The kind teachers helped them with the hard work in the garden. Everyone cheered when the work was done. Together is better!",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: Everyone cheered when the work was done. يعني هتفوا لما خلصوا: They cheered."
+    },
+    {
+      "id": 45,
+      "type": "READ",
+      "prompt": "What is the lesson of the text?",
+      "answer": "Working together is better.",
+      "models": [
+        "Working together is better."
+      ],
+      "passage": "Class 3B wanted to help their school. The pupils made a plan together. Some children planted flowers, and others cleaned the garden. They donated their old books to small schools. The kind teachers helped them with the hard work in the garden. Everyone cheered when the work was done. Together is better!",
+      "grading": "model_review",
+      "explanation_ar": "آخر جملة في القطعة: Together is better! يعني التعاون أحسن: Working together is better."
+    },
+    {
+      "id": 46,
+      "type": "PUNCT",
+      "prompt": "let's tidy up the room",
+      "answer": "Let's tidy up the room.",
+      "models": [
+        "Let's tidy up the room."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Let's tidy up the room. بنبدأ بحرف كبير (Let's) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 47,
+      "type": "PUNCT",
+      "prompt": "we share our food",
+      "answer": "We share our food.",
+      "models": [
+        "We share our food."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: We share our food. بنبدأ بحرف كبير (We) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 48,
+      "type": "PUNCT",
+      "prompt": "did they win the match",
+      "answer": "Did they win the match?",
+      "models": [
+        "Did they win the match?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Did they win the match? بنبدأ بحرف كبير (Did) وننهي بعلامة الاستفهام (?) لأنها سؤال."
+    },
+    {
+      "id": 49,
+      "type": "PUNCT",
+      "prompt": "the children planted a tree",
+      "answer": "The children planted a tree.",
+      "models": [
+        "The children planted a tree."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: The children planted a tree. بنبدأ بحرف كبير (The) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 50,
+      "type": "PUNCT",
+      "prompt": "i help my mom with the chores",
+      "answer": "I help my mom with the chores.",
+      "models": [
+        "I help my mom with the chores."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: I help my mom with the chores. بنبدأ بحرف كبير (I) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 51,
+      "type": "WRITE",
+      "prompt": "(share, plant, help)",
+      "answer": "I share my toys with my friends.",
+      "models": [
+        "I share my toys with my friends.",
+        "We plant a tree in the garden.",
+        "I help my father at home."
+      ],
+      "grading": "model_review",
+      "min_words": 15,
+      "sentences": 3,
+      "explanation_ar": "الكلمات: share وplant وhelp. جملة بسيطة بالمضارع: I share my toys with my friends. share معناها أشارك. نبدأ بحرف كبير وننهي بنقطة. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة."
+    }
+  ],
+  "version": "4beeedfcc848"
+}

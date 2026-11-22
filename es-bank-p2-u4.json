@@ -1,1 +1,767 @@
-{"grade":"p2","id":4,"title":"Everyday Life","questions":[{"id":1,"type":"MCQ","prompt":"I ___ up at 7 a.m.","answer":"b","options":["wakes","wake","waking"],"answer_index":1,"grading":"closed"},{"id":2,"type":"MCQ","prompt":"He ___ up early.","answer":"b","options":["wake","wakes","waking"],"answer_index":1,"grading":"closed"},{"id":3,"type":"MCQ","prompt":"She ___ breakfast in the morning.","answer":"b","options":["eat","eats","eating"],"answer_index":1,"grading":"closed"},{"id":4,"type":"MCQ","prompt":"They ___ football after school.","answer":"b","options":["plays","play","playing"],"answer_index":1,"grading":"closed"},{"id":5,"type":"MCQ","prompt":"We ___ TV at night.","answer":"b","options":["watches","watch","watching"],"answer_index":1,"grading":"closed"},{"id":6,"type":"MCQ","prompt":"My cat ___ milk.","answer":"b","options":["drink","drinks","drinking"],"answer_index":1,"grading":"closed"},{"id":7,"type":"MCQ","prompt":"I ___ my teeth in the morning.","answer":"a","options":["brush","brushes","brushing"],"answer_index":0,"grading":"closed"},{"id":8,"type":"MCQ","prompt":"Dad ___ to work early.","answer":"b","options":["go","goes","going"],"answer_index":1,"grading":"closed"},{"id":9,"type":"MCQ","prompt":"We go to school ___ the morning.","answer":"a","options":["in","on","at"],"answer_index":0,"grading":"closed"},{"id":10,"type":"MCQ","prompt":"I sleep ___ night.","answer":"c","options":["in","on","at"],"answer_index":2,"grading":"closed"},{"id":11,"type":"MCQ","prompt":"I wake up ___ 7 a.m.","answer":"c","options":["in","on","at"],"answer_index":2,"grading":"closed"},{"id":12,"type":"MCQ","prompt":"We play ___ school. (بعد المدرسة)","answer":"b","options":["before","after","in"],"answer_index":1,"grading":"closed"},{"id":13,"type":"MCQ","prompt":"\"يستيقظ\" in English: ___.","answer":"b","options":["sleeps","wakes up","eats"],"answer_index":1,"grading":"closed"},{"id":14,"type":"MCQ","prompt":"She ___ a story at night.","answer":"a","options":["reads","read","reading"],"answer_index":0,"grading":"closed"},{"id":15,"type":"MCQ","prompt":"I ___ lunch at 2 p.m.","answer":"b","options":["eats","eat","eating"],"answer_index":1,"grading":"closed"},{"id":16,"type":"MCQ","prompt":"The bird ___ in the morning.","answer":"b","options":["sing","sings","singing"],"answer_index":1,"grading":"closed"},{"id":17,"type":"MCQ","prompt":"We ___ our hands before food.","answer":"b","options":["washes","wash","washing"],"answer_index":1,"grading":"closed"},{"id":18,"type":"MCQ","prompt":"Mom ___ tea in the morning.","answer":"b","options":["drink","drinks","drinking"],"answer_index":1,"grading":"closed"},{"id":19,"type":"MCQ","prompt":"I ___ to bed at 9 p.m.","answer":"a","options":["go","goes","going"],"answer_index":0,"grading":"closed"},{"id":20,"type":"MCQ","prompt":"He ___ his homework after school.","answer":"b","options":["do","does","doing"],"answer_index":1,"grading":"closed"},{"id":21,"type":"COMPLETE","prompt":"I ___ up at 6:30 a.m.","answer":"wake","models":["wake"],"wordbox":["wake","wakes","eats","play","plays","reads","morning","night","after","at"],"grading":"closed"},{"id":22,"type":"COMPLETE","prompt":"Adam ___ up at 7 a.m.","answer":"wakes","models":["wakes"],"wordbox":["wake","wakes","eats","play","plays","reads","morning","night","after","at"],"grading":"closed"},{"id":23,"type":"COMPLETE","prompt":"We eat breakfast in the ___.","answer":"morning","models":["morning"],"wordbox":["wake","wakes","eats","play","plays","reads","morning","night","after","at"],"grading":"closed"},{"id":24,"type":"COMPLETE","prompt":"The stars are in the sky at ___.","answer":"night","models":["night"],"wordbox":["wake","wakes","eats","play","plays","reads","morning","night","after","at"],"grading":"closed"},{"id":25,"type":"COMPLETE","prompt":"He ___ his breakfast and goes to school.","answer":"eats","models":["eats"],"wordbox":["wake","wakes","eats","play","plays","reads","morning","night","after","at"],"grading":"closed"},{"id":26,"type":"COMPLETE","prompt":"They ___ in the garden after school.","answer":"play","models":["play"],"wordbox":["wake","wakes","eats","play","plays","reads","morning","night","after","at"],"grading":"closed"},{"id":27,"type":"COMPLETE","prompt":"Naya ___ her book at night.","answer":"reads","models":["reads"],"wordbox":["wake","wakes","eats","play","plays","reads","morning","night","after","at"],"grading":"closed"},{"id":28,"type":"COMPLETE","prompt":"We go home ___ school.","answer":"after","models":["after"],"wordbox":["wake","wakes","eats","play","plays","reads","morning","night","after","at"],"grading":"closed"},{"id":29,"type":"COMPLETE","prompt":"I eat lunch ___ 2 p.m.","answer":"at","models":["at"],"wordbox":["wake","wakes","eats","play","plays","reads","morning","night","after","at"],"grading":"closed"},{"id":30,"type":"COMPLETE","prompt":"My brother ___ with his ball.","answer":"plays","models":["plays"],"wordbox":["wake","wakes","eats","play","plays","reads","morning","night","after","at"],"grading":"closed"},{"id":31,"type":"LETTER","prompt":"_ake (استيقظ)","answer":"w","models":["w"],"grading":"closed"},{"id":32,"type":"LETTER","prompt":"_at (يأكل)","answer":"e","models":["e"],"grading":"closed"},{"id":33,"type":"LETTER","prompt":"_leep (ينام)","answer":"s","models":["s"],"grading":"closed"},{"id":34,"type":"LETTER","prompt":"_orning (صباح)","answer":"m","models":["m"],"grading":"closed"},{"id":35,"type":"LETTER","prompt":"_ight (ليل)","answer":"n","models":["n"],"grading":"closed"},{"id":36,"type":"LETTER","prompt":"_arly (مبكرًا)","answer":"e","models":["e"],"grading":"closed"},{"id":37,"type":"LETTER","prompt":"_unch (غداء)","answer":"l","models":["l"],"grading":"closed"},{"id":38,"type":"LETTER","prompt":"_omework (واجب)","answer":"h","models":["h"],"grading":"closed"},{"id":39,"type":"REORDER","prompt":"up – wake – I – 7. – at","answer":"I wake up at 7.","models":["I wake up at 7."],"grading":"model_review"},{"id":40,"type":"REORDER","prompt":"up – wakes – He – early.","answer":"He wakes up early.","models":["He wakes up early."],"grading":"model_review"},{"id":41,"type":"REORDER","prompt":"breakfast – eats – She – morning. – in – the","answer":"She eats breakfast in the morning.","models":["She eats breakfast in the morning."],"grading":"model_review"},{"id":42,"type":"REORDER","prompt":"play – We – school. – after","answer":"We play after school.","models":["We play after school."],"grading":"model_review"},{"id":43,"type":"REORDER","prompt":"a – reads – story. – Mom","answer":"Mom reads a story.","models":["Mom reads a story."],"grading":"model_review"},{"id":44,"type":"REORDER","prompt":"to – go – I – school – morning. – in – the","answer":"I go to school in the morning.","models":["I go to school in the morning."],"grading":"model_review"},{"id":45,"type":"MATCH","prompt":"\"في الصباح\"","answer":"in the morning","models":["in the morning"],"grading":"closed","options":["in the morning","at night","after school"],"answer_index":0},{"id":46,"type":"MATCH","prompt":"\"في المساء/بالليل\"","answer":"at night","models":["at night"],"grading":"closed","options":["in the morning","at night","after school"],"answer_index":1},{"id":47,"type":"MATCH","prompt":"\"بعد المدرسة\"","answer":"after school","models":["after school"],"grading":"closed","options":["in the morning","at night","after school"],"answer_index":2},{"id":48,"type":"WRITE","prompt":"(wake up / 7)","answer":"I wake up at 7.","models":["I wake up at 7."],"grading":"model_review"},{"id":49,"type":"WRITE","prompt":"(eat / breakfast)","answer":"I eat breakfast in the morning.","models":["I eat breakfast in the morning."],"grading":"model_review"},{"id":50,"type":"WRITE","prompt":"(play / friends)","answer":"I play with my friends after school.","models":["I play with my friends after school."],"grading":"model_review"},{"id":51,"type":"COPY","prompt":"I sleep at night.","answer":"I sleep at night.","models":["I sleep at night."],"grading":"closed"}],"version":"34dd8ec0bf08"}
+{
+  "grade": "p2",
+  "id": 4,
+  "title": "Everyday Life",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MCQ",
+      "prompt": "I ___ up at 7 a.m.",
+      "answer": "b",
+      "options": [
+        "wakes",
+        "wake",
+        "waking"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "مع I بنستخدم الفعل زي ما هو: I wake up. wakes بتيجي مع He وShe وIt."
+    },
+    {
+      "id": 2,
+      "type": "MCQ",
+      "prompt": "He ___ up early.",
+      "answer": "b",
+      "options": [
+        "wake",
+        "wakes",
+        "waking"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "He فاعل مفرد، فالفعل بياخد s: wakes. wake من غير s بتيجي مع I وYou وWe وThey."
+    },
+    {
+      "id": 3,
+      "type": "MCQ",
+      "prompt": "She ___ breakfast in the morning.",
+      "answer": "b",
+      "options": [
+        "eat",
+        "eats",
+        "eating"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "She فاعل مفرد، فنقول eats بحرف s. eat من غير s مش مناسبة مع She."
+    },
+    {
+      "id": 4,
+      "type": "MCQ",
+      "prompt": "They ___ football after school.",
+      "answer": "b",
+      "options": [
+        "plays",
+        "play",
+        "playing"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "They جمع، فالفعل من غير s: play. plays للمفرد (He, She, It)."
+    },
+    {
+      "id": 5,
+      "type": "MCQ",
+      "prompt": "We ___ TV at night.",
+      "answer": "b",
+      "options": [
+        "watches",
+        "watch",
+        "watching"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "We جمع، فنقول watch من غير تغيير. watches بتيجي مع He وShe وIt."
+    },
+    {
+      "id": 6,
+      "type": "MCQ",
+      "prompt": "My cat ___ milk.",
+      "answer": "b",
+      "options": [
+        "drink",
+        "drinks",
+        "drinking"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "My cat يعني قطة واحدة (It)، فالفعل بياخد s: drinks. drink من غير s مش مناسبة هنا."
+    },
+    {
+      "id": 7,
+      "type": "MCQ",
+      "prompt": "I ___ my teeth in the morning.",
+      "answer": "a",
+      "options": [
+        "brush",
+        "brushes",
+        "brushing"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "مع I الفعل من غير تغيير: I brush. brushes بتيجي مع المفرد الغايب."
+    },
+    {
+      "id": 8,
+      "type": "MCQ",
+      "prompt": "Dad ___ to work early.",
+      "answer": "b",
+      "options": [
+        "go",
+        "goes",
+        "going"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "Dad شخص واحد (He)، وgo مع المفرد بتبقى goes. go من غير es مش مناسبة هنا."
+    },
+    {
+      "id": 9,
+      "type": "MCQ",
+      "prompt": "We go to school ___ the morning.",
+      "answer": "a",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنقول in the morning (في الصباح). in بتيجي مع الصباح، وat مع الساعة والليل."
+    },
+    {
+      "id": 10,
+      "type": "MCQ",
+      "prompt": "I sleep ___ night.",
+      "answer": "c",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "بنقول at night (بالليل). كلمة night دايمًا بتيجي مع at."
+    },
+    {
+      "id": 11,
+      "type": "MCQ",
+      "prompt": "I wake up ___ 7 a.m.",
+      "answer": "c",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "بنقول at 7 a.m. لأن at بتيجي مع الساعة."
+    },
+    {
+      "id": 12,
+      "type": "MCQ",
+      "prompt": "We play ___ school. (بعد المدرسة)",
+      "answer": "b",
+      "options": [
+        "before",
+        "after",
+        "in"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (بعد المدرسة) معناها after school. before معناها قبل."
+    },
+    {
+      "id": 13,
+      "type": "MCQ",
+      "prompt": "\"يستيقظ\" in English: ___.",
+      "answer": "b",
+      "options": [
+        "sleeps",
+        "wakes up",
+        "eats"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (يستيقظ) معناها wakes up. sleeps معناها ينام وeats معناها ياكل."
+    },
+    {
+      "id": 14,
+      "type": "MCQ",
+      "prompt": "She ___ a story at night.",
+      "answer": "a",
+      "options": [
+        "reads",
+        "read",
+        "reading"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "She فاعل مفرد، فنقول reads بحرف s. read وreading مش مناسبين هنا."
+    },
+    {
+      "id": 15,
+      "type": "MCQ",
+      "prompt": "I ___ lunch at 2 p.m.",
+      "answer": "b",
+      "options": [
+        "eats",
+        "eat",
+        "eating"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "مع I الفعل زي ما هو: I eat. eats بتيجي مع المفرد الغايب. وفيه at 2 p.m. بعده."
+    },
+    {
+      "id": 16,
+      "type": "MCQ",
+      "prompt": "The bird ___ in the morning.",
+      "answer": "b",
+      "options": [
+        "sing",
+        "sings",
+        "singing"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "The bird طير واحد (It)، فنقول sings بحرف s. sing من غير s مش مناسبة."
+    },
+    {
+      "id": 17,
+      "type": "MCQ",
+      "prompt": "We ___ our hands before food.",
+      "answer": "b",
+      "options": [
+        "washes",
+        "wash",
+        "washing"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "مع We الفعل من غير s: We wash. washes بتيجي مع المفرد الغايب."
+    },
+    {
+      "id": 18,
+      "type": "MCQ",
+      "prompt": "Mom ___ tea in the morning.",
+      "answer": "b",
+      "options": [
+        "drink",
+        "drinks",
+        "drinking"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "Mom شخص واحد (She)، فنقول drinks بحرف s."
+    },
+    {
+      "id": 19,
+      "type": "MCQ",
+      "prompt": "I ___ to bed at 9 p.m.",
+      "answer": "a",
+      "options": [
+        "go",
+        "goes",
+        "going"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "مع I الفعل من غير تغيير: I go. goes بتيجي مع He وShe وIt."
+    },
+    {
+      "id": 20,
+      "type": "MCQ",
+      "prompt": "He ___ his homework after school.",
+      "answer": "b",
+      "options": [
+        "do",
+        "does",
+        "doing"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "He فاعل مفرد، فالفعل do بيبقى does. do من غير es مش مناسبة مع He."
+    },
+    {
+      "id": 21,
+      "type": "COMPLETE",
+      "prompt": "I ___ up at 6:30 a.m.",
+      "answer": "wake",
+      "models": [
+        "wake"
+      ],
+      "wordbox": [
+        "wake",
+        "wakes",
+        "eats",
+        "play",
+        "plays",
+        "reads",
+        "morning",
+        "night",
+        "after",
+        "at"
+      ],
+      "grading": "closed",
+      "explanation_ar": "مع I الفعل من غير s: I wake up. وفيه a.m. اللي بتدل على الصبح."
+    },
+    {
+      "id": 22,
+      "type": "COMPLETE",
+      "prompt": "Adam ___ up at 7 a.m.",
+      "answer": "wakes",
+      "models": [
+        "wakes"
+      ],
+      "wordbox": [
+        "wake",
+        "wakes",
+        "eats",
+        "play",
+        "plays",
+        "reads",
+        "morning",
+        "night",
+        "after",
+        "at"
+      ],
+      "grading": "closed",
+      "explanation_ar": "Adam فاعل مفرد (He)، فالفعل wake بياخد s: wakes."
+    },
+    {
+      "id": 23,
+      "type": "COMPLETE",
+      "prompt": "We eat breakfast in the ___.",
+      "answer": "morning",
+      "models": [
+        "morning"
+      ],
+      "wordbox": [
+        "wake",
+        "wakes",
+        "eats",
+        "play",
+        "plays",
+        "reads",
+        "morning",
+        "night",
+        "after",
+        "at"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بناكل الفطار في الصبح: in the morning. morning معناها الصبح."
+    },
+    {
+      "id": 24,
+      "type": "COMPLETE",
+      "prompt": "The stars are in the sky at ___.",
+      "answer": "night",
+      "models": [
+        "night"
+      ],
+      "wordbox": [
+        "wake",
+        "wakes",
+        "eats",
+        "play",
+        "plays",
+        "reads",
+        "morning",
+        "night",
+        "after",
+        "at"
+      ],
+      "grading": "closed",
+      "explanation_ar": "النجوم بتظهر في السما بالليل: night."
+    },
+    {
+      "id": 25,
+      "type": "COMPLETE",
+      "prompt": "He ___ his breakfast and goes to school.",
+      "answer": "eats",
+      "models": [
+        "eats"
+      ],
+      "wordbox": [
+        "wake",
+        "wakes",
+        "eats",
+        "play",
+        "plays",
+        "reads",
+        "morning",
+        "night",
+        "after",
+        "at"
+      ],
+      "grading": "closed",
+      "explanation_ar": "He فاعل مفرد، فنقول eats بحرف s. الفطار breakfast بناكله."
+    },
+    {
+      "id": 26,
+      "type": "COMPLETE",
+      "prompt": "They ___ in the garden after school.",
+      "answer": "play",
+      "models": [
+        "play"
+      ],
+      "wordbox": [
+        "wake",
+        "wakes",
+        "eats",
+        "play",
+        "plays",
+        "reads",
+        "morning",
+        "night",
+        "after",
+        "at"
+      ],
+      "grading": "closed",
+      "explanation_ar": "They جمع، فنقول play من غير s. play معناها يلعبوا."
+    },
+    {
+      "id": 27,
+      "type": "COMPLETE",
+      "prompt": "Naya ___ her book at night.",
+      "answer": "reads",
+      "models": [
+        "reads"
+      ],
+      "wordbox": [
+        "wake",
+        "wakes",
+        "eats",
+        "play",
+        "plays",
+        "reads",
+        "morning",
+        "night",
+        "after",
+        "at"
+      ],
+      "grading": "closed",
+      "explanation_ar": "Naya اسم بنت (She)، فالفعل بياخد s: reads. والقراية بالليل: at night."
+    },
+    {
+      "id": 28,
+      "type": "COMPLETE",
+      "prompt": "We go home ___ school.",
+      "answer": "after",
+      "models": [
+        "after"
+      ],
+      "wordbox": [
+        "wake",
+        "wakes",
+        "eats",
+        "play",
+        "plays",
+        "reads",
+        "morning",
+        "night",
+        "after",
+        "at"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنرجع البيت بعد المدرسة: after school. after معناها بعد."
+    },
+    {
+      "id": 29,
+      "type": "COMPLETE",
+      "prompt": "I eat lunch ___ 2 p.m.",
+      "answer": "at",
+      "models": [
+        "at"
+      ],
+      "wordbox": [
+        "wake",
+        "wakes",
+        "eats",
+        "play",
+        "plays",
+        "reads",
+        "morning",
+        "night",
+        "after",
+        "at"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنقول at 2 p.m. لأن at بتيجي مع الساعة."
+    },
+    {
+      "id": 30,
+      "type": "COMPLETE",
+      "prompt": "My brother ___ with his ball.",
+      "answer": "plays",
+      "models": [
+        "plays"
+      ],
+      "wordbox": [
+        "wake",
+        "wakes",
+        "eats",
+        "play",
+        "plays",
+        "reads",
+        "morning",
+        "night",
+        "after",
+        "at"
+      ],
+      "grading": "closed",
+      "explanation_ar": "My brother شخص واحد (He)، فنقول plays بحرف s."
+    },
+    {
+      "id": 31,
+      "type": "LETTER",
+      "prompt": "_ake (استيقظ)",
+      "answer": "w",
+      "models": [
+        "w"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو w، فتكتمل الكلمة: wake. معناها استيقظ."
+    },
+    {
+      "id": 32,
+      "type": "LETTER",
+      "prompt": "_at (يأكل)",
+      "answer": "e",
+      "models": [
+        "e"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو e، فتكتمل الكلمة: eat. معناها يأكل."
+    },
+    {
+      "id": 33,
+      "type": "LETTER",
+      "prompt": "_leep (ينام)",
+      "answer": "s",
+      "models": [
+        "s"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو s، فتكتمل الكلمة: sleep. معناها ينام."
+    },
+    {
+      "id": 34,
+      "type": "LETTER",
+      "prompt": "_orning (صباح)",
+      "answer": "m",
+      "models": [
+        "m"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو m، فتكتمل الكلمة: morning. معناها صباح."
+    },
+    {
+      "id": 35,
+      "type": "LETTER",
+      "prompt": "_ight (ليل)",
+      "answer": "n",
+      "models": [
+        "n"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو n، فتكتمل الكلمة: night. معناها ليل."
+    },
+    {
+      "id": 36,
+      "type": "LETTER",
+      "prompt": "_arly (مبكرًا)",
+      "answer": "e",
+      "models": [
+        "e"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو e، فتكتمل الكلمة: early. معناها مبكرًا."
+    },
+    {
+      "id": 37,
+      "type": "LETTER",
+      "prompt": "_unch (غداء)",
+      "answer": "l",
+      "models": [
+        "l"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو l، فتكتمل الكلمة: lunch. معناها غداء."
+    },
+    {
+      "id": 38,
+      "type": "LETTER",
+      "prompt": "_omework (واجب)",
+      "answer": "h",
+      "models": [
+        "h"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو h، فتكتمل الكلمة: homework. معناها واجب."
+    },
+    {
+      "id": 39,
+      "type": "REORDER",
+      "prompt": "up – wake – I – 7. – at",
+      "answer": "I wake up at 7.",
+      "models": [
+        "I wake up at 7."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: I wake up at 7. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 40,
+      "type": "REORDER",
+      "prompt": "up – wakes – He – early.",
+      "answer": "He wakes up early.",
+      "models": [
+        "He wakes up early."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: He wakes up early. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 41,
+      "type": "REORDER",
+      "prompt": "breakfast – eats – She – morning. – in – the",
+      "answer": "She eats breakfast in the morning.",
+      "models": [
+        "She eats breakfast in the morning."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: She eats breakfast in the morning. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 42,
+      "type": "REORDER",
+      "prompt": "play – We – school. – after",
+      "answer": "We play after school.",
+      "models": [
+        "We play after school."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: We play after school. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 43,
+      "type": "REORDER",
+      "prompt": "a – reads – story. – Mom",
+      "answer": "Mom reads a story.",
+      "models": [
+        "Mom reads a story."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Mom reads a story. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 44,
+      "type": "REORDER",
+      "prompt": "to – go – I – school – morning. – in – the",
+      "answer": "I go to school in the morning.",
+      "models": [
+        "I go to school in the morning."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: I go to school in the morning. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 45,
+      "type": "MATCH",
+      "prompt": "\"في الصباح\"",
+      "answer": "in the morning",
+      "models": [
+        "in the morning"
+      ],
+      "grading": "closed",
+      "options": [
+        "in the morning",
+        "at night",
+        "after school"
+      ],
+      "answer_index": 0,
+      "explanation_ar": "in the morning معناها في الصباح. morning هي الصبح."
+    },
+    {
+      "id": 46,
+      "type": "MATCH",
+      "prompt": "\"في المساء/بالليل\"",
+      "answer": "at night",
+      "models": [
+        "at night"
+      ],
+      "grading": "closed",
+      "options": [
+        "in the morning",
+        "at night",
+        "after school"
+      ],
+      "answer_index": 1,
+      "explanation_ar": "at night معناها بالليل. night هي الليل."
+    },
+    {
+      "id": 47,
+      "type": "MATCH",
+      "prompt": "\"بعد المدرسة\"",
+      "answer": "after school",
+      "models": [
+        "after school"
+      ],
+      "grading": "closed",
+      "options": [
+        "in the morning",
+        "at night",
+        "after school"
+      ],
+      "answer_index": 2,
+      "explanation_ar": "after school معناها بعد المدرسة. after بعد وschool مدرسة."
+    },
+    {
+      "id": 48,
+      "type": "WRITE",
+      "prompt": "(wake up / 7)",
+      "answer": "I wake up at 7.",
+      "models": [
+        "I wake up at 7."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الكلمات: wake up وـ7. نقول I wake up at 7. at بتيجي قبل الساعة. بعد I الفعل من غير s."
+    },
+    {
+      "id": 49,
+      "type": "WRITE",
+      "prompt": "(eat / breakfast)",
+      "answer": "I eat breakfast in the morning.",
+      "models": [
+        "I eat breakfast in the morning."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الكلمات: eat وbreakfast. نقول: I eat breakfast in the morning. بنكمل بالوقت in the morning."
+    },
+    {
+      "id": 50,
+      "type": "WRITE",
+      "prompt": "(play / friends)",
+      "answer": "I play with my friends after school.",
+      "models": [
+        "I play with my friends after school."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الكلمات: play وfriends. نقول: I play with my friends after school. with معناها مع، وبنضيف after school للوقت."
+    },
+    {
+      "id": 51,
+      "type": "COPY",
+      "prompt": "I sleep at night.",
+      "answer": "I sleep at night.",
+      "models": [
+        "I sleep at night."
+      ],
+      "grading": "closed",
+      "explanation_ar": "المطلوب تنسخ الجملة بالظبط: I sleep at night. بنفس الحروف الكبيرة والنقطة. اتأكد من كل كلمة وإنها مكتوبة صح."
+    }
+  ],
+  "version": "34dd8ec0bf08"
+}

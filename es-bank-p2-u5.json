@@ -1,1 +1,767 @@
-{"grade":"p2","id":5,"title":"My Home","questions":[{"id":1,"type":"MCQ","prompt":"My mother's mother is my ___.","answer":"b","options":["sister","grandmother","aunt"],"answer_index":1,"grading":"closed"},{"id":2,"type":"MCQ","prompt":"My father's other son is my ___.","answer":"a","options":["brother","sister","grandfather"],"answer_index":0,"grading":"closed"},{"id":3,"type":"MCQ","prompt":"\"جَدّي\" in English: ___.","answer":"b","options":["grandmother","grandfather","father"],"answer_index":1,"grading":"closed"},{"id":4,"type":"MCQ","prompt":"Who's this? — ___ my sister.","answer":"b","options":["This","This is","That"],"answer_index":1,"grading":"closed"},{"id":5,"type":"MCQ","prompt":"The lamp is ___ the table. (فوق)","answer":"a","options":["on","under","in"],"answer_index":0,"grading":"closed"},{"id":6,"type":"MCQ","prompt":"The cat is ___ the table. (تحت)","answer":"b","options":["on","under","next to"],"answer_index":1,"grading":"closed"},{"id":7,"type":"MCQ","prompt":"The cup is ___ the plate. (بجوار)","answer":"c","options":["in","on","next to"],"answer_index":2,"grading":"closed"},{"id":8,"type":"MCQ","prompt":"We eat on a ___.","answer":"b","options":["bed","plate","lamp"],"answer_index":1,"grading":"closed"},{"id":9,"type":"MCQ","prompt":"We drink tea in a ___.","answer":"a","options":["cup","plate","bed"],"answer_index":0,"grading":"closed"},{"id":10,"type":"MCQ","prompt":"We sleep in a ___.","answer":"c","options":["chair","table","bed"],"answer_index":2,"grading":"closed"},{"id":11,"type":"MCQ","prompt":"The ___ gives light at night.","answer":"a","options":["lamp","cup","door"],"answer_index":0,"grading":"closed"},{"id":12,"type":"MCQ","prompt":"Where ___ the lamp? — On the table.","answer":"a","options":["is","are","am"],"answer_index":0,"grading":"closed"},{"id":13,"type":"MCQ","prompt":"Where ___ the chairs? — In the dining room.","answer":"b","options":["is","are","am"],"answer_index":1,"grading":"closed"},{"id":14,"type":"MCQ","prompt":"My mother is a ___. (أنثى)","answer":"b","options":["man","woman","boy"],"answer_index":1,"grading":"closed"},{"id":15,"type":"MCQ","prompt":"\"أخت\" in English: ___.","answer":"b","options":["brother","sister","mother"],"answer_index":1,"grading":"closed"},{"id":16,"type":"MCQ","prompt":"This is ___ grandfather. He's old.","answer":"a","options":["my","I","me"],"answer_index":0,"grading":"closed"},{"id":17,"type":"MCQ","prompt":"The ball is ___ the box. (داخل)","answer":"b","options":["on","in","under"],"answer_index":1,"grading":"closed"},{"id":18,"type":"MCQ","prompt":"I help my ___ clean the home.","answer":"b","options":["desk","mother","lamp"],"answer_index":1,"grading":"closed"},{"id":19,"type":"MCQ","prompt":"We put food on a ___.","answer":"a","options":["plate","lamp","window"],"answer_index":0,"grading":"closed"},{"id":20,"type":"MCQ","prompt":"Four people: mom, dad, boy, girl = a ___.","answer":"b","options":["class","family","school"],"answer_index":1,"grading":"closed"},{"id":21,"type":"COMPLETE","prompt":"My dad's dad is my grandfather; my mum's mum is my ___.","answer":"grandmother","models":["grandmother"],"wordbox":["mother","father","brother","sister","grandmother","lamp","cup","plate","on","under"],"grading":"closed"},{"id":22,"type":"COMPLETE","prompt":"My ___ is a girl. We play together.","answer":"sister","models":["sister"],"wordbox":["mother","father","brother","sister","grandmother","lamp","cup","plate","on","under"],"grading":"closed"},{"id":23,"type":"COMPLETE","prompt":"My ___ is a boy. He likes football.","answer":"brother","models":["brother"],"wordbox":["mother","father","brother","sister","grandmother","lamp","cup","plate","on","under"],"grading":"closed"},{"id":24,"type":"COMPLETE","prompt":"My ___ cooks nice food. (أم)","answer":"mother","models":["mother"],"wordbox":["mother","father","brother","sister","grandmother","lamp","cup","plate","on","under"],"grading":"closed"},{"id":25,"type":"COMPLETE","prompt":"My ___ goes to work every day. (أب)","answer":"father","models":["father"],"wordbox":["mother","father","brother","sister","grandmother","lamp","cup","plate","on","under"],"grading":"closed"},{"id":26,"type":"COMPLETE","prompt":"Turn on the ___, please. It's dark.","answer":"lamp","models":["lamp"],"wordbox":["mother","father","brother","sister","grandmother","lamp","cup","plate","on","under"],"grading":"closed"},{"id":27,"type":"COMPLETE","prompt":"The tea is in the ___.","answer":"cup","models":["cup"],"wordbox":["mother","father","brother","sister","grandmother","lamp","cup","plate","on","under"],"grading":"closed"},{"id":28,"type":"COMPLETE","prompt":"Put the rice on the ___.","answer":"plate","models":["plate"],"wordbox":["mother","father","brother","sister","grandmother","lamp","cup","plate","on","under"],"grading":"closed"},{"id":29,"type":"COMPLETE","prompt":"The book is ___ the table. (فوق)","answer":"on","models":["on"],"wordbox":["mother","father","brother","sister","grandmother","lamp","cup","plate","on","under"],"grading":"closed"},{"id":30,"type":"COMPLETE","prompt":"The shoes are ___ the bed. (تحت)","answer":"under","models":["under"],"wordbox":["mother","father","brother","sister","grandmother","lamp","cup","plate","on","under"],"grading":"closed"},{"id":31,"type":"LETTER","prompt":"_other (أم)","answer":"m","models":["m"],"grading":"closed"},{"id":32,"type":"LETTER","prompt":"_ather (أب)","answer":"f","models":["f"],"grading":"closed"},{"id":33,"type":"LETTER","prompt":"_ister (أخت)","answer":"s","models":["s"],"grading":"closed"},{"id":34,"type":"LETTER","prompt":"_rother (أخ)","answer":"b","models":["b"],"grading":"closed"},{"id":35,"type":"LETTER","prompt":"_amp (مصباح)","answer":"l","models":["l"],"grading":"closed"},{"id":36,"type":"LETTER","prompt":"_up (كوب)","answer":"c","models":["c"],"grading":"closed"},{"id":37,"type":"LETTER","prompt":"_late (طبق)","answer":"p","models":["p"],"grading":"closed"},{"id":38,"type":"LETTER","prompt":"_nder (تحت)","answer":"u","models":["u"],"grading":"closed"},{"id":39,"type":"REORDER","prompt":"this? – Who's","answer":"Who's this?","models":["Who's this?"],"grading":"model_review"},{"id":40,"type":"REORDER","prompt":"my – is – This – sister.","answer":"This is my sister.","models":["This is my sister."],"grading":"model_review"},{"id":41,"type":"REORDER","prompt":"lamp? – is – the – Where","answer":"Where is the lamp?","models":["Where is the lamp?"],"grading":"model_review"},{"id":42,"type":"REORDER","prompt":"on – is – It – table. – the","answer":"It is on the table.","models":["It is on the table."],"grading":"model_review"},{"id":43,"type":"REORDER","prompt":"is – cat – The – bed. – under – the","answer":"The cat is under the bed.","models":["The cat is under the bed."],"grading":"model_review"},{"id":44,"type":"REORDER","prompt":"to – cup – next – The – is – plate. – the","answer":"The cup is next to the plate.","models":["The cup is next to the plate."],"grading":"model_review"},{"id":45,"type":"MATCH","prompt":"\"جدّة\"","answer":"grandmother","models":["grandmother"],"grading":"closed","options":["grandmother","lamp","under"],"answer_index":0},{"id":46,"type":"MATCH","prompt":"\"مصباح\"","answer":"lamp","models":["lamp"],"grading":"closed","options":["grandmother","lamp","under"],"answer_index":1},{"id":47,"type":"MATCH","prompt":"\"تحت\"","answer":"under","models":["under"],"grading":"closed","options":["grandmother","lamp","under"],"answer_index":2},{"id":48,"type":"WRITE","prompt":"(lamp / table)","answer":"The lamp is on the table.","models":["The lamp is on the table."],"grading":"model_review"},{"id":49,"type":"WRITE","prompt":"(sister / this)","answer":"This is my sister.","models":["This is my sister."],"grading":"model_review"},{"id":50,"type":"WRITE","prompt":"(cup / plate)","answer":"The cup is next to the plate.","models":["The cup is next to the plate."],"grading":"model_review"},{"id":51,"type":"COPY","prompt":"It is on the desk.","answer":"It is on the desk.","models":["It is on the desk."],"grading":"closed"}],"version":"510448cd75fc"}
+{
+  "grade": "p2",
+  "id": 5,
+  "title": "My Home",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MCQ",
+      "prompt": "My mother's mother is my ___.",
+      "answer": "b",
+      "options": [
+        "sister",
+        "grandmother",
+        "aunt"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "أم أمي هي جدتي: grandmother. sister معناها أخت وaunt معناها عمة أو خالة."
+    },
+    {
+      "id": 2,
+      "type": "MCQ",
+      "prompt": "My father's other son is my ___.",
+      "answer": "a",
+      "options": [
+        "brother",
+        "sister",
+        "grandfather"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "ابن أبويا التاني هو أخويا: brother. sister بنت، وgrandfather جد."
+    },
+    {
+      "id": 3,
+      "type": "MCQ",
+      "prompt": "\"جَدّي\" in English: ___.",
+      "answer": "b",
+      "options": [
+        "grandmother",
+        "grandfather",
+        "father"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (جدي) معناها grandfather. grandmother جدة، وfather أب."
+    },
+    {
+      "id": 4,
+      "type": "MCQ",
+      "prompt": "Who's this? — ___ my sister.",
+      "answer": "b",
+      "options": [
+        "This",
+        "This is",
+        "That"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "السؤال Who's this؟ والرد بيعرّف: This is my sister. كلمة This لوحدها ناقصة، وThat للبعيد."
+    },
+    {
+      "id": 5,
+      "type": "MCQ",
+      "prompt": "The lamp is ___ the table. (فوق)",
+      "answer": "a",
+      "options": [
+        "on",
+        "under",
+        "in"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (فوق) معناها on، فاللمبة on the table. under تحت وin جوه."
+    },
+    {
+      "id": 6,
+      "type": "MCQ",
+      "prompt": "The cat is ___ the table. (تحت)",
+      "answer": "b",
+      "options": [
+        "on",
+        "under",
+        "next to"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (تحت) معناها under، فالقطة under the table."
+    },
+    {
+      "id": 7,
+      "type": "MCQ",
+      "prompt": "The cup is ___ the plate. (بجوار)",
+      "answer": "c",
+      "options": [
+        "in",
+        "on",
+        "next to"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (بجوار) معناها next to، يعني جنب الطبق."
+    },
+    {
+      "id": 8,
+      "type": "MCQ",
+      "prompt": "We eat on a ___.",
+      "answer": "b",
+      "options": [
+        "bed",
+        "plate",
+        "lamp"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بناكل في الطبق (plate). السرير والمصباح مش للأكل."
+    },
+    {
+      "id": 9,
+      "type": "MCQ",
+      "prompt": "We drink tea in a ___.",
+      "answer": "a",
+      "options": [
+        "cup",
+        "plate",
+        "bed"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنشرب الشاي في الكوب (cup). الطبق للأكل، والسرير للنوم."
+    },
+    {
+      "id": 10,
+      "type": "MCQ",
+      "prompt": "We sleep in a ___.",
+      "answer": "c",
+      "options": [
+        "chair",
+        "table",
+        "bed"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "بننام في السرير (bed). الكرسي والترابيزة مش للنوم."
+    },
+    {
+      "id": 11,
+      "type": "MCQ",
+      "prompt": "The ___ gives light at night.",
+      "answer": "a",
+      "options": [
+        "lamp",
+        "cup",
+        "door"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "اللمبة (lamp) بتدّي نور بالليل. الكوب والباب مش بيدّوا نور."
+    },
+    {
+      "id": 12,
+      "type": "MCQ",
+      "prompt": "Where ___ the lamp? — On the table.",
+      "answer": "a",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "السؤال عن حاجة واحدة (the lamp)، فنستخدم is: Where is the lamp؟"
+    },
+    {
+      "id": 13,
+      "type": "MCQ",
+      "prompt": "Where ___ the chairs? — In the dining room.",
+      "answer": "b",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "السؤال عن أكتر من كرسي (chairs)، فنستخدم are: Where are the chairs؟"
+    },
+    {
+      "id": 14,
+      "type": "MCQ",
+      "prompt": "My mother is a ___. (أنثى)",
+      "answer": "b",
+      "options": [
+        "man",
+        "woman",
+        "boy"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة (أنثى) تدل إن الأم woman يعني سيدة. man رجل وboy ولد."
+    },
+    {
+      "id": 15,
+      "type": "MCQ",
+      "prompt": "\"أخت\" in English: ___.",
+      "answer": "b",
+      "options": [
+        "brother",
+        "sister",
+        "mother"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (أخت) معناها sister. brother أخ وmother أم."
+    },
+    {
+      "id": 16,
+      "type": "MCQ",
+      "prompt": "This is ___ grandfather. He's old.",
+      "answer": "a",
+      "options": [
+        "my",
+        "I",
+        "me"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "This is my grandfather. my معناها بتاعي. I وme مش بنحطهم قبل الاسم."
+    },
+    {
+      "id": 17,
+      "type": "MCQ",
+      "prompt": "The ball is ___ the box. (داخل)",
+      "answer": "b",
+      "options": [
+        "on",
+        "in",
+        "under"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (داخل) معناها in، فالكورة in the box. on فوق وunder تحت."
+    },
+    {
+      "id": 18,
+      "type": "MCQ",
+      "prompt": "I help my ___ clean the home.",
+      "answer": "b",
+      "options": [
+        "desk",
+        "mother",
+        "lamp"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنساعد أمنا (mother) في تنضيف البيت. المكتب واللمبة مش أشخاص بنساعدهم."
+    },
+    {
+      "id": 19,
+      "type": "MCQ",
+      "prompt": "We put food on a ___.",
+      "answer": "a",
+      "options": [
+        "plate",
+        "lamp",
+        "window"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنحط الأكل على الطبق (plate). المصباح والشباك مش للأكل."
+    },
+    {
+      "id": 20,
+      "type": "MCQ",
+      "prompt": "Four people: mom, dad, boy, girl = a ___.",
+      "answer": "b",
+      "options": [
+        "class",
+        "family",
+        "school"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "أربع أشخاص: أم وأب وولد وبنت يبقوا عيلة: family. class فصل وschool مدرسة."
+    },
+    {
+      "id": 21,
+      "type": "COMPLETE",
+      "prompt": "My dad's dad is my grandfather; my mum's mum is my ___.",
+      "answer": "grandmother",
+      "models": [
+        "grandmother"
+      ],
+      "wordbox": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "grandmother",
+        "lamp",
+        "cup",
+        "plate",
+        "on",
+        "under"
+      ],
+      "grading": "closed",
+      "explanation_ar": "أم أمي هي جدتي: grandmother. الجملة بتقارن بين الجد والجدة."
+    },
+    {
+      "id": 22,
+      "type": "COMPLETE",
+      "prompt": "My ___ is a girl. We play together.",
+      "answer": "sister",
+      "models": [
+        "sister"
+      ],
+      "wordbox": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "grandmother",
+        "lamp",
+        "cup",
+        "plate",
+        "on",
+        "under"
+      ],
+      "grading": "closed",
+      "explanation_ar": "البنت اللي بنلعب معاها هي أختي: sister."
+    },
+    {
+      "id": 23,
+      "type": "COMPLETE",
+      "prompt": "My ___ is a boy. He likes football.",
+      "answer": "brother",
+      "models": [
+        "brother"
+      ],
+      "wordbox": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "grandmother",
+        "lamp",
+        "cup",
+        "plate",
+        "on",
+        "under"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الولد اللي بيحب الكورة هو أخويا: brother."
+    },
+    {
+      "id": 24,
+      "type": "COMPLETE",
+      "prompt": "My ___ cooks nice food. (أم)",
+      "answer": "mother",
+      "models": [
+        "mother"
+      ],
+      "wordbox": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "grandmother",
+        "lamp",
+        "cup",
+        "plate",
+        "on",
+        "under"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (أم) معناها mother، وهي اللي بتطبخ أكل حلو."
+    },
+    {
+      "id": 25,
+      "type": "COMPLETE",
+      "prompt": "My ___ goes to work every day. (أب)",
+      "answer": "father",
+      "models": [
+        "father"
+      ],
+      "wordbox": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "grandmother",
+        "lamp",
+        "cup",
+        "plate",
+        "on",
+        "under"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (أب) معناها father، وهو اللي بيروح الشغل كل يوم."
+    },
+    {
+      "id": 26,
+      "type": "COMPLETE",
+      "prompt": "Turn on the ___, please. It's dark.",
+      "answer": "lamp",
+      "models": [
+        "lamp"
+      ],
+      "wordbox": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "grandmother",
+        "lamp",
+        "cup",
+        "plate",
+        "on",
+        "under"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنشغل اللمبة (lamp) لما يبقى الدنيا ضلمة. lamp بتدّي نور."
+    },
+    {
+      "id": 27,
+      "type": "COMPLETE",
+      "prompt": "The tea is in the ___.",
+      "answer": "cup",
+      "models": [
+        "cup"
+      ],
+      "wordbox": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "grandmother",
+        "lamp",
+        "cup",
+        "plate",
+        "on",
+        "under"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الشاي بيبقى في الكوب: cup."
+    },
+    {
+      "id": 28,
+      "type": "COMPLETE",
+      "prompt": "Put the rice on the ___.",
+      "answer": "plate",
+      "models": [
+        "plate"
+      ],
+      "wordbox": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "grandmother",
+        "lamp",
+        "cup",
+        "plate",
+        "on",
+        "under"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنحط الرز على الطبق: plate."
+    },
+    {
+      "id": 29,
+      "type": "COMPLETE",
+      "prompt": "The book is ___ the table. (فوق)",
+      "answer": "on",
+      "models": [
+        "on"
+      ],
+      "wordbox": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "grandmother",
+        "lamp",
+        "cup",
+        "plate",
+        "on",
+        "under"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (فوق) معناها on، فالكتاب on the table."
+    },
+    {
+      "id": 30,
+      "type": "COMPLETE",
+      "prompt": "The shoes are ___ the bed. (تحت)",
+      "answer": "under",
+      "models": [
+        "under"
+      ],
+      "wordbox": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "grandmother",
+        "lamp",
+        "cup",
+        "plate",
+        "on",
+        "under"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (تحت) معناها under، فالجزم under the bed."
+    },
+    {
+      "id": 31,
+      "type": "LETTER",
+      "prompt": "_other (أم)",
+      "answer": "m",
+      "models": [
+        "m"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو m، فتكتمل الكلمة: mother. معناها أم."
+    },
+    {
+      "id": 32,
+      "type": "LETTER",
+      "prompt": "_ather (أب)",
+      "answer": "f",
+      "models": [
+        "f"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو f، فتكتمل الكلمة: father. معناها أب."
+    },
+    {
+      "id": 33,
+      "type": "LETTER",
+      "prompt": "_ister (أخت)",
+      "answer": "s",
+      "models": [
+        "s"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو s، فتكتمل الكلمة: sister. معناها أخت."
+    },
+    {
+      "id": 34,
+      "type": "LETTER",
+      "prompt": "_rother (أخ)",
+      "answer": "b",
+      "models": [
+        "b"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو b، فتكتمل الكلمة: brother. معناها أخ."
+    },
+    {
+      "id": 35,
+      "type": "LETTER",
+      "prompt": "_amp (مصباح)",
+      "answer": "l",
+      "models": [
+        "l"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو l، فتكتمل الكلمة: lamp. معناها مصباح."
+    },
+    {
+      "id": 36,
+      "type": "LETTER",
+      "prompt": "_up (كوب)",
+      "answer": "c",
+      "models": [
+        "c"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو c، فتكتمل الكلمة: cup. معناها كوب."
+    },
+    {
+      "id": 37,
+      "type": "LETTER",
+      "prompt": "_late (طبق)",
+      "answer": "p",
+      "models": [
+        "p"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو p، فتكتمل الكلمة: plate. معناها طبق."
+    },
+    {
+      "id": 38,
+      "type": "LETTER",
+      "prompt": "_nder (تحت)",
+      "answer": "u",
+      "models": [
+        "u"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو u، فتكتمل الكلمة: under. معناها تحت."
+    },
+    {
+      "id": 39,
+      "type": "REORDER",
+      "prompt": "this? – Who's",
+      "answer": "Who's this?",
+      "models": [
+        "Who's this?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Who's this? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 40,
+      "type": "REORDER",
+      "prompt": "my – is – This – sister.",
+      "answer": "This is my sister.",
+      "models": [
+        "This is my sister."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: This is my sister. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 41,
+      "type": "REORDER",
+      "prompt": "lamp? – is – the – Where",
+      "answer": "Where is the lamp?",
+      "models": [
+        "Where is the lamp?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Where is the lamp? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 42,
+      "type": "REORDER",
+      "prompt": "on – is – It – table. – the",
+      "answer": "It is on the table.",
+      "models": [
+        "It is on the table."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: It is on the table. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 43,
+      "type": "REORDER",
+      "prompt": "is – cat – The – bed. – under – the",
+      "answer": "The cat is under the bed.",
+      "models": [
+        "The cat is under the bed."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: The cat is under the bed. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 44,
+      "type": "REORDER",
+      "prompt": "to – cup – next – The – is – plate. – the",
+      "answer": "The cup is next to the plate.",
+      "models": [
+        "The cup is next to the plate."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: The cup is next to the plate. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 45,
+      "type": "MATCH",
+      "prompt": "\"جدّة\"",
+      "answer": "grandmother",
+      "models": [
+        "grandmother"
+      ],
+      "grading": "closed",
+      "options": [
+        "grandmother",
+        "lamp",
+        "under"
+      ],
+      "answer_index": 0,
+      "explanation_ar": "grandmother معناها جدة، يعني أم الأب أو أم الأم."
+    },
+    {
+      "id": 46,
+      "type": "MATCH",
+      "prompt": "\"مصباح\"",
+      "answer": "lamp",
+      "models": [
+        "lamp"
+      ],
+      "grading": "closed",
+      "options": [
+        "grandmother",
+        "lamp",
+        "under"
+      ],
+      "answer_index": 1,
+      "explanation_ar": "lamp معناها مصباح، وبتدّي نور."
+    },
+    {
+      "id": 47,
+      "type": "MATCH",
+      "prompt": "\"تحت\"",
+      "answer": "under",
+      "models": [
+        "under"
+      ],
+      "grading": "closed",
+      "options": [
+        "grandmother",
+        "lamp",
+        "under"
+      ],
+      "answer_index": 2,
+      "explanation_ar": "under معناها تحت. عكسها on يعني فوق."
+    },
+    {
+      "id": 48,
+      "type": "WRITE",
+      "prompt": "(lamp / table)",
+      "answer": "The lamp is on the table.",
+      "models": [
+        "The lamp is on the table."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الكلمات: lamp وtable. نقول: The lamp is on the table. نبدأ بـ The ونستخدم on للمكان فوق."
+    },
+    {
+      "id": 49,
+      "type": "WRITE",
+      "prompt": "(sister / this)",
+      "answer": "This is my sister.",
+      "models": [
+        "This is my sister."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الكلمات: sister وthis. نقول: This is my sister. بنضيف my قبل sister."
+    },
+    {
+      "id": 50,
+      "type": "WRITE",
+      "prompt": "(cup / plate)",
+      "answer": "The cup is next to the plate.",
+      "models": [
+        "The cup is next to the plate."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الكلمات: cup وplate. نقول: The cup is next to the plate. next to معناها بجوار."
+    },
+    {
+      "id": 51,
+      "type": "COPY",
+      "prompt": "It is on the desk.",
+      "answer": "It is on the desk.",
+      "models": [
+        "It is on the desk."
+      ],
+      "grading": "closed",
+      "explanation_ar": "المطلوب تنسخ الجملة بالظبط: It is on the desk. بنفس الحروف الكبيرة والنقطة. اتأكد من كل كلمة وإنها مكتوبة صح."
+    }
+  ],
+  "version": "510448cd75fc"
+}

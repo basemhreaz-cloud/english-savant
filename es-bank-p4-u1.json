@@ -1,1 +1,1350 @@
-{"grade":"p4","id":1,"title":"The Five Senses","questions":[{"id":1,"type":"MCQ","prompt":"We ___ with our eyes.","answer":"b","source_line":28,"options":["hear","see","smell","taste"],"answer_index":1,"grading":"closed"},{"id":2,"type":"MCQ","prompt":"We ___ with our ears.","answer":"a","source_line":29,"options":["hear","see","touch","taste"],"answer_index":0,"grading":"closed"},{"id":3,"type":"MCQ","prompt":"We ___ with our nose.","answer":"c","source_line":30,"options":["taste","touch","smell","hear"],"answer_index":2,"grading":"closed"},{"id":4,"type":"MCQ","prompt":"We ___ with our tongue.","answer":"d","source_line":31,"options":["smell","hear","see","taste"],"answer_index":3,"grading":"closed"},{"id":5,"type":"MCQ","prompt":"We ___ with our hands.","answer":"a","source_line":32,"options":["touch","hear","see","smell"],"answer_index":0,"grading":"closed"},{"id":6,"type":"MCQ","prompt":"Fruit and vegetables give us ___.","answer":"b","source_line":33,"options":["noise","energy","coins","smells"],"answer_index":1,"grading":"closed"},{"id":7,"type":"MCQ","prompt":"Brushing your teeth every day is a healthy ___.","answer":"b","source_line":34,"options":["coin","habit","sense","mind"],"answer_index":1,"grading":"closed"},{"id":8,"type":"MCQ","prompt":"Washing your hands keeps your personal ___.","answer":"a","source_line":35,"options":["hygiene","energy","habit","owner"],"answer_index":0,"grading":"closed"},{"id":9,"type":"MCQ","prompt":"Reading and puzzles keep your mind ___.","answer":"b","source_line":36,"options":["greedy","sharp","jingling","weak"],"answer_index":1,"grading":"closed"},{"id":10,"type":"MCQ","prompt":"The ___ boy did not want to share his food.","answer":"a","source_line":37,"options":["greedy","healthy","sharp","kind"],"answer_index":0,"grading":"closed"},{"id":11,"type":"MCQ","prompt":"I heard the ___ of coins in his pocket.","answer":"a","source_line":38,"options":["jingling","touching","sharing","smelling"],"answer_index":0,"grading":"closed"},{"id":12,"type":"MCQ","prompt":"It is kind to ___ your food with friends.","answer":"b","source_line":39,"options":["smell","share","taste","hear"],"answer_index":1,"grading":"closed"},{"id":13,"type":"MCQ","prompt":"The dog is happy with its ___. (صاحبه)","answer":"a","source_line":40,"options":["owner","habit","sense","coin"],"answer_index":0,"grading":"closed"},{"id":14,"type":"MCQ","prompt":"We have ___ senses.","answer":"c","source_line":41,"options":["two","four","five","six"],"answer_index":2,"grading":"closed"},{"id":15,"type":"MCQ","prompt":"My sister ___ breakfast at 7 every day.","answer":"b","source_line":42,"options":["eat","eats","eating","eaten"],"answer_index":1,"grading":"closed"},{"id":16,"type":"MCQ","prompt":"They ___ to school from Sunday to Thursday.","answer":"c","source_line":43,"options":["goes","going","go","went"],"answer_index":2,"grading":"closed"},{"id":17,"type":"MCQ","prompt":"He ___ his teeth twice a day.","answer":"b","source_line":44,"options":["brush","brushes","brushing","brushed"],"answer_index":1,"grading":"closed"},{"id":18,"type":"MCQ","prompt":"My father ___ tea in the morning.","answer":"b","source_line":45,"options":["drink","drinks","drinking","drank"],"answer_index":1,"grading":"closed"},{"id":19,"type":"MCQ","prompt":"We ___ our hands before eating.","answer":"b","source_line":46,"options":["washes","wash","washing","washed"],"answer_index":1,"grading":"closed"},{"id":20,"type":"MCQ","prompt":"She ___ an apple every day.","answer":"b","source_line":47,"options":["have","has","having","had"],"answer_index":1,"grading":"closed"},{"id":21,"type":"MCQ","prompt":"First, I wash my hands. ___, I sit at the table. Finally, I eat.","answer":"a","source_line":48,"options":["Then","Finally","After","First"],"answer_index":0,"grading":"closed"},{"id":22,"type":"MCQ","prompt":"Steps to eat an apple: ___, I wash it well.","answer":"c","source_line":49,"options":["Then","Finally","First","After that"],"answer_index":2,"grading":"closed"},{"id":23,"type":"MCQ","prompt":"I wash the apple, then I cut it. ___, I eat it.","answer":"c","source_line":50,"options":["First","Before","Finally","Always"],"answer_index":2,"grading":"closed"},{"id":24,"type":"MCQ","prompt":"A lemon tastes ___. (حامض)","answer":"b","source_line":51,"options":["sweet","sour","salty","cold"],"answer_index":1,"grading":"closed"},{"id":25,"type":"MCQ","prompt":"Honey tastes ___. (حلو)","answer":"c","source_line":52,"options":["sour","bitter","sweet","hot"],"answer_index":2,"grading":"closed"},{"id":26,"type":"MCQ","prompt":"A flower ___ nice. (رائحتها جميلة)","answer":"a","source_line":53,"options":["smells","tastes","hears","sees"],"answer_index":0,"grading":"closed"},{"id":27,"type":"MCQ","prompt":"The soup is hot. Don't ___ it now. (المسها)","answer":"b","source_line":54,"options":["see","touch","hear","smell"],"answer_index":1,"grading":"closed"},{"id":28,"type":"MCQ","prompt":"\"صحية\" in English: ___","answer":"c","source_line":55,"options":["sharp","greedy","healthy","jingling"],"answer_index":2,"grading":"closed"},{"id":29,"type":"MCQ","prompt":"I ___ music with my ears.","answer":"c","source_line":56,"options":["taste","smell","hear","touch"],"answer_index":2,"grading":"closed"},{"id":30,"type":"MCQ","prompt":"My mom ___ healthy food for us.","answer":"b","source_line":57,"options":["cook","cooks","cooking","cooked"],"answer_index":1,"grading":"closed"},{"id":31,"type":"MCQ","prompt":"We ___ fruit after lunch.","answer":"c","source_line":58,"options":["eats","eating","eat","ate"],"answer_index":2,"grading":"closed"},{"id":32,"type":"MCQ","prompt":"The baby ___ everything with her hands.","answer":"b","source_line":59,"options":["touch","touches","touching","touched"],"answer_index":1,"grading":"closed"},{"id":33,"type":"MCQ","prompt":"Karim ___ TV after his homework.","answer":"b","source_line":60,"options":["watch","watches","watching","watched"],"answer_index":1,"grading":"closed"},{"id":34,"type":"COMPLETE","prompt":"My five ___ help me know the world.","answer":"senses","source_line":63,"models":["senses"],"wordbox":["senses","energy","habits","hygiene","sharp","greedy","coins","share","owner","taste","hear","touch","healthy","mind"],"grading":"closed"},{"id":35,"type":"COMPLETE","prompt":"Good food gives my body ___.","answer":"energy","source_line":64,"models":["energy"],"wordbox":["senses","energy","habits","hygiene","sharp","greedy","coins","share","owner","taste","hear","touch","healthy","mind"],"grading":"closed"},{"id":36,"type":"COMPLETE","prompt":"Washing my hands is good ___.","answer":"hygiene","source_line":65,"models":["hygiene"],"wordbox":["senses","energy","habits","hygiene","sharp","greedy","coins","share","owner","taste","hear","touch","healthy","mind"],"grading":"closed"},{"id":37,"type":"COMPLETE","prompt":"Sleeping early is one of my healthy ___.","answer":"habits","source_line":66,"models":["habits"],"wordbox":["senses","energy","habits","hygiene","sharp","greedy","coins","share","owner","taste","hear","touch","healthy","mind"],"grading":"closed"},{"id":38,"type":"COMPLETE","prompt":"Puzzles and reading keep my ___ sharp.","answer":"mind","source_line":67,"models":["mind"],"wordbox":["senses","energy","habits","hygiene","sharp","greedy","coins","share","owner","taste","hear","touch","healthy","mind"],"grading":"closed"},{"id":39,"type":"COMPLETE","prompt":"The ___ man ate all the cakes alone.","answer":"greedy","source_line":68,"models":["greedy"],"wordbox":["senses","energy","habits","hygiene","sharp","greedy","coins","share","owner","taste","hear","touch","healthy","mind"],"grading":"closed"},{"id":40,"type":"COMPLETE","prompt":"He has two gold ___ in his hand.","answer":"coins","source_line":69,"models":["coins"],"wordbox":["senses","energy","habits","hygiene","sharp","greedy","coins","share","owner","taste","hear","touch","healthy","mind"],"grading":"closed"},{"id":41,"type":"COMPLETE","prompt":"I ___ my toys with my little brother.","answer":"share","source_line":70,"models":["share"],"wordbox":["senses","energy","habits","hygiene","sharp","greedy","coins","share","owner","taste","hear","touch","healthy","mind"],"grading":"closed"},{"id":42,"type":"COMPLETE","prompt":"The cat loves its ___ and sleeps next to him.","answer":"owner","source_line":71,"models":["owner"],"wordbox":["senses","energy","habits","hygiene","sharp","greedy","coins","share","owner","taste","hear","touch","healthy","mind"],"grading":"closed"},{"id":43,"type":"COMPLETE","prompt":"Ice cream is cold. I ___ it with my tongue.","answer":"taste","source_line":72,"models":["taste"],"wordbox":["senses","energy","habits","hygiene","sharp","greedy","coins","share","owner","taste","hear","touch","healthy","mind"],"grading":"closed"},{"id":44,"type":"COMPLETE","prompt":"I ___ the bell with my ears.","answer":"hear","source_line":73,"models":["hear"],"wordbox":["senses","energy","habits","hygiene","sharp","greedy","coins","share","owner","taste","hear","touch","healthy","mind"],"grading":"closed"},{"id":45,"type":"COMPLETE","prompt":"The blanket is soft. I ___ it with my hands.","answer":"touch","source_line":74,"models":["touch"],"wordbox":["senses","energy","habits","hygiene","sharp","greedy","coins","share","owner","taste","hear","touch","healthy","mind"],"grading":"closed"},{"id":46,"type":"COMPLETE","prompt":"We eat ___ food to grow strong.","answer":"healthy","source_line":75,"models":["healthy"],"wordbox":["senses","energy","habits","hygiene","sharp","greedy","coins","share","owner","taste","hear","touch","healthy","mind"],"grading":"closed"},{"id":47,"type":"COMPLETE","prompt":"A ___ mind learns fast.","answer":"sharp","source_line":76,"models":["sharp"],"wordbox":["senses","energy","habits","hygiene","sharp","greedy","coins","share","owner","taste","hear","touch","healthy","mind"],"grading":"closed"},{"id":48,"type":"CORRECT","prompt":"She (brush) her teeth every night.","answer":"brushes","source_line":79,"models":["brushes"],"grading":"closed"},{"id":49,"type":"CORRECT","prompt":"They (plays) football on Friday.","answer":"play","source_line":80,"models":["play"],"grading":"closed"},{"id":50,"type":"CORRECT","prompt":"My father (drink) coffee in the morning.","answer":"drinks","source_line":81,"models":["drinks"],"grading":"closed"},{"id":51,"type":"CORRECT","prompt":"We (washes) our hands before food.","answer":"wash","source_line":82,"models":["wash"],"grading":"closed"},{"id":52,"type":"CORRECT","prompt":"He (watch) TV after dinner.","answer":"watches","source_line":83,"models":["watches"],"grading":"closed"},{"id":53,"type":"CORRECT","prompt":"The cat (drink) milk every day.","answer":"drinks","source_line":84,"models":["drinks"],"grading":"closed"},{"id":54,"type":"CORRECT","prompt":"I (goes) to school by bus.","answer":"go","source_line":85,"models":["go"],"grading":"closed"},{"id":55,"type":"CORRECT","prompt":"My mom (cook) lunch at 2 p.m.","answer":"cooks","source_line":86,"models":["cooks"],"grading":"closed"},{"id":56,"type":"CORRECT","prompt":"Birds (flies) in the sky.","answer":"fly","source_line":87,"models":["fly"],"grading":"closed"},{"id":57,"type":"CORRECT","prompt":"Nada (share) her food with friends.","answer":"shares","source_line":88,"models":["shares"],"grading":"closed"},{"id":58,"type":"PUNCT","prompt":"i wash my hands every day","answer":"I wash my hands every day.","source_line":91,"models":["I wash my hands every day."],"grading":"model_review"},{"id":59,"type":"PUNCT","prompt":"she eats an apple in the morning","answer":"She eats an apple in the morning.","source_line":92,"models":["She eats an apple in the morning."],"grading":"model_review"},{"id":60,"type":"PUNCT","prompt":"do you brush your teeth","answer":"Do you brush your teeth?","source_line":93,"models":["Do you brush your teeth?"],"grading":"model_review"},{"id":61,"type":"PUNCT","prompt":"we have five senses","answer":"We have five senses.","source_line":94,"models":["We have five senses."],"grading":"model_review"},{"id":62,"type":"PUNCT","prompt":"my father drinks tea at work","answer":"My father drinks tea at work.","source_line":95,"models":["My father drinks tea at work."],"grading":"model_review"},{"id":63,"type":"PUNCT","prompt":"does he like fruit","answer":"Does he like fruit?","source_line":96,"models":["Does he like fruit?"],"grading":"model_review"},{"id":64,"type":"READ","prompt":"Omar eats ___ for breakfast.","answer":"b","source_line":100,"passage":"Omar wakes up early every day. He washes his face and brushes his teeth. Then he eats eggs and cheese for breakfast and drinks a glass of milk. Healthy food gives him energy for school. At school, Omar shares his sandwich with his friend Youssef. He likes to be kind to everyone. After school, he washes his hands with soap and water, then reads a book. Reading keeps his mind sharp and helps him learn new words.","options":["meat and rice","eggs and cheese","bread and jam","fruit"],"answer_index":1,"grading":"closed"},{"id":65,"type":"READ","prompt":"Omar shares his sandwich with ___.","answer":"c","source_line":101,"passage":"Omar wakes up early every day. He washes his face and brushes his teeth. Then he eats eggs and cheese for breakfast and drinks a glass of milk. Healthy food gives him energy for school. At school, Omar shares his sandwich with his friend Youssef. He likes to be kind to everyone. After school, he washes his hands with soap and water, then reads a book. Reading keeps his mind sharp and helps him learn new words.","options":["his teacher","his brother","Youssef","his father"],"answer_index":2,"grading":"closed"},{"id":66,"type":"READ","prompt":"When does Omar wake up?","answer":"Early every day.","source_line":102,"models":["Early every day."],"passage":"Omar wakes up early every day. He washes his face and brushes his teeth. Then he eats eggs and cheese for breakfast and drinks a glass of milk. Healthy food gives him energy for school. At school, Omar shares his sandwich with his friend Youssef. He likes to be kind to everyone. After school, he washes his hands with soap and water, then reads a book. Reading keeps his mind sharp and helps him learn new words.","grading":"model_review"},{"id":67,"type":"READ","prompt":"What does healthy food give Omar?","answer":"Energy.","source_line":103,"models":["Energy."],"passage":"Omar wakes up early every day. He washes his face and brushes his teeth. Then he eats eggs and cheese for breakfast and drinks a glass of milk. Healthy food gives him energy for school. At school, Omar shares his sandwich with his friend Youssef. He likes to be kind to everyone. After school, he washes his hands with soap and water, then reads a book. Reading keeps his mind sharp and helps him learn new words.","grading":"model_review"},{"id":68,"type":"READ","prompt":"Why does Omar read books?","answer":"To keep his mind sharp.","source_line":104,"models":["To keep his mind sharp."],"passage":"Omar wakes up early every day. He washes his face and brushes his teeth. Then he eats eggs and cheese for breakfast and drinks a glass of milk. Healthy food gives him energy for school. At school, Omar shares his sandwich with his friend Youssef. He likes to be kind to everyone. After school, he washes his hands with soap and water, then reads a book. Reading keeps his mind sharp and helps him learn new words.","grading":"model_review"},{"id":69,"type":"REORDER","prompt":"senses – have – five – We","answer":"We have five senses.","source_line":107,"models":["We have five senses."],"grading":"model_review"},{"id":70,"type":"REORDER","prompt":"teeth – brushes – He – day. – every – his","answer":"He brushes his teeth every day.","source_line":108,"models":["He brushes his teeth every day."],"grading":"model_review"},{"id":71,"type":"REORDER","prompt":"my – I – before – wash – hands – food.","answer":"I wash my hands before food.","source_line":109,"models":["I wash my hands before food."],"grading":"model_review"},{"id":72,"type":"REORDER","prompt":"gives – energy. – us – Food","answer":"Food gives us energy.","source_line":110,"models":["Food gives us energy."],"grading":"model_review"},{"id":73,"type":"REORDER","prompt":"sharp. – keeps – Reading – mind – the","answer":"Reading keeps the mind sharp.","source_line":111,"models":["Reading keeps the mind sharp."],"grading":"model_review"},{"id":74,"type":"REORDER","prompt":"friends. – She – with – shares – her – food","answer":"She shares food with her friends.","source_line":112,"models":["She shares food with her friends."],"grading":"model_review"},{"id":75,"type":"REORDER","prompt":"nice. – smells – The – flower","answer":"The flower smells nice.","source_line":113,"models":["The flower smells nice."],"grading":"model_review"},{"id":76,"type":"REORDER","prompt":"early. – wake – I – up","answer":"I wake up early.","source_line":114,"models":["I wake up early."],"grading":"model_review"},{"id":77,"type":"WRITE","prompt":"Write 4 sentences about your healthy habits (at least 20 words). Guiding elements: wash - fruit - sleep - water.","answer":"I wash my hands every day. I eat fruit in the morning. I sleep early at night. I drink a lot of water.","source_line":117,"models":["I wash my hands every day. I eat fruit in the morning. I sleep early at night. I drink a lot of water."],"grading":"model_review","min_words":20,"sentences":4,"model_words":23},{"id":78,"type":"WRITE","prompt":"Write 4 sentences about your five senses (at least 20 words). Guiding elements: see - hear - smell - taste.","answer":"I see with my two eyes. I hear music with my ears. I smell flowers with my nose. I taste food with my tongue.","source_line":118,"models":["I see with my two eyes. I hear music with my ears. I smell flowers with my nose. I taste food with my tongue."],"grading":"model_review","min_words":20,"sentences":4,"model_words":24},{"id":79,"type":"WRITE","prompt":"Write 4 sentences about a healthy day (at least 20 words). Guiding elements: breakfast - teeth - play - early.","answer":"I eat breakfast at seven. I brush my teeth after food. I play football with my friends. I go to bed early.","source_line":119,"models":["I eat breakfast at seven. I brush my teeth after food. I play football with my friends. I go to bed early."],"grading":"model_review","min_words":20,"sentences":4,"model_words":22},{"id":80,"type":"WRITE","prompt":"Write 4 sentences about sharing (at least 20 words). Guiding elements: share - kind - food - happy.","answer":"I share my food with my friends. Sharing is a kind habit. We share our books at school. Sharing makes me happy.","source_line":120,"models":["I share my food with my friends. Sharing is a kind habit. We share our books at school. Sharing makes me happy."],"grading":"model_review","min_words":20,"sentences":4,"model_words":22}],"passage_words":77,"version":"73e4027791ad"}
+{
+  "grade": "p4",
+  "id": 1,
+  "title": "The Five Senses",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MCQ",
+      "prompt": "We ___ with our eyes.",
+      "answer": "b",
+      "source_line": 28,
+      "options": [
+        "hear",
+        "see",
+        "smell",
+        "taste"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنشوف بعنينا: see. hear للودان وsmell للمناخير وtaste للسان."
+    },
+    {
+      "id": 2,
+      "type": "MCQ",
+      "prompt": "We ___ with our ears.",
+      "answer": "a",
+      "source_line": 29,
+      "options": [
+        "hear",
+        "see",
+        "touch",
+        "taste"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنسمع بودانا: hear. see للعين وtouch لليد."
+    },
+    {
+      "id": 3,
+      "type": "MCQ",
+      "prompt": "We ___ with our nose.",
+      "answer": "c",
+      "source_line": 30,
+      "options": [
+        "taste",
+        "touch",
+        "smell",
+        "hear"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "بنشم بمناخيرنا: smell. taste للسان وtouch لليد وhear للودان."
+    },
+    {
+      "id": 4,
+      "type": "MCQ",
+      "prompt": "We ___ with our tongue.",
+      "answer": "d",
+      "source_line": 31,
+      "options": [
+        "smell",
+        "hear",
+        "see",
+        "taste"
+      ],
+      "answer_index": 3,
+      "grading": "closed",
+      "explanation_ar": "بنتذوق (نحس بالطعم) بلساننا: taste. smell بالمناخير وhear بالودان."
+    },
+    {
+      "id": 5,
+      "type": "MCQ",
+      "prompt": "We ___ with our hands.",
+      "answer": "a",
+      "source_line": 32,
+      "options": [
+        "touch",
+        "hear",
+        "see",
+        "smell"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنلمس بإيدينا: touch. hear للودان وsee للعين وsmell للمناخير."
+    },
+    {
+      "id": 6,
+      "type": "MCQ",
+      "prompt": "Fruit and vegetables give us ___.",
+      "answer": "b",
+      "source_line": 33,
+      "options": [
+        "noise",
+        "energy",
+        "coins",
+        "smells"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الفاكهة والخضار بتدينا طاقة: energy. noise معناها ضوضاء وcoins عملات."
+    },
+    {
+      "id": 7,
+      "type": "MCQ",
+      "prompt": "Brushing your teeth every day is a healthy ___.",
+      "answer": "b",
+      "source_line": 34,
+      "options": [
+        "coin",
+        "habit",
+        "sense",
+        "mind"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "تنضيف الأسنان كل يوم عادة صحية: habit. coin عملة وsense حاسة وmind عقل."
+    },
+    {
+      "id": 8,
+      "type": "MCQ",
+      "prompt": "Washing your hands keeps your personal ___.",
+      "answer": "a",
+      "source_line": 35,
+      "options": [
+        "hygiene",
+        "energy",
+        "habit",
+        "owner"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "غسل الإيدين بيحافظ على نظافتنا الشخصية: hygiene. energy طاقة وhabit عادة."
+    },
+    {
+      "id": 9,
+      "type": "MCQ",
+      "prompt": "Reading and puzzles keep your mind ___.",
+      "answer": "b",
+      "source_line": 36,
+      "options": [
+        "greedy",
+        "sharp",
+        "jingling",
+        "weak"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القراية والألغاز بتخلي العقل حاد (sharp). weak معناها ضعيف عكس المطلوب."
+    },
+    {
+      "id": 10,
+      "type": "MCQ",
+      "prompt": "The ___ boy did not want to share his food.",
+      "answer": "a",
+      "source_line": 37,
+      "options": [
+        "greedy",
+        "healthy",
+        "sharp",
+        "kind"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الولد اللي مش عايز يشارك أكله طماع: greedy. kind معناها طيب وهو عكس الطماع."
+    },
+    {
+      "id": 11,
+      "type": "MCQ",
+      "prompt": "I heard the ___ of coins in his pocket.",
+      "answer": "a",
+      "source_line": 38,
+      "options": [
+        "jingling",
+        "touching",
+        "sharing",
+        "smelling"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "سمعت صوت العملات بترن في جيبه: jingling. touching وsmelling مش بتوصف صوت."
+    },
+    {
+      "id": 12,
+      "type": "MCQ",
+      "prompt": "It is kind to ___ your food with friends.",
+      "answer": "b",
+      "source_line": 39,
+      "options": [
+        "smell",
+        "share",
+        "taste",
+        "hear"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "من اللطيف إننا نشارك أكلنا مع أصحابنا: share. smell وtaste وhear مش بتعبر عن المشاركة."
+    },
+    {
+      "id": 13,
+      "type": "MCQ",
+      "prompt": "The dog is happy with its ___. (صاحبه)",
+      "answer": "a",
+      "source_line": 40,
+      "options": [
+        "owner",
+        "habit",
+        "sense",
+        "coin"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (صاحبه) معناها owner. الكلب فرحان بصاحبه."
+    },
+    {
+      "id": 14,
+      "type": "MCQ",
+      "prompt": "We have ___ senses.",
+      "answer": "c",
+      "source_line": 41,
+      "options": [
+        "two",
+        "four",
+        "five",
+        "six"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "عندنا خمس حواس: five (النظر والسمع والشم والتذوق واللمس)."
+    },
+    {
+      "id": 15,
+      "type": "MCQ",
+      "prompt": "My sister ___ breakfast at 7 every day.",
+      "answer": "b",
+      "source_line": 42,
+      "options": [
+        "eat",
+        "eats",
+        "eating",
+        "eaten"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "My sister مفرد (She)، فالفعل بياخد s: eats. every day بتدل على عادة يومية."
+    },
+    {
+      "id": 16,
+      "type": "MCQ",
+      "prompt": "They ___ to school from Sunday to Thursday.",
+      "answer": "c",
+      "source_line": 43,
+      "options": [
+        "goes",
+        "going",
+        "go",
+        "went"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "They جمع، والجملة عادة يومية، فنقول go من غير تغيير. goes للمفرد."
+    },
+    {
+      "id": 17,
+      "type": "MCQ",
+      "prompt": "He ___ his teeth twice a day.",
+      "answer": "b",
+      "source_line": 44,
+      "options": [
+        "brush",
+        "brushes",
+        "brushing",
+        "brushed"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "He فاعل مفرد، فنقول brushes. الفعل بيتنهي بـ sh فبنضيف es."
+    },
+    {
+      "id": 18,
+      "type": "MCQ",
+      "prompt": "My father ___ tea in the morning.",
+      "answer": "b",
+      "source_line": 45,
+      "options": [
+        "drink",
+        "drinks",
+        "drinking",
+        "drank"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "My father مفرد (He)، فنقول drinks. in the morning بتدل على عادة."
+    },
+    {
+      "id": 19,
+      "type": "MCQ",
+      "prompt": "We ___ our hands before eating.",
+      "answer": "b",
+      "source_line": 46,
+      "options": [
+        "washes",
+        "wash",
+        "washing",
+        "washed"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "We جمع، فنقول wash من غير s. before eating معناها قبل الأكل."
+    },
+    {
+      "id": 20,
+      "type": "MCQ",
+      "prompt": "She ___ an apple every day.",
+      "answer": "b",
+      "source_line": 47,
+      "options": [
+        "have",
+        "has",
+        "having",
+        "had"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "She فاعل مفرد، فنقول has. have مع I وyou وwe وthey."
+    },
+    {
+      "id": 21,
+      "type": "MCQ",
+      "prompt": "First, I wash my hands. ___, I sit at the table. Finally, I eat.",
+      "answer": "a",
+      "source_line": 48,
+      "options": [
+        "Then",
+        "Finally",
+        "After",
+        "First"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الترتيب: First ثم Then ثم Finally. الجملة التانية في الوسط، فنستخدم Then."
+    },
+    {
+      "id": 22,
+      "type": "MCQ",
+      "prompt": "Steps to eat an apple: ___, I wash it well.",
+      "answer": "c",
+      "source_line": 49,
+      "options": [
+        "Then",
+        "Finally",
+        "First",
+        "After that"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "لما نبدأ الخطوات نقول First. Then وFinally للخطوات اللي بعد كده."
+    },
+    {
+      "id": 23,
+      "type": "MCQ",
+      "prompt": "I wash the apple, then I cut it. ___, I eat it.",
+      "answer": "c",
+      "source_line": 50,
+      "options": [
+        "First",
+        "Before",
+        "Finally",
+        "Always"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "بعد الغسيل والتقطيع الخطوة الأخيرة، فنقول Finally. First بتبقى في الأول."
+    },
+    {
+      "id": 24,
+      "type": "MCQ",
+      "prompt": "A lemon tastes ___. (حامض)",
+      "answer": "b",
+      "source_line": 51,
+      "options": [
+        "sweet",
+        "sour",
+        "salty",
+        "cold"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (حامض) معناها sour، والليمون طعمه حامض. sweet حلو."
+    },
+    {
+      "id": 25,
+      "type": "MCQ",
+      "prompt": "Honey tastes ___. (حلو)",
+      "answer": "c",
+      "source_line": 52,
+      "options": [
+        "sour",
+        "bitter",
+        "sweet",
+        "hot"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (حلو) معناها sweet، والعسل طعمه حلو. sour حامض."
+    },
+    {
+      "id": 26,
+      "type": "MCQ",
+      "prompt": "A flower ___ nice. (رائحتها جميلة)",
+      "answer": "a",
+      "source_line": 53,
+      "options": [
+        "smells",
+        "tastes",
+        "hears",
+        "sees"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (رائحتها جميلة) معناها smells nice. A flower مفرد فالفعل بياخد s."
+    },
+    {
+      "id": 27,
+      "type": "MCQ",
+      "prompt": "The soup is hot. Don't ___ it now. (المسها)",
+      "answer": "b",
+      "source_line": 54,
+      "options": [
+        "see",
+        "touch",
+        "hear",
+        "smell"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الشوربة سخنة، فنقول متلمسهاش: touch. الكلمة العربية (المسها) هي الدليل."
+    },
+    {
+      "id": 28,
+      "type": "MCQ",
+      "prompt": "\"صحية\" in English: ___",
+      "answer": "c",
+      "source_line": 55,
+      "options": [
+        "sharp",
+        "greedy",
+        "healthy",
+        "jingling"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (صحية) معناها healthy. sharp حاد وgreedy طماع."
+    },
+    {
+      "id": 29,
+      "type": "MCQ",
+      "prompt": "I ___ music with my ears.",
+      "answer": "c",
+      "source_line": 56,
+      "options": [
+        "taste",
+        "smell",
+        "hear",
+        "touch"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "بنسمع الموسيقى بالودان: hear."
+    },
+    {
+      "id": 30,
+      "type": "MCQ",
+      "prompt": "My mom ___ healthy food for us.",
+      "answer": "b",
+      "source_line": 57,
+      "options": [
+        "cook",
+        "cooks",
+        "cooking",
+        "cooked"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "My mom مفرد (She)، فنقول cooks. healthy food هو الأكل الصحي."
+    },
+    {
+      "id": 31,
+      "type": "MCQ",
+      "prompt": "We ___ fruit after lunch.",
+      "answer": "c",
+      "source_line": 58,
+      "options": [
+        "eats",
+        "eating",
+        "eat",
+        "ate"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "We جمع، فنقول eat. after lunch يعني عادة يومية، فمضارع."
+    },
+    {
+      "id": 32,
+      "type": "MCQ",
+      "prompt": "The baby ___ everything with her hands.",
+      "answer": "b",
+      "source_line": 59,
+      "options": [
+        "touch",
+        "touches",
+        "touching",
+        "touched"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "The baby مفرد (She)، فنقول touches. الفعل touch بينتهي بـ ch فبنضيف es."
+    },
+    {
+      "id": 33,
+      "type": "MCQ",
+      "prompt": "Karim ___ TV after his homework.",
+      "answer": "b",
+      "source_line": 60,
+      "options": [
+        "watch",
+        "watches",
+        "watching",
+        "watched"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "Karim مفرد (He)، فنقول watches. الفعل watch بينتهي بـ ch فبنضيف es."
+    },
+    {
+      "id": 34,
+      "type": "COMPLETE",
+      "prompt": "My five ___ help me know the world.",
+      "answer": "senses",
+      "source_line": 63,
+      "models": [
+        "senses"
+      ],
+      "wordbox": [
+        "senses",
+        "energy",
+        "habits",
+        "hygiene",
+        "sharp",
+        "greedy",
+        "coins",
+        "share",
+        "owner",
+        "taste",
+        "hear",
+        "touch",
+        "healthy",
+        "mind"
+      ],
+      "grading": "closed",
+      "explanation_ar": "حواسنا الخمسة بتساعدنا نعرف العالم: senses. جمع، لأن five قبلها."
+    },
+    {
+      "id": 35,
+      "type": "COMPLETE",
+      "prompt": "Good food gives my body ___.",
+      "answer": "energy",
+      "source_line": 64,
+      "models": [
+        "energy"
+      ],
+      "wordbox": [
+        "senses",
+        "energy",
+        "habits",
+        "hygiene",
+        "sharp",
+        "greedy",
+        "coins",
+        "share",
+        "owner",
+        "taste",
+        "hear",
+        "touch",
+        "healthy",
+        "mind"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الأكل الجيد بيدّي جسمي طاقة: energy."
+    },
+    {
+      "id": 36,
+      "type": "COMPLETE",
+      "prompt": "Washing my hands is good ___.",
+      "answer": "hygiene",
+      "source_line": 65,
+      "models": [
+        "hygiene"
+      ],
+      "wordbox": [
+        "senses",
+        "energy",
+        "habits",
+        "hygiene",
+        "sharp",
+        "greedy",
+        "coins",
+        "share",
+        "owner",
+        "taste",
+        "hear",
+        "touch",
+        "healthy",
+        "mind"
+      ],
+      "grading": "closed",
+      "explanation_ar": "غسل الإيدين مفيد للنظافة الشخصية: hygiene."
+    },
+    {
+      "id": 37,
+      "type": "COMPLETE",
+      "prompt": "Sleeping early is one of my healthy ___.",
+      "answer": "habits",
+      "source_line": 66,
+      "models": [
+        "habits"
+      ],
+      "wordbox": [
+        "senses",
+        "energy",
+        "habits",
+        "hygiene",
+        "sharp",
+        "greedy",
+        "coins",
+        "share",
+        "owner",
+        "taste",
+        "hear",
+        "touch",
+        "healthy",
+        "mind"
+      ],
+      "grading": "closed",
+      "explanation_ar": "النوم بدري من عاداتي الصحية: habits. جمع لأن one of بعدها جمع."
+    },
+    {
+      "id": 38,
+      "type": "COMPLETE",
+      "prompt": "Puzzles and reading keep my ___ sharp.",
+      "answer": "mind",
+      "source_line": 67,
+      "models": [
+        "mind"
+      ],
+      "wordbox": [
+        "senses",
+        "energy",
+        "habits",
+        "hygiene",
+        "sharp",
+        "greedy",
+        "coins",
+        "share",
+        "owner",
+        "taste",
+        "hear",
+        "touch",
+        "healthy",
+        "mind"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الألغاز والقراية بيخلوا عقلي حاد: mind."
+    },
+    {
+      "id": 39,
+      "type": "COMPLETE",
+      "prompt": "The ___ man ate all the cakes alone.",
+      "answer": "greedy",
+      "source_line": 68,
+      "models": [
+        "greedy"
+      ],
+      "wordbox": [
+        "senses",
+        "energy",
+        "habits",
+        "hygiene",
+        "sharp",
+        "greedy",
+        "coins",
+        "share",
+        "owner",
+        "taste",
+        "hear",
+        "touch",
+        "healthy",
+        "mind"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الراجل الطماع أكل كل الكيك لوحده: greedy."
+    },
+    {
+      "id": 40,
+      "type": "COMPLETE",
+      "prompt": "He has two gold ___ in his hand.",
+      "answer": "coins",
+      "source_line": 69,
+      "models": [
+        "coins"
+      ],
+      "wordbox": [
+        "senses",
+        "energy",
+        "habits",
+        "hygiene",
+        "sharp",
+        "greedy",
+        "coins",
+        "share",
+        "owner",
+        "taste",
+        "hear",
+        "touch",
+        "healthy",
+        "mind"
+      ],
+      "grading": "closed",
+      "explanation_ar": "معاه عملتين دهب في إيده: coins. جمع لأن two قبلها."
+    },
+    {
+      "id": 41,
+      "type": "COMPLETE",
+      "prompt": "I ___ my toys with my little brother.",
+      "answer": "share",
+      "source_line": 70,
+      "models": [
+        "share"
+      ],
+      "wordbox": [
+        "senses",
+        "energy",
+        "habits",
+        "hygiene",
+        "sharp",
+        "greedy",
+        "coins",
+        "share",
+        "owner",
+        "taste",
+        "hear",
+        "touch",
+        "healthy",
+        "mind"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بشارك لعبي مع أخويا الصغير: share. مع I الفعل من غير s."
+    },
+    {
+      "id": 42,
+      "type": "COMPLETE",
+      "prompt": "The cat loves its ___ and sleeps next to him.",
+      "answer": "owner",
+      "source_line": 71,
+      "models": [
+        "owner"
+      ],
+      "wordbox": [
+        "senses",
+        "energy",
+        "habits",
+        "hygiene",
+        "sharp",
+        "greedy",
+        "coins",
+        "share",
+        "owner",
+        "taste",
+        "hear",
+        "touch",
+        "healthy",
+        "mind"
+      ],
+      "grading": "closed",
+      "explanation_ar": "القطة بتحب صاحبها وبتنام جنبه: owner."
+    },
+    {
+      "id": 43,
+      "type": "COMPLETE",
+      "prompt": "Ice cream is cold. I ___ it with my tongue.",
+      "answer": "taste",
+      "source_line": 72,
+      "models": [
+        "taste"
+      ],
+      "wordbox": [
+        "senses",
+        "energy",
+        "habits",
+        "hygiene",
+        "sharp",
+        "greedy",
+        "coins",
+        "share",
+        "owner",
+        "taste",
+        "hear",
+        "touch",
+        "healthy",
+        "mind"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الآيس كريم بارد وبتذوقه بلساني: taste."
+    },
+    {
+      "id": 44,
+      "type": "COMPLETE",
+      "prompt": "I ___ the bell with my ears.",
+      "answer": "hear",
+      "source_line": 73,
+      "models": [
+        "hear"
+      ],
+      "wordbox": [
+        "senses",
+        "energy",
+        "habits",
+        "hygiene",
+        "sharp",
+        "greedy",
+        "coins",
+        "share",
+        "owner",
+        "taste",
+        "hear",
+        "touch",
+        "healthy",
+        "mind"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بسمع الجرس بودني: hear."
+    },
+    {
+      "id": 45,
+      "type": "COMPLETE",
+      "prompt": "The blanket is soft. I ___ it with my hands.",
+      "answer": "touch",
+      "source_line": 74,
+      "models": [
+        "touch"
+      ],
+      "wordbox": [
+        "senses",
+        "energy",
+        "habits",
+        "hygiene",
+        "sharp",
+        "greedy",
+        "coins",
+        "share",
+        "owner",
+        "taste",
+        "hear",
+        "touch",
+        "healthy",
+        "mind"
+      ],
+      "grading": "closed",
+      "explanation_ar": "البطانية ناعمة وبلمسها بإيدي: touch."
+    },
+    {
+      "id": 46,
+      "type": "COMPLETE",
+      "prompt": "We eat ___ food to grow strong.",
+      "answer": "healthy",
+      "source_line": 75,
+      "models": [
+        "healthy"
+      ],
+      "wordbox": [
+        "senses",
+        "energy",
+        "habits",
+        "hygiene",
+        "sharp",
+        "greedy",
+        "coins",
+        "share",
+        "owner",
+        "taste",
+        "hear",
+        "touch",
+        "healthy",
+        "mind"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بناكل أكل صحي عشان نكبر ونبقى أقوياء: healthy."
+    },
+    {
+      "id": 47,
+      "type": "COMPLETE",
+      "prompt": "A ___ mind learns fast.",
+      "answer": "sharp",
+      "source_line": 76,
+      "models": [
+        "sharp"
+      ],
+      "wordbox": [
+        "senses",
+        "energy",
+        "habits",
+        "hygiene",
+        "sharp",
+        "greedy",
+        "coins",
+        "share",
+        "owner",
+        "taste",
+        "hear",
+        "touch",
+        "healthy",
+        "mind"
+      ],
+      "grading": "closed",
+      "explanation_ar": "العقل الحاد بيتعلم بسرعة: sharp."
+    },
+    {
+      "id": 48,
+      "type": "CORRECT",
+      "prompt": "She (brush) her teeth every night.",
+      "answer": "brushes",
+      "source_line": 79,
+      "models": [
+        "brushes"
+      ],
+      "grading": "closed",
+      "explanation_ar": "She فاعل مفرد، فالفعل brush بياخد es: brushes. بعد sh بنضيف es."
+    },
+    {
+      "id": 49,
+      "type": "CORRECT",
+      "prompt": "They (plays) football on Friday.",
+      "answer": "play",
+      "source_line": 80,
+      "models": [
+        "play"
+      ],
+      "grading": "closed",
+      "explanation_ar": "They جمع، فالفعل من غير s: play. المطلوب نصحح plays لـ play."
+    },
+    {
+      "id": 50,
+      "type": "CORRECT",
+      "prompt": "My father (drink) coffee in the morning.",
+      "answer": "drinks",
+      "source_line": 81,
+      "models": [
+        "drinks"
+      ],
+      "grading": "closed",
+      "explanation_ar": "My father مفرد، فالفعل drink بياخد s: drinks."
+    },
+    {
+      "id": 51,
+      "type": "CORRECT",
+      "prompt": "We (washes) our hands before food.",
+      "answer": "wash",
+      "source_line": 82,
+      "models": [
+        "wash"
+      ],
+      "grading": "closed",
+      "explanation_ar": "We جمع، فالفعل من غير s: wash. المطلوب نصحح washes لـ wash."
+    },
+    {
+      "id": 52,
+      "type": "CORRECT",
+      "prompt": "He (watch) TV after dinner.",
+      "answer": "watches",
+      "source_line": 83,
+      "models": [
+        "watches"
+      ],
+      "grading": "closed",
+      "explanation_ar": "He فاعل مفرد، فالفعل watch بياخد es: watches. بعد ch بنضيف es."
+    },
+    {
+      "id": 53,
+      "type": "CORRECT",
+      "prompt": "The cat (drink) milk every day.",
+      "answer": "drinks",
+      "source_line": 84,
+      "models": [
+        "drinks"
+      ],
+      "grading": "closed",
+      "explanation_ar": "The cat مفرد، فالفعل drink بياخد s: drinks."
+    },
+    {
+      "id": 54,
+      "type": "CORRECT",
+      "prompt": "I (goes) to school by bus.",
+      "answer": "go",
+      "source_line": 85,
+      "models": [
+        "go"
+      ],
+      "grading": "closed",
+      "explanation_ar": "مع I الفعل من غير s: go. المطلوب نصحح goes لـ go."
+    },
+    {
+      "id": 55,
+      "type": "CORRECT",
+      "prompt": "My mom (cook) lunch at 2 p.m.",
+      "answer": "cooks",
+      "source_line": 86,
+      "models": [
+        "cooks"
+      ],
+      "grading": "closed",
+      "explanation_ar": "My mom مفرد، فالفعل cook بياخد s: cooks."
+    },
+    {
+      "id": 56,
+      "type": "CORRECT",
+      "prompt": "Birds (flies) in the sky.",
+      "answer": "fly",
+      "source_line": 87,
+      "models": [
+        "fly"
+      ],
+      "grading": "closed",
+      "explanation_ar": "Birds جمع، فالفعل من غير s: fly. المطلوب نصحح flies لـ fly."
+    },
+    {
+      "id": 57,
+      "type": "CORRECT",
+      "prompt": "Nada (share) her food with friends.",
+      "answer": "shares",
+      "source_line": 88,
+      "models": [
+        "shares"
+      ],
+      "grading": "closed",
+      "explanation_ar": "Nada مفرد (She)، فالفعل share بياخد s: shares."
+    },
+    {
+      "id": 58,
+      "type": "PUNCT",
+      "prompt": "i wash my hands every day",
+      "answer": "I wash my hands every day.",
+      "source_line": 91,
+      "models": [
+        "I wash my hands every day."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: I wash my hands every day. بنبدأ بحرف كبير (I) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 59,
+      "type": "PUNCT",
+      "prompt": "she eats an apple in the morning",
+      "answer": "She eats an apple in the morning.",
+      "source_line": 92,
+      "models": [
+        "She eats an apple in the morning."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: She eats an apple in the morning. بنبدأ بحرف كبير (She) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 60,
+      "type": "PUNCT",
+      "prompt": "do you brush your teeth",
+      "answer": "Do you brush your teeth?",
+      "source_line": 93,
+      "models": [
+        "Do you brush your teeth?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Do you brush your teeth? بنبدأ بحرف كبير (Do) وننهي بعلامة الاستفهام (?) لأنها سؤال."
+    },
+    {
+      "id": 61,
+      "type": "PUNCT",
+      "prompt": "we have five senses",
+      "answer": "We have five senses.",
+      "source_line": 94,
+      "models": [
+        "We have five senses."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: We have five senses. بنبدأ بحرف كبير (We) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 62,
+      "type": "PUNCT",
+      "prompt": "my father drinks tea at work",
+      "answer": "My father drinks tea at work.",
+      "source_line": 95,
+      "models": [
+        "My father drinks tea at work."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: My father drinks tea at work. بنبدأ بحرف كبير (My) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 63,
+      "type": "PUNCT",
+      "prompt": "does he like fruit",
+      "answer": "Does he like fruit?",
+      "source_line": 96,
+      "models": [
+        "Does he like fruit?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Does he like fruit? بنبدأ بحرف كبير (Does) وننهي بعلامة الاستفهام (?) لأنها سؤال."
+    },
+    {
+      "id": 64,
+      "type": "READ",
+      "prompt": "Omar eats ___ for breakfast.",
+      "answer": "b",
+      "source_line": 100,
+      "passage": "Omar wakes up early every day. He washes his face and brushes his teeth. Then he eats eggs and cheese for breakfast and drinks a glass of milk. Healthy food gives him energy for school. At school, Omar shares his sandwich with his friend Youssef. He likes to be kind to everyone. After school, he washes his hands with soap and water, then reads a book. Reading keeps his mind sharp and helps him learn new words.",
+      "options": [
+        "meat and rice",
+        "eggs and cheese",
+        "bread and jam",
+        "fruit"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: he eats eggs and cheese for breakfast. يعني الفطار بيض وجبنة: eggs and cheese."
+    },
+    {
+      "id": 65,
+      "type": "READ",
+      "prompt": "Omar shares his sandwich with ___.",
+      "answer": "c",
+      "source_line": 101,
+      "passage": "Omar wakes up early every day. He washes his face and brushes his teeth. Then he eats eggs and cheese for breakfast and drinks a glass of milk. Healthy food gives him energy for school. At school, Omar shares his sandwich with his friend Youssef. He likes to be kind to everyone. After school, he washes his hands with soap and water, then reads a book. Reading keeps his mind sharp and helps him learn new words.",
+      "options": [
+        "his teacher",
+        "his brother",
+        "Youssef",
+        "his father"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: Omar shares his sandwich with his friend Youssef. يعني بيشارك مع يوسف: Youssef."
+    },
+    {
+      "id": 66,
+      "type": "READ",
+      "prompt": "When does Omar wake up?",
+      "answer": "Early every day.",
+      "source_line": 102,
+      "models": [
+        "Early every day."
+      ],
+      "passage": "Omar wakes up early every day. He washes his face and brushes his teeth. Then he eats eggs and cheese for breakfast and drinks a glass of milk. Healthy food gives him energy for school. At school, Omar shares his sandwich with his friend Youssef. He likes to be kind to everyone. After school, he washes his hands with soap and water, then reads a book. Reading keeps his mind sharp and helps him learn new words.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: Omar wakes up early every day. يعني بيصحى بدري كل يوم: Early every day."
+    },
+    {
+      "id": 67,
+      "type": "READ",
+      "prompt": "What does healthy food give Omar?",
+      "answer": "Energy.",
+      "source_line": 103,
+      "models": [
+        "Energy."
+      ],
+      "passage": "Omar wakes up early every day. He washes his face and brushes his teeth. Then he eats eggs and cheese for breakfast and drinks a glass of milk. Healthy food gives him energy for school. At school, Omar shares his sandwich with his friend Youssef. He likes to be kind to everyone. After school, he washes his hands with soap and water, then reads a book. Reading keeps his mind sharp and helps him learn new words.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: Healthy food gives him energy for school. يعني الأكل الصحي بيدّيه طاقة: Energy."
+    },
+    {
+      "id": 68,
+      "type": "READ",
+      "prompt": "Why does Omar read books?",
+      "answer": "To keep his mind sharp.",
+      "source_line": 104,
+      "models": [
+        "To keep his mind sharp."
+      ],
+      "passage": "Omar wakes up early every day. He washes his face and brushes his teeth. Then he eats eggs and cheese for breakfast and drinks a glass of milk. Healthy food gives him energy for school. At school, Omar shares his sandwich with his friend Youssef. He likes to be kind to everyone. After school, he washes his hands with soap and water, then reads a book. Reading keeps his mind sharp and helps him learn new words.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: Reading keeps his mind sharp. يعني بيقرا عشان يخلي عقله حاد: To keep his mind sharp."
+    },
+    {
+      "id": 69,
+      "type": "REORDER",
+      "prompt": "senses – have – five – We",
+      "answer": "We have five senses.",
+      "source_line": 107,
+      "models": [
+        "We have five senses."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: We have five senses. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 70,
+      "type": "REORDER",
+      "prompt": "teeth – brushes – He – day. – every – his",
+      "answer": "He brushes his teeth every day.",
+      "source_line": 108,
+      "models": [
+        "He brushes his teeth every day."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: He brushes his teeth every day. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 71,
+      "type": "REORDER",
+      "prompt": "my – I – before – wash – hands – food.",
+      "answer": "I wash my hands before food.",
+      "source_line": 109,
+      "models": [
+        "I wash my hands before food."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: I wash my hands before food. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 72,
+      "type": "REORDER",
+      "prompt": "gives – energy. – us – Food",
+      "answer": "Food gives us energy.",
+      "source_line": 110,
+      "models": [
+        "Food gives us energy."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Food gives us energy. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 73,
+      "type": "REORDER",
+      "prompt": "sharp. – keeps – Reading – mind – the",
+      "answer": "Reading keeps the mind sharp.",
+      "source_line": 111,
+      "models": [
+        "Reading keeps the mind sharp."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Reading keeps the mind sharp. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 74,
+      "type": "REORDER",
+      "prompt": "friends. – She – with – shares – her – food",
+      "answer": "She shares food with her friends.",
+      "source_line": 112,
+      "models": [
+        "She shares food with her friends."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: She shares food with her friends. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 75,
+      "type": "REORDER",
+      "prompt": "nice. – smells – The – flower",
+      "answer": "The flower smells nice.",
+      "source_line": 113,
+      "models": [
+        "The flower smells nice."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: The flower smells nice. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 76,
+      "type": "REORDER",
+      "prompt": "early. – wake – I – up",
+      "answer": "I wake up early.",
+      "source_line": 114,
+      "models": [
+        "I wake up early."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: I wake up early. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 77,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about your healthy habits (at least 20 words). Guiding elements: wash - fruit - sleep - water.",
+      "answer": "I wash my hands every day. I eat fruit in the morning. I sleep early at night. I drink a lot of water.",
+      "source_line": 117,
+      "models": [
+        "I wash my hands every day. I eat fruit in the morning. I sleep early at night. I drink a lot of water."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 23,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about your healthy habits) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: wash، fruit، sleep، water، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: I wash my hands every day. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة."
+    },
+    {
+      "id": 78,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about your five senses (at least 20 words). Guiding elements: see - hear - smell - taste.",
+      "answer": "I see with my two eyes. I hear music with my ears. I smell flowers with my nose. I taste food with my tongue.",
+      "source_line": 118,
+      "models": [
+        "I see with my two eyes. I hear music with my ears. I smell flowers with my nose. I taste food with my tongue."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 24,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about your five senses) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: see، hear، smell، taste، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: I see with my two eyes. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة."
+    },
+    {
+      "id": 79,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about a healthy day (at least 20 words). Guiding elements: breakfast - teeth - play - early.",
+      "answer": "I eat breakfast at seven. I brush my teeth after food. I play football with my friends. I go to bed early.",
+      "source_line": 119,
+      "models": [
+        "I eat breakfast at seven. I brush my teeth after food. I play football with my friends. I go to bed early."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 22,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about a healthy day) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: breakfast، teeth، play، early، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: I eat breakfast at seven. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة."
+    },
+    {
+      "id": 80,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about sharing (at least 20 words). Guiding elements: share - kind - food - happy.",
+      "answer": "I share my food with my friends. Sharing is a kind habit. We share our books at school. Sharing makes me happy.",
+      "source_line": 120,
+      "models": [
+        "I share my food with my friends. Sharing is a kind habit. We share our books at school. Sharing makes me happy."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 22,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about sharing) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: share، kind، food، happy، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: I share my food with my friends. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة."
+    }
+  ],
+  "passage_words": 77,
+  "version": "73e4027791ad"
+}

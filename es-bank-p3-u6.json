@@ -1,1 +1,727 @@
-{"grade":"p3","id":6,"title":"Dare to Dream","questions":[{"id":1,"type":"MCQ","prompt":"If you want to learn English, you must ___ every day.","answer":"b","options":["sleep","practice","play"],"answer_index":1,"grading":"closed"},{"id":2,"type":"MCQ","prompt":"A ___ is something you want to reach.","answer":"a","options":["goal","step","try"],"answer_index":0,"grading":"closed"},{"id":3,"type":"MCQ","prompt":"When we win, we ___.","answer":"b","options":["cry","celebrate","sleep"],"answer_index":1,"grading":"closed"},{"id":4,"type":"MCQ","prompt":"\"النجاح\" in English: ___.","answer":"b","options":["plan","success","practice"],"answer_index":1,"grading":"closed"},{"id":5,"type":"MCQ","prompt":"Do it ___, little by little.","answer":"a","options":["step by step","fast","never"],"answer_index":0,"grading":"closed"},{"id":6,"type":"MCQ","prompt":"Don't say \"I can't\". Always ___ again.","answer":"b","options":["stop","try","sleep"],"answer_index":1,"grading":"closed"},{"id":7,"type":"MCQ","prompt":"If you work hard, you ___ your dreams.","answer":"a","options":["achieve","lose","forget"],"answer_index":0,"grading":"closed"},{"id":8,"type":"MCQ","prompt":"Before a big match, the team makes a ___.","answer":"b","options":["party","plan","cake"],"answer_index":1,"grading":"closed"},{"id":9,"type":"MCQ","prompt":"\"يحتفل\" in English: ___.","answer":"a","options":["celebrate","practice","try"],"answer_index":0,"grading":"closed"},{"id":10,"type":"MCQ","prompt":"I want to ___ a doctor one day.","answer":"b","options":["am","be","is"],"answer_index":1,"grading":"closed"},{"id":11,"type":"MCQ","prompt":"Practice makes ___.","answer":"b","options":["sad","perfect","angry"],"answer_index":1,"grading":"closed"},{"id":12,"type":"MCQ","prompt":"\"هدف\" in English: ___.","answer":"a","options":["goal","plan","step"],"answer_index":0,"grading":"closed"},{"id":13,"type":"MCQ","prompt":"First step, then plan, then practice, then ___.","answer":"b","options":["stop","success","fear"],"answer_index":1,"grading":"closed"},{"id":14,"type":"MCQ","prompt":"We ___ our team's success with a party.","answer":"a","options":["celebrate","try","plan"],"answer_index":0,"grading":"closed"},{"id":15,"type":"MCQ","prompt":"If at first you don't succeed, ___ again.","answer":"b","options":["cry","try","run"],"answer_index":1,"grading":"closed"},{"id":16,"type":"MCQ","prompt":"\"يحاول\" in English: ___.","answer":"a","options":["tries","plans","wins"],"answer_index":0,"grading":"closed"},{"id":17,"type":"MCQ","prompt":"She ___ English for one hour every day.","answer":"b","options":["practice","practices","practicing"],"answer_index":1,"grading":"closed"},{"id":18,"type":"MCQ","prompt":"A dream without a plan is just a ___.","answer":"b","options":["goal","wish","success"],"answer_index":1,"grading":"closed"},{"id":19,"type":"MCQ","prompt":"Every long road starts with one ___.","answer":"a","options":["step","car","party"],"answer_index":0,"grading":"closed"},{"id":20,"type":"MCQ","prompt":"We are ___ of our success. (فخورون)","answer":"b","options":["scared","proud","bored"],"answer_index":1,"grading":"closed"},{"id":21,"type":"COMPLETE","prompt":"My ___ is to be a pilot. (هدف)","answer":"goal","models":["goal"],"wordbox":["goal","plan","practice","celebrate","success","step","try","achieve"],"grading":"closed"},{"id":22,"type":"COMPLETE","prompt":"Make a ___ before you start.","answer":"plan","models":["plan"],"wordbox":["goal","plan","practice","celebrate","success","step","try","achieve"],"grading":"closed"},{"id":23,"type":"COMPLETE","prompt":"___ English every day to speak well.","answer":"Practice","models":["Practice"],"wordbox":["goal","plan","practice","celebrate","success","step","try","achieve"],"grading":"closed"},{"id":24,"type":"COMPLETE","prompt":"Let's ___ mom's birthday.","answer":"celebrate","models":["celebrate"],"wordbox":["goal","plan","practice","celebrate","success","step","try","achieve"],"grading":"closed"},{"id":25,"type":"COMPLETE","prompt":"Hard work brings ___.","answer":"success","models":["success"],"wordbox":["goal","plan","practice","celebrate","success","step","try","achieve"],"grading":"closed"},{"id":26,"type":"COMPLETE","prompt":"Take it one ___ at a time.","answer":"step","models":["step"],"wordbox":["goal","plan","practice","celebrate","success","step","try","achieve"],"grading":"closed"},{"id":27,"type":"COMPLETE","prompt":"Don't give up. ___ again!","answer":"try","models":["try"],"wordbox":["goal","plan","practice","celebrate","success","step","try","achieve"],"grading":"closed"},{"id":28,"type":"COMPLETE","prompt":"You can ___ anything if you work hard.","answer":"achieve","models":["achieve"],"wordbox":["goal","plan","practice","celebrate","success","step","try","achieve"],"grading":"closed"},{"id":29,"type":"LETTERS","prompt":"l a g o (هدف)","answer":"goal","models":["goal"],"grading":"closed"},{"id":30,"type":"LETTERS","prompt":"p l a n (خطة)","answer":"plan","models":["plan"],"grading":"closed"},{"id":31,"type":"LETTERS","prompt":"y r t (حاول)","answer":"try","models":["try"],"grading":"closed"},{"id":32,"type":"LETTERS","prompt":"t s e p (خطوة)","answer":"step","models":["step"],"grading":"closed"},{"id":33,"type":"LETTERS","prompt":"r a t i c p e c (يتدرب)","answer":"practice","models":["practice"],"grading":"closed"},{"id":34,"type":"LETTERS","prompt":"s s u c c e s (نجاح)","answer":"success","models":["success"],"grading":"closed"},{"id":35,"type":"REORDER","prompt":"to – want – I – doctor. – be – a","answer":"I want to be a doctor.","models":["I want to be a doctor."],"grading":"model_review"},{"id":36,"type":"REORDER","prompt":"again! – Try","answer":"Try again!","models":["Try again!"],"grading":"model_review"},{"id":37,"type":"REORDER","prompt":"every – practices – She – day.","answer":"She practices every day.","models":["She practices every day."],"grading":"model_review"},{"id":38,"type":"REORDER","prompt":"success. – We – our – celebrate","answer":"We celebrate our success.","models":["We celebrate our success."],"grading":"model_review"},{"id":39,"type":"REORDER","prompt":"is – My – to – goal – English. – learn","answer":"My goal is to learn English.","models":["My goal is to learn English."],"grading":"model_review"},{"id":40,"type":"REORDER","prompt":"by – Step – step.","answer":"Step by step.","models":["Step by step."],"grading":"model_review"},{"id":41,"type":"READ","prompt":"Habiba wants to be a ___.","answer":"b","passage":"Habiba wants to be a great swimmer. She made a plan: she practices every morning at the club. She swims fast in the big pool. Some days are hard, but she never stops. 'Try again!' says her coach. Last month, Habiba won her first race. Her family celebrated her success.","options":["runner","swimmer","doctor"],"answer_index":1,"grading":"closed"},{"id":42,"type":"READ","prompt":"She practices every ___.","answer":"b","passage":"Habiba wants to be a great swimmer. She made a plan: she practices every morning at the club. She swims fast in the big pool. Some days are hard, but she never stops. 'Try again!' says her coach. Last month, Habiba won her first race. Her family celebrated her success.","options":["week","morning","month"],"answer_index":1,"grading":"closed"},{"id":43,"type":"READ","prompt":"The coach says: \"___\"","answer":"b","passage":"Habiba wants to be a great swimmer. She made a plan: she practices every morning at the club. She swims fast in the big pool. Some days are hard, but she never stops. 'Try again!' says her coach. Last month, Habiba won her first race. Her family celebrated her success.","options":["Stop!","Try again!","Sleep!"],"answer_index":1,"grading":"closed"},{"id":44,"type":"READ","prompt":"What did Habiba win?","answer":"Her first race.","models":["Her first race."],"passage":"Habiba wants to be a great swimmer. She made a plan: she practices every morning at the club. She swims fast in the big pool. Some days are hard, but she never stops. 'Try again!' says her coach. Last month, Habiba won her first race. Her family celebrated her success.","grading":"model_review"},{"id":45,"type":"READ","prompt":"What did her family do?","answer":"They celebrated her success.","models":["They celebrated her success."],"passage":"Habiba wants to be a great swimmer. She made a plan: she practices every morning at the club. She swims fast in the big pool. Some days are hard, but she never stops. 'Try again!' says her coach. Last month, Habiba won her first race. Her family celebrated her success.","grading":"model_review"},{"id":46,"type":"PUNCT","prompt":"my goal is to be a teacher","answer":"My goal is to be a teacher.","models":["My goal is to be a teacher."],"grading":"model_review"},{"id":47,"type":"PUNCT","prompt":"try again habiba","answer":"Try again, Habiba.","models":["Try again, Habiba."],"grading":"model_review"},{"id":48,"type":"PUNCT","prompt":"do you practice every day","answer":"Do you practice every day?","models":["Do you practice every day?"],"grading":"model_review"},{"id":49,"type":"PUNCT","prompt":"we celebrate our success","answer":"We celebrate our success.","models":["We celebrate our success."],"grading":"model_review"},{"id":50,"type":"PUNCT","prompt":"step by step you can achieve your dream","answer":"Step by step, you can achieve your dream.","models":["Step by step, you can achieve your dream."],"grading":"model_review"},{"id":51,"type":"WRITE","prompt":"(goal, try, success)","answer":"My goal is to be a pilot.","models":["My goal is to be a pilot.","I try my best in the exam.","We celebrate our success."],"grading":"model_review","min_words":15,"sentences":3}],"version":"a948685b95c9"}
+{
+  "grade": "p3",
+  "id": 6,
+  "title": "Dare to Dream",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MCQ",
+      "prompt": "If you want to learn English, you must ___ every day.",
+      "answer": "b",
+      "options": [
+        "sleep",
+        "practice",
+        "play"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "عشان نتعلم إنجليزي لازم نتمرن كل يوم: practice. sleep وplay مش بيعلموا اللغة."
+    },
+    {
+      "id": 2,
+      "type": "MCQ",
+      "prompt": "A ___ is something you want to reach.",
+      "answer": "a",
+      "options": [
+        "goal",
+        "step",
+        "try"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الهدف (goal) هو حاجة عايز توصلها. step خطوة وtry محاولة."
+    },
+    {
+      "id": 3,
+      "type": "MCQ",
+      "prompt": "When we win, we ___.",
+      "answer": "b",
+      "options": [
+        "cry",
+        "celebrate",
+        "sleep"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "لما بنكسب بنحتفل: celebrate. cry معناها نعيّط وsleep معناها ننام."
+    },
+    {
+      "id": 4,
+      "type": "MCQ",
+      "prompt": "\"النجاح\" in English: ___.",
+      "answer": "b",
+      "options": [
+        "plan",
+        "success",
+        "practice"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (النجاح) معناها success. plan خطة وpractice تدريب."
+    },
+    {
+      "id": 5,
+      "type": "MCQ",
+      "prompt": "Do it ___, little by little.",
+      "answer": "a",
+      "options": [
+        "step by step",
+        "fast",
+        "never"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "Little by little معناها شوية بشوية، وده معنى step by step. fast معناها بسرعة وnever معناها أبدًا."
+    },
+    {
+      "id": 6,
+      "type": "MCQ",
+      "prompt": "Don't say \"I can't\". Always ___ again.",
+      "answer": "b",
+      "options": [
+        "stop",
+        "try",
+        "sleep"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنقول متقولش I can't، دايمًا حاول تاني: try again. stop معناها توقف."
+    },
+    {
+      "id": 7,
+      "type": "MCQ",
+      "prompt": "If you work hard, you ___ your dreams.",
+      "answer": "a",
+      "options": [
+        "achieve",
+        "lose",
+        "forget"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "لو اشتغلت بجد هتحقق أحلامك: achieve. lose معناها تخسر وforget معناها تنسى."
+    },
+    {
+      "id": 8,
+      "type": "MCQ",
+      "prompt": "Before a big match, the team makes a ___.",
+      "answer": "b",
+      "options": [
+        "party",
+        "plan",
+        "cake"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "قبل المباراة الكبيرة الفريق بيعمل خطة: plan. party حفلة وcake كيكة."
+    },
+    {
+      "id": 9,
+      "type": "MCQ",
+      "prompt": "\"يحتفل\" in English: ___.",
+      "answer": "a",
+      "options": [
+        "celebrate",
+        "practice",
+        "try"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (يحتفل) معناها celebrate. practice يتمرن وtry يحاول."
+    },
+    {
+      "id": 10,
+      "type": "MCQ",
+      "prompt": "I want to ___ a doctor one day.",
+      "answer": "b",
+      "options": [
+        "am",
+        "be",
+        "is"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بعد want to بنستخدم be: I want to be a doctor. am وis مش بيجوا بعد to."
+    },
+    {
+      "id": 11,
+      "type": "MCQ",
+      "prompt": "Practice makes ___.",
+      "answer": "b",
+      "options": [
+        "sad",
+        "perfect",
+        "angry"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "المثل: Practice makes perfect يعني التمرين بيخلي الواحد ممتاز. perfect معناها ممتاز."
+    },
+    {
+      "id": 12,
+      "type": "MCQ",
+      "prompt": "\"هدف\" in English: ___.",
+      "answer": "a",
+      "options": [
+        "goal",
+        "plan",
+        "step"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (هدف) معناها goal. plan خطة وstep خطوة."
+    },
+    {
+      "id": 13,
+      "type": "MCQ",
+      "prompt": "First step, then plan, then practice, then ___.",
+      "answer": "b",
+      "options": [
+        "stop",
+        "success",
+        "fear"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الترتيب: خطوة ثم خطة ثم تدريب ثم نجاح: success. stop وfear مش نتيجة التدريب."
+    },
+    {
+      "id": 14,
+      "type": "MCQ",
+      "prompt": "We ___ our team's success with a party.",
+      "answer": "a",
+      "options": [
+        "celebrate",
+        "try",
+        "plan"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنحتفل بنجاح فريقنا بحفلة: celebrate. try وplan مش بيتناسبوا مع حفلة."
+    },
+    {
+      "id": 15,
+      "type": "MCQ",
+      "prompt": "If at first you don't succeed, ___ again.",
+      "answer": "b",
+      "options": [
+        "cry",
+        "try",
+        "run"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "المثل: If at first you don't succeed, try again. يعني لو فشلت أول مرة حاول تاني."
+    },
+    {
+      "id": 16,
+      "type": "MCQ",
+      "prompt": "\"يحاول\" in English: ___.",
+      "answer": "a",
+      "options": [
+        "tries",
+        "plans",
+        "wins"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (يحاول) معناها tries. plans معناها يخطط، وwins معناها يكسب. ملاحظة: tries صيغة المفرد الغايب، والاختيار مقبول لأن الاختيارات التانية معناها مختلف."
+    },
+    {
+      "id": 17,
+      "type": "MCQ",
+      "prompt": "She ___ English for one hour every day.",
+      "answer": "b",
+      "options": [
+        "practice",
+        "practices",
+        "practicing"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "She فاعل مفرد، فالفعل بياخد s: practices. practice من غير s مش مناسبة مع She."
+    },
+    {
+      "id": 18,
+      "type": "MCQ",
+      "prompt": "A dream without a plan is just a ___.",
+      "answer": "b",
+      "options": [
+        "goal",
+        "wish",
+        "success"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "المثل: حلم من غير خطة هو مجرد أمنية: wish. goal هدف وsuccess نجاح، وبيحتاجوا خطة."
+    },
+    {
+      "id": 19,
+      "type": "MCQ",
+      "prompt": "Every long road starts with one ___.",
+      "answer": "a",
+      "options": [
+        "step",
+        "car",
+        "party"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "المثل: كل طريق طويل بيبدأ بخطوة واحدة: step. car وparty مش بيتناسبوا مع المعنى."
+    },
+    {
+      "id": 20,
+      "type": "MCQ",
+      "prompt": "We are ___ of our success. (فخورون)",
+      "answer": "b",
+      "options": [
+        "scared",
+        "proud",
+        "bored"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (فخورون) معناها proud. scared خايف وbored زهقان."
+    },
+    {
+      "id": 21,
+      "type": "COMPLETE",
+      "prompt": "My ___ is to be a pilot. (هدف)",
+      "answer": "goal",
+      "models": [
+        "goal"
+      ],
+      "wordbox": [
+        "goal",
+        "plan",
+        "practice",
+        "celebrate",
+        "success",
+        "step",
+        "try",
+        "achieve"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (هدف) معناها goal: My goal is to be a pilot."
+    },
+    {
+      "id": 22,
+      "type": "COMPLETE",
+      "prompt": "Make a ___ before you start.",
+      "answer": "plan",
+      "models": [
+        "plan"
+      ],
+      "wordbox": [
+        "goal",
+        "plan",
+        "practice",
+        "celebrate",
+        "success",
+        "step",
+        "try",
+        "achieve"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنعمل خطة قبل ما نبدأ: plan."
+    },
+    {
+      "id": 23,
+      "type": "COMPLETE",
+      "prompt": "___ English every day to speak well.",
+      "answer": "Practice",
+      "models": [
+        "Practice"
+      ],
+      "wordbox": [
+        "goal",
+        "plan",
+        "practice",
+        "celebrate",
+        "success",
+        "step",
+        "try",
+        "achieve"
+      ],
+      "grading": "closed",
+      "explanation_ar": "عشان نتكلم كويس لازم نتمرن كل يوم: Practice. الكلمة في أول الجملة فبحرف كبير."
+    },
+    {
+      "id": 24,
+      "type": "COMPLETE",
+      "prompt": "Let's ___ mom's birthday.",
+      "answer": "celebrate",
+      "models": [
+        "celebrate"
+      ],
+      "wordbox": [
+        "goal",
+        "plan",
+        "practice",
+        "celebrate",
+        "success",
+        "step",
+        "try",
+        "achieve"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنحتفل بعيد ميلاد ماما: celebrate."
+    },
+    {
+      "id": 25,
+      "type": "COMPLETE",
+      "prompt": "Hard work brings ___.",
+      "answer": "success",
+      "models": [
+        "success"
+      ],
+      "wordbox": [
+        "goal",
+        "plan",
+        "practice",
+        "celebrate",
+        "success",
+        "step",
+        "try",
+        "achieve"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الشغل الجاد بيجيب نجاح: success."
+    },
+    {
+      "id": 26,
+      "type": "COMPLETE",
+      "prompt": "Take it one ___ at a time.",
+      "answer": "step",
+      "models": [
+        "step"
+      ],
+      "wordbox": [
+        "goal",
+        "plan",
+        "practice",
+        "celebrate",
+        "success",
+        "step",
+        "try",
+        "achieve"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نمشي خطوة خطوة: one step at a time."
+    },
+    {
+      "id": 27,
+      "type": "COMPLETE",
+      "prompt": "Don't give up. ___ again!",
+      "answer": "try",
+      "models": [
+        "try"
+      ],
+      "wordbox": [
+        "goal",
+        "plan",
+        "practice",
+        "celebrate",
+        "success",
+        "step",
+        "try",
+        "achieve"
+      ],
+      "grading": "closed",
+      "explanation_ar": "متستسلمش. حاول تاني: Try again. الكلمة أول الجملة فبحرف كبير."
+    },
+    {
+      "id": 28,
+      "type": "COMPLETE",
+      "prompt": "You can ___ anything if you work hard.",
+      "answer": "achieve",
+      "models": [
+        "achieve"
+      ],
+      "wordbox": [
+        "goal",
+        "plan",
+        "practice",
+        "celebrate",
+        "success",
+        "step",
+        "try",
+        "achieve"
+      ],
+      "grading": "closed",
+      "explanation_ar": "تقدر تحقق أي حاجة لو اشتغلت بجد: achieve."
+    },
+    {
+      "id": 29,
+      "type": "LETTERS",
+      "prompt": "l a g o (هدف)",
+      "answer": "goal",
+      "models": [
+        "goal"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: goal. معناها هدف."
+    },
+    {
+      "id": 30,
+      "type": "LETTERS",
+      "prompt": "p l a n (خطة)",
+      "answer": "plan",
+      "models": [
+        "plan"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: plan. معناها خطة."
+    },
+    {
+      "id": 31,
+      "type": "LETTERS",
+      "prompt": "y r t (حاول)",
+      "answer": "try",
+      "models": [
+        "try"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: try. معناها حاول."
+    },
+    {
+      "id": 32,
+      "type": "LETTERS",
+      "prompt": "t s e p (خطوة)",
+      "answer": "step",
+      "models": [
+        "step"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: step. معناها خطوة."
+    },
+    {
+      "id": 33,
+      "type": "LETTERS",
+      "prompt": "r a t i c p e c (يتدرب)",
+      "answer": "practice",
+      "models": [
+        "practice"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: practice. معناها يتدرب."
+    },
+    {
+      "id": 34,
+      "type": "LETTERS",
+      "prompt": "s s u c c e s (نجاح)",
+      "answer": "success",
+      "models": [
+        "success"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: success. معناها نجاح."
+    },
+    {
+      "id": 35,
+      "type": "REORDER",
+      "prompt": "to – want – I – doctor. – be – a",
+      "answer": "I want to be a doctor.",
+      "models": [
+        "I want to be a doctor."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: I want to be a doctor. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 36,
+      "type": "REORDER",
+      "prompt": "again! – Try",
+      "answer": "Try again!",
+      "models": [
+        "Try again!"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Try again! الكلمة الأولى بحرف كبير، وننهي بعلامة التعجب (!). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 37,
+      "type": "REORDER",
+      "prompt": "every – practices – She – day.",
+      "answer": "She practices every day.",
+      "models": [
+        "She practices every day."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: She practices every day. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 38,
+      "type": "REORDER",
+      "prompt": "success. – We – our – celebrate",
+      "answer": "We celebrate our success.",
+      "models": [
+        "We celebrate our success."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: We celebrate our success. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 39,
+      "type": "REORDER",
+      "prompt": "is – My – to – goal – English. – learn",
+      "answer": "My goal is to learn English.",
+      "models": [
+        "My goal is to learn English."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: My goal is to learn English. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 40,
+      "type": "REORDER",
+      "prompt": "by – Step – step.",
+      "answer": "Step by step.",
+      "models": [
+        "Step by step."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Step by step. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 41,
+      "type": "READ",
+      "prompt": "Habiba wants to be a ___.",
+      "answer": "b",
+      "passage": "Habiba wants to be a great swimmer. She made a plan: she practices every morning at the club. She swims fast in the big pool. Some days are hard, but she never stops. 'Try again!' says her coach. Last month, Habiba won her first race. Her family celebrated her success.",
+      "options": [
+        "runner",
+        "swimmer",
+        "doctor"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: Habiba wants to be a great swimmer. يعني عايزة تبقى سباحة: swimmer."
+    },
+    {
+      "id": 42,
+      "type": "READ",
+      "prompt": "She practices every ___.",
+      "answer": "b",
+      "passage": "Habiba wants to be a great swimmer. She made a plan: she practices every morning at the club. She swims fast in the big pool. Some days are hard, but she never stops. 'Try again!' says her coach. Last month, Habiba won her first race. Her family celebrated her success.",
+      "options": [
+        "week",
+        "morning",
+        "month"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: she practices every morning. يعني بتتمرن كل صباح: morning."
+    },
+    {
+      "id": 43,
+      "type": "READ",
+      "prompt": "The coach says: \"___\"",
+      "answer": "b",
+      "passage": "Habiba wants to be a great swimmer. She made a plan: she practices every morning at the club. She swims fast in the big pool. Some days are hard, but she never stops. 'Try again!' says her coach. Last month, Habiba won her first race. Her family celebrated her success.",
+      "options": [
+        "Stop!",
+        "Try again!",
+        "Sleep!"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: 'Try again!' says her coach. يعني المدرب بيقول حاول تاني: Try again!"
+    },
+    {
+      "id": 44,
+      "type": "READ",
+      "prompt": "What did Habiba win?",
+      "answer": "Her first race.",
+      "models": [
+        "Her first race."
+      ],
+      "passage": "Habiba wants to be a great swimmer. She made a plan: she practices every morning at the club. She swims fast in the big pool. Some days are hard, but she never stops. 'Try again!' says her coach. Last month, Habiba won her first race. Her family celebrated her success.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: Habiba won her first race. يعني كسبت أول سباق ليها: Her first race."
+    },
+    {
+      "id": 45,
+      "type": "READ",
+      "prompt": "What did her family do?",
+      "answer": "They celebrated her success.",
+      "models": [
+        "They celebrated her success."
+      ],
+      "passage": "Habiba wants to be a great swimmer. She made a plan: she practices every morning at the club. She swims fast in the big pool. Some days are hard, but she never stops. 'Try again!' says her coach. Last month, Habiba won her first race. Her family celebrated her success.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: Her family celebrated her success. يعني عيلتها احتفلت بنجاحها: They celebrated her success."
+    },
+    {
+      "id": 46,
+      "type": "PUNCT",
+      "prompt": "my goal is to be a teacher",
+      "answer": "My goal is to be a teacher.",
+      "models": [
+        "My goal is to be a teacher."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: My goal is to be a teacher. بنبدأ بحرف كبير (My) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 47,
+      "type": "PUNCT",
+      "prompt": "try again habiba",
+      "answer": "Try again, Habiba.",
+      "models": [
+        "Try again, Habiba."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Try again, Habiba. بنبدأ بحرف كبير (Try) وننهي بالنقطة (.) لأنها جملة عادية. والأسماء زي الأسماء الخاصة بتبدأ بحرف كبير دايمًا."
+    },
+    {
+      "id": 48,
+      "type": "PUNCT",
+      "prompt": "do you practice every day",
+      "answer": "Do you practice every day?",
+      "models": [
+        "Do you practice every day?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Do you practice every day? بنبدأ بحرف كبير (Do) وننهي بعلامة الاستفهام (?) لأنها سؤال."
+    },
+    {
+      "id": 49,
+      "type": "PUNCT",
+      "prompt": "we celebrate our success",
+      "answer": "We celebrate our success.",
+      "models": [
+        "We celebrate our success."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: We celebrate our success. بنبدأ بحرف كبير (We) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 50,
+      "type": "PUNCT",
+      "prompt": "step by step you can achieve your dream",
+      "answer": "Step by step, you can achieve your dream.",
+      "models": [
+        "Step by step, you can achieve your dream."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Step by step, you can achieve your dream. بنبدأ بحرف كبير (Step) وننهي بالنقطة (.) لأنها جملة عادية."
+    },
+    {
+      "id": 51,
+      "type": "WRITE",
+      "prompt": "(goal, try, success)",
+      "answer": "My goal is to be a pilot.",
+      "models": [
+        "My goal is to be a pilot.",
+        "I try my best in the exam.",
+        "We celebrate our success."
+      ],
+      "grading": "model_review",
+      "min_words": 15,
+      "sentences": 3,
+      "explanation_ar": "الكلمات: goal وtry وsuccess. جملة بسيطة: My goal is to be a pilot. goal معناها هدف، وبعد is to بنكتب be. نبدأ بحرف كبير وننهي بنقطة. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة."
+    }
+  ],
+  "version": "a948685b95c9"
+}

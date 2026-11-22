@@ -1,1 +1,767 @@
-{"grade":"p2","id":6,"title":"Rooms at Home","questions":[{"id":1,"type":"MCQ","prompt":"We cook in the ___.","answer":"b","options":["bedroom","kitchen","bathroom"],"answer_index":1,"grading":"closed"},{"id":2,"type":"MCQ","prompt":"We sleep in the ___.","answer":"a","options":["bedroom","kitchen","hall"],"answer_index":0,"grading":"closed"},{"id":3,"type":"MCQ","prompt":"We watch TV in the ___.","answer":"b","options":["bathroom","living room","kitchen"],"answer_index":1,"grading":"closed"},{"id":4,"type":"MCQ","prompt":"We wash our hands in the ___.","answer":"a","options":["bathroom","bedroom","garden"],"answer_index":0,"grading":"closed"},{"id":5,"type":"MCQ","prompt":"We eat dinner in the ___.","answer":"a","options":["dining room","bathroom","balcony"],"answer_index":0,"grading":"closed"},{"id":6,"type":"MCQ","prompt":"Flowers and trees are in the ___.","answer":"b","options":["hall","garden","kitchen"],"answer_index":1,"grading":"closed"},{"id":7,"type":"MCQ","prompt":"We sit and drink tea on the ___.","answer":"a","options":["balcony","bathroom","bedroom"],"answer_index":0,"grading":"closed"},{"id":8,"type":"MCQ","prompt":"There ___ a kitchen in my house.","answer":"a","options":["is","are","am"],"answer_index":0,"grading":"closed"},{"id":9,"type":"MCQ","prompt":"There ___ a bed in my room.","answer":"a","options":["is","are","am"],"answer_index":0,"grading":"closed"},{"id":10,"type":"MCQ","prompt":"\"غرفة النوم\" in English: ___.","answer":"b","options":["kitchen","bedroom","bathroom"],"answer_index":1,"grading":"closed"},{"id":11,"type":"MCQ","prompt":"\"غرفة المعيشة\" in English: ___.","answer":"a","options":["living room","dining room","hall"],"answer_index":0,"grading":"closed"},{"id":12,"type":"MCQ","prompt":"Where is the fridge? — It's in the ___.","answer":"b","options":["bedroom","kitchen","bathroom"],"answer_index":1,"grading":"closed"},{"id":13,"type":"MCQ","prompt":"Where is the sofa? — It's in the ___.","answer":"a","options":["living room","kitchen","garden"],"answer_index":0,"grading":"closed"},{"id":14,"type":"MCQ","prompt":"The TV is ___ the living room.","answer":"a","options":["in","on","under"],"answer_index":0,"grading":"closed"},{"id":15,"type":"MCQ","prompt":"\"شرفة\" in English: ___.","answer":"b","options":["hall","balcony","garden"],"answer_index":1,"grading":"closed"},{"id":16,"type":"MCQ","prompt":"We enter the house from the ___.","answer":"a","options":["hall","bathroom","bedroom"],"answer_index":0,"grading":"closed"},{"id":17,"type":"MCQ","prompt":"\"There is\" تُستخدم مع ___.","answer":"a","options":["المفرد","الجمع","الأفعال"],"answer_index":0,"grading":"closed"},{"id":18,"type":"MCQ","prompt":"___ is the table? — In the dining room.","answer":"b","options":["What","Where","Who"],"answer_index":1,"grading":"closed"},{"id":19,"type":"MCQ","prompt":"I stand on the ___ and look at the cars in the street.","answer":"b","options":["bathroom","balcony","kitchen"],"answer_index":1,"grading":"closed"},{"id":20,"type":"MCQ","prompt":"My house ___ three rooms.","answer":"b","options":["have","has","is"],"answer_index":1,"grading":"closed"},{"id":21,"type":"COMPLETE","prompt":"Mom cooks in the ___.","answer":"kitchen","models":["kitchen"],"wordbox":["kitchen","bedroom","bathroom","living room","dining room","garden","hall","balcony","is","in"],"grading":"closed"},{"id":22,"type":"COMPLETE","prompt":"I sleep in my ___.","answer":"bedroom","models":["bedroom"],"wordbox":["kitchen","bedroom","bathroom","living room","dining room","garden","hall","balcony","is","in"],"grading":"closed"},{"id":23,"type":"COMPLETE","prompt":"We take a shower in the ___.","answer":"bathroom","models":["bathroom"],"wordbox":["kitchen","bedroom","bathroom","living room","dining room","garden","hall","balcony","is","in"],"grading":"closed"},{"id":24,"type":"COMPLETE","prompt":"Grandma sits in the ___. (غرفة المعيشة)","answer":"living room","models":["living room"],"wordbox":["kitchen","bedroom","bathroom","living room","dining room","garden","hall","balcony","is","in"],"grading":"closed"},{"id":25,"type":"COMPLETE","prompt":"We have lunch in the ___. (غرفة الطعام)","answer":"dining room","models":["dining room"],"wordbox":["kitchen","bedroom","bathroom","living room","dining room","garden","hall","balcony","is","in"],"grading":"closed"},{"id":26,"type":"COMPLETE","prompt":"The cat plays in the ___. (حديقة)","answer":"garden","models":["garden"],"wordbox":["kitchen","bedroom","bathroom","living room","dining room","garden","hall","balcony","is","in"],"grading":"closed"},{"id":27,"type":"COMPLETE","prompt":"There ___ a TV in my room.","answer":"is","models":["is"],"wordbox":["kitchen","bedroom","bathroom","living room","dining room","garden","hall","balcony","is","in"],"grading":"closed"},{"id":28,"type":"COMPLETE","prompt":"The table is ___ the dining room.","answer":"in","models":["in"],"wordbox":["kitchen","bedroom","bathroom","living room","dining room","garden","hall","balcony","is","in"],"grading":"closed"},{"id":29,"type":"COMPLETE","prompt":"I read on the ___ in the morning.","answer":"balcony","models":["balcony"],"wordbox":["kitchen","bedroom","bathroom","living room","dining room","garden","hall","balcony","is","in"],"grading":"closed"},{"id":30,"type":"COMPLETE","prompt":"Our shoes are in the ___. (صالة)","answer":"hall","models":["hall"],"wordbox":["kitchen","bedroom","bathroom","living room","dining room","garden","hall","balcony","is","in"],"grading":"closed"},{"id":31,"type":"LETTER","prompt":"_itchen (مطبخ)","answer":"k","models":["k"],"grading":"closed"},{"id":32,"type":"LETTER","prompt":"_edroom (غرفة نوم)","answer":"b","models":["b"],"grading":"closed"},{"id":33,"type":"LETTER","prompt":"_athroom (حمّام)","answer":"b","models":["b"],"grading":"closed"},{"id":34,"type":"LETTER","prompt":"_arden (حديقة)","answer":"g","models":["g"],"grading":"closed"},{"id":35,"type":"LETTER","prompt":"_all (صالة)","answer":"h","models":["h"],"grading":"closed"},{"id":36,"type":"LETTER","prompt":"_alcony (شرفة)","answer":"b","models":["b"],"grading":"closed"},{"id":37,"type":"LETTER","prompt":"_iving (معيشة)","answer":"l","models":["l"],"grading":"closed"},{"id":38,"type":"LETTER","prompt":"_ining (طعام)","answer":"d","models":["d"],"grading":"closed"},{"id":39,"type":"REORDER","prompt":"a – is – There – kitchen.","answer":"There is a kitchen.","models":["There is a kitchen."],"grading":"model_review"},{"id":40,"type":"REORDER","prompt":"a – is – There – room. – bed – my – in","answer":"There is a bed in my room.","models":["There is a bed in my room."],"grading":"model_review"},{"id":41,"type":"REORDER","prompt":"is – the – Where – table?","answer":"Where is the table?","models":["Where is the table?"],"grading":"model_review"},{"id":42,"type":"REORDER","prompt":"in – is – table – dining – The – room. – the","answer":"The table is in the dining room.","models":["The table is in the dining room."],"grading":"model_review"},{"id":43,"type":"REORDER","prompt":"is – kitchen – Mom – the. – in","answer":"Mom is in the kitchen.","models":["Mom is in the kitchen."],"grading":"model_review"},{"id":44,"type":"REORDER","prompt":"house. – My – big – is","answer":"My house is big.","models":["My house is big."],"grading":"model_review"},{"id":45,"type":"MATCH","prompt":"\"مطبخ\"","answer":"kitchen","models":["kitchen"],"grading":"closed","options":["kitchen","bathroom","garden"],"answer_index":0},{"id":46,"type":"MATCH","prompt":"\"حمّام\"","answer":"bathroom","models":["bathroom"],"grading":"closed","options":["kitchen","bathroom","garden"],"answer_index":1},{"id":47,"type":"MATCH","prompt":"\"حديقة\"","answer":"garden","models":["garden"],"grading":"closed","options":["kitchen","bathroom","garden"],"answer_index":2},{"id":48,"type":"WRITE","prompt":"(bed / bedroom)","answer":"There is a bed in the bedroom.","models":["There is a bed in the bedroom."],"grading":"model_review"},{"id":49,"type":"WRITE","prompt":"(fridge / kitchen)","answer":"The fridge is in the kitchen.","models":["The fridge is in the kitchen."],"grading":"model_review"},{"id":50,"type":"WRITE","prompt":"(house / big)","answer":"My house is big.","models":["My house is big."],"grading":"model_review"},{"id":51,"type":"COPY","prompt":"My bedroom is clean.","answer":"My bedroom is clean.","models":["My bedroom is clean."],"grading":"closed"}],"version":"eed7c0d5d4df"}
+{
+  "grade": "p2",
+  "id": 6,
+  "title": "Rooms at Home",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MCQ",
+      "prompt": "We cook in the ___.",
+      "answer": "b",
+      "options": [
+        "bedroom",
+        "kitchen",
+        "bathroom"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنطبخ في المطبخ (kitchen). غرفة النوم للنوم، والحمام للاستحمام."
+    },
+    {
+      "id": 2,
+      "type": "MCQ",
+      "prompt": "We sleep in the ___.",
+      "answer": "a",
+      "options": [
+        "bedroom",
+        "kitchen",
+        "hall"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بننام في غرفة النوم (bedroom). المطبخ للطبخ والصالة للجلوس."
+    },
+    {
+      "id": 3,
+      "type": "MCQ",
+      "prompt": "We watch TV in the ___.",
+      "answer": "b",
+      "options": [
+        "bathroom",
+        "living room",
+        "kitchen"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنتفرج على التليفزيون في غرفة المعيشة (living room). الحمام والمطبخ مش لده."
+    },
+    {
+      "id": 4,
+      "type": "MCQ",
+      "prompt": "We wash our hands in the ___.",
+      "answer": "a",
+      "options": [
+        "bathroom",
+        "bedroom",
+        "garden"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنغسل إيدينا في الحمام (bathroom). الحديقة والنوم ملهمش علاقة بغسيل الإيد."
+    },
+    {
+      "id": 5,
+      "type": "MCQ",
+      "prompt": "We eat dinner in the ___.",
+      "answer": "a",
+      "options": [
+        "dining room",
+        "bathroom",
+        "balcony"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بناكل العشا في غرفة الطعام (dining room). الحمام والبلكونة مش للأكل."
+    },
+    {
+      "id": 6,
+      "type": "MCQ",
+      "prompt": "Flowers and trees are in the ___.",
+      "answer": "b",
+      "options": [
+        "hall",
+        "garden",
+        "kitchen"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الورد والشجر بيبقوا في الحديقة (garden). المطبخ والصالة مفيهمش شجر."
+    },
+    {
+      "id": 7,
+      "type": "MCQ",
+      "prompt": "We sit and drink tea on the ___.",
+      "answer": "a",
+      "options": [
+        "balcony",
+        "bathroom",
+        "bedroom"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنقعد ونشرب الشاي في البلكونة (balcony). الحمام وغرفة النوم مش للتقعيد وشرب الشاي."
+    },
+    {
+      "id": 8,
+      "type": "MCQ",
+      "prompt": "There ___ a kitchen in my house.",
+      "answer": "a",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "a kitchen مفرد، فنقول There is. are للجمع وam مع I بس."
+    },
+    {
+      "id": 9,
+      "type": "MCQ",
+      "prompt": "There ___ a bed in my room.",
+      "answer": "a",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "a bed مفرد، فنقول There is. are بتيجي مع الجمع."
+    },
+    {
+      "id": 10,
+      "type": "MCQ",
+      "prompt": "\"غرفة النوم\" in English: ___.",
+      "answer": "b",
+      "options": [
+        "kitchen",
+        "bedroom",
+        "bathroom"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (غرفة النوم) معناها bedroom. kitchen مطبخ وbathroom حمام."
+    },
+    {
+      "id": 11,
+      "type": "MCQ",
+      "prompt": "\"غرفة المعيشة\" in English: ___.",
+      "answer": "a",
+      "options": [
+        "living room",
+        "dining room",
+        "hall"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (غرفة المعيشة) معناها living room. dining room غرفة الطعام."
+    },
+    {
+      "id": 12,
+      "type": "MCQ",
+      "prompt": "Where is the fridge? — It's in the ___.",
+      "answer": "b",
+      "options": [
+        "bedroom",
+        "kitchen",
+        "bathroom"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "التلاجة (fridge) بتبقى في المطبخ (kitchen). غرفة النوم والحمام مش مكانها."
+    },
+    {
+      "id": 13,
+      "type": "MCQ",
+      "prompt": "Where is the sofa? — It's in the ___.",
+      "answer": "a",
+      "options": [
+        "living room",
+        "kitchen",
+        "garden"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكنبة (sofa) بتبقى في غرفة المعيشة (living room). المطبخ والحديقة مش مكانها."
+    },
+    {
+      "id": 14,
+      "type": "MCQ",
+      "prompt": "The TV is ___ the living room.",
+      "answer": "a",
+      "options": [
+        "in",
+        "on",
+        "under"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنقول in the living room يعني جوه الغرفة. on فوق وunder تحت."
+    },
+    {
+      "id": 15,
+      "type": "MCQ",
+      "prompt": "\"شرفة\" in English: ___.",
+      "answer": "b",
+      "options": [
+        "hall",
+        "balcony",
+        "garden"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (شرفة) معناها balcony. hall صالة وgarden حديقة."
+    },
+    {
+      "id": 16,
+      "type": "MCQ",
+      "prompt": "We enter the house from the ___.",
+      "answer": "a",
+      "options": [
+        "hall",
+        "bathroom",
+        "bedroom"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بندخل البيت من الصالة (hall). الحمام وغرفة النوم جوه البيت."
+    },
+    {
+      "id": 17,
+      "type": "MCQ",
+      "prompt": "\"There is\" تُستخدم مع ___.",
+      "answer": "a",
+      "options": [
+        "المفرد",
+        "الجمع",
+        "الأفعال"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "There is بنستخدمها مع الشيء المفرد (واحد). للجمع بنستخدم There are."
+    },
+    {
+      "id": 18,
+      "type": "MCQ",
+      "prompt": "___ is the table? — In the dining room.",
+      "answer": "b",
+      "options": [
+        "What",
+        "Where",
+        "Who"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "السؤال عن المكان: Where is the table؟ والإجابة In the dining room. What بتسأل عن الحاجة وWho عن الشخص."
+    },
+    {
+      "id": 19,
+      "type": "MCQ",
+      "prompt": "I stand on the ___ and look at the cars in the street.",
+      "answer": "b",
+      "options": [
+        "bathroom",
+        "balcony",
+        "kitchen"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنقف في البلكونة (balcony) ونشوف العربيات في الشارع. الحمام والمطبخ مفيهم منظر للشارع."
+    },
+    {
+      "id": 20,
+      "type": "MCQ",
+      "prompt": "My house ___ three rooms.",
+      "answer": "b",
+      "options": [
+        "have",
+        "has",
+        "is"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "My house شيء مفرد (It)، فنقول has. have بتيجي مع I وYou وWe وThey."
+    },
+    {
+      "id": 21,
+      "type": "COMPLETE",
+      "prompt": "Mom cooks in the ___.",
+      "answer": "kitchen",
+      "models": [
+        "kitchen"
+      ],
+      "wordbox": [
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "living room",
+        "dining room",
+        "garden",
+        "hall",
+        "balcony",
+        "is",
+        "in"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الأم بتطبخ في المطبخ: kitchen."
+    },
+    {
+      "id": 22,
+      "type": "COMPLETE",
+      "prompt": "I sleep in my ___.",
+      "answer": "bedroom",
+      "models": [
+        "bedroom"
+      ],
+      "wordbox": [
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "living room",
+        "dining room",
+        "garden",
+        "hall",
+        "balcony",
+        "is",
+        "in"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنام في أوضة نومي: bedroom. my معناها بتاعي، فنقول my bedroom."
+    },
+    {
+      "id": 23,
+      "type": "COMPLETE",
+      "prompt": "We take a shower in the ___.",
+      "answer": "bathroom",
+      "models": [
+        "bathroom"
+      ],
+      "wordbox": [
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "living room",
+        "dining room",
+        "garden",
+        "hall",
+        "balcony",
+        "is",
+        "in"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بناخد دش في الحمام: bathroom."
+    },
+    {
+      "id": 24,
+      "type": "COMPLETE",
+      "prompt": "Grandma sits in the ___. (غرفة المعيشة)",
+      "answer": "living room",
+      "models": [
+        "living room"
+      ],
+      "wordbox": [
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "living room",
+        "dining room",
+        "garden",
+        "hall",
+        "balcony",
+        "is",
+        "in"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (غرفة المعيشة) معناها living room، وهي مكان قعدة الجدة."
+    },
+    {
+      "id": 25,
+      "type": "COMPLETE",
+      "prompt": "We have lunch in the ___. (غرفة الطعام)",
+      "answer": "dining room",
+      "models": [
+        "dining room"
+      ],
+      "wordbox": [
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "living room",
+        "dining room",
+        "garden",
+        "hall",
+        "balcony",
+        "is",
+        "in"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (غرفة الطعام) معناها dining room. بنتغدى فيها."
+    },
+    {
+      "id": 26,
+      "type": "COMPLETE",
+      "prompt": "The cat plays in the ___. (حديقة)",
+      "answer": "garden",
+      "models": [
+        "garden"
+      ],
+      "wordbox": [
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "living room",
+        "dining room",
+        "garden",
+        "hall",
+        "balcony",
+        "is",
+        "in"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (حديقة) معناها garden، والقطة بتلعب فيها."
+    },
+    {
+      "id": 27,
+      "type": "COMPLETE",
+      "prompt": "There ___ a TV in my room.",
+      "answer": "is",
+      "models": [
+        "is"
+      ],
+      "wordbox": [
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "living room",
+        "dining room",
+        "garden",
+        "hall",
+        "balcony",
+        "is",
+        "in"
+      ],
+      "grading": "closed",
+      "explanation_ar": "a TV شيء واحد، فنقول There is. are للجمع."
+    },
+    {
+      "id": 28,
+      "type": "COMPLETE",
+      "prompt": "The table is ___ the dining room.",
+      "answer": "in",
+      "models": [
+        "in"
+      ],
+      "wordbox": [
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "living room",
+        "dining room",
+        "garden",
+        "hall",
+        "balcony",
+        "is",
+        "in"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنقول in the dining room يعني جوه الغرفة. in بتيجي مع الأماكن المقفولة."
+    },
+    {
+      "id": 29,
+      "type": "COMPLETE",
+      "prompt": "I read on the ___ in the morning.",
+      "answer": "balcony",
+      "models": [
+        "balcony"
+      ],
+      "wordbox": [
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "living room",
+        "dining room",
+        "garden",
+        "hall",
+        "balcony",
+        "is",
+        "in"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنقرا في البلكونة (balcony) الصبح. بلكونة مكان بنقعد فيه."
+    },
+    {
+      "id": 30,
+      "type": "COMPLETE",
+      "prompt": "Our shoes are in the ___. (صالة)",
+      "answer": "hall",
+      "models": [
+        "hall"
+      ],
+      "wordbox": [
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "living room",
+        "dining room",
+        "garden",
+        "hall",
+        "balcony",
+        "is",
+        "in"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (صالة) معناها hall، وبنسيب الجزم في الصالة."
+    },
+    {
+      "id": 31,
+      "type": "LETTER",
+      "prompt": "_itchen (مطبخ)",
+      "answer": "k",
+      "models": [
+        "k"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو k، فتكتمل الكلمة: kitchen. معناها مطبخ."
+    },
+    {
+      "id": 32,
+      "type": "LETTER",
+      "prompt": "_edroom (غرفة نوم)",
+      "answer": "b",
+      "models": [
+        "b"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو b، فتكتمل الكلمة: bedroom. معناها غرفة نوم."
+    },
+    {
+      "id": 33,
+      "type": "LETTER",
+      "prompt": "_athroom (حمّام)",
+      "answer": "b",
+      "models": [
+        "b"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو b، فتكتمل الكلمة: bathroom. معناها حمّام."
+    },
+    {
+      "id": 34,
+      "type": "LETTER",
+      "prompt": "_arden (حديقة)",
+      "answer": "g",
+      "models": [
+        "g"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو g، فتكتمل الكلمة: garden. معناها حديقة."
+    },
+    {
+      "id": 35,
+      "type": "LETTER",
+      "prompt": "_all (صالة)",
+      "answer": "h",
+      "models": [
+        "h"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو h، فتكتمل الكلمة: hall. معناها صالة."
+    },
+    {
+      "id": 36,
+      "type": "LETTER",
+      "prompt": "_alcony (شرفة)",
+      "answer": "b",
+      "models": [
+        "b"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو b، فتكتمل الكلمة: balcony. معناها شرفة."
+    },
+    {
+      "id": 37,
+      "type": "LETTER",
+      "prompt": "_iving (معيشة)",
+      "answer": "l",
+      "models": [
+        "l"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو l، فتكتمل الكلمة: living. معناها معيشة."
+    },
+    {
+      "id": 38,
+      "type": "LETTER",
+      "prompt": "_ining (طعام)",
+      "answer": "d",
+      "models": [
+        "d"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو d، فتكتمل الكلمة: dining. معناها طعام."
+    },
+    {
+      "id": 39,
+      "type": "REORDER",
+      "prompt": "a – is – There – kitchen.",
+      "answer": "There is a kitchen.",
+      "models": [
+        "There is a kitchen."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: There is a kitchen. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 40,
+      "type": "REORDER",
+      "prompt": "a – is – There – room. – bed – my – in",
+      "answer": "There is a bed in my room.",
+      "models": [
+        "There is a bed in my room."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: There is a bed in my room. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 41,
+      "type": "REORDER",
+      "prompt": "is – the – Where – table?",
+      "answer": "Where is the table?",
+      "models": [
+        "Where is the table?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Where is the table? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 42,
+      "type": "REORDER",
+      "prompt": "in – is – table – dining – The – room. – the",
+      "answer": "The table is in the dining room.",
+      "models": [
+        "The table is in the dining room."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: The table is in the dining room. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 43,
+      "type": "REORDER",
+      "prompt": "is – kitchen – Mom – the. – in",
+      "answer": "Mom is in the kitchen.",
+      "models": [
+        "Mom is in the kitchen."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Mom is in the kitchen. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 44,
+      "type": "REORDER",
+      "prompt": "house. – My – big – is",
+      "answer": "My house is big.",
+      "models": [
+        "My house is big."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: My house is big. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 45,
+      "type": "MATCH",
+      "prompt": "\"مطبخ\"",
+      "answer": "kitchen",
+      "models": [
+        "kitchen"
+      ],
+      "grading": "closed",
+      "options": [
+        "kitchen",
+        "bathroom",
+        "garden"
+      ],
+      "answer_index": 0,
+      "explanation_ar": "kitchen معناها مطبخ، ونطبخ فيه الأكل."
+    },
+    {
+      "id": 46,
+      "type": "MATCH",
+      "prompt": "\"حمّام\"",
+      "answer": "bathroom",
+      "models": [
+        "bathroom"
+      ],
+      "grading": "closed",
+      "options": [
+        "kitchen",
+        "bathroom",
+        "garden"
+      ],
+      "answer_index": 1,
+      "explanation_ar": "bathroom معناها حمام، ونغسل فيه إيدينا."
+    },
+    {
+      "id": 47,
+      "type": "MATCH",
+      "prompt": "\"حديقة\"",
+      "answer": "garden",
+      "models": [
+        "garden"
+      ],
+      "grading": "closed",
+      "options": [
+        "kitchen",
+        "bathroom",
+        "garden"
+      ],
+      "answer_index": 2,
+      "explanation_ar": "garden معناها حديقة، وفيها ورد وشجر."
+    },
+    {
+      "id": 48,
+      "type": "WRITE",
+      "prompt": "(bed / bedroom)",
+      "answer": "There is a bed in the bedroom.",
+      "models": [
+        "There is a bed in the bedroom."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الكلمات: bed وbedroom. نقول: There is a bed in the bedroom. There is للشيء المفرد، وin للمكان."
+    },
+    {
+      "id": 49,
+      "type": "WRITE",
+      "prompt": "(fridge / kitchen)",
+      "answer": "The fridge is in the kitchen.",
+      "models": [
+        "The fridge is in the kitchen."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الكلمات: fridge وkitchen. نقول: The fridge is in the kitchen. نبدأ بـ The ونستخدم is مع شيء واحد."
+    },
+    {
+      "id": 50,
+      "type": "WRITE",
+      "prompt": "(house / big)",
+      "answer": "My house is big.",
+      "models": [
+        "My house is big."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الكلمات: house وbig. نقول: My house is big. بنقول My بدل the، وis بين house وbig."
+    },
+    {
+      "id": 51,
+      "type": "COPY",
+      "prompt": "My bedroom is clean.",
+      "answer": "My bedroom is clean.",
+      "models": [
+        "My bedroom is clean."
+      ],
+      "grading": "closed",
+      "explanation_ar": "المطلوب تنسخ الجملة بالظبط: My bedroom is clean. بنفس الحروف الكبيرة والنقطة. اتأكد من كل كلمة وإنها مكتوبة صح."
+    }
+  ],
+  "version": "eed7c0d5d4df"
+}

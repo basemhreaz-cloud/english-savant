@@ -1,1 +1,768 @@
-{"grade":"p2","id":3,"title":"Classroom Actions & Routines","questions":[{"id":1,"type":"MCQ","prompt":"___ up, please. (قف)","answer":"b","options":["Sit","Stand","Sing"],"answer_index":1,"grading":"closed"},{"id":2,"type":"MCQ","prompt":"___ your book. (افتح)","answer":"b","options":["Close","Open","Clean"],"answer_index":1,"grading":"closed"},{"id":3,"type":"MCQ","prompt":"___ your hand to speak.","answer":"a","options":["Raise","Play","Draw"],"answer_index":0,"grading":"closed"},{"id":4,"type":"MCQ","prompt":"I ___ a picture with my crayons.","answer":"b","options":["read","draw","sing"],"answer_index":1,"grading":"closed"},{"id":5,"type":"MCQ","prompt":"I ___ a story at night. (اقرأ)","answer":"a","options":["read","write","clean"],"answer_index":0,"grading":"closed"},{"id":6,"type":"MCQ","prompt":"We ___ our classroom on Friday.","answer":"b","options":["play","clean","sing"],"answer_index":1,"grading":"closed"},{"id":7,"type":"MCQ","prompt":"___ down, please. (اجلس)","answer":"a","options":["Sit","Stand","Open"],"answer_index":0,"grading":"closed"},{"id":8,"type":"MCQ","prompt":"I ___ my name on the paper. (اكتب)","answer":"a","options":["write","read","play"],"answer_index":0,"grading":"closed"},{"id":9,"type":"MCQ","prompt":"The girls ___ a song in class.","answer":"a","options":["sing","draw","clean"],"answer_index":0,"grading":"closed"},{"id":10,"type":"MCQ","prompt":"What do you ___? — I draw.","answer":"b","options":["does","do","are"],"answer_index":1,"grading":"closed"},{"id":11,"type":"MCQ","prompt":"I ___ with my friends after school. (العب)","answer":"a","options":["play","sit","open"],"answer_index":0,"grading":"closed"},{"id":12,"type":"MCQ","prompt":"\"أغلق الكتاب\" in English: ___.","answer":"b","options":["Open your book","Close your book","Read your book"],"answer_index":1,"grading":"closed"},{"id":13,"type":"MCQ","prompt":"\"نظّف مكتبك\" in English: ___.","answer":"a","options":["Clean your desk","Close your desk","Color your desk"],"answer_index":0,"grading":"closed"},{"id":14,"type":"MCQ","prompt":"I ___ my picture with red and blue.","answer":"a","options":["color","read","sing"],"answer_index":0,"grading":"closed"},{"id":15,"type":"MCQ","prompt":"Don't ___ on the desk. Sit on the chair. (قِف)","answer":"b","options":["sit","stand","write"],"answer_index":1,"grading":"closed"},{"id":16,"type":"MCQ","prompt":"We ___ English every day. (نقرأ)","answer":"b","options":["sing","read","close"],"answer_index":1,"grading":"closed"},{"id":17,"type":"MCQ","prompt":"\"Open the door\" means ___.","answer":"b","options":["أغلق الباب","افتح الباب","نظّف الباب"],"answer_index":1,"grading":"closed"},{"id":18,"type":"MCQ","prompt":"I ___ my hands up to answer. (one word)","answer":"a","options":["raise","sit","draw"],"answer_index":0,"grading":"closed"},{"id":19,"type":"MCQ","prompt":"Be quiet and ___ your book. (أغلق)","answer":"b","options":["open","close","read"],"answer_index":1,"grading":"closed"},{"id":20,"type":"MCQ","prompt":"The teacher says: \"___ a circle.\" (ارسم)","answer":"c","options":["Write","Read","Draw"],"answer_index":2,"grading":"closed"},{"id":21,"type":"COMPLETE","prompt":"___ up and say hello. (قِف)","answer":"Stand","models":["Stand"],"wordbox":["write","draw","read","color","clean","play","sit","stand","raise","sing"],"grading":"closed"},{"id":22,"type":"COMPLETE","prompt":"___ down on your chair.","answer":"Sit","models":["Sit"],"wordbox":["write","draw","read","color","clean","play","sit","stand","raise","sing"],"grading":"closed"},{"id":23,"type":"COMPLETE","prompt":"I ___ a nice picture with my pencil. (ارسم)","answer":"draw","models":["draw"],"wordbox":["write","draw","read","color","clean","play","sit","stand","raise","sing"],"grading":"closed"},{"id":24,"type":"COMPLETE","prompt":"I ___ my name in my book. (اكتب)","answer":"write","models":["write"],"wordbox":["write","draw","read","color","clean","play","sit","stand","raise","sing"],"grading":"closed"},{"id":25,"type":"COMPLETE","prompt":"We ___ stories in English class. (نقرأ)","answer":"read","models":["read"],"wordbox":["write","draw","read","color","clean","play","sit","stand","raise","sing"],"grading":"closed"},{"id":26,"type":"COMPLETE","prompt":"___ your hand before you speak.","answer":"Raise","models":["Raise"],"wordbox":["write","draw","read","color","clean","play","sit","stand","raise","sing"],"grading":"closed"},{"id":27,"type":"COMPLETE","prompt":"I ___ my room on Friday.","answer":"clean","models":["clean"],"wordbox":["write","draw","read","color","clean","play","sit","stand","raise","sing"],"grading":"closed"},{"id":28,"type":"COMPLETE","prompt":"We ___ a song for mom.","answer":"sing","models":["sing"],"wordbox":["write","draw","read","color","clean","play","sit","stand","raise","sing"],"grading":"closed"},{"id":29,"type":"COMPLETE","prompt":"I ___ football with my brother.","answer":"play","models":["play"],"wordbox":["write","draw","read","color","clean","play","sit","stand","raise","sing"],"grading":"closed"},{"id":30,"type":"COMPLETE","prompt":"___ the picture yellow and blue.","answer":"Color","models":["Color"],"wordbox":["write","draw","read","color","clean","play","sit","stand","raise","sing"],"grading":"closed"},{"id":31,"type":"LETTER","prompt":"_rite (اكتب)","answer":"w","models":["w"],"grading":"closed"},{"id":32,"type":"LETTER","prompt":"_raw (ارسم)","answer":"d","models":["d"],"grading":"closed"},{"id":33,"type":"LETTER","prompt":"_ead (اقرأ)","answer":"r","models":["r"],"grading":"closed"},{"id":34,"type":"LETTER","prompt":"_ing (غنِّ)","answer":"s","models":["s"],"grading":"closed"},{"id":35,"type":"LETTER","prompt":"_lay (العب)","answer":"p","models":["p"],"grading":"closed"},{"id":36,"type":"LETTER","prompt":"_it (اجلس)","answer":"s","models":["s"],"grading":"closed"},{"id":37,"type":"LETTER","prompt":"_lean (نظّف)","answer":"c","models":["c"],"grading":"closed"},{"id":38,"type":"LETTER","prompt":"_pen (افتح)","answer":"o","models":["o"],"grading":"closed"},{"id":39,"type":"REORDER","prompt":"up. – Stand","answer":"Stand up.","models":["Stand up."],"grading":"model_review"},{"id":40,"type":"REORDER","prompt":"your – Open – book.","answer":"Open your book.","models":["Open your book."],"grading":"model_review"},{"id":41,"type":"REORDER","prompt":"read – I – book. – a","answer":"I read a book.","models":["I read a book."],"grading":"model_review"},{"id":42,"type":"REORDER","prompt":"you – What – do? – do","answer":"What do you do?","models":["What do you do?"],"grading":"model_review"},{"id":43,"type":"REORDER","prompt":"hand. – Raise – your","answer":"Raise your hand.","models":["Raise your hand."],"grading":"model_review"},{"id":44,"type":"REORDER","prompt":"draw – I – picture. – a","answer":"I draw a picture.","models":["I draw a picture."],"grading":"model_review"},{"id":45,"type":"MATCH","prompt":"\"انهض\"","answer":"Stand up.","models":["Stand up."],"grading":"closed","options":["Stand up.","Sit down.","Raise your hand."],"answer_index":0},{"id":46,"type":"MATCH","prompt":"\"اجلس\"","answer":"Sit down.","models":["Sit down."],"grading":"closed","options":["Stand up.","Sit down.","Raise your hand."],"answer_index":1},{"id":47,"type":"MATCH","prompt":"\"ارفع يدك\"","answer":"Raise your hand.","models":["Raise your hand."],"grading":"closed","options":["Stand up.","Sit down.","Raise your hand."],"answer_index":2},{"id":48,"type":"WRITE","prompt":"(read / story)","answer":"I read a story.","models":["I read a story."],"grading":"model_review"},{"id":49,"type":"WRITE","prompt":"(draw / picture)","answer":"I draw a picture.","models":["I draw a picture."],"grading":"model_review"},{"id":50,"type":"WRITE","prompt":"(open / door)","answer":"Open the door.","models":["Open the door.","I open the door."],"grading":"model_review"},{"id":51,"type":"COPY","prompt":"Open the door, please.","answer":"Open the door, please.","models":["Open the door, please."],"grading":"closed"}],"version":"efc723253bbf"}
+{
+  "grade": "p2",
+  "id": 3,
+  "title": "Classroom Actions & Routines",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MCQ",
+      "prompt": "___ up, please. (قف)",
+      "answer": "b",
+      "options": [
+        "Sit",
+        "Stand",
+        "Sing"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (قف) معناها Stand. Sit معناها اجلس وSing معناها غنّي."
+    },
+    {
+      "id": 2,
+      "type": "MCQ",
+      "prompt": "___ your book. (افتح)",
+      "answer": "b",
+      "options": [
+        "Close",
+        "Open",
+        "Clean"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (افتح) معناها Open. Close معناها أغلق وClean معناها نظّف."
+    },
+    {
+      "id": 3,
+      "type": "MCQ",
+      "prompt": "___ your hand to speak.",
+      "answer": "a",
+      "options": [
+        "Raise",
+        "Play",
+        "Draw"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنرفع إيدنا عشان نتكلم: Raise your hand. Play وDraw مش بنعملهم في الإيد."
+    },
+    {
+      "id": 4,
+      "type": "MCQ",
+      "prompt": "I ___ a picture with my crayons.",
+      "answer": "b",
+      "options": [
+        "read",
+        "draw",
+        "sing"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنرسم صورة بالألوان: draw a picture. read معناها نقرا وsing معناها نغني."
+    },
+    {
+      "id": 5,
+      "type": "MCQ",
+      "prompt": "I ___ a story at night. (اقرأ)",
+      "answer": "a",
+      "options": [
+        "read",
+        "write",
+        "clean"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (اقرأ) معناها read، وبنقرا قصة بالليل. write معناها نكتب."
+    },
+    {
+      "id": 6,
+      "type": "MCQ",
+      "prompt": "We ___ our classroom on Friday.",
+      "answer": "b",
+      "options": [
+        "play",
+        "clean",
+        "sing"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بننضف الفصل: clean our classroom. play وsing مش مناسبين لتنضيف المكان."
+    },
+    {
+      "id": 7,
+      "type": "MCQ",
+      "prompt": "___ down, please. (اجلس)",
+      "answer": "a",
+      "options": [
+        "Sit",
+        "Stand",
+        "Open"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (اجلس) معناها Sit. Stand معناها قف وOpen معناها افتح."
+    },
+    {
+      "id": 8,
+      "type": "MCQ",
+      "prompt": "I ___ my name on the paper. (اكتب)",
+      "answer": "a",
+      "options": [
+        "write",
+        "read",
+        "play"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (اكتب) معناها write، وبنكتب الاسم على الورقة. read معناها نقرا."
+    },
+    {
+      "id": 9,
+      "type": "MCQ",
+      "prompt": "The girls ___ a song in class.",
+      "answer": "a",
+      "options": [
+        "sing",
+        "draw",
+        "clean"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "البنات بيغنوا أغنية: sing a song. بنقول sing مع song."
+    },
+    {
+      "id": 10,
+      "type": "MCQ",
+      "prompt": "What do you ___? — I draw.",
+      "answer": "b",
+      "options": [
+        "does",
+        "do",
+        "are"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "السؤال What do you do؟ بيستخدم do مع you. does بتيجي مع He وShe، وare مش مناسبة هنا."
+    },
+    {
+      "id": 11,
+      "type": "MCQ",
+      "prompt": "I ___ with my friends after school. (العب)",
+      "answer": "a",
+      "options": [
+        "play",
+        "sit",
+        "open"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (العب) معناها play، وبنلعب مع أصحابنا بعد المدرسة."
+    },
+    {
+      "id": 12,
+      "type": "MCQ",
+      "prompt": "\"أغلق الكتاب\" in English: ___.",
+      "answer": "b",
+      "options": [
+        "Open your book",
+        "Close your book",
+        "Read your book"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "أغلق الكتاب بالإنجليزي Close your book. Open معناها افتح، وRead معناها اقرا."
+    },
+    {
+      "id": 13,
+      "type": "MCQ",
+      "prompt": "\"نظّف مكتبك\" in English: ___.",
+      "answer": "a",
+      "options": [
+        "Clean your desk",
+        "Close your desk",
+        "Color your desk"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "نظّف مكتبك بالإنجليزي Clean your desk. Close معناها أغلق، وColor معناها لوّن."
+    },
+    {
+      "id": 14,
+      "type": "MCQ",
+      "prompt": "I ___ my picture with red and blue.",
+      "answer": "a",
+      "options": [
+        "color",
+        "read",
+        "sing"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنلوّن الصورة بالأحمر والأزرق: color my picture. read وsing مش بنعملهم بالألوان."
+    },
+    {
+      "id": 15,
+      "type": "MCQ",
+      "prompt": "Don't ___ on the desk. Sit on the chair. (قِف)",
+      "answer": "b",
+      "options": [
+        "sit",
+        "stand",
+        "write"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الجملة بتقول متقفش على المكتب واقعد على الكرسي. الكلمة العربية (قِف) معناها stand."
+    },
+    {
+      "id": 16,
+      "type": "MCQ",
+      "prompt": "We ___ English every day. (نقرأ)",
+      "answer": "b",
+      "options": [
+        "sing",
+        "read",
+        "close"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (نقرأ) معناها read: We read English every day."
+    },
+    {
+      "id": 17,
+      "type": "MCQ",
+      "prompt": "\"Open the door\" means ___.",
+      "answer": "b",
+      "options": [
+        "أغلق الباب",
+        "افتح الباب",
+        "نظّف الباب"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "Open the door معناها افتح الباب. Open بتعني افتح، وClose هي اللي بتعني أغلق."
+    },
+    {
+      "id": 18,
+      "type": "MCQ",
+      "prompt": "I ___ my hands up to answer. (one word)",
+      "answer": "a",
+      "options": [
+        "raise",
+        "sit",
+        "draw"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنرفع إيدينا عشان نجاوب: raise my hands up. sit معناها أقعد وdraw معناها أرسم."
+    },
+    {
+      "id": 19,
+      "type": "MCQ",
+      "prompt": "Be quiet and ___ your book. (أغلق)",
+      "answer": "b",
+      "options": [
+        "open",
+        "close",
+        "read"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (أغلق) معناها close. open عكسها، وread معناها اقرا."
+    },
+    {
+      "id": 20,
+      "type": "MCQ",
+      "prompt": "The teacher says: \"___ a circle.\" (ارسم)",
+      "answer": "c",
+      "options": [
+        "Write",
+        "Read",
+        "Draw"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (ارسم) معناها Draw، وبنرسم دايرة. Write معناها اكتب وRead معناها اقرا."
+    },
+    {
+      "id": 21,
+      "type": "COMPLETE",
+      "prompt": "___ up and say hello. (قِف)",
+      "answer": "Stand",
+      "models": [
+        "Stand"
+      ],
+      "wordbox": [
+        "write",
+        "draw",
+        "read",
+        "color",
+        "clean",
+        "play",
+        "sit",
+        "stand",
+        "raise",
+        "sing"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (قِف) معناها Stand، وبنبدأها بحرف كبير لأنها أول الجملة."
+    },
+    {
+      "id": 22,
+      "type": "COMPLETE",
+      "prompt": "___ down on your chair.",
+      "answer": "Sit",
+      "models": [
+        "Sit"
+      ],
+      "wordbox": [
+        "write",
+        "draw",
+        "read",
+        "color",
+        "clean",
+        "play",
+        "sit",
+        "stand",
+        "raise",
+        "sing"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنقعد على الكرسي: Sit down. الكلمة في أول الجملة فبنكتبها بحرف كبير."
+    },
+    {
+      "id": 23,
+      "type": "COMPLETE",
+      "prompt": "I ___ a nice picture with my pencil. (ارسم)",
+      "answer": "draw",
+      "models": [
+        "draw"
+      ],
+      "wordbox": [
+        "write",
+        "draw",
+        "read",
+        "color",
+        "clean",
+        "play",
+        "sit",
+        "stand",
+        "raise",
+        "sing"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (ارسم) معناها draw، وبنرسم بالقلم الرصاص."
+    },
+    {
+      "id": 24,
+      "type": "COMPLETE",
+      "prompt": "I ___ my name in my book. (اكتب)",
+      "answer": "write",
+      "models": [
+        "write"
+      ],
+      "wordbox": [
+        "write",
+        "draw",
+        "read",
+        "color",
+        "clean",
+        "play",
+        "sit",
+        "stand",
+        "raise",
+        "sing"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (اكتب) معناها write، وبنكتب الاسم في الكتاب."
+    },
+    {
+      "id": 25,
+      "type": "COMPLETE",
+      "prompt": "We ___ stories in English class. (نقرأ)",
+      "answer": "read",
+      "models": [
+        "read"
+      ],
+      "wordbox": [
+        "write",
+        "draw",
+        "read",
+        "color",
+        "clean",
+        "play",
+        "sit",
+        "stand",
+        "raise",
+        "sing"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (نقرأ) معناها read، وبنقرا قصص في حصة الإنجليزي."
+    },
+    {
+      "id": 26,
+      "type": "COMPLETE",
+      "prompt": "___ your hand before you speak.",
+      "answer": "Raise",
+      "models": [
+        "Raise"
+      ],
+      "wordbox": [
+        "write",
+        "draw",
+        "read",
+        "color",
+        "clean",
+        "play",
+        "sit",
+        "stand",
+        "raise",
+        "sing"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنرفع إيدنا قبل ما نتكلم: Raise your hand. الكلمة أول الجملة فبحرف كبير."
+    },
+    {
+      "id": 27,
+      "type": "COMPLETE",
+      "prompt": "I ___ my room on Friday.",
+      "answer": "clean",
+      "models": [
+        "clean"
+      ],
+      "wordbox": [
+        "write",
+        "draw",
+        "read",
+        "color",
+        "clean",
+        "play",
+        "sit",
+        "stand",
+        "raise",
+        "sing"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بننضف الأوضة يوم الجمعة: clean my room."
+    },
+    {
+      "id": 28,
+      "type": "COMPLETE",
+      "prompt": "We ___ a song for mom.",
+      "answer": "sing",
+      "models": [
+        "sing"
+      ],
+      "wordbox": [
+        "write",
+        "draw",
+        "read",
+        "color",
+        "clean",
+        "play",
+        "sit",
+        "stand",
+        "raise",
+        "sing"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنغني أغنية لماما: sing a song."
+    },
+    {
+      "id": 29,
+      "type": "COMPLETE",
+      "prompt": "I ___ football with my brother.",
+      "answer": "play",
+      "models": [
+        "play"
+      ],
+      "wordbox": [
+        "write",
+        "draw",
+        "read",
+        "color",
+        "clean",
+        "play",
+        "sit",
+        "stand",
+        "raise",
+        "sing"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنلعب كورة مع أخويا: play football."
+    },
+    {
+      "id": 30,
+      "type": "COMPLETE",
+      "prompt": "___ the picture yellow and blue.",
+      "answer": "Color",
+      "models": [
+        "Color"
+      ],
+      "wordbox": [
+        "write",
+        "draw",
+        "read",
+        "color",
+        "clean",
+        "play",
+        "sit",
+        "stand",
+        "raise",
+        "sing"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنلوّن الصورة بالأصفر والأزرق: Color the picture. الكلمة أول الجملة فبحرف كبير."
+    },
+    {
+      "id": 31,
+      "type": "LETTER",
+      "prompt": "_rite (اكتب)",
+      "answer": "w",
+      "models": [
+        "w"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو w، فتكتمل الكلمة: write. معناها اكتب."
+    },
+    {
+      "id": 32,
+      "type": "LETTER",
+      "prompt": "_raw (ارسم)",
+      "answer": "d",
+      "models": [
+        "d"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو d، فتكتمل الكلمة: draw. معناها ارسم."
+    },
+    {
+      "id": 33,
+      "type": "LETTER",
+      "prompt": "_ead (اقرأ)",
+      "answer": "r",
+      "models": [
+        "r"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو r، فتكتمل الكلمة: read. معناها اقرأ."
+    },
+    {
+      "id": 34,
+      "type": "LETTER",
+      "prompt": "_ing (غنِّ)",
+      "answer": "s",
+      "models": [
+        "s"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو s، فتكتمل الكلمة: sing. معناها غنِّ."
+    },
+    {
+      "id": 35,
+      "type": "LETTER",
+      "prompt": "_lay (العب)",
+      "answer": "p",
+      "models": [
+        "p"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو p، فتكتمل الكلمة: play. معناها العب."
+    },
+    {
+      "id": 36,
+      "type": "LETTER",
+      "prompt": "_it (اجلس)",
+      "answer": "s",
+      "models": [
+        "s"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو s، فتكتمل الكلمة: sit. معناها اجلس."
+    },
+    {
+      "id": 37,
+      "type": "LETTER",
+      "prompt": "_lean (نظّف)",
+      "answer": "c",
+      "models": [
+        "c"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو c، فتكتمل الكلمة: clean. معناها نظّف."
+    },
+    {
+      "id": 38,
+      "type": "LETTER",
+      "prompt": "_pen (افتح)",
+      "answer": "o",
+      "models": [
+        "o"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحرف الناقص هو o، فتكتمل الكلمة: open. معناها افتح."
+    },
+    {
+      "id": 39,
+      "type": "REORDER",
+      "prompt": "up. – Stand",
+      "answer": "Stand up.",
+      "models": [
+        "Stand up."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Stand up. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 40,
+      "type": "REORDER",
+      "prompt": "your – Open – book.",
+      "answer": "Open your book.",
+      "models": [
+        "Open your book."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Open your book. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 41,
+      "type": "REORDER",
+      "prompt": "read – I – book. – a",
+      "answer": "I read a book.",
+      "models": [
+        "I read a book."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: I read a book. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 42,
+      "type": "REORDER",
+      "prompt": "you – What – do? – do",
+      "answer": "What do you do?",
+      "models": [
+        "What do you do?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: What do you do? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 43,
+      "type": "REORDER",
+      "prompt": "hand. – Raise – your",
+      "answer": "Raise your hand.",
+      "models": [
+        "Raise your hand."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Raise your hand. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 44,
+      "type": "REORDER",
+      "prompt": "draw – I – picture. – a",
+      "answer": "I draw a picture.",
+      "models": [
+        "I draw a picture."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: I draw a picture. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 45,
+      "type": "MATCH",
+      "prompt": "\"انهض\"",
+      "answer": "Stand up.",
+      "models": [
+        "Stand up."
+      ],
+      "grading": "closed",
+      "options": [
+        "Stand up.",
+        "Sit down.",
+        "Raise your hand."
+      ],
+      "answer_index": 0,
+      "explanation_ar": "Stand up معناها انهض، يعني قف على رجلك."
+    },
+    {
+      "id": 46,
+      "type": "MATCH",
+      "prompt": "\"اجلس\"",
+      "answer": "Sit down.",
+      "models": [
+        "Sit down."
+      ],
+      "grading": "closed",
+      "options": [
+        "Stand up.",
+        "Sit down.",
+        "Raise your hand."
+      ],
+      "answer_index": 1,
+      "explanation_ar": "Sit down معناها اجلس، يعني اقعد على الكرسي."
+    },
+    {
+      "id": 47,
+      "type": "MATCH",
+      "prompt": "\"ارفع يدك\"",
+      "answer": "Raise your hand.",
+      "models": [
+        "Raise your hand."
+      ],
+      "grading": "closed",
+      "options": [
+        "Stand up.",
+        "Sit down.",
+        "Raise your hand."
+      ],
+      "answer_index": 2,
+      "explanation_ar": "Raise your hand معناها ارفع يدك، وبنقولها لما نحب نتكلم."
+    },
+    {
+      "id": 48,
+      "type": "WRITE",
+      "prompt": "(read / story)",
+      "answer": "I read a story.",
+      "models": [
+        "I read a story."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الكلمات: read وstory. نبدأ بـ I وبعدها الفعل: I read a story. وكلمة story بتبدأ بصوت ساكن فنقول a."
+    },
+    {
+      "id": 49,
+      "type": "WRITE",
+      "prompt": "(draw / picture)",
+      "answer": "I draw a picture.",
+      "models": [
+        "I draw a picture."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الكلمات: draw وpicture. نقول: I draw a picture. الفاعل I وبعده الفعل ثم الشيء."
+    },
+    {
+      "id": 50,
+      "type": "WRITE",
+      "prompt": "(open / door)",
+      "answer": "Open the door.",
+      "models": [
+        "Open the door.",
+        "I open the door."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "دي جملة أمر بتبدأ بالفعل: Open the door. مفيش I في الأول، وبنكتب Open بحرف كبير."
+    },
+    {
+      "id": 51,
+      "type": "COPY",
+      "prompt": "Open the door, please.",
+      "answer": "Open the door, please.",
+      "models": [
+        "Open the door, please."
+      ],
+      "grading": "closed",
+      "explanation_ar": "المطلوب تنسخ الجملة بالظبط: Open the door, please. بنفس الحروف الكبيرة والنقطة. اتأكد من كل كلمة وإنها مكتوبة صح."
+    }
+  ],
+  "version": "efc723253bbf"
+}
