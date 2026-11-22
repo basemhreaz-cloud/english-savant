@@ -1380,6 +1380,22 @@
         "review_evidence": "content-signal-review"
       },
       "historical_flags": []
+    },
+    "picture-ar-w-desk": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-desk.mp3",
+      "sha256": "ae85e5c76521c046ccb5d448019f4e08d8150af38c3aa57ed94fe64ee0e53f04",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-desk": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-desk.mp3",
+      "sha256": "75233379bb93352e5c729018b91d9a2d1dcba251df035cf79eb359fca61d3a5b",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
     }
   },
   "coverage": {
