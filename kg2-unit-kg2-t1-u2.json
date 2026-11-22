@@ -1,5 +1,5 @@
 {
-  "version": "20261122-wordsforms1",
+  "version": "20261122-closure1",
   "options": {
     "requireVerified": true,
     "holdFlagged": true
@@ -101,6 +101,63 @@
           "img": "pics/t-shirt-blue.webp",
           "alt": "blue T-shirt",
           "ok": false
+        }
+      ]
+    },
+    {
+      "id": "k2u2-dress-colour",
+      "kind": "colour-pick",
+      "title_ar": "نختار الفستان الأحمر",
+      "help": "اسمع الجملة بالإنجليزي وبصّ على الفساتين. اختار اللون اللي اتقال. نفس الرسمة الأصلية بثلاثة ألوان، مش صور الكتاب. نجرّب تاني براحتنا ومن غير درجات.",
+      "prompt": {
+        "audio": "close-en-red-dress",
+        "text": "This is a red dress."
+      },
+      "requirePrompt": true,
+      "choice_pair": [
+        "ar-meaning-dress",
+        "en-word-dress"
+      ],
+      "choices": [
+        {
+          "img": "closure/dress-blue.webp",
+          "alt": "blue dress",
+          "ok": false
+        },
+        {
+          "img": "closure/dress-red.webp",
+          "alt": "red dress",
+          "ok": true
+        },
+        {
+          "img": "closure/dress-yellow.webp",
+          "alt": "yellow dress",
+          "ok": false
+        }
+      ],
+      "success_ar": "أحسنت! ده الفستان الأحمر. ✓"
+    },
+    {
+      "id": "k2u2-free-dress",
+      "kind": "free-colour",
+      "title_ar": "فستان بلون من اختيارك",
+      "help": "اختار لون للفستان واحكِ عنه مع شخص كبير. مفيش لون واحد صح، ومش مرتبط بولد أو بنت. الرسم بديل أصلي، والتغيير هنا لون الفستان كله، مش تلوين دقيق بالإصبع.",
+      "choices": [
+        {
+          "img": "pics/dress.webp",
+          "label_ar": "وردي"
+        },
+        {
+          "img": "closure/dress-red.webp",
+          "label_ar": "أحمر"
+        },
+        {
+          "img": "closure/dress-yellow.webp",
+          "label_ar": "أصفر"
+        },
+        {
+          "img": "closure/dress-blue.webp",
+          "label_ar": "أزرق"
         }
       ]
     },
@@ -371,7 +428,5 @@
       "instr": "ar-story-act"
     }
   ],
-  "held": [
-    "رسمة الألوان للفستان"
-  ]
+  "held": []
 }

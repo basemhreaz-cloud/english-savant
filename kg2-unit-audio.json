@@ -1,5 +1,5 @@
 {
-  "version": "20261122-wordsforms1",
+  "version": "20261122-closure1",
   "scope": "Checked whole-word, meaning, instruction and line clips. Not isolated phonemes.",
   "audio": {
     "ar-m-t-shirt": {
@@ -1394,6 +1394,515 @@
       "src": "assets/kg2/audio/next-en-head.mp3",
       "sha256": "63a4bdf4c14d0682ec1be87a705285e09468d362449b19dbe0bba21269fd8269",
       "verified": true
+    },
+    "close-lw-ar-dog": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-dog.mp3",
+      "sha256": "3579ff49a7d381e629f84e55fafe24e1fb822728d452ed4ac648e51bd2a70820",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-dog",
+      "historical_flags": [
+        "asr_unchecked"
+      ],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "close-lw-en-dog": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-dog.mp3",
+      "sha256": "b11ec933aa4d0831e7f9ba6d30719dcc994b355b14360f17a6142035017b0ae9",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle u3 aud-word-dog",
+      "historical_flags": [],
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      }
+    },
+    "close-lw-ar-school": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-school.mp3",
+      "sha256": "e507f4d96941eb9d8b838d5be7352c7e264d033fead0799c217c904ffc884c73",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-school",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": [
+        "asr_match"
+      ]
+    },
+    "close-lw-en-school": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-school.mp3",
+      "sha256": "7af076cf13154bb73b4e4319e9e2176b1231e34383cb3080ca6adf6ceb4a4851",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-school",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": []
+    },
+    "close-lw-ar-kite": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-ar-kite.mp3",
+      "sha256": "5053089bdffe2b8a7976d21a08f86d9ebdf82df2565c9b10d2ece55842ba148c",
+      "verified": true,
+      "language": "ar",
+      "scope": "letter-example-whole-word",
+      "source": "ar-m-kite",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": [
+        "asr_unchecked"
+      ]
+    },
+    "close-lw-en-kite": {
+      "type": "audio",
+      "src": "assets/kg1/letter-audio/lw-en-kite.mp3",
+      "sha256": "8474177c87981f1dcf46d49a8478eae5f2b05991d509fd867f15434b7bd3c4ce",
+      "verified": true,
+      "language": "en",
+      "scope": "letter-example-whole-word",
+      "source": "raw KG1 bundle review aud-word-kite",
+      "check": {
+        "method": "Paired contextual audio/transcript inspection, decoded floating-point signal checks, and browser playback QA. Not human listening, accent certification or phonetic certification.",
+        "scope": "Arabic meaning then English whole word, not an isolated phoneme.",
+        "headroom_repair_db": null,
+        "review_evidence": "content-signal-review"
+      },
+      "historical_flags": []
+    },
+    "close-pic-ar-juice": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-juice.mp3",
+      "sha256": "ad0827f398c06acd7eca285627dd4556ae22133fb2351408b27c7f601c4cbc26",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "close-pic-en-juice": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-juice.mp3",
+      "sha256": "7069d7cb3300c960387ae31ae1db59781936e0cc435a847de984d1907490f790",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "close-en-name-question": {
+      "src": "assets/kg2/closure/audio/close-en-name-question.mp3",
+      "sha256": "cb18f46332569061e5c30469d45d5f409e4195610fbd63986b3da04d5afbead3",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "What is your name?",
+      "source_full_pdf_page": 6,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 0,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 1.88,
+          "sample_rate": 24000,
+          "peak_dbfs": -1.95,
+          "rms_dbfs": -17.71,
+          "delivered_peak_dbfs": -5.41,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-name-nour": {
+      "src": "assets/kg2/closure/audio/close-en-name-nour.mp3",
+      "sha256": "c82476c6d55db84f17c662659a139cddb7081ce0dbdc372fb1b40c05b85ba75c",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "My name is Nour.",
+      "source_full_pdf_page": 6,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 0,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 2.76,
+          "sample_rate": 24000,
+          "peak_dbfs": -2.04,
+          "rms_dbfs": -19.77,
+          "delivered_peak_dbfs": -5.46,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-boy": {
+      "src": "assets/kg2/closure/audio/close-en-boy.mp3",
+      "sha256": "8ab80b8971fb0c407f323f550449a9270d1ca0a77a4f48b76e6edcbc61a49f2f",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "I'm a boy.",
+      "source_full_pdf_page": 6,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 0,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 2.16,
+          "sample_rate": 24000,
+          "peak_dbfs": -2.01,
+          "rms_dbfs": -20.38,
+          "delivered_peak_dbfs": -5.47,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-girl": {
+      "src": "assets/kg2/closure/audio/close-en-girl.mp3",
+      "sha256": "36f8acf7d4a1bcf7c787ab355e2f1f4a640e88888c6db8476707123ab09577c1",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "I'm a girl.",
+      "source_full_pdf_page": 6,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 0,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 1.84,
+          "sample_rate": 24000,
+          "peak_dbfs": -1.31,
+          "rms_dbfs": -18.68,
+          "delivered_peak_dbfs": -4.79,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-friends": {
+      "src": "assets/kg2/closure/audio/close-en-friends.mp3",
+      "sha256": "fb71021d4f0abcc19c0983e814fb58170f16785315d366f4190eca0681868eb7",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "We are friends.",
+      "source_full_pdf_page": 6,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 0,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 2.36,
+          "sample_rate": 24000,
+          "peak_dbfs": -0.19,
+          "rms_dbfs": -18.91,
+          "delivered_peak_dbfs": -3.63,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-whos-this": {
+      "src": "assets/kg2/closure/audio/close-en-whos-this.mp3",
+      "sha256": "711882676fb36b5cddb0e2f16ceda4d1adc59d6b06fb14ee820102670c431a65",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "Who's this?",
+      "source_full_pdf_page": 9,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 0,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 1.76,
+          "sample_rate": 24000,
+          "peak_dbfs": -4.98,
+          "rms_dbfs": -21.12,
+          "delivered_peak_dbfs": -8.2,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-my-sister": {
+      "src": "assets/kg2/closure/audio/close-en-my-sister.mp3",
+      "sha256": "da4ab67c97e520c9554dc8a908f9ee44a7b036222aefc2ae6ceee38884132697",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "This is my sister.",
+      "source_full_pdf_page": 9,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 0,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 2.88,
+          "sample_rate": 24000,
+          "peak_dbfs": -2.75,
+          "rms_dbfs": -21.01,
+          "delivered_peak_dbfs": -6.18,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-my-father": {
+      "src": "assets/kg2/closure/audio/close-en-my-father.mp3",
+      "sha256": "21f709978f6135a2c2a26286fdd164747e08f61d45a18e015930aafe3346607a",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "This is my father.",
+      "source_full_pdf_page": 9,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 0,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 2.56,
+          "sample_rate": 24000,
+          "peak_dbfs": -1.21,
+          "rms_dbfs": -19.48,
+          "delivered_peak_dbfs": -4.69,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-my-mother": {
+      "src": "assets/kg2/closure/audio/close-en-my-mother.mp3",
+      "sha256": "bf9fd711612f3a649849ddbccbe71ade0276322d2ce314c4b42970c740135a4a",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "This is my mother.",
+      "source_full_pdf_page": 9,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 6,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 2.56,
+          "sample_rate": 24000,
+          "peak_dbfs": -0.0,
+          "rms_dbfs": -19.11,
+          "delivered_peak_dbfs": -3.35,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-my-grandfather": {
+      "src": "assets/kg2/closure/audio/close-en-my-grandfather.mp3",
+      "sha256": "2537704bfa70af5a22281c2bbf8236da34b093d75d5d12e2e77e97e509e0bac1",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "This is my grandfather.",
+      "source_full_pdf_page": 9,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 0,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 2.64,
+          "sample_rate": 24000,
+          "peak_dbfs": -0.87,
+          "rms_dbfs": -17.9,
+          "delivered_peak_dbfs": -4.32,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-one-head": {
+      "src": "assets/kg2/closure/audio/close-en-one-head.mp3",
+      "sha256": "0d54db8447cc18a769dc3feb1097ef9cfc1a1cdcdd08d4191886beffb166bbb8",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "I have one head.",
+      "source_full_pdf_page": 10,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 1,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 2.44,
+          "sample_rate": 24000,
+          "peak_dbfs": -0.0,
+          "rms_dbfs": -20.02,
+          "delivered_peak_dbfs": -3.42,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-two-eyes": {
+      "src": "assets/kg2/closure/audio/close-en-two-eyes.mp3",
+      "sha256": "f4b84797ff023ddbca504ed7998912d7086cc50f785a90de0bb4b452c56fcb67",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "I have two eyes.",
+      "source_full_pdf_page": 10,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 0,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 3.08,
+          "sample_rate": 24000,
+          "peak_dbfs": -2.48,
+          "rms_dbfs": -21.2,
+          "delivered_peak_dbfs": -5.94,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-one-mouth": {
+      "src": "assets/kg2/closure/audio/close-en-one-mouth.mp3",
+      "sha256": "07bfd8269cceb88fa9d63211dda65297a7f7ee1364e7d5158335c144f0ad800f",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "I have one mouth.",
+      "source_full_pdf_page": 10,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 1,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 2.52,
+          "sample_rate": 24000,
+          "peak_dbfs": -0.0,
+          "rms_dbfs": -18.78,
+          "delivered_peak_dbfs": -3.4,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-two-arms": {
+      "src": "assets/kg2/closure/audio/close-en-two-arms.mp3",
+      "sha256": "45dc030d4a50a8f1bd7739ab1de6887869e10fbcd9120366cbe2fa924cb0e226",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "I have two arms.",
+      "source_full_pdf_page": 10,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 1,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 2.96,
+          "sample_rate": 24000,
+          "peak_dbfs": -0.0,
+          "rms_dbfs": -20.15,
+          "delivered_peak_dbfs": -3.45,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-two-hands": {
+      "src": "assets/kg2/closure/audio/close-en-two-hands.mp3",
+      "sha256": "37eb17f0296016bc09606898dfebcce1e6da95398273b2c6dc6c3eef1176654e",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "I have two hands.",
+      "source_full_pdf_page": 10,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 0,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 2.96,
+          "sample_rate": 24000,
+          "peak_dbfs": -0.64,
+          "rms_dbfs": -21.42,
+          "delivered_peak_dbfs": -4.11,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-my-feet": {
+      "src": "assets/kg2/closure/audio/close-en-my-feet.mp3",
+      "sha256": "1963e06222d1d1dd42ebdd73b14944e557ff7dca7783335b7a4af389fb361deb",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "These are my feet.",
+      "source_full_pdf_page": 10,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 0,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 2.28,
+          "sample_rate": 24000,
+          "peak_dbfs": -3.55,
+          "rms_dbfs": -20.35,
+          "delivered_peak_dbfs": -6.96,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
+    },
+    "close-en-red-dress": {
+      "src": "assets/kg2/closure/audio/close-en-red-dress.mp3",
+      "sha256": "74bd7cb26e643bb11413fa6f01aec3c12797c493713c71bf9f6217c893624538",
+      "verified": true,
+      "language": "en",
+      "scope": "full-sentence-not-phoneme",
+      "text": "This is a red dress.",
+      "source_full_pdf_page": 40,
+      "check": {
+        "method": "Source text and grouped contextual audio/transcript inspection, decoded floating-point signal checks, plus native browser playback QA. Operational content check, not human listening or phonetic certification.",
+        "source_pcm_fullscale_samples": 0,
+        "headroom_db": -3,
+        "headroom_note": "Attenuation for delivered playback headroom, not a claim to repair original sample saturation.",
+        "signal": {
+          "duration": 3.04,
+          "sample_rate": 24000,
+          "peak_dbfs": -1.29,
+          "rms_dbfs": -19.59,
+          "delivered_peak_dbfs": -4.71,
+          "delivered_float_samples_outside_unit": 0
+        }
+      }
     }
   }
 }

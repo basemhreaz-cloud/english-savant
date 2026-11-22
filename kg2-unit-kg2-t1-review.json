@@ -1,1 +1,366 @@
-{"version":"20261122-pairs1","options":{"requireVerified":true,"holdFlagged":true},"unit":{"id":"kg2-t1-review","title_en":"Review","title_ar":"مراجعة","eyebrow":"KG2 · الفصل الأول · مراجعة"},"activities":[{"id":"k2rv-letters","kind":"review-letter","title_ar":"أول حرف","instr":"ar34-i-choose","help":"بصّ على الصورة واختار الحرف اللي بتبدأ بيه الكلمة. مفيش مؤقّت ولا درجات، والشخص الكبير بيساعد.","items":[{"img":"pics/orange.webp","alt":"orange","choices":["l","o"],"ok":"o"},{"img":"pics/mug.webp","alt":"mug","choices":["g","m"],"ok":"m"},{"img":"pics/grass.webp","alt":"grass","choices":["f","g"],"ok":"g"},{"img":"pics/bed.webp","alt":"bed","choices":["b","f"],"ok":"b"},{"img":"pics/watch.webp","alt":"watch","choices":["w","l"],"ok":"w"},{"img":"pics/leaf.webp","alt":"leaf","choices":["l","f"],"ok":"l"},{"img":"pics/flag.webp","alt":"flag","choices":["f","b"],"ok":"f"},{"img":"pics/umbrella.webp","alt":"umbrella","choices":["u","c"],"ok":"u"},{"img":"pics/ruler.webp","alt":"ruler","choices":["r","w"],"ok":"r"}]},{"id":"k2rv-count","kind":"review-count","title_ar":"نعدّ النجوم","instr":"ar2-i-count","help":"عدّ النجوم واختار الرقم.","items":[{"img":"count/count-star-3.webp","alt":"3 stars","choices":[3,2],"ok":3},{"img":"count/count-star-1.webp","alt":"1 star","choices":[1,4],"ok":1},{"img":"count/count-star-5.webp","alt":"5 stars","choices":[5,2],"ok":5}]},{"id":"k2rv-clouds","kind":"review-count","title_ar":"نعدّ السحاب","instr":"ar2-i-count","help":"عدّ السحاب واختار الرقم.","items":[{"img":"count/count-cloud-8.webp","alt":"8 clouds","choices":[10,6,8],"ok":8},{"img":"count/count-cloud-10.webp","alt":"10 clouds","choices":[10,6,8],"ok":10},{"img":"count/count-cloud-6.webp","alt":"6 clouds","choices":[10,6,8],"ok":6}]},{"id":"k2rv-colour","kind":"tap-colour","title_ar":"نلوّن السحاب","instr":"ar2-i-free","help":"اضغط على السحاب عشان تلوّنه واعدّ. تقدر تمسح وتعيد.","items":[{"available":10,"target":7},{"available":10,"target":10}],"img":"pics/cloud.webp"},{"id":"k2rv-pic","kind":"review-pic","title_ar":"الحرف والصورة","instr":"ar34-i-choose","help":"بصّ على الحرف واختار الصورة اللي كلمتها بتبدأ بيه.","items":[{"letter":"c","choices":[{"img":"pics/lamp.webp","alt":"lamp","k":"lamp"},{"img":"pics/camel.webp","alt":"camel","k":"camel"}],"ok":"camel"},{"letter":"u","choices":[{"img":"pics/umbrella.webp","alt":"umbrella","k":"umbrella"},{"img":"pics/bus.webp","alt":"bus","k":"bus"}],"ok":"umbrella"}]},{"id":"k2rv-action","kind":"review-tf","title_ar":"صورة وجملة","instr":"ar34-i-choose","help":"بصّ على الصورة. الجملة صح ولا غلط؟","items":[{"img":"pics/act-run.webp","alt":"boy running","text":"The boy can kick the ball.","ok":false},{"img":"pics/act-skip.webp","alt":"girl skipping with a rope","text":"The girl can skip.","ok":true},{"img":"pics/act-walk.webp","alt":"boy walking","text":"The boy can jump.","ok":false}],"note":"إجابات من الصور الأصلية للموقع، مش مفتاح الكتاب."},{"id":"k2rv-body","kind":"review-match","title_ar":"بنلبسها فين؟","instr":"ar34-i-choose","help":"اختار مكان اللبس على الجسم.","items":[{"img":"pics/socks.webp","alt":"socks","choices":["head","foot"],"ok":"foot","labels":{"head":"راس","foot":"رجل"}},{"img":"pics/cap.webp","alt":"cap","choices":["head","foot"],"ok":"head","labels":{"head":"راس","foot":"رجل"}}]}],"held":["حرف r مع صورة rabbit ومع flower (لسه من غير صور)","بقية التمارين المرتبطة بصور لسه ناقصة"]}
+{
+  "version": "20261122-closure1",
+  "options": {
+    "requireVerified": true,
+    "holdFlagged": true
+  },
+  "unit": {
+    "id": "kg2-t1-review",
+    "title_en": "Review",
+    "title_ar": "مراجعة",
+    "eyebrow": "KG2 · الفصل الأول · مراجعة"
+  },
+  "activities": [
+    {
+      "id": "k2rv-letters",
+      "kind": "review-letter",
+      "title_ar": "أول حرف",
+      "instr": "ar34-i-choose",
+      "help": "بصّ على الصورة واختار الحرف اللي بتبدأ بيه الكلمة. مفيش مؤقّت ولا درجات، والشخص الكبير بيساعد.",
+      "items": [
+        {
+          "img": "../kg1/u4/img-kite.webp",
+          "alt": "kite",
+          "choices": [
+            "j",
+            "k"
+          ],
+          "ok": "k",
+          "ar": "close-lw-ar-kite",
+          "en": "close-lw-en-kite"
+        },
+        {
+          "img": "../kg1/u4/img-w-juice.webp",
+          "alt": "juice",
+          "choices": [
+            "d",
+            "j"
+          ],
+          "ok": "j",
+          "ar": "close-pic-ar-juice",
+          "en": "close-pic-en-juice"
+        },
+        {
+          "img": "pics/donkey.webp",
+          "alt": "donkey",
+          "choices": [
+            "m",
+            "d"
+          ],
+          "ok": "d",
+          "ar": "u2-ar-word-donkey",
+          "en": "u2-en-word-donkey"
+        },
+        {
+          "img": "pics/orange.webp",
+          "alt": "orange",
+          "choices": [
+            "l",
+            "o"
+          ],
+          "ok": "o"
+        },
+        {
+          "img": "pics/mug.webp",
+          "alt": "mug",
+          "choices": [
+            "g",
+            "m"
+          ],
+          "ok": "m"
+        },
+        {
+          "img": "pics/grass.webp",
+          "alt": "grass",
+          "choices": [
+            "f",
+            "g"
+          ],
+          "ok": "g"
+        },
+        {
+          "img": "pics/bed.webp",
+          "alt": "bed",
+          "choices": [
+            "b",
+            "f"
+          ],
+          "ok": "b"
+        },
+        {
+          "img": "pics/watch.webp",
+          "alt": "watch",
+          "choices": [
+            "w",
+            "l"
+          ],
+          "ok": "w"
+        },
+        {
+          "img": "pics/leaf.webp",
+          "alt": "leaf",
+          "choices": [
+            "l",
+            "f"
+          ],
+          "ok": "l"
+        },
+        {
+          "img": "pics/flag.webp",
+          "alt": "flag",
+          "choices": [
+            "f",
+            "b"
+          ],
+          "ok": "f"
+        },
+        {
+          "img": "pics/umbrella.webp",
+          "alt": "umbrella",
+          "choices": [
+            "u",
+            "c"
+          ],
+          "ok": "u"
+        },
+        {
+          "img": "pics/ruler.webp",
+          "alt": "ruler",
+          "choices": [
+            "r",
+            "w"
+          ],
+          "ok": "r"
+        }
+      ]
+    },
+    {
+      "id": "k2rv-count",
+      "kind": "review-count",
+      "title_ar": "نعدّ النجوم",
+      "instr": "ar2-i-count",
+      "help": "عدّ النجوم واختار الرقم.",
+      "items": [
+        {
+          "img": "count/count-star-3.webp",
+          "alt": "3 stars",
+          "choices": [
+            3,
+            2
+          ],
+          "ok": 3
+        },
+        {
+          "img": "count/count-star-1.webp",
+          "alt": "1 star",
+          "choices": [
+            1,
+            4
+          ],
+          "ok": 1
+        },
+        {
+          "img": "count/count-star-5.webp",
+          "alt": "5 stars",
+          "choices": [
+            5,
+            2
+          ],
+          "ok": 5
+        }
+      ]
+    },
+    {
+      "id": "k2rv-draw-circles",
+      "kind": "draw-count",
+      "title_ar": "نرسم دواير ونعدّ",
+      "help": "ارسم ٢ وبعدين ٤ دواير بإصبعك أو بالماوس، وعدّهم مع شخص كبير. تقدر تمسح وتجرب تاني. مفيش تصحيح آلي لشكل الدائرة أو عددها، ومفيش حاجة بتتسجّل.",
+      "targets": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "k2rv-clouds",
+      "kind": "review-count",
+      "title_ar": "نعدّ السحاب",
+      "instr": "ar2-i-count",
+      "help": "عدّ السحاب واختار الرقم.",
+      "items": [
+        {
+          "img": "count/count-cloud-8.webp",
+          "alt": "8 clouds",
+          "choices": [
+            10,
+            6,
+            8
+          ],
+          "ok": 8
+        },
+        {
+          "img": "count/count-cloud-10.webp",
+          "alt": "10 clouds",
+          "choices": [
+            10,
+            6,
+            8
+          ],
+          "ok": 10
+        },
+        {
+          "img": "count/count-cloud-6.webp",
+          "alt": "6 clouds",
+          "choices": [
+            10,
+            6,
+            8
+          ],
+          "ok": 6
+        }
+      ]
+    },
+    {
+      "id": "k2rv-colour",
+      "kind": "tap-colour",
+      "title_ar": "نلوّن السحاب",
+      "instr": "ar2-i-free",
+      "help": "اضغط على السحاب عشان تلوّنه واعدّ. تقدر تمسح وتعيد.",
+      "items": [
+        {
+          "available": 10,
+          "target": 7
+        },
+        {
+          "available": 10,
+          "target": 10
+        }
+      ],
+      "img": "pics/cloud.webp"
+    },
+    {
+      "id": "k2rv-pic",
+      "kind": "review-pic",
+      "title_ar": "الحرف والصورة",
+      "instr": "ar34-i-choose",
+      "help": "بصّ على الحرف واختار الصورة اللي كلمتها بتبدأ بيه.",
+      "items": [
+        {
+          "letter": "c",
+          "choices": [
+            {
+              "img": "pics/lamp.webp",
+              "alt": "lamp",
+              "k": "lamp"
+            },
+            {
+              "img": "pics/camel.webp",
+              "alt": "camel",
+              "k": "camel"
+            }
+          ],
+          "ok": "camel"
+        },
+        {
+          "letter": "r",
+          "choices": [
+            {
+              "img": "pics/flower.webp",
+              "alt": "flower",
+              "k": "flower",
+              "ar": "next-ar-flower",
+              "en": "next-en-flower"
+            },
+            {
+              "img": "pics/rabbit.webp",
+              "alt": "rabbit",
+              "k": "rabbit",
+              "ar": "next-ar-rabbit",
+              "en": "next-en-rabbit"
+            }
+          ],
+          "ok": "rabbit"
+        },
+        {
+          "letter": "u",
+          "choices": [
+            {
+              "img": "pics/umbrella.webp",
+              "alt": "umbrella",
+              "k": "umbrella"
+            },
+            {
+              "img": "pics/bus.webp",
+              "alt": "bus",
+              "k": "bus"
+            }
+          ],
+          "ok": "umbrella"
+        }
+      ]
+    },
+    {
+      "id": "k2rv-action",
+      "kind": "review-tf",
+      "title_ar": "صورة وجملة",
+      "instr": "ar34-i-choose",
+      "help": "بصّ على الصورة. الجملة صح ولا غلط؟",
+      "items": [
+        {
+          "img": "pics/act-run.webp",
+          "alt": "boy running",
+          "text": "The boy can kick the ball.",
+          "ok": false
+        },
+        {
+          "img": "pics/act-skip.webp",
+          "alt": "girl skipping with a rope",
+          "text": "The girl can skip.",
+          "ok": true
+        },
+        {
+          "img": "pics/act-walk.webp",
+          "alt": "boy walking",
+          "text": "The boy can jump.",
+          "ok": false
+        }
+      ],
+      "note": "إجابات من الصور الأصلية للموقع، مش مفتاح الكتاب."
+    },
+    {
+      "id": "k2rv-body",
+      "kind": "review-match",
+      "title_ar": "بنلبسها فين؟",
+      "instr": "ar34-i-choose",
+      "help": "اختار مكان اللبس على الجسم.",
+      "items": [
+        {
+          "img": "pics/socks.webp",
+          "alt": "socks",
+          "choices": [
+            "head",
+            "foot"
+          ],
+          "ok": "foot",
+          "labels": {
+            "head": "راس",
+            "foot": "رجل"
+          }
+        },
+        {
+          "img": "pics/cap.webp",
+          "alt": "cap",
+          "choices": [
+            "head",
+            "foot"
+          ],
+          "ok": "head",
+          "labels": {
+            "head": "راس",
+            "foot": "رجل"
+          }
+        }
+      ]
+    }
+  ],
+  "held": []
+}

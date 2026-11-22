@@ -1,5 +1,5 @@
 {
-  "version": "20261122-wordsforms1",
+  "version": "20261122-closure1",
   "unit": {
     "id": "kg2-t1-preunit",
     "title_en": "Warm-up",
@@ -69,28 +69,47 @@
       "id": "k2pre-role",
       "kind": "lines",
       "title_ar": "نمثّل مع شخص كبير",
-      "help": "الشخص الكبير والطفل يمثّلوا الجُمل دي سوا. من غير صوت جاهز لسه، والطفل يقول اسمه هو. مفيش اسم بيتسجّل.",
+      "help": "اسمعوا الجمل بالإنجليزي ومثّلوها مع شخص كبير. Nour اسم مثال في الكتاب، وبعدها الطفل يقول اسمه هو. مفيش اسم أو صوت بيتسجّل. بنسمع معنى الكلمات من صورها في النشاط الأول.",
       "lines": [
         {
-          "text": "Hello."
+          "text": "Hello.",
+          "meaning_ar": "أهلًا.",
+          "audio": "k1-en-w-hello"
         },
         {
-          "text": "Good morning."
+          "text": "Good morning.",
+          "meaning_ar": "صباح الخير.",
+          "audio": "k1-en-w-good-morning"
         },
         {
-          "text": "What is your name?"
+          "text": "What is your name?",
+          "meaning_ar": "اسمك إيه؟",
+          "audio": "close-en-name-question"
         },
         {
-          "text": "My name is ___."
+          "text": "My name is Nour.",
+          "meaning_ar": "اسمي نور. ده اسم مثال، وبعده قول اسمك أنت.",
+          "audio": "close-en-name-nour"
         },
         {
-          "text": "I'm a boy. / I'm a girl."
+          "text": "I'm a boy.",
+          "meaning_ar": "أنا ولد.",
+          "audio": "close-en-boy"
         },
         {
-          "text": "We are friends."
+          "text": "I'm a girl.",
+          "meaning_ar": "أنا بنت.",
+          "audio": "close-en-girl"
         },
         {
-          "text": "Goodbye."
+          "text": "We are friends.",
+          "meaning_ar": "إحنا أصحاب.",
+          "audio": "close-en-friends"
+        },
+        {
+          "text": "Goodbye.",
+          "meaning_ar": "مع السلامة.",
+          "audio": "k1-en-w-goodbye"
         }
       ]
     },
@@ -99,8 +118,15 @@
       "kind": "tap-words",
       "title_ar": "كلمات المدرسة",
       "instr": "ar4-i-tap",
-      "help": "اضغط على الصورة. هتسمع معناها بالعربي وبعدها الكلمة بالإنجليزي.",
+      "help": "اضغط على الصورة. هتسمع معناها بالعربي وبعدها الكلمة بالإنجليزي. بعد ما نشاور ونقول الكلمات، ممكن نرسم المدرسة ونلوّنها على ورقة مع شخص كبير. صور الشاشة بدائل أصلية، مش صفحة تلوين الكتاب.",
       "words": [
+        {
+          "word": "school",
+          "label_en": "school",
+          "img": "../kg1/u2/img-school.webp",
+          "ar": "close-lw-ar-school",
+          "en": "close-lw-en-school"
+        },
         {
           "word": "classroom",
           "label_en": "classroom",
@@ -184,9 +210,17 @@
           "inbag": false,
           "ar": "k1-ar-w-tree",
           "en": "k1-en-w-tree"
+        },
+        {
+          "img": "../kg1/u3/img-dog.webp",
+          "alt": "dog",
+          "word": "dog",
+          "inbag": false,
+          "ar": "close-lw-ar-dog",
+          "en": "close-lw-en-dog"
         }
       ],
-      "note": "صورة الكلب مش متاحة لسه، فاستخدمنا الشجرة كمثال لحاجة مش في الشنطة."
+      "note": "بنحط أدوات المدرسة في الشنطة. الكلب والشجرة مش من محتوياتها. الرسومات الأصلية البديلة مش صور الكتاب."
     },
     {
       "id": "k2pre-family",
@@ -236,6 +270,47 @@
           "img": "pre1/w-brother.webp",
           "ar": "k1-ar-w-brother",
           "en": "k1-en-w-brother"
+        }
+      ]
+    },
+    {
+      "id": "k2pre-family-lines",
+      "kind": "picture-lines",
+      "title_ar": "مين ده؟ دي أسرتي",
+      "help": "اسمع السؤال وبعدين الجملة. الصور لشخص واحد واضح في كل مرة، مش صورة فيها اتنين ونخمّن المقصود. الطفل يشاور ويردد مع شخص كبير، من غير درجات.",
+      "question": {
+        "text": "Who's this?",
+        "meaning_ar": "مين ده؟",
+        "audio": "close-en-whos-this"
+      },
+      "items": [
+        {
+          "img": "pre1/w-sister.webp",
+          "alt": "sister",
+          "text": "This is my sister.",
+          "meaning_ar": "دي أختي.",
+          "audio": "close-en-my-sister"
+        },
+        {
+          "img": "pre1/w-father.webp",
+          "alt": "father",
+          "text": "This is my father.",
+          "meaning_ar": "ده بابا.",
+          "audio": "close-en-my-father"
+        },
+        {
+          "img": "pre1/w-mother.webp",
+          "alt": "mother",
+          "text": "This is my mother.",
+          "meaning_ar": "دي ماما.",
+          "audio": "close-en-my-mother"
+        },
+        {
+          "img": "pre1/w-grandfather.webp",
+          "alt": "grandfather",
+          "text": "This is my grandfather.",
+          "meaning_ar": "ده جدّي.",
+          "audio": "close-en-my-grandfather"
         }
       ]
     },
@@ -333,6 +408,56 @@
       ]
     },
     {
+      "id": "k2pre-body-lines",
+      "kind": "picture-lines",
+      "title_ar": "أقول جملة عن جسمي",
+      "help": "اسمعوا الجملة بالإنجليزي ورددوها مع شخص كبير. نشاور على العضو، ومع head نشاور حوالين الراس كلها. من غير كاميرا أو تسجيل أو تقييم لجسم الطفل.",
+      "items": [
+        {
+          "img": "pics/head.webp",
+          "alt": "head",
+          "text": "I have 1 head.",
+          "meaning_ar": "عندي راس واحدة.",
+          "audio": "close-en-one-head"
+        },
+        {
+          "img": "pre1/w-eyes.webp",
+          "alt": "eyes",
+          "text": "I have 2 eyes.",
+          "meaning_ar": "عندي عينين.",
+          "audio": "close-en-two-eyes"
+        },
+        {
+          "img": "pre1/w-mouth.webp",
+          "alt": "mouth",
+          "text": "I have 1 mouth.",
+          "meaning_ar": "عندي بق واحد.",
+          "audio": "close-en-one-mouth"
+        },
+        {
+          "img": "pre1/w-arms.webp",
+          "alt": "arms",
+          "text": "I have 2 arms.",
+          "meaning_ar": "عندي دراعين.",
+          "audio": "close-en-two-arms"
+        },
+        {
+          "img": "pre1/w-hands.webp",
+          "alt": "hands",
+          "text": "I have 2 hands.",
+          "meaning_ar": "عندي إيدين.",
+          "audio": "close-en-two-hands"
+        },
+        {
+          "img": "pre1/w-feet.webp",
+          "alt": "feet",
+          "text": "These are my feet.",
+          "meaning_ar": "دي رجليّا.",
+          "audio": "close-en-my-feet"
+        }
+      ]
+    },
+    {
       "id": "k2pre-trace",
       "kind": "trace",
       "title_ar": "نتتبّع أشكال",
@@ -371,10 +496,6 @@
       ]
     }
   ],
-  "held": [
-    "جمل الحوار والتعارف لسه من غير صوت جاهز (مكتوبة للتمثيل مع شخص كبير)",
-    "جمل \"I have...\" وجمل \"This is my...\" لسه من غير صوت",
-    "صورة الكلب لشنطة المدرسة"
-  ],
+  "held": [],
   "audio": {}
 }
