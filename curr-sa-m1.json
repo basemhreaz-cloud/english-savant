@@ -1162,12 +1162,697 @@
           ]
         }
       ]
+    },
+    {
+      "id": "u3",
+      "num": 3,
+      "title": "What’s That?",
+      "pages": [
+        18,
+        25
+      ],
+      "lessons": [],
+      "vocab": [
+        "museum",
+        "guide",
+        "camera",
+        "airplane",
+        "bicycle",
+        "car",
+        "telephone",
+        "typewriter",
+        "headphones",
+        "washing machine",
+        "calculator",
+        "television",
+        "radio",
+        "painting",
+        "sculpture",
+        "lamp",
+        "watch",
+        "key chain",
+        "tote bag",
+        "toy",
+        "souvenir",
+        "gift shop",
+        "fossil",
+        "skeleton",
+        "dinosaur",
+        "rock",
+        "meteorite",
+        "exhibit",
+        "invention",
+        "spacecraft",
+        "submarine",
+        "human heart",
+        "enormous",
+        "modern",
+        "strange",
+        "interesting",
+        "near",
+        "far",
+        "touch",
+        "photograph",
+        "pay",
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "sentences": [
+        "What is this?",
+        "What are those?",
+        "It is a radio.",
+        "They are calculators.",
+        "Follow me.",
+        "Please do not touch.",
+        "Do not take photographs.",
+        "Pay here.",
+        "I do not know.",
+        "This exhibit is interesting.",
+        "The skeleton is enormous.",
+        "These bags are near me."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "في المتحف ومحل الهدايا",
+          "text": "museum يعني متحف، والـguide هو المرشد. تقدر تشوف painting لوحة مرسومة، وsculpture تمثال أو عمل نحتي، وfossil حفرية، وskeleton هيكل عظمي. souvenir تذكار بنشتريه من gift shop. فرّق بين watch ساعة يد، وcamera كاميرا، وcalculator آلة حاسبة. الجمع غالبًا بنزود له s: cameras وfossils."
+        },
+        {
+          "title": "this وthat وthese وthose",
+          "text": "لما تشير لحاجة واحدة قريبة منك استخدم this، ولواحدة بعيدة استخدم that. للجمع القريب these، وللجمع البعيد those. المفرد مع is: This is a camera. والجمع مع are: Those are cameras. لازم نعرف العدد والمسافة من الكلام أو الصورة عشان نختار، وكل أسئلتنا موضحة ده في الكلام ومش محتاجة صورة."
+        },
+        {
+          "title": "الأمر والنهي وتعليمات المتحف",
+          "text": "الأمر يبدأ بالفعل في صورته الأساسية: Follow me وPay here. للنهي حط Do not أو الاختصار Don't قبل الفعل: Don't touch. ما تضيفش s للفعل، وما تستخدمش to بعد Don't. تقدر تضيف Please للطلب أو النهي عشان يبقى مؤدب. No photographs. معناها التصوير ممنوع."
+        },
+        {
+          "title": "a وan للمفرد",
+          "text": "نستخدم a أو an قبل الاسم المفرد المعدود لما نقدمه أول مرة بشكل غير محدد: a radio وan airplane. الاختيار حسب الصوت اللي في أول الكلمة، مش شكل الحرف بس. a قبل صوت ساكن وan قبل صوت متحرك. ما تستخدمش a أو an قبل الجمع: دي fossils مش a fossils."
+        },
+        {
+          "title": "إمتى نستخدم the؟",
+          "text": "the ممكن تيجي قبل المفرد والجمع لما نقصد حاجة محددة أو اتذكرت قبل كده: I see a camera. The camera is black. بنستخدمها كمان في أمثلة زي the sun وthe moon وthe Nile وthe Red Sea. أسماء البلاد زي Egypt والمدن زي Riyadh ما نحطش قبلها the. أسماء أيام الأسبوع والشهور والألعاب ما بتحطش قبلها the في الكلام العام: on Monday وplay football. لما نقصد الذهاب للمدرسة للدراسة بنقول go to school."
+        },
+        {
+          "title": "السؤال عن المعروض والكتابة عنه",
+          "text": "اسأل عن مفرد: What is this? ورد It is a radio. واسأل عن جمع: What are those? ورد They are calculators. ممكن تقول I don't know لو مش عارف. لما تكتب وصف لمتحف، سمّي الحاجة أول مرة بـa أو an، وبعد كده استخدم the. صفها بكلمات زي old وmodern وenormous، وأضف تعليمات مناسبة للزوار. النص التدريبي هنا أصلي وافتراضي، مش وصف لمتحف حقيقي."
+        }
+      ],
+      "meanings": {
+        "museum": "متحف",
+        "guide": "مرشد",
+        "camera": "كاميرا",
+        "airplane": "طائرة",
+        "bicycle": "دراجة",
+        "car": "سيارة",
+        "telephone": "تليفون",
+        "typewriter": "آلة كاتبة",
+        "headphones": "سماعات رأس",
+        "washing machine": "غسالة",
+        "calculator": "آلة حاسبة",
+        "television": "تليفزيون",
+        "radio": "راديو",
+        "painting": "لوحة مرسومة",
+        "sculpture": "تمثال أو عمل نحتي",
+        "lamp": "مصباح",
+        "watch": "ساعة يد",
+        "key chain": "ميدالية مفاتيح",
+        "tote bag": "شنطة يد قماش",
+        "toy": "لعبة",
+        "souvenir": "تذكار",
+        "gift shop": "محل هدايا",
+        "fossil": "حفرية",
+        "skeleton": "هيكل عظمي",
+        "dinosaur": "ديناصور",
+        "rock": "صخرة",
+        "meteorite": "نيزك وصل للأرض",
+        "exhibit": "معروض أو معرض حسب السياق",
+        "invention": "اختراع",
+        "spacecraft": "مركبة فضائية",
+        "submarine": "غواصة",
+        "human heart": "قلب بشري",
+        "enormous": "ضخم جدًا",
+        "modern": "حديث",
+        "strange": "غريب",
+        "interesting": "مثير للاهتمام",
+        "near": "قريب",
+        "far": "بعيد",
+        "touch": "يلمس",
+        "photograph": "صورة فوتوغرافية",
+        "pay": "يدفع فلوس",
+        "this": "هذا أو هذه للمفرد القريب",
+        "that": "ذلك أو تلك للمفرد البعيد",
+        "these": "هؤلاء أو هذه للجمع القريب",
+        "those": "أولئك أو تلك للجمع البعيد"
+      },
+      "sentenceMeanings": {
+        "What is this?": "ده إيه؟",
+        "What are those?": "إيه الحاجات اللي هناك دي؟",
+        "It is a radio.": "ده راديو.",
+        "They are calculators.": "دي آلات حاسبة.",
+        "Follow me.": "اتبعوني.",
+        "Please do not touch.": "من فضلكم ما تلمسوش.",
+        "Do not take photographs.": "ما تصوّروش.",
+        "Pay here.": "ادفع هنا.",
+        "I do not know.": "مش عارف.",
+        "This exhibit is interesting.": "المعروض ده مثير للاهتمام.",
+        "The skeleton is enormous.": "الهيكل العظمي ضخم جدًا.",
+        "These bags are near me.": "الشنط دي قريبة مني."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "كلمات المتحف",
+          "sub": "رتب الحروف حسب المعنى العربي.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "useumm",
+              "answer": [
+                "museum"
+              ],
+              "hint": "متحف"
+            },
+            {
+              "type": "unscramble",
+              "letters": "uideg",
+              "answer": [
+                "guide"
+              ],
+              "hint": "مرشد"
+            },
+            {
+              "type": "unscramble",
+              "letters": "amerac",
+              "answer": [
+                "camera"
+              ],
+              "hint": "كاميرا"
+            },
+            {
+              "type": "unscramble",
+              "letters": "irplanea",
+              "answer": [
+                "airplane"
+              ],
+              "hint": "طائرة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "culptures",
+              "answer": [
+                "sculpture"
+              ],
+              "hint": "تمثال أو عمل نحتي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ossilf",
+              "answer": [
+                "fossil"
+              ],
+              "hint": "حفرية"
+            },
+            {
+              "type": "unscramble",
+              "letters": "keletons",
+              "answer": [
+                "skeleton"
+              ],
+              "hint": "هيكل عظمي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ouvenirs",
+              "answer": [
+                "souvenir"
+              ],
+              "hint": "تذكار"
+            },
+            {
+              "type": "unscramble",
+              "letters": "eadphonesh",
+              "answer": [
+                "headphones"
+              ],
+              "hint": "سماعات رأس"
+            },
+            {
+              "type": "unscramble",
+              "letters": "aintingp",
+              "answer": [
+                "painting"
+              ],
+              "hint": "لوحة مرسومة"
+            }
+          ]
+        },
+        {
+          "id": "grammar",
+          "title": "الإشارة للمفرد والجمع",
+          "sub": "المسافة والعدد مكتوبان في السؤال، من غير صورة مطلوبة للحل.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "One camera is near me. ___ is a camera.",
+              "options": [
+                "This",
+                "Those",
+                "These"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "One airplane is far from us. ___ is an airplane.",
+              "options": [
+                "These",
+                "That",
+                "Those"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Two bags are near me. ___ are bags.",
+              "options": [
+                "That",
+                "This",
+                "These"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Three bicycles are far from us. ___ are bicycles.",
+              "options": [
+                "Those",
+                "This",
+                "That"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "This ___ a radio.",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Those ___ calculators.",
+              "options": [
+                "is",
+                "am",
+                "are"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct question about one thing.",
+              "options": [
+                "What is this?",
+                "What are this?",
+                "What is these?"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct question about several things.",
+              "options": [
+                "What is those?",
+                "What are those?",
+                "What am those?"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "What is that? ___ a lamp.",
+              "options": [
+                "They are",
+                "We are",
+                "It is"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "What are these? ___ toys.",
+              "options": [
+                "They are",
+                "It is",
+                "He is"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct plural sentence.",
+              "options": [
+                "These is watches.",
+                "These are watches.",
+                "This are watches."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "One sculpture is far from me. Which sentence fits?",
+              "options": [
+                "These are sculptures.",
+                "This is a sculpture.",
+                "That is a sculpture."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "imperatives",
+          "title": "الأمر والنهي",
+          "sub": "تعليمات مكتوبة للمتحف، من غير تسجيل صوتي.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Visitors must not touch the objects. Choose the instruction.",
+              "options": [
+                "Do not touch.",
+                "Touch the objects.",
+                "To touch."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Taking photos is not allowed. The sign says:",
+              "options": [
+                "Take photographs.",
+                "No photographs.",
+                "Pay here."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "The guide wants the visitors to walk after him. He says:",
+              "options": [
+                "Do not follow me.",
+                "Sit down.",
+                "Follow me."
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct negative command.",
+              "options": [
+                "Do not use cell phones.",
+                "Do not uses cell phones.",
+                "Do not to use cell phones."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the polite request.",
+              "options": [
+                "To sit down.",
+                "Please sit down.",
+                "Sits down."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "You are at the payment desk. Which sign fits?",
+              "options": [
+                "Do not pay.",
+                "Do not touch.",
+                "Pay here."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "articles",
+          "title": "a وan وthe",
+          "sub": "اقرأ السياق وحدد إذا كان محتاج أداة ولا لأ.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Choose a or an: I can see ___ radio.",
+              "options": [
+                "a",
+                "an",
+                "no article"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose a or an: That is ___ airplane.",
+              "options": [
+                "a",
+                "an",
+                "no article"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "I see a camera. ___ camera is black.",
+              "options": [
+                "A",
+                "An",
+                "The"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "We mean several unidentified objects: There are ___ fossils in the box.",
+              "options": [
+                "no article",
+                "a",
+                "an"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Look at ___ moon.",
+              "options": [
+                "a",
+                "the",
+                "an"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ Egypt is a country. Choose the article, if needed.",
+              "options": [
+                "The",
+                "An",
+                "no article"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Complete the river name: ___ Nile.",
+              "options": [
+                "the",
+                "a",
+                "an"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Complete the sea name: ___ Red Sea.",
+              "options": [
+                "an",
+                "the",
+                "a"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "We play ___ football after lunch.",
+              "options": [
+                "the",
+                "a",
+                "no article"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "This is ___ my camera.",
+              "options": [
+                "no article",
+                "a",
+                "an"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "قراءة: متحف المدرسة",
+          "sub": "نص أصلي عن متحف افتراضي. النص كامل فوق كل سؤال.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "What is the guide's name?",
+              "options": [
+                "Mazen",
+                "Hadi",
+                "Tom"
+              ],
+              "answer": 0,
+              "passage": "Practice text about a fictional school museum: Welcome! My name is Mazen. I am your guide. This camera is near me. That radio is far from me. These two fossils are near me. Those three toys are far from me. The radio is old, and the camera is modern. Please follow me. Do not touch the objects. You can buy a souvenir at the gift shop."
+            },
+            {
+              "type": "mcq",
+              "q": "Which single object is near the guide?",
+              "options": [
+                "The radio",
+                "The camera",
+                "The three toys"
+              ],
+              "answer": 1,
+              "passage": "Practice text about a fictional school museum: Welcome! My name is Mazen. I am your guide. This camera is near me. That radio is far from me. These two fossils are near me. Those three toys are far from me. The radio is old, and the camera is modern. Please follow me. Do not touch the objects. You can buy a souvenir at the gift shop."
+            },
+            {
+              "type": "mcq",
+              "q": "How many fossils are near the guide?",
+              "options": [
+                "Three",
+                "One",
+                "Two"
+              ],
+              "answer": 2,
+              "passage": "Practice text about a fictional school museum: Welcome! My name is Mazen. I am your guide. This camera is near me. That radio is far from me. These two fossils are near me. Those three toys are far from me. The radio is old, and the camera is modern. Please follow me. Do not touch the objects. You can buy a souvenir at the gift shop."
+            },
+            {
+              "type": "mcq",
+              "q": "Which object is old?",
+              "options": [
+                "The radio",
+                "The camera",
+                "The guide"
+              ],
+              "answer": 0,
+              "passage": "Practice text about a fictional school museum: Welcome! My name is Mazen. I am your guide. This camera is near me. That radio is far from me. These two fossils are near me. Those three toys are far from me. The radio is old, and the camera is modern. Please follow me. Do not touch the objects. You can buy a souvenir at the gift shop."
+            },
+            {
+              "type": "mcq",
+              "q": "What must visitors NOT do?",
+              "options": [
+                "Follow the guide",
+                "Touch the objects",
+                "Buy a souvenir"
+              ],
+              "answer": 1,
+              "passage": "Practice text about a fictional school museum: Welcome! My name is Mazen. I am your guide. This camera is near me. That radio is far from me. These two fossils are near me. Those three toys are far from me. The radio is old, and the camera is modern. Please follow me. Do not touch the objects. You can buy a souvenir at the gift shop."
+            },
+            {
+              "type": "mcq",
+              "q": "Where can visitors buy a souvenir?",
+              "options": [
+                "At school reception",
+                "At the payment desk only",
+                "At the gift shop"
+              ],
+              "answer": 2,
+              "passage": "Practice text about a fictional school museum: Welcome! My name is Mazen. I am your guide. This camera is near me. That radio is far from me. These two fossils are near me. Those three toys are far from me. The radio is old, and the camera is modern. Please follow me. Do not touch the objects. You can buy a souvenir at the gift shop."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب الجملة",
+          "sub": "رتب الكلمات وراجع بداية الجملة ونهايتها.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "camera.",
+                "a",
+                "is",
+                "This"
+              ],
+              "answer": [
+                "This",
+                "is",
+                "a",
+                "camera."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "those?",
+                "are",
+                "What"
+              ],
+              "answer": [
+                "What",
+                "are",
+                "those?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "touch.",
+                "not",
+                "Please",
+                "do"
+              ],
+              "answer": [
+                "Please",
+                "do",
+                "not",
+                "touch."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "fossils.",
+                "are",
+                "These"
+              ],
+              "answer": [
+                "These",
+                "are",
+                "fossils."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "source": {
     "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g7/g7-english-1448.pdf",
     "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K07-SM1-ENGLMH.pdf",
-    "title": "Super Goal 1, Part 1, Units 1–2, pages 2–17",
+    "title": "Super Goal 1, Part 1, Units 1–3, pages 2–25",
     "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint returned HTTP500. Original explanations and exercises, not copied textbook questions.",
     "reviewedUnits": {
       "u1": [
@@ -1177,6 +1862,10 @@
       "u2": [
         10,
         17
+      ],
+      "u3": [
+        18,
+        25
       ]
     }
   }
