@@ -5931,12 +5931,856 @@
           ]
         }
       ]
+    },
+    {
+      "id": "u7",
+      "num": 7,
+      "title": "What Happened?",
+      "pages": [
+        56,
+        63
+      ],
+      "lessons": [],
+      "vocab": [
+        "accident",
+        "witness",
+        "insurance",
+        "intersection",
+        "injury",
+        "driver",
+        "passenger",
+        "traffic light",
+        "stop sign",
+        "crash",
+        "hurt",
+        "fault",
+        "relieved",
+        "happy",
+        "sad",
+        "tired",
+        "sleepy",
+        "angry",
+        "worried",
+        "nervous",
+        "scared",
+        "surprised",
+        "upset",
+        "ago",
+        "someone",
+        "no one",
+        "nothing",
+        "anything",
+        "because",
+        "so",
+        "neither",
+        "What is up?",
+        "Do not lose your cool.",
+        "The thing is",
+        "It will only take a minute.",
+        "quality",
+        "appearance",
+        "compliment",
+        "outgoing",
+        "confident",
+        "attitude",
+        "respect",
+        "admire",
+        "report",
+        "incident",
+        "fortunately",
+        "smoke",
+        "loud",
+        "bored",
+        "helped"
+      ],
+      "sentences": [
+        "There was an accident.",
+        "There were two cars.",
+        "There was not a traffic light.",
+        "Why are you worried?",
+        "Because I have a test.",
+        "I saw him two days ago.",
+        "No one was hurt.",
+        "I did not see anything.",
+        "I was tired, so I went home.",
+        "So am I.",
+        "Neither did I.",
+        "Do not lose your cool."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "كان فيه: there was وthere were",
+          "text": "مع اسم مفرد نستخدم there was، ومع جمع نستخدم there were. النفي there was not وthere were not. السؤال Was there an accident? أوWere there two cars? ده وصف لحاجة كانت موجودة في وقت فات."
+        },
+        {
+          "title": "اسأل عن السبب واستخدم ago",
+          "text": "Why بتسأل ليه، وbecause بتقدم السبب: Why are you worried? Because I have a test. كلمة ago بتتحط بعد المدة: two days ago وten minutes ago. مش قبلها، ومش بمعنى بعد مدة جاية."
+        },
+        {
+          "title": "شخص ولا حاجة؟",
+          "text": "someone شخص ما، وno one ولا شخص. nothing ولا حاجة، وanything بتستخدم في أسئلة أو نفي زي Did you hear anything? وI did not hear anything. في الإنجليزية القياسية في الأمثلة دي ما نجمعش did not مع nothing عشان نوصل نفس النفي. مع someone وno one نستخدم فعل مفرد زي someone was وno one was."
+        },
+        {
+          "title": "because سبب وso نتيجة",
+          "text": "I stayed at home because I was ill: الجزء اللي بعد because هو السبب. I was tired, so I went home: الجزء اللي بعد so هو النتيجة. في الأسئلة بنوضح هل المطلوب تقديم سبب ولا نتيجة، بدل جملة تحتمل رابطين بمعنيين مختلفين."
+        },
+        {
+          "title": "الموافقة: so وneither",
+          "text": "لو الجملة مثبتة، نوافق بـso والفعل المساعد ثم الفاعل: I am tired وردها So am I. I play tennis وردها So do I. I went home وردها So did I. لو منفية نستخدم neither: I am not tired وردها Neither am I، وI did not go وردها Neither did I. لازم الفعل المساعد يوافق زمن وتركيب الجملة الأصلية."
+        },
+        {
+          "title": "خبر كويس وخبر وحش",
+          "text": "It will only take a minute تعبير إن الكلام مش هياخد وقت. What is up? معناها إيه اللي حاصل؟ Do not lose your cool معناها ما تتعصبش. The thing is بتقدم المشكلة أو النقطة اللي محتاج تقولها. relieved شعور راحة بعد زوال القلق، وworried قلقان."
+        },
+        {
+          "title": "تقرير واضح ونص كامل",
+          "text": "تقرير الشاهد بيرتب اللي حصل ويحدد مين وإيه وفين وإمتى وليه وإزاي، مع and وbut وbecause وso وwhen. نصوص القراءة هنا أصلية وخيالية عن واقعة وموقف مدرسي، ومعروضة كاملة قبل كل سؤال. مش بلاغات حقيقية، ومفيش سؤال محتاج صورة أو تسجيل غايب."
+        }
+      ],
+      "meanings": {
+        "accident": "حادث",
+        "witness": "شاهد على اللي حصل",
+        "insurance": "تأمين يغطي تكاليف وفق شروطه",
+        "intersection": "تقاطع طريقين",
+        "injury": "إصابة",
+        "driver": "سائق",
+        "passenger": "راكب",
+        "traffic light": "إشارة مرور",
+        "stop sign": "علامة قف",
+        "crash": "اصطدام أو يصطدم",
+        "hurt": "مصاب أو اتأذى حسب السياق",
+        "fault": "خطأ أو مسؤولية عن الغلط",
+        "relieved": "مرتاح بعد زوال القلق",
+        "happy": "مبسوط",
+        "sad": "حزين",
+        "tired": "تعبان",
+        "sleepy": "نعسان",
+        "angry": "غضبان",
+        "worried": "قلقان",
+        "nervous": "متوتر",
+        "scared": "خايف",
+        "surprised": "متفاجئ",
+        "upset": "متضايق",
+        "ago": "من فترة فاتت، وتيجي بعد المدة",
+        "someone": "شخص ما",
+        "no one": "ولا شخص",
+        "nothing": "ولا حاجة",
+        "anything": "أي حاجة، حسب السؤال أو النفي",
+        "because": "لأن، قبل السبب",
+        "so": "لذلك، قبل النتيجة في الربط",
+        "neither": "ولا أنا كمان، في تركيب الموافقة على النفي",
+        "What is up?": "إيه اللي حاصل؟",
+        "Do not lose your cool.": "ما تتعصبش.",
+        "The thing is": "المشكلة أو الموضوع هو",
+        "It will only take a minute.": "الموضوع هيخلص بسرعة.",
+        "quality": "صفة أو ميزة",
+        "appearance": "المظهر",
+        "compliment": "يجامل بكلام لطيف أو إطراء",
+        "outgoing": "اجتماعي ومبادر بالكلام",
+        "confident": "واثق من نفسه",
+        "attitude": "طريقة التفكير والتعامل",
+        "respect": "يحترم",
+        "admire": "يعجب بـ",
+        "report": "تقرير",
+        "incident": "واقعة أو حادثة",
+        "fortunately": "لحسن الحظ",
+        "smoke": "دخان",
+        "loud": "صوته عالي",
+        "bored": "زهقان",
+        "helped": "ساعد"
+      },
+      "sentenceMeanings": {
+        "There was an accident.": "كان فيه حادث.",
+        "There were two cars.": "كان فيه عربيتين.",
+        "There was not a traffic light.": "ماكانش فيه إشارة مرور.",
+        "Why are you worried?": "إنت قلقان ليه؟",
+        "Because I have a test.": "عشان عندي اختبار.",
+        "I saw him two days ago.": "شفته من يومين.",
+        "No one was hurt.": "ماحدش اتصاب.",
+        "I did not see anything.": "ماشفتش أي حاجة.",
+        "I was tired, so I went home.": "كنت تعبان، فروحت البيت.",
+        "So am I.": "وأنا كمان، رد على إثبات مع am.",
+        "Neither did I.": "ولا أنا كمان، رد على نفي فعل في الماضي.",
+        "Do not lose your cool.": "ما تتعصبش."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "واقعة ومشاعر وشاهد",
+          "sub": "رتب الحروف حسب المعنى.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "ccidenta",
+              "answer": [
+                "accident"
+              ],
+              "hint": "حادث"
+            },
+            {
+              "type": "unscramble",
+              "letters": "itnessw",
+              "answer": [
+                "witness"
+              ],
+              "hint": "شاهد على اللي حصل"
+            },
+            {
+              "type": "unscramble",
+              "letters": "nsurancei",
+              "answer": [
+                "insurance"
+              ],
+              "hint": "تأمين"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ntersectioni",
+              "answer": [
+                "intersection"
+              ],
+              "hint": "تقاطع طريقين"
+            },
+            {
+              "type": "unscramble",
+              "letters": "njuryi",
+              "answer": [
+                "injury"
+              ],
+              "hint": "إصابة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "assengerp",
+              "answer": [
+                "passenger"
+              ],
+              "hint": "راكب"
+            },
+            {
+              "type": "unscramble",
+              "letters": "elievedr",
+              "answer": [
+                "relieved"
+              ],
+              "hint": "مرتاح بعد زوال القلق"
+            },
+            {
+              "type": "unscramble",
+              "letters": "orriedw",
+              "answer": [
+                "worried"
+              ],
+              "hint": "قلقان"
+            },
+            {
+              "type": "unscramble",
+              "letters": "careds",
+              "answer": [
+                "scared"
+              ],
+              "hint": "خايف"
+            },
+            {
+              "type": "unscramble",
+              "letters": "urpriseds",
+              "answer": [
+                "surprised"
+              ],
+              "hint": "متفاجئ"
+            }
+          ]
+        },
+        {
+          "id": "grammar",
+          "title": "كان فيه وليه ومن إمتى",
+          "sub": "there was وthere were وwhy وago.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Yesterday, there ___ an accident near the park.",
+              "options": [
+                "was",
+                "were",
+                "are"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "There ___ two cars at the corner yesterday.",
+              "options": [
+                "was",
+                "were",
+                "is"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "There ___ a traffic light there last year. Use the singular negative.",
+              "options": [
+                "were not",
+                "are not",
+                "was not"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "There ___ many people in the street at the time. Use the plural negative.",
+              "options": [
+                "were not",
+                "was not",
+                "is not"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "___ there an accident yesterday?",
+              "options": [
+                "Were",
+                "Was",
+                "Are"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ there any witnesses yesterday?",
+              "options": [
+                "Was",
+                "Is",
+                "Were"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "___ are you worried? Because I have a test.",
+              "options": [
+                "Why",
+                "Who",
+                "Where"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Why was the driver angry? Choose a reason.",
+              "options": [
+                "At the corner.",
+                "Because his car was damaged.",
+                "Ten minutes ago."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Complete with the word for من يومين: We saw the exhibit two days ___.",
+              "options": [
+                "after",
+                "before",
+                "ago"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the normal word order with ago.",
+              "options": [
+                "three weeks ago",
+                "ago three weeks",
+                "three ago weeks"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The driver did not ___ the sign.",
+              "options": [
+                "saw",
+                "see",
+                "sees"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "The witness ___ the accident yesterday.",
+              "options": [
+                "see",
+                "seeing",
+                "saw"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "pronouns",
+          "title": "شخص ولا حاجة؟",
+          "sub": "someone وno one وnothing وanything.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "A person helped the driver. ___ helped him.",
+              "options": [
+                "Someone",
+                "Nothing",
+                "Anything"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Everyone was safe. ___ was hurt.",
+              "options": [
+                "Someone",
+                "No one",
+                "Anything"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "I did not see ___ in the dark. Use the standard negative form.",
+              "options": [
+                "nothing",
+                "no one",
+                "anything"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "I did ___ wrong. All my answers were correct.",
+              "options": [
+                "nothing",
+                "anything",
+                "no one"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Did you hear ___? Choose the word for a thing, not a person.",
+              "options": [
+                "someone",
+                "anything",
+                "no one"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Can ___ please help me? Ask for a person.",
+              "options": [
+                "nothing",
+                "anything",
+                "someone"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Someone ___ at the door a minute ago.",
+              "options": [
+                "was",
+                "were",
+                "are"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "No one ___ injured in the fictional story.",
+              "options": [
+                "were",
+                "was",
+                "are"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "functions",
+          "title": "سبب ونتيجة وتعبيرات",
+          "sub": "المطلوب محدد: سبب ولا نتيجة ولا معنى.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Introduce a reason: I stayed at home ___ I was ill.",
+              "options": [
+                "so",
+                "and",
+                "because"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Introduce a result: I was tired, ___ I went home early.",
+              "options": [
+                "so",
+                "because",
+                "but"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Introduce a reason: She was happy ___ her team won.",
+              "options": [
+                "so",
+                "because",
+                "but"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Introduce a result: It was raining, ___ we stayed indoors.",
+              "options": [
+                "because",
+                "but",
+                "so"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Do not lose your cool means ___.",
+              "options": [
+                "Do not get angry.",
+                "Open a window.",
+                "Lose your jacket."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "What is up? means ___.",
+              "options": [
+                "What is the price?",
+                "What is happening?",
+                "What time is sunrise?"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "It will only take a minute means ___.",
+              "options": [
+                "It will take all day.",
+                "It happened last year.",
+                "It is going to be quick."
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "The thing is can introduce ___.",
+              "options": [
+                "the problem or main point",
+                "a street number only",
+                "the end of every story"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "agreement",
+          "title": "وأنا كمان أو ولا أنا كمان",
+          "sub": "so وneither مع الفعل المساعد المناسب.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "I am tired. Agree.",
+              "options": [
+                "So do I.",
+                "So am I.",
+                "Neither am I."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "I am not nervous. Agree.",
+              "options": [
+                "So am I.",
+                "Neither do I.",
+                "Neither am I."
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "I play tennis. Agree.",
+              "options": [
+                "So do I.",
+                "So am I.",
+                "Neither do I."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "I do not have a car. Agree.",
+              "options": [
+                "So do I.",
+                "Neither do I.",
+                "Neither am I."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "I went home early. Agree.",
+              "options": [
+                "So do I.",
+                "Neither did I.",
+                "So did I."
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "I did not see the accident. Agree.",
+              "options": [
+                "Neither did I.",
+                "So did I.",
+                "Neither do I."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "I have some good news. Use do as in the unit. Agree.",
+              "options": [
+                "So am I.",
+                "So do I.",
+                "Neither do I."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "I never lose my cool. Agree with this negative meaning.",
+              "options": [
+                "So do I.",
+                "Neither am I.",
+                "Neither do I."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "اقرأ التقرير والموقف المدرسي",
+          "sub": "النص كامل فوق كل سؤال.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Where was Lina when the incident happened?",
+              "options": [
+                "Inside the car",
+                "At school",
+                "Outside a shop near the park"
+              ],
+              "answer": 2,
+              "passage": "Original fictional witness report: Yesterday afternoon, Lina was outside a shop near the park. At three, she saw a small car hit an empty box in a parking area. The driver did not see the box because it was behind a large van. There were two people in the car. Fortunately, no one was hurt. A shop worker moved the empty box. Lina felt relieved. This is a fictional classroom report, not a real incident or safety advice."
+            },
+            {
+              "type": "mcq",
+              "q": "What did the car hit?",
+              "options": [
+                "An empty box",
+                "A tree",
+                "Another car"
+              ],
+              "answer": 0,
+              "passage": "Original fictional witness report: Yesterday afternoon, Lina was outside a shop near the park. At three, she saw a small car hit an empty box in a parking area. The driver did not see the box because it was behind a large van. There were two people in the car. Fortunately, no one was hurt. A shop worker moved the empty box. Lina felt relieved. This is a fictional classroom report, not a real incident or safety advice."
+            },
+            {
+              "type": "mcq",
+              "q": "Why did the driver not see the box?",
+              "options": [
+                "It was raining.",
+                "It was behind a large van.",
+                "There was no shop."
+              ],
+              "answer": 1,
+              "passage": "Original fictional witness report: Yesterday afternoon, Lina was outside a shop near the park. At three, she saw a small car hit an empty box in a parking area. The driver did not see the box because it was behind a large van. There were two people in the car. Fortunately, no one was hurt. A shop worker moved the empty box. Lina felt relieved. This is a fictional classroom report, not a real incident or safety advice."
+            },
+            {
+              "type": "mcq",
+              "q": "Was anyone hurt?",
+              "options": [
+                "Yes, the driver.",
+                "Yes, Lina.",
+                "No, no one was hurt."
+              ],
+              "answer": 2,
+              "passage": "Original fictional witness report: Yesterday afternoon, Lina was outside a shop near the park. At three, she saw a small car hit an empty box in a parking area. The driver did not see the box because it was behind a large van. There were two people in the car. Fortunately, no one was hurt. A shop worker moved the empty box. Lina felt relieved. This is a fictional classroom report, not a real incident or safety advice."
+            },
+            {
+              "type": "mcq",
+              "q": "Why was Omar worried at first?",
+              "options": [
+                "He could not find his notes.",
+                "He lost his phone.",
+                "He missed the bus."
+              ],
+              "answer": 0,
+              "passage": "Original fictional school story: Yesterday, Omar was worried before his English presentation because he could not find his notes. His friend Zaid helped him look for them. They found the notes inside Omar's science book. Omar felt relieved. During the presentation, he spoke clearly and smiled. After class, the teacher complimented his work. Omar was happy because he had finished his presentation. This is an original classroom story."
+            },
+            {
+              "type": "mcq",
+              "q": "Who helped Omar look for his notes?",
+              "options": [
+                "Lina",
+                "Zaid",
+                "The shop worker"
+              ],
+              "answer": 1,
+              "passage": "Original fictional school story: Yesterday, Omar was worried before his English presentation because he could not find his notes. His friend Zaid helped him look for them. They found the notes inside Omar's science book. Omar felt relieved. During the presentation, he spoke clearly and smiled. After class, the teacher complimented his work. Omar was happy because he had finished his presentation. This is an original classroom story."
+            },
+            {
+              "type": "mcq",
+              "q": "Where did they find the notes?",
+              "options": [
+                "In the parking area",
+                "On the bus",
+                "Inside Omar's science book"
+              ],
+              "answer": 2,
+              "passage": "Original fictional school story: Yesterday, Omar was worried before his English presentation because he could not find his notes. His friend Zaid helped him look for them. They found the notes inside Omar's science book. Omar felt relieved. During the presentation, he spoke clearly and smiled. After class, the teacher complimented his work. Omar was happy because he had finished his presentation. This is an original classroom story."
+            },
+            {
+              "type": "mcq",
+              "q": "How did Omar feel after finding the notes?",
+              "options": [
+                "Relieved",
+                "Angry",
+                "Sleepy"
+              ],
+              "answer": 0,
+              "passage": "Original fictional school story: Yesterday, Omar was worried before his English presentation because he could not find his notes. His friend Zaid helped him look for them. They found the notes inside Omar's science book. Omar felt relieved. During the presentation, he spoke clearly and smiled. After class, the teacher complimented his work. Omar was happy because he had finished his presentation. This is an original classroom story."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب جملة الواقعة",
+          "sub": "وجود في الماضي ونفي واتفاق.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "accident.",
+                "an",
+                "was",
+                "There"
+              ],
+              "answer": [
+                "There",
+                "was",
+                "an",
+                "accident."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "cars.",
+                "two",
+                "were",
+                "There"
+              ],
+              "answer": [
+                "There",
+                "were",
+                "two",
+                "cars."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "ago.",
+                "days",
+                "two",
+                "him",
+                "saw",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "saw",
+                "him",
+                "two",
+                "days",
+                "ago."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "anything.",
+                "see",
+                "not",
+                "did",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "did",
+                "not",
+                "see",
+                "anything."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "I.",
+                "am",
+                "So"
+              ],
+              "answer": [
+                "So",
+                "am",
+                "I."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "I.",
+                "did",
+                "Neither"
+              ],
+              "answer": [
+                "Neither",
+                "did",
+                "I."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "source": {
     "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g8/g8-english-1448.pdf",
     "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K08-SM1-ENGLMH-v2.pdf",
-    "title": "Super Goal 2, Part 1, Units 1–6 and Expansion 1–4, pages 2–55",
+    "title": "Super Goal 2, Part 1, Units 1–7 and Expansion 1–4, pages 2–63",
     "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint has a certificate error. Mirror bytes matched the reviewed PDF. Original explanations and exercises, not copied textbook questions.",
     "reviewedUnits": {
       "u1": [
@@ -5966,6 +6810,10 @@
       "u6": [
         48,
         55
+      ],
+      "u7": [
+        56,
+        63
       ]
     }
   }
