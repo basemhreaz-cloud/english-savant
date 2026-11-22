@@ -1,0 +1,60 @@
+name: Publish KG2 Unit 1 activity subset
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: english-savant-verified-bank-batch
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Download checked activity bundle
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api -H 'Accept: application/octet-stream' repos/$GITHUB_REPOSITORY/releases/assets/778987962 > /tmp/kg2-u1-bundle.zip
+      - name: Verify and publish the activity subset
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 - <<'PY'
+          import os,json,hashlib,pathlib,subprocess,urllib.request,zipfile
+          bundle=pathlib.Path('/tmp/kg2-u1-bundle.zip')
+          assert hashlib.sha256(bundle.read_bytes()).hexdigest()=='1de40c5035b30f6e1e4340ae1222cb75b9bac0ab592babe3855dcd9519a207cf','Bundle integrity mismatch'
+          expected=set(['assets/kg2/u1/act1.webp', 'assets/kg2/u1/act2.webp', 'assets/kg2/u1/act3.webp', 'assets/kg2/u1/act4.webp', 'assets/kg2/u1/act5.webp', 'assets/kg2/u1/act6.webp', 'assets/kg2/u1/act7.webp', 'assets/kg2/u1/act9.webp', 'assets/kg2/u1/anim-trace-k2-J-upper-final.png', 'assets/kg2/u1/anim-trace-k2-J-upper.mp4', 'assets/kg2/u1/anim-trace-k2-K-upper-final.png', 'assets/kg2/u1/anim-trace-k2-K-upper.mp4', 'assets/kg2/u1/anim-trace-k2-j-lower-final.png', 'assets/kg2/u1/anim-trace-k2-j-lower.mp4', 'assets/kg2/u1/anim-trace-k2-k-lower-final.png', 'assets/kg2/u1/anim-trace-k2-k-lower.mp4', 'assets/kg2/u1/anim-trace-k2-n1-final.png', 'assets/kg2/u1/anim-trace-k2-n1.mp4', 'assets/kg2/u1/anim-trace-k2-n2-final.png', 'assets/kg2/u1/anim-trace-k2-n2.mp4', 'assets/kg2/u1/ar-i-count.mp3', 'assets/kg2/u1/ar-i-point.mp3', 'assets/kg2/u1/ar-i-say.mp3', 'assets/kg2/u1/ar-i-song.mp3', 'assets/kg2/u1/ar-i-tap.mp3', 'assets/kg2/u1/ar-i-trace.mp3', 'assets/kg2/u1/ar-i-turns.mp3', 'assets/kg2/u1/ar-i-we.mp3', 'assets/kg2/u1/count1.webp', 'assets/kg2/u1/count2.webp', 'assets/kg2/u1/en-i-act.mp3', 'assets/kg2/u1/en-i-count.mp3', 'assets/kg2/u1/en-i-kite.mp3', 'assets/kg2/u1/en-i-trace.mp3', 'assets/kg2/u1/en-n-1.mp3', 'assets/kg2/u1/en-n-2.mp3', 'assets/kg2/u1/en-s-jump-we.mp3', 'assets/kg2/u1/en-s-kick.mp3', 'assets/kg2/u1/en-s-run.mp3', 'assets/kg2/u1/en-s-skip.mp3', 'assets/kg2/u1/en-song.mp3', 'assets/kg2/u1/en-v-kind.mp3', 'assets/kg2/u1/en-v-safe.mp3', 'assets/kg2/u1/en-v-turns.mp3', 'assets/kg2/u1/en-word-catch.mp3', 'assets/kg2/u1/en-word-fly.mp3', 'assets/kg2/u1/en-word-jump.mp3', 'assets/kg2/u1/en-word-kick.mp3', 'assets/kg2/u1/en-word-kite.mp3', 'assets/kg2/u1/en-word-run.mp3', 'assets/kg2/u1/en-word-skip.mp3', 'assets/kg2/u1/en-word-throw.mp3', 'assets/kg2/u1/en-word-walk.mp3', 'assets/kg2/u1/kite1.webp', 'assets/kg2/u1/kite10.webp', 'assets/kg2/u1/kite11.webp', 'assets/kg2/u1/kite12.webp', 'assets/kg2/u1/kite2.webp', 'assets/kg2/u1/kite3.webp', 'assets/kg2/u1/kite4.webp', 'assets/kg2/u1/kite5.webp', 'assets/kg2/u1/kite6.webp', 'assets/kg2/u1/kite7.webp', 'assets/kg2/u1/kite8.webp', 'assets/kg2/u1/kite9.webp', 'grade-kg2.html', 'grades.html', 'kg2-u1.json', 'kg2.css', 'kg2.html', 'kg2.js'])
+          with zipfile.ZipFile(bundle) as z:
+              assert set(z.namelist())==expected|{'manifest.json'},'Unexpected bundle entries'
+              m=json.loads(z.read('manifest.json'))
+              assert set(m['files'])==expected
+              files={name:z.read(name) for name in expected}
+          for name,row in m['files'].items():
+              f=pathlib.Path(name)
+              assert not f.is_absolute() and '..' not in f.parts
+              assert (hashlib.sha256(f.read_bytes()).hexdigest() if f.exists() else None)==row['before'],'Concurrent change: '+name
+              assert len(files[name])==row['bytes'] and hashlib.sha256(files[name]).hexdigest()==row['after'],'File integrity mismatch: '+name
+          for name,data in files.items():
+              f=pathlib.Path(name);f.parent.mkdir(parents=True,exist_ok=True);f.write_bytes(data)
+          subprocess.run(['git','config','user.name','basemhreaz-cloud'],check=True)
+          subprocess.run(['git','config','user.email','basemhreaz-cloud@users.noreply.github.com'],check=True)
+          subprocess.run(['git','add','--']+sorted(expected),check=True)
+          subprocess.run(['git','commit','-m','Publish checked KG2 Unit 1 activity subset'],check=True)
+          subprocess.run(['git','push','origin','HEAD:main'],check=True)
+          req=urllib.request.Request('https://api.github.com/repos/'+os.environ['GITHUB_REPOSITORY']+'/pages/builds',method='POST',data=b'{}',headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28','Content-Type':'application/json'})
+          with urllib.request.urlopen(req) as r:print('Pages build requested:',r.status)
+          print('Published exact checked files:',len(expected))
+          PY
+      - name: Remove unpublished transfer draft
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api repos/$GITHUB_REPOSITORY/releases/454430470 --jq '{draft,name}' > /tmp/draft-check.json
+          python3 -c "import json; p=json.load(open('/tmp/draft-check.json')); assert p['draft'] is True and p['name']=='KG2 U1 checked website bundle transfer'"
+          gh api --method DELETE repos/$GITHUB_REPOSITORY/releases/454430470
