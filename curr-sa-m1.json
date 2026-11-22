@@ -3125,12 +3125,765 @@
           ]
         }
       ]
+    },
+    {
+      "id": "u5",
+      "num": 5,
+      "title": "Families, Families",
+      "pages": [
+        40,
+        47
+      ],
+      "lessons": [],
+      "vocab": [
+        "family",
+        "father",
+        "mother",
+        "parents",
+        "brother",
+        "sister",
+        "son",
+        "daughter",
+        "grandfather",
+        "grandmother",
+        "grandparents",
+        "grandchild",
+        "grandchildren",
+        "husband",
+        "wife",
+        "uncle",
+        "aunt",
+        "cousin",
+        "nephew",
+        "niece",
+        "only child",
+        "married",
+        "single",
+        "teenage",
+        "baby",
+        "child",
+        "children",
+        "person",
+        "people",
+        "man",
+        "men",
+        "woman",
+        "women",
+        "foot",
+        "feet",
+        "tooth",
+        "teeth",
+        "any",
+        "a lot of",
+        "lots of",
+        "care for",
+        "support",
+        "society",
+        "future",
+        "values",
+        "protect",
+        "home",
+        "education",
+        "knife",
+        "roof",
+        "leaf",
+        "box",
+        "tomato"
+      ],
+      "sentences": [
+        "Do you have any brothers?",
+        "I have two sisters.",
+        "She has one brother.",
+        "He does not have any children.",
+        "Does Hadi have a sister?",
+        "Yes, he does.",
+        "No, they do not.",
+        "How many cousins do you have?",
+        "Who are these children?",
+        "This is my brother's book.",
+        "I am an only child.",
+        "Families care for their children."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "مين في العيلة؟",
+          "text": "parents هم الأب والأم، وgrandparents الأجداد. brother أخ وsister أخت، وson ابن وdaughter بنت. uncle عم أو خال أو زوج عمة أو خالة، وaunt عمة أو خالة أو زوجة عم أو خال. cousin تنفع لابن أو بنت العم والعمة والخال والخالة. nephew ابن أخوك أو أختك، وniece بنت أخوك أو أختك. only child معناها من غير إخوات، مش معناها طفل عمره سنة."
+        },
+        {
+          "title": "have وhas والسؤال والنفي",
+          "text": "مع I وyou وwe وthey نستخدم have. مع he وshe نستخدم has: She has a brother. السؤال مع Do أوDoes وبعدها have من غير s: Does she have a sister? النفي برضه have: He doesn't have a brother. جاوب باختصار Yes, she does أوNo, she doesn't. مع Do you? جاوب عن نفسك Yes, I do أوNo, I don't."
+        },
+        {
+          "title": "العدد: any وa lot of وHow many",
+          "text": "في السؤال والنفي مع الجمع هنا نستخدم any: Do you have any cousins? I don't have any sisters. a lot of وlots of معناهم كثير من: I have lots of cousins. للسؤال عن عدد أفراد معدودين استخدم How many وبعدها اسم جمع: How many brothers do you have? أما Who فتسأل عن مين: Who are these children?"
+        },
+        {
+          "title": "الملكية وعلامة apostrophe",
+          "text": "بعد اسم شخص أو اسم مفرد، نضيف apostrophe ثم s: Rami's book وmy brother's cat. لو المالك جمعًا منتظمًا منتهيًا بـs، نحط apostrophe بعد s: the girls' room لغرفة البنات، وmy cousins' cat لقطة أولاد عمي. ما تخلطش الملكية مع الاختصار: He's my brother معناها He is my brother، مش ملكية."
+        },
+        {
+          "title": "الجمع المنتظم وبعض الاستثناءات",
+          "text": "غالبًا بنزود s: book/books وkey/keys. بعد s وsh وch وx غالبًا نزود es: box/boxes وwatch/watches. بعض الكلمات المنتهية بـo جمعها es زي tomato/tomatoes، لكن radio/radios. لو قبل y حرف ساكن نقلبها ies: family/families، لكن key/keys لأن قبل y حرف متحرك. بعض كلمات f أوfe بتتحول لـves: knife/knives وleaf/leaves، لكن roof/roofs. احفظ الكلمة واستثناءها، مش كل نهاية ليها نفس القاعدة."
+        },
+        {
+          "title": "الجمع غير المنتظم وفهم نص العيلة",
+          "text": "احفظ الجمع غير المنتظم: child/children، person/people، man/men، woman/women، foot/feet، tooth/teeth. في النص الافتراضي هنا دور على عدد الإخوات وأسماء أفراد العيلة والعلاقات المكتوبة بوضوح. النص كامل فوق كل سؤال، ومش محتاج صورة شجرة عيلة أو تسجيل صوتي. العيلة في النص بتعتني بالأطفال وبتساعدهم في واجباتهم."
+        }
+      ],
+      "meanings": {
+        "family": "عائلة",
+        "father": "أب",
+        "mother": "أم",
+        "parents": "الأب والأم",
+        "brother": "أخ",
+        "sister": "أخت",
+        "son": "ابن",
+        "daughter": "بنت",
+        "grandfather": "جد",
+        "grandmother": "جدة",
+        "grandparents": "الجد والجدة أو الأجداد",
+        "grandchild": "حفيد أو حفيدة",
+        "grandchildren": "أحفاد",
+        "husband": "زوج",
+        "wife": "زوجة",
+        "uncle": "عم أو خال، أو زوج عمة أو خالة",
+        "aunt": "عمة أو خالة، أو زوجة عم أو خال",
+        "cousin": "ابن أو بنت العم أو العمة أو الخال أو الخالة",
+        "nephew": "ابن الأخ أو الأخت",
+        "niece": "بنت الأخ أو الأخت",
+        "only child": "ابن وحيد أو بنت وحيدة من غير إخوات",
+        "married": "متزوج",
+        "single": "غير متزوج",
+        "teenage": "في سن المراهقة",
+        "baby": "طفل رضيع",
+        "child": "طفل",
+        "children": "أطفال",
+        "person": "شخص",
+        "people": "ناس أو أشخاص",
+        "man": "رجل",
+        "men": "رجال",
+        "woman": "امرأة",
+        "women": "نساء",
+        "foot": "قدم",
+        "feet": "أقدام",
+        "tooth": "سِنّ",
+        "teeth": "أسنان",
+        "any": "أي، وتُستخدم مع الجمع في السؤال والنفي هنا",
+        "a lot of": "كثير من",
+        "lots of": "كثير من",
+        "care for": "يعتني بـ",
+        "support": "دعم",
+        "society": "مجتمع",
+        "future": "مستقبل",
+        "values": "قيم",
+        "protect": "يحمي",
+        "home": "بيت",
+        "education": "تعليم",
+        "knife": "سكين",
+        "roof": "سقف",
+        "leaf": "ورقة شجر",
+        "box": "صندوق",
+        "tomato": "ثمرة طماطم"
+      },
+      "sentenceMeanings": {
+        "Do you have any brothers?": "عندك إخوات ولاد؟",
+        "I have two sisters.": "عندي أختين.",
+        "She has one brother.": "عندها أخ واحد.",
+        "He does not have any children.": "معندوش أطفال.",
+        "Does Hadi have a sister?": "هادي عنده أخت؟",
+        "Yes, he does.": "أيوه، عنده، في إجابة السؤال بـDoes.",
+        "No, they do not.": "لأ، معندهمش، في إجابة السؤال بـDo عن الامتلاك.",
+        "How many cousins do you have?": "عندك كام قريب من أولاد العم أو العمة أو الخال أو الخالة؟",
+        "Who are these children?": "مين الأطفال دول؟",
+        "This is my brother's book.": "ده كتاب أخويا.",
+        "I am an only child.": "أنا ابن وحيد، معنديش إخوات.",
+        "Families care for their children.": "العائلات بتعتني بأطفالها."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "أفراد العيلة",
+          "sub": "رتب الحروف حسب المعنى العربي.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "atherf",
+              "answer": [
+                "father"
+              ],
+              "hint": "أب"
+            },
+            {
+              "type": "unscramble",
+              "letters": "otherm",
+              "answer": [
+                "mother"
+              ],
+              "hint": "أم"
+            },
+            {
+              "type": "unscramble",
+              "letters": "rotherb",
+              "answer": [
+                "brother"
+              ],
+              "hint": "أخ"
+            },
+            {
+              "type": "unscramble",
+              "letters": "isters",
+              "answer": [
+                "sister"
+              ],
+              "hint": "أخت"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ncleu",
+              "answer": [
+                "uncle"
+              ],
+              "hint": "عم أو خال"
+            },
+            {
+              "type": "unscramble",
+              "letters": "unta",
+              "answer": [
+                "aunt"
+              ],
+              "hint": "عمة أو خالة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ousinc",
+              "answer": [
+                "cousin"
+              ],
+              "hint": "ابن أو بنت العم أو العمة أو الخال أو الخالة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ephewn",
+              "answer": [
+                "nephew"
+              ],
+              "hint": "ابن الأخ أو الأخت"
+            },
+            {
+              "type": "unscramble",
+              "letters": "iecen",
+              "answer": [
+                "niece"
+              ],
+              "hint": "بنت الأخ أو الأخت"
+            },
+            {
+              "type": "unscramble",
+              "letters": "randfatherg",
+              "answer": [
+                "grandfather"
+              ],
+              "hint": "جد"
+            }
+          ]
+        },
+        {
+          "id": "grammar",
+          "title": "have والعدد والأسئلة",
+          "sub": "راجع have/has وDo/Does وany وHow many.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "I ___ two sisters.",
+              "options": [
+                "have",
+                "has",
+                "having"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "She ___ one brother.",
+              "options": [
+                "have",
+                "has",
+                "having"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "They ___ a big family.",
+              "options": [
+                "has",
+                "having",
+                "have"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "He does not ___ any children.",
+              "options": [
+                "have",
+                "has",
+                "having"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "___ you have any cousins?",
+              "options": [
+                "Does",
+                "Do",
+                "Is"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ she have a brother?",
+              "options": [
+                "Do",
+                "Are",
+                "Does"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Does he have a sister? Yes, he ___.",
+              "options": [
+                "does",
+                "do",
+                "is"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Do they have any children? No, they ___.",
+              "options": [
+                "doesn't",
+                "don't",
+                "isn't"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "I do not have ___ sisters.",
+              "options": [
+                "a",
+                "much",
+                "any"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "A lot of cousins means ___.",
+              "options": [
+                "many cousins",
+                "no cousins",
+                "one cousin"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "___ brothers do you have? I have two.",
+              "options": [
+                "Who",
+                "How many",
+                "Where"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ are these children? They are my cousins.",
+              "options": [
+                "How many",
+                "Where",
+                "Who"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "possessives",
+          "title": "الملكية والاختصارات",
+          "sub": "عدد أصحاب الحاجة واضح في السؤال. راجع مكان apostrophe.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "The book belongs to Rami. It is ___ book.",
+              "options": [
+                "Rami's",
+                "Ramis'",
+                "Rami"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "One brother owns a cat. It is my ___ cat.",
+              "options": [
+                "brothers",
+                "brother's",
+                "brothers'"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "A room belongs to two girls. It is the ___ room.",
+              "options": [
+                "girl's",
+                "girls",
+                "girls'"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "My two cousins own a cat together. It is my ___ cat.",
+              "options": [
+                "cousins'",
+                "cousin's",
+                "cousins"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "In 'He's my brother', 's means ___.",
+              "options": [
+                "possession",
+                "is",
+                "plural"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "The phone belongs to my mother. It is my ___ phone.",
+              "options": [
+                "mothers",
+                "mothers'",
+                "mother's"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "plurals",
+          "title": "الجمع المنتظم وغير المنتظم",
+          "sub": "اختار صيغة الجمع الصحيحة.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Choose the plural of child.",
+              "options": [
+                "children",
+                "childs",
+                "childes"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the plural of man.",
+              "options": [
+                "mans",
+                "men",
+                "manes"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the plural of woman.",
+              "options": [
+                "womans",
+                "womanes",
+                "women"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the plural of foot.",
+              "options": [
+                "feet",
+                "foots",
+                "feets"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the plural of tooth.",
+              "options": [
+                "tooths",
+                "teeth",
+                "toothes"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the plural of person.",
+              "options": [
+                "person",
+                "persones",
+                "people"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the plural of family.",
+              "options": [
+                "families",
+                "familys",
+                "familyes"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the plural of key.",
+              "options": [
+                "keies",
+                "keys",
+                "keyes"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the plural of box.",
+              "options": [
+                "boxs",
+                "boxies",
+                "boxes"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the plural of tomato.",
+              "options": [
+                "tomatoes",
+                "tomatoses",
+                "tomato"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the plural of knife.",
+              "options": [
+                "knifeses",
+                "knives",
+                "knife"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the plural of roof.",
+              "options": [
+                "roof",
+                "roofes",
+                "roofs"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the plural of radio.",
+              "options": [
+                "radios",
+                "radioes",
+                "radio"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the plural of watch.",
+              "options": [
+                "watchs",
+                "watches",
+                "watchies"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "قراءة: عيلة افتراضية",
+          "sub": "النص كامل فوق كل سؤال، ومش محتاج شجرة عيلة أو تسجيل.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "How many brothers does Rami have?",
+              "options": [
+                "One",
+                "Two",
+                "Three"
+              ],
+              "answer": 0,
+              "passage": "Imaginary family practice: My name is Rami. I have one brother, Hadi, and two sisters, Noor and Mona. Hadi does not have any children. Our father's name is Adel, and our mother's name is Salma. Our uncle Sami and our aunt Hala have one child, Yara. Yara is our cousin. Grandfather Fahd and Grandmother Amina care for us. We help each other with homework and spend time together."
+            },
+            {
+              "type": "mcq",
+              "q": "How many sisters does Rami have?",
+              "options": [
+                "One",
+                "Two",
+                "Three"
+              ],
+              "answer": 1,
+              "passage": "Imaginary family practice: My name is Rami. I have one brother, Hadi, and two sisters, Noor and Mona. Hadi does not have any children. Our father's name is Adel, and our mother's name is Salma. Our uncle Sami and our aunt Hala have one child, Yara. Yara is our cousin. Grandfather Fahd and Grandmother Amina care for us. We help each other with homework and spend time together."
+            },
+            {
+              "type": "mcq",
+              "q": "What is Rami's father's name?",
+              "options": [
+                "Fahd",
+                "Sami",
+                "Adel"
+              ],
+              "answer": 2,
+              "passage": "Imaginary family practice: My name is Rami. I have one brother, Hadi, and two sisters, Noor and Mona. Hadi does not have any children. Our father's name is Adel, and our mother's name is Salma. Our uncle Sami and our aunt Hala have one child, Yara. Yara is our cousin. Grandfather Fahd and Grandmother Amina care for us. We help each other with homework and spend time together."
+            },
+            {
+              "type": "mcq",
+              "q": "What is Rami's mother's name?",
+              "options": [
+                "Salma",
+                "Amina",
+                "Hala"
+              ],
+              "answer": 0,
+              "passage": "Imaginary family practice: My name is Rami. I have one brother, Hadi, and two sisters, Noor and Mona. Hadi does not have any children. Our father's name is Adel, and our mother's name is Salma. Our uncle Sami and our aunt Hala have one child, Yara. Yara is our cousin. Grandfather Fahd and Grandmother Amina care for us. We help each other with homework and spend time together."
+            },
+            {
+              "type": "mcq",
+              "q": "Who is Yara?",
+              "options": [
+                "Rami's sister",
+                "Rami's cousin",
+                "Rami's mother"
+              ],
+              "answer": 1,
+              "passage": "Imaginary family practice: My name is Rami. I have one brother, Hadi, and two sisters, Noor and Mona. Hadi does not have any children. Our father's name is Adel, and our mother's name is Salma. Our uncle Sami and our aunt Hala have one child, Yara. Yara is our cousin. Grandfather Fahd and Grandmother Amina care for us. We help each other with homework and spend time together."
+            },
+            {
+              "type": "mcq",
+              "q": "Does Hadi have any children?",
+              "options": [
+                "Yes, he has one.",
+                "Yes, he has two.",
+                "No, he does not."
+              ],
+              "answer": 2,
+              "passage": "Imaginary family practice: My name is Rami. I have one brother, Hadi, and two sisters, Noor and Mona. Hadi does not have any children. Our father's name is Adel, and our mother's name is Salma. Our uncle Sami and our aunt Hala have one child, Yara. Yara is our cousin. Grandfather Fahd and Grandmother Amina care for us. We help each other with homework and spend time together."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب الجملة",
+          "sub": "راجع السؤال والعدد والملكية.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "sisters.",
+                "two",
+                "have",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "have",
+                "two",
+                "sisters."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "children?",
+                "any",
+                "have",
+                "Hadi",
+                "Does"
+              ],
+              "answer": [
+                "Does",
+                "Hadi",
+                "have",
+                "any",
+                "children?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "have?",
+                "you",
+                "do",
+                "cousins",
+                "many",
+                "How"
+              ],
+              "answer": [
+                "How",
+                "many",
+                "cousins",
+                "do",
+                "you",
+                "have?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "book.",
+                "brother's",
+                "my",
+                "is",
+                "This"
+              ],
+              "answer": [
+                "This",
+                "is",
+                "my",
+                "brother's",
+                "book."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "source": {
     "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g7/g7-english-1448.pdf",
     "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K07-SM1-ENGLMH.pdf",
-    "title": "Super Goal 1, Part 1, Units 1–4 and Expansion, pages 2–39",
+    "title": "Super Goal 1, Part 1, Units 1–5 and Expansion 1–4, pages 2–47",
     "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint returned HTTP500. Original explanations and exercises, not copied textbook questions.",
     "reviewedUnits": {
       "u1": [
@@ -3152,6 +3905,10 @@
       "exp1": [
         34,
         39
+      ],
+      "u5": [
+        40,
+        47
       ]
     }
   }
