@@ -1,0 +1,599 @@
+{
+  "grade": "P1",
+  "term": 1,
+  "unit": 6,
+  "kind": "interactive_explanation",
+  "audio_status": "Reading explanation only; no recorded teaching audio or stroke animation.",
+  "lessons": [
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 6,
+      "lesson": 1,
+      "lesson_title": "Welcome to the Jungle",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 6 Lesson 1, pdf p.104-107",
+      "goal_ar": "النهارده هنتعرف على حيوانات الغابة ونعد رجليها ونقول مكانها.",
+      "steps": [
+        {
+          "id": "u6e1-1",
+          "kind": "gloss",
+          "title_ar": "اقرا المحادثة",
+          "body_ar": "Omar وLeila في الغابة. الجمل المهمة:",
+          "en": [
+            "Omar: What's this?",
+            "Leila: It's a lion!",
+            "Leila: A tiger has 4 legs.",
+            "Leila: The monkey is in the tree!",
+            "Leila: There is a snake on the ground!"
+          ],
+          "source_page": "104"
+        },
+        {
+          "id": "u6e1-2",
+          "kind": "gloss",
+          "title_ar": "يعني إيه؟",
+          "body_ar": "lion = أسد. tiger = نمر. monkey = قرد. elephant = فيل. giraffe = زرافة. snake = ثعبان. jungle = غابة.",
+          "source_page": "104-105"
+        },
+        {
+          "id": "u6e1-3",
+          "kind": "word",
+          "title_ar": "tiger",
+          "body_ar": "tiger يعني نمر. النمر عنده 4 legs.",
+          "en": [
+            "A tiger has 4 legs."
+          ],
+          "image": "p1-lessons-assets/img/tiger.png",
+          "check_ref": "p1-u6-l1-tg01",
+          "source_page": "105"
+        },
+        {
+          "id": "u6e1-4",
+          "kind": "word",
+          "title_ar": "elephant",
+          "body_ar": "elephant يعني فيل.",
+          "en": [
+            "elephant"
+          ],
+          "image": "p1-lessons-assets/img/kg-elephant.png",
+          "check_ref": "p1-u6-l1-kg01",
+          "source_page": "105"
+        },
+        {
+          "id": "u6e1-5",
+          "kind": "word",
+          "title_ar": "monkey",
+          "body_ar": "monkey يعني قرد. القرد في الشجرة: in the tree.",
+          "en": [
+            "The monkey is in the tree."
+          ],
+          "image": "p1-lessons-assets/img/kg-monkey.png",
+          "check_ref": "p1-u6-l1-kg02",
+          "source_page": "105"
+        },
+        {
+          "id": "u6e1-6",
+          "kind": "word",
+          "title_ar": "lion, giraffe, snake",
+          "body_ar": "lion يعني أسد. giraffe يعني زرافة. snake يعني ثعبان.",
+          "en": [
+            "lion",
+            "giraffe",
+            "snake"
+          ],
+          "check_ref": "p1-u6-l1-01",
+          "source_page": "105"
+        },
+        {
+          "id": "u6e1-7",
+          "kind": "pattern",
+          "title_ar": "in / on",
+          "body_ar": "in يعني جوه: The monkey is in the tree. on يعني على: There is a snake on the ground.",
+          "en": [
+            "The monkey is in the tree.",
+            "There is a snake on the ground."
+          ],
+          "check_ref": "p1-u6-l1-11",
+          "source_page": "104"
+        },
+        {
+          "id": "u6e1-8",
+          "kind": "pattern",
+          "title_ar": "How many?",
+          "body_ar": "How many lions can you see? ونرد: I can see 2 lions.",
+          "en": [
+            "How many lions can you see?",
+            "I can see 2 lions."
+          ],
+          "check_ref": "p1-u6-l1-26",
+          "source_page": "104"
+        },
+        {
+          "id": "u6e1-9",
+          "kind": "check",
+          "title_ar": "رتّب الكلمات",
+          "body_ar": "رتّب الكلمات عشان تعمل جملة.",
+          "check_ref": "p1-u6-l1-28",
+          "source_page": "104"
+        },
+        {
+          "id": "u6e1-10",
+          "kind": "dialogue_practice",
+          "title_ar": "كمّل المحادثة",
+          "body_ar": "كمّل المحادثة بنفسك.",
+          "check_ref": "p1-u6-l1-35",
+          "source_page": "104"
+        },
+        {
+          "id": "u6e1-11",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "lion، tiger، monkey، elephant، giraffe، snake. A tiger has 4 legs. The monkey is in the tree."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 6,
+      "lesson": 2,
+      "lesson_title": "Phonics (Bb, Ll)",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 6 Lesson 2, pdf p.108-112",
+      "goal_ar": "النهارده هنعرف حرفين: B وL، صوتهم وكلمات بتبدأ بيهم.",
+      "steps": [
+        {
+          "id": "u6e2-1",
+          "kind": "sound",
+          "title_ar": "الحرف B",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "ball, bird, boy, banana, bike"
+          ],
+          "source_page": "108"
+        },
+        {
+          "id": "u6e2-2",
+          "kind": "word",
+          "title_ar": "banana",
+          "body_ar": "banana يعني موزة. بتبدأ بحرف b.",
+          "en": [
+            "banana"
+          ],
+          "image": "p1-lessons-assets/img/obj-banana.png",
+          "check_ref": "p1-u6-l2-obj01",
+          "source_page": "108"
+        },
+        {
+          "id": "u6e2-3",
+          "kind": "word",
+          "title_ar": "ball",
+          "body_ar": "ball يعني كورة. بتبدأ بحرف b.",
+          "en": [
+            "ball"
+          ],
+          "check_ref": "p1-u6-l2-04",
+          "source_page": "108"
+        },
+        {
+          "id": "u6e2-4",
+          "kind": "word",
+          "title_ar": "bird, boy, bike",
+          "body_ar": "bird يعني عصفورة. boy يعني ولد. bike يعني عجلة. بيبدأوا بحرف b.",
+          "en": [
+            "bird",
+            "boy",
+            "bike"
+          ],
+          "check_ref": "p1-u6-l2-12",
+          "source_page": "108"
+        },
+        {
+          "id": "u6e2-5",
+          "kind": "letter",
+          "title_ar": "شكل الحرف B",
+          "body_ar": "الحرف الكبير B والصغير b. اتتبّعهم واكتبهم واتبع الأسهم.",
+          "en": [
+            "Bb"
+          ],
+          "check_ref": "p1-u6-l2-09",
+          "source_page": "108-109"
+        },
+        {
+          "id": "u6e2-6",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u6-l2-19",
+          "source_page": "112"
+        },
+        {
+          "id": "u6e2-7",
+          "kind": "sound",
+          "title_ar": "الحرف L",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "lamp, lemon, lion, leaf, lunch"
+          ],
+          "source_page": "110"
+        },
+        {
+          "id": "u6e2-8",
+          "kind": "word",
+          "title_ar": "lemon",
+          "body_ar": "lemon يعني ليمون. بتبدأ بحرف l.",
+          "en": [
+            "lemon"
+          ],
+          "image": "p1-lessons-assets/img/obj-lemon.png",
+          "check_ref": "p1-u6-l2-obj07",
+          "source_page": "110"
+        },
+        {
+          "id": "u6e2-9",
+          "kind": "word",
+          "title_ar": "leaf",
+          "body_ar": "leaf يعني ورقة شجر. بتبدأ بحرف l.",
+          "en": [
+            "leaf"
+          ],
+          "image": "p1-lessons-assets/img/obj-leaf.png",
+          "check_ref": "p1-u6-l2-obj03",
+          "source_page": "110"
+        },
+        {
+          "id": "u6e2-10",
+          "kind": "word",
+          "title_ar": "lamp",
+          "body_ar": "lamp يعني أباجورة. بتبدأ بحرف l.",
+          "en": [
+            "lamp"
+          ],
+          "image": "p1-lessons-assets/img/kg-lamp.png",
+          "check_ref": "p1-u6-l2-obj05",
+          "source_page": "110"
+        },
+        {
+          "id": "u6e2-11",
+          "kind": "word",
+          "title_ar": "lion and lunch",
+          "body_ar": "lion يعني أسد. lunch يعني غدا. بيبدأوا بحرف l.",
+          "en": [
+            "lion",
+            "lunch"
+          ],
+          "check_ref": "p1-u6-l2-33",
+          "source_page": "110"
+        },
+        {
+          "id": "u6e2-12",
+          "kind": "letter",
+          "title_ar": "شكل الحرف L",
+          "body_ar": "الحرف الكبير L والصغير l. اتتبّعهم واكتبهم واتبع الأسهم.",
+          "en": [
+            "Ll"
+          ],
+          "check_ref": "p1-u6-l2-29",
+          "source_page": "110-111"
+        },
+        {
+          "id": "u6e2-13",
+          "kind": "check",
+          "title_ar": "b ولا l؟",
+          "body_ar": "اختار الكلمة اللي بتبدأ بـ l مش b.",
+          "check_ref": "p1-u6-l2-42",
+          "source_page": "112"
+        },
+        {
+          "id": "u6e2-14",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u6-l2-39",
+          "source_page": "112"
+        },
+        {
+          "id": "u6e2-15",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "b: ball، bird، boy، banana، bike. l: lamp، lemon، lion، leaf، lunch."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 6,
+      "lesson": 3,
+      "lesson_title": "My Pets",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 6 Lesson 3, pdf p.113-116",
+      "goal_ar": "النهارده هنتعلم حيوانات أليفة وبنقول هي فين: in وon وunder.",
+      "steps": [
+        {
+          "id": "u6e3-1",
+          "kind": "gloss",
+          "title_ar": "اقرا المحادثة",
+          "body_ar": "Ali وHana بيتكلموا عن حيواناتهم الأليفة. الجمل المهمة:",
+          "en": [
+            "Ali: The cat is on my leg!",
+            "Ali: The dog is on the couch.",
+            "Ali: The bird is in the cage.",
+            "Ali: The turtle is under the table!"
+          ],
+          "source_page": "113"
+        },
+        {
+          "id": "u6e3-2",
+          "kind": "gloss",
+          "title_ar": "يعني إيه؟",
+          "body_ar": "cat = قطة. dog = كلب. bird = عصفورة. turtle = سلحفاة. in = جوه. on = على. under = تحت. pet = حيوان أليف.",
+          "source_page": "114"
+        },
+        {
+          "id": "u6e3-3",
+          "kind": "word",
+          "title_ar": "cat",
+          "body_ar": "cat يعني قطة.",
+          "en": [
+            "cat"
+          ],
+          "image": "p1-lessons-assets/img/kg-cat.png",
+          "check_ref": "p1-u6-l3-kg01",
+          "source_page": "114"
+        },
+        {
+          "id": "u6e3-4",
+          "kind": "word",
+          "title_ar": "turtle",
+          "body_ar": "turtle يعني سلحفاة.",
+          "en": [
+            "turtle"
+          ],
+          "image": "p1-lessons-assets/img/kg-turtle.png",
+          "check_ref": "p1-u6-l3-kg02",
+          "source_page": "114"
+        },
+        {
+          "id": "u6e3-5",
+          "kind": "word",
+          "title_ar": "cage",
+          "body_ar": "cage يعني قفص. العصفورة بتعيش في قفص.",
+          "en": [
+            "cage"
+          ],
+          "image": "p1-lessons-assets/img/obj-cage.png",
+          "check_ref": "p1-u6-l3-obj01",
+          "source_page": "114"
+        },
+        {
+          "id": "u6e3-6",
+          "kind": "pattern",
+          "title_ar": "in",
+          "body_ar": "in يعني جوه. بص على الصورة: الكورة جوه الصندوق.",
+          "en": [
+            "The ball is in the box."
+          ],
+          "image": "p1-lessons-assets/img/ball-in-box.png",
+          "check_ref": "p1-u6-l3-img03",
+          "source_page": "114"
+        },
+        {
+          "id": "u6e3-7",
+          "kind": "pattern",
+          "title_ar": "on",
+          "body_ar": "on يعني على. بص على الصورة: الكورة على الترابيزة.",
+          "en": [
+            "The ball is on the table."
+          ],
+          "image": "p1-lessons-assets/img/ball-on-table.png",
+          "check_ref": "p1-u6-l3-img01",
+          "source_page": "114"
+        },
+        {
+          "id": "u6e3-8",
+          "kind": "pattern",
+          "title_ar": "under",
+          "body_ar": "under يعني تحت. بص على الصورة: الكورة تحت الترابيزة.",
+          "en": [
+            "The ball is under the table."
+          ],
+          "image": "p1-lessons-assets/img/ball-under-table.png",
+          "check_ref": "p1-u6-l3-img02",
+          "source_page": "114"
+        },
+        {
+          "id": "u6e3-9",
+          "kind": "pattern",
+          "title_ar": "Where is ...?",
+          "body_ar": "Where is the dog? يعني الكلب فين؟ ونرد: The dog is on the couch.",
+          "en": [
+            "Where is the dog?",
+            "The dog is on the couch."
+          ],
+          "check_ref": "p1-u6-l3-10",
+          "source_page": "114"
+        },
+        {
+          "id": "u6e3-10",
+          "kind": "check",
+          "title_ar": "رتّب الكلمات",
+          "body_ar": "رتّب الكلمات عشان تعمل جملة.",
+          "check_ref": "p1-u6-l3-27",
+          "source_page": "114"
+        },
+        {
+          "id": "u6e3-11",
+          "kind": "dialogue_practice",
+          "title_ar": "كمّل المحادثة",
+          "body_ar": "كمّل المحادثة بنفسك.",
+          "check_ref": "p1-u6-l3-35",
+          "source_page": "113"
+        },
+        {
+          "id": "u6e3-12",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "cat، dog، bird، turtle. in جوه، on على، under تحت. Where is the dog?"
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 6,
+      "lesson": 4,
+      "lesson_title": "Phonics (Uu, Jj)",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 6 Lesson 4, pdf p.117-121",
+      "goal_ar": "النهارده هنعرف حرفين: U وJ، صوتهم وكلمات بتبدأ بيهم.",
+      "steps": [
+        {
+          "id": "u6e4-1",
+          "kind": "sound",
+          "title_ar": "الحرف U",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "up, unlock, umbrella, under"
+          ],
+          "source_page": "117"
+        },
+        {
+          "id": "u6e4-2",
+          "kind": "word",
+          "title_ar": "umbrella",
+          "body_ar": "umbrella يعني شمسية. بتبدأ بحرف u.",
+          "en": [
+            "umbrella"
+          ],
+          "image": "p1-lessons-assets/img/kg-umbrella.png",
+          "check_ref": "p1-u6-l4-obj01",
+          "source_page": "117"
+        },
+        {
+          "id": "u6e4-3",
+          "kind": "word",
+          "title_ar": "up, unlock",
+          "body_ar": "up يعني لفوق. unlock يعني يفتح القفل.",
+          "en": [
+            "up",
+            "unlock"
+          ],
+          "check_ref": "p1-u6-l4-11",
+          "source_page": "117"
+        },
+        {
+          "id": "u6e4-4",
+          "kind": "word",
+          "title_ar": "under",
+          "body_ar": "under يعني تحت. بص على الصورة: الكورة تحت الترابيزة.",
+          "en": [
+            "under"
+          ],
+          "image": "p1-lessons-assets/img/ball-under-table.png",
+          "check_ref": "p1-u6-l4-04",
+          "source_page": "117"
+        },
+        {
+          "id": "u6e4-5",
+          "kind": "letter",
+          "title_ar": "شكل الحرف U",
+          "body_ar": "الحرف الكبير U والصغير u. اتتبّعهم واكتبهم واتبع الأسهم.",
+          "en": [
+            "Uu"
+          ],
+          "check_ref": "p1-u6-l4-09",
+          "source_page": "117-118"
+        },
+        {
+          "id": "u6e4-6",
+          "kind": "sound",
+          "title_ar": "الحرف J",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "jam, jacket, jar, jellyfish, jeans"
+          ],
+          "source_page": "119"
+        },
+        {
+          "id": "u6e4-7",
+          "kind": "word",
+          "title_ar": "jam",
+          "body_ar": "jam يعني مربى. بتبدأ بحرف j.",
+          "en": [
+            "jam"
+          ],
+          "image": "p1-lessons-assets/img/obj-jam.png",
+          "check_ref": "p1-u6-l4-obj03",
+          "source_page": "119"
+        },
+        {
+          "id": "u6e4-8",
+          "kind": "word",
+          "title_ar": "jar",
+          "body_ar": "jar يعني برطمان. بتبدأ بحرف j.",
+          "en": [
+            "jar"
+          ],
+          "image": "p1-lessons-assets/img/obj-jar.png",
+          "check_ref": "p1-u6-l4-obj05",
+          "source_page": "119"
+        },
+        {
+          "id": "u6e4-9",
+          "kind": "word",
+          "title_ar": "jacket",
+          "body_ar": "jacket يعني جاكت. بتبدأ بحرف j.",
+          "en": [
+            "jacket"
+          ],
+          "image": "p1-lessons-assets/img/obj-jacket.png",
+          "check_ref": "p1-u6-l4-obj07",
+          "source_page": "119"
+        },
+        {
+          "id": "u6e4-10",
+          "kind": "word",
+          "title_ar": "jellyfish and jeans",
+          "body_ar": "jellyfish يعني قنديل البحر. jeans يعني بنطلون جينز. بيبدأوا بحرف j.",
+          "en": [
+            "jellyfish",
+            "jeans"
+          ],
+          "check_ref": "p1-u6-l4-23",
+          "source_page": "119"
+        },
+        {
+          "id": "u6e4-11",
+          "kind": "letter",
+          "title_ar": "شكل الحرف J",
+          "body_ar": "الحرف الكبير J والصغير j. اتتبّعهم واكتبهم واتبع الأسهم.",
+          "en": [
+            "Jj"
+          ],
+          "check_ref": "p1-u6-l4-28",
+          "source_page": "119-120"
+        },
+        {
+          "id": "u6e4-12",
+          "kind": "check",
+          "title_ar": "u ولا j؟",
+          "body_ar": "اختار الكلمة اللي بتبدأ بـ j مش u.",
+          "check_ref": "p1-u6-l4-41",
+          "source_page": "121"
+        },
+        {
+          "id": "u6e4-13",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u6-l4-38",
+          "source_page": "121"
+        },
+        {
+          "id": "u6e4-14",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "u: up، unlock، umbrella، under. j: jam، jacket، jar، jellyfish، jeans."
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 /* Lesson assessments. Original content, source-grounded and reviewed before publication. */
 (()=>{'use strict';
-const root=document.querySelector('#lesson-assessment'),unit=Number(root.dataset.unit||1);
+const root=document.querySelector('#lesson-assessment'),unit=Number(new URLSearchParams(location.search).get('unit')||1);
 const norm=x=>String(x).normalize('NFKC').replace(/[’‘]/g,"'").trim().toLowerCase().replace(/\s+/g,' ').replace(/\s+([.!?,])/g,'$1').replace(/[.!?،]+$/,'');
 const join=(xs,letters)=>letters?xs.join(''):xs.join(' ').replace(/\s+([.!?,])/g,'$1');
 const node=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!==undefined)e.textContent=text;return e};

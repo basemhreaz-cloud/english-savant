@@ -3,7 +3,7 @@
   "term": 1,
   "unit": 1,
   "kind": "interactive_explanation",
-  "audio_status": "No recorded teaching audio generated or certified for this reading explanation.",
+  "audio_status": "Reading explanation only; no recorded teaching audio or stroke animation.",
   "lessons": [
     {
       "grade": "P1",
@@ -147,11 +147,10 @@
         {
           "id": "e2-1",
           "kind": "sound",
-          "title_ar": "صوت حرف T",
-          "body_ar": "حرف T ليه اسم وصوت. في أول tiger وtomato بنستخدم صوته /t/، مش اسم الحرف. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "title_ar": "الحرف T",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
           "en": [
-            "T t",
-            "tiger · tomato"
+            "tiger, tomato, table, tree, teacher"
           ],
           "source_page": "12"
         },
@@ -259,7 +258,7 @@
           "id": "e2-12",
           "kind": "recap",
           "title_ar": "افتكر",
-          "body_ar": "t صوتها ت خفيفة. tiger، tomato، table، tree، teacher كلهم بيبدأوا بـ t."
+          "body_ar": "t: tiger، tomato، table، tree، teacher كلهم بيبدأوا بـ t."
         }
       ]
     },
@@ -447,11 +446,10 @@
         {
           "id": "e4-1",
           "kind": "sound",
-          "title_ar": "صوت حرف I",
-          "body_ar": "حرف i في in وill صوته قصير /ɪ/، مش اسم الحرف آي. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "title_ar": "الحرف I",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
           "en": [
-            "I i",
-            "in · ill"
+            "in, ill, insect, ink"
           ],
           "source_page": "21"
         },
@@ -483,7 +481,7 @@
           "id": "e4-4",
           "kind": "word",
           "title_ar": "insect",
-          "body_ar": "insect يعني حشرة. بتبدأ بحرف i.",
+          "body_ar": "insect يعني حشرة. بص على الصورة: دي نملة، والنملة نوع من الحشرات. كلمة insect بتبدأ بحرف i.",
           "en": [
             "insect"
           ],
@@ -518,7 +516,7 @@
           "id": "e4-7",
           "kind": "compare",
           "title_ar": "T ولا I؟",
-          "body_ar": "T صوتها ت. i صوتها i القصيرة. tiger بتبدأ بـ t. insect بتبدأ بـ i. فرّق بينهم.",
+          "body_ar": "tiger بتبدأ بـ t، وinsect بتبدأ بـ i. الحرفين مختلفين: t و i. بص على أول حرف في الكلمة.",
           "en": [
             "tiger → t",
             "insect → i"
@@ -560,10 +558,9 @@
           "id": "e4-12",
           "kind": "recap",
           "title_ar": "افتكر",
-          "body_ar": "i صوتها قصير. in، ill، insect، ink كلهم بيبدأوا بـ i. وtiger بتبدأ بـ t."
+          "body_ar": "in، ill، insect، ink كلهم بيبدأوا بـ i. وtiger بتبدأ بـ t."
         }
       ]
     }
-  ],
-  "presentation": "Reading explanation with interactive checks; no recorded teaching audio or trace animation."
+  ]
 }

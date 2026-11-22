@@ -1,0 +1,586 @@
+{
+  "grade": "P1",
+  "term": 1,
+  "unit": 5,
+  "kind": "interactive_explanation",
+  "audio_status": "Reading explanation only; no recorded teaching audio or stroke animation.",
+  "lessons": [
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 5,
+      "lesson": 1,
+      "lesson_title": "Welcome to the Farm",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 1, pdf p.85-88",
+      "goal_ar": "النهارده هنتعلم حيوانات المزرعة ونوصفها كبيرة ولا صغيرة.",
+      "steps": [
+        {
+          "id": "u5e1-1",
+          "kind": "gloss",
+          "title_ar": "اقرا المحادثة",
+          "body_ar": "Noor وZiad في المزرعة. الجمل المهمة:",
+          "en": [
+            "Noor: Look at the cow!",
+            "Ziad: The cow is big!",
+            "Ziad: The duck is small.",
+            "Ziad: The horse is big, too.",
+            "Ziad: The chicken is small."
+          ],
+          "source_page": "85"
+        },
+        {
+          "id": "u5e1-2",
+          "kind": "gloss",
+          "title_ar": "يعني إيه؟",
+          "body_ar": "cow = بقرة. duck = بطة. horse = حصان. chicken = فرخة. big = كبير. small = صغير. farm = مزرعة. animals = حيوانات.",
+          "source_page": "85-86"
+        },
+        {
+          "id": "u5e1-3",
+          "kind": "word",
+          "title_ar": "cow",
+          "body_ar": "cow يعني بقرة. البقرة big.",
+          "en": [
+            "The cow is big."
+          ],
+          "image": "p1-lessons-assets/img/kg-cow.png",
+          "check_ref": "p1-u5-l1-kg01",
+          "source_page": "86"
+        },
+        {
+          "id": "u5e1-4",
+          "kind": "word",
+          "title_ar": "duck",
+          "body_ar": "duck يعني بطة. البطة small.",
+          "en": [
+            "The duck is small."
+          ],
+          "check_ref": "p1-u5-l1-02",
+          "source_page": "86"
+        },
+        {
+          "id": "u5e1-5",
+          "kind": "word",
+          "title_ar": "horse",
+          "body_ar": "horse يعني حصان. الحصان big.",
+          "en": [
+            "The horse is big."
+          ],
+          "check_ref": "p1-u5-l1-03",
+          "source_page": "86"
+        },
+        {
+          "id": "u5e1-6",
+          "kind": "word",
+          "title_ar": "chicken",
+          "body_ar": "chicken يعني فرخة. الفرخة small.",
+          "en": [
+            "The chicken is small."
+          ],
+          "check_ref": "p1-u5-l1-04",
+          "source_page": "86"
+        },
+        {
+          "id": "u5e1-7",
+          "kind": "pattern",
+          "title_ar": "big / small",
+          "body_ar": "The ___ is big. أو The ___ is small. big عكس small.",
+          "en": [
+            "The cow is big.",
+            "The duck is small."
+          ],
+          "check_ref": "p1-u5-l1-13",
+          "source_page": "86"
+        },
+        {
+          "id": "u5e1-8",
+          "kind": "check",
+          "title_ar": "وصف الحيوان",
+          "body_ar": "اختار big أو small.",
+          "check_ref": "p1-u5-l1-09",
+          "source_page": "87-88"
+        },
+        {
+          "id": "u5e1-9",
+          "kind": "check",
+          "title_ar": "رتّب الكلمات",
+          "body_ar": "رتّب الكلمات عشان تعمل جملة.",
+          "check_ref": "p1-u5-l1-27",
+          "source_page": "86"
+        },
+        {
+          "id": "u5e1-10",
+          "kind": "dialogue_practice",
+          "title_ar": "كمّل المحادثة",
+          "body_ar": "كمّل المحادثة بنفسك.",
+          "check_ref": "p1-u5-l1-35",
+          "source_page": "85"
+        },
+        {
+          "id": "u5e1-11",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "cow، duck، horse، chicken. The cow is big. The duck is small."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 5,
+      "lesson": 2,
+      "lesson_title": "Phonics (Mm, Gg)",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 2, pdf p.89-93",
+      "goal_ar": "النهارده هنعرف حرفين: M وG، صوتهم وكلمات بتبدأ بيهم.",
+      "steps": [
+        {
+          "id": "u5e2-1",
+          "kind": "sound",
+          "title_ar": "الحرف M",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "moon, monkey, milk, mango, mouse"
+          ],
+          "source_page": "89"
+        },
+        {
+          "id": "u5e2-2",
+          "kind": "word",
+          "title_ar": "moon",
+          "body_ar": "moon يعني قمر. بتبدأ بحرف m.",
+          "en": [
+            "moon"
+          ],
+          "image": "p1-lessons-assets/img/obj-moon.png",
+          "check_ref": "p1-u5-l2-obj01",
+          "source_page": "89"
+        },
+        {
+          "id": "u5e2-3",
+          "kind": "word",
+          "title_ar": "milk",
+          "body_ar": "milk يعني لبن. بتبدأ بحرف m.",
+          "en": [
+            "milk"
+          ],
+          "image": "p1-lessons-assets/img/obj-milk.png",
+          "check_ref": "p1-u5-l2-obj03",
+          "source_page": "89"
+        },
+        {
+          "id": "u5e2-4",
+          "kind": "word",
+          "title_ar": "mango",
+          "body_ar": "mango يعني مانجا. بتبدأ بحرف m.",
+          "en": [
+            "mango"
+          ],
+          "image": "p1-lessons-assets/img/obj-mango.png",
+          "check_ref": "p1-u5-l2-obj05",
+          "source_page": "89"
+        },
+        {
+          "id": "u5e2-5",
+          "kind": "word",
+          "title_ar": "monkey",
+          "body_ar": "monkey يعني قرد. بتبدأ بحرف m.",
+          "en": [
+            "monkey"
+          ],
+          "image": "p1-lessons-assets/img/kg-monkey.png",
+          "check_ref": "p1-u5-l2-kg01",
+          "source_page": "89"
+        },
+        {
+          "id": "u5e2-6",
+          "kind": "letter",
+          "title_ar": "شكل الحرف M",
+          "body_ar": "الحرف الكبير M والصغير m. اتتبّعهم واكتبهم واتبع الأسهم.",
+          "en": [
+            "Mm"
+          ],
+          "check_ref": "p1-u5-l2-09",
+          "source_page": "89-90"
+        },
+        {
+          "id": "u5e2-7",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u5-l2-19",
+          "source_page": "90"
+        },
+        {
+          "id": "u5e2-8",
+          "kind": "sound",
+          "title_ar": "الحرف G",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "grapes, goat, girl, guitar, gloves"
+          ],
+          "source_page": "91"
+        },
+        {
+          "id": "u5e2-9",
+          "kind": "word",
+          "title_ar": "grapes",
+          "body_ar": "grapes يعني عنب. بتبدأ بحرف g.",
+          "en": [
+            "grapes"
+          ],
+          "image": "p1-lessons-assets/img/kg-grapes.png",
+          "check_ref": "p1-u5-l2-obj07",
+          "source_page": "91"
+        },
+        {
+          "id": "u5e2-10",
+          "kind": "word",
+          "title_ar": "guitar",
+          "body_ar": "guitar يعني جيتار. بتبدأ بحرف g.",
+          "en": [
+            "guitar"
+          ],
+          "image": "p1-lessons-assets/img/obj-guitar.png",
+          "check_ref": "p1-u5-l2-obj09",
+          "source_page": "91"
+        },
+        {
+          "id": "u5e2-11",
+          "kind": "word",
+          "title_ar": "gloves",
+          "body_ar": "gloves يعني جوانتي. بتبدأ بحرف g.",
+          "en": [
+            "gloves"
+          ],
+          "image": "p1-lessons-assets/img/obj-gloves.png",
+          "check_ref": "p1-u5-l2-obj11",
+          "source_page": "91"
+        },
+        {
+          "id": "u5e2-12",
+          "kind": "word",
+          "title_ar": "goat and girl",
+          "body_ar": "goat يعني معزة. girl يعني بنت. بيبدأوا بحرف g.",
+          "en": [
+            "goat",
+            "girl"
+          ],
+          "check_ref": "p1-u5-l2-32",
+          "source_page": "91"
+        },
+        {
+          "id": "u5e2-13",
+          "kind": "letter",
+          "title_ar": "شكل الحرف G",
+          "body_ar": "الحرف الكبير G والصغير g. اتتبّعهم واكتبهم واتبع الأسهم.",
+          "en": [
+            "Gg"
+          ],
+          "check_ref": "p1-u5-l2-29",
+          "source_page": "91-92"
+        },
+        {
+          "id": "u5e2-14",
+          "kind": "check",
+          "title_ar": "m ولا g؟",
+          "body_ar": "اختار الكلمة اللي بتبدأ بـ g مش m.",
+          "check_ref": "p1-u5-l2-42",
+          "source_page": "93"
+        },
+        {
+          "id": "u5e2-15",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u5-l2-39",
+          "source_page": "93"
+        },
+        {
+          "id": "u5e2-16",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "m: moon، monkey، milk، mango، mouse. g: grapes، goat، girl، guitar، gloves."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 5,
+      "lesson": 3,
+      "lesson_title": "Numbers From 6 to 10",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 3, pdf p.94-97",
+      "goal_ar": "النهارده هنعد من 6 لـ 10.",
+      "steps": [
+        {
+          "id": "u5e3-1",
+          "kind": "gloss",
+          "title_ar": "اقرا المحادثة",
+          "body_ar": "Sara وTamer بيعدوا الحيوانات. الجمل المهمة:",
+          "en": [
+            "Tamer: I can see 7 horses!",
+            "Tamer: 1, 2, 3, 4, 5, 6, 7, 8, and 9",
+            "Sara: There are 9 ducks!",
+            "Tamer: That's a lot of animals!"
+          ],
+          "source_page": "94"
+        },
+        {
+          "id": "u5e3-2",
+          "kind": "word",
+          "title_ar": "6 7 8 9 10",
+          "body_ar": "6 six. 7 seven. 8 eight. 9 nine. 10 ten. كل رقم أكبر من اللي قبله بواحد.",
+          "en": [
+            "6 six",
+            "7 seven",
+            "8 eight",
+            "9 nine",
+            "10 ten"
+          ],
+          "check_ref": "p1-u5-l3-04",
+          "source_page": "95"
+        },
+        {
+          "id": "u5e3-3",
+          "kind": "word",
+          "title_ar": "عدّ التفاح",
+          "body_ar": "عد التفاح في الصورة.",
+          "en": [
+            "How many apples?"
+          ],
+          "image": "p1-lessons-assets/img/count-apples-6.png",
+          "check_ref": "p1-u5-l3-img01",
+          "source_page": "96"
+        },
+        {
+          "id": "u5e3-4",
+          "kind": "word",
+          "title_ar": "عدّ النجوم",
+          "body_ar": "عد النجوم في الصورة.",
+          "en": [
+            "How many stars?"
+          ],
+          "image": "p1-lessons-assets/img/count-stars-7.png",
+          "check_ref": "p1-u5-l3-img02",
+          "source_page": "96"
+        },
+        {
+          "id": "u5e3-5",
+          "kind": "word",
+          "title_ar": "عدّ الكتب",
+          "body_ar": "عد الكتب في الصورة.",
+          "en": [
+            "How many books?"
+          ],
+          "image": "p1-lessons-assets/img/count-books-8.png",
+          "check_ref": "p1-u5-l3-img03",
+          "source_page": "97"
+        },
+        {
+          "id": "u5e3-6",
+          "kind": "word",
+          "title_ar": "عدّ الشنط",
+          "body_ar": "عد الشنط في الصورة.",
+          "en": [
+            "How many bags?"
+          ],
+          "image": "p1-lessons-assets/img/count-bags-9.png",
+          "check_ref": "p1-u5-l3-img04",
+          "source_page": "97"
+        },
+        {
+          "id": "u5e3-7",
+          "kind": "word",
+          "title_ar": "عدّ الورد",
+          "body_ar": "عد الورد في الصورة.",
+          "en": [
+            "How many flowers?"
+          ],
+          "image": "p1-lessons-assets/img/count-flowers-10.png",
+          "check_ref": "p1-u5-l3-img05",
+          "source_page": "97"
+        },
+        {
+          "id": "u5e3-8",
+          "kind": "pattern",
+          "title_ar": "I can see ...",
+          "body_ar": "I can see 6 ducks. I can see 10 stars. There are 9 ducks.",
+          "en": [
+            "I can see 6 ducks.",
+            "I can see 10 stars."
+          ],
+          "check_ref": "p1-u5-l3-23",
+          "source_page": "96"
+        },
+        {
+          "id": "u5e3-9",
+          "kind": "check",
+          "title_ar": "رقم ناقص",
+          "body_ar": "اكتب الرقم الناقص.",
+          "check_ref": "p1-u5-l3-28",
+          "source_page": "97"
+        },
+        {
+          "id": "u5e3-10",
+          "kind": "dialogue_practice",
+          "title_ar": "كمّل المحادثة",
+          "body_ar": "كمّل المحادثة بنفسك.",
+          "check_ref": "p1-u5-l3-29",
+          "source_page": "94"
+        },
+        {
+          "id": "u5e3-11",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "6، 7، 8، 9، 10. بنعد واحد واحد. I can see 6 ducks."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 5,
+      "lesson": 4,
+      "lesson_title": "Phonics (Oo, Ff)",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 4, pdf p.98-102",
+      "goal_ar": "النهارده هنعرف حرفين: O وF، صوتهم وكلمات بتبدأ بيهم.",
+      "steps": [
+        {
+          "id": "u5e4-1",
+          "kind": "sound",
+          "title_ar": "الحرف O",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "octopus, on, ostrich, olive"
+          ],
+          "source_page": "98"
+        },
+        {
+          "id": "u5e4-2",
+          "kind": "word",
+          "title_ar": "olive",
+          "body_ar": "olive يعني زيتونة. بتبدأ بحرف o.",
+          "en": [
+            "olive"
+          ],
+          "image": "p1-lessons-assets/img/obj-olive.png",
+          "check_ref": "p1-u5-l4-obj01",
+          "source_page": "98"
+        },
+        {
+          "id": "u5e4-3",
+          "kind": "word",
+          "title_ar": "octopus, ostrich",
+          "body_ar": "octopus يعني أخطبوط. ostrich يعني نعامة.",
+          "en": [
+            "octopus",
+            "ostrich"
+          ],
+          "check_ref": "p1-u5-l4-11",
+          "source_page": "98"
+        },
+        {
+          "id": "u5e4-4",
+          "kind": "word",
+          "title_ar": "on",
+          "body_ar": "on يعني على أو فوق. ده مش اسم حاجة، ده كلمة بتقول مكان.",
+          "en": [
+            "on"
+          ],
+          "check_ref": "p1-u5-l4-12",
+          "source_page": "98"
+        },
+        {
+          "id": "u5e4-5",
+          "kind": "letter",
+          "title_ar": "شكل الحرف O",
+          "body_ar": "الحرف الكبير O والصغير o. اتتبّعهم واكتبهم واتبع الأسهم.",
+          "en": [
+            "Oo"
+          ],
+          "check_ref": "p1-u5-l4-09",
+          "source_page": "98-99"
+        },
+        {
+          "id": "u5e4-6",
+          "kind": "sound",
+          "title_ar": "الحرف F",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "fish, fork, fan, frog"
+          ],
+          "source_page": "100"
+        },
+        {
+          "id": "u5e4-7",
+          "kind": "word",
+          "title_ar": "fork",
+          "body_ar": "fork يعني شوكة. بتبدأ بحرف f.",
+          "en": [
+            "fork"
+          ],
+          "image": "p1-lessons-assets/img/obj-fork.png",
+          "check_ref": "p1-u5-l4-obj05",
+          "source_page": "100"
+        },
+        {
+          "id": "u5e4-8",
+          "kind": "word",
+          "title_ar": "fan",
+          "body_ar": "fan يعني مروحة. بتبدأ بحرف f.",
+          "en": [
+            "fan"
+          ],
+          "image": "p1-lessons-assets/img/obj-fan.png",
+          "check_ref": "p1-u5-l4-obj03",
+          "source_page": "100"
+        },
+        {
+          "id": "u5e4-9",
+          "kind": "word",
+          "title_ar": "fish and frog",
+          "body_ar": "fish يعني سمكة. frog يعني ضفدعة. بيبدأوا بحرف f.",
+          "en": [
+            "fish",
+            "frog"
+          ],
+          "check_ref": "p1-u5-l4-30",
+          "source_page": "100"
+        },
+        {
+          "id": "u5e4-10",
+          "kind": "letter",
+          "title_ar": "شكل الحرف F",
+          "body_ar": "الحرف الكبير F والصغير f. اتتبّعهم واكتبهم واتبع الأسهم.",
+          "en": [
+            "Ff"
+          ],
+          "check_ref": "p1-u5-l4-28",
+          "source_page": "100-101"
+        },
+        {
+          "id": "u5e4-11",
+          "kind": "check",
+          "title_ar": "o ولا f؟",
+          "body_ar": "اختار الكلمة اللي بتبدأ بـ f مش o.",
+          "check_ref": "p1-u5-l4-41",
+          "source_page": "102"
+        },
+        {
+          "id": "u5e4-12",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u5-l4-39",
+          "source_page": "102"
+        },
+        {
+          "id": "u5e4-13",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "o: octopus، on، ostrich، olive. f: fish، fork، fan، frog."
+        }
+      ]
+    }
+  ]
+}

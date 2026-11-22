@@ -1,0 +1,584 @@
+{
+  "grade": "P1",
+  "term": 1,
+  "unit": 2,
+  "kind": "interactive_explanation",
+  "audio_status": "Reading explanation only; no recorded teaching audio or stroke animation.",
+  "lessons": [
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 2,
+      "lesson": 1,
+      "lesson_title": "In the Garden",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 1, pdf p.26-29",
+      "goal_ar": "النهارده هنقرا عن الجنينة ونتعلم أسماء حاجات فيها وألوانها.",
+      "steps": [
+        {
+          "id": "u2e1-1",
+          "kind": "gloss",
+          "title_ar": "اقرا المحادثة",
+          "body_ar": "Maya وHana في الجنينة. اقرا الجمل واحدة واحدة.",
+          "en": [
+            "Maya: The grass is green.",
+            "Hana: I can see a flower.",
+            "Maya: The flower is red.",
+            "Hana: And look at the sky! It's blue.",
+            "Maya: The butterfly is flying near the tree!"
+          ],
+          "source_page": "26"
+        },
+        {
+          "id": "u2e1-2",
+          "kind": "gloss",
+          "title_ar": "يعني إيه؟",
+          "body_ar": "grass = حشيش. flower = زهرة. sky = سما. tree = شجرة. butterfly = فراشة. bird = عصفور. green = أخضر. red = أحمر. blue = أزرق.",
+          "source_page": "27"
+        },
+        {
+          "id": "u2e1-3",
+          "kind": "word",
+          "title_ar": "grass",
+          "body_ar": "grass يعني حشيش. شوف الصورة، ده حشيش أخضر.",
+          "en": [
+            "grass"
+          ],
+          "image": "p1-lessons-assets/img/kg-grass.png",
+          "check_ref": "p1-u2-l1-obj01",
+          "source_page": "27"
+        },
+        {
+          "id": "u2e1-4",
+          "kind": "word",
+          "title_ar": "flower",
+          "body_ar": "flower يعني زهرة.",
+          "en": [
+            "flower"
+          ],
+          "image": "p1-lessons-assets/img/flower.png",
+          "check_ref": "p1-u2-l1-img01",
+          "source_page": "27"
+        },
+        {
+          "id": "u2e1-5",
+          "kind": "word",
+          "title_ar": "sky",
+          "body_ar": "sky يعني سما.",
+          "en": [
+            "sky"
+          ],
+          "image": "p1-lessons-assets/img/obj-sky.png",
+          "check_ref": "p1-u2-l1-obj03",
+          "source_page": "27"
+        },
+        {
+          "id": "u2e1-6",
+          "kind": "word",
+          "title_ar": "tree",
+          "body_ar": "tree يعني شجرة.",
+          "en": [
+            "tree"
+          ],
+          "image": "p1-lessons-assets/img/tree.png",
+          "check_ref": "p1-u2-l1-img02",
+          "source_page": "27"
+        },
+        {
+          "id": "u2e1-7",
+          "kind": "word",
+          "title_ar": "butterfly",
+          "body_ar": "butterfly يعني فراشة. بتطير جنب الشجرة.",
+          "en": [
+            "butterfly"
+          ],
+          "check_ref": "p1-u2-l1-05",
+          "source_page": "27"
+        },
+        {
+          "id": "u2e1-8",
+          "kind": "word",
+          "title_ar": "bird",
+          "body_ar": "bird يعني عصفور. العصفور على الشجرة.",
+          "en": [
+            "bird"
+          ],
+          "check_ref": "p1-u2-l1-06",
+          "source_page": "27"
+        },
+        {
+          "id": "u2e1-9",
+          "kind": "pattern",
+          "title_ar": "The ___ is ___.",
+          "body_ar": "نوصف لون الحاجة كده: The grass is green. The sky is blue. The flower is red. The sun is yellow.",
+          "en": [
+            "The grass is green.",
+            "The sky is blue.",
+            "The flower is red.",
+            "The sun is yellow."
+          ],
+          "check_ref": "p1-u2-l1-11",
+          "source_page": "27"
+        },
+        {
+          "id": "u2e1-10",
+          "kind": "pattern",
+          "title_ar": "I can see a ...",
+          "body_ar": "لما تشوف حاجة تقول: I can see a bird. يعني أنا شايف عصفور.",
+          "en": [
+            "I can see a bird."
+          ],
+          "check_ref": "p1-u2-l1-15",
+          "source_page": "27"
+        },
+        {
+          "id": "u2e1-11",
+          "kind": "pattern",
+          "title_ar": "What's this?",
+          "body_ar": "What's this? يعني ده إيه؟ والرد: This is a butterfly.",
+          "en": [
+            "What's this?",
+            "This is a butterfly."
+          ],
+          "check_ref": "p1-u2-l1-16",
+          "source_page": "27"
+        },
+        {
+          "id": "u2e1-12",
+          "kind": "check",
+          "title_ar": "جرّب: اللون",
+          "body_ar": "اختار الإجابة الصح.",
+          "check_ref": "p1-u2-l1-12"
+        },
+        {
+          "id": "u2e1-13",
+          "kind": "check",
+          "title_ar": "رتّب الكلمات",
+          "body_ar": "رتّب الكلمات عشان تعمل جملة.",
+          "check_ref": "p1-u2-l1-24"
+        },
+        {
+          "id": "u2e1-14",
+          "kind": "dialogue_practice",
+          "title_ar": "كمّل المحادثة",
+          "body_ar": "كمّل المحادثة بنفسك.",
+          "check_ref": "p1-u2-l1-31",
+          "source_page": "26-29"
+        },
+        {
+          "id": "u2e1-15",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "grass أخضر، sky أزرق، flower أحمر، sun أصفر. I can see a ... وWhat's this? This is a ..."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 2,
+      "lesson": 2,
+      "lesson_title": "Phonics (Ss)",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 2, pdf p.30-33",
+      "goal_ar": "النهارده هنعرف حرف S وصوته وكلمات بتبدأ بيه.",
+      "steps": [
+        {
+          "id": "u2e2-1",
+          "kind": "sound",
+          "title_ar": "الحرف S",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "sun, star, spoon, snake, spider"
+          ],
+          "source_page": "30"
+        },
+        {
+          "id": "u2e2-2",
+          "kind": "word",
+          "title_ar": "sun",
+          "body_ar": "sun يعني شمس. بتبدأ بحرف s.",
+          "en": [
+            "sun"
+          ],
+          "image": "p1-lessons-assets/img/sun.png",
+          "check_ref": "p1-u2-l2-img02",
+          "source_page": "30"
+        },
+        {
+          "id": "u2e2-3",
+          "kind": "word",
+          "title_ar": "star",
+          "body_ar": "star يعني نجمة. بتبدأ بحرف s.",
+          "en": [
+            "star"
+          ],
+          "image": "p1-lessons-assets/img/star.png",
+          "check_ref": "p1-u2-l2-img01",
+          "source_page": "30"
+        },
+        {
+          "id": "u2e2-4",
+          "kind": "word",
+          "title_ar": "spoon",
+          "body_ar": "spoon يعني ملعقة. بتبدأ بحرف s.",
+          "en": [
+            "spoon"
+          ],
+          "image": "p1-lessons-assets/img/obj-spoon.png",
+          "check_ref": "p1-u2-l2-obj01",
+          "source_page": "30"
+        },
+        {
+          "id": "u2e2-5",
+          "kind": "word",
+          "title_ar": "snake",
+          "body_ar": "snake يعني ثعبان. بتبدأ بحرف s.",
+          "en": [
+            "snake"
+          ],
+          "check_ref": "p1-u2-l2-21",
+          "source_page": "30"
+        },
+        {
+          "id": "u2e2-6",
+          "kind": "word",
+          "title_ar": "spider",
+          "body_ar": "spider يعني عنكبوت. بتبدأ بحرف s.",
+          "en": [
+            "spider"
+          ],
+          "check_ref": "p1-u2-l2-22",
+          "source_page": "30"
+        },
+        {
+          "id": "u2e2-7",
+          "kind": "letter",
+          "title_ar": "شكل الحرف",
+          "body_ar": "الحرف الكبير S والصغير s. اتتبّعهم في كتابك واتبع الأسهم.",
+          "en": [
+            "Ss"
+          ],
+          "check_ref": "p1-u2-l2-08",
+          "source_page": "30-33"
+        },
+        {
+          "id": "u2e2-8",
+          "kind": "check",
+          "title_ar": "أول حرف",
+          "body_ar": "اختار الحرف اللي بتبدأ بيه الكلمة.",
+          "check_ref": "p1-u2-l2-10",
+          "source_page": "33"
+        },
+        {
+          "id": "u2e2-9",
+          "kind": "check",
+          "title_ar": "اللي مش بيبدأ بـ s",
+          "body_ar": "اختار الكلمة اللي مش بتبدأ بحرف s.",
+          "check_ref": "p1-u2-l2-14",
+          "source_page": "32"
+        },
+        {
+          "id": "u2e2-10",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u2-l2-31",
+          "source_page": "33"
+        },
+        {
+          "id": "u2e2-11",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "sun، star، spoon، snake، spider كلهم بيبدأوا بـ s."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 2,
+      "lesson": 3,
+      "lesson_title": "Shapes and Colors",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 3, pdf p.34-37",
+      "goal_ar": "النهارده هنتعلم الألوان والأشكال ونوصفها بجمل.",
+      "steps": [
+        {
+          "id": "u2e3-1",
+          "kind": "word",
+          "title_ar": "red",
+          "body_ar": "red يعني أحمر.",
+          "en": [
+            "red"
+          ],
+          "image": "p1-lessons-assets/img/color-red.png",
+          "check_ref": "p1-u2-l3-img05",
+          "source_page": "34"
+        },
+        {
+          "id": "u2e3-2",
+          "kind": "word",
+          "title_ar": "blue",
+          "body_ar": "blue يعني أزرق.",
+          "en": [
+            "blue"
+          ],
+          "image": "p1-lessons-assets/img/color-blue.png",
+          "check_ref": "p1-u2-l3-img06",
+          "source_page": "34"
+        },
+        {
+          "id": "u2e3-3",
+          "kind": "word",
+          "title_ar": "yellow",
+          "body_ar": "yellow يعني أصفر.",
+          "en": [
+            "yellow"
+          ],
+          "image": "p1-lessons-assets/img/color-yellow.png",
+          "check_ref": "p1-u2-l3-img07",
+          "source_page": "34"
+        },
+        {
+          "id": "u2e3-4",
+          "kind": "word",
+          "title_ar": "green",
+          "body_ar": "green يعني أخضر.",
+          "en": [
+            "green"
+          ],
+          "image": "p1-lessons-assets/img/color-green.png",
+          "check_ref": "p1-u2-l3-img08",
+          "source_page": "34"
+        },
+        {
+          "id": "u2e3-5",
+          "kind": "pattern",
+          "title_ar": "The ___ is ___.",
+          "body_ar": "The grass is green. The sky is blue. The sun is yellow. The flower is red.",
+          "en": [
+            "The grass is green.",
+            "The sky is blue.",
+            "The sun is yellow.",
+            "The flower is red."
+          ],
+          "check_ref": "p1-u2-l3-09",
+          "source_page": "34"
+        },
+        {
+          "id": "u2e3-6",
+          "kind": "word",
+          "title_ar": "circle",
+          "body_ar": "circle يعني دائرة. مالهاش أضلاع.",
+          "en": [
+            "circle"
+          ],
+          "image": "p1-lessons-assets/img/shape-circle-red.png",
+          "check_ref": "p1-u2-l3-img01",
+          "source_page": "36"
+        },
+        {
+          "id": "u2e3-7",
+          "kind": "word",
+          "title_ar": "square",
+          "body_ar": "square يعني مربع.",
+          "en": [
+            "square"
+          ],
+          "image": "p1-lessons-assets/img/shape-square-blue.png",
+          "check_ref": "p1-u2-l3-img02",
+          "source_page": "36"
+        },
+        {
+          "id": "u2e3-8",
+          "kind": "word",
+          "title_ar": "triangle",
+          "body_ar": "triangle يعني مثلث. ليه 3 أضلاع.",
+          "en": [
+            "triangle"
+          ],
+          "image": "p1-lessons-assets/img/shape-triangle-yellow.png",
+          "check_ref": "p1-u2-l3-img03",
+          "source_page": "36"
+        },
+        {
+          "id": "u2e3-9",
+          "kind": "word",
+          "title_ar": "rectangle",
+          "body_ar": "rectangle يعني مستطيل. ليه 4 أضلاع.",
+          "en": [
+            "rectangle"
+          ],
+          "image": "p1-lessons-assets/img/shape-rectangle-green.png",
+          "check_ref": "p1-u2-l3-img04",
+          "source_page": "36"
+        },
+        {
+          "id": "u2e3-10",
+          "kind": "pattern",
+          "title_ar": "What shape is this?",
+          "body_ar": "What shape is this? ده شكل إيه؟ ونرد: This is a circle.",
+          "en": [
+            "What shape is this?",
+            "This is a circle."
+          ],
+          "check_ref": "p1-u2-l3-17",
+          "source_page": "36"
+        },
+        {
+          "id": "u2e3-11",
+          "kind": "pattern",
+          "title_ar": "What color is the square?",
+          "body_ar": "What color is the square? المربع لونه إيه؟ نرد: The square is blue.",
+          "en": [
+            "What color is the square?",
+            "The square is blue."
+          ],
+          "check_ref": "p1-u2-l3-18",
+          "source_page": "36"
+        },
+        {
+          "id": "u2e3-12",
+          "kind": "pattern",
+          "title_ar": "sides",
+          "body_ar": "The triangle has 3 sides. The rectangle has 4 sides.",
+          "en": [
+            "The triangle has 3 sides.",
+            "The rectangle has 4 sides."
+          ],
+          "check_ref": "p1-u2-l3-13",
+          "source_page": "36"
+        },
+        {
+          "id": "u2e3-13",
+          "kind": "check",
+          "title_ar": "رتّب الكلمات",
+          "body_ar": "رتّب الكلمات عشان تعمل جملة.",
+          "check_ref": "p1-u2-l3-27"
+        },
+        {
+          "id": "u2e3-14",
+          "kind": "dialogue_practice",
+          "title_ar": "كمّل المحادثة",
+          "body_ar": "كمّل المحادثة بنفسك.",
+          "check_ref": "p1-u2-l3-32",
+          "source_page": "34-37"
+        },
+        {
+          "id": "u2e3-15",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "ألوان: red، blue، yellow، green. أشكال: circle، square، triangle، rectangle."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 2,
+      "lesson": 4,
+      "lesson_title": "Phonics (Aa)",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 4, pdf p.38-41",
+      "goal_ar": "النهارده هنعرف حرف A وصوته القصير وكلمات بتبدأ بيه.",
+      "steps": [
+        {
+          "id": "u2e4-1",
+          "kind": "sound",
+          "title_ar": "الحرف A",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "ant, axe, arrow, apple"
+          ],
+          "source_page": "38"
+        },
+        {
+          "id": "u2e4-2",
+          "kind": "word",
+          "title_ar": "ant",
+          "body_ar": "ant يعني نملة. بتبدأ بحرف a.",
+          "en": [
+            "ant"
+          ],
+          "image": "p1-lessons-assets/img/kg-ant.png",
+          "check_ref": "p1-u2-l4-kg01",
+          "source_page": "38"
+        },
+        {
+          "id": "u2e4-3",
+          "kind": "word",
+          "title_ar": "axe",
+          "body_ar": "axe يعني فأس. بتبدأ بحرف a.",
+          "en": [
+            "axe"
+          ],
+          "image": "p1-lessons-assets/img/obj-axe.png",
+          "check_ref": "p1-u2-l4-obj01",
+          "source_page": "38"
+        },
+        {
+          "id": "u2e4-4",
+          "kind": "word",
+          "title_ar": "arrow",
+          "body_ar": "arrow يعني سهم. بتبدأ بحرف a.",
+          "en": [
+            "arrow"
+          ],
+          "image": "p1-lessons-assets/img/obj-arrow.png",
+          "check_ref": "p1-u2-l4-obj03",
+          "source_page": "38"
+        },
+        {
+          "id": "u2e4-5",
+          "kind": "word",
+          "title_ar": "apple",
+          "body_ar": "apple يعني تفاحة. بتبدأ بحرف a.",
+          "en": [
+            "apple"
+          ],
+          "image": "p1-lessons-assets/img/apple.png",
+          "check_ref": "p1-u2-l4-img01",
+          "source_page": "38"
+        },
+        {
+          "id": "u2e4-6",
+          "kind": "letter",
+          "title_ar": "شكل الحرف",
+          "body_ar": "الحرف الكبير A والصغير a. اتتبّعهم واتبع الأسهم في كتابك.",
+          "en": [
+            "Aa"
+          ],
+          "check_ref": "p1-u2-l4-08",
+          "source_page": "38-40"
+        },
+        {
+          "id": "u2e4-7",
+          "kind": "check",
+          "title_ar": "أول حرف",
+          "body_ar": "اختار الحرف اللي بتبدأ بيه الكلمة.",
+          "check_ref": "p1-u2-l4-10",
+          "source_page": "41"
+        },
+        {
+          "id": "u2e4-8",
+          "kind": "check",
+          "title_ar": "اللي مش بيبدأ بـ a",
+          "body_ar": "اختار الكلمة اللي مش بتبدأ بحرف a.",
+          "check_ref": "p1-u2-l4-14",
+          "source_page": "41"
+        },
+        {
+          "id": "u2e4-9",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u2-l4-32",
+          "source_page": "41"
+        },
+        {
+          "id": "u2e4-10",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "ant، axe، arrow، apple كلهم بيبدأوا بـ a."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,605 @@
+{
+  "grade": "P1",
+  "term": 1,
+  "unit": 3,
+  "kind": "interactive_explanation",
+  "audio_status": "Reading explanation only; no recorded teaching audio or stroke animation.",
+  "lessons": [
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 3,
+      "lesson": 1,
+      "lesson_title": "Who's in My Family?",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 3 Lesson 1, pdf p.43-46",
+      "goal_ar": "النهارده هنتعلم أسماء أفراد العيلة ونقول مين ده.",
+      "steps": [
+        {
+          "id": "u3e1-1",
+          "kind": "gloss",
+          "title_ar": "اقرا المحادثة",
+          "body_ar": "Maya وSara بيتكلموا عن العيلة. اقرا الجمل واحدة واحدة.",
+          "en": [
+            "Maya: Who is this?",
+            "Sara: This is my father. And this is my mother. They are my parents.",
+            "Sara: Yes! I have 1 brother.",
+            "Maya: I have 2 sisters."
+          ],
+          "source_page": "43"
+        },
+        {
+          "id": "u3e1-2",
+          "kind": "gloss",
+          "title_ar": "يعني إيه؟",
+          "body_ar": "father = أب. mother = أم. parents = الأب والأم. brother = أخ. sister = أخت. grandmother = جدة. grandfather = جد. Who's this? = ده مين؟",
+          "source_page": "44"
+        },
+        {
+          "id": "u3e1-3",
+          "kind": "word",
+          "title_ar": "father and mother",
+          "body_ar": "father يعني أب. mother يعني أم. parents يعني الأب والأم مع بعض.",
+          "en": [
+            "father",
+            "mother",
+            "parents"
+          ],
+          "check_ref": "p1-u3-l1-03",
+          "source_page": "44"
+        },
+        {
+          "id": "u3e1-4",
+          "kind": "word",
+          "title_ar": "brother and sister",
+          "body_ar": "brother يعني أخ. sister يعني أخت. brothers وsisters يعني أكتر من واحد.",
+          "en": [
+            "brother",
+            "sister",
+            "brothers",
+            "sisters"
+          ],
+          "check_ref": "p1-u3-l1-04",
+          "source_page": "44"
+        },
+        {
+          "id": "u3e1-5",
+          "kind": "word",
+          "title_ar": "grandmother and grandfather",
+          "body_ar": "grandmother يعني جدة، أم الأم أو أم الأب. grandfather يعني جد، أب الأم أو أب الأب.",
+          "en": [
+            "grandmother",
+            "grandfather"
+          ],
+          "check_ref": "p1-u3-l1-15",
+          "source_page": "44"
+        },
+        {
+          "id": "u3e1-6",
+          "kind": "pattern",
+          "title_ar": "Who's this?",
+          "body_ar": "Who's this? يعني ده مين؟ والرد: This is my father.",
+          "en": [
+            "Who's this?",
+            "This is my father."
+          ],
+          "check_ref": "p1-u3-l1-12",
+          "source_page": "44"
+        },
+        {
+          "id": "u3e1-7",
+          "kind": "pattern",
+          "title_ar": "I have ...",
+          "body_ar": "نقول عدد إخواتنا كده: I have 1 brother. I have 2 sisters. لما العدد أكتر من واحد نزوّد s.",
+          "en": [
+            "I have 1 brother.",
+            "I have 2 sisters."
+          ],
+          "check_ref": "p1-u3-l1-17",
+          "source_page": "43, 46"
+        },
+        {
+          "id": "u3e1-8",
+          "kind": "check",
+          "title_ar": "رتّب الكلمات",
+          "body_ar": "رتّب الكلمات عشان تعمل جملة.",
+          "check_ref": "p1-u3-l1-29",
+          "source_page": "44"
+        },
+        {
+          "id": "u3e1-9",
+          "kind": "check",
+          "title_ar": "اللي مش من العيلة",
+          "body_ar": "اختار الكلمة اللي مش من العيلة.",
+          "check_ref": "p1-u3-l1-20",
+          "source_page": "44-46"
+        },
+        {
+          "id": "u3e1-10",
+          "kind": "dialogue_practice",
+          "title_ar": "كمّل المحادثة",
+          "body_ar": "كمّل المحادثة بنفسك.",
+          "check_ref": "p1-u3-l1-35",
+          "source_page": "43"
+        },
+        {
+          "id": "u3e1-11",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "father، mother، parents، brother، sister، grandmother، grandfather. Who's this? This is my ... I have 2 sisters."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 3,
+      "lesson": 2,
+      "lesson_title": "Phonics (Nn, Pp)",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 3 Lesson 2, pdf p.47-51",
+      "goal_ar": "النهارده هنعرف حرفين: N وP، صوتهم وكلمات بتبدأ بيهم.",
+      "steps": [
+        {
+          "id": "u3e2-1",
+          "kind": "sound",
+          "title_ar": "الحرف N",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "nurse, nail, nose, neck, net"
+          ],
+          "source_page": "47"
+        },
+        {
+          "id": "u3e2-2",
+          "kind": "word",
+          "title_ar": "nose",
+          "body_ar": "nose يعني أنف. بص على الصورة.",
+          "en": [
+            "nose"
+          ],
+          "image": "p1-lessons-assets/img/kg-nose.png",
+          "check_ref": "p1-u3-l2-kg01",
+          "source_page": "47"
+        },
+        {
+          "id": "u3e2-3",
+          "kind": "word",
+          "title_ar": "nurse",
+          "body_ar": "nurse يعني ممرضة. بتبدأ بحرف n.",
+          "en": [
+            "nurse"
+          ],
+          "check_ref": "p1-u3-l2-12",
+          "source_page": "47"
+        },
+        {
+          "id": "u3e2-4",
+          "kind": "word",
+          "title_ar": "nail",
+          "body_ar": "nail يعني ظفر. بتبدأ بحرف n.",
+          "en": [
+            "nail"
+          ],
+          "check_ref": "p1-u3-l2-13",
+          "source_page": "47"
+        },
+        {
+          "id": "u3e2-5",
+          "kind": "letter",
+          "title_ar": "شكل الحرف N",
+          "body_ar": "الحرف الكبير N والصغير n. اتتبّعهم في كتابك واتبع الأسهم.",
+          "en": [
+            "Nn"
+          ],
+          "check_ref": "p1-u3-l2-09",
+          "source_page": "47-48"
+        },
+        {
+          "id": "u3e2-6",
+          "kind": "check",
+          "title_ar": "أول حرف N",
+          "body_ar": "اختار الحرف اللي بتبدأ بيه الكلمة.",
+          "check_ref": "p1-u3-l2-06",
+          "source_page": "48"
+        },
+        {
+          "id": "u3e2-7",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u3-l2-19",
+          "source_page": "48"
+        },
+        {
+          "id": "u3e2-8",
+          "kind": "sound",
+          "title_ar": "الحرف P",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "panda, pencil, parrot, pizza, potato"
+          ],
+          "source_page": "49"
+        },
+        {
+          "id": "u3e2-9",
+          "kind": "word",
+          "title_ar": "pizza",
+          "body_ar": "pizza يعني بيتزا. بتبدأ بحرف p.",
+          "en": [
+            "pizza"
+          ],
+          "image": "p1-lessons-assets/img/obj-pizza.png",
+          "check_ref": "p1-u3-l2-obj01",
+          "source_page": "49"
+        },
+        {
+          "id": "u3e2-10",
+          "kind": "word",
+          "title_ar": "pencil",
+          "body_ar": "pencil يعني قلم رصاص. بتبدأ بحرف p.",
+          "en": [
+            "pencil"
+          ],
+          "image": "p1-lessons-assets/img/pencil.png",
+          "check_ref": "p1-u3-l2-33",
+          "source_page": "49"
+        },
+        {
+          "id": "u3e2-11",
+          "kind": "word",
+          "title_ar": "panda",
+          "body_ar": "panda يعني باندا. بتبدأ بحرف p.",
+          "en": [
+            "panda"
+          ],
+          "check_ref": "p1-u3-l2-32",
+          "source_page": "49"
+        },
+        {
+          "id": "u3e2-12",
+          "kind": "letter",
+          "title_ar": "شكل الحرف P",
+          "body_ar": "الحرف الكبير P والصغير p. اتتبّعهم واتبع الأسهم.",
+          "en": [
+            "Pp"
+          ],
+          "check_ref": "p1-u3-l2-29",
+          "source_page": "49-50"
+        },
+        {
+          "id": "u3e2-13",
+          "kind": "check",
+          "title_ar": "أول حرف P",
+          "body_ar": "اختار الحرف اللي بتبدأ بيه الكلمة.",
+          "check_ref": "p1-u3-l2-26",
+          "source_page": "51"
+        },
+        {
+          "id": "u3e2-14",
+          "kind": "check",
+          "title_ar": "n ولا p؟",
+          "body_ar": "اختار الكلمة اللي بتبدأ بـ p مش n.",
+          "check_ref": "p1-u3-l2-44",
+          "source_page": "51"
+        },
+        {
+          "id": "u3e2-15",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "n: nose، nurse، nail، neck، net. p: pizza، pencil، panda، parrot، potato."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 3,
+      "lesson": 3,
+      "lesson_title": "Numbers from 1 to 5",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 3 Lesson 3, pdf p.52-55",
+      "goal_ar": "النهارده هنعد من 1 لـ 5 ونقول في كام حاجة.",
+      "steps": [
+        {
+          "id": "u3e3-1",
+          "kind": "gloss",
+          "title_ar": "اقرا المحادثة",
+          "body_ar": "Omar وAly بيعدوا حاجات. اقرا الجمل واحدة واحدة.",
+          "en": [
+            "Aly: There are 3 books.",
+            "Aly: There are 4 flowers!",
+            "Aly: There is 1 sun.",
+            "Aly: I have 1 apple now."
+          ],
+          "source_page": "52"
+        },
+        {
+          "id": "u3e3-2",
+          "kind": "word",
+          "title_ar": "1 2 3 4 5",
+          "body_ar": "1 = one. 2 = two. 3 = three. 4 = four. 5 = five. اعد على صوابعك: one، two، three، four، five.",
+          "en": [
+            "1 one",
+            "2 two",
+            "3 three",
+            "4 four",
+            "5 five"
+          ],
+          "check_ref": "p1-u3-l3-03",
+          "source_page": "53"
+        },
+        {
+          "id": "u3e3-3",
+          "kind": "pattern",
+          "title_ar": "How many ...?",
+          "body_ar": "How many ...? يعني كام ...؟ وبنرد: There are 4 books. ولو واحد بس: There is 1 butterfly.",
+          "en": [
+            "How many books are there?",
+            "There are 4 books.",
+            "There is 1 butterfly."
+          ],
+          "check_ref": "p1-u3-l3-20",
+          "source_page": "53"
+        },
+        {
+          "id": "u3e3-4",
+          "kind": "pattern",
+          "title_ar": "is / are",
+          "body_ar": "نقول There is مع 1 بس: There is 1 sun. ونقول There are مع أكتر من واحد: There are 3 books.",
+          "en": [
+            "There is 1 sun.",
+            "There are 3 books."
+          ],
+          "check_ref": "p1-u3-l3-17",
+          "source_page": "52-53"
+        },
+        {
+          "id": "u3e3-5",
+          "kind": "word",
+          "title_ar": "عدّ الكتب",
+          "body_ar": "عد الكتب في الصورة: كام كتاب؟",
+          "en": [
+            "How many books are there?"
+          ],
+          "image": "p1-lessons-assets/img/count-books-4.png",
+          "check_ref": "p1-u3-l3-img07",
+          "source_page": "53"
+        },
+        {
+          "id": "u3e3-6",
+          "kind": "word",
+          "title_ar": "عدّ النجوم",
+          "body_ar": "عد النجوم في الصورة.",
+          "en": [
+            "How many stars are there?"
+          ],
+          "image": "p1-lessons-assets/img/count-stars-4.png",
+          "check_ref": "p1-u3-l3-img03",
+          "source_page": "55"
+        },
+        {
+          "id": "u3e3-7",
+          "kind": "word",
+          "title_ar": "عدّ التفاح",
+          "body_ar": "عد التفاح في الصورة.",
+          "en": [
+            "How many apples are there?"
+          ],
+          "image": "p1-lessons-assets/img/count-apples-5.png",
+          "check_ref": "p1-u3-l3-img02",
+          "source_page": "54"
+        },
+        {
+          "id": "u3e3-8",
+          "kind": "pattern",
+          "title_ar": "I see ...",
+          "body_ar": "I see 5 birds. يعني شايف 5 عصافير. لما العدد أكتر من واحد نزوّد s: bird، birds.",
+          "en": [
+            "I see 5 birds."
+          ],
+          "check_ref": "p1-u3-l3-29",
+          "source_page": "53"
+        },
+        {
+          "id": "u3e3-9",
+          "kind": "check",
+          "title_ar": "رتّب الكلمات",
+          "body_ar": "رتّب الكلمات عشان تعمل جملة.",
+          "check_ref": "p1-u3-l3-27",
+          "source_page": "53"
+        },
+        {
+          "id": "u3e3-10",
+          "kind": "dialogue_practice",
+          "title_ar": "كمّل المحادثة",
+          "body_ar": "كمّل المحادثة بنفسك.",
+          "check_ref": "p1-u3-l3-33",
+          "source_page": "52"
+        },
+        {
+          "id": "u3e3-11",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "one، two، three، four، five. There is 1 ... There are 3 ... How many ...?"
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 3,
+      "lesson": 4,
+      "lesson_title": "Phonics (Hh, Dd)",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 3 Lesson 4, pdf p.56-60",
+      "goal_ar": "النهارده هنعرف حرفين: H وD، صوتهم وكلمات بتبدأ بيهم.",
+      "steps": [
+        {
+          "id": "u3e4-1",
+          "kind": "sound",
+          "title_ar": "الحرف H",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "hat, hair, hands, horse, house"
+          ],
+          "source_page": "56"
+        },
+        {
+          "id": "u3e4-2",
+          "kind": "word",
+          "title_ar": "hat",
+          "body_ar": "hat يعني قبعة. بتبدأ بحرف h.",
+          "en": [
+            "hat"
+          ],
+          "image": "p1-lessons-assets/img/obj-hat.png",
+          "check_ref": "p1-u3-l4-obj01",
+          "source_page": "56"
+        },
+        {
+          "id": "u3e4-3",
+          "kind": "word",
+          "title_ar": "house",
+          "body_ar": "house يعني بيت. بتبدأ بحرف h.",
+          "en": [
+            "house"
+          ],
+          "image": "p1-lessons-assets/img/obj-house.png",
+          "check_ref": "p1-u3-l4-obj07",
+          "source_page": "56"
+        },
+        {
+          "id": "u3e4-4",
+          "kind": "word",
+          "title_ar": "hair",
+          "body_ar": "hair يعني شعر. بص على الصورة: ده شعر الولد.",
+          "en": [
+            "hair"
+          ],
+          "image": "p1-lessons-assets/img/kg-hair.png",
+          "check_ref": "p1-u3-l4-kg02",
+          "source_page": "56"
+        },
+        {
+          "id": "u3e4-5",
+          "kind": "word",
+          "title_ar": "hands",
+          "body_ar": "hands يعني إيدين.",
+          "en": [
+            "hands"
+          ],
+          "image": "p1-lessons-assets/img/kg-hands.png",
+          "check_ref": "p1-u3-l4-kg03",
+          "source_page": "56"
+        },
+        {
+          "id": "u3e4-6",
+          "kind": "letter",
+          "title_ar": "شكل الحرف H",
+          "body_ar": "الحرف الكبير H والصغير h. اتتبّعهم واتبع الأسهم.",
+          "en": [
+            "Hh"
+          ],
+          "check_ref": "p1-u3-l4-09",
+          "source_page": "56-57"
+        },
+        {
+          "id": "u3e4-7",
+          "kind": "check",
+          "title_ar": "أول حرف H",
+          "body_ar": "اختار الحرف اللي بتبدأ بيه الكلمة.",
+          "check_ref": "p1-u3-l4-06",
+          "source_page": "57"
+        },
+        {
+          "id": "u3e4-8",
+          "kind": "sound",
+          "title_ar": "الحرف D",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "door, doll, dog, duck, drum"
+          ],
+          "source_page": "58"
+        },
+        {
+          "id": "u3e4-9",
+          "kind": "word",
+          "title_ar": "door",
+          "body_ar": "door يعني باب. بتبدأ بحرف d.",
+          "en": [
+            "door"
+          ],
+          "image": "p1-lessons-assets/img/obj-door.png",
+          "check_ref": "p1-u3-l4-obj03",
+          "source_page": "58"
+        },
+        {
+          "id": "u3e4-10",
+          "kind": "word",
+          "title_ar": "drum",
+          "body_ar": "drum يعني طبلة. بتبدأ بحرف d.",
+          "en": [
+            "drum"
+          ],
+          "image": "p1-lessons-assets/img/obj-drum.png",
+          "check_ref": "p1-u3-l4-obj05",
+          "source_page": "58"
+        },
+        {
+          "id": "u3e4-11",
+          "kind": "word",
+          "title_ar": "dog",
+          "body_ar": "dog يعني كلب.",
+          "en": [
+            "dog"
+          ],
+          "image": "p1-lessons-assets/img/kg-dog.png",
+          "check_ref": "p1-u3-l4-kg01",
+          "source_page": "58"
+        },
+        {
+          "id": "u3e4-12",
+          "kind": "word",
+          "title_ar": "doll and duck",
+          "body_ar": "doll يعني عروسة. duck يعني بطة. بيبدأوا بحرف d.",
+          "en": [
+            "doll",
+            "duck"
+          ],
+          "check_ref": "p1-u3-l4-33",
+          "source_page": "58"
+        },
+        {
+          "id": "u3e4-13",
+          "kind": "letter",
+          "title_ar": "شكل الحرف D",
+          "body_ar": "الحرف الكبير D والصغير d. اتتبّعهم واتبع الأسهم.",
+          "en": [
+            "Dd"
+          ],
+          "check_ref": "p1-u3-l4-29",
+          "source_page": "58-60"
+        },
+        {
+          "id": "u3e4-14",
+          "kind": "check",
+          "title_ar": "h ولا d؟",
+          "body_ar": "اختار الكلمة اللي بتبدأ بـ h مش d.",
+          "check_ref": "p1-u3-l4-43",
+          "source_page": "58-60"
+        },
+        {
+          "id": "u3e4-15",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u3-l4-39",
+          "source_page": "58-60"
+        },
+        {
+          "id": "u3e4-16",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "h: hat، hair، hands، horse، house. d: door، doll، dog، duck، drum."
+        }
+      ]
+    }
+  ]
+}

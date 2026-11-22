@@ -1,0 +1,642 @@
+{
+  "grade": "P1",
+  "term": 1,
+  "unit": 4,
+  "kind": "interactive_explanation",
+  "audio_status": "Reading explanation only; no recorded teaching audio or stroke animation.",
+  "lessons": [
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 4,
+      "lesson": 1,
+      "lesson_title": "Head to Toe",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 1, pdf p.66-69",
+      "goal_ar": "النهارده هنتعلم أسماء أجزاء الجسم ونقول كام واحد عندنا من كل حاجة.",
+      "steps": [
+        {
+          "id": "u4e1-1",
+          "kind": "gloss",
+          "title_ar": "يعني إيه؟",
+          "body_ar": "head = رأس. eye = عين. ear = ودن. nose = أنف. mouth = بُق. tongue = لسان. arms = دراعين. hand = إيد. legs = رجلين. foot = قدم (وfeet أكتر من قدم). toes = صوابع الرجل.",
+          "source_page": "66"
+        },
+        {
+          "id": "u4e1-2",
+          "kind": "word",
+          "title_ar": "head",
+          "body_ar": "head يعني رأس.",
+          "en": [
+            "head"
+          ],
+          "image": "p1-lessons-assets/img/kg-head.png",
+          "check_ref": "p1-u4-l1-kg01",
+          "source_page": "66"
+        },
+        {
+          "id": "u4e1-3",
+          "kind": "word",
+          "title_ar": "eyes",
+          "body_ar": "eye يعني عين، وeyes يعني عينين. عندنا 2 eyes.",
+          "en": [
+            "I have 2 eyes."
+          ],
+          "image": "p1-lessons-assets/img/kg-eyes.png",
+          "check_ref": "p1-u4-l1-kg02",
+          "source_page": "66"
+        },
+        {
+          "id": "u4e1-4",
+          "kind": "word",
+          "title_ar": "ears",
+          "body_ar": "ear يعني ودن، وears يعني ودنين. بص على الدايرتين الحمرا.",
+          "en": [
+            "I have 2 ears."
+          ],
+          "image": "p1-lessons-assets/img/kg-ears-hl.png",
+          "check_ref": "p1-u4-l1-kg04",
+          "source_page": "66"
+        },
+        {
+          "id": "u4e1-5",
+          "kind": "word",
+          "title_ar": "nose",
+          "body_ar": "nose يعني أنف. عندنا 1 nose.",
+          "en": [
+            "I have 1 nose."
+          ],
+          "image": "p1-lessons-assets/img/kg-nose.png",
+          "check_ref": "p1-u4-l1-kg05",
+          "source_page": "66"
+        },
+        {
+          "id": "u4e1-6",
+          "kind": "word",
+          "title_ar": "mouth",
+          "body_ar": "mouth يعني بُق. عندنا 1 mouth.",
+          "en": [
+            "I have 1 mouth."
+          ],
+          "image": "p1-lessons-assets/img/kg-mouth.png",
+          "check_ref": "p1-u4-l1-kg06",
+          "source_page": "66"
+        },
+        {
+          "id": "u4e1-7",
+          "kind": "word",
+          "title_ar": "arms",
+          "body_ar": "arms يعني دراعين. بص على الصورة، الولد رافع دراعاته.",
+          "en": [
+            "arms"
+          ],
+          "image": "p1-lessons-assets/img/kg-arms.png",
+          "check_ref": "p1-u4-l1-kg09",
+          "source_page": "66"
+        },
+        {
+          "id": "u4e1-7b",
+          "kind": "word",
+          "title_ar": "hands",
+          "body_ar": "hands يعني إيدين. بص على الصورة.",
+          "en": [
+            "hands"
+          ],
+          "image": "p1-lessons-assets/img/kg-hands.png",
+          "check_ref": "p1-u4-l1-kg07",
+          "source_page": "66"
+        },
+        {
+          "id": "u4e1-8",
+          "kind": "word",
+          "title_ar": "legs",
+          "body_ar": "legs يعني رجلين. بص على الصورة.",
+          "en": [
+            "legs"
+          ],
+          "image": "p1-lessons-assets/img/kg-legs.png",
+          "check_ref": "p1-u4-l1-kg10",
+          "source_page": "66"
+        },
+        {
+          "id": "u4e1-8b",
+          "kind": "word",
+          "title_ar": "feet",
+          "body_ar": "feet يعني قدمين. القدم الواحدة foot.",
+          "en": [
+            "foot",
+            "feet"
+          ],
+          "image": "p1-lessons-assets/img/kg-feet.png",
+          "check_ref": "p1-u4-l1-kg12",
+          "source_page": "66"
+        },
+        {
+          "id": "u4e1-9",
+          "kind": "word",
+          "title_ar": "tongue and toes",
+          "body_ar": "tongue يعني لسان. toes يعني صوابع الرجل. على القدم الواحدة فيه 5 toes، يعني I have 5 toes on one foot. والقدمين 2 feet.",
+          "en": [
+            "tongue",
+            "toes",
+            "I have 5 toes on one foot."
+          ],
+          "check_ref": "p1-u4-l1-10",
+          "source_page": "66-67"
+        },
+        {
+          "id": "u4e1-10",
+          "kind": "pattern",
+          "title_ar": "I have ...",
+          "body_ar": "نقول كام عندنا كده: I have 2 eyes. I have 1 nose. I have 2 legs. لما العدد 2 نزوّد s.",
+          "en": [
+            "I have 2 eyes.",
+            "I have 1 nose.",
+            "I have 2 legs."
+          ],
+          "check_ref": "p1-u4-l1-12",
+          "source_page": "66-67"
+        },
+        {
+          "id": "u4e1-11",
+          "kind": "check",
+          "title_ar": "كام؟",
+          "body_ar": "اختار العدد الصح.",
+          "check_ref": "p1-u4-l1-kg03",
+          "source_page": "67"
+        },
+        {
+          "id": "u4e1-12",
+          "kind": "check",
+          "title_ar": "رتّب الكلمات",
+          "body_ar": "رتّب الكلمات عشان تعمل جملة.",
+          "check_ref": "p1-u4-l1-30",
+          "source_page": "67"
+        },
+        {
+          "id": "u4e1-13",
+          "kind": "dialogue_practice",
+          "title_ar": "كمّل المحادثة",
+          "body_ar": "كمّل المحادثة بنفسك.",
+          "check_ref": "p1-u4-l1-36",
+          "source_page": "66-68"
+        },
+        {
+          "id": "u4e1-14",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "head، eyes، ears، nose، mouth، tongue، arms، hands، legs، feet، toes. I have 2 eyes. I have 1 mouth."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 4,
+      "lesson": 2,
+      "lesson_title": "Phonics (Rr, Ee)",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 2, pdf p.70-74",
+      "goal_ar": "النهارده هنعرف حرفين: R وE، صوتهم وكلمات بتبدأ بيهم.",
+      "steps": [
+        {
+          "id": "u4e2-1",
+          "kind": "sound",
+          "title_ar": "الحرف R",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "red, ring, rabbit, robot, rocket"
+          ],
+          "source_page": "70"
+        },
+        {
+          "id": "u4e2-2",
+          "kind": "word",
+          "title_ar": "rabbit",
+          "body_ar": "rabbit يعني أرنب. بتبدأ بحرف r.",
+          "en": [
+            "rabbit"
+          ],
+          "image": "p1-lessons-assets/img/kg-rabbit.png",
+          "check_ref": "p1-u4-l2-kg01",
+          "source_page": "70"
+        },
+        {
+          "id": "u4e2-3",
+          "kind": "word",
+          "title_ar": "ring",
+          "body_ar": "ring يعني خاتم. بتبدأ بحرف r.",
+          "en": [
+            "ring"
+          ],
+          "image": "p1-lessons-assets/img/obj-ring.png",
+          "check_ref": "p1-u4-l2-obj03",
+          "source_page": "70"
+        },
+        {
+          "id": "u4e2-4",
+          "kind": "word",
+          "title_ar": "red",
+          "body_ar": "red يعني أحمر. بتبدأ بحرف r.",
+          "en": [
+            "red"
+          ],
+          "image": "p1-lessons-assets/img/color-red.png",
+          "check_ref": "p1-u4-l2-12",
+          "source_page": "70"
+        },
+        {
+          "id": "u4e2-5",
+          "kind": "word",
+          "title_ar": "robot and rocket",
+          "body_ar": "robot يعني روبوت. rocket يعني صاروخ. بيبدأوا بحرف r.",
+          "en": [
+            "robot",
+            "rocket"
+          ],
+          "check_ref": "p1-u4-l2-04",
+          "source_page": "70"
+        },
+        {
+          "id": "u4e2-6",
+          "kind": "letter",
+          "title_ar": "شكل الحرف R",
+          "body_ar": "الحرف الكبير R والصغير r. اتتبّعهم واكتبهم في كتابك واتبع الأسهم.",
+          "en": [
+            "Rr"
+          ],
+          "check_ref": "p1-u4-l2-09",
+          "source_page": "70-71"
+        },
+        {
+          "id": "u4e2-7",
+          "kind": "check",
+          "title_ar": "أول حرف R",
+          "body_ar": "اختار الحرف اللي بتبدأ بيه الكلمة.",
+          "check_ref": "p1-u4-l2-06",
+          "source_page": "74"
+        },
+        {
+          "id": "u4e2-8",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u4-l2-19",
+          "source_page": "71"
+        },
+        {
+          "id": "u4e2-9",
+          "kind": "sound",
+          "title_ar": "الحرف E",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "egg, elephant, eggplant, elbow, enter"
+          ],
+          "source_page": "72"
+        },
+        {
+          "id": "u4e2-10",
+          "kind": "word",
+          "title_ar": "egg",
+          "body_ar": "egg يعني بيضة. بتبدأ بحرف e.",
+          "en": [
+            "egg"
+          ],
+          "image": "p1-lessons-assets/img/kg-egg.png",
+          "check_ref": "p1-u4-l2-obj01",
+          "source_page": "72"
+        },
+        {
+          "id": "u4e2-11",
+          "kind": "word",
+          "title_ar": "elephant",
+          "body_ar": "elephant يعني فيل. بتبدأ بحرف e.",
+          "en": [
+            "elephant"
+          ],
+          "image": "p1-lessons-assets/img/kg-elephant.png",
+          "check_ref": "p1-u4-l2-kg02",
+          "source_page": "72"
+        },
+        {
+          "id": "u4e2-12",
+          "kind": "word",
+          "title_ar": "eggplant, elbow, enter",
+          "body_ar": "eggplant يعني باذنجان. elbow يعني كوع. enter يعني ادخل. كلهم بيبدأوا بحرف e.",
+          "en": [
+            "eggplant",
+            "elbow",
+            "enter"
+          ],
+          "check_ref": "p1-u4-l2-23",
+          "source_page": "72"
+        },
+        {
+          "id": "u4e2-13",
+          "kind": "letter",
+          "title_ar": "شكل الحرف E",
+          "body_ar": "الحرف الكبير E والصغير e. اتتبّعهم واكتبهم واتبع الأسهم.",
+          "en": [
+            "Ee"
+          ],
+          "check_ref": "p1-u4-l2-29",
+          "source_page": "72-73"
+        },
+        {
+          "id": "u4e2-14",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u4-l2-39",
+          "source_page": "74"
+        },
+        {
+          "id": "u4e2-15",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "r: red، ring، rabbit، robot، rocket. e: egg، elephant، eggplant، elbow، enter."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 4,
+      "lesson": 3,
+      "lesson_title": "My 5 senses",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 3, pdf p.75-78",
+      "goal_ar": "النهارده هنتعلم الحواس الخمسة وبنستخدم كل حاسة بإيه.",
+      "steps": [
+        {
+          "id": "u4e3-1",
+          "kind": "gloss",
+          "title_ar": "اقرا المحادثة",
+          "body_ar": "Aly وOmar بيتكلموا عن الحواس. الجمل المهمة:",
+          "en": [
+            "Omar: I can see the teacher and the desk.",
+            "Aly: I can smell it with my nose.",
+            "Omar: I can hear the teacher with my ears.",
+            "Aly: I can touch the desk with my hands.",
+            "Omar: I can taste it with my tongue!"
+          ],
+          "source_page": "75"
+        },
+        {
+          "id": "u4e3-2",
+          "kind": "gloss",
+          "title_ar": "يعني إيه؟",
+          "body_ar": "see = يشوف. hear = يسمع. smell = يشم. taste = يدوق. touch = يلمس. والحواس خمسة.",
+          "check_ref": "p1-u4-l3-20",
+          "source_page": "76"
+        },
+        {
+          "id": "u4e3-3",
+          "kind": "pattern",
+          "title_ar": "see / eyes",
+          "body_ar": "I can see with my eyes. بنشوف بالعين.",
+          "en": [
+            "I can see with my eyes."
+          ],
+          "image": "p1-lessons-assets/img/kg-eyes.png",
+          "check_ref": "p1-u4-l3-06",
+          "source_page": "76"
+        },
+        {
+          "id": "u4e3-4",
+          "kind": "pattern",
+          "title_ar": "hear / ears",
+          "body_ar": "I can hear with my ears. بنسمع بالودن. بص على الدايرتين الحمرا في الصورة، دي الودنين.",
+          "en": [
+            "I can hear with my ears."
+          ],
+          "image": "p1-lessons-assets/img/kg-ears-hl.png",
+          "check_ref": "p1-u4-l3-07",
+          "source_page": "76"
+        },
+        {
+          "id": "u4e3-5",
+          "kind": "pattern",
+          "title_ar": "smell / nose",
+          "body_ar": "I can smell with my nose. بنشم بالأنف.",
+          "en": [
+            "I can smell with my nose."
+          ],
+          "image": "p1-lessons-assets/img/kg-nose.png",
+          "check_ref": "p1-u4-l3-08",
+          "source_page": "76"
+        },
+        {
+          "id": "u4e3-6",
+          "kind": "pattern",
+          "title_ar": "taste / tongue",
+          "body_ar": "I can taste with my tongue. بنداق باللسان.",
+          "en": [
+            "I can taste with my tongue."
+          ],
+          "check_ref": "p1-u4-l3-09",
+          "source_page": "76"
+        },
+        {
+          "id": "u4e3-7",
+          "kind": "pattern",
+          "title_ar": "touch / hands",
+          "body_ar": "I can touch with my hands. بنلمس بالإيدين.",
+          "en": [
+            "I can touch with my hands."
+          ],
+          "image": "p1-lessons-assets/img/kg-hands.png",
+          "check_ref": "p1-u4-l3-10",
+          "source_page": "76"
+        },
+        {
+          "id": "u4e3-8",
+          "kind": "check",
+          "title_ar": "كمّل الجملة",
+          "body_ar": "اختار الكلمة الصح.",
+          "check_ref": "p1-u4-l3-11",
+          "source_page": "77"
+        },
+        {
+          "id": "u4e3-9",
+          "kind": "check",
+          "title_ar": "رتّب الكلمات",
+          "body_ar": "رتّب الكلمات عشان تعمل جملة.",
+          "check_ref": "p1-u4-l3-29",
+          "source_page": "77"
+        },
+        {
+          "id": "u4e3-10",
+          "kind": "dialogue_practice",
+          "title_ar": "كمّل المحادثة",
+          "body_ar": "كمّل المحادثة بنفسك.",
+          "check_ref": "p1-u4-l3-34",
+          "source_page": "75"
+        },
+        {
+          "id": "u4e3-11",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "see بالعين، hear بالودن، smell بالأنف، taste باللسان، touch بالإيد."
+        }
+      ]
+    },
+    {
+      "grade": "P1",
+      "term": 1,
+      "unit": 4,
+      "lesson": 4,
+      "lesson_title": "Phonics (Cc, Kk)",
+      "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 4, pdf p.79-83",
+      "goal_ar": "النهارده هنعرف حرفين: C وK، ونلاحظ إن ليهم نفس الصوت في الكلمات دي.",
+      "steps": [
+        {
+          "id": "u4e4-1",
+          "kind": "sound",
+          "title_ar": "الحرف C",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "cat, cake, cup, car, carrot"
+          ],
+          "source_page": "79"
+        },
+        {
+          "id": "u4e4-2",
+          "kind": "word",
+          "title_ar": "cat",
+          "body_ar": "cat يعني قطة. بتبدأ بحرف c.",
+          "en": [
+            "cat"
+          ],
+          "image": "p1-lessons-assets/img/kg-cat.png",
+          "check_ref": "p1-u4-l4-kg01",
+          "source_page": "79"
+        },
+        {
+          "id": "u4e4-3",
+          "kind": "word",
+          "title_ar": "cake",
+          "body_ar": "cake يعني كيكة. بتبدأ بحرف c.",
+          "en": [
+            "cake"
+          ],
+          "image": "p1-lessons-assets/img/obj-cake.png",
+          "check_ref": "p1-u4-l4-obj01",
+          "source_page": "79"
+        },
+        {
+          "id": "u4e4-4",
+          "kind": "word",
+          "title_ar": "cup",
+          "body_ar": "cup يعني كوباية. بتبدأ بحرف c.",
+          "en": [
+            "cup"
+          ],
+          "image": "p1-lessons-assets/img/obj-cup.png",
+          "check_ref": "p1-u4-l4-obj03",
+          "source_page": "79"
+        },
+        {
+          "id": "u4e4-5",
+          "kind": "word",
+          "title_ar": "car and carrot",
+          "body_ar": "car يعني عربية. carrot يعني جزرة. بيبدأوا بحرف c.",
+          "en": [
+            "car",
+            "carrot"
+          ],
+          "check_ref": "p1-u4-l4-04",
+          "source_page": "79"
+        },
+        {
+          "id": "u4e4-6",
+          "kind": "letter",
+          "title_ar": "شكل الحرف C",
+          "body_ar": "الحرف الكبير C والصغير c. اتتبّعهم واكتبهم واتبع الأسهم.",
+          "en": [
+            "Cc"
+          ],
+          "check_ref": "p1-u4-l4-09",
+          "source_page": "79-80"
+        },
+        {
+          "id": "u4e4-7",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u4-l4-19",
+          "source_page": "83"
+        },
+        {
+          "id": "u4e4-8",
+          "kind": "sound",
+          "title_ar": "الحرف K",
+          "body_ar": "الحرف ليه اسم وصوت. اقرأ كلمات الدرس وشوف الحرف في أولها. الشرح هنا مكتوب، والنطق الصوتي هيتضاف بعد مراجعته.",
+          "en": [
+            "key, kite, king, kangaroo, kitchen"
+          ],
+          "source_page": "81"
+        },
+        {
+          "id": "u4e4-9",
+          "kind": "word",
+          "title_ar": "key",
+          "body_ar": "key يعني مفتاح. بتبدأ بحرف k.",
+          "en": [
+            "key"
+          ],
+          "image": "p1-lessons-assets/img/obj-key.png",
+          "check_ref": "p1-u4-l4-obj05",
+          "source_page": "81"
+        },
+        {
+          "id": "u4e4-10",
+          "kind": "word",
+          "title_ar": "kite",
+          "body_ar": "kite يعني طيارة ورق. بتبدأ بحرف k.",
+          "en": [
+            "kite"
+          ],
+          "image": "p1-lessons-assets/img/kg-kite.png",
+          "check_ref": "p1-u4-l4-obj07",
+          "source_page": "81"
+        },
+        {
+          "id": "u4e4-11",
+          "kind": "word",
+          "title_ar": "king, kangaroo, kitchen",
+          "body_ar": "king يعني ملك. kangaroo يعني كانجارو. kitchen يعني مطبخ. بيبدأوا بحرف k.",
+          "en": [
+            "king",
+            "kangaroo",
+            "kitchen"
+          ],
+          "check_ref": "p1-u4-l4-23",
+          "source_page": "81"
+        },
+        {
+          "id": "u4e4-12",
+          "kind": "letter",
+          "title_ar": "شكل الحرف K",
+          "body_ar": "الحرف الكبير K والصغير k. اتتبّعهم واكتبهم واتبع الأسهم.",
+          "en": [
+            "Kk"
+          ],
+          "check_ref": "p1-u4-l4-29",
+          "source_page": "81-82"
+        },
+        {
+          "id": "u4e4-13",
+          "kind": "check",
+          "title_ar": "رتّب الحروف",
+          "body_ar": "رتّب الحروف وكوّن الكلمة.",
+          "check_ref": "p1-u4-l4-39",
+          "source_page": "83"
+        },
+        {
+          "id": "u4e4-14",
+          "kind": "recap",
+          "title_ar": "افتكر",
+          "body_ar": "c: cat، cake، cup، car، carrot. k: key، kite، king، kangaroo، kitchen."
+        }
+      ]
+    }
+  ]
+}
