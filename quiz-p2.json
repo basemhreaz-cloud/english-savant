@@ -1,123 +1,126 @@
 {
- "grade": "p2",
- "gradeName": "الصف التاني الابتدائي",
- "examTitle": "First Term · Unit 3",
- "questions": [
-  {
-   "type": "mcq",
-   "q": "I ______ my name.",
-   "options": [
-    "clap",
-    "write"
-   ],
-   "answer": 1,
-   "label": "choose"
-  },
-  {
-   "type": "mcq",
-   "q": "I ______ a picture.",
-   "options": [
-    "draw",
-    "draws"
-   ],
-   "answer": 0,
-   "label": "choose"
-  },
-  {
-   "type": "mcq",
-   "label": "sound",
-   "q": "b _ k _",
-   "options": [
-    "bike",
-    "book",
-    "bake"
-   ],
-   "answer": 0
-  },
-  {
-   "type": "mcq",
-   "label": "sound",
-   "q": "k _ _ e",
-   "options": [
-    "kite",
-    "kind",
-    "knee"
-   ],
-   "answer": 0
-  },
-  {
-   "type": "mcq",
-   "label": "sound",
-   "q": "f i _ _",
-   "options": [
-    "fish",
-    "five",
-    "film"
-   ],
-   "answer": 0
-  },
-  {
-   "type": "reorder",
-   "words": [
-    "my",
-    "I",
-    "hand",
-    "raise",
-    "."
-   ],
-   "answer": [
-    "I",
-    "raise",
-    "my",
-    "hand",
-    "."
-   ]
-  },
-  {
-   "type": "reorder",
-   "words": [
-    "my",
-    "I",
-    "desk",
-    "clean",
-    "."
-   ],
-   "answer": [
-    "I",
-    "clean",
-    "my",
-    "desk",
-    "."
-   ]
-  },
-  {
-   "type": "unscramble",
-   "letters": "o r c l u o",
-   "answer": [
-    "colour"
-   ]
-  },
-  {
-   "type": "unscramble",
-   "letters": "a e r d",
-   "answer": [
-    "read",
-    "dear"
-   ]
-  },
-  {
-   "type": "unscramble",
-   "letters": "a e c n l",
-   "answer": [
-    "clean"
-   ]
-  },
-  {
-   "type": "unscramble",
-   "letters": "n l i e",
-   "answer": [
-    "line"
-   ]
-  }
- ]
+  "grade": "p2",
+  "gradeName": "الصف التاني الابتدائي",
+  "examTitle": "First Term · Unit 3",
+  "questions": [
+    {
+      "type": "mcq",
+      "q": "I ______ my name.",
+      "options": [
+        "clap",
+        "write"
+      ],
+      "answer": 1,
+      "label": "choose"
+    },
+    {
+      "type": "mcq",
+      "q": "I ______ a picture.",
+      "options": [
+        "draw",
+        "draws"
+      ],
+      "answer": 0,
+      "label": "choose"
+    },
+    {
+      "type": "mcq",
+      "label": "sound",
+      "q": "s_t (يجلس)",
+      "options": [
+        "sit",
+        "sun",
+        "clap"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mcq",
+      "label": "sound",
+      "q": "cl_p (يصفّق)",
+      "options": [
+        "clap",
+        "read",
+        "play"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mcq",
+      "label": "sound",
+      "q": "r_ad (يقرأ)",
+      "options": [
+        "read",
+        "write",
+        "play"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "reorder",
+      "words": [
+        "my",
+        "I",
+        "hand",
+        "raise",
+        "."
+      ],
+      "answer": [
+        "I",
+        "raise",
+        "my",
+        "hand",
+        "."
+      ]
+    },
+    {
+      "type": "reorder",
+      "words": [
+        "my",
+        "I",
+        "desk",
+        "clean",
+        "."
+      ],
+      "answer": [
+        "I",
+        "clean",
+        "my",
+        "desk",
+        "."
+      ]
+    },
+    {
+      "type": "unscramble",
+      "letters": "o r c l o",
+      "answer": [
+        "color"
+      ],
+      "hint": "يلوّن"
+    },
+    {
+      "type": "unscramble",
+      "letters": "a e r d",
+      "answer": [
+        "read"
+      ],
+      "hint": "يقرأ"
+    },
+    {
+      "type": "unscramble",
+      "letters": "a e c n l",
+      "answer": [
+        "clean"
+      ],
+      "hint": "ينظّف"
+    },
+    {
+      "type": "unscramble",
+      "letters": "n l i e",
+      "answer": [
+        "line"
+      ],
+      "hint": "خط"
+    }
+  ]
 }
