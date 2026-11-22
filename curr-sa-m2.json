@@ -7638,12 +7638,704 @@
           ]
         }
       ]
+    },
+    {
+      "id": "exp2",
+      "num": "مراجعة 5–8",
+      "title": "Expansion · Units 5–8",
+      "pages": [
+        72,
+        77
+      ],
+      "lessons": [],
+      "vocab": [
+        "margarine",
+        "butter",
+        "egg",
+        "chocolate",
+        "dark chocolate",
+        "sandwich",
+        "turkey",
+        "salmon",
+        "cheese",
+        "tomato",
+        "avocado",
+        "lettuce",
+        "whole wheat",
+        "olive oil",
+        "milk",
+        "dairy products",
+        "yogurt",
+        "calcium",
+        "protein",
+        "ingredient",
+        "substitute",
+        "source",
+        "lonely",
+        "feel blue",
+        "hope",
+        "care",
+        "friendly",
+        "trouble",
+        "worry",
+        "pain",
+        "cheer up",
+        "ease",
+        "helping hand",
+        "once again"
+      ],
+      "sentences": [
+        "What did you do yesterday?",
+        "We went on a school trip.",
+        "There were two bags.",
+        "You should ask your teacher.",
+        "I did not see anything.",
+        "I was tired, so I rested.",
+        "So did I.",
+        "Neither did I.",
+        "This bag is hers.",
+        "I can give you a helping hand."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "الماضي في حكاية رحلة",
+          "text": "مع yesterday أوlast week استخدم الماضي: go تبقى went، وhave تبقى had، وfind تبقى found. بعد did وdid not الفعل يرجع لأصله: Did you go? وWe did not go. مع وجود مفرد في الماضي there was ومع جمع there were."
+        },
+        {
+          "title": "راجع كمية الأكل من غير تعميم",
+          "text": "some في إثبات بسيط وany في نفي أو سؤال عن وجود حاجة. في العرض المهذب ينفع some. enough قبل الاسم: enough time، وبعد الصفة: warm enough. too قبل الصفة في تركيب too hot. أسئلة الكمية هنا أمثلة لغة، مش نصائح تغذية."
+        },
+        {
+          "title": "نصيحة ووقت وملكية",
+          "text": "should وبعدها أصل الفعل: You should ask. when بتربط الوقت أو الموقف بالفعل. my قبل اسم وmine بدل الاسم. her book ممكن نستبدلها بـhers لو الاسم مفهوم. الضمير لازم يرجع لاسم واضح في السؤال."
+        },
+        {
+          "title": "سبب ونتيجة وموافقة",
+          "text": "because قبل السبب وso قبل النتيجة. لما السؤال يطلب سبب أو نتيجة يحدد ده صراحة. للموافقة على إثبات ماضي نقول So did I، وللموافقة على نفي ماضي Neither did I. اختار الفعل المساعد المناسب، مش مجرد كلمة so لوحدها."
+        },
+        {
+          "title": "دعم الصديق بالكلام",
+          "text": "feel blue معناها يحس بالحزن. helping hand تعبير عن المساعدة، وcheer up يعني يتحسن مزاجه أو يفرح. hope أمل وcare اهتمام. معاني مكتوبة وتدريب لغة، من غير احتياج لتسجيل الأنشودة."
+        },
+        {
+          "title": "قراءة عن مشروع وصداقة",
+          "text": "نص مشروع الأكل ونص الصديق هنا أصليين وخياليين وموجودين كاملين فوق كل سؤال. مفردات الأكل مستوحاة من الوحدة، لكن مفيش ادعاء إن أكل معين بيعالج مرض أو إن كمية معينة مناسبة لكل الناس. نراجع الفهم والقواعد، مش بنحوّل نص الكتاب القديم لنصيحة صحية حالية."
+        }
+      ],
+      "meanings": {
+        "margarine": "سمن نباتي",
+        "butter": "زبدة",
+        "egg": "بيضة",
+        "chocolate": "شوكولاتة",
+        "dark chocolate": "شوكولاتة داكنة",
+        "sandwich": "ساندويتش",
+        "turkey": "ديك رومي، كلحم في سياق الأكل",
+        "salmon": "سلمون",
+        "cheese": "جبنة",
+        "tomato": "طماطم",
+        "avocado": "أفوكادو",
+        "lettuce": "خس",
+        "whole wheat": "قمح كامل",
+        "olive oil": "زيت زيتون",
+        "milk": "لبن",
+        "dairy products": "منتجات ألبان",
+        "yogurt": "زبادي",
+        "calcium": "كالسيوم",
+        "protein": "بروتين",
+        "ingredient": "مكوّن",
+        "substitute": "بديل",
+        "source": "مصدر",
+        "lonely": "حاسس بالوحدة",
+        "feel blue": "يحس بالحزن، مش لون الجلد",
+        "hope": "أمل",
+        "care": "اهتمام ورعاية",
+        "friendly": "ودود",
+        "trouble": "مشكلة أو صعوبة",
+        "worry": "قلق أو حاجة مقلقة",
+        "pain": "ألم",
+        "cheer up": "يفرح أو يتحسن مزاجه",
+        "ease": "يخفف",
+        "helping hand": "مساعدة",
+        "once again": "مرة تانية"
+      },
+      "sentenceMeanings": {
+        "What did you do yesterday?": "عملت إيه امبارح؟",
+        "We went on a school trip.": "رحنا رحلة مدرسية.",
+        "There were two bags.": "كان فيه شنطتين.",
+        "You should ask your teacher.": "الأفضل تسأل مدرسك.",
+        "I did not see anything.": "ماشفتش أي حاجة.",
+        "I was tired, so I rested.": "كنت تعبان، فارتحت.",
+        "So did I.": "وأنا كمان، موافقة على إثبات في الماضي.",
+        "Neither did I.": "ولا أنا كمان، موافقة على نفي في الماضي.",
+        "This bag is hers.": "الشنطة دي بتاعتها.",
+        "I can give you a helping hand.": "أقدر أساعدك."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "مفردات الأكل والمشاعر",
+          "sub": "المعنى اللغوي فقط، من غير ادعاءات تغذية.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "argarinem",
+              "answer": [
+                "margarine"
+              ],
+              "hint": "سمن نباتي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "hocolatec",
+              "answer": [
+                "chocolate"
+              ],
+              "hint": "شوكولاتة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "andwichs",
+              "answer": [
+                "sandwich"
+              ],
+              "hint": "ساندويتش"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ettucel",
+              "answer": [
+                "lettuce"
+              ],
+              "hint": "خس"
+            },
+            {
+              "type": "unscramble",
+              "letters": "alciumc",
+              "answer": [
+                "calcium"
+              ],
+              "hint": "كالسيوم"
+            },
+            {
+              "type": "unscramble",
+              "letters": "onelyl",
+              "answer": [
+                "lonely"
+              ],
+              "hint": "حاسس بالوحدة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "riendlyf",
+              "answer": [
+                "friendly"
+              ],
+              "hint": "ودود"
+            },
+            {
+              "type": "unscramble",
+              "letters": "roublet",
+              "answer": [
+                "trouble"
+              ],
+              "hint": "مشكلة أو صعوبة"
+            }
+          ]
+        },
+        {
+          "id": "grammar",
+          "title": "مراجعة قواعد 5–8",
+          "sub": "ماضي وكمية ونصيحة وملكية وwhen.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Yesterday, we ___ to the school library.",
+              "options": [
+                "went",
+                "go",
+                "going"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Last Monday, we ___ a class project.",
+              "options": [
+                "have",
+                "had",
+                "having"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "We did not ___ our bags yesterday.",
+              "options": [
+                "forgot",
+                "forgetting",
+                "forget"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "What did you ___ yesterday?",
+              "options": [
+                "eat",
+                "ate",
+                "eating"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "There ___ one notebook on the desk yesterday.",
+              "options": [
+                "were",
+                "was",
+                "are"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "There ___ three posters in the room last week.",
+              "options": [
+                "was",
+                "is",
+                "were"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Yesterday, Lina ___ her missing pen.",
+              "options": [
+                "found",
+                "find",
+                "finding"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The trip ___ at nine yesterday.",
+              "options": [
+                "begin",
+                "began",
+                "beginning"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Use the normal negative form: We do not have ___ bread.",
+              "options": [
+                "some",
+                "a",
+                "any"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Complete the normal affirmative form: There is ___ milk in the glass.",
+              "options": [
+                "some",
+                "any",
+                "a"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Use the correct word order: We have ___ for the task.",
+              "options": [
+                "time enough",
+                "enough time",
+                "enough many time"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the normal adjective order.",
+              "options": [
+                "enough warm",
+                "warmly enough",
+                "warm enough"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "You should ___ your teacher about the task.",
+              "options": [
+                "ask",
+                "asks",
+                "asking"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Lina owns this bag. It is ___.",
+              "options": [
+                "her",
+                "hers",
+                "she"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "When we arrived yesterday, the teacher ___ us.",
+              "options": [
+                "welcome",
+                "welcoming",
+                "welcomed"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "I did not see ___ on the empty desk. Choose the standard negative form.",
+              "options": [
+                "anything",
+                "nothing",
+                "no one"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "functions",
+          "title": "سبب ونتيجة ومساندة",
+          "sub": "المعنى المطلوب محدد في السؤال.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Introduce a reason: I was happy ___ our team won.",
+              "options": [
+                "so",
+                "because",
+                "but"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Introduce a result: I was tired, ___ I rested.",
+              "options": [
+                "because",
+                "but",
+                "so"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "I visited the museum yesterday. Agree.",
+              "options": [
+                "So did I.",
+                "Neither did I.",
+                "So am I."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "I did not go out yesterday. Agree.",
+              "options": [
+                "So did I.",
+                "Neither did I.",
+                "Neither am I."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "In the expression feel blue, blue means ___.",
+              "options": [
+                "cold",
+                "angry",
+                "sad"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Give someone a helping hand means ___.",
+              "options": [
+                "help someone",
+                "draw a hand",
+                "hide a glove"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Cheer someone up means ___.",
+              "options": [
+                "make someone late",
+                "make someone happier",
+                "sell someone food"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Once again means ___.",
+              "options": [
+                "never",
+                "last week",
+                "one more time"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "اقرأ المشروع وموقف الصداقة",
+          "sub": "النص كامل قبل كل سؤال.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "What did Ms Salma ask the class to make?",
+              "options": [
+                "A school map",
+                "A food-word poster",
+                "A recipe video"
+              ],
+              "answer": 1,
+              "passage": "Original fictional food-project report: Last week, Ms Salma asked her class to make a food-word poster. Team A chose sandwich ingredients: cheese, tomato, and lettuce. Team B chose dairy words: milk and yogurt. Faris brought a blue pen, and Lina brought two sheets of paper. The students wrote the English words under their drawings. When they finished, they displayed the poster near the classroom door. The poster practiced vocabulary. It did not recommend a diet or claim that any food could treat an illness."
+            },
+            {
+              "type": "mcq",
+              "q": "Which ingredients did Team A choose?",
+              "options": [
+                "Milk and yogurt",
+                "Apples and rice",
+                "Cheese, tomato, and lettuce"
+              ],
+              "answer": 2,
+              "passage": "Original fictional food-project report: Last week, Ms Salma asked her class to make a food-word poster. Team A chose sandwich ingredients: cheese, tomato, and lettuce. Team B chose dairy words: milk and yogurt. Faris brought a blue pen, and Lina brought two sheets of paper. The students wrote the English words under their drawings. When they finished, they displayed the poster near the classroom door. The poster practiced vocabulary. It did not recommend a diet or claim that any food could treat an illness."
+            },
+            {
+              "type": "mcq",
+              "q": "What did Faris bring?",
+              "options": [
+                "A blue pen",
+                "Two sheets of paper",
+                "A red bag"
+              ],
+              "answer": 0,
+              "passage": "Original fictional food-project report: Last week, Ms Salma asked her class to make a food-word poster. Team A chose sandwich ingredients: cheese, tomato, and lettuce. Team B chose dairy words: milk and yogurt. Faris brought a blue pen, and Lina brought two sheets of paper. The students wrote the English words under their drawings. When they finished, they displayed the poster near the classroom door. The poster practiced vocabulary. It did not recommend a diet or claim that any food could treat an illness."
+            },
+            {
+              "type": "mcq",
+              "q": "Where did the students display the poster?",
+              "options": [
+                "Inside a shop",
+                "Near the classroom door",
+                "At a bus stop"
+              ],
+              "answer": 1,
+              "passage": "Original fictional food-project report: Last week, Ms Salma asked her class to make a food-word poster. Team A chose sandwich ingredients: cheese, tomato, and lettuce. Team B chose dairy words: milk and yogurt. Faris brought a blue pen, and Lina brought two sheets of paper. The students wrote the English words under their drawings. When they finished, they displayed the poster near the classroom door. The poster practiced vocabulary. It did not recommend a diet or claim that any food could treat an illness."
+            },
+            {
+              "type": "mcq",
+              "q": "Why did Noura feel lonely?",
+              "options": [
+                "She lost a pen.",
+                "She missed a bus.",
+                "Her friend was absent."
+              ],
+              "answer": 2,
+              "passage": "Original fictional friendship story: On Tuesday, Noura felt lonely because her friend was absent. Her classmate Hala asked what was wrong. Hala offered a helping hand with a difficult homework task. They worked together after lunch. Noura explained a grammar question, and Hala helped organize the notes. When they finished, Noura felt happier. They agreed to study together again on Thursday. This is an original classroom story about friendship."
+            },
+            {
+              "type": "mcq",
+              "q": "Who offered Noura a helping hand?",
+              "options": [
+                "Hala",
+                "Ms Salma",
+                "Lina"
+              ],
+              "answer": 0,
+              "passage": "Original fictional friendship story: On Tuesday, Noura felt lonely because her friend was absent. Her classmate Hala asked what was wrong. Hala offered a helping hand with a difficult homework task. They worked together after lunch. Noura explained a grammar question, and Hala helped organize the notes. When they finished, Noura felt happier. They agreed to study together again on Thursday. This is an original classroom story about friendship."
+            },
+            {
+              "type": "mcq",
+              "q": "What did Noura explain?",
+              "options": [
+                "A recipe",
+                "A grammar question",
+                "A school rule"
+              ],
+              "answer": 1,
+              "passage": "Original fictional friendship story: On Tuesday, Noura felt lonely because her friend was absent. Her classmate Hala asked what was wrong. Hala offered a helping hand with a difficult homework task. They worked together after lunch. Noura explained a grammar question, and Hala helped organize the notes. When they finished, Noura felt happier. They agreed to study together again on Thursday. This is an original classroom story about friendship."
+            },
+            {
+              "type": "mcq",
+              "q": "When did the girls agree to study together again?",
+              "options": [
+                "On Monday",
+                "On Tuesday",
+                "On Thursday"
+              ],
+              "answer": 2,
+              "passage": "Original fictional friendship story: On Tuesday, Noura felt lonely because her friend was absent. Her classmate Hala asked what was wrong. Hala offered a helping hand with a difficult homework task. They worked together after lunch. Noura explained a grammar question, and Hala helped organize the notes. When they finished, Noura felt happier. They agreed to study together again on Thursday. This is an original classroom story about friendship."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب جمل المراجعة",
+          "sub": "من غير صوت أو صورة ناقصة.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "trip.",
+                "school",
+                "a",
+                "on",
+                "went",
+                "We"
+              ],
+              "answer": [
+                "We",
+                "went",
+                "on",
+                "a",
+                "school",
+                "trip."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "yesterday?",
+                "do",
+                "you",
+                "did",
+                "What"
+              ],
+              "answer": [
+                "What",
+                "did",
+                "you",
+                "do",
+                "yesterday?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "teacher.",
+                "your",
+                "ask",
+                "should",
+                "You"
+              ],
+              "answer": [
+                "You",
+                "should",
+                "ask",
+                "your",
+                "teacher."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "anything.",
+                "see",
+                "not",
+                "did",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "did",
+                "not",
+                "see",
+                "anything."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "rested.",
+                "I",
+                "so",
+                "tired,",
+                "was",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "was",
+                "tired,",
+                "so",
+                "I",
+                "rested."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "hers.",
+                "is",
+                "bag",
+                "This"
+              ],
+              "answer": [
+                "This",
+                "bag",
+                "is",
+                "hers."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "I.",
+                "did",
+                "So"
+              ],
+              "answer": [
+                "So",
+                "did",
+                "I."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "I.",
+                "did",
+                "Neither"
+              ],
+              "answer": [
+                "Neither",
+                "did",
+                "I."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "source": {
     "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g8/g8-english-1448.pdf",
     "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K08-SM1-ENGLMH-v2.pdf",
-    "title": "Super Goal 2, Part 1, Units 1–8 and Expansion 1–4, pages 2–71",
+    "title": "Super Goal 2, Part 1, Units 1–8 and Expansions 1–4 / 5–8, pages 2–77",
     "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint has a certificate error. Mirror bytes matched the reviewed PDF. Original explanations and exercises, not copied textbook questions.",
     "reviewedUnits": {
       "u1": [
@@ -7681,6 +8373,10 @@
       "u8": [
         64,
         71
+      ],
+      "exp2": [
+        72,
+        77
       ]
     }
   }
