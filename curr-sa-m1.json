@@ -6228,12 +6228,593 @@
           ]
         }
       ]
+    },
+    {
+      "id": "exp2",
+      "num": "مراجعة 5–8",
+      "kind": "review",
+      "title": "Expansion · Units 5–8",
+      "pages": [
+        72,
+        77
+      ],
+      "lessons": [],
+      "vocab": [
+        "family",
+        "apartment",
+        "comfortable",
+        "shelf",
+        "garden",
+        "neighborhood",
+        "modern",
+        "traditional",
+        "quiet",
+        "enormous",
+        "pet",
+        "parrot",
+        "local team",
+        "interest",
+        "hobby",
+        "sport",
+        "collect",
+        "bench",
+        "backpack",
+        "mailman",
+        "street",
+        "neighbor",
+        "loud",
+        "laugh",
+        "hold",
+        "carry",
+        "get on",
+        "mail"
+      ],
+      "sentences": [
+        "I have one brother.",
+        "She has two sisters.",
+        "There are flowers in the garden.",
+        "Our apartment is small but comfortable.",
+        "I live on Main Street.",
+        "Turn right at the corner.",
+        "The park is across from our building.",
+        "What are you doing now?",
+        "I am writing an email.",
+        "The children are playing.",
+        "I would like a sandwich.",
+        "I would like to read."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "العيلة والعدد والجمع",
+          "text": "راجع I have وShe has، والسؤال Do you have any cousins? الجمع المنتظم غالبًا بنزود له s، لكن child جمعها children وshelf جمعها shelves. اقرأ الفاعل وعدد الأفراد قبل ما تختار."
+        },
+        {
+          "title": "البيت والمكان",
+          "text": "There is قبل المفرد وThere are قبل الجمع. للنفي: There isn't وThere aren't. under تحت وacross from مقابل على الناحية التانية. كل علاقة مكان في الأسئلة هنا مكتوبة، ومفيش سؤال محتاج صورة بيت أو خريطة مش موجودة."
+        },
+        {
+          "title": "السكن والاتجاهات والمقارنة",
+          "text": "live in قبل المدينة وlive on قبل الشارع أو الدور. Turn right لف يمين وTurn left لف شمال. في المقارنة نقول bigger than، وفي التفضيل نقول the biggest. good تتحول better ثم the best. دي مراجعة لمهارات الوحدات 5–8، مش خريطة أو توصية لمكان حقيقي."
+        },
+        {
+          "title": "نشاط حالي وطلب مهذب",
+          "text": "المضارع المستمر am/is/are وبعدها فعل مع ing: I am writing وThey are playing. للسؤال قدم الفعل المساعد، وللنفي استخدم not. would like وبعدها اسم، زي a sandwich، لكن لو بعدها فعل نستخدم to: would like to read."
+        },
+        {
+          "title": "قراءة رسالة تدريبية كاملة",
+          "text": "اقرأ الرسالة كلها وحدد العيلة والسكن والأماكن والهوايات والأنشطة الحالية. النص هنا رسالة افتراضية أصلية، ومش من بريد شخص حقيقي ومفيش عنوان مراسلة أو إرسال مطلوب. كل المعلومات المطلوبة مكتوبة فوق كل سؤال، ومفيش سؤال سمعي أو صورة ناقصة."
+        }
+      ],
+      "meanings": {
+        "family": "عيلة",
+        "apartment": "شقة",
+        "comfortable": "مريح",
+        "shelf": "رف",
+        "garden": "حديقة",
+        "neighborhood": "حي سكني",
+        "modern": "حديث",
+        "traditional": "تقليدي",
+        "quiet": "هادئ",
+        "enormous": "ضخم جدًا",
+        "pet": "حيوان أليف",
+        "parrot": "ببغاء",
+        "local team": "فريق محلي",
+        "interest": "اهتمام",
+        "hobby": "هواية",
+        "sport": "رياضة",
+        "collect": "يجمع حاجات كهواية",
+        "bench": "دكة للجلوس",
+        "backpack": "شنطة ظهر",
+        "mailman": "ساعي البريد",
+        "street": "شارع",
+        "neighbor": "جار",
+        "loud": "عالي الصوت",
+        "laugh": "يضحك",
+        "hold": "يمسك",
+        "carry": "يشيل",
+        "get on": "يركب وسيلة مواصلات",
+        "mail": "بريد"
+      },
+      "sentenceMeanings": {
+        "I have one brother.": "عندي أخ واحد.",
+        "She has two sisters.": "هي عندها أختين.",
+        "There are flowers in the garden.": "فيه زهور في الحديقة.",
+        "Our apartment is small but comfortable.": "شقتنا صغيرة لكن مريحة.",
+        "I live on Main Street.": "أنا عايش في شارع ماين.",
+        "Turn right at the corner.": "لف يمين عند الناصية.",
+        "The park is across from our building.": "الحديقة مقابل عمارتنا على الناحية التانية.",
+        "What are you doing now?": "إنت بتعمل إيه دلوقتي؟",
+        "I am writing an email.": "أنا بكتب رسالة إلكترونية.",
+        "The children are playing.": "الأطفال بيلعبوا.",
+        "I would like a sandwich.": "أنا عايز ساندوتش.",
+        "I would like to read.": "أنا حابب أقرا."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "كلمات المراجعة",
+          "sub": "رتب الحروف حسب المعنى.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "arrotp",
+              "answer": [
+                "parrot"
+              ],
+              "hint": "ببغاء"
+            },
+            {
+              "type": "unscramble",
+              "letters": "normouse",
+              "answer": [
+                "enormous"
+              ],
+              "hint": "ضخم جدًا"
+            },
+            {
+              "type": "unscramble",
+              "letters": "uietq",
+              "answer": [
+                "quiet"
+              ],
+              "hint": "هادئ"
+            },
+            {
+              "type": "unscramble",
+              "letters": "enchb",
+              "answer": [
+                "bench"
+              ],
+              "hint": "دكة للجلوس"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ackpackb",
+              "answer": [
+                "backpack"
+              ],
+              "hint": "شنطة ظهر"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ailmanm",
+              "answer": [
+                "mailman"
+              ],
+              "hint": "ساعي البريد"
+            },
+            {
+              "type": "unscramble",
+              "letters": "treets",
+              "answer": [
+                "street"
+              ],
+              "hint": "شارع"
+            },
+            {
+              "type": "unscramble",
+              "letters": "oudl",
+              "answer": [
+                "loud"
+              ],
+              "hint": "عالي الصوت"
+            }
+          ]
+        },
+        {
+          "id": "grammar",
+          "title": "العيلة والبيت والحي",
+          "sub": "راجع الوحدات 5–7 من كلام واضح.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "I ___ two sisters.",
+              "options": [
+                "have",
+                "has",
+                "is"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "She ___ one brother.",
+              "options": [
+                "have",
+                "has",
+                "are"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the plural of child.",
+              "options": [
+                "childs",
+                "childes",
+                "children"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Do you have ___ cousins?",
+              "options": [
+                "any",
+                "a",
+                "an"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "There ___ a desk in the room.",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "There ___ two shelves.",
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "The garden has no trees. There ___ any trees.",
+              "options": [
+                "aren't",
+                "are",
+                "isn't"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The ball is below the table. It is ___ the table.",
+              "options": [
+                "on",
+                "under",
+                "in"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "I live ___ Jeddah. It is a city.",
+              "options": [
+                "on",
+                "under",
+                "in"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "I live ___ Main Street.",
+              "options": [
+                "on",
+                "in",
+                "under"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "This store is ___ than that one. (big)",
+              "options": [
+                "biggest",
+                "bigger",
+                "biger"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the superlative phrase for good.",
+              "options": [
+                "better",
+                "the goodest",
+                "the best"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "current",
+          "title": "نشاط حالي ورغبات",
+          "sub": "المضارع المستمر وwould like.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "I ___ writing now.",
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "He ___ reading a newspaper.",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "They ___ playing in the park.",
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Say that we are NOT watching TV: We ___ watching TV.",
+              "options": [
+                "aren't",
+                "are",
+                "isn't"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "What ___ she doing?",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Are you studying? Yes, I ___.",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "I ___ a sandwich.",
+              "options": [
+                "would like",
+                "would like to",
+                "would to"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "I would like ___ read.",
+              "options": [
+                "for",
+                "to",
+                "at"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "قراءة رسالة تدريبية",
+          "sub": "الرسالة كاملة فوق كل سؤال، ومفيش إرسال أو عنوان حقيقي.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "How many brothers does Hadi have?",
+              "options": [
+                "One",
+                "Two",
+                "Three"
+              ],
+              "answer": 0,
+              "passage": "Fictional email practice: My name is Hadi. I have one brother and two sisters. We live in an apartment on Main Street. Our apartment has two bedrooms. There is a park across from our building. My school is near our home. I have a pet parrot named Coco. Right now, I am writing this email, and my brother is reading a magazine. My sisters are playing in the garden. I play football in my free time. This is a practice text, not a real email."
+            },
+            {
+              "type": "mcq",
+              "q": "Where does the family live?",
+              "options": [
+                "In a hotel",
+                "In an apartment",
+                "In a museum"
+              ],
+              "answer": 1,
+              "passage": "Fictional email practice: My name is Hadi. I have one brother and two sisters. We live in an apartment on Main Street. Our apartment has two bedrooms. There is a park across from our building. My school is near our home. I have a pet parrot named Coco. Right now, I am writing this email, and my brother is reading a magazine. My sisters are playing in the garden. I play football in my free time. This is a practice text, not a real email."
+            },
+            {
+              "type": "mcq",
+              "q": "How many bedrooms does the apartment have?",
+              "options": [
+                "One",
+                "Three",
+                "Two"
+              ],
+              "answer": 2,
+              "passage": "Fictional email practice: My name is Hadi. I have one brother and two sisters. We live in an apartment on Main Street. Our apartment has two bedrooms. There is a park across from our building. My school is near our home. I have a pet parrot named Coco. Right now, I am writing this email, and my brother is reading a magazine. My sisters are playing in the garden. I play football in my free time. This is a practice text, not a real email."
+            },
+            {
+              "type": "mcq",
+              "q": "Where is the park?",
+              "options": [
+                "Across from the building",
+                "Inside the apartment",
+                "Far from the building"
+              ],
+              "answer": 0,
+              "passage": "Fictional email practice: My name is Hadi. I have one brother and two sisters. We live in an apartment on Main Street. Our apartment has two bedrooms. There is a park across from our building. My school is near our home. I have a pet parrot named Coco. Right now, I am writing this email, and my brother is reading a magazine. My sisters are playing in the garden. I play football in my free time. This is a practice text, not a real email."
+            },
+            {
+              "type": "mcq",
+              "q": "What is Hadi's pet?",
+              "options": [
+                "A cat",
+                "A parrot",
+                "A rabbit"
+              ],
+              "answer": 1,
+              "passage": "Fictional email practice: My name is Hadi. I have one brother and two sisters. We live in an apartment on Main Street. Our apartment has two bedrooms. There is a park across from our building. My school is near our home. I have a pet parrot named Coco. Right now, I am writing this email, and my brother is reading a magazine. My sisters are playing in the garden. I play football in my free time. This is a practice text, not a real email."
+            },
+            {
+              "type": "mcq",
+              "q": "What is Hadi doing now?",
+              "options": [
+                "Reading a magazine",
+                "Playing football",
+                "Writing an email"
+              ],
+              "answer": 2,
+              "passage": "Fictional email practice: My name is Hadi. I have one brother and two sisters. We live in an apartment on Main Street. Our apartment has two bedrooms. There is a park across from our building. My school is near our home. I have a pet parrot named Coco. Right now, I am writing this email, and my brother is reading a magazine. My sisters are playing in the garden. I play football in my free time. This is a practice text, not a real email."
+            },
+            {
+              "type": "mcq",
+              "q": "What is his brother doing?",
+              "options": [
+                "Reading a magazine",
+                "Cooking",
+                "Writing an email"
+              ],
+              "answer": 0,
+              "passage": "Fictional email practice: My name is Hadi. I have one brother and two sisters. We live in an apartment on Main Street. Our apartment has two bedrooms. There is a park across from our building. My school is near our home. I have a pet parrot named Coco. Right now, I am writing this email, and my brother is reading a magazine. My sisters are playing in the garden. I play football in my free time. This is a practice text, not a real email."
+            },
+            {
+              "type": "mcq",
+              "q": "What sport does Hadi play in his free time?",
+              "options": [
+                "Tennis",
+                "Football",
+                "Basketball"
+              ],
+              "answer": 1,
+              "passage": "Fictional email practice: My name is Hadi. I have one brother and two sisters. We live in an apartment on Main Street. Our apartment has two bedrooms. There is a park across from our building. My school is near our home. I have a pet parrot named Coco. Right now, I am writing this email, and my brother is reading a magazine. My sisters are playing in the garden. I play football in my free time. This is a practice text, not a real email."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب الجملة",
+          "sub": "مراجعة مهارات الوحدات 5–8.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "bedrooms.",
+                "two",
+                "has",
+                "apartment",
+                "Our"
+              ],
+              "answer": [
+                "Our",
+                "apartment",
+                "has",
+                "two",
+                "bedrooms."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "corner.",
+                "the",
+                "at",
+                "right",
+                "Turn"
+              ],
+              "answer": [
+                "Turn",
+                "right",
+                "at",
+                "the",
+                "corner."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "now.",
+                "email",
+                "an",
+                "writing",
+                "am",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "am",
+                "writing",
+                "an",
+                "email",
+                "now."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "read.",
+                "to",
+                "like",
+                "would",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "would",
+                "like",
+                "to",
+                "read."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "source": {
     "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g7/g7-english-1448.pdf",
     "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K07-SM1-ENGLMH.pdf",
-    "title": "Super Goal 1, Part 1, Units 1–8 and Expansion 1–4, pages 2–71",
+    "title": "Super Goal 1, Part 1, Units 1–8 and both Expansion reviews, pages 2–77",
     "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint returned HTTP500. Original explanations and exercises, not copied textbook questions.",
     "reviewedUnits": {
       "u1": [
@@ -6271,6 +6852,10 @@
       "u8": [
         64,
         71
+      ],
+      "exp2": [
+        72,
+        77
       ]
     }
   }
