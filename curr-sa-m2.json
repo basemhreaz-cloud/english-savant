@@ -4197,12 +4197,867 @@
           ]
         }
       ]
+    },
+    {
+      "id": "u5",
+      "num": 5,
+      "title": "Is There Any Ice Cream?",
+      "pages": [
+        40,
+        47
+      ],
+      "lessons": [],
+      "vocab": [
+        "appetizer",
+        "main course",
+        "dessert",
+        "beverage",
+        "shrimp",
+        "steak",
+        "lettuce",
+        "carrot",
+        "cucumber",
+        "onion",
+        "potato",
+        "rice",
+        "pasta",
+        "sauce",
+        "apple pie",
+        "cheesecake",
+        "ice cream",
+        "juice",
+        "coffee",
+        "tea",
+        "water",
+        "soft drink",
+        "grilled",
+        "roasted",
+        "steamed",
+        "baked",
+        "fried",
+        "menu",
+        "order",
+        "delivery",
+        "for here",
+        "to go",
+        "Let me see.",
+        "I will have",
+        "count noun",
+        "noncount noun",
+        "bottle",
+        "cup",
+        "glass",
+        "piece",
+        "ingredient",
+        "recipe",
+        "mix",
+        "pour",
+        "boil",
+        "frying pan",
+        "plate",
+        "first",
+        "next",
+        "finally",
+        "until",
+        "too much",
+        "too many",
+        "enough"
+      ],
+      "sentences": [
+        "I would like a sandwich.",
+        "Would you like some water?",
+        "There is some juice.",
+        "There are some eggs.",
+        "There is not any rice.",
+        "Are there any carrots?",
+        "A glass of water, please.",
+        "To go, please.",
+        "First, wash the vegetables.",
+        "Finally, serve the salad.",
+        "The soup is too hot to eat.",
+        "We have enough eggs."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "اقرأ قائمة الأكل واطلب بأدب",
+          "text": "appetizer مقبلات، main course طبق رئيسي، dessert حلو، وbeverage مشروب. grilled مشوي على الشواية، وsteamed مطهو بالبخار. I would like وI will have بنستخدمهم في طلب الأكل. For here للأكل هنا، وto go سفري. Let me see معناها خليني أفكر شوية."
+        },
+        {
+          "title": "اسم معدود وغير معدود",
+          "text": "المعدود له مفرد وجمع، زي an egg وtwo eggs وa carrot وthree carrots. في الاستخدام المقصود هنا rice وwater غير معدودين، فنقول some rice مش a rice. الكتاب منبه إن بعض الأسماء تقبل الطريقتين حسب المعنى: a salad أوsome salad، وa soup أوsome soup. عشان كده مش بنثبت لها تصنيف واحد في كل موقف."
+        },
+        {
+          "title": "some وany والعرض المهذب",
+          "text": "في أمثلة الإثبات البسيطة نستخدم some: There is some juice وThere are some eggs. في النفي والسؤال عن وجود حاجة نستخدم any: There is not any rice وAre there any carrots? العرض المهذب ممكن ياخد some: Would you like some water? السؤال مش معناه تلقائيًا إن some غلط."
+        },
+        {
+          "title": "عبوات وكميات",
+          "text": "مع غير المعدود نقدر نعد العبوة أو القطعة: a bottle of juice وa cup of coffee وa glass of water وa piece of cake. الاسم اللي بيحدد is أوare هو رأس المجموعة: There is a glass of water، وThere are two glasses of water."
+        },
+        {
+          "title": "too وenough",
+          "text": "too قبل الصفة: too hot. too much قبل غير المعدود: too much salt. too many قبل جمع معدود: too many carrots. enough بعد الصفة: cool enough، وقبل الاسم: enough eggs أوenough time. ممكن بعدها to مع الفعل: too hot to eat وenough eggs to make an omelet."
+        },
+        {
+          "title": "اكتب وصفة بترتيب مفهوم",
+          "text": "ابدأ بأفعال الأمر زي wash وcut وmix وserve. رتب الخطوات بـfirst وnext وthen وafter that وfinally. when معناها لما، وuntil معناها لحد ما. النص التعليمي هنا سلطة خيالية بسيطة، مش إرشادات طبخ للحوم أو البيض ولا نصيحة سلامة غذائية."
+        },
+        {
+          "title": "قراءة كاملة من غير حقائق قديمة",
+          "text": "في القراءة قائمتين وموقف وصفة أصليين من إعدادنا. كل سؤال مع نصه كاملًا. ما نقلناش أعداد محلات المطاعم القديمة أو ادعاءات انتشار العلامات من الكتاب كأنها معلومات دلوقتي. مفيش سؤال محتاج طلب مسموع أو صورة مش معروضة."
+        }
+      ],
+      "meanings": {
+        "appetizer": "طبق صغير في بداية الوجبة",
+        "main course": "الطبق الرئيسي",
+        "dessert": "حلو بعد الأكل",
+        "beverage": "مشروب",
+        "shrimp": "جمبري",
+        "steak": "شريحة لحم",
+        "lettuce": "خس",
+        "carrot": "جزرة",
+        "cucumber": "خيارة",
+        "onion": "بصلة",
+        "potato": "حبة بطاطس",
+        "rice": "أرز",
+        "pasta": "مكرونة",
+        "sauce": "صوص أو صلصة",
+        "apple pie": "فطيرة تفاح",
+        "cheesecake": "تشيز كيك",
+        "ice cream": "آيس كريم",
+        "juice": "عصير",
+        "coffee": "قهوة",
+        "tea": "شاي",
+        "water": "مياه",
+        "soft drink": "مشروب غازي",
+        "grilled": "مشوي على الشواية",
+        "roasted": "مشوي في الفرن",
+        "steamed": "مطهو على البخار",
+        "baked": "مخبوز أو مطهو في الفرن",
+        "fried": "مقلي",
+        "menu": "قائمة الأكل",
+        "order": "طلب أكل أو يطلب أكل",
+        "delivery": "توصيل",
+        "for here": "للأكل هنا",
+        "to go": "سفري",
+        "Let me see.": "خليني أفكر شوية.",
+        "I will have": "هاخد، وقت طلب الأكل",
+        "count noun": "اسم معدود",
+        "noncount noun": "اسم غير معدود في الاستخدام المقصود",
+        "bottle": "زجاجة",
+        "cup": "فنجان أو كوب",
+        "glass": "كوب أو كأس",
+        "piece": "قطعة",
+        "ingredient": "مكون في الوصفة",
+        "recipe": "وصفة أكل",
+        "mix": "يخلط",
+        "pour": "يصب",
+        "boil": "يغلي",
+        "frying pan": "طاسة",
+        "plate": "طبق",
+        "first": "أولًا",
+        "next": "بعد كده",
+        "finally": "في الآخر",
+        "until": "لحد ما",
+        "too much": "أكتر من اللازم مع غير المعدود",
+        "too many": "أكتر من اللازم مع الجمع المعدود",
+        "enough": "كفاية"
+      },
+      "sentenceMeanings": {
+        "I would like a sandwich.": "أنا عايز ساندويتش، بصيغة مهذبة.",
+        "Would you like some water?": "تحب شوية مية؟",
+        "There is some juice.": "فيه شوية عصير.",
+        "There are some eggs.": "فيه شوية بيض.",
+        "There is not any rice.": "مفيش أرز.",
+        "Are there any carrots?": "فيه جزر؟",
+        "A glass of water, please.": "كوب مية، لو سمحت.",
+        "To go, please.": "سفري، لو سمحت.",
+        "First, wash the vegetables.": "أولًا اغسل الخضار.",
+        "Finally, serve the salad.": "في الآخر قدم السلطة.",
+        "The soup is too hot to eat.": "الشوربة سخنة أكتر من اللازم للأكل.",
+        "We have enough eggs.": "عندنا بيض كفاية."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "قائمة أكل وطريقة تحضير",
+          "sub": "رتب الحروف حسب المعنى.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "ppetizera",
+              "answer": [
+                "appetizer"
+              ],
+              "hint": "طبق صغير في بداية الوجبة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "essertd",
+              "answer": [
+                "dessert"
+              ],
+              "hint": "حلو بعد الأكل"
+            },
+            {
+              "type": "unscramble",
+              "letters": "everageb",
+              "answer": [
+                "beverage"
+              ],
+              "hint": "مشروب"
+            },
+            {
+              "type": "unscramble",
+              "letters": "hrimps",
+              "answer": [
+                "shrimp"
+              ],
+              "hint": "جمبري"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ettucel",
+              "answer": [
+                "lettuce"
+              ],
+              "hint": "خس"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ucumberc",
+              "answer": [
+                "cucumber"
+              ],
+              "hint": "خيارة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "niono",
+              "answer": [
+                "onion"
+              ],
+              "hint": "بصلة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "rilledg",
+              "answer": [
+                "grilled"
+              ],
+              "hint": "مشوي على الشواية"
+            },
+            {
+              "type": "unscramble",
+              "letters": "teameds",
+              "answer": [
+                "steamed"
+              ],
+              "hint": "مطهو بالبخار"
+            },
+            {
+              "type": "unscramble",
+              "letters": "eciper",
+              "answer": [
+                "recipe"
+              ],
+              "hint": "وصفة أكل"
+            }
+          ]
+        },
+        {
+          "id": "grammar",
+          "title": "معدود وغير معدود وكمية",
+          "sub": "is وare وsome وany وعبوات.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "One carrot, two ___.",
+              "options": [
+                "carrots",
+                "carrot",
+                "carrotes"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct phrase for one egg.",
+              "options": [
+                "a egg",
+                "an egg",
+                "some eggs"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Rice is noncount here. Choose the correct phrase.",
+              "options": [
+                "a rice",
+                "an rice",
+                "some rice"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Complete the normal affirmative: There ___ some juice.",
+              "options": [
+                "is",
+                "are",
+                "am"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Complete the normal affirmative: There ___ some eggs.",
+              "options": [
+                "is",
+                "are",
+                "am"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Complete the normal negative: There is not ___ rice.",
+              "options": [
+                "a",
+                "an",
+                "any"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "There ___ any carrots in the empty basket.",
+              "options": [
+                "are not",
+                "is not",
+                "am not"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "___ there any juice in the bottle?",
+              "options": [
+                "Are",
+                "Is",
+                "Am"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ there any eggs in the fridge?",
+              "options": [
+                "Is",
+                "Am",
+                "Are"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "I would like ___ cheese sandwich.",
+              "options": [
+                "a",
+                "an",
+                "any"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "I would like a cup ___ tea.",
+              "options": [
+                "in",
+                "of",
+                "at"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "There ___ two glasses of water on the table.",
+              "options": [
+                "is",
+                "am",
+                "are"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "quantity",
+          "title": "too وenough",
+          "sub": "الزيادة عن اللازم والكفاية وترتيب الكلمات.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "This tea is ___ hot to drink. I need to wait.",
+              "options": [
+                "too",
+                "enough",
+                "many"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "There is ___ salt in this soup. It tastes much saltier than I want.",
+              "options": [
+                "too many",
+                "too much",
+                "many"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "There are ___ carrots for this small bowl. They will not fit.",
+              "options": [
+                "too much",
+                "much",
+                "too many"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "We have ___ eggs to make the omelet. We do not need to buy more.",
+              "options": [
+                "enough",
+                "too",
+                "much"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The drink is cool ___. I can drink it now.",
+              "options": [
+                "too",
+                "enough",
+                "many"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "We do not have ___ time to prepare dinner.",
+              "options": [
+                "many",
+                "too",
+                "enough"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "The soup is too hot ___ eat now.",
+              "options": [
+                "to",
+                "for",
+                "of"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "There is too ___ pasta on my plate. I cannot finish it.",
+              "options": [
+                "many",
+                "much",
+                "a"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "There are too ___ sandwiches. We made twenty for only two people.",
+              "options": [
+                "much",
+                "a",
+                "many"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Do we have enough vegetables ___ make a salad?",
+              "options": [
+                "to",
+                "of",
+                "at"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Enough normally comes ___ an adjective, as in warm enough.",
+              "options": [
+                "before",
+                "after",
+                "instead of"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Enough normally comes ___ a noun, as in enough eggs.",
+              "options": [
+                "after",
+                "instead of",
+                "before"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "functions",
+          "title": "طلب أكل وعرض مهذب",
+          "sub": "مواقف مكتوبة من غير تسجيل ناقص.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "A server asks: For here or to go? You want to take the food away. Say:",
+              "options": [
+                "To go, please.",
+                "For here, please.",
+                "I am a server."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose a polite offer.",
+              "options": [
+                "Would you some like water?",
+                "Would you like some water?",
+                "Would like you water some?"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "In a restaurant, I will have the fish means ___.",
+              "options": [
+                "I cannot eat fish.",
+                "The fish is missing.",
+                "I want to order the fish."
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Let me see, before choosing a dish, means ___.",
+              "options": [
+                "I want to think.",
+                "The restaurant is closed.",
+                "I have paid."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the complete quantity phrase.",
+              "options": [
+                "a piece cake of",
+                "a piece of cake",
+                "of a cake piece"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "You accept a polite offer of water. Say:",
+              "options": [
+                "No, thank you.",
+                "To go is a noun.",
+                "Yes, please."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "اقرأ: قائمة وطلب ووصفة",
+          "sub": "نصك كامل قبل كل سؤال.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "What does Rami order as an appetizer?",
+              "options": [
+                "Vegetable soup",
+                "Ice cream",
+                "Steamed fish"
+              ],
+              "answer": 0,
+              "passage": "Original fictional menu and order: Garden Cafe has vegetable soup and grilled shrimp as appetizers. The main courses are roasted chicken with rice and steamed fish with a baked potato. Desserts are apple pie and ice cream. Drinks are water, tea, and apple juice. There is no cheesecake today. Rami orders vegetable soup, steamed fish with a baked potato, and water without ice. He wants to eat at the cafe. This is classroom practice, not a real restaurant menu."
+            },
+            {
+              "type": "mcq",
+              "q": "What comes with the steamed fish on this menu?",
+              "options": [
+                "Rice",
+                "A baked potato",
+                "French fries"
+              ],
+              "answer": 1,
+              "passage": "Original fictional menu and order: Garden Cafe has vegetable soup and grilled shrimp as appetizers. The main courses are roasted chicken with rice and steamed fish with a baked potato. Desserts are apple pie and ice cream. Drinks are water, tea, and apple juice. There is no cheesecake today. Rami orders vegetable soup, steamed fish with a baked potato, and water without ice. He wants to eat at the cafe. This is classroom practice, not a real restaurant menu."
+            },
+            {
+              "type": "mcq",
+              "q": "Which dessert is unavailable today?",
+              "options": [
+                "Apple pie",
+                "Ice cream",
+                "Cheesecake"
+              ],
+              "answer": 2,
+              "passage": "Original fictional menu and order: Garden Cafe has vegetable soup and grilled shrimp as appetizers. The main courses are roasted chicken with rice and steamed fish with a baked potato. Desserts are apple pie and ice cream. Drinks are water, tea, and apple juice. There is no cheesecake today. Rami orders vegetable soup, steamed fish with a baked potato, and water without ice. He wants to eat at the cafe. This is classroom practice, not a real restaurant menu."
+            },
+            {
+              "type": "mcq",
+              "q": "Does Rami want his order to go?",
+              "options": [
+                "No. He wants to eat at the cafe.",
+                "Yes. He wants to take it home.",
+                "The passage does not mention it."
+              ],
+              "answer": 0,
+              "passage": "Original fictional menu and order: Garden Cafe has vegetable soup and grilled shrimp as appetizers. The main courses are roasted chicken with rice and steamed fish with a baked potato. Desserts are apple pie and ice cream. Drinks are water, tea, and apple juice. There is no cheesecake today. Rami orders vegetable soup, steamed fish with a baked potato, and water without ice. He wants to eat at the cafe. This is classroom practice, not a real restaurant menu."
+            },
+            {
+              "type": "mcq",
+              "q": "How many tomatoes does Mona have?",
+              "options": [
+                "One",
+                "Two",
+                "Three"
+              ],
+              "answer": 1,
+              "passage": "Original classroom recipe: Mona is making a simple vegetable salad. She has two tomatoes, one cucumber, some lettuce, and a little oil. First, she washes the vegetables. Next, she cuts the tomatoes and cucumber. Then, she puts all the vegetables in a bowl. After that, she adds the oil and mixes the salad. Finally, she serves it on a plate. There is enough salad for two people. This is a fictional classroom recipe."
+            },
+            {
+              "type": "mcq",
+              "q": "What does Mona do first?",
+              "options": [
+                "She adds oil.",
+                "She serves the salad.",
+                "She washes the vegetables."
+              ],
+              "answer": 2,
+              "passage": "Original classroom recipe: Mona is making a simple vegetable salad. She has two tomatoes, one cucumber, some lettuce, and a little oil. First, she washes the vegetables. Next, she cuts the tomatoes and cucumber. Then, she puts all the vegetables in a bowl. After that, she adds the oil and mixes the salad. Finally, she serves it on a plate. There is enough salad for two people. This is a fictional classroom recipe."
+            },
+            {
+              "type": "mcq",
+              "q": "What does Mona do after putting the vegetables in a bowl?",
+              "options": [
+                "She adds the oil and mixes.",
+                "She orders fish.",
+                "She buys cheesecake."
+              ],
+              "answer": 0,
+              "passage": "Original classroom recipe: Mona is making a simple vegetable salad. She has two tomatoes, one cucumber, some lettuce, and a little oil. First, she washes the vegetables. Next, she cuts the tomatoes and cucumber. Then, she puts all the vegetables in a bowl. After that, she adds the oil and mixes the salad. Finally, she serves it on a plate. There is enough salad for two people. This is a fictional classroom recipe."
+            },
+            {
+              "type": "mcq",
+              "q": "How many people is the salad enough for?",
+              "options": [
+                "One",
+                "Two",
+                "Four"
+              ],
+              "answer": 1,
+              "passage": "Original classroom recipe: Mona is making a simple vegetable salad. She has two tomatoes, one cucumber, some lettuce, and a little oil. First, she washes the vegetables. Next, she cuts the tomatoes and cucumber. Then, she puts all the vegetables in a bowl. After that, she adds the oil and mixes the salad. Finally, she serves it on a plate. There is enough salad for two people. This is a fictional classroom recipe."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب جملة الطلب والوصفة",
+          "sub": "ترتيب الكمية والخطوات.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "sandwich.",
+                "a",
+                "like",
+                "would",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "would",
+                "like",
+                "a",
+                "sandwich."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "water?",
+                "some",
+                "like",
+                "you",
+                "Would"
+              ],
+              "answer": [
+                "Would",
+                "you",
+                "like",
+                "some",
+                "water?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "juice.",
+                "some",
+                "is",
+                "There"
+              ],
+              "answer": [
+                "There",
+                "is",
+                "some",
+                "juice."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "eggs.",
+                "some",
+                "are",
+                "There"
+              ],
+              "answer": [
+                "There",
+                "are",
+                "some",
+                "eggs."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "rice.",
+                "any",
+                "not",
+                "is",
+                "There"
+              ],
+              "answer": [
+                "There",
+                "is",
+                "not",
+                "any",
+                "rice."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "carrots?",
+                "any",
+                "there",
+                "Are"
+              ],
+              "answer": [
+                "Are",
+                "there",
+                "any",
+                "carrots?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "vegetables.",
+                "the",
+                "wash",
+                "First,"
+              ],
+              "answer": [
+                "First,",
+                "wash",
+                "the",
+                "vegetables."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "salad.",
+                "the",
+                "serve",
+                "Finally,"
+              ],
+              "answer": [
+                "Finally,",
+                "serve",
+                "the",
+                "salad."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "eat.",
+                "to",
+                "hot",
+                "too",
+                "is",
+                "soup",
+                "The"
+              ],
+              "answer": [
+                "The",
+                "soup",
+                "is",
+                "too",
+                "hot",
+                "to",
+                "eat."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "eggs.",
+                "enough",
+                "have",
+                "We"
+              ],
+              "answer": [
+                "We",
+                "have",
+                "enough",
+                "eggs."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "source": {
     "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g8/g8-english-1448.pdf",
     "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K08-SM1-ENGLMH-v2.pdf",
-    "title": "Super Goal 2, Part 1, Units 1–4 and Expansion 1–4, pages 2–39",
+    "title": "Super Goal 2, Part 1, Units 1–5 and Expansion 1–4, pages 2–47",
     "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint has a certificate error. Mirror bytes matched the reviewed PDF. Original explanations and exercises, not copied textbook questions.",
     "reviewedUnits": {
       "u1": [
@@ -4224,6 +5079,10 @@
       "exp1": [
         34,
         39
+      ],
+      "u5": [
+        40,
+        47
       ]
     }
   }
