@@ -1847,12 +1847,719 @@
           ]
         }
       ]
+    },
+    {
+      "id": "u4",
+      "num": 4,
+      "title": "Around the World",
+      "pages": [
+        26,
+        33
+      ],
+      "lessons": [],
+      "vocab": [
+        "country",
+        "nationality",
+        "capital",
+        "tourist",
+        "visitor",
+        "viewer",
+        "student",
+        "world",
+        "city",
+        "town",
+        "region",
+        "language",
+        "first language",
+        "Egypt",
+        "Egyptian",
+        "Saudi Arabia",
+        "Saudi",
+        "China",
+        "Chinese",
+        "France",
+        "French",
+        "Spain",
+        "Spanish",
+        "Brazil",
+        "Brazilian",
+        "Canada",
+        "Canadian",
+        "Jordan",
+        "Jordanian",
+        "Oman",
+        "Omani",
+        "Australia",
+        "Australian",
+        "on business",
+        "on vacation",
+        "address",
+        "telephone number",
+        "cell phone",
+        "email address",
+        "area code",
+        "country code",
+        "at sign",
+        "dot",
+        "underscore",
+        "airport shuttle",
+        "stop",
+        "excuse me",
+        "repeat",
+        "spell",
+        "request",
+        "offer"
+      ],
+      "sentences": [
+        "Where are you from?",
+        "I am from Saudi Arabia.",
+        "What is your nationality?",
+        "I am Egyptian.",
+        "Are you on vacation?",
+        "No, I am not on vacation.",
+        "She is here on business.",
+        "What is your email address?",
+        "Can you repeat that, please?",
+        "Will you be my partner?",
+        "I can help you.",
+        "You are welcome."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "البلد والجنسية واللغة",
+          "text": "country يعني بلد وnationality يعني جنسية وcapital يعني عاصمة. البلد والجنسية مش نفس الكلمة: Egypt وEgyptian، China وChinese، France وFrench، وSaudi Arabia وSaudi. اسم البلد والجنسية واللغة في الإنجليزي بيبدأ بحرف كبير. سؤال Where are you from? عن بلدك أو مكان أصلك، وWhat is your nationality? عن جنسيتك."
+        },
+        {
+          "title": "نفي be والسؤال بيه",
+          "text": "مع I نستخدم am: I am not a tourist. مع he وshe وit نستخدم is: She is not on vacation. ومع you وwe وthey نستخدم are: They are not students. الاختصار isn't يعني is not، وaren't يعني are not. في السؤال نقدّم am أو is أو are قبل الفاعل: Is she a student? Are they tourists? إجابة Yes قصيرة: Yes, she is. وإجابة No: No, she isn't. مع Are you? جاوب عن نفسك: Yes, I am أوNo, I am not."
+        },
+        {
+          "title": "Where وfrom وin وon",
+          "text": "Where بتسأل عن المكان. Where is he from? للسؤال عن مكان أصله، وWhere are they from? للجمع. from من، وin في: I am from Egypt وI am in Riyadh now. احفظ التعبيرين on business في رحلة عمل وon vacation في إجازة. on هنا جزء من التعبير، مش معناها على مكان."
+        },
+        {
+          "title": "بيانات التواصل في أمثلة آمنة",
+          "text": "address عنوان، وemail address عنوان بريد إلكتروني، وtelephone number رقم تليفون. في قراءة البريد الإلكتروني @ اسمها at، والنقطة dot، والشرطة السفلية _ اسمها underscore. اسم الشارع بيبدأ بحرف كبير، زي Palm Road. أرقام التليفون بتتقال رقم رقم، و0 ممكن نقول عليه zero أوoh. في تنسيق الكتاب كود المنطقة داخل قوسين. تدريباتنا بتستخدم أمثلة تعليمية فقط، ومش بتطلب منك عنوانك أو رقمك أو بريدك الحقيقي."
+        },
+        {
+          "title": "طلب مهذب ولا عرض مساعدة؟",
+          "text": "لما تطلب مساعدة اسأل: Can you help me, please? أوWill you help me, please? بعد can وwill الفعل في صورته الأساسية من غير to ومن غير s. ولما تعرض المساعدة قول I can help you أوI will open the window. تقدر توافق بـSure أوOf course، وتقبل عرضًا بـThank you، أوترفض بلطف بـNo thanks. رد الشكر You're welcome."
+        },
+        {
+          "title": "التعارف وفهم نص مكتوب",
+          "text": "Excuse me بتستخدمها للفت الانتباه بأدب، وHow about you? معناها وإنت؟ عشان ترجع نفس السؤال للشخص التاني. ممكن تسأل Can you repeat that, please? لو محتاج يسمّعك المعلومة تاني. النص التدريبي هنا عن أشخاص افتراضيين ومش محتاج صوت أو خريطة. دوّر في النص على البلد والجنسية وهل الشخص طالب ولا سائح ولا في إجازة."
+        }
+      ],
+      "meanings": {
+        "country": "بلد",
+        "nationality": "جنسية",
+        "capital": "عاصمة",
+        "tourist": "سائح",
+        "visitor": "زائر",
+        "viewer": "مشاهد",
+        "student": "طالب",
+        "world": "العالم",
+        "city": "مدينة",
+        "town": "بلدة",
+        "region": "منطقة",
+        "language": "لغة",
+        "first language": "اللغة الأولى",
+        "Egypt": "مصر",
+        "Egyptian": "مصري",
+        "Saudi Arabia": "السعودية",
+        "Saudi": "سعودي",
+        "China": "الصين",
+        "Chinese": "صيني",
+        "France": "فرنسا",
+        "French": "فرنسي",
+        "Spain": "إسبانيا",
+        "Spanish": "إسباني",
+        "Brazil": "البرازيل",
+        "Brazilian": "برازيلي",
+        "Canada": "كندا",
+        "Canadian": "كندي",
+        "Jordan": "الأردن",
+        "Jordanian": "أردني",
+        "Oman": "عُمان",
+        "Omani": "عُماني",
+        "Australia": "أستراليا",
+        "Australian": "أسترالي",
+        "on business": "في رحلة عمل",
+        "on vacation": "في إجازة",
+        "address": "عنوان",
+        "telephone number": "رقم التليفون",
+        "cell phone": "تليفون محمول",
+        "email address": "عنوان بريد إلكتروني",
+        "area code": "كود المنطقة",
+        "country code": "كود الدولة",
+        "at sign": "علامة @",
+        "dot": "نقطة",
+        "underscore": "شرطة سفلية _",
+        "airport shuttle": "حافلة نقل المطار",
+        "stop": "موقف",
+        "excuse me": "لو سمحت للفت الانتباه",
+        "repeat": "يكرر",
+        "spell": "يتهجّى",
+        "request": "طلب",
+        "offer": "عرض مساعدة"
+      },
+      "sentenceMeanings": {
+        "Where are you from?": "إنت منين؟",
+        "I am from Saudi Arabia.": "أنا من السعودية.",
+        "What is your nationality?": "إيه جنسيتك؟",
+        "I am Egyptian.": "أنا مصري.",
+        "Are you on vacation?": "إنت في إجازة؟",
+        "No, I am not on vacation.": "لأ، مش في إجازة.",
+        "She is here on business.": "هي هنا في رحلة عمل.",
+        "What is your email address?": "إيه عنوان بريدك الإلكتروني؟",
+        "Can you repeat that, please?": "ممكن تكرر الكلام ده من فضلك؟",
+        "Will you be my partner?": "ممكن تبقى زميلي في النشاط؟",
+        "I can help you.": "أقدر أساعدك.",
+        "You are welcome.": "العفو."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "البلاد والجنسيات",
+          "sub": "رتب الحروف حسب المعنى، وحافظ على الحرف الكبير في الجنسية.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "gyptianE",
+              "answer": [
+                "Egyptian"
+              ],
+              "hint": "مصري"
+            },
+            {
+              "type": "unscramble",
+              "letters": "audiS",
+              "answer": [
+                "Saudi"
+              ],
+              "hint": "سعودي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "hineseC",
+              "answer": [
+                "Chinese"
+              ],
+              "hint": "صيني"
+            },
+            {
+              "type": "unscramble",
+              "letters": "renchF",
+              "answer": [
+                "French"
+              ],
+              "hint": "فرنسي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "panishS",
+              "answer": [
+                "Spanish"
+              ],
+              "hint": "إسباني"
+            },
+            {
+              "type": "unscramble",
+              "letters": "razilianB",
+              "answer": [
+                "Brazilian"
+              ],
+              "hint": "برازيلي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "anadianC",
+              "answer": [
+                "Canadian"
+              ],
+              "hint": "كندي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ordanianJ",
+              "answer": [
+                "Jordanian"
+              ],
+              "hint": "أردني"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ouristt",
+              "answer": [
+                "tourist"
+              ],
+              "hint": "سائح"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ationalityn",
+              "answer": [
+                "nationality"
+              ],
+              "hint": "جنسية"
+            }
+          ]
+        },
+        {
+          "id": "grammar",
+          "title": "be والمكان والجنسية",
+          "sub": "اختار الإجابة المناسبة للسؤال أو الجملة.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "I ___ not from China.",
+              "options": [
+                "is",
+                "am",
+                "are"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "She ___ not on the bus.",
+              "options": [
+                "am",
+                "are",
+                "is"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "They ___ not on vacation.",
+              "options": [
+                "are",
+                "am",
+                "is"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "___ he from Egypt?",
+              "options": [
+                "Am",
+                "Is",
+                "Are"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "___ you here on business?",
+              "options": [
+                "Is",
+                "Am",
+                "Are"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Are they tourists? No, they ___.",
+              "options": [
+                "aren't",
+                "isn't",
+                "am not"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Is she a student? Yes, she ___.",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Are you a student? Yes, I ___.",
+              "options": [
+                "is",
+                "are",
+                "am"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Where ___ he from?",
+              "options": [
+                "is",
+                "am",
+                "are"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Where ___ they from?",
+              "options": [
+                "is",
+                "are",
+                "am"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "I am ___ Saudi Arabia.",
+              "options": [
+                "on",
+                "at",
+                "from"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "We are ___ vacation.",
+              "options": [
+                "on",
+                "in",
+                "from"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "To describe her current location: She is ___ Riyadh.",
+              "options": [
+                "from",
+                "in",
+                "on"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "I am from Egypt. My nationality is ___.",
+              "options": [
+                "Egypt",
+                "Cairo",
+                "Egyptian"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "requests",
+          "title": "الطلب وعرض المساعدة",
+          "sub": "مواقف مكتوبة لطلب المساعدة والرد بأدب.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Choose the polite request for help.",
+              "options": [
+                "Can you help me, please?",
+                "I can help you.",
+                "Thank you."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Which sentence offers help?",
+              "options": [
+                "Will you help me?",
+                "I can help you.",
+                "What is your name?"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Can you ___ the window, please?",
+              "options": [
+                "opens",
+                "to open",
+                "open"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Will you be my partner? Choose an agreement.",
+              "options": [
+                "Of course.",
+                "Sorry, I cannot.",
+                "No, thank you."
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "I can help you. Choose a polite refusal.",
+              "options": [
+                "Thank you.",
+                "No thanks.",
+                "OK, thank you."
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Thank you. Choose the usual reply.",
+              "options": [
+                "Where are you from?",
+                "No, I am not.",
+                "You're welcome."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "contacts",
+          "title": "قراءة بيانات التواصل",
+          "sub": "أمثلة تعليمية فقط. مش محتاج تكتب أي بيانات شخصية.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "In an email address, @ is read as ___.",
+              "options": [
+                "at",
+                "dot",
+                "underscore"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "In an email address, the full stop . is read as ___.",
+              "options": [
+                "at",
+                "dot",
+                "underscore"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "The symbol _ is called ___.",
+              "options": [
+                "dot",
+                "at",
+                "underscore"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Please spell your name. What should you say?",
+              "options": [
+                "The letters in your name",
+                "Your age",
+                "Your street address"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correctly capitalized street name.",
+              "options": [
+                "palm road",
+                "Palm Road",
+                "palm Road"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "When reading a telephone number, say it ___.",
+              "options": [
+                "as one very large number",
+                "as a month",
+                "one digit at a time"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "In the book's telephone-number format, parentheses contain the ___.",
+              "options": [
+                "area code",
+                "email name",
+                "street name"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The field Email address on a form asks for ___.",
+              "options": [
+                "your age",
+                "an email address",
+                "a nationality"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "قراءة: زائرات افتراضيات",
+          "sub": "النص كامل فوق كل سؤال، ومن غير صوت أو خريطة مطلوبة للحل.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Where is Sara from?",
+              "options": [
+                "Egypt",
+                "Jordan",
+                "China"
+              ],
+              "answer": 0,
+              "passage": "Practice text about fictional visitors: My name is Sara. I am from Egypt. I am Egyptian. I am not a tourist. I am a student in Riyadh. My friend Lina is from Jordan. She is Jordanian. She is on vacation. We are at the airport shuttle stop. Lina asks, 'Can you help me, please?' I say, 'Sure.'"
+            },
+            {
+              "type": "mcq",
+              "q": "What is Sara's nationality?",
+              "options": [
+                "Saudi",
+                "Egyptian",
+                "Jordanian"
+              ],
+              "answer": 1,
+              "passage": "Practice text about fictional visitors: My name is Sara. I am from Egypt. I am Egyptian. I am not a tourist. I am a student in Riyadh. My friend Lina is from Jordan. She is Jordanian. She is on vacation. We are at the airport shuttle stop. Lina asks, 'Can you help me, please?' I say, 'Sure.'"
+            },
+            {
+              "type": "mcq",
+              "q": "Is Sara a tourist?",
+              "options": [
+                "Yes, she is.",
+                "The text does not say.",
+                "No, she is a student."
+              ],
+              "answer": 2,
+              "passage": "Practice text about fictional visitors: My name is Sara. I am from Egypt. I am Egyptian. I am not a tourist. I am a student in Riyadh. My friend Lina is from Jordan. She is Jordanian. She is on vacation. We are at the airport shuttle stop. Lina asks, 'Can you help me, please?' I say, 'Sure.'"
+            },
+            {
+              "type": "mcq",
+              "q": "What is Lina's nationality?",
+              "options": [
+                "Jordanian",
+                "Egyptian",
+                "French"
+              ],
+              "answer": 0,
+              "passage": "Practice text about fictional visitors: My name is Sara. I am from Egypt. I am Egyptian. I am not a tourist. I am a student in Riyadh. My friend Lina is from Jordan. She is Jordanian. She is on vacation. We are at the airport shuttle stop. Lina asks, 'Can you help me, please?' I say, 'Sure.'"
+            },
+            {
+              "type": "mcq",
+              "q": "Who is on vacation?",
+              "options": [
+                "Sara",
+                "Lina",
+                "Both Sara and Lina"
+              ],
+              "answer": 1,
+              "passage": "Practice text about fictional visitors: My name is Sara. I am from Egypt. I am Egyptian. I am not a tourist. I am a student in Riyadh. My friend Lina is from Jordan. She is Jordanian. She is on vacation. We are at the airport shuttle stop. Lina asks, 'Can you help me, please?' I say, 'Sure.'"
+            },
+            {
+              "type": "mcq",
+              "q": "Where are the two friends?",
+              "options": [
+                "At school",
+                "At a museum",
+                "At the airport shuttle stop"
+              ],
+              "answer": 2,
+              "passage": "Practice text about fictional visitors: My name is Sara. I am from Egypt. I am Egyptian. I am not a tourist. I am a student in Riyadh. My friend Lina is from Jordan. She is Jordanian. She is on vacation. We are at the airport shuttle stop. Lina asks, 'Can you help me, please?' I say, 'Sure.'"
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب الجملة",
+          "sub": "راجع ترتيب السؤال والنفي والطلب المهذب.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "vacation.",
+                "on",
+                "not",
+                "am",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "am",
+                "not",
+                "on",
+                "vacation."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "from?",
+                "you",
+                "Where",
+                "are"
+              ],
+              "answer": [
+                "Where",
+                "are",
+                "you",
+                "from?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "please?",
+                "me,",
+                "help",
+                "you",
+                "Can"
+              ],
+              "answer": [
+                "Can",
+                "you",
+                "help",
+                "me,",
+                "please?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "window.",
+                "the",
+                "open",
+                "will",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "will",
+                "open",
+                "the",
+                "window."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "source": {
     "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g7/g7-english-1448.pdf",
     "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K07-SM1-ENGLMH.pdf",
-    "title": "Super Goal 1, Part 1, Units 1–3, pages 2–25",
+    "title": "Super Goal 1, Part 1, Units 1–4, pages 2–33",
     "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint returned HTTP500. Original explanations and exercises, not copied textbook questions.",
     "reviewedUnits": {
       "u1": [
@@ -1866,6 +2573,10 @@
       "u3": [
         18,
         25
+      ],
+      "u4": [
+        26,
+        33
       ]
     }
   }
