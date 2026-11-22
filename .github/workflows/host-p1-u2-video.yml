@@ -1,0 +1,40 @@
+name: Host checked Primary1 Unit2 full lesson
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: english-savant-verified-bank-batch
+  cancel-in-progress: false
+jobs:
+  host:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Verify exact private parts and losslessly assemble checked master
+        run: |
+          python3 <<'PYCODE'
+          import json,subprocess,hashlib,pathlib,os
+          m={'master': {'filename': 'P1_U2_AR_full_word_lesson.mp4', 'bytes': 139423718, 'sha256': '99f44f11abb81a96bb7893f87f4b9319bd1b5b6f1b4513d2ac4281228852d4bc'}, 'parts': [{'name': 'P1_U2_master.part01', 'bytes': 18000000, 'sha256': '8a50adb9145f6244f96514f17a4ef7b84ec17ba8ba8dd98f87746537606083cd', 'asset_id': 780724186, 'asset_name': '1-P1_U2_master-e677f15b.part01'}, {'name': 'P1_U2_master.part02', 'bytes': 18000000, 'sha256': 'db970d65754913da3bce6eef544c97568921b22a8c0c17e19203b5b300482676', 'asset_id': 780724536, 'asset_name': '2-P1_U2_master-852bf921.part02'}, {'name': 'P1_U2_master.part03', 'bytes': 18000000, 'sha256': '6e1c0f2c1acf2e4d1caeac8eef5d49534c28fac75c3c83716da6baf2db53b31a', 'asset_id': 780724858, 'asset_name': '3-P1_U2_master-5ab8367f.part03'}, {'name': 'P1_U2_master.part04', 'bytes': 18000000, 'sha256': 'ed4f12bd06082e70595c3648319bcada582068a921cc96d5241e6959e8867679', 'asset_id': 780724950, 'asset_name': '4-P1_U2_master-310259e6.part04'}, {'name': 'P1_U2_master.part05', 'bytes': 18000000, 'sha256': 'eb5e9ef935a4baae06ec8ff2e0146f6d627c9eeb2a52193884723f8c8fed4dd4', 'asset_id': 780725047, 'asset_name': '5-P1_U2_master-6e1250d5.part05'}, {'name': 'P1_U2_master.part06', 'bytes': 18000000, 'sha256': 'efd2da60d44de8a3fb20c3ca2626ee368685489e3a8bdb7b626811f5cbddc919', 'asset_id': 780725169, 'asset_name': '6-P1_U2_master-60252f32.part06'}, {'name': 'P1_U2_master.part07', 'bytes': 18000000, 'sha256': '2a4ce244f75e6cb2fde373a8e8238254f2f795133080c42dc6fc48cd62fbc694', 'asset_id': 780725313, 'asset_name': '7-P1_U2_master-6ed0233f.part07'}, {'name': 'P1_U2_master.part08', 'bytes': 13423718, 'sha256': 'c480a8805c8936869e1cb09baddcaf757efabb6834d3c46cacefeba34e83e372', 'asset_id': 780725388, 'asset_name': '8-P1_U2_master-1dbb35f6.part08'}], 'draft_id': 454808370, 'draft_url': 'https://github.com/basemhreaz-cloud/english-savant/releases/edit/untagged-0df96a30a13d544f7cc4'}
+          repo=os.environ['GITHUB_REPOSITORY']
+          p=json.loads(subprocess.check_output(['gh','api','repos/'+repo+'/releases/'+str(m['draft_id'])]))
+          assert p['draft'] and p['name']=='P1 U1 checked full lesson video transfer'
+          actual={a['id']:a for a in p['assets']}
+          assert set(actual)=={a['asset_id'] for a in m['parts']}
+          path=pathlib.Path('/tmp/P1_U2_AR_full_word_lesson.mp4')
+          with path.open('wb') as out:
+            for a in m['parts']:
+              row=actual[a['asset_id']];assert row['size']==a['bytes'] and row['name']==a['asset_name']
+              b=subprocess.check_output(['gh','api','-H','Accept: application/octet-stream','repos/'+repo+'/releases/assets/'+str(a['asset_id'])])
+              assert len(b)==a['bytes'] and hashlib.sha256(b).hexdigest()==a['sha256']
+              out.write(b)
+          assert path.stat().st_size==m['master']['bytes'] and hashlib.sha256(path.read_bytes()).hexdigest()==m['master']['sha256']
+          subprocess.run(['gh','release','create','p1-u2-full-lesson-20261123',str(path),'--repo',repo,'--title','Primary 1 Unit 2 full lesson','--notes','Egyptian Arabic explanation of the four Primary 1 Unit 2 lessons. ENGLISH SAVANT, Mr. Basem Hreaz.','--latest=false'],check=True)
+          p=json.loads(subprocess.check_output(['gh','api','repos/'+repo+'/releases/tags/p1-u2-full-lesson-20261123']))
+          assert not p['draft'] and len(p['assets'])==1
+          a=p['assets'][0];assert a['size']==m['master']['bytes'] and a['name']==path.name
+          if a.get('digest'):assert a['digest']=='sha256:'+m['master']['sha256']
+          print('Verified hosted exact master:',a['browser_download_url'])
+          PYCODE
