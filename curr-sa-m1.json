@@ -5423,12 +5423,817 @@
           ]
         }
       ]
+    },
+    {
+      "id": "u8",
+      "num": 8,
+      "title": "What Are You Doing?",
+      "pages": [
+        64,
+        71
+      ],
+      "lessons": [],
+      "vocab": [
+        "watch TV",
+        "surf the Internet",
+        "drink",
+        "coffee",
+        "talk",
+        "cell phone",
+        "eat",
+        "sandwich",
+        "read",
+        "magazine",
+        "look at",
+        "map",
+        "write",
+        "email",
+        "customer",
+        "speak",
+        "work online",
+        "chat",
+        "helpline",
+        "have a break",
+        "study",
+        "play",
+        "wait",
+        "deliver mail",
+        "train station",
+        "schedule",
+        "visit",
+        "pack",
+        "comedy",
+        "science fiction",
+        "documentary",
+        "action",
+        "shopping mall",
+        "snack",
+        "food court",
+        "hang out",
+        "clothes",
+        "fashion",
+        "weather",
+        "housework",
+        "newspaper",
+        "ride a bike",
+        "run",
+        "cook",
+        "toy",
+        "would like",
+        "salad",
+        "fries",
+        "burger",
+        "pizza",
+        "ice cream",
+        "right now",
+        "What's up?"
+      ],
+      "sentences": [
+        "I am writing an email.",
+        "She is reading a magazine.",
+        "They are eating sandwiches.",
+        "We are studying now.",
+        "He is not watching TV.",
+        "Are you chatting?",
+        "What is she doing?",
+        "What are they doing?",
+        "I would like a sandwich.",
+        "I would like to read.",
+        "Where would you like to go?",
+        "When would you like to eat?"
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "أفعال وأنشطة بتحصل دلوقتي",
+          "text": "watch TV يتفرج على التلفزيون، وread يقرا، وwrite يكتب، وchat يدردش، وcook يطبخ. magazine مجلة وnewspaper جريدة وemail رسالة إلكترونية. have a break ياخد استراحة وwork online يشتغل على الإنترنت. كلمة now أوright now بتساعدك تعرف إن الفعل بيحصل في الوقت الحالي."
+        },
+        {
+          "title": "المضارع المستمر: مثبت ومنفي",
+          "text": "للفعل اللي بيحصل دلوقتي استخدم am أوis أوare وبعدها الفعل مع ing. مع I استخدم am، ومع he وshe استخدم is، ومع you وwe وthey استخدم are. مثال: She is reading. للنفي زود not: I am not reading وHe is not reading وThey are not reading. الاختصارات: I'm وHe's وThey're وisn't وaren't."
+        },
+        {
+          "title": "سؤال وإجابة قصيرة",
+          "text": "في سؤال نعم أو لا، قدم am أوis أوare: Are you studying? Is she cooking? الإجابة Yes, I am أوNo, I am not، وYes, she is أوNo, she isn't. للسؤال عن النشاط استخدم What مع الفعل المساعد: What is he doing? What are they doing? ما تضفش do أوdoes مع الصيغة دي."
+        },
+        {
+          "title": "كتابة الفعل مع ing",
+          "text": "غالبًا نزود ing مباشرة: eat تصبح eating وplay تصبح playing وstudy تصبح studying. في write وride بنشيل e الأخيرة: writing وriding. في run وsit وchat بنضاعف الحرف الساكن الأخير قبل ing: running وsitting وchatting. دي كتابة الأفعال اللي هنحتاجها في الوحدة."
+        },
+        {
+          "title": "would like مع اسم أو فعل",
+          "text": "للطلب أو التعبير عن رغبة استخدم would like وبعدها اسم: I would like a sandwich. لو بعدها فعل، استخدم to قبله: I would like to read. الاختصار I'd يعني I would هنا. للسؤال: Would you like a salad? وWhat would you like to do? وWhere would you like to go? وWhen would you like to eat?"
+        },
+        {
+          "title": "قراءة وكتابة عن نشاط حالي",
+          "text": "حدد الشخص والفعل والمكان من النص. تقدر تبدل اسم الشخص بضمير مناسب، زي She للأخت وThey للإخوات. في وصف النشاط الحالي ما تنساش am/is/are ولا ing. النص هنا تدريب عن عيلة افتراضية، وكامل فوق كل سؤال. مفيش صور مخفية أو تسجيل مطلوب."
+        }
+      ],
+      "meanings": {
+        "watch TV": "يتفرج على التلفزيون",
+        "surf the Internet": "يتصفح الإنترنت",
+        "drink": "يشرب",
+        "coffee": "قهوة",
+        "talk": "يتكلم",
+        "cell phone": "موبايل",
+        "eat": "ياكل",
+        "sandwich": "ساندوتش",
+        "read": "يقرا",
+        "magazine": "مجلة",
+        "look at": "يبص على",
+        "map": "خريطة",
+        "write": "يكتب",
+        "email": "رسالة إلكترونية",
+        "customer": "عميل",
+        "speak": "يتكلم",
+        "work online": "يشتغل على الإنترنت",
+        "chat": "يدردش",
+        "helpline": "خط للمساعدة بالتليفون",
+        "have a break": "ياخد استراحة",
+        "study": "يذاكر أو يدرس",
+        "play": "يلعب",
+        "wait": "يستنى",
+        "deliver mail": "يوصل البريد",
+        "train station": "محطة قطار",
+        "schedule": "جدول مواعيد",
+        "visit": "يزور",
+        "pack": "يجهز الشنطة",
+        "comedy": "فيلم كوميدي",
+        "science fiction": "خيال علمي",
+        "documentary": "فيلم وثائقي",
+        "action": "أكشن",
+        "shopping mall": "مركز تسوق",
+        "snack": "وجبة خفيفة",
+        "food court": "منطقة مطاعم في المول",
+        "hang out": "يقضي وقت مع أصحابه",
+        "clothes": "ملابس",
+        "fashion": "موضة",
+        "weather": "طقس",
+        "housework": "شغل البيت",
+        "newspaper": "جريدة",
+        "ride a bike": "يركب عجلة",
+        "run": "يجري",
+        "cook": "يطبخ",
+        "toy": "لعبة",
+        "would like": "يود أو يحب يطلب",
+        "salad": "سلطة",
+        "fries": "بطاطس مقلية",
+        "burger": "برجر",
+        "pizza": "بيتزا",
+        "ice cream": "آيس كريم",
+        "right now": "دلوقتي حالًا",
+        "What's up?": "إيه الأخبار أو إيه اللي بيحصل؟"
+      },
+      "sentenceMeanings": {
+        "I am writing an email.": "أنا بكتب رسالة إلكترونية.",
+        "She is reading a magazine.": "هي بتقرا مجلة.",
+        "They are eating sandwiches.": "هم بياكلوا ساندوتشات.",
+        "We are studying now.": "إحنا بنذاكر دلوقتي.",
+        "He is not watching TV.": "هو مش بيتفرج على التلفزيون.",
+        "Are you chatting?": "إنت بتدردش؟",
+        "What is she doing?": "هي بتعمل إيه؟",
+        "What are they doing?": "هم بيعملوا إيه؟",
+        "I would like a sandwich.": "أنا عايز ساندوتش.",
+        "I would like to read.": "أنا حابب أقرا.",
+        "Where would you like to go?": "تحب تروح فين؟",
+        "When would you like to eat?": "تحب تاكل إمتى؟"
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "الأنشطة والأكل والأفلام",
+          "sub": "رتب الحروف حسب المعنى.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "agazinem",
+              "answer": [
+                "magazine"
+              ],
+              "hint": "مجلة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "andwichs",
+              "answer": [
+                "sandwich"
+              ],
+              "hint": "ساندوتش"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ustomerc",
+              "answer": [
+                "customer"
+              ],
+              "hint": "عميل"
+            },
+            {
+              "type": "unscramble",
+              "letters": "maile",
+              "answer": [
+                "email"
+              ],
+              "hint": "رسالة إلكترونية"
+            },
+            {
+              "type": "unscramble",
+              "letters": "offeec",
+              "answer": [
+                "coffee"
+              ],
+              "hint": "قهوة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ewspapern",
+              "answer": [
+                "newspaper"
+              ],
+              "hint": "جريدة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "omedyc",
+              "answer": [
+                "comedy"
+              ],
+              "hint": "فيلم كوميدي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ocumentaryd",
+              "answer": [
+                "documentary"
+              ],
+              "hint": "فيلم وثائقي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "alads",
+              "answer": [
+                "salad"
+              ],
+              "hint": "سلطة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "riesf",
+              "answer": [
+                "fries"
+              ],
+              "hint": "بطاطس مقلية"
+            },
+            {
+              "type": "unscramble",
+              "letters": "urgerb",
+              "answer": [
+                "burger"
+              ],
+              "hint": "برجر"
+            },
+            {
+              "type": "unscramble",
+              "letters": "chedules",
+              "answer": [
+                "schedule"
+              ],
+              "hint": "جدول مواعيد"
+            }
+          ]
+        },
+        {
+          "id": "progressive",
+          "title": "المضارع المستمر",
+          "sub": "مثبت ونفي وسؤال وإجابة قصيرة.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "I ___ reading now.",
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "She ___ writing an email.",
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "They ___ playing now.",
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "We ___ studying now.",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "He ___ talking on the phone.",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "You ___ eating a sandwich.",
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "___ you shopping now?",
+              "options": [
+                "Are",
+                "Is",
+                "Am"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "___ she cooking now?",
+              "options": [
+                "Are",
+                "Is",
+                "Am"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "What ___ they doing?",
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "What ___ he doing?",
+              "options": [
+                "is",
+                "are",
+                "am"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Say that she is NOT working: She ___ working.",
+              "options": [
+                "is",
+                "isn't",
+                "aren't"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Say that we are NOT playing: We ___ playing.",
+              "options": [
+                "are",
+                "isn't",
+                "aren't"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Are they reading? Yes, they ___.",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Is he working? No, he ___.",
+              "options": [
+                "is",
+                "isn't",
+                "aren't"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "ing",
+          "title": "كتابة الفعل مع ing",
+          "sub": "راجع الحروف قبل إضافة ing.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Choose write + ing.",
+              "options": [
+                "writing",
+                "writeing",
+                "writting"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose run + ing.",
+              "options": [
+                "runing",
+                "running",
+                "runingg"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Choose chat + ing.",
+              "options": [
+                "chating",
+                "chattting",
+                "chatting"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Choose sit + ing.",
+              "options": [
+                "sitting",
+                "siting",
+                "sitteing"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose ride + ing.",
+              "options": [
+                "rideing",
+                "riding",
+                "ridding"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Choose study + ing.",
+              "options": [
+                "studing",
+                "studiing",
+                "studying"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Choose play + ing.",
+              "options": [
+                "playing",
+                "plaing",
+                "playying"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose eat + ing.",
+              "options": [
+                "eatting",
+                "eating",
+                "eateing"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "wishes",
+          "title": "Would like",
+          "sub": "اسم، أو to وبعدها فعل.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "I ___ a sandwich.",
+              "options": [
+                "would like",
+                "would like to",
+                "would to"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "I would like ___ watch TV.",
+              "options": [
+                "for",
+                "to",
+                "at"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Would you like ___ magazine?",
+              "options": [
+                "to",
+                "go",
+                "a"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "What would you like ___? (do)",
+              "options": [
+                "to do",
+                "doing",
+                "does"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Where would he like ___? (go)",
+              "options": [
+                "going",
+                "to go",
+                "goes"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "When would you like ___? (eat)",
+              "options": [
+                "eating",
+                "eats",
+                "to eat"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "In I'd like a salad, I'd means ___.",
+              "options": [
+                "I would",
+                "I am",
+                "I do"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "No, I'd like ___ TV. (watch)",
+              "options": [
+                "watching",
+                "to watch",
+                "watches"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "قراءة: العيلة بتعمل إيه؟",
+          "sub": "نص كامل عن عيلة افتراضية.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "What is Sami doing?",
+              "options": [
+                "Writing an email",
+                "Cooking",
+                "Reading a newspaper"
+              ],
+              "answer": 0,
+              "passage": "Fictional family practice: It is Saturday afternoon. My name is Sami. I am at home, and I am writing an email. My sister Lina is reading a magazine in the living room. My mother is cooking in the kitchen. My father is talking on the phone. My two brothers are playing a game in the garden. We are not watching TV. I would like to eat a sandwich later."
+            },
+            {
+              "type": "mcq",
+              "q": "What is Lina doing?",
+              "options": [
+                "Watching TV",
+                "Reading a magazine",
+                "Playing a game"
+              ],
+              "answer": 1,
+              "passage": "Fictional family practice: It is Saturday afternoon. My name is Sami. I am at home, and I am writing an email. My sister Lina is reading a magazine in the living room. My mother is cooking in the kitchen. My father is talking on the phone. My two brothers are playing a game in the garden. We are not watching TV. I would like to eat a sandwich later."
+            },
+            {
+              "type": "mcq",
+              "q": "Where is Lina?",
+              "options": [
+                "In the kitchen",
+                "In the garden",
+                "In the living room"
+              ],
+              "answer": 2,
+              "passage": "Fictional family practice: It is Saturday afternoon. My name is Sami. I am at home, and I am writing an email. My sister Lina is reading a magazine in the living room. My mother is cooking in the kitchen. My father is talking on the phone. My two brothers are playing a game in the garden. We are not watching TV. I would like to eat a sandwich later."
+            },
+            {
+              "type": "mcq",
+              "q": "What is the mother doing?",
+              "options": [
+                "Cooking",
+                "Shopping",
+                "Chatting online"
+              ],
+              "answer": 0,
+              "passage": "Fictional family practice: It is Saturday afternoon. My name is Sami. I am at home, and I am writing an email. My sister Lina is reading a magazine in the living room. My mother is cooking in the kitchen. My father is talking on the phone. My two brothers are playing a game in the garden. We are not watching TV. I would like to eat a sandwich later."
+            },
+            {
+              "type": "mcq",
+              "q": "What is the father doing?",
+              "options": [
+                "Reading a magazine",
+                "Talking on the phone",
+                "Playing a game"
+              ],
+              "answer": 1,
+              "passage": "Fictional family practice: It is Saturday afternoon. My name is Sami. I am at home, and I am writing an email. My sister Lina is reading a magazine in the living room. My mother is cooking in the kitchen. My father is talking on the phone. My two brothers are playing a game in the garden. We are not watching TV. I would like to eat a sandwich later."
+            },
+            {
+              "type": "mcq",
+              "q": "Where are the two brothers?",
+              "options": [
+                "In the kitchen",
+                "At school",
+                "In the garden"
+              ],
+              "answer": 2,
+              "passage": "Fictional family practice: It is Saturday afternoon. My name is Sami. I am at home, and I am writing an email. My sister Lina is reading a magazine in the living room. My mother is cooking in the kitchen. My father is talking on the phone. My two brothers are playing a game in the garden. We are not watching TV. I would like to eat a sandwich later."
+            },
+            {
+              "type": "mcq",
+              "q": "Is the family watching TV?",
+              "options": [
+                "No, they are not.",
+                "Yes, they are.",
+                "Only Sami is."
+              ],
+              "answer": 0,
+              "passage": "Fictional family practice: It is Saturday afternoon. My name is Sami. I am at home, and I am writing an email. My sister Lina is reading a magazine in the living room. My mother is cooking in the kitchen. My father is talking on the phone. My two brothers are playing a game in the garden. We are not watching TV. I would like to eat a sandwich later."
+            },
+            {
+              "type": "mcq",
+              "q": "What would Sami like to eat later?",
+              "options": [
+                "A salad",
+                "A sandwich",
+                "Pizza"
+              ],
+              "answer": 1,
+              "passage": "Fictional family practice: It is Saturday afternoon. My name is Sami. I am at home, and I am writing an email. My sister Lina is reading a magazine in the living room. My mother is cooking in the kitchen. My father is talking on the phone. My two brothers are playing a game in the garden. We are not watching TV. I would like to eat a sandwich later."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب الجملة",
+          "sub": "المضارع المستمر والرغبات.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "email.",
+                "an",
+                "writing",
+                "am",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "am",
+                "writing",
+                "an",
+                "email."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "magazine.",
+                "a",
+                "reading",
+                "is",
+                "She"
+              ],
+              "answer": [
+                "She",
+                "is",
+                "reading",
+                "a",
+                "magazine."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "garden.",
+                "the",
+                "in",
+                "playing",
+                "are",
+                "They"
+              ],
+              "answer": [
+                "They",
+                "are",
+                "playing",
+                "in",
+                "the",
+                "garden."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "TV?",
+                "watching",
+                "you",
+                "Are"
+              ],
+              "answer": [
+                "Are",
+                "you",
+                "watching",
+                "TV?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "sandwich.",
+                "a",
+                "like",
+                "would",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "would",
+                "like",
+                "a",
+                "sandwich."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "read.",
+                "to",
+                "like",
+                "would",
+                "He"
+              ],
+              "answer": [
+                "He",
+                "would",
+                "like",
+                "to",
+                "read."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "source": {
     "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g7/g7-english-1448.pdf",
     "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K07-SM1-ENGLMH.pdf",
-    "title": "Super Goal 1, Part 1, Units 1–7 and Expansion 1–4, pages 2–63",
+    "title": "Super Goal 1, Part 1, Units 1–8 and Expansion 1–4, pages 2–71",
     "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint returned HTTP500. Original explanations and exercises, not copied textbook questions.",
     "reviewedUnits": {
       "u1": [
@@ -5462,6 +6267,10 @@
       "u7": [
         56,
         63
+      ],
+      "u8": [
+        64,
+        71
       ]
     }
   }
