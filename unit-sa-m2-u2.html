@@ -255,7 +255,7 @@ function mountStation(root,st){
   });
   updateBar();
 }
-fetch('curr-sa-m2.json?v=20261122-sg2u2').then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
+fetch('curr-sa-m2.json?v=20261122-sg2u3').then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
   var u=d.units.find(function(x){return x.id===un});
   if(!u)throw 0;
   buildTeach(u);

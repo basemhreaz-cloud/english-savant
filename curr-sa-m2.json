@@ -1747,12 +1747,896 @@
           ]
         }
       ]
+    },
+    {
+      "id": "u3",
+      "num": 3,
+      "title": "Who's Who",
+      "pages": [
+        18,
+        25
+      ],
+      "lessons": [],
+      "vocab": [
+        "occupation",
+        "salesperson",
+        "sales representative",
+        "travel agent",
+        "nurse",
+        "psychologist",
+        "call center representative",
+        "graphic designer",
+        "advertisement",
+        "advertising firm",
+        "engineer",
+        "construction company",
+        "bridge",
+        "computer programmer",
+        "software",
+        "journalist",
+        "translator",
+        "scientist",
+        "receptionist",
+        "dentist",
+        "photographer",
+        "reporter",
+        "waiter",
+        "pilot",
+        "lawyer",
+        "flight attendant",
+        "manager",
+        "executive",
+        "president",
+        "salary",
+        "deadline",
+        "part-time",
+        "full-time",
+        "stressful",
+        "satisfying",
+        "exciting",
+        "boring",
+        "ability",
+        "business management",
+        "laboratory",
+        "experiment",
+        "passenger",
+        "society",
+        "economy",
+        "employment",
+        "unemployment",
+        "workforce",
+        "asset",
+        "goal",
+        "training",
+        "determination",
+        "advantage",
+        "disadvantage",
+        "and",
+        "but",
+        "because"
+      ],
+      "sentences": [
+        "What do you do?",
+        "Where does she work?",
+        "She works in a hospital.",
+        "They work for a construction company.",
+        "He does not work in a bank.",
+        "I want to be a translator.",
+        "What does he want to be?",
+        "She teaches English.",
+        "A nurse is someone who helps sick people.",
+        "This is a company that builds bridges.",
+        "The job is useful, but it is stressful.",
+        "I like the job because I help people."
+      ],
+      "phonics": [],
+      "explanation": [
+        {
+          "title": "المهن وطبيعة الشغل",
+          "text": "What do you do? غالبًا معناها إنت شغال إيه. اربط الوظيفة بالفعل المناسب: teacher يعلم، وtranslator يترجم، وtravel agent ينظم الرحلات، وgraphic designer يصمم، وnurse يساعد المرضى. الأسئلة هنا عن تعريف المهنة، مش عن أشخاص حقيقيين أو بيانات تواصل."
+        },
+        {
+          "title": "المضارع البسيط والعادة",
+          "text": "البسيط بيصف حاجة عامة أو عادة. مع I وyou وwe وthey استخدم الفعل الأساسي: They work. مع he وshe وit ضيف s: She works. الأفعال اللي بتنتهي بـs أوx أوch أوsh بتاخد es: fixes وteaches وwashes."
+        },
+        {
+          "title": "السؤال والنفي بـdo وdoes",
+          "text": "مع I وyou وwe وthey نستخدم do في السؤال وdo not في النفي. مع he وshe وit نستخدم does وdoes not. بعد does أوdoes not رجع الفعل لأصله: Where does she work? وHe does not work in a bank. ما تضيفش s للفعل بعد does."
+        },
+        {
+          "title": "want وبعدها to والمصدر",
+          "text": "لو بتتكلم عن هدف استخدم want to وبعدها الفعل الأساسي. مثال: I want to be a translator. مع she: She wants to be a pilot. وفي السؤال What does he want to be? لاحظ إن want من غير s بعد does."
+        },
+        {
+          "title": "النهايات في أسماء المهن",
+          "text": "أسماء مهن كتير بتنتهي بـer زي teacher وdriver وphotographer. وفي ist زي scientist وdentist وjournalist، وفي or زي actor وdirector وtranslator. احفظ اسم المهنة مع معناها والفعل اللي بتعمله، وماتخمنش النهاية من غير ما تتأكد من الكلمة."
+        },
+        {
+          "title": "who وthat وwhich",
+          "text": "جملة الوصل بتضيف معلومة عن الاسم. مع الأشخاص ينفع who أوthat، ومع الأشياء والحيوانات ينفع that أوwhich، حسب القاعدة في الكتاب. في أسئلة الاختيار هنا مش بنحط who وthat مع بعض كإجابتين متنافستين عن نفس الشخص، عشان الاتنين ينفعوا. مثال: A nurse is someone who helps sick people."
+        },
+        {
+          "title": "and وbut وbecause",
+          "text": "and بتربط كلمات أو أفكار متشابهة. but بتوضح تعارض: The job is useful, but it is stressful. because بتقدم السبب: I like the job because I help people. اقرا وظيفة أداة الربط المطلوبة في السؤال قبل ما تختار."
+        },
+        {
+          "title": "قراءة عن العمل والتدريب",
+          "text": "نص الكتاب بيربط العمل والتدريب والتعليم بالمجتمع والاقتصاد. النص التدريبي هنا أصلي عن مركز خيالي بيساعد ناس يحددوا أهدافهم ويتدربوا. النص كامل فوق كل سؤال، ومش محتاج تسجيل. أرقام وأهداف رؤية 2030 الموجودة في نص الكتاب مش معروضة هنا على إنها إحصائيات حالية."
+        }
+      ],
+      "meanings": {
+        "occupation": "وظيفة أو مهنة",
+        "salesperson": "موظف مبيعات",
+        "sales representative": "مندوب مبيعات",
+        "travel agent": "موظف تنظيم وحجز رحلات",
+        "nurse": "ممرض أو ممرضة",
+        "psychologist": "أخصائي علم نفس",
+        "call center representative": "موظف خدمة عملاء بالتليفون",
+        "graphic designer": "مصمم جرافيك",
+        "advertisement": "إعلان",
+        "advertising firm": "شركة إعلانات",
+        "engineer": "مهندس",
+        "construction company": "شركة إنشاءات",
+        "bridge": "كوبري",
+        "computer programmer": "مبرمج كمبيوتر",
+        "software": "برامج الكمبيوتر",
+        "journalist": "صحفي",
+        "translator": "مترجم",
+        "scientist": "عالم أو باحث علمي",
+        "receptionist": "موظف استقبال",
+        "dentist": "طبيب أسنان",
+        "photographer": "مصور فوتوغرافي",
+        "reporter": "مراسل صحفي",
+        "waiter": "جرسون أو نادل",
+        "pilot": "طيار",
+        "lawyer": "محامي",
+        "flight attendant": "مضيف طيران",
+        "manager": "مدير",
+        "executive": "مسؤول إداري",
+        "president": "رئيس",
+        "salary": "مرتب",
+        "deadline": "موعد نهائي لتسليم شغل",
+        "part-time": "بدوام جزئي",
+        "full-time": "بدوام كامل",
+        "stressful": "مسبب لضغط وتوتر",
+        "satisfying": "مرضي أو بيدي إحساس بالإنجاز",
+        "exciting": "مثير ومشوق",
+        "boring": "ممل",
+        "ability": "قدرة",
+        "business management": "إدارة أعمال",
+        "laboratory": "معمل",
+        "experiment": "تجربة علمية",
+        "passenger": "راكب",
+        "society": "مجتمع",
+        "economy": "اقتصاد",
+        "employment": "توظيف أو عمل",
+        "unemployment": "بطالة",
+        "workforce": "القوى العاملة",
+        "asset": "ميزة أو مورد مفيد",
+        "goal": "هدف",
+        "training": "تدريب",
+        "determination": "إصرار",
+        "advantage": "ميزة",
+        "disadvantage": "عيب أو نقطة سلبية",
+        "and": "و، لربط أفكار متشابهة",
+        "but": "لكن، لربط فكرتين متعارضتين",
+        "because": "لأن، لتوضيح السبب"
+      },
+      "sentenceMeanings": {
+        "What do you do?": "إنت شغال إيه؟",
+        "Where does she work?": "هي بتشتغل فين؟",
+        "She works in a hospital.": "هي بتشتغل في مستشفى.",
+        "They work for a construction company.": "هم بيشتغلوا في شركة إنشاءات.",
+        "He does not work in a bank.": "هو مش بيشتغل في بنك.",
+        "I want to be a translator.": "أنا عايز أبقى مترجم.",
+        "What does he want to be?": "هو عايز يبقى إيه؟",
+        "She teaches English.": "هي بتدرس إنجليزي.",
+        "A nurse is someone who helps sick people.": "الممرض شخص بيساعد المرضى.",
+        "This is a company that builds bridges.": "دي شركة بتبني كباري.",
+        "The job is useful, but it is stressful.": "الشغل مفيد، لكنه مسبب ضغط.",
+        "I like the job because I help people.": "أنا بحب الشغل عشان بساعد الناس."
+      },
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "وظائف وأهداف وتدريب",
+          "sub": "رتب الحروف حسب المعنى.",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "ursen",
+              "answer": [
+                "nurse"
+              ],
+              "hint": "ممرض أو ممرضة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ngineere",
+              "answer": [
+                "engineer"
+              ],
+              "hint": "مهندس"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ranslatort",
+              "answer": [
+                "translator"
+              ],
+              "hint": "مترجم"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ournalistj",
+              "answer": [
+                "journalist"
+              ],
+              "hint": "صحفي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "cientists",
+              "answer": [
+                "scientist"
+              ],
+              "hint": "عالم أو باحث علمي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ilotp",
+              "answer": [
+                "pilot"
+              ],
+              "hint": "طيار"
+            },
+            {
+              "type": "unscramble",
+              "letters": "awyerl",
+              "answer": [
+                "lawyer"
+              ],
+              "hint": "محامي"
+            },
+            {
+              "type": "unscramble",
+              "letters": "alarys",
+              "answer": [
+                "salary"
+              ],
+              "hint": "مرتب"
+            },
+            {
+              "type": "unscramble",
+              "letters": "eadlined",
+              "answer": [
+                "deadline"
+              ],
+              "hint": "موعد نهائي لتسليم شغل"
+            },
+            {
+              "type": "unscramble",
+              "letters": "rainingt",
+              "answer": [
+                "training"
+              ],
+              "hint": "تدريب"
+            }
+          ]
+        },
+        {
+          "id": "grammar",
+          "title": "المضارع البسيط وwant",
+          "sub": "انتبه للفاعل وللفعل بعد does.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "I ___ in a hospital.",
+              "options": [
+                "work",
+                "works",
+                "working"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "She ___ for a travel agency.",
+              "options": [
+                "work",
+                "works",
+                "working"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "They ___ computer science at college.",
+              "options": [
+                "studies",
+                "studying",
+                "study"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "The mechanic ___ cars every day.",
+              "options": [
+                "fixes",
+                "fix",
+                "fixing"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "My aunt ___ English.",
+              "options": [
+                "teach",
+                "teaches",
+                "teaching"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "He ___ the cups after work.",
+              "options": [
+                "wash",
+                "washing",
+                "washes"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "___ she work in a bank?",
+              "options": [
+                "Does",
+                "Do",
+                "Is"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "___ they work in a laboratory?",
+              "options": [
+                "Does",
+                "Do",
+                "Is"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Where does he ___?",
+              "options": [
+                "works",
+                "working",
+                "work"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "She does not ___ in a store.",
+              "options": [
+                "work",
+                "works",
+                "working"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "We ___ work on Friday.",
+              "options": [
+                "does not",
+                "do not",
+                "is not"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Does he work here? Yes, he ___.",
+              "options": [
+                "do",
+                "is",
+                "does"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Do they work here? No, they ___.",
+              "options": [
+                "do not",
+                "does not",
+                "is not"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "I want ___ an engineer.",
+              "options": [
+                "be",
+                "to be",
+                "being"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "She ___ to be a programmer.",
+              "options": [
+                "want",
+                "wanting",
+                "wants"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "What does he ___ to be?",
+              "options": [
+                "want",
+                "wants",
+                "wanting"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "jobs",
+          "title": "مين بيعمل إيه؟",
+          "sub": "اربط تعريف المهنة باسمها.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Who takes care of sick people?",
+              "options": [
+                "A nurse",
+                "A travel agent",
+                "A graphic designer"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Who arranges trips for customers?",
+              "options": [
+                "A nurse",
+                "A travel agent",
+                "A journalist"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Who translates from one language to another?",
+              "options": [
+                "A pilot",
+                "A waiter",
+                "A translator"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Who designs roads and bridges?",
+              "options": [
+                "A civil engineer",
+                "A nurse",
+                "A dentist"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Who creates advertisements and website designs?",
+              "options": [
+                "A pilot",
+                "A graphic designer",
+                "A waiter"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Who serves customers food in a restaurant?",
+              "options": [
+                "A scientist",
+                "A translator",
+                "A waiter"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Who writes news stories?",
+              "options": [
+                "A journalist",
+                "A pilot",
+                "A travel agent"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Who helps customers on the phone in a call center?",
+              "options": [
+                "A pilot",
+                "A call center representative",
+                "A nurse"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "relative",
+          "title": "who وthat وwhich",
+          "sub": "اختيار واحد صحيح من المعروض، من غير بديلين صحيحين.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "The nurse ___ works here is friendly.",
+              "options": [
+                "who",
+                "which",
+                "where"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The company ___ builds bridges is new.",
+              "options": [
+                "who",
+                "which",
+                "where"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "The driver ___ takes us to school is kind.",
+              "options": [
+                "which",
+                "where",
+                "who"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "This is a shop ___ sells furniture.",
+              "options": [
+                "that",
+                "who",
+                "where"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "The translator ___ speaks five languages is my uncle.",
+              "options": [
+                "where",
+                "who",
+                "which"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "The computer ___ helps me work is fast.",
+              "options": [
+                "who",
+                "where",
+                "which"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "A pilot is someone ___ flies airplanes.",
+              "options": [
+                "who",
+                "which",
+                "where"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "I want a job ___ helps society.",
+              "options": [
+                "who",
+                "that",
+                "where"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "connectors",
+          "title": "and وbut وbecause",
+          "sub": "الجمع أو التعارض أو السبب.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "Connect two similar activities: I read ___ write every day.",
+              "options": [
+                "and",
+                "because",
+                "who"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the connector that shows a contrast: The job is exciting, ___ it is stressful.",
+              "options": [
+                "because",
+                "but",
+                "who"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the connector that introduces a reason: I like teaching ___ I enjoy helping children.",
+              "options": [
+                "but",
+                "which",
+                "because"
+              ],
+              "answer": 2
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the word that joins two job titles in a list: a nurse ___ a teacher.",
+              "options": [
+                "and",
+                "because",
+                "who"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "قراءة: مركز تدريب افتراضي",
+          "sub": "النص كامل فوق كل سؤال، ومن غير إحصائيات قديمة.",
+          "questions": [
+            {
+              "type": "mcq",
+              "q": "What does the center help people prepare for?",
+              "options": [
+                "Work",
+                "A vacation",
+                "A football match"
+              ],
+              "answer": 0,
+              "passage": "Fictional training center: The Future Skills Center helps people prepare for work. Huda is a nurse. She works in a hospital and wants to learn more about helping children. Ali is a salesperson. He studies business management at night because he wants to be a manager. Sami is a graphic designer. He likes creating advertisements, but he says deadlines are stressful. The center offers computer lessons on Mondays. Its adviser helps each learner write a goal and choose suitable training. This is an original classroom story, not a real service listing."
+            },
+            {
+              "type": "mcq",
+              "q": "What does Huda do?",
+              "options": [
+                "She is a pilot.",
+                "She is a nurse.",
+                "She is a designer."
+              ],
+              "answer": 1,
+              "passage": "Fictional training center: The Future Skills Center helps people prepare for work. Huda is a nurse. She works in a hospital and wants to learn more about helping children. Ali is a salesperson. He studies business management at night because he wants to be a manager. Sami is a graphic designer. He likes creating advertisements, but he says deadlines are stressful. The center offers computer lessons on Mondays. Its adviser helps each learner write a goal and choose suitable training. This is an original classroom story, not a real service listing."
+            },
+            {
+              "type": "mcq",
+              "q": "Where does Huda work?",
+              "options": [
+                "In a bank",
+                "In a store",
+                "In a hospital"
+              ],
+              "answer": 2,
+              "passage": "Fictional training center: The Future Skills Center helps people prepare for work. Huda is a nurse. She works in a hospital and wants to learn more about helping children. Ali is a salesperson. He studies business management at night because he wants to be a manager. Sami is a graphic designer. He likes creating advertisements, but he says deadlines are stressful. The center offers computer lessons on Mondays. Its adviser helps each learner write a goal and choose suitable training. This is an original classroom story, not a real service listing."
+            },
+            {
+              "type": "mcq",
+              "q": "When does Ali study business management?",
+              "options": [
+                "At night",
+                "On Sunday morning",
+                "During lunch only"
+              ],
+              "answer": 0,
+              "passage": "Fictional training center: The Future Skills Center helps people prepare for work. Huda is a nurse. She works in a hospital and wants to learn more about helping children. Ali is a salesperson. He studies business management at night because he wants to be a manager. Sami is a graphic designer. He likes creating advertisements, but he says deadlines are stressful. The center offers computer lessons on Mondays. Its adviser helps each learner write a goal and choose suitable training. This is an original classroom story, not a real service listing."
+            },
+            {
+              "type": "mcq",
+              "q": "What does Ali want to be?",
+              "options": [
+                "A nurse",
+                "A manager",
+                "A pilot"
+              ],
+              "answer": 1,
+              "passage": "Fictional training center: The Future Skills Center helps people prepare for work. Huda is a nurse. She works in a hospital and wants to learn more about helping children. Ali is a salesperson. He studies business management at night because he wants to be a manager. Sami is a graphic designer. He likes creating advertisements, but he says deadlines are stressful. The center offers computer lessons on Mondays. Its adviser helps each learner write a goal and choose suitable training. This is an original classroom story, not a real service listing."
+            },
+            {
+              "type": "mcq",
+              "q": "What does Sami create?",
+              "options": [
+                "Roads",
+                "Hospital rooms",
+                "Advertisements"
+              ],
+              "answer": 2,
+              "passage": "Fictional training center: The Future Skills Center helps people prepare for work. Huda is a nurse. She works in a hospital and wants to learn more about helping children. Ali is a salesperson. He studies business management at night because he wants to be a manager. Sami is a graphic designer. He likes creating advertisements, but he says deadlines are stressful. The center offers computer lessons on Mondays. Its adviser helps each learner write a goal and choose suitable training. This is an original classroom story, not a real service listing."
+            },
+            {
+              "type": "mcq",
+              "q": "What does Sami find stressful?",
+              "options": [
+                "Deadlines",
+                "Vacations",
+                "Computer lessons"
+              ],
+              "answer": 0,
+              "passage": "Fictional training center: The Future Skills Center helps people prepare for work. Huda is a nurse. She works in a hospital and wants to learn more about helping children. Ali is a salesperson. He studies business management at night because he wants to be a manager. Sami is a graphic designer. He likes creating advertisements, but he says deadlines are stressful. The center offers computer lessons on Mondays. Its adviser helps each learner write a goal and choose suitable training. This is an original classroom story, not a real service listing."
+            },
+            {
+              "type": "mcq",
+              "q": "When are the computer lessons?",
+              "options": [
+                "On Fridays",
+                "On Mondays",
+                "On Saturdays"
+              ],
+              "answer": 1,
+              "passage": "Fictional training center: The Future Skills Center helps people prepare for work. Huda is a nurse. She works in a hospital and wants to learn more about helping children. Ali is a salesperson. He studies business management at night because he wants to be a manager. Sami is a graphic designer. He likes creating advertisements, but he says deadlines are stressful. The center offers computer lessons on Mondays. Its adviser helps each learner write a goal and choose suitable training. This is an original classroom story, not a real service listing."
+            }
+          ]
+        },
+        {
+          "id": "writing",
+          "title": "رتب جملة عن الشغل",
+          "sub": "وظيفة وهدف وسؤال وسبب.",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "do?",
+                "you",
+                "do",
+                "What"
+              ],
+              "answer": [
+                "What",
+                "do",
+                "you",
+                "do?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "work?",
+                "she",
+                "does",
+                "Where"
+              ],
+              "answer": [
+                "Where",
+                "does",
+                "she",
+                "work?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "translator.",
+                "a",
+                "be",
+                "to",
+                "want",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "want",
+                "to",
+                "be",
+                "a",
+                "translator."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "bank.",
+                "a",
+                "in",
+                "work",
+                "not",
+                "does",
+                "He"
+              ],
+              "answer": [
+                "He",
+                "does",
+                "not",
+                "work",
+                "in",
+                "a",
+                "bank."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "people.",
+                "sick",
+                "helps",
+                "who",
+                "someone",
+                "is",
+                "nurse",
+                "A"
+              ],
+              "answer": [
+                "A",
+                "nurse",
+                "is",
+                "someone",
+                "who",
+                "helps",
+                "sick",
+                "people."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "people.",
+                "help",
+                "I",
+                "because",
+                "job",
+                "the",
+                "like",
+                "I"
+              ],
+              "answer": [
+                "I",
+                "like",
+                "the",
+                "job",
+                "because",
+                "I",
+                "help",
+                "people."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "source": {
     "url": "https://cflptmcbjkqvmoabrenn.supabase.co/storage/v1/object/public/books/g8/g8-english-1448.pdf",
     "officialUrl": "https://iencontent.ien.edu.sa/books/1448-GE-ME-K08-SM1-ENGLMH-v2.pdf",
-    "title": "Super Goal 2, Part 1, Units 1–2, pages 2–17",
+    "title": "Super Goal 2, Part 1, Units 1–3, pages 2–25",
     "note": "Publisher textbook mirrored by Hala School. Ministry imprint 2026/1448 visually inspected. Official endpoint has a certificate error. Mirror bytes matched the reviewed PDF. Original explanations and exercises, not copied textbook questions.",
     "reviewedUnits": {
       "u1": [
@@ -1762,6 +2646,10 @@
       "u2": [
         10,
         17
+      ],
+      "u3": [
+        18,
+        25
       ]
     }
   }
