@@ -1,1 +1,327 @@
-{"version":"20261122-pairs1","options":{"requireVerified":true,"holdFlagged":true},"unit":{"id":"kg2-t1-u2","title_en":"Let's Get Dressed!","title_ar":"يلا نلبس!","eyebrow":"KG2 · الفصل الأول · الوحدة الثانية"},"activities":[{"id":"k2u2-tap","kind":"tap-words","title_ar":"نسمع هدوم","instr":"ar2-i-tap","help":"اضغط على الصورة. هتسمع معناها بالعربي وبعدها الكلمة بالإنجليزي.","words":[{"word":"T-shirt","img":"pics/t-shirt.webp","ar":"ar-m-t-shirt","en":"en-word-t-shirt","label_en":"T-shirt"},{"word":"cap","img":"pics/cap.webp","ar":"ar-m-cap","en":"en-word-cap","label_en":"cap"},{"word":"shoes","img":"pics/shoes.webp","ar":"ar-m-shoes","en":"en-word-shoes","label_en":"shoes"},{"word":"skirt","img":"pics/skirt.webp","ar":"ar-meaning-skirt","en":"en-word-skirt","label_en":"skirt"},{"word":"socks","img":"pics/socks.webp","ar":"ar-m-socks","en":"en-word-socks","label_en":"socks"},{"word":"dress","img":"pics/dress.webp","ar":"ar-meaning-dress","en":"en-word-dress","label_en":"dress"},{"word":"shorts","img":"pics/shorts.webp","ar":"ar-m-shorts","en":"en-word-shorts","label_en":"shorts"},{"word":"pants","img":"pics/pants.webp","ar":"ar-m-pants","en":"en-word-pants","label_en":"pants"}]},{"id":"k2u2-colour","kind":"colour-pick","title_ar":"أي لون؟","instr":"ar2-i-color","help":"اسمع الجملة بالإنجليزي واضغط على التيشيرت اللي لونه زي الجملة. تدريب للتعرّف، من غير درجات.","prompt":{"audio":"en-s-tshirt","text":"I have a yellow T-shirt."},"choices":[{"img":"pics/t-shirt-red.webp","alt":"red T-shirt","ok":false},{"img":"pics/t-shirt-yellow.webp","alt":"yellow T-shirt","ok":true},{"img":"pics/t-shirt-blue.webp","alt":"blue T-shirt","ok":false}]},{"id":"k2u2-trace-l","kind":"trace","title_ar":"نتتبّع حروف D وM وg","instr":"ar2-i-trace","items":[{"glyph":"D","mp4":"assets/kg2/anim/anim-trace-k2-D-upper.mp4","poster":"assets/kg2/anim/anim-trace-k2-D-upper-final.png"},{"glyph":"d","mp4":"assets/kg2/anim/anim-trace-k2-d-lower.mp4","poster":"assets/kg2/anim/anim-trace-k2-d-lower-final.png"},{"glyph":"M","mp4":"assets/kg2/anim/anim-trace-k2-M-upper.mp4","poster":"assets/kg2/anim/anim-trace-k2-M-upper-final.png"},{"glyph":"m","mp4":"assets/kg2/anim/anim-trace-k2-m-lower.mp4","poster":"assets/kg2/anim/anim-trace-k2-m-lower-final.png"},{"glyph":"g","mp4":"assets/kg2/anim/anim-trace-k2-g-lower.mp4","poster":"assets/kg2/anim/anim-trace-k2-g-lower-final.png"}],"held_text":"حرف G متاح قريبًا (اتجاه الحركة لسه بيتراجع).","words":[{"word":"dress","img":"pics/dress.webp","ar":"ar-meaning-dress","en":"en-word-dress","label_en":"dress"}]},{"id":"k2u2-count","kind":"count-trace","title_ar":"نعدّ ونتتبّع ٣ و٥","instr":"ar2-i-count","items":[{"glyph":"3","mp4":"assets/kg2/anim/anim-trace-k2-n3.mp4","poster":"assets/kg2/anim/anim-trace-k2-n3-final.png"},{"glyph":"5","mp4":"assets/kg2/anim/anim-trace-k2-n5.mp4","poster":"assets/kg2/anim/anim-trace-k2-n5-final.png"}],"counts":[{"img":"count/count-t-shirt-3.webp","alt":"3 T-shirts","n":3,"en":"en-n-3","ar":"ar-meaning-three"},{"img":"count/count-shorts-4.webp","alt":"4 pairs of shorts","n":4,"en":"en-n-4","ar":"ar-meaning-four"},{"img":"count/count-cap-5.webp","alt":"5 caps","n":5,"en":"en-n-5","ar":"ar-meaning-five"}],"held_text":"الرقم 4 متاح هنا للعدّ بس، حركة تتبّعه قريبًا."},{"id":"k2u2-song","kind":"lines","title_ar":"أغنية الهدوم","instr":"ar2-i-song","whole":"en-song","lines":[{"text":"I wear my cap when I play in the sun,"},{"text":"a T-shirt and shorts, that's so much fun!"},{"text":"pants for when the day is cool,"},{"text":"socks and shoes - now I'm ready for school!"}]},{"id":"k2u2-values","kind":"lines","title_ar":"نتكلم عن هدومنا","instr":"ar2-i-values","lines":[{"text":"Take care of your belongings.","audio":"en-v-care"},{"text":"Be clean and tidy.","audio":"en-v-tidy"},{"text":"Celebrate differences. It's okay to wear different things.","audio":"en-v-diff"}]}],"held":["قصة دينا ومازن (لسه من غير رسم)","رسمة الألوان للفستان"]}
+{
+  "version": "20261122-story1",
+  "options": {
+    "requireVerified": true,
+    "holdFlagged": true
+  },
+  "unit": {
+    "id": "kg2-t1-u2",
+    "title_en": "Let's Get Dressed!",
+    "title_ar": "يلا نلبس!",
+    "eyebrow": "KG2 · الفصل الأول · الوحدة الثانية"
+  },
+  "activities": [
+    {
+      "id": "k2u2-tap",
+      "kind": "tap-words",
+      "title_ar": "نسمع هدوم",
+      "instr": "ar2-i-tap",
+      "help": "اضغط على الصورة. هتسمع معناها بالعربي وبعدها الكلمة بالإنجليزي.",
+      "words": [
+        {
+          "word": "T-shirt",
+          "img": "pics/t-shirt.webp",
+          "ar": "ar-m-t-shirt",
+          "en": "en-word-t-shirt",
+          "label_en": "T-shirt"
+        },
+        {
+          "word": "cap",
+          "img": "pics/cap.webp",
+          "ar": "ar-m-cap",
+          "en": "en-word-cap",
+          "label_en": "cap"
+        },
+        {
+          "word": "shoes",
+          "img": "pics/shoes.webp",
+          "ar": "ar-m-shoes",
+          "en": "en-word-shoes",
+          "label_en": "shoes"
+        },
+        {
+          "word": "skirt",
+          "img": "pics/skirt.webp",
+          "ar": "ar-meaning-skirt",
+          "en": "en-word-skirt",
+          "label_en": "skirt"
+        },
+        {
+          "word": "socks",
+          "img": "pics/socks.webp",
+          "ar": "ar-m-socks",
+          "en": "en-word-socks",
+          "label_en": "socks"
+        },
+        {
+          "word": "dress",
+          "img": "pics/dress.webp",
+          "ar": "ar-meaning-dress",
+          "en": "en-word-dress",
+          "label_en": "dress"
+        },
+        {
+          "word": "shorts",
+          "img": "pics/shorts.webp",
+          "ar": "ar-m-shorts",
+          "en": "en-word-shorts",
+          "label_en": "shorts"
+        },
+        {
+          "word": "pants",
+          "img": "pics/pants.webp",
+          "ar": "ar-m-pants",
+          "en": "en-word-pants",
+          "label_en": "pants"
+        }
+      ]
+    },
+    {
+      "id": "k2u2-colour",
+      "kind": "colour-pick",
+      "title_ar": "أي لون؟",
+      "instr": "ar2-i-color",
+      "help": "اسمع الجملة بالإنجليزي واضغط على التيشيرت اللي لونه زي الجملة. تدريب للتعرّف، من غير درجات.",
+      "prompt": {
+        "audio": "en-s-tshirt",
+        "text": "I have a yellow T-shirt."
+      },
+      "choices": [
+        {
+          "img": "pics/t-shirt-red.webp",
+          "alt": "red T-shirt",
+          "ok": false
+        },
+        {
+          "img": "pics/t-shirt-yellow.webp",
+          "alt": "yellow T-shirt",
+          "ok": true
+        },
+        {
+          "img": "pics/t-shirt-blue.webp",
+          "alt": "blue T-shirt",
+          "ok": false
+        }
+      ]
+    },
+    {
+      "id": "k2u2-trace-l",
+      "kind": "trace",
+      "title_ar": "نتتبّع حروف D وM وg",
+      "instr": "ar2-i-trace",
+      "items": [
+        {
+          "glyph": "D",
+          "mp4": "assets/kg2/anim/anim-trace-k2-D-upper.mp4",
+          "poster": "assets/kg2/anim/anim-trace-k2-D-upper-final.png"
+        },
+        {
+          "glyph": "d",
+          "mp4": "assets/kg2/anim/anim-trace-k2-d-lower.mp4",
+          "poster": "assets/kg2/anim/anim-trace-k2-d-lower-final.png"
+        },
+        {
+          "glyph": "M",
+          "mp4": "assets/kg2/anim/anim-trace-k2-M-upper.mp4",
+          "poster": "assets/kg2/anim/anim-trace-k2-M-upper-final.png"
+        },
+        {
+          "glyph": "m",
+          "mp4": "assets/kg2/anim/anim-trace-k2-m-lower.mp4",
+          "poster": "assets/kg2/anim/anim-trace-k2-m-lower-final.png"
+        },
+        {
+          "glyph": "g",
+          "mp4": "assets/kg2/anim/anim-trace-k2-g-lower.mp4",
+          "poster": "assets/kg2/anim/anim-trace-k2-g-lower-final.png"
+        }
+      ],
+      "held_text": "حرف G متاح قريبًا (اتجاه الحركة لسه بيتراجع).",
+      "words": [
+        {
+          "word": "dress",
+          "img": "pics/dress.webp",
+          "ar": "ar-meaning-dress",
+          "en": "en-word-dress",
+          "label_en": "dress"
+        }
+      ]
+    },
+    {
+      "id": "k2u2-count",
+      "kind": "count-trace",
+      "title_ar": "نعدّ ونتتبّع ٣ و٥",
+      "instr": "ar2-i-count",
+      "items": [
+        {
+          "glyph": "3",
+          "mp4": "assets/kg2/anim/anim-trace-k2-n3.mp4",
+          "poster": "assets/kg2/anim/anim-trace-k2-n3-final.png"
+        },
+        {
+          "glyph": "5",
+          "mp4": "assets/kg2/anim/anim-trace-k2-n5.mp4",
+          "poster": "assets/kg2/anim/anim-trace-k2-n5-final.png"
+        }
+      ],
+      "counts": [
+        {
+          "img": "count/count-t-shirt-3.webp",
+          "alt": "3 T-shirts",
+          "n": 3,
+          "en": "en-n-3",
+          "ar": "ar-meaning-three"
+        },
+        {
+          "img": "count/count-shorts-4.webp",
+          "alt": "4 pairs of shorts",
+          "n": 4,
+          "en": "en-n-4",
+          "ar": "ar-meaning-four"
+        },
+        {
+          "img": "count/count-cap-5.webp",
+          "alt": "5 caps",
+          "n": 5,
+          "en": "en-n-5",
+          "ar": "ar-meaning-five"
+        }
+      ],
+      "held_text": "الرقم 4 متاح هنا للعدّ بس، حركة تتبّعه قريبًا."
+    },
+    {
+      "id": "k2u2-song",
+      "kind": "lines",
+      "title_ar": "أغنية الهدوم",
+      "instr": "ar2-i-song",
+      "whole": "en-song",
+      "lines": [
+        {
+          "text": "I wear my cap when I play in the sun,"
+        },
+        {
+          "text": "a T-shirt and shorts, that's so much fun!"
+        },
+        {
+          "text": "pants for when the day is cool,"
+        },
+        {
+          "text": "socks and shoes - now I'm ready for school!"
+        }
+      ]
+    },
+    {
+      "id": "k2u2-values",
+      "kind": "lines",
+      "title_ar": "نتكلم عن هدومنا",
+      "instr": "ar2-i-values",
+      "lines": [
+        {
+          "text": "Take care of your belongings.",
+          "audio": "en-v-care"
+        },
+        {
+          "text": "Be clean and tidy.",
+          "audio": "en-v-tidy"
+        },
+        {
+          "text": "Celebrate differences. It's okay to wear different things.",
+          "audio": "en-v-diff"
+        }
+      ]
+    },
+    {
+      "id": "k2u2-story",
+      "kind": "story",
+      "title_ar": "قصة الهدوم مع دينا ومازن",
+      "help": "بص على كل مشهد. الشرح بالمصري مكتوب الأول، وزر الصوت بيشغّل الجملة بالإنجليزي بس. اسمعوا ومثّلوا سوا مع شخص كبير، من غير تسجيل للصوت أو درجات.",
+      "panels": [
+        {
+          "image": "u2/u2-story-1.webp",
+          "alt": "دينا لابسة فستان ومازن لابس تيشيرت أحمر",
+          "lines": [
+            {
+              "speaker": "Dina",
+              "speaker_ar": "دينا",
+              "text": "Hi, Mazen. I like your red T-shirt.",
+              "meaning_ar": "أهلًا يا مازن. التيشيرت الأحمر بتاعك عاجبني.",
+              "audio": "u2-en-st-1a"
+            },
+            {
+              "speaker": "Mazen",
+              "speaker_ar": "مازن",
+              "text": "Thank you, Dina! I like your dress.",
+              "meaning_ar": "شكرًا يا دينا! الفستان بتاعك عاجبني.",
+              "audio": "u2-en-st-1b"
+            }
+          ]
+        },
+        {
+          "image": "u2/u2-story-2.webp",
+          "alt": "دينا ومازن في محل الهدوم ومعاهم أربع شورتات",
+          "lines": [
+            {
+              "speaker": "Dina",
+              "speaker_ar": "دينا",
+              "text": "Let's buy clothes!",
+              "meaning_ar": "يلا نشتري هدوم!",
+              "audio": "u2-en-st-2a"
+            },
+            {
+              "speaker": "Mazen",
+              "speaker_ar": "مازن",
+              "text": "I want four pairs of shorts.",
+              "meaning_ar": "أنا عايز أربع شورتات.",
+              "audio": "u2-en-st-2b"
+            }
+          ]
+        },
+        {
+          "image": "u2/u2-story-3.webp",
+          "alt": "تلات جيبات وخمس كابات في محل الهدوم",
+          "lines": [
+            {
+              "speaker": "Dina",
+              "speaker_ar": "دينا",
+              "text": "I want three skirts.",
+              "meaning_ar": "أنا عايزة تلات جيبات.",
+              "audio": "u2-en-st-3a"
+            },
+            {
+              "speaker": "Mazen",
+              "speaker_ar": "مازن",
+              "text": "Let's get five caps too!",
+              "meaning_ar": "وناخد خمس كابات كمان!",
+              "audio": "u2-en-st-3b"
+            }
+          ]
+        },
+        {
+          "image": "u2/u2-story-4.webp",
+          "alt": "دينا ومازن شايلين شنط التسوق",
+          "lines": [
+            {
+              "speaker": "Dina",
+              "speaker_ar": "دينا",
+              "text": "Yay! Let's count! One, two, three, four, five!",
+              "meaning_ar": "يا سلام! يلا نعد: واحد، اتنين، تلاتة، أربعة، خمسة!",
+              "audio": "u2-en-st-4a"
+            },
+            {
+              "speaker": "Mazen",
+              "speaker_ar": "مازن",
+              "text": "Yay! Shopping is fun!",
+              "meaning_ar": "يا سلام! التسوق ممتع!",
+              "audio": "u2-en-st-4b"
+            }
+          ]
+        }
+      ],
+      "adaptation_note": "الرسوم تعليمية أصلية، مش صور الكتاب. بداية آخر مشهد في التسجيل Yay بدل Yes في الكتاب.",
+      "instr": "ar-story-act"
+    }
+  ],
+  "held": [
+    "رسمة الألوان للفستان"
+  ]
+}

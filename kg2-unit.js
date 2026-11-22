@@ -1,7 +1,7 @@
 'use strict';
 (()=>{
 const $=s=>document.querySelector(s),content=$('#k2-content'),status=$('#k2-audio-status'),player=new Audio();player.preload='none';
-const V='20261122-preunit1';
+const V='20261122-story1';
 let finishAudio=null;let data,audio={},index=0,traceIndex=0,ticket=0,activeButton=null;
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const asset=p=>'assets/kg2/'+p+'?v='+V;
@@ -14,12 +14,14 @@ const hints=(a,txt)=>`<p class="k2-help">${esc(txt||a.help||'')}</p>${a.instr?`<
 const tapCard=w=>`<button type="button" class="k2-picture" data-seq="${esc(w.ar+' '+w.en)}" aria-label="اسمع: ${esc(w.label_en)}"><img src="${asset(w.img)}" alt="${esc(w.label_en)}" width="400" height="400" loading="lazy"><span lang="en" dir="ltr">${esc(w.label_en)}</span><small>اضغط على الصورة واسمع</small></button>`;
 function fb(msg,ok){return `<p class="k2-fb ${ok?'ok':'no'}" role="status">${msg}</p>`}
 function passage(a){return a.context?`<section class="k2-passage" aria-label="الحوار قبل الأسئلة"><h3>${esc(a.context.title_ar)}</h3>${a.context.lines.map(l=>`<p lang="en" dir="ltr">${l.speaker?`<b>${esc(l.speaker)}:</b> `:''}${esc(l.text)}</p>`).join('')}${listen(a.context.lines.map(l=>l.audio),'اسمع الحوار بالترتيب')}</section>`:'';}
+const storyMarkup=(a,image,escape,lineButton,seqButton)=>`<div class="k2-instructions">${seqButton(a.panels.flatMap(p=>p.lines.map(l=>l.audio)),'اسمع القصة كلها بالترتيب')}</div><div class="k2-story">${a.panels.map((p,i)=>`<section class="k2-story-card" aria-label="المشهد ${i+1}"><h3>المشهد ${i+1}</h3><img src="${image(p.image)}" alt="${escape(p.alt)}" width="600" height="450" loading="lazy">${p.lines.map(l=>`<div class="k2-story-line"><b>${escape(l.speaker_ar)}</b><p class="k2-story-ar">${escape(l.meaning_ar)}</p><p class="k2-story-en" dir="ltr" lang="en">${escape(l.text)}</p>${lineButton(l.audio,'اسمع الجملة بالإنجليزي')}</div>`).join('')}<div class="k2-instructions">${seqButton(p.lines.map(l=>l.audio),'اسمع المشهد بالترتيب')}</div></section>`).join('')}</div><p class="k2-note-held">${escape(a.adaptation_note)}</p>`;
 function render(){
   stop();traceIndex=0;const a=data.activities[index];
   $('#k2-title').textContent=a.title_ar;$('#k2-picker').value=String(index);$('#k2-count').textContent=`${index+1} من ${data.activities.length}`;
   $('#k2-prev').disabled=index===0;$('#k2-next').disabled=index===data.activities.length-1;
   if(location.hash!=='#'+a.id)location.hash=a.id;
   let b='';
+  if(a.kind==='story')b=hints(a)+storyMarkup(a,asset,esc,listen,listen);
   if(a.kind==='tap-words')b=hints(a)+`<div class="k2-pictures">${a.words.map(tapCard).join('')}</div>`;
   if(a.kind==='lines'){b=hints(a,a.help||'اسمعوا كل سطر وردّدوه مع شخص كبير.')+(a.whole?`<div class="k2-instructions">${listen(a.whole,'اسمع الأغنية كاملة')}</div>`:'')+`<div class="k2-values">${a.lines.map(l=>`<article>${l.speaker?`<small class="k2-speaker" lang="en" dir="ltr">${esc(l.speaker)}</small>`:''}<p lang="en" dir="ltr">${esc(l.text)}</p>${l.audio?listen(l.audio,'اسمع الجملة'):''}</article>`).join('')}</div>`+(a.lines.every(l=>l.audio)?`<div class="k2-instructions">${listen(a.lines.map(l=>l.audio),'اسمع كله بالترتيب')}</div>`:'')}
   if(a.kind==='trace'||a.kind==='count-trace'){b=hints(a,'شوف الحركة، وبعدها اتتبّع بإصبعك من نقطة البداية. تدريب حر من غير درجات.');

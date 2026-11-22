@@ -1239,6 +1239,51 @@
       "verified": true,
       "sha256": "8bf27bff4c9e3944f26f1a3a9a41162b0f95a62604bfc6d74d3f6146b8872f8e",
       "review_scope": "Checked whole word or Arabic meaning from the existing KG1 picture audio set."
+    },
+    "ar-story-act": {
+      "src": "assets/kg2/audio/ar-story-act.mp3",
+      "verified": true,
+      "sha256": "0ad206b194df2b9feb16cad38a8bca7db7ea611770f0e8644ebcbb6c2913e66f"
+    },
+    "u2-en-st-1a": {
+      "src": "assets/kg2/u2/u2-en-st-1a.mp3",
+      "verified": true,
+      "sha256": "d5f555551057e111cbeeb818a15ce7d5fe63f90349249407ab7db3a8bca3df46"
+    },
+    "u2-en-st-1b": {
+      "src": "assets/kg2/u2/u2-en-st-1b.mp3",
+      "verified": true,
+      "sha256": "310cd0456abf7e52c6c2250240ae125707830182618b7f0a7288e30bf2942b24"
+    },
+    "u2-en-st-2a": {
+      "src": "assets/kg2/u2/u2-en-st-2a.mp3",
+      "verified": true,
+      "sha256": "2cc680f058dde10df0f6f621fa2820c295243c0abfde0b0032eb1a7918d936ee"
+    },
+    "u2-en-st-2b": {
+      "src": "assets/kg2/u2/u2-en-st-2b.mp3",
+      "verified": true,
+      "sha256": "0bfb3fbc323fb3ff736a9e5d687f159a0489a72ffc30fe4811a0dc3f62d21ce5"
+    },
+    "u2-en-st-3a": {
+      "src": "assets/kg2/u2/u2-en-st-3a.mp3",
+      "verified": true,
+      "sha256": "656ba02cb5fe83d13e747fd14bf5f03b1efc02dcef153c2a7bfcfc0946484978"
+    },
+    "u2-en-st-3b": {
+      "src": "assets/kg2/u2/u2-en-st-3b.mp3",
+      "verified": true,
+      "sha256": "910c4f33baf79a2eebdefc5dd28b2382fadb9e1c2fc9598260fe7c6793afc9db"
+    },
+    "u2-en-st-4a": {
+      "src": "assets/kg2/u2/u2-en-st-4a.mp3",
+      "verified": true,
+      "sha256": "0a2e89b773e52dbb213b6d5b4d9de0b293008f4d227b186b45f554d843e0db2e"
+    },
+    "u2-en-st-4b": {
+      "src": "assets/kg2/u2/u2-en-st-4b.mp3",
+      "verified": true,
+      "sha256": "32ca619c75d10652198d1003d965f8163026cb2bffe12f3f19e3022ededc7b8d"
     }
   }
 }
