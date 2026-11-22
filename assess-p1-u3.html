@@ -97,7 +97,7 @@ button,.button,.chip,.icon-button{border-radius:12px}.island-toggle{border-radiu
 var un='u3';
 var LABELS={choose:'اختر الإجابة الصحيحة',sound:'اختر الصوت الناقص',form:'اكتب التصريف الصحيح',cloze:'أكمل الفراغ',unscramble:'رتّب الحروف واكتب الكلمة',reorder:'رتّب الكلمات وكوّن الجملة',tf:'صح أم غلط',typein:'اكتب الإجابة',mcq:'اختر الإجابة الصحيحة',order:'رتّب من الأكثر للأقل',missing:'اكتب الحرف الناقص'};
 function esc(t){return String(t).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
-function norm(t){return String(t).trim().toLowerCase().replace(/\s+/g,' ').replace(/[.?!،]+$/,'')}
+function norm(t){return String(t).trim().toLowerCase().replace(/[\u2018\u2019]/g,"'").replace(/\s+/g,' ').replace(/[.?!،]+$/,'')}
 var oDone=0,oTotal=0,oScore=0;
 function onFeed(ok){
   oDone++; if(ok)oScore++;
@@ -274,7 +274,7 @@ function mountStation(root,st){
   });
   updateBar();
 }
-fetch('assess-p1.json?v=20261121-assess3',{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
+fetch('assess-p1.json?v=20261122-dedup1',{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
   var u=d.units.find(function(x){return x.id===un});
   if(!u)throw 0;
   buildTeach(u);
