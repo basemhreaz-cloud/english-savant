@@ -1,0 +1,986 @@
+[
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Greetings",
+    "id": "p1-u1-l1-01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 1, pdf p.8-11",
+    "type": "mcq",
+    "prompt": "'Hello' يعني إيه؟",
+    "options": [
+      "أهلاً",
+      "مع السلامة",
+      "شكراً",
+      "اتفضل"
+    ],
+    "answer": "أهلاً",
+    "explanation_ar": "Hello بنقولها لما نقابل حد، يعني أهلاً أو مرحباً.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Greetings",
+    "id": "p1-u1-l1-02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 1, pdf p.8-11",
+    "type": "mcq",
+    "prompt": "'Goodbye' يعني إيه؟",
+    "options": [
+      "مع السلامة",
+      "أهلاً",
+      "صباح الخير",
+      "اقعد"
+    ],
+    "answer": "مع السلامة",
+    "explanation_ar": "Goodbye بنقولها لما نمشي ونسيب حد.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Greetings",
+    "id": "p1-u1-l1-hs01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 1, pdf p.9-11 (CC0 handshake image, license record P1_U1_handshake_license)",
+    "type": "mcq",
+    "prompt": "What are they doing?",
+    "passage": null,
+    "options": [
+      "They shake hands.",
+      "They sit down.",
+      "They stand up.",
+      "They open the book."
+    ],
+    "answer": "They shake hands.",
+    "answer_kind": "closed",
+    "explanation_ar": "الإيدين ماسكة في بعض: بنسلّم باليد، shake hands.",
+    "image": "p1-lessons-assets/img/handshake.png",
+    "alt": "two hands clasped in a handshake",
+    "requires_image": true,
+    "image_optional": null
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Greetings",
+    "id": "p1-u1-l1-hs02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 1, pdf p.9-11 (CC0 handshake image, license record P1_U1_handshake_license)",
+    "type": "mcq",
+    "prompt": "Which words match the picture?",
+    "passage": null,
+    "options": [
+      "shake hands",
+      "sit down",
+      "stand up",
+      "goodbye"
+    ],
+    "answer": "shake hands",
+    "answer_kind": "closed",
+    "explanation_ar": "الصورة بتبيّن تسليم باليد: shake hands.",
+    "image": "p1-lessons-assets/img/handshake.png",
+    "alt": "two hands clasped in a handshake",
+    "requires_image": true,
+    "image_optional": null
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Greetings",
+    "id": "p1-u1-l1-08",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 1, pdf p.8-11",
+    "type": "mcq",
+    "prompt": "إزاي تقول 'اسمك إيه؟' بالإنجليزي؟",
+    "options": [
+      "What's your name?",
+      "My name is Maya.",
+      "Hello!",
+      "Goodbye!"
+    ],
+    "answer": "What's your name?",
+    "explanation_ar": "What's your name? سؤال. My name is... ده الرد.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Greetings",
+    "id": "p1-u1-l1-09",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 1, pdf p.8-11",
+    "type": "mcq",
+    "prompt": "You meet a friend. You say ...",
+    "options": [
+      "Hello!",
+      "Goodbye!",
+      "Sit down.",
+      "Open your book."
+    ],
+    "answer": "Hello!",
+    "explanation_ar": "لما بنقابل حد بنبدأ بـ Hello.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Greetings",
+    "id": "p1-u1-l1-23",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 1, pdf p.8-11",
+    "type": "tf",
+    "prompt": "Nour and Omar shake hands.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "في المحادثة Omar سأل Do you want to shake hands؟ وNour قالت Yes وسلّموا على بعض.",
+    "passage": "Nour: Hello!\nOmar: Hello! What's your name?\nNour: My name is Nour.\nOmar: Nice to meet you, Nour! Do you want to shake hands?\nNour: Yes! (They shake hands.) Goodbye, Omar!\nOmar: Goodbye, Nour!",
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Greetings",
+    "id": "p1-u1-l1-21",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 1, pdf p.8-11",
+    "type": "tf",
+    "prompt": "Nour says 'Hello' first.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "في أول المحادثة Nour بتقول Hello.",
+    "passage": "Nour: Hello!\nOmar: Hello! What's your name?\nNour: My name is Nour.\nOmar: Nice to meet you, Nour! Do you want to shake hands?\nNour: Yes! (They shake hands.) Goodbye, Omar!\nOmar: Goodbye, Nour!",
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Greetings",
+    "id": "p1-u1-l1-10",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 1, pdf p.8-11",
+    "type": "mcq",
+    "prompt": "You go home. You say ...",
+    "options": [
+      "Goodbye!",
+      "Hello!",
+      "What's your name?",
+      "Nice to meet you!"
+    ],
+    "answer": "Goodbye!",
+    "explanation_ar": "لما بنمشي بنقول Goodbye.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Greetings",
+    "id": "p1-u1-l1-27",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 1, pdf p.8-11",
+    "type": "typein",
+    "prompt": "Write the missing letter: H _ llo\nالكلمة معناها: أهلاً (تحية)",
+    "options": null,
+    "answer": "e",
+    "accept": [
+      "e",
+      "E"
+    ],
+    "explanation_ar": "الكلمة Hello. الحرف الناقص e.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": false,
+    "hint_ar": "أهلاً (تحية)"
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Greetings",
+    "id": "p1-u1-l1-30",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 1, pdf p.8-11",
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write in each blank.",
+    "dialogue": [
+      {
+        "speaker": "Maya",
+        "text": "Hello!"
+      },
+      {
+        "speaker": "Hana",
+        "text": "{1}! What's your name?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "My {2} is Maya."
+      },
+      {
+        "speaker": "Hana",
+        "text": "I'm Hana! Nice to meet {3}, Maya!"
+      },
+      {
+        "speaker": "Maya",
+        "text": "Nice to meet you, too, Hana! Do you want to {4} hands?"
+      },
+      {
+        "speaker": "Hana",
+        "text": "Yes!"
+      },
+      {
+        "speaker": "Maya",
+        "text": "{5}, Hana!"
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "Hello",
+          "Hi"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "name"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "you"
+        ]
+      },
+      {
+        "n": 4,
+        "accept": [
+          "shake"
+        ]
+      },
+      {
+        "n": 5,
+        "accept": [
+          "Goodbye",
+          "Bye"
+        ]
+      }
+    ],
+    "options": null,
+    "answer": null,
+    "explanation_ar": "المحادثة كلها سؤال واحد وكل فراغ ليه خانة. 1: Hello. 2: My name. 3: meet you. 4: shake hands. 5: Goodbye عشان نمشي.",
+    "passage": null,
+    "answer_kind": "blanks_text",
+    "image_optional": null,
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Phonics (Tt)",
+    "id": "p1-u1-l2-obj02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 2, pdf p.12-16 (original image item)",
+    "type": "mcq",
+    "prompt": "What letter does this word start with?",
+    "passage": null,
+    "options": [
+      "d",
+      "u",
+      "p",
+      "t"
+    ],
+    "answer": "t",
+    "answer_kind": "closed",
+    "explanation_ar": "tomato بتبدأ بحرف t.",
+    "image": "p1-lessons-assets/img/obj-tomato.png",
+    "alt": "a picture of a tomato",
+    "requires_image": true,
+    "image_optional": null
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Phonics (Tt)",
+    "id": "p1-u1-l2-obj01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 2, pdf p.12-16 (original image item)",
+    "type": "mcq",
+    "prompt": "What is this?",
+    "passage": null,
+    "options": [
+      "leaf",
+      "egg",
+      "tomato",
+      "mango"
+    ],
+    "answer": "tomato",
+    "answer_kind": "closed",
+    "explanation_ar": "الصورة دي طماطم. الكلمة بالإنجليزي tomato.",
+    "image": "p1-lessons-assets/img/obj-tomato.png",
+    "alt": "a picture of a tomato",
+    "requires_image": true,
+    "image_optional": null
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Phonics (Tt)",
+    "id": "p1-u1-l2-18",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 2, pdf p.12-16",
+    "type": "mcq",
+    "prompt": "'tiger' يعني إيه؟",
+    "options": [
+      "نمر",
+      "شجرة",
+      "ترابيزة",
+      "طماطم"
+    ],
+    "answer": "نمر",
+    "explanation_ar": "tiger حيوان النمر.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "tiger"
+    ],
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Phonics (Tt)",
+    "id": "p1-u1-l2-25",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 2, pdf p.12-16",
+    "type": "tf",
+    "prompt": "'tree' starts with t.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "tree: t-r-e-e.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "tree"
+    ],
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Phonics (Tt)",
+    "id": "p1-u1-l2-29",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 2, pdf p.12-16",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to make a word.",
+    "options": null,
+    "answer": "table",
+    "explanation_ar": "رتّب الحروف: t-a-b-l-e تعمل table.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "letters": [
+      "e",
+      "l",
+      "b",
+      "t",
+      "a"
+    ],
+    "accept": [
+      "table"
+    ],
+    "image_optional": null,
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/obj-table.png",
+    "alt": "a table"
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Phonics (Tt)",
+    "id": "p1-u1-l2-26",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 2, pdf p.12-16",
+    "type": "typein",
+    "prompt": "Write the first letter: _ iger\nالكلمة معناها: نمر",
+    "options": null,
+    "answer": "t",
+    "accept": [
+      "t",
+      "T"
+    ],
+    "explanation_ar": "الحرف الأول من tiger هو t.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "hint_ar": "نمر",
+    "image": "p1-lessons-assets/img/tiger.png",
+    "alt": "a tiger"
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Phonics (Tt)",
+    "id": "p1-u1-l2-14",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 2, pdf p.12-16",
+    "type": "mcq",
+    "prompt": "Which word does NOT start with t?",
+    "options": [
+      "sun",
+      "tiger",
+      "table",
+      "teacher"
+    ],
+    "answer": "sun",
+    "explanation_ar": "sun بتبدأ بحرف s مش t.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Around My Classroom",
+    "id": "p1-u1-l3-01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 3, pdf p.17-20",
+    "type": "mcq",
+    "prompt": "'book' يعني إيه؟",
+    "options": [
+      "كتاب",
+      "شنطة",
+      "قلم",
+      "كرسي"
+    ],
+    "answer": "كتاب",
+    "explanation_ar": "book كتاب.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "book"
+    ],
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Around My Classroom",
+    "id": "p1-u1-l3-02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 3, pdf p.17-20",
+    "type": "mcq",
+    "prompt": "'bag' يعني إيه؟",
+    "options": [
+      "شنطة",
+      "كتاب",
+      "مكتب",
+      "سبورة"
+    ],
+    "answer": "شنطة",
+    "explanation_ar": "bag شنطة المدرسة.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "bag"
+    ],
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Around My Classroom",
+    "id": "p1-u1-l3-img01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 3, pdf p.17-20 (original image item)",
+    "type": "mcq",
+    "prompt": "What is this?",
+    "passage": null,
+    "options": [
+      "pencil",
+      "book",
+      "chair",
+      "bag"
+    ],
+    "answer": "pencil",
+    "answer_kind": "closed",
+    "explanation_ar": "الصورة دي قلم رصاص. الكلمة بالإنجليزي pencil.",
+    "image": "p1-lessons-assets/img/pencil.png",
+    "alt": "a yellow pencil",
+    "requires_image": true,
+    "image_optional": null
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Around My Classroom",
+    "id": "p1-u1-l3-img04",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 3, pdf p.17-20 (original image item)",
+    "type": "mcq",
+    "prompt": "What is this?",
+    "passage": null,
+    "options": [
+      "board",
+      "chair",
+      "desk",
+      "bag"
+    ],
+    "answer": "chair",
+    "answer_kind": "closed",
+    "explanation_ar": "الصورة دي كرسي. الكلمة بالإنجليزي chair.",
+    "image": "p1-lessons-assets/img/chair.png",
+    "alt": "a wooden chair",
+    "requires_image": true,
+    "image_optional": null
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Around My Classroom",
+    "id": "p1-u1-l3-14",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 3, pdf p.17-20",
+    "type": "mcq",
+    "prompt": "The teacher writes on the ...",
+    "options": [
+      "board",
+      "bag",
+      "pencil",
+      "chair"
+    ],
+    "answer": "board",
+    "explanation_ar": "المدرس بيكتب على السبورة.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "teacher"
+    ],
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Around My Classroom",
+    "id": "p1-u1-l3-16",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 3, pdf p.17-20",
+    "type": "mcq",
+    "prompt": "The teacher says 'Stand up.' You ...",
+    "options": [
+      "stand",
+      "sit",
+      "sleep",
+      "write"
+    ],
+    "answer": "stand",
+    "explanation_ar": "stand up يعني تقف.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "teacher"
+    ],
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Around My Classroom",
+    "id": "p1-u1-l3-22",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 3, pdf p.17-20",
+    "type": "tf",
+    "prompt": "A teacher is in the classroom.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "المدرس موجود في الفصل.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "teacher"
+    ],
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Around My Classroom",
+    "id": "p1-u1-l3-23",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 3, pdf p.17-20",
+    "type": "tf",
+    "prompt": "A bag is for writing.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "الكتابة بالقلم. الشنطة لحمل الكتب.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "bag"
+    ],
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Around My Classroom",
+    "id": "p1-u1-l3-25",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 3, pdf p.17-20",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "Stand up.",
+    "explanation_ar": "الأمر بيبدأ بـ Stand ثم up.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "words": [
+      "up",
+      "Stand",
+      "."
+    ],
+    "answer_tokens": [
+      "Stand",
+      "up",
+      "."
+    ],
+    "accept": [
+      "Stand up."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "image_optional": null,
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/stand.png",
+    "alt": "a child standing up"
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Around My Classroom",
+    "id": "p1-u1-l3-28",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 3, pdf p.17-20",
+    "type": "typein",
+    "prompt": "Write the missing letter: bo _ k\nالكلمة معناها: كتاب",
+    "options": null,
+    "answer": "o",
+    "accept": [
+      "o",
+      "O"
+    ],
+    "explanation_ar": "الكلمة book: b-o-o-k.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "hint_ar": "كتاب",
+    "image": "p1-lessons-assets/img/book.png",
+    "alt": "a book"
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Around My Classroom",
+    "id": "p1-u1-l3-30",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 3, pdf p.17-20",
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write in each blank.",
+    "dialogue": [
+      {
+        "speaker": "Teacher",
+        "text": "Hello, class! {1} up."
+      },
+      {
+        "speaker": "Class",
+        "text": "Hello, teacher!"
+      },
+      {
+        "speaker": "Teacher",
+        "text": "{2} down, please."
+      },
+      {
+        "speaker": "Teacher",
+        "text": "Open your {3}."
+      },
+      {
+        "speaker": "Student",
+        "text": "Yes, {4}."
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "Stand"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "Sit"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "book",
+          "books"
+        ]
+      },
+      {
+        "n": 4,
+        "accept": [
+          "teacher"
+        ]
+      }
+    ],
+    "options": null,
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: Stand up (قف). 2: Sit down (اقعد). 3: Open your book. 4: ننادي على المدرس بـ teacher.",
+    "passage": null,
+    "answer_kind": "blanks_text",
+    "image_optional": null,
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Phonics (Ii)",
+    "id": "p1-u1-l4-obj02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 4, pdf p.21-24 (reused approved original art)",
+    "type": "mcq",
+    "prompt": "What letter does this word start with?",
+    "passage": null,
+    "options": [
+      "l",
+      "j",
+      "k",
+      "i"
+    ],
+    "answer": "i",
+    "answer_kind": "closed",
+    "explanation_ar": "ink بتبدأ بحرف i.",
+    "image": "p1-lessons-assets/img/kg-ink.png",
+    "alt": "a picture of a ink",
+    "requires_image": true,
+    "image_optional": null
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Phonics (Ii)",
+    "id": "p1-u1-l4-obj01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 4, pdf p.21-24 (reused approved original art)",
+    "type": "mcq",
+    "prompt": "What is this?",
+    "passage": null,
+    "options": [
+      "drum",
+      "grass",
+      "ink",
+      "leaf"
+    ],
+    "answer": "ink",
+    "answer_kind": "closed",
+    "explanation_ar": "الصورة دي حبر. الكلمة بالإنجليزي ink.",
+    "image": "p1-lessons-assets/img/kg-ink.png",
+    "alt": "a picture of a ink",
+    "requires_image": true,
+    "image_optional": null
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Phonics (Ii)",
+    "id": "p1-u1-l4-20",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 4, pdf p.21-24",
+    "type": "mcq",
+    "prompt": "'insect' يعني إيه؟",
+    "options": [
+      "حشرة",
+      "نمر",
+      "طماطم",
+      "كرسي"
+    ],
+    "answer": "حشرة",
+    "explanation_ar": "insect حشرة زي النملة.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "insect"
+    ],
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Phonics (Ii)",
+    "id": "p1-u1-l4-23",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 4, pdf p.21-24",
+    "type": "tf",
+    "prompt": "'ink' starts with i.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "ink: i-n-k.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "ink"
+    ],
+    "requires_image": false
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Phonics (Ii)",
+    "id": "p1-u1-l4-31",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 4, pdf p.21-24",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to make a word.",
+    "options": null,
+    "answer": "ill",
+    "explanation_ar": "رتّب الحروف: i-l-l.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "letters": [
+      "l",
+      "i",
+      "l"
+    ],
+    "accept": [
+      "ill"
+    ],
+    "image_optional": null,
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/ill.png",
+    "alt": "a child who is ill"
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Phonics (Ii)",
+    "id": "p1-u1-l4-27",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 4, pdf p.21-24",
+    "type": "typein",
+    "prompt": "Write the first letter: _ nk\nالكلمة معناها: حبر",
+    "options": null,
+    "answer": "i",
+    "accept": [
+      "i",
+      "I"
+    ],
+    "explanation_ar": "الحرف الأول من ink هو i.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "hint_ar": "حبر",
+    "image": "p1-lessons-assets/img/kg-ink.png",
+    "alt": "a bottle of ink"
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Phonics (Ii)",
+    "id": "p1-u1-l4-13",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 1 Lesson 4, pdf p.21-24",
+    "type": "mcq",
+    "prompt": "Which word does NOT start with i?",
+    "options": [
+      "tiger",
+      "ink",
+      "ill",
+      "insect"
+    ],
+    "answer": "tiger",
+    "explanation_ar": "tiger بتبدأ بحرف t.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false
+  }
+]
