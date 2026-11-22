@@ -1,0 +1,181 @@
+{
+  "version": "20261122-u1practice1",
+  "audio": {
+    "ar-m-jump": {
+      "src": "assets/kg2/audio/ar-m-jump.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "22678a2956c5f2945299295f1acc925ce32c827fcc43dfa7d7a8243e245acd8e",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "en-u1-word-jump": {
+      "src": "assets/kg2/u1/en-word-jump.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "2c0810203b6424a24a658fb61e75e54abfffdc504bc5ac8e043cccd4c9875832",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "ar-m-run": {
+      "src": "assets/kg2/audio/ar-m-run.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "9ce39afdb009f087941a0eef3cf6f9d13b740f56178e945be976084bf76f49f2",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "en-u1-word-run": {
+      "src": "assets/kg2/u1/en-word-run.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "45a22e215445052e736acb81dccd0d0c147cc5601fbada2774ace7a86a89eb2c",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "ar-m-skip": {
+      "src": "assets/kg2/audio/ar-m-skip.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "62102acaa5ec249e0291ad0cf1ab0c6cf8b240f548d0a57aedb34f6870e38dd7",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "en-u1-word-skip": {
+      "src": "assets/kg2/u1/en-word-skip.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "8bdcb5b756e32e90975ec3718a0759ef245f42169e81b4c956d2e6ece38c226b",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "ar-m-throw": {
+      "src": "assets/kg2/audio/ar-m-throw.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "d19049e3e47cd051cadaaab7998737a78f522d20e09fcf5d5aa7a350d85cda5a",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "en-u1-word-throw": {
+      "src": "assets/kg2/u1/en-word-throw.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "f61dd5377a0d6ae8fe47dd0a57057b01fec67623e913418857f6d9dde9a2f8e7",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "ar-m-catch": {
+      "src": "assets/kg2/audio/ar-m-catch.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "065a319fd27ce8ceb273da952273c2c2242b57ea34f7694843403418c9e64142",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "en-u1-word-catch": {
+      "src": "assets/kg2/u1/en-word-catch.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "df21ad266eb6203dc529727c5011afd12a0d41d34f174b93bb20e5108fa3026a",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "ar-m-kick": {
+      "src": "assets/kg1/letter-audio/lw-ar-kick.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "f0c4f4f000431296fa79485f89d065e083209c9adc820d3e6617ef0a931628ff",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "en-u1-word-kick": {
+      "src": "assets/kg1/letter-audio/lw-en-kick.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "10178f7ddfc92cd1849d0b776531a2d41613a360df9b8bfd345b66f10dbd0045",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "ar-m-kite": {
+      "src": "assets/kg1/letter-audio/lw-ar-kite.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "5053089bdffe2b8a7976d21a08f86d9ebdf82df2565c9b10d2ece55842ba148c",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "en-u1-word-kite": {
+      "src": "assets/kg1/letter-audio/lw-en-kite.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "8474177c87981f1dcf46d49a8478eae5f2b05991d509fd867f15434b7bd3c4ce",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "k1-ar-w-juice": {
+      "src": "assets/kg1/picture-audio/picture-ar-w-juice.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "ad0827f398c06acd7eca285627dd4556ae22133fb2351408b27c7f601c4cbc26",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    },
+    "k1-en-w-juice": {
+      "src": "assets/kg1/picture-audio/picture-en-w-juice.mp3",
+      "verified": false,
+      "ready_for_picture_pair": true,
+      "flags": [],
+      "sha256": "7069d7cb3300c960387ae31ae1db59781936e0cc435a847de984d1907490f790",
+      "check": {
+        "source_commit": "4b9ac093c2a1941952244f5752253b39da998b69",
+        "method": "Published checked whole-word pair. Contextual transcript, decoded signal and browser evidence; not human listening or phonetic certification."
+      }
+    }
+  }
+}

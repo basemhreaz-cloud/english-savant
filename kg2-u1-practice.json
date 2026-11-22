@@ -1,0 +1,546 @@
+{
+  "version": "20261122-u1practice1",
+  "options": {
+    "holdFlagged": true
+  },
+  "unit": {
+    "id": "kg2-t1-u1p",
+    "title_en": "Unit 1 practice games",
+    "title_ar": "ألعاب الوحدة الأولى",
+    "eyebrow": "KG2 · الفصل الأول · الوحدة الأولى · تدريب أصلي"
+  },
+  "activities": [
+    {
+      "id": "k2u1p-recognise",
+      "kind": "listen-choose",
+      "title_ar": "اسمع واختار الحركة",
+      "help": "اضغط على السماعة. لما الكلمة تخلص، اختار صورة الحركة. تقدر تسمعها تاني وتجرب براحتك.",
+      "prompt_ar": "اسمع الكلمة واختار الحركة.",
+      "rounds": [
+        {
+          "target": {
+            "word": "jump",
+            "img": "u1p/act-jump.webp",
+            "ar": "ar-m-jump",
+            "en": "en-u1-word-jump",
+            "label_en": "jump"
+          },
+          "choices": [
+            {
+              "word": "jump",
+              "img": "u1p/act-jump.webp",
+              "ar": "ar-m-jump",
+              "en": "en-u1-word-jump",
+              "label_en": "jump"
+            },
+            {
+              "word": "run",
+              "img": "u1p/act-run.webp",
+              "ar": "ar-m-run",
+              "en": "en-u1-word-run",
+              "label_en": "run"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "run",
+            "img": "u1p/act-run.webp",
+            "ar": "ar-m-run",
+            "en": "en-u1-word-run",
+            "label_en": "run"
+          },
+          "choices": [
+            {
+              "word": "run",
+              "img": "u1p/act-run.webp",
+              "ar": "ar-m-run",
+              "en": "en-u1-word-run",
+              "label_en": "run"
+            },
+            {
+              "word": "kick",
+              "img": "u1p/act-kick.webp",
+              "ar": "ar-m-kick",
+              "en": "en-u1-word-kick",
+              "label_en": "kick"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "skip",
+            "img": "u1p/act-skip.webp",
+            "ar": "ar-m-skip",
+            "en": "en-u1-word-skip",
+            "label_en": "skip"
+          },
+          "choices": [
+            {
+              "word": "kick",
+              "img": "u1p/act-kick.webp",
+              "ar": "ar-m-kick",
+              "en": "en-u1-word-kick",
+              "label_en": "kick"
+            },
+            {
+              "word": "skip",
+              "img": "u1p/act-skip.webp",
+              "ar": "ar-m-skip",
+              "en": "en-u1-word-skip",
+              "label_en": "skip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k2u1p-match",
+      "kind": "match-pairs",
+      "title_ar": "وصّل الحركة بنفس الحركة",
+      "help": "المس حركة من اليمين، وبعدها نفس الحركة من الشمال.",
+      "left": [
+        {
+          "word": "throw",
+          "img": "u1p/act-throw.webp",
+          "ar": "ar-m-throw",
+          "en": "en-u1-word-throw",
+          "label_en": "throw"
+        },
+        {
+          "word": "run",
+          "img": "u1p/act-run.webp",
+          "ar": "ar-m-run",
+          "en": "en-u1-word-run",
+          "label_en": "run"
+        },
+        {
+          "word": "kick",
+          "img": "u1p/act-kick.webp",
+          "ar": "ar-m-kick",
+          "en": "en-u1-word-kick",
+          "label_en": "kick"
+        }
+      ],
+      "right": [
+        {
+          "word": "run",
+          "img": "u1p/act-run.webp",
+          "ar": "ar-m-run",
+          "en": "en-u1-word-run",
+          "label_en": "run"
+        },
+        {
+          "word": "kick",
+          "img": "u1p/act-kick.webp",
+          "ar": "ar-m-kick",
+          "en": "en-u1-word-kick",
+          "label_en": "kick"
+        },
+        {
+          "word": "throw",
+          "img": "u1p/act-throw.webp",
+          "ar": "ar-m-throw",
+          "en": "en-u1-word-throw",
+          "label_en": "throw"
+        }
+      ]
+    },
+    {
+      "id": "k2u1p-can",
+      "kind": "open-choice",
+      "title_ar": "أنا أقدر…",
+      "help": "اختار حركة تقدر تعملها، وقول I can ... مع شخص كبير. تقدر ترسمها على ورقة بدل الحركة. اختار مكان آمن وفاضي لو هتتحرك.",
+      "frame": "I can",
+      "choices": [
+        {
+          "word": "jump",
+          "img": "u1p/act-jump.webp",
+          "ar": "ar-m-jump",
+          "en": "en-u1-word-jump",
+          "label_en": "jump"
+        },
+        {
+          "word": "run",
+          "img": "u1p/act-run.webp",
+          "ar": "ar-m-run",
+          "en": "en-u1-word-run",
+          "label_en": "run"
+        },
+        {
+          "word": "catch",
+          "img": "u1p/act-catch.webp",
+          "ar": "ar-m-catch",
+          "en": "en-u1-word-catch",
+          "label_en": "catch"
+        },
+        {
+          "word": "skip",
+          "img": "u1p/act-skip.webp",
+          "ar": "ar-m-skip",
+          "en": "en-u1-word-skip",
+          "label_en": "skip"
+        },
+        {
+          "word": "throw",
+          "img": "u1p/act-throw.webp",
+          "ar": "ar-m-throw",
+          "en": "en-u1-word-throw",
+          "label_en": "throw"
+        },
+        {
+          "word": "kick",
+          "img": "u1p/act-kick.webp",
+          "ar": "ar-m-kick",
+          "en": "en-u1-word-kick",
+          "label_en": "kick"
+        }
+      ]
+    },
+    {
+      "id": "k2u1p-j",
+      "kind": "find-initial",
+      "title_ar": "لاقي كلمات Jj",
+      "help": "المس الصورة واسمع الكلمة، وبعدها اختار الصور اللي كلماتها بتبدأ بحرف J.",
+      "letter": "Jj",
+      "choices": [
+        {
+          "word": "juice",
+          "img": "u1p/juice.webp",
+          "ar": "k1-ar-w-juice",
+          "en": "k1-en-w-juice",
+          "label_en": "juice"
+        },
+        {
+          "word": "kick",
+          "img": "u1p/act-kick.webp",
+          "ar": "ar-m-kick",
+          "en": "en-u1-word-kick",
+          "label_en": "kick"
+        },
+        {
+          "word": "jump",
+          "img": "u1p/act-jump.webp",
+          "ar": "ar-m-jump",
+          "en": "en-u1-word-jump",
+          "label_en": "jump"
+        },
+        {
+          "word": "kite",
+          "img": "u1p/kite.webp",
+          "ar": "ar-m-kite",
+          "en": "en-u1-word-kite",
+          "label_en": "kite"
+        }
+      ],
+      "answers": [
+        "juice",
+        "jump"
+      ]
+    },
+    {
+      "id": "k2u1p-jk",
+      "kind": "bucket",
+      "title_ar": "نختار أول حرف",
+      "help": "اسمع الكلمة، وبعدين اختار أول حرف ليها من الزرين.",
+      "buckets": [
+        "Jj",
+        "Kk"
+      ],
+      "items": [
+        {
+          "word": "jump",
+          "img": "u1p/act-jump.webp",
+          "ar": "ar-m-jump",
+          "en": "en-u1-word-jump",
+          "label_en": "jump",
+          "ok": "Jj"
+        },
+        {
+          "word": "juice",
+          "img": "u1p/juice.webp",
+          "ar": "k1-ar-w-juice",
+          "en": "k1-en-w-juice",
+          "label_en": "juice",
+          "ok": "Jj"
+        },
+        {
+          "word": "kite",
+          "img": "u1p/kite.webp",
+          "ar": "ar-m-kite",
+          "en": "en-u1-word-kite",
+          "label_en": "kite",
+          "ok": "Kk"
+        },
+        {
+          "word": "kick",
+          "img": "u1p/act-kick.webp",
+          "ar": "ar-m-kick",
+          "en": "en-u1-word-kick",
+          "label_en": "kick",
+          "ok": "Kk"
+        }
+      ]
+    },
+    {
+      "id": "k2u1p-count",
+      "kind": "count-choose",
+      "title_ar": "عدّ واختار 1 ولا 2",
+      "help": "عدّ الحاجة المطلوبة بإصبعك، وبعدين اختار 1 ولا 2.",
+      "choices": [
+        1,
+        2
+      ],
+      "rounds": [
+        {
+          "img": "u1p/house.webp",
+          "alt": "بيت",
+          "repeat": 1,
+          "ok": 1
+        },
+        {
+          "img": "u1p/apple.webp",
+          "alt": "تفاحة",
+          "repeat": 2,
+          "ok": 2
+        },
+        {
+          "img": "u1p/sun.webp",
+          "alt": "شمس",
+          "repeat": 1,
+          "ok": 1
+        },
+        {
+          "img": "u1p/bus.webp",
+          "alt": "باص",
+          "repeat": 1,
+          "ok": 1
+        },
+        {
+          "img": "u1p/tree.webp",
+          "alt": "شجرة",
+          "repeat": 2,
+          "ok": 2
+        }
+      ]
+    },
+    {
+      "id": "k2u1p-children",
+      "kind": "count-choose",
+      "title_ar": "عدّ الأطفال",
+      "help": "عدّ الأطفال اللي في الصورة، وبعدين اختار 1 ولا 2.",
+      "choices": [
+        1,
+        2
+      ],
+      "rounds": [
+        {
+          "imgs": [
+            "u1p/boy.webp",
+            "u1p/boy.webp"
+          ],
+          "alt": "ولدين",
+          "ok": 2
+        },
+        {
+          "imgs": [
+            "u1p/girl.webp"
+          ],
+          "alt": "بنت",
+          "ok": 1
+        },
+        {
+          "imgs": [
+            "u1p/girl.webp",
+            "u1p/boy.webp"
+          ],
+          "alt": "بنت وولد",
+          "ok": 2
+        },
+        {
+          "imgs": [
+            "u1p/boy.webp"
+          ],
+          "alt": "ولد",
+          "ok": 1
+        }
+      ]
+    },
+    {
+      "id": "k2u1p-kind",
+      "kind": "reflect",
+      "title_ar": "نلعب بلطف وأمان",
+      "help": "نحكي مع شخص كبير عن اللعب بلطف وأمان. اختار اللي يعبّر عنك، مفيش إجابة صح أو غلط.",
+      "prompts": [
+        "استنيت دورك؟",
+        "لعبت بأمان؟",
+        "قلت كلام لطيف؟"
+      ]
+    },
+    {
+      "id": "k2u1p-story",
+      "kind": "choose-story",
+      "title_ar": "نفتكر الحكاية",
+      "help": "بص على المشهد واقرأوا الحكاية اللي تحته مع بعض. بعدها اختاروا الإجابة.",
+      "rounds": [
+        {
+          "q_ar": "مين بتقول إنها تقدر تنط؟",
+          "choices": [
+            "Karma",
+            "Jad"
+          ],
+          "ok": "Karma",
+          "img": "u1p/story-1.webp",
+          "lines": [
+            {
+              "speaker": "Karma",
+              "speaker_ar": "كرمة",
+              "text": "Look, I can jump.",
+              "meaning_ar": "بص، أنا أقدر أنط.",
+              "audio": "en-st-1a"
+            },
+            {
+              "speaker": "Jad",
+              "speaker_ar": "جاد",
+              "text": "Wow! I can run.",
+              "meaning_ar": "واو! أنا أقدر أجري.",
+              "audio": "en-st-1b"
+            }
+          ],
+          "alt": "كرمة بتنط وجاد بيجري"
+        },
+        {
+          "q_ar": "مين بتشوط الكورة؟",
+          "choices": [
+            "Karma",
+            "Jad"
+          ],
+          "ok": "Karma",
+          "img": "u1p/story-3.webp",
+          "lines": [
+            {
+              "speaker": "Karma",
+              "speaker_ar": "كرمة",
+              "text": "Look! I can kick the ball.",
+              "meaning_ar": "بص! أنا أقدر أشوط الكورة.",
+              "audio": "en-st-3a"
+            },
+            {
+              "speaker": "Jad",
+              "speaker_ar": "جاد",
+              "text": "Nice! I can throw the ball.",
+              "meaning_ar": "حلو! أنا أقدر أرمي الكورة.",
+              "audio": "en-st-3b"
+            }
+          ],
+          "alt": "كرمة بتشوط الكورة وجاد بيرمي الكورة"
+        },
+        {
+          "q_ar": "جاد بيحب اللعب؟",
+          "choices": [
+            "أيوه",
+            "لأ"
+          ],
+          "ok": "أيوه",
+          "img": "u1p/story-5.webp",
+          "lines": [
+            {
+              "speaker": "Karma",
+              "speaker_ar": "كرمة",
+              "text": "Yay! I play with my friends!",
+              "meaning_ar": "يا سلام! أنا بلعب مع صحابي!",
+              "audio": "en-st-5a"
+            },
+            {
+              "speaker": "Jad",
+              "speaker_ar": "جاد",
+              "text": "Me too! I love to play!",
+              "meaning_ar": "وأنا كمان! أنا بحب ألعب!",
+              "audio": "en-st-5b"
+            }
+          ],
+          "alt": "كرمة وجاد بيلعبوا سوا"
+        }
+      ]
+    },
+    {
+      "id": "k2u1p-review",
+      "kind": "review-mix",
+      "title_ar": "مراجعة ممتعة",
+      "help": "نجرب حرف، وحركة من اختيارك، ورقم ولون. من غير درجات.",
+      "letters": {
+        "buckets": [
+          "Jj",
+          "Kk"
+        ],
+        "items": [
+          {
+            "word": "kick",
+            "img": "u1p/act-kick.webp",
+            "ar": "ar-m-kick",
+            "en": "en-u1-word-kick",
+            "label_en": "kick",
+            "ok": "Kk"
+          },
+          {
+            "word": "jump",
+            "img": "u1p/act-jump.webp",
+            "ar": "ar-m-jump",
+            "en": "en-u1-word-jump",
+            "label_en": "jump",
+            "ok": "Jj"
+          }
+        ]
+      },
+      "personal": [
+        {
+          "word": "run",
+          "img": "u1p/act-run.webp",
+          "ar": "ar-m-run",
+          "en": "en-u1-word-run",
+          "label_en": "run"
+        },
+        {
+          "word": "kick",
+          "img": "u1p/act-kick.webp",
+          "ar": "ar-m-kick",
+          "en": "en-u1-word-kick",
+          "label_en": "kick"
+        },
+        {
+          "word": "jump",
+          "img": "u1p/act-jump.webp",
+          "ar": "ar-m-jump",
+          "en": "en-u1-word-jump",
+          "label_en": "jump"
+        },
+        {
+          "word": "skip",
+          "img": "u1p/act-skip.webp",
+          "ar": "ar-m-skip",
+          "en": "en-u1-word-skip",
+          "label_en": "skip"
+        },
+        {
+          "word": "throw",
+          "img": "u1p/act-throw.webp",
+          "ar": "ar-m-throw",
+          "en": "en-u1-word-throw",
+          "label_en": "throw"
+        }
+      ],
+      "tiles": [
+        1,
+        2,
+        2,
+        1
+      ],
+      "colours": {
+        "1": "red",
+        "2": "blue"
+      }
+    }
+  ],
+  "held": [],
+  "audio": []
+}
