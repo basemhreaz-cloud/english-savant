@@ -1,0 +1,63 @@
+name: Publish checked KG1 final additions and KG2 U4 practice
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: english-savant-verified-bank-batch
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Download exact private checked transfer
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api repos/$GITHUB_REPOSITORY/releases > /tmp/releases.json
+          python3 - <<'PY'
+          import json,pathlib
+          rows=[r for r in json.load(open('/tmp/releases.json')) if r['draft'] and r['name']=='KG final practice checked transfer' and [a['id'] for a in r['assets']]==[780013745]]
+          assert len(rows)==1,'Transfer mismatch'
+          pathlib.Path('/tmp/draft-id').write_text(str(rows[0]['id']))
+          PY
+          gh api -H 'Accept: application/octet-stream' repos/$GITHUB_REPOSITORY/releases/assets/780013745 > /tmp/checked.zip
+      - name: Verify and publish only checked practice files
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 - <<'PY'
+          import pathlib,zipfile,json,hashlib,subprocess
+          b=pathlib.Path('/tmp/checked.zip').read_bytes()
+          assert hashlib.sha256(b).hexdigest()=='174adf8c6df5935268ebe80d5b3e0906b9367168dae58e8fe2d547f153dd8668','Transfer integrity'
+          with zipfile.ZipFile('/tmp/checked.zip') as z:
+              p=json.loads(z.read('transfer.json')); names=set(p['files'])
+              assert len(names)==12 and p['kg2_u4_games']==6 and p['kg1_added_activities']==9 and p['kg1_added_rounds']==30 and p['kg1_runtime_activities']==45 and p['new_audio_files']==0 and p['new_media_files']==0 and set(z.namelist())==names|{'transfer.json'}
+              assert hashlib.sha256('\n'.join(sorted(names)).encode()).hexdigest()=='fbc326ff3ddedcf873a0504586e5b0d236658702b31f582a54b97d217b0f8bc2'
+              for name,v in p['files'].items():
+                  q=pathlib.PurePosixPath(name);assert not q.is_absolute() and '..' not in q.parts
+                  f=pathlib.Path(name)
+                  assert (hashlib.sha256(f.read_bytes()).hexdigest() if f.exists() else None)==v['before'],'Concurrent change: '+name
+                  assert hashlib.sha256(z.read(name)).hexdigest()==v['after'],'File integrity: '+name
+              for name in names:
+                  f=pathlib.Path(name);f.parent.mkdir(parents=True,exist_ok=True);f.write_bytes(z.read(name))
+          subprocess.run(['git','config','user.name','basemhreaz-cloud'],check=True)
+          subprocess.run(['git','config','user.email','basemhreaz-cloud@users.noreply.github.com'],check=True)
+          subprocess.run(['git','add','--']+sorted(names),check=True)
+          subprocess.run(['git','commit','-m','Publish checked KG1 final additions and KG2 U4 practice'],check=True)
+          subprocess.run(['git','push','origin','HEAD:main'],check=True)
+          PY
+      - name: Remove only the consumed private transfer
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          draft=$(cat /tmp/draft-id)
+          gh api repos/$GITHUB_REPOSITORY/releases/$draft > /tmp/used-draft.json
+          python3 -c "import json; p=json.load(open('/tmp/used-draft.json')); assert p['draft'] is True and p['name']=='KG final practice checked transfer' and [a['id'] for a in p['assets']]==[780013745]"
+          gh api --method DELETE repos/$GITHUB_REPOSITORY/releases/$draft
