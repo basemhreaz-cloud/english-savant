@@ -247,3 +247,6 @@ html:root:root[data-interface-language] .header-slot > .header:active,
 html:root:root[data-interface-language] .es-mini-island,
 html:root:root[data-interface-language] .es-mini-island:hover,
 html:root:root[data-interface-language] .es-mini-island:active{transform:translateX(-50%)!important}
+
+/* Circular sage backdrop behind the unchanged logo card. */
+.hero-art > .orb{border-radius:50%!important;aspect-ratio:1}
