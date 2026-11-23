@@ -1,0 +1,40 @@
+name: Host checked Primary1 Unit3 full lesson
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: english-savant-verified-bank-batch
+  cancel-in-progress: false
+jobs:
+  host:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Verify exact private parts and losslessly assemble checked master
+        run: |
+          python3 <<'PYCODE'
+          import json,subprocess,hashlib,pathlib,os
+          m={'master': {'filename': 'P1_U3_AR_full_word_lesson.mp4', 'bytes': 176006219, 'sha256': '4e9e1ff32c130c463e66202b14ab682ad29bd95cf24d495b7473a66460613e37'}, 'parts': [{'name': 'P1_U3.part01.bin', 'bytes': 18000000, 'sha256': 'f2d6fade9e0567368e8ce8ed1b519af1b6b568e40ba4181e00f97536816f8307', 'asset_id': 780891285, 'asset_name': '1-P1_U3.part01.bin'}, {'name': 'P1_U3.part02.bin', 'bytes': 18000000, 'sha256': 'aac23ec963b4afed0223739c08d26d1d1546526d97301687b853f7ba5c86f659', 'asset_id': 780891543, 'asset_name': '2-P1_U3.part02.bin'}, {'name': 'P1_U3.part03.bin', 'bytes': 18000000, 'sha256': '2a1107cb6d96af8fbc9b8727e51a678a65b1561617b6d9c65bc11eefd3afd3e9', 'asset_id': 780891654, 'asset_name': '3-P1_U3.part03.bin'}, {'name': 'P1_U3.part04.bin', 'bytes': 18000000, 'sha256': '0c7ebdb9404131e176be12211f834786c2c1d54369c51f382b52ca1ec6a5f78d', 'asset_id': 780891882, 'asset_name': '4-P1_U3.part04.bin'}, {'name': 'P1_U3.part05.bin', 'bytes': 18000000, 'sha256': 'bca3f81b8a957db8d4b424494ab8e88e32da456b5bc1fa4c2da8aee3d7215613', 'asset_id': 780891954, 'asset_name': '5-P1_U3.part05.bin'}, {'name': 'P1_U3.part06.bin', 'bytes': 18000000, 'sha256': 'c99e3c91ae4f675e3e7d1bb1a56a766ec32d30e916ca8a87dc4947d76490d1c1', 'asset_id': 780892025, 'asset_name': '6-P1_U3.part06.bin'}, {'name': 'P1_U3.part07.bin', 'bytes': 18000000, 'sha256': '03a81781a141ef05dfffd3450bb183522b23c9c550c77dbc44c3c6c36124e98f', 'asset_id': 780892112, 'asset_name': '7-P1_U3.part07.bin'}, {'name': 'P1_U3.part08.bin', 'bytes': 18000000, 'sha256': '20e979740eb1b96c7e84b16ce39f18f0d3a8af3bef6750fac7abde9d6f2536f7', 'asset_id': 780892375, 'asset_name': '8-P1_U3.part08.bin'}, {'name': 'P1_U3.part09.bin', 'bytes': 18000000, 'sha256': '94443e50a5c07a0e82579a5072bcda9abf4ed819ce8eb07f3c8bbeeb99b57b04', 'asset_id': 780892484, 'asset_name': '9-P1_U3.part09.bin'}, {'name': 'P1_U3.part10.bin', 'bytes': 14006219, 'sha256': '2b3f478b56fbc0bcf1b6e379c0cd0206b6e21b4d053e54a3ea59f94ccbc440f6', 'asset_id': 780892593, 'asset_name': '10-P1_U3.part10.bin'}], 'draft_id': 454845017, 'draft_url': 'https://github.com/basemhreaz-cloud/english-savant/releases/edit/untagged-c133f34f659438f2a101'}
+          repo=os.environ['GITHUB_REPOSITORY']
+          p=json.loads(subprocess.check_output(['gh','api','repos/'+repo+'/releases/'+str(m['draft_id'])]))
+          assert p['draft'] and p['name']=='P1 Unit3 verified master transfer'
+          actual={a['id']:a for a in p['assets']}
+          assert set(actual)=={a['asset_id'] for a in m['parts']}
+          path=pathlib.Path('/tmp/P1_U3_AR_full_word_lesson.mp4')
+          with path.open('wb') as out:
+            for a in m['parts']:
+              row=actual[a['asset_id']];assert row['size']==a['bytes'] and row['name']==a['asset_name']
+              b=subprocess.check_output(['gh','api','-H','Accept: application/octet-stream','repos/'+repo+'/releases/assets/'+str(a['asset_id'])])
+              assert len(b)==a['bytes'] and hashlib.sha256(b).hexdigest()==a['sha256']
+              out.write(b)
+          assert path.stat().st_size==m['master']['bytes'] and hashlib.sha256(path.read_bytes()).hexdigest()==m['master']['sha256']
+          subprocess.run(['gh','release','create','p1-u3-full-lesson-20261123',str(path),'--repo',repo,'--title','Primary 1 Unit 3 full lesson','--notes','Egyptian Arabic explanation of the four Primary 1 Unit 3 lessons. ENGLISH SAVANT, Mr. Basem Hreaz.','--latest=false'],check=True)
+          p=json.loads(subprocess.check_output(['gh','api','repos/'+repo+'/releases/tags/p1-u3-full-lesson-20261123']))
+          assert not p['draft'] and len(p['assets'])==1
+          a=p['assets'][0];assert a['size']==m['master']['bytes'] and a['name']==path.name
+          if a.get('digest'):assert a['digest']=='sha256:'+m['master']['sha256']
+          print('Verified hosted exact master:',a['browser_download_url'])
+          PYCODE
