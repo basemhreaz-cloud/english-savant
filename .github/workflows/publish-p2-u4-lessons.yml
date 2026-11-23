@@ -1,0 +1,32 @@
+name: Publish reviewed P2 Unit 4 approved lesson assessments
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: english-savant-verified-bank-batch
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Publish tested P2 lesson bank and entry links
+        run: |
+          python3 <<'PYCODE'
+          import pathlib,base64,hashlib,subprocess,gzip
+          files=eval(gzip.decompress(base64.b64decode(''.join(pathlib.Path('.github/workflows/p2-u4-lessons-payload-'+str(i)+'.txt').read_text() for i in range(2)))))
+          def sha(b):return hashlib.sha256(b).hexdigest() if b is not None else None
+          for n,v in files.items():
+            p=pathlib.Path(n);assert sha(p.read_bytes() if p.exists() else None)==v['before'],n
+            assert sha(gzip.decompress(base64.b64decode(v['base64'])))==v['after'],n
+          for n,v in files.items():
+            p=pathlib.Path(n);p.parent.mkdir(parents=True,exist_ok=True);p.write_bytes(gzip.decompress(base64.b64decode(v['base64'])))
+          subprocess.run(['git','config','user.name','basemhreaz-cloud'],check=True)
+          subprocess.run(['git','config','user.email','basemhreaz-cloud@users.noreply.github.com'],check=True)
+          subprocess.run(['git','add','--']+sorted(files),check=True)
+          subprocess.run(['git','commit','-m','Publish reviewed P2 Unit 4 approved lesson assessments'],check=True)
+          subprocess.run(['git','push','origin','HEAD:main'],check=True)
+          PYCODE
