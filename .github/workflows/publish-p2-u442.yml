@@ -1,0 +1,32 @@
+name: Repair P2 Unit4 everyday question
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: english-savant-verified-bank-batch
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: |
+          python -m pip install -q gdown
+          gdown 1B8qS1wR37pXob8JhnJL2nc0llt1ogNsy -O /tmp/u4aa
+          gdown 1sBtDXMUbIK0wWEmUu7L22obgp6rTEvJW -O /tmp/u4ab
+          cat /tmp/u4aa /tmp/u4ab > /tmp/U4.mp4
+          echo 'd470eaf06e385ed3ec18c2162faf730143e55c4289f69885e4902930beff564a  /tmp/U4.mp4' | sha256sum -c -
+          mv /tmp/U4.mp4 videos/ES_P2_T1_U4.mp4
+          python3 <<'PY'
+          import pathlib,json
+          p=pathlib.Path('lessons.json');d=json.loads(p.read_text());q=next(x for x in d['lessons']if x['id']=='p2-u4-lesson');assert q['mp4']=='videos/ES_P2_T1_U4.mp4';q['media_version']='d470eaf06e38';p.write_text(json.dumps(d,ensure_ascii=False,indent=2))
+          p=pathlib.Path('sw.js');s=p.read_text();assert 'english-savant-v41-p2-u2-video'in s;p.write_text(s.replace('english-savant-v41-p2-u2-video','english-savant-v42-p2-u4-video'))
+          PY
+          git config user.name basemhreaz-cloud
+          git config user.email basemhreaz-cloud@users.noreply.github.com
+          git add videos/ES_P2_T1_U4.mp4 lessons.json sw.js
+          git commit -m 'Repair P2 Unit4 everyday questions only'
+          git push origin HEAD:main
