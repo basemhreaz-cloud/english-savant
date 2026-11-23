@@ -30,7 +30,7 @@ html:root:root[data-interface-language] .header.island-compact.island-open{width
 html:root:root[data-interface-language] .header.island-compact.island-open>.header-actions{display:flex!important}html:root:root[data-interface-language] .header.island-compact.island-open>.island-toggle{flex:1 1 100px}.header.island-compact .island-panel{min-width:min(288px,calc(100vw - 36px))}
 html:root:root[data-interface-language] .site-header>.adult-menu{order:1;flex:0 0 32px}.site-header>.adult-menu>summary{font-size:0;padding:3px;width:26px;min-width:26px}.site-header>.adult-menu>summary::after{content:'☰';font-size:17px}.site-header .header-actions .button{display:none!important}
 header.es-simple-header .draft{display:none}
-@media(max-width:600px){html:root:root[data-interface-language] .header nav.open{position:absolute;top:100%;inset-inline:0;background:var(--warm,#f6f4ef);padding:16px;border-radius:12px}}
+@media(max-width:950px){html:root:root[data-interface-language] .header nav.open{position:absolute;top:100%;inset-inline:0;background:var(--warm,#f6f4ef);padding:16px;border-radius:12px}}
 body.dark:has(header.es-simple-header){--cream:#191e18;--ink:#edf0e7;--olive:#bbc5b2;--muted:#bbc5b2;--line:#495242}
 body.dark:has(.site-header){--warm:#191e18;--ink:#edf0e7;--muted:#bbc5b2;--edge:#495242;--white:#232a20;background:var(--warm);color:var(--ink)}body.dark:has(.site-header) .glass{background:rgba(32,40,29,.9);border-color:var(--edge)}.es-added-preferences button{color:inherit;background:transparent;border:1px solid currentColor}
 
@@ -39,3 +39,5 @@ body.dark:has(.site-header){--warm:#191e18;--ink:#edf0e7;--muted:#bbc5b2;--edge:
 html:root:root .es-mini-island{box-sizing:border-box;min-height:34px;max-height:34px;padding:0;line-height:1.2}
 html:root:root[data-interface-language] .header.island-compact.island-open{box-sizing:border-box;width:calc(100vw - 24px)!important;max-width:420px!important;min-width:0!important;display:flex!important;flex-wrap:wrap!important}
 html:root:root[data-interface-language] .header.island-open>.island-panel{box-sizing:border-box;width:100%;min-width:0;max-width:100%;flex:1 1 100%;order:5;grid-template-columns:repeat(2,minmax(0,1fr))!important}
+
+html:root:root[data-interface-language] .header:has(>nav.open){overflow:visible!important}html:root:root[data-interface-language] .header>nav.open{z-index:60;box-sizing:border-box;box-shadow:0 10px 24px #0002}
