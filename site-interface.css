@@ -89,3 +89,18 @@ html:root:root[data-interface-language] #lesson-assessment>h2{unicode-bidi:plain
 
 html:root:root[data-interface-language=en] .kg-checks{direction:ltr;text-align:left}
 html:root:root[data-interface-language=ar] .kg-checks{direction:rtl;text-align:right}
+
+/* Assessment hints must remain readable in dark mode, including inline legacy templates. */
+html:root:root[data-interface-language] body.dark :is(.q-hint,.st-sub,.lesson-position,.answer-explanation,.q-feed p){color:#c7d2be}
+html:root:root[data-interface-language] body.dark input::placeholder,html:root:root[data-interface-language] body.dark textarea::placeholder{color:#b7c2ae;opacity:1}
+
+/* Shared practice-bank surfaces, including the actual renderer card and filter. */
+html:root:root[data-interface-language] body.dark .esb{--card:#232a20;--ink:#edf0e7;--muted:#c7d2be;color:#edf0e7}
+html:root:root[data-interface-language] body.dark :is(.esb-card,.esb-strip){background:#232a20;color:#edf0e7;border-color:#65715b;box-shadow:inset 3px 3px 9px rgba(0,0,0,.4),inset -2px -2px 7px rgba(175,195,157,.08)!important}
+html:root:root[data-interface-language] body.dark :is(.esb-chip,.esb-box span,.esb-token){background:#34402e;color:#edf0e7;border-color:#65715b}
+html:root:root[data-interface-language] body.dark :is(.esb-lead,.esb-note,.esb-count,.esb-stats,.esb-passage-label,.esb-wordcount,.esb-reset){color:#c7d2be}
+html:root:root[data-interface-language] body.dark .esb-option[aria-pressed=true]{background:#516445;color:#fff;border-color:#a6bd92}
+html:root:root[data-interface-language] body.dark .esb-meter{background:#4b5644}
+html:root:root[data-interface-language] body.dark .esb-meter span{background:#c7d2be}
+html:root:root[data-interface-language] body.dark .esb-jump[data-done=true]{background:#34482a;color:#e4f3d8}
+html:root:root[data-interface-language] body.dark .esb-jump[aria-current=true]{background:#516445;color:#fff;border-color:#a6bd92}
