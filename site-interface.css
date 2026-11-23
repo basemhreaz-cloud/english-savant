@@ -21,3 +21,14 @@ html:root:root[data-interface-language] .header.island-compact>.island-toggle{di
 html:root:root[data-interface-language] .header.island-compact>.island-toggle>span:not([aria-hidden]){overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 html:root:root[data-interface-language] .header.island-compact .island-panel{order:3}
 @media(max-width:360px){html:root:root[data-interface-language] .header.island-compact>.header-actions{flex:0 0 auto}html:root:root[data-interface-language] .header.island-compact>.island-toggle{flex-basis:100px}}
+
+/* Requested square preferences: language above theme. */
+html:root:root[data-interface-language] :is(.header,.site-header)>.header-actions{display:grid!important;grid-template-columns:48px auto;grid-template-rows:48px 48px;gap:4px 8px;align-items:center;flex:0 0 auto}
+html:root:root[data-interface-language] :is(.header,.site-header)>.header-actions>:is(.es-language-toggle,.theme){box-sizing:border-box!important;display:flex!important;align-items:center;justify-content:center;width:48px!important;height:48px!important;min-width:48px!important;min-height:48px!important;max-width:48px!important;padding:2px!important;border-radius:5px!important;grid-column:1;line-height:1.1;font-size:10px}
+html:root:root[data-interface-language] :is(.header,.site-header)>.header-actions>.es-language-toggle{grid-row:1}
+html:root:root[data-interface-language] :is(.header,.site-header)>.header-actions>.theme{grid-row:2;font-size:18px}
+html:root:root[data-interface-language] :is(.header,.site-header)>.header-actions>:not(.theme):not(.es-language-toggle){grid-column:2;grid-row:1/3}
+html:root:root[data-interface-language] .header.island-compact>.header-actions{display:grid!important;grid-template-columns:48px;grid-template-rows:48px 48px}
+html[data-interface-language]{scroll-padding-top:154px}
+body.dark:has(.site-header){--warm:#191e18;--ink:#edf0e7;--muted:#bbc5b2;--edge:#495242;--white:#232a20;background:var(--warm);color:var(--ink)}body.dark:has(.site-header) .glass{background:rgba(32,40,29,.9);border-color:var(--edge)}.site-header .es-added-preferences button{color:inherit;background:transparent;border:1px solid currentColor}
+@media(max-width:600px){.site-header{flex-wrap:wrap}.site-header .brand{flex:1 1 60%}}
