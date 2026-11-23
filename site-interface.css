@@ -286,3 +286,13 @@ html:root:root[data-interface-language] .es-mini-island::after{font-family:'IBM 
 html:root:root[data-interface-language] .es-missing-word{display:block;width:max-content;max-width:100%;margin:12px auto;font-size:clamp(32px,7vw,42px)!important;font-weight:700!important;line-height:1.55!important;letter-spacing:.07em!important;text-align:center;direction:ltr;unicode-bidi:isolate;overflow-wrap:anywhere}
 /* Contact belongs to the footer/contact section, never the header. */
 html:root:root[data-interface-language] header a[href*="wa.me/"]{display:none!important}
+
+/* Center only P2 response controls, leaving question prose unchanged. */
+html:root:root[data-interface-language] body.es-p2-controls .q-card .answer-controls{justify-content:center!important;text-align:center}
+html:root:root[data-interface-language] body.es-p2-controls .q-card .answer-controls>.q-input{display:block;margin-inline:auto!important}
+html:root:root[data-interface-language] body.es-p2-controls .q-card>.q-check{display:flex!important;margin-inline:auto!important}
+html:root:root[data-interface-language] body.es-p2-controls .q-inline{justify-content:center!important}
+html:root:root[data-interface-language] body.es-p2-controls .esb-answer>input,html:root:root[data-interface-language] body.es-p2-controls .esb-answer>textarea{display:block;margin-inline:auto!important}
+html:root:root[data-interface-language] body.es-p2-controls .esb-actions{justify-content:center!important}
+html:root:root[data-interface-language] body.es-p2-controls .final-field{align-items:center!important;text-align:center}
+html:root:root[data-interface-language] body.es-p2-controls .final-field>input,html:root:root[data-interface-language] body.es-p2-controls .final-field>textarea{margin-inline:auto!important}
