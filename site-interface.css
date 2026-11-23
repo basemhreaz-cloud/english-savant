@@ -114,3 +114,6 @@ html:root:root[data-interface-language] :is(h1,h2,h3,[id]){scroll-margin-top:96p
 
 /* Mobile booking access, above browser safe area without covering answer controls. */
 .booking-fab{display:none!important}@media(max-width:950px){body:has(.booking-fab){padding-bottom:90px}.booking-fab{display:inline-flex!important;position:fixed;bottom:calc(14px + env(safe-area-inset-bottom));inset-inline-start:14px;z-index:55;padding:11px 16px;border-radius:12px;background:var(--olive,#5A6657);color:#F6F4EF;font-family:"Baloo Bhaijaan 2",sans-serif;font-size:14px}.booking-fab:hover{color:#F6F4EF}}
+
+/* Position, not score or completion. */
+.quiz-progress{height:5px;border-radius:5px;background:rgba(90,102,87,.18);overflow:hidden;margin:10px 0 20px;direction:rtl}.quiz-progress>span{display:block;height:100%;background:var(--olive,#5A6657);border-radius:inherit}body.dark .quiz-progress{background:rgba(168,179,154,.24)}body.dark .quiz-progress>span{background:#A8B39A}
