@@ -19,15 +19,17 @@ var css='.esfx-wash{position:absolute;inset:0;border-radius:inherit;pointer-even
 +'@keyframes esfxFade{0%{opacity:0;transform:translate(-50%,-50%) scale(1)}25%{opacity:1;transform:translate(-50%,-50%) scale(1)}100%{opacity:0;transform:translate(-50%,-50%) scale(1)}}';
 var st=document.createElement('style');st.textContent=css;document.head.appendChild(st);
 var base=(function(){var s=document.currentScript;return s&&s.src?s.src.replace(/[^\/]*$/,''):''})();
-var snd={};['ok','no'].forEach(function(k){var a=new Audio();a.preload='auto';a.src=base+'audio/'+k+'-'+(window.ES_FX_LANG||'ar')+'.mp3?v=4';a.addEventListener('error',function(){a.__bad=1});snd[k]=a});
-var unlocked=false;
-function unlock(){if(unlocked)return;unlocked=true;['ok','no'].forEach(function(k){var a=snd[k];a.muted=true;var p=a.play();if(p&&p.then)p.then(function(){a.pause();a.currentTime=0;a.muted=false}).catch(function(){a.muted=false})})}
-['pointerdown','touchstart','keydown'].forEach(function(e){document.addEventListener(e,unlock,{once:true,passive:true,capture:true})});
+/* Static Achird feedback. No runtime speech service or browser-voice substitution. */
+var snd={},lastAudio=null,counts={};
+function language(){return /^(en)(-|$)/i.test(window.ES_FX_LANG||document.documentElement.lang||'ar')?'en':'ar'}
+function audioFor(key){if(snd[key])return snd[key];var a=new Audio();a.preload=/-1$/.test(key)?'auto':'none';a.src=base+'audio/achird/'+key+'.mp3?v=71';snd[key]=a;return a}
+['ok','no'].forEach(function(k){audioFor(k+'-'+language()+'-1')});
+function stopFeedback(){if(lastAudio){lastAudio.pause();try{lastAudio.currentTime=0}catch(e){}}lastAudio=null}
 function say(ok){
- var a=snd[ok?'ok':'no'];
- try{a.muted=false;a.currentTime=0;var p=a.play();if(p&&p.catch)p.catch(function(){tts(ok)});if(a.__bad)tts(ok)}catch(e){tts(ok)}
+ var stem=(ok?'ok':'no')+'-'+language();var index=(counts[stem]||0)%3+1;counts[stem]=(counts[stem]||0)+1;stopFeedback();
+ var a=audioFor(stem+'-'+index);lastAudio=a;a.muted=false;try{a.currentTime=0;var p=a.play();if(p&&p.catch)p.catch(function(){if(index!==1&&lastAudio===a){var fallback=audioFor(stem+'-1');lastAudio=fallback;fallback.currentTime=0;var q=fallback.play();if(q&&q.catch)q.catch(function(){})}})}catch(e){}
 }
-function tts(ok){try{if(!window.speechSynthesis)return;var u=new SpeechSynthesisUtterance(ok?'الإجابة صحيحة':'الإجابة خاطئة');u.lang='ar-EG';u.rate=.95;speechSynthesis.cancel();speechSynthesis.speak(u)}catch(e){}}
+window.addEventListener('pagehide',stopFeedback);
 function run(ok,card){
  if(!ok&&card&&window.__esExplain)window.__esExplain(card);
  var big=document.createElement('div');big.className='esfx-big '+(ok?'ok':'no');big.textContent=ok?'🎉':'❌';
