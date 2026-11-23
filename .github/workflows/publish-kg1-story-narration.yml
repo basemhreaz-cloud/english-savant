@@ -1,0 +1,43 @@
+name: Publish verified KG1 U2-U4 story narration
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: english-savant-verified-bank-batch
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: |
+          python3 <<'PYCODE'
+          import pathlib,hashlib,base64,gzip,json,subprocess,re
+          assert hashlib.sha256(pathlib.Path('assets/kg1/u2/media.json').read_bytes()).hexdigest()=='d7bb0747c270cc3437909c541b1cd0809eeb66f0c053e9e63e2627a3b0228229'
+          assert hashlib.sha256(pathlib.Path('assets/kg1/u3/media.json').read_bytes()).hexdigest()=='cd4e0a27f47e3198501a231f99d6795ea6c290dccab0235412b20693ef024e9c'
+          assert hashlib.sha256(pathlib.Path('assets/kg1/u4/media.json').read_bytes()).hexdigest()=='cd4e0a27f47e3198501a231f99d6795ea6c290dccab0235412b20693ef024e9c'
+          assert hashlib.sha256(pathlib.Path('kg1.html').read_bytes()).hexdigest()=='0d770be46fe05520b1dafda0d5a53fc51785b1d99dcc1391856d50e87fc50163'
+          assert hashlib.sha256(pathlib.Path('course-kg1.html').read_bytes()).hexdigest()=='7ce6cf8a213bb94c2bce2c57aca10150bf8e304771d8e01c0c28259b2d2d64a5'
+          assert hashlib.sha256(pathlib.Path('site-interface.js').read_bytes()).hexdigest()=='4556db5a96293b4ce6d30b254c3541e474818d7d022160f34f18ac63eaf01635'
+          assert hashlib.sha256(pathlib.Path('sw.js').read_bytes()).hexdigest()=='2dee35835c070fc2cf1938cb69bfe0c071548bf8bc83591cea80fa8f69f3c051'
+          ar_old='بعض السرد الصوتي لسه بيتجهز.';ar_new='السرد الصوتي متاح لقصص الوحدات ١–٤.';en_old='Some story narration is still being prepared.';en_new='Story narration is available for Units 1-4.'
+          for name in ['kg1.html','course-kg1.html','site-interface.js']:
+           p=pathlib.Path(name);s=p.read_text();assert ar_old in s;s=s.replace(ar_old,ar_new).replace(en_old,en_new);p.write_text(s)
+          enc=''.join(pathlib.Path('.github/kg1-story-payload-'+str(i)+'.txt').read_text() for i in range(3))
+          assert hashlib.sha256(enc.encode()).hexdigest()=='aa916fe94857b3bba62c5e005b3181262a378598beb536e99281985bba4720ab'
+          files=json.loads(gzip.decompress(base64.b64decode(enc)))
+          for name,body in files.items():
+           p=pathlib.Path(name);assert name.startswith('assets/kg1/') and '..' not in name;p.parent.mkdir(parents=True,exist_ok=True);p.write_bytes(base64.b64decode(body))
+          f=pathlib.Path('kg1.html');s=f.read_text();s=s.replace('20261122-review-audio1','20261123-story-audio1');f.write_text(s)
+          for name in ['kg1.html','course-kg1.html']:
+           p=pathlib.Path(name);p.write_text(p.read_text().replace('site-interface.js?v=20261123-depth18','site-interface.js?v=20261123-story19'))
+          f=pathlib.Path('sw.js');s=f.read_text();t=s.replace('english-savant-v18-depth','english-savant-v19-story');assert t!=s;f.write_text(t)
+          subprocess.run(['git','config','user.name','basemhreaz-cloud'],check=True)
+          subprocess.run(['git','config','user.email','basemhreaz-cloud@users.noreply.github.com'],check=True)
+          subprocess.run(['git','add',*files,'kg1.html','course-kg1.html','site-interface.js','sw.js'],check=True)
+          subprocess.run(['git','commit','-m','Add checked narration for twelve KG1 story panels'],check=True)
+          subprocess.run(['git','push','origin','HEAD:main'],check=True)
+          PYCODE
