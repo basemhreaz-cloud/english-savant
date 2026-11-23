@@ -272,7 +272,7 @@
     {
       "id": 20,
       "type": "MCQ",
-      "prompt": "Four people: mom, dad, boy, girl = a ___.",
+      "prompt": "My parents, my brother and I are a ___.",
       "answer": "b",
       "options": [
         "class",
@@ -281,7 +281,7 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "أربع أشخاص: أم وأب وولد وبنت يبقوا عيلة: family. class فصل وschool مدرسة."
+      "explanation_ar": "والداي وأخي وأنا عائلة: family. العلاقة الأسرية هنا واضحة من parents وbrother، مش من عدد الأشخاص أو شكلهم."
     },
     {
       "id": 21,
@@ -309,7 +309,7 @@
     {
       "id": 22,
       "type": "COMPLETE",
-      "prompt": "My ___ is a girl. We play together.",
+      "prompt": "We have the same parents. She is my ___.",
       "answer": "sister",
       "models": [
         "sister"
@@ -327,12 +327,12 @@
         "under"
       ],
       "grading": "closed",
-      "explanation_ar": "البنت اللي بنلعب معاها هي أختي: sister."
+      "explanation_ar": "لما يكون لنا نفس الوالدين، البنت تكون أختي: sister. مش مجرد بنت بنلعب معاها."
     },
     {
       "id": 23,
       "type": "COMPLETE",
-      "prompt": "My ___ is a boy. He likes football.",
+      "prompt": "We have the same parents. He is my ___.",
       "answer": "brother",
       "models": [
         "brother"
@@ -350,7 +350,7 @@
         "under"
       ],
       "grading": "closed",
-      "explanation_ar": "الولد اللي بيحب الكورة هو أخويا: brother."
+      "explanation_ar": "لما يكون لنا نفس الوالدين، الولد يكون أخي: brother. حب كرة القدم وحده مش دليل على القرابة."
     },
     {
       "id": 24,
