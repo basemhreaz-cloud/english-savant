@@ -1,0 +1,40 @@
+name: Host checked Primary1 Unit5 full lesson
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: english-savant-verified-bank-batch
+  cancel-in-progress: false
+jobs:
+  host:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Verify exact private parts and losslessly assemble checked master
+        run: |
+          python3 <<'PYCODE'
+          import json,subprocess,hashlib,pathlib,os
+          m={'master': {'filename': 'P1_U5_AR_full_word_lesson.mp4', 'bytes': 179530678, 'sha256': 'f2f35457bfa186f05daaeb320f13b2a69f6bcc8df02da6c9e7ed7fa06ca6ab4a'}, 'parts': [{'name': 'P1_U5_AR_full_word_lesson.mp4.part01', 'bytes': 18000000, 'sha256': '079e11a999b63e77fa440c71479256f3fddaf2387466590318af6efea8c65773', 'asset_id': 781306472, 'asset_name': '1-P1_U5.part01.bin'}, {'name': 'P1_U5_AR_full_word_lesson.mp4.part02', 'bytes': 18000000, 'sha256': '5f8aa1f885491d08eb9128b240246af44c08bc1be53a4b7ead4c205c04737bf2', 'asset_id': 781306941, 'asset_name': '2-P1_U5.part02.bin'}, {'name': 'P1_U5_AR_full_word_lesson.mp4.part03', 'bytes': 18000000, 'sha256': '5acdd93592bc6bb3503f45eccbc3445023e83e7dd88a754f94c866940e533ee5', 'asset_id': 781307046, 'asset_name': '3-P1_U5.part03.bin'}, {'name': 'P1_U5_AR_full_word_lesson.mp4.part04', 'bytes': 18000000, 'sha256': 'adc2443527a8716a74c0d35fa564ea5e50fb537cca225449f44d3b45b96642f4', 'asset_id': 781307155, 'asset_name': '4-P1_U5.part04.bin'}, {'name': 'P1_U5_AR_full_word_lesson.mp4.part05', 'bytes': 18000000, 'sha256': '08357ac6b5792355be5a1d01064d80d8e1658ae1c4f8dabf4bccf2b7e651cb2a', 'asset_id': 781307300, 'asset_name': '5-P1_U5.part05.bin'}, {'name': 'P1_U5_AR_full_word_lesson.mp4.part06', 'bytes': 18000000, 'sha256': '7572df878127d3dbe6195d6e62dc6546bb09963366d4a7d2be7025a6a074736b', 'asset_id': 781307458, 'asset_name': '6-P1_U5.part06.bin'}, {'name': 'P1_U5_AR_full_word_lesson.mp4.part07', 'bytes': 18000000, 'sha256': 'de7ef0c1e6b52e47f28535c078ed7be7283f0a0a697577a8e711eb69745108d7', 'asset_id': 781307554, 'asset_name': '7-P1_U5.part07.bin'}, {'name': 'P1_U5_AR_full_word_lesson.mp4.part08', 'bytes': 18000000, 'sha256': '0abd4c84ded67da22e09d89c3f383cc82d3f84c21701d30c2e24044410eb1867', 'asset_id': 781307672, 'asset_name': '8-P1_U5.part08.bin'}, {'name': 'P1_U5_AR_full_word_lesson.mp4.part09', 'bytes': 18000000, 'sha256': 'd30207fef5550cc60559478a659ef93e76359baf9f0ad5e362aab1d3614f7206', 'asset_id': 781307799, 'asset_name': '9-P1_U5.part09.bin'}, {'name': 'P1_U5_AR_full_word_lesson.mp4.part10', 'bytes': 17530678, 'sha256': '40aa93ba2abe62165609af6c0a3b2bec11378f41072078c924854dbe1b9d89f7', 'asset_id': 781307944, 'asset_name': '10-P1_U5.part10.bin'}], 'draft_id': 454939238, 'draft_url': 'https://github.com/basemhreaz-cloud/english-savant/releases/edit/untagged-6b332a56c968ee4b7f78'}
+          repo=os.environ['GITHUB_REPOSITORY']
+          p=json.loads(subprocess.check_output(['gh','api','repos/'+repo+'/releases/'+str(m['draft_id'])]))
+          assert p['draft'] and p['name']=='P1 Unit5 verified master transfer'
+          actual={a['id']:a for a in p['assets']}
+          assert set(actual)=={a['asset_id'] for a in m['parts']}
+          path=pathlib.Path('/tmp/P1_U5_AR_full_word_lesson.mp4')
+          with path.open('wb') as out:
+            for a in m['parts']:
+              row=actual[a['asset_id']];assert row['size']==a['bytes'] and row['name']==a['asset_name']
+              b=subprocess.check_output(['gh','api','-H','Accept: application/octet-stream','repos/'+repo+'/releases/assets/'+str(a['asset_id'])])
+              assert len(b)==a['bytes'] and hashlib.sha256(b).hexdigest()==a['sha256']
+              out.write(b)
+          assert path.stat().st_size==m['master']['bytes'] and hashlib.sha256(path.read_bytes()).hexdigest()==m['master']['sha256']
+          subprocess.run(['gh','release','create','p1-u5-full-lesson-20261123',str(path),'--repo',repo,'--title','Primary 1 Unit 5 full lesson','--notes','Egyptian Arabic explanation of the four Primary 1 Unit 5 lessons. ENGLISH SAVANT, Mr. Basem Hreaz.','--latest=false'],check=True)
+          p=json.loads(subprocess.check_output(['gh','api','repos/'+repo+'/releases/tags/p1-u5-full-lesson-20261123']))
+          assert not p['draft'] and len(p['assets'])==1
+          a=p['assets'][0];assert a['size']==m['master']['bytes'] and a['name']==path.name
+          if a.get('digest'):assert a['digest']=='sha256:'+m['master']['sha256']
+          print('Verified hosted exact master:',a['browser_download_url'])
+          PYCODE
