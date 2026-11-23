@@ -23,7 +23,7 @@ jobs:
           mv /tmp/U2.mp4 videos/ES_P2_T1_U2.mp4
           python3 <<'PY'
           import pathlib,json
-          p=pathlib.Path('lessons.json');d=json.loads(p.read_text());q=next(x for x in d['lessons']if x['id']=='p2-u2-lesson');assert q['mp4']=='videos/ES_P2_T1_U2.mp4';q['media_version']='40ca2d912ab4';p.write_text(json.dumps(d,ensure_ascii=False,indent=2))
+          p=pathlib.Path('lessons.json');d=json.loads(p.read_text());q=next(x for x in d['lessons']if x['id']=='p2-u2');assert q['mp4']=='videos/ES_P2_T1_U2.mp4';q['media_version']='40ca2d912ab4';p.write_text(json.dumps(d,ensure_ascii=False,indent=2))
           p=pathlib.Path('sw.js');s=p.read_text();assert 'english-savant-v40-p2-answerability'in s;p.write_text(s.replace('english-savant-v40-p2-answerability','english-savant-v41-p2-u2-video'))
           PY
           git config user.name basemhreaz-cloud
