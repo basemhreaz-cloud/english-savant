@@ -136,3 +136,53 @@ html:root:root[data-interface-language] header .theme .es-header-icon{width:22px
 html[lang="en"] .about-hero,html[lang="en"] .about-card{text-align:left}html[lang="en"] [data-about-ar]{text-align:left;direction:ltr}
 
 html:root:root[data-interface-language] header .menu-toggle{align-items:center;justify-content:center;padding:0;line-height:1}
+
+/* ENGLISH SAVANT: shared visual tokens and controls, original design. */
+:root{--es-bg:#F6F4EF;--es-ink:#1A1A1A;--es-muted:#5A6657;--es-accent:#5A6657;--es-line:rgba(90,102,87,.18);--es-glass:rgba(255,255,255,.64);--es-glass-strong:rgba(246,244,239,.92);--es-field:rgba(255,255,255,.6);--es-radius:24px;--es-control-radius:14px;--es-shadow:0 8px 28px rgba(26,26,26,.055),inset 0 1px 0 rgba(255,255,255,.9);--es-motion:cubic-bezier(.2,.8,.2,1)}
+body.dark{--es-bg:#1A1A1A;--es-ink:#F6F4EF;--es-muted:#b8c2ad;--es-accent:#A8B39A;--es-line:rgba(168,179,154,.23);--es-glass:rgba(43,48,40,.78);--es-glass-strong:rgba(30,34,28,.94);--es-field:rgba(246,244,239,.055);--es-shadow:0 8px 28px rgba(0,0,0,.16),inset 0 1px 0 rgba(246,244,239,.09)}
+html{scroll-padding-top:108px}
+html:root:root[data-interface-language] body{background-color:var(--es-bg);color:var(--es-ink);font-family:"IBM Plex Sans Arabic",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+html[lang=en] body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","IBM Plex Sans Arabic",sans-serif}
+html:root:root[data-interface-language] h1{letter-spacing:-.025em;line-height:1.45}
+html:root:root[data-interface-language] :is(h2,h3){letter-spacing:-.02em;line-height:1.35}
+html:root:root[data-interface-language] p{line-height:1.85}
+html:root:root[data-interface-language] :is(.glass,.stage-card,.grade-entry,.grade-card,.tool-card,.entry-card,.course-card,.path-card,.book-card,.about-card,.q-card,.esb-question,.lesson-card,.field-card,.task-card,.coach-card,.question-card){border:1px solid var(--es-line)!important;border-radius:var(--es-radius)!important;background:var(--es-glass)!important;box-shadow:var(--es-shadow)!important;color:var(--es-ink);transition:border-color .22s var(--es-motion),box-shadow .22s var(--es-motion),transform .22s var(--es-motion);backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
+html:root:root[data-interface-language] header.glass{background:var(--es-glass-strong)!important;backdrop-filter:blur(18px) saturate(1.2)!important;-webkit-backdrop-filter:blur(18px) saturate(1.2)!important;border-radius:24px!important;box-shadow:var(--es-shadow)!important;border:1px solid var(--es-line)!important;isolation:isolate}
+html:root:root[data-interface-language] :is(.button,button:not(.opt):not(.esb-option):not(.token),.es-language-toggle){border-radius:var(--es-control-radius)!important;transition:transform .16s var(--es-motion),background-color .2s var(--es-motion),box-shadow .2s var(--es-motion);font-weight:600}
+html:root:root[data-interface-language] header :is(.icon-button,.theme,.menu-toggle,.es-language-toggle,.es-search-open){width:38px!important;height:38px!important;min-width:38px!important;min-height:38px!important;flex-basis:38px!important;border:1px solid var(--es-line)!important;background:var(--es-field)!important;color:var(--es-ink)!important;border-radius:12px!important;box-shadow:inset 0 1px 0 rgba(255,255,255,.15)}
+html:root:root[data-interface-language] :is(input:not([type=checkbox]):not([type=radio]):not([type=range]),textarea,select){border-radius:14px!important;border:1px solid var(--es-line)!important;background:var(--es-field)!important;color:var(--es-ink)!important;min-height:44px;box-shadow:inset 0 1px 3px rgba(26,26,26,.035);transition:border-color .2s,box-shadow .2s;font:inherit}
+html:root:root[data-interface-language] :is(input:not([type=checkbox]):not([type=radio]):not([type=range]),textarea,select):focus{outline:0;border-color:var(--es-accent)!important;box-shadow:0 0 0 4px rgba(168,179,154,.25)}
+html:root:root[data-interface-language] :is(.opt,.esb-option){border-radius:14px!important;border:1px solid var(--es-line)!important;background:var(--es-field)!important;color:var(--es-ink)!important;min-height:44px}
+html:root:root[data-interface-language] :is(.opt,.esb-option)[aria-pressed=true],html:root:root[data-interface-language] :is(.opt,.esb-option).selected{background:var(--es-accent)!important;color:var(--es-bg)!important;border-color:var(--es-accent)!important}
+html:root:root[data-interface-language] :is(dialog,.modal,.es-search-box,.island-panel){border:1px solid var(--es-line)!important;border-radius:24px!important;background:var(--es-glass-strong)!important;color:var(--es-ink)!important;box-shadow:0 20px 70px rgba(26,26,26,.18),inset 0 1px 0 rgba(255,255,255,.2)}
+html:root:root[data-interface-language] footer{border-top:1px solid var(--es-line);background:var(--es-glass);color:var(--es-muted)}
+@media(hover:hover){html:root:root[data-interface-language] :is(.stage-card,.grade-entry,.tool-card,.book-card,.path-card):hover{transform:translateY(-3px);border-color:var(--es-accent)!important;box-shadow:0 14px 34px rgba(90,102,87,.12),inset 0 1px 0 rgba(255,255,255,.5)!important}}
+html:root:root[data-interface-language] :is(button,.button):active{transform:scale(.97)}
+html:root:root[data-interface-language] :focus-visible{outline:3px solid var(--es-accent);outline-offset:3px}
+@media(max-width:600px){:root{--es-radius:20px}html:root:root[data-interface-language] header.glass{border-radius:20px!important}html:root:root[data-interface-language] header :is(.icon-button,.theme,.menu-toggle,.es-language-toggle,.es-search-open){width:36px!important;height:36px!important;min-width:36px!important;min-height:36px!important;flex-basis:36px!important}html:root:root[data-interface-language] header .header-actions{gap:5px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
+@supports not (backdrop-filter:blur(1px)){:root{--es-glass:#eeeee7;--es-glass-strong:#F6F4EF}body.dark{--es-glass:#292e26;--es-glass-strong:#20251e}}
+
+/* Keep back navigation, page titles and assessment controls in separate flow rows. */
+html:root:root[data-interface-language] main>.grade-back{display:flex;width:fit-content;max-width:100%;margin-block:0 18px;line-height:1.65;white-space:normal;position:relative}
+html:root:root[data-interface-language] .lesson-assessment-wrap>h1{line-height:1.55;margin-block:0 22px;letter-spacing:normal}
+html:root:root[data-interface-language] #lesson-assessment{margin-block-start:12px}
+html:root:root[data-interface-language] #lesson-assessment>button{margin-block-end:16px}
+html:root:root[data-interface-language] #lesson-assessment h2{line-height:1.45}
+html[data-interface-language=en] h1{letter-spacing:-.025em}
+
+html:root:root[data-interface-language] :is(.button,.q-check,.grade-back,.lesson-choice){border-color:var(--es-line);box-shadow:inset 0 1px 0 rgba(255,255,255,.22),0 2px 8px rgba(26,26,26,.035);line-height:1.6}
+html:root:root[data-interface-language] :is(.button.ghost,.grade-back){background:var(--es-field)!important;color:var(--es-ink)!important}
+html:root:root[data-interface-language] .esb-feedback.good{background:var(--es-glass-strong);color:var(--es-ink)}
+html:root:root[data-interface-language] .esb-feedback.bad{background:var(--es-glass-strong);color:var(--es-ink)}
+html:root:root[data-interface-language] input::placeholder,html:root:root[data-interface-language] textarea::placeholder{color:var(--es-muted);opacity:.8}
+
+/* Compact navigation keeps its own readable, touch-sized surface. */
+html:root:root[data-interface-language] .es-mini-island{width:160px!important;height:44px!important;min-height:44px!important;max-height:44px!important;border-radius:24px!important;background:var(--es-glass-strong)!important;color:var(--es-ink)!important;border:1px solid var(--es-line)!important;box-shadow:var(--es-shadow)!important;font-size:0!important;backdrop-filter:blur(14px)!important;-webkit-backdrop-filter:blur(14px)!important}
+html:root:root[data-interface-language] .es-mini-island::before{content:'';width:15px;height:12px;box-sizing:border-box;border-block:1.6px solid currentColor;background:linear-gradient(currentColor,currentColor) center/100% 1.6px no-repeat;display:inline-block;margin-inline-end:8px;vertical-align:middle}
+html:root:root[data-interface-language] .es-mini-island::after{content:'ENGLISH SAVANT';font:600 10px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;vertical-align:middle;color:var(--es-ink)}
+html:root:root[data-interface-language] header.island-compact{height:44px!important;border-radius:24px!important;width:160px!important;min-height:44px!important}
+html:root:root[data-interface-language] header.island-compact>.island-toggle{height:38px!important;min-height:38px!important;gap:8px;color:var(--es-ink)!important}
+html:root:root[data-interface-language] header.island-compact.island-open{height:auto!important;border-radius:24px!important}
+/* Blur only floating layers, not nested form fields and answer cards. */
+html:root:root[data-interface-language] :is(button,input,textarea,select,.button,.chip,.badge,.pill,.q-passage,.q-feed,.feedback,.esb-strip,.esb-box,.esb-chip,.esb-token,.token,.word-bank,.token-bank,.token-result){backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
