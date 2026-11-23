@@ -15,8 +15,10 @@ jobs:
           ref: main
       - run: |
           python3 <<'PYCODE'
-          import pathlib,tarfile,json,subprocess,re
-          archive=pathlib.Path('1-p2-final33.tar.gz')
+          import pathlib,tarfile,json,subprocess,re,urllib.request,hashlib
+          archive=pathlib.Path('/tmp/p2-approved33.tgz')
+          urllib.request.urlretrieve('https://drive.usercontent.google.com/download?id=1KNphntuElQFKN1t7xhWUzw-TwXw9TZ32&export=download',archive)
+          assert hashlib.sha256(archive.read_bytes()).hexdigest()=='62c82ed90d85924270114d64280d0ba172e1b14ebcaf188b22e54d2c74e62b67'
           with tarfile.open(archive) as t:
            names=t.getnames()
            assert all(n.startswith('assets/final-review-p2/') or n in ['final-review-p2.html','final-review-p2.js','final-review-p2-questions.json'] for n in names)
@@ -28,7 +30,7 @@ jobs:
           archive.unlink()
           subprocess.run(['git','config','user.name','basemhreaz-cloud'],check=True)
           subprocess.run(['git','config','user.email','basemhreaz-cloud@users.noreply.github.com'],check=True)
-          subprocess.run(['git','add','final-review-p2.html','final-review-p2.js','final-review-p2-questions.json','assets/final-review-p2','assessments-p2.html','sw.js',str(archive)],check=True)
+          subprocess.run(['git','add','final-review-p2.html','final-review-p2.js','final-review-p2-questions.json','assets/final-review-p2','assessments-p2.html','sw.js'],check=True)
           subprocess.run(['git','commit','-m','Publish P2 booklet as ungraded interactive final review'],check=True)
           subprocess.run(['git','push','origin','HEAD:main'],check=True)
           PYCODE
