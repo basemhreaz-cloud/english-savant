@@ -1,0 +1,31 @@
+name: Publish static Achird quiz feedback
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish guarded static feedback
+        run: |
+          python3 - <<'PYCODE'
+          import pathlib,hashlib,zlib,base64,json
+          p=pathlib.Path('fx.js');assert hashlib.sha256(p.read_bytes()).hexdigest()=='db90c316626941bf78b4a8ee2172309320a909f06989b71062dcda7f4bdb47e2'
+          files=json.loads(zlib.decompress(base64.b64decode(''.join(pathlib.Path('.github/workflows/payload71-'+str(i)+'.txt').read_text().strip() for i in range(3)))))
+          assert set(files)=={'audio/achird/ok-ar-3.mp3', 'audio/achird/no-ar-3.mp3', 'audio/achird/ok-ar-2.mp3', 'audio/achird/no-ar-1.mp3', 'audio/achird/ok-en-1.mp3', 'audio/achird/ok-en-2.mp3', 'audio/achird/ok-ar-1.mp3', 'audio/achird/no-en-1.mp3', 'audio/achird/ok-en-3.mp3', 'fx.js', 'audio/achird/no-en-3.mp3', 'audio/achird/no-en-2.mp3', 'audio/achird/no-ar-2.mp3'}
+          frozen={str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in pathlib.Path('.').rglob('*') if p.is_file() and '.git' not in p.parts and p.suffix in ['.json','.js'] and str(p) not in ['fx.js','sw.js']}
+          for n,b in files.items():
+           p=pathlib.Path(n);p.parent.mkdir(parents=True,exist_ok=True);p.write_bytes(base64.b64decode(b))
+          for p in pathlib.Path('.').glob('*.html'):
+           s=p.read_text();v=s.replace('fx.js?v=5','fx.js?v=20261124-achird71');
+           if v!=s:p.write_text(v)
+          p=pathlib.Path('sw.js');s=p.read_text();assert 'english-savant-v70-online' in s;p.write_text(s.replace('english-savant-v70-online','english-savant-v71-achird'))
+          assert all(hashlib.sha256(pathlib.Path(n).read_bytes()).hexdigest()==h for n,h in frozen.items())
+          PYCODE
+          git config user.name basemhreaz-cloud
+          git config user.email basemhreaz-cloud@users.noreply.github.com
+          git add '*.html' fx.js sw.js audio/achird
+          git commit -m "Use static Achird feedback variants without runtime voice service"
+          git push origin HEAD:main
