@@ -59,3 +59,11 @@ body.dark:has(.site-header) .text-button{color:#d4dfc9!important}body.dark .erro
 body.dark :is(.esb-feedback,.q-feed,.feedback){background-color:#252d22;color:#edf0e7;border-color:#65715b}body.dark :is(.esb-feedback.good,.q-feed.good,.feedback.good,.feedback.correct){background:#243522;color:#d7efc9;border-color:#93ac7c}body.dark :is(.esb-feedback.bad,.q-feed.bad,.feedback.bad,.feedback.wrong){background:#3c2723;color:#ffd3c9;border-color:#c98979}
 
 html[data-interface-language] :is(.q-label,.pill,.badge,.chip,.esb-chip,.q-num,.q-state,.eyebrow){border-radius:5px}html[data-interface-language=en] :is(.kg-course-back,.grade-back,.back-link){transform:none}
+
+/* Tool cards: reserve separate cells for status and icon in both languages. */
+html:root:root[data-interface-language] .tool-card{display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:16px;align-content:start;text-align:start}
+html:root:root[data-interface-language] .tool-card>.tool-icon{grid-column:2;grid-row:1;display:block;position:static;margin:0 0 28px;align-self:start;justify-self:end;line-height:1.2;text-align:center;min-width:36px}
+html:root:root[data-interface-language] .tool-card>.badge{grid-column:1;grid-row:1;position:static;inset:auto;align-self:start;justify-self:start;max-width:100%;white-space:normal;overflow-wrap:anywhere;line-height:1.6;border-radius:5px;padding:5px 10px;margin:0 0 28px;font-size:11px}
+html:root:root[data-interface-language] .tool-card>:is(h2,h3,p,.text-link){grid-column:1 / -1;min-width:0}
+html:root:root[data-interface-language=ar] .tool-card{direction:rtl}
+html:root:root[data-interface-language=en] .tool-card{direction:ltr}
