@@ -1,0 +1,32 @@
+name: Correct eight booklet descriptions
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: english-savant-verified-bank-batch
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: |
+          python3 <<'PYCODE'
+          import pathlib,hashlib,base64,gzip,subprocess,re
+          f=pathlib.Path('booklets.html');assert hashlib.sha256(f.read_bytes()).hexdigest()=='e0689a61e2df454e85be0104a157ce22c526c1f83e8f373a4ec0240115a98df4'
+          s=f.read_text()
+          text='بنك أسئلة وأنشطة للمراجعة في اللغة الإنجليزية للفصل الدراسي الأول، يضم محتوى مقتبسًا أو مكيّفًا وبعض المحتوى المؤلَّف. النسخة الحالية لا تشمل تدريبات الاستماع أو الإجابات.'
+          pat=r'(<h2[^>]*>بنك أسئلة ومراجعة ([^<]+)</h2>\s*<p[^>]*>)([^<]+)(</p>)'
+          assert len(list(re.finditer(pat,s)))==9
+          t=re.sub(pat,lambda m:m[0] if m[2]=='الصف الأول الابتدائي' else m[1]+text+m[4],s)
+          assert t.count(text)==8;f.write_text(t)
+          changed=['booklets.html']
+          subprocess.run(['git','config','user.name','basemhreaz-cloud'],check=True)
+          subprocess.run(['git','config','user.email','basemhreaz-cloud@users.noreply.github.com'],check=True)
+          subprocess.run(['git','add',*changed],check=True)
+          subprocess.run(['git','commit','-m','Correct eight booklet descriptions'],check=True)
+          subprocess.run(['git','push','origin','HEAD:main'],check=True)
+          PYCODE
