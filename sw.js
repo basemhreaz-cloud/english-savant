@@ -1,5 +1,5 @@
 /* ENGLISH SAVANT service worker - app shell cache for the PWA */
-const CACHE = 'english-savant-v6-compact';
+const CACHE = 'english-savant-v7-header';
 const ROOT = '/english-savant/';
 const SHELL = [
   ROOT,
@@ -31,7 +31,7 @@ self.addEventListener('fetch', (event) => {
   if (url.origin !== self.location.origin) return;
 
   /* Network-first for pages and JSON so content stays fresh; fall back to cache offline */
-  if (request.mode === 'navigate' || url.pathname.endsWith('.html') || url.pathname.endsWith('.json')) {
+  if (request.mode === 'navigate' || url.pathname.endsWith('.html') || url.pathname.endsWith('.json') || url.pathname.endsWith('/site-interface.css') || url.pathname.endsWith('/site-interface.js')) {
     event.respondWith(
       fetch(request)
         .then((response) => {
