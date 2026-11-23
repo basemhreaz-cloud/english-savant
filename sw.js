@@ -1,5 +1,5 @@
 /* ENGLISH SAVANT service worker - app shell cache for the PWA */
-const CACHE = 'english-savant-v55-icons';
+const CACHE = 'english-savant-v56-inward';
 const ROOT = '/english-savant/';
 const SHELL = [
   ROOT,
