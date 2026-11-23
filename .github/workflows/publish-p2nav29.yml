@@ -1,0 +1,36 @@
+name: Expose P2 lesson assessments in expected navigation
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: english-savant-verified-bank-batch
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: |
+          python3 <<'PYCODE'
+          import pathlib,hashlib,base64,gzip,subprocess,re
+          import pathlib,re
+          icon='<span class="grade-entry-icon"><svg aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" viewBox="0 0 30 30"><rect x="5" y="4" width="20" height="23" rx="4"/><path d="m10 15 4 4 7-9"/></svg></span>'
+          card='<a class="grade-entry" href="lesson-assessments-p2.html">'+icon+'<h2>تقييمات كل درس</h2><p>اختار الوحدة، وبعدها اختار الدرس.</p><span class="grade-entry-open">افتح تقييمات الدروس ←</span></a>'
+          for name in ['grade-p2.html','assessments-p2.html']:
+           p=pathlib.Path(name);s=p.read_text();assert 'href="lesson-assessments-p2.html"'not in s or name=='grade-p2.html'
+           if name=='grade-p2.html':
+            s,n=re.subn(r'<section class="glass" style="padding:24px"><h2>تقييمات كل درس</h2>.*?</section>','',s);assert n==1
+           key='class="wrap grade-hub-grid">';assert key in s;s=s.replace(key,key+card,1);p.write_text(s)
+          p=pathlib.Path('extra-assessments-p2.html');s=p.read_text();key='<h1>تقييماتنا</h1>';assert key in s;s=s.replace(key,key+'<p><a class="button" href="lesson-assessments-p2.html">افتح تقييمات الدروس ←</a></p>',1);p.write_text(s)
+          p=pathlib.Path('lesson-assessments-p2.html');s=p.read_text();assert ' باقي الوحدات قيد الإعداد.'in s;s=s.replace(' باقي الوحدات قيد الإعداد.','');p.write_text(s)
+          p=pathlib.Path('sw.js');s=p.read_text();assert 'english-savant-v26-glass'in s;p.write_text(s.replace('english-savant-v26-glass','english-savant-v29-p2nav'))
+          changed=['grade-p2.html','assessments-p2.html','extra-assessments-p2.html','lesson-assessments-p2.html','sw.js']
+          subprocess.run(['git','config','user.name','basemhreaz-cloud'],check=True)
+          subprocess.run(['git','config','user.email','basemhreaz-cloud@users.noreply.github.com'],check=True)
+          subprocess.run(['git','add',*changed],check=True)
+          subprocess.run(['git','commit','-m','Expose P2 lesson assessments in expected navigation'],check=True)
+          subprocess.run(['git','push','origin','HEAD:main'],check=True)
+          PYCODE
