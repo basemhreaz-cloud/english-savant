@@ -754,7 +754,7 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false,
+    "requires_image": true,
     "accept": [
       "cow"
     ],
@@ -762,7 +762,9 @@
       "c",
       "w",
       "o"
-    ]
+    ],
+    "image": "p1-lessons-assets/img/kg-cow.png",
+    "alt": "Picture clue for the word"
   },
   {
     "grade": "P1",
@@ -780,7 +782,7 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false,
+    "requires_image": true,
     "accept": [
       "duck"
     ],
@@ -789,7 +791,9 @@
       "c",
       "d",
       "u"
-    ]
+    ],
+    "image": "images/words/fixed-duck.png",
+    "alt": "Picture clue for the word"
   },
   {
     "grade": "P1",
@@ -1369,7 +1373,7 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false,
+    "requires_image": true,
     "letters": [
       "n",
       "m",
@@ -1378,7 +1382,9 @@
     ],
     "accept": [
       "moon"
-    ]
+    ],
+    "image": "p1-lessons-assets/img/obj-moon.png",
+    "alt": "Picture clue for the word"
   },
   {
     "grade": "P1",
@@ -1396,7 +1402,7 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false,
+    "requires_image": true,
     "letters": [
       "m",
       "y",
@@ -1407,7 +1413,9 @@
     ],
     "accept": [
       "monkey"
-    ]
+    ],
+    "image": "p1-lessons-assets/img/kg-monkey.png",
+    "alt": "Picture clue for the word"
   },
   {
     "grade": "P1",
@@ -1851,7 +1859,7 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false,
+    "requires_image": true,
     "letters": [
       "a",
       "s",
@@ -1862,7 +1870,9 @@
     ],
     "accept": [
       "grapes"
-    ]
+    ],
+    "image": "p1-lessons-assets/img/obj-grapes.png",
+    "alt": "Picture clue for the word"
   },
   {
     "grade": "P1",
@@ -1880,7 +1890,7 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false,
+    "requires_image": true,
     "letters": [
       "g",
       "a",
@@ -1889,7 +1899,9 @@
     ],
     "accept": [
       "goat"
-    ]
+    ],
+    "image": "images/words/goat.jpg",
+    "alt": "Picture clue for the word"
   },
   {
     "grade": "P1",
@@ -3103,7 +3115,7 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false,
+    "requires_image": true,
     "letters": [
       "c",
       "p",
@@ -3115,7 +3127,9 @@
     ],
     "accept": [
       "octopus"
-    ]
+    ],
+    "image": "images/words/octopus.png",
+    "alt": "Picture clue for the word"
   },
   {
     "grade": "P1",
@@ -3559,7 +3573,7 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false,
+    "requires_image": true,
     "letters": [
       "h",
       "f",
@@ -3568,7 +3582,9 @@
     ],
     "accept": [
       "fish"
-    ]
+    ],
+    "image": "images/words/fixed-fish.png",
+    "alt": "Picture clue for the word"
   },
   {
     "grade": "P1",
@@ -3586,7 +3602,7 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false,
+    "requires_image": true,
     "letters": [
       "o",
       "k",
@@ -3595,7 +3611,9 @@
     ],
     "accept": [
       "fork"
-    ]
+    ],
+    "image": "p1-lessons-assets/img/obj-fork.png",
+    "alt": "Picture clue for the word"
   },
   {
     "grade": "P1",

@@ -1574,7 +1574,9 @@
       "sun"
     ],
     "image_optional": null,
-    "requires_image": false
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/sun.png",
+    "alt": "Picture clue for the word"
   },
   {
     "grade": "P1",
@@ -1601,7 +1603,9 @@
       "star"
     ],
     "image_optional": null,
-    "requires_image": false
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/star.png",
+    "alt": "Picture clue for the word"
   },
   {
     "grade": "P1",
@@ -3213,7 +3217,9 @@
       "ant"
     ],
     "image_optional": null,
-    "requires_image": false
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/kg-ant.png",
+    "alt": "Picture clue for the word"
   },
   {
     "grade": "P1",
@@ -3239,7 +3245,9 @@
       "axe"
     ],
     "image_optional": null,
-    "requires_image": false
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/obj-axe.png",
+    "alt": "Picture clue for the word"
   },
   {
     "grade": "P1",
@@ -3267,7 +3275,9 @@
       "apple"
     ],
     "image_optional": null,
-    "requires_image": false
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/apple.png",
+    "alt": "Picture clue for the word"
   },
   {
     "grade": "P1",
