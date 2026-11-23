@@ -3,3 +3,5 @@
 #u1p .row button{min-width:50px}
 
 #u1p .countobjects img:only-child{width:80%;max-width:240px}
+
+[data-answer-options][hidden]{display:none!important}button.is-chosen{outline:4px solid #476939;outline-offset:2px}button.is-correct{border:3px solid #2b733b!important;background:#e4f4e4!important;opacity:1!important}button.is-wrong{border:3px solid #a54829!important;background:#fff0e8!important}

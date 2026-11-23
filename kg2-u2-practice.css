@@ -5,3 +5,5 @@
 #u2p .countobjects img:only-child{width:80%;max-width:240px}
 
 #u2p .countobjects{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}#u2p .countobjects img{width:100%;max-width:100%;height:120px}#u2p .buildgrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:16px 0}#u2p .buildgrid img{height:105px}@media(max-width:450px){#u2p .countobjects img{height:95px}#u2p .buildgrid img{height:90px}}
+
+[data-answer-options][hidden]{display:none!important}button.is-chosen{outline:4px solid #476939;outline-offset:2px}button.is-correct{border:3px solid #2b733b!important;background:#e4f4e4!important;opacity:1!important}button.is-wrong{border:3px solid #a54829!important;background:#fff0e8!important}
