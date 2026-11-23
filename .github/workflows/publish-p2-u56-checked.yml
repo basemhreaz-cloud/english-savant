@@ -1,0 +1,39 @@
+name: Publish reviewed P2 Units5 and6 lessons
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: english-savant-verified-bank-batch
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: |
+          python3 <<'PYCODE'
+          import pathlib,hashlib,base64,tarfile,io,subprocess
+          expected={'lesson-assessments-p2.html': '46e977846b666fd5d959f8e9c7179406d0079e2f084df7583f304f4b91eb760a', 'lesson-assessment-p2.js': '48fdf11553505c717a35f8bea996295e4ae2bcf3483f395f35a1bafe2f638578'}
+          for n,h in expected.items():assert hashlib.sha256(pathlib.Path(n).read_bytes()).hexdigest()==h,n
+          payload=''.join(pathlib.Path('.github/workflows/u56-part-'+str(i)+'.txt').read_text().strip()for i in range(6))
+          z=tarfile.open(fileobj=io.BytesIO(base64.b64decode(payload)),mode='r:gz')
+          changed=[]
+          for m in z.getmembers():
+           assert m.isfile() and '..' not in pathlib.Path(m.name).parts and not m.name.startswith('/'),m.name
+           target=pathlib.Path(m.name)
+           if target.exists() and target.suffix=='.jpg':assert target.read_bytes()==z.extractfile(m).read(),m.name
+           target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(z.extractfile(m).read());changed.append(m.name)
+          f=pathlib.Path('sitemap.xml');s=f.read_text()
+          for u in [5,6]:
+           url='https://basemhreaz-cloud.github.io/english-savant/lesson-assessment-p2-u'+str(u)+'.html'
+           if url not in s:s=s.replace('</urlset>','<url><loc>'+url+'</loc><lastmod>2026-11-23</lastmod></url></urlset>')
+          f.write_text(s);changed.append('sitemap.xml')
+          subprocess.run(['git','config','user.name','basemhreaz-cloud'],check=True)
+          subprocess.run(['git','config','user.email','basemhreaz-cloud@users.noreply.github.com'],check=True)
+          subprocess.run(['git','add',*changed],check=True)
+          subprocess.run(['git','commit','-m','Publish reviewed tested P2 Units5 and6 lesson assessments'],check=True)
+          subprocess.run(['git','push','origin','HEAD:main'],check=True)
+          PYCODE
