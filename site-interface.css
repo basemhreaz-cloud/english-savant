@@ -281,3 +281,8 @@ html:root:root[data-interface-language] body *:where(:not(.brand):not(.brand *):
 html:root:root[data-interface-language] body :is(h1,h2,h3,h4,h5,h6,[role=heading]):not(.brand *):not(.identity-card *):not(.floating-note *),
 html:root:root[data-interface-language] body :is(h1,h2,h3,h4,h5,h6,[role=heading]) *:not(svg):not(svg *){font-family:'Baloo Bhaijaan 2','IBM Plex Sans Arabic',Tahoma,Arial,sans-serif!important}
 html:root:root[data-interface-language] .es-mini-island::after{font-family:'IBM Plex Sans Arabic',Tahoma,Arial,sans-serif!important}
+
+/* The incomplete word is separate from the instruction and answer field. */
+html:root:root[data-interface-language] .es-missing-word{display:block;width:max-content;max-width:100%;margin:12px auto;font-size:clamp(32px,7vw,42px)!important;font-weight:700!important;line-height:1.55!important;letter-spacing:.07em!important;text-align:center;direction:ltr;unicode-bidi:isolate;overflow-wrap:anywhere}
+/* Contact belongs to the footer/contact section, never the header. */
+html:root:root[data-interface-language] header a[href*="wa.me/"]{display:none!important}
