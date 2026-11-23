@@ -1,0 +1,25 @@
+name: Host Android APK with install guidance
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish checked Android download
+        run: |
+          python3 - <<'PYCODE'
+          import pathlib,hashlib,base64,zlib
+          frozen={str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in pathlib.Path('.').rglob('*') if p.is_file() and '.git' not in p.parts and p.suffix in ['.js','.json'] and str(p)!='sw.js'}
+          data=''.join(pathlib.Path('.github/workflows/apk65-'+str(i)+'.txt').read_text().strip() for i in range(2));apk=zlib.decompress(base64.b64decode(data));assert len(apk)==205298;assert hashlib.sha256(apk).hexdigest()=='031bcd997f6fce3e71cac00b2ad7cb237e9a3aa9de2ef59f8ef2075fa8bd0d52';pathlib.Path('English-Savant-1.0.0.apk').write_bytes(apk)
+          p=pathlib.Path('index.html');assert hashlib.sha256(p.read_bytes()).hexdigest()=='73cac7cbab81a2d835b2944dfc1edece44d1c367df8427dc667d604b293633ee';s=p.read_text();section=zlib.decompress(base64.b64decode('eJx9VMFO20AQ/ZWR73ZIitoqdSxxQLRqhZCoet/Yi7Nia1vOEkhvQEgg6qXqJ6AqIRAiFFBKj/2K2Wu/pLNrhwpaVZGSndmZt2/fm43f5qESaQKhZO12w9nPWQahYhCb2AERNRyWRHkqIpdlmQMsF8yVrMml5FGz+2jXVUJJ7kBbdSVvOB9ZHovEbco03K0/q2UHrzIWRSKJ67VVChQ/UC6TIk7qIU8Uzx2ImGKuMOsdFnI3y1NF9DhxUPkedwI/Ep3Ab9We0ioPDtY3N9692X4N22sf1jbfA97rnj4DfaJPcYwjPaTw2K+0aoGfBRQf4gSnQIsezvCGiuZAXyac2MTQdOHEAPSBcgscE8YR4LnuFx1UMvOgbFlu6xOcUjjCK8BvVDmhSvP9mdCLPfo9s12Gmj7CezCthg3BXgJeWRoDz69kgc+W3jT3lEoTB1o532k460ksRbvlbrMOS5Rb9Vbow7JdUjHdT2TKov/VqG5GDpF0UoTMDEClk0ReKamXsXCXxdxledgSHRIWp8T0i+49veqv/le/wkjOJ56rNKtXn5PJUiTcbXERt1S96r0kpDHe42yJY2DJFZLmwQ7K9PQhrG299YBWpw86LS0EXFDH2Pbg3AgKdsvgXRY6lo7ZRsreEfTUgJnwBi8AZ1Rl7CjY6AGOyF8ygky1C324vKs5YGSOIEN1Xw/J7bkZDDDcDSGC25KsC1vFsALe4g/beVHY9yDNTkoWtMUnXq+u/qXMC1Lm0VQBUTjCBfxc0BDhHW2MiJt10OamxaTqIdRWVkAf2+EuNcKJ38wDQpvjtbntOUHah9CzIl2RBmO8MAKY+w3MwI6MmMutCd7+6+0QJZslDSh9Qmf2gQ77TvJZ1fp2KAYG9byU/4/FpSXX5hr0MDbSNJbcKlfIVLFPu1L+HQW/AR42ZUI=')).decode();s=s.replace('</main>',section+'</main>');needle='<a class="button secondary" href="tools.html">جرّب أدوات التعلّم</a>';assert needle in s;s=s.replace(needle,needle+zlib.decompress(base64.b64decode('eJwFwTEOwjAMAMCvWGaO+EDTv5jEFZVQEjnuwIoKAxvqI0BIzHzFXnkJdwNBOlHvEQ+Lai3QOdWSSc4IR+Ep4o5KljrnQK0hZFIKc1GWiRKHJlU5KeeIKgvjaB+/+sNXsKev9ravvfzuF/jdtmFP4x9IES+5')).decode(),1);p.write_text(s)
+          p=pathlib.Path('sw.js');s=p.read_text();assert 'english-savant-v64-verify' in s;p.write_text(s.replace('english-savant-v64-verify','english-savant-v65-app'))
+          assert all(hashlib.sha256(pathlib.Path(n).read_bytes()).hexdigest()==h for n,h in frozen.items()),'other code/data changed'
+          PYCODE
+          git config user.name basemhreaz-cloud
+          git config user.email basemhreaz-cloud@users.noreply.github.com
+          git add index.html English-Savant-1.0.0.apk sw.js
+          git commit -m "Host Android APK test build and branded download guidance"
+          git push origin HEAD:main
