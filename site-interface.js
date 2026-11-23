@@ -163,3 +163,14 @@ function start(){let meta=document.querySelector('meta[name=google]');if(!meta){
 window.ESInterface={setLanguage,getLanguage:()=>language,translate:s=>language==='en'?english(s):s,refresh:apply};
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start,{once:true});else start();
 })();
+
+// A long assessment section may never reach the legacy 12% reveal threshold.
+// Observe only oversized unrevealed sections, retaining the same entrance class.
+(function(){
+ function checkLongSections(){
+  if(!('IntersectionObserver' in window))return;
+  var observer=new IntersectionObserver(function(entries){entries.forEach(function(entry){if(entry.isIntersecting){entry.target.classList.add('in');observer.unobserve(entry.target)}})},{threshold:0,rootMargin:'0px 0px -40px 0px'});
+  document.querySelectorAll('.section.reveal:not(.in)').forEach(function(section){if(section.getBoundingClientRect().height>window.innerHeight*4)observer.observe(section)});
+ }
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',function(){requestAnimationFrame(checkLongSections)},{once:true});else requestAnimationFrame(checkLongSections);
+})();

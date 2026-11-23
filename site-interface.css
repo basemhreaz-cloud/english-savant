@@ -104,3 +104,5 @@ html:root:root[data-interface-language] body.dark .esb-meter{background:#4b5644}
 html:root:root[data-interface-language] body.dark .esb-meter span{background:#c7d2be}
 html:root:root[data-interface-language] body.dark .esb-jump[data-done=true]{background:#34482a;color:#e4f3d8}
 html:root:root[data-interface-language] body.dark .esb-jump[aria-current=true]{background:#516445;color:#fff;border-color:#a6bd92}
+/* Legacy choice buttons must not blend a pale translucent fill over dark cards. */
+html:root:root[data-interface-language] body.dark .opt:not(.ok):not(.no){background:#2b3327;color:#edf0e7;border-color:#65715b}
