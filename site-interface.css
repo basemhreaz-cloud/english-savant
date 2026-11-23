@@ -296,3 +296,8 @@ html:root:root[data-interface-language] body.es-p2-controls .esb-answer>input,ht
 html:root:root[data-interface-language] body.es-p2-controls .esb-actions{justify-content:center!important}
 html:root:root[data-interface-language] body.es-p2-controls .final-field{align-items:center!important;text-align:center}
 html:root:root[data-interface-language] body.es-p2-controls .final-field>input,html:root:root[data-interface-language] body.es-p2-controls .final-field>textarea{margin-inline:auto!important}
+
+html:root:root[data-interface-language] .final-verify-actions{display:flex;justify-content:center;width:100%;margin:16px auto 0}
+html:root:root[data-interface-language] .final-verify{margin-inline:auto!important;min-height:44px}
+html:root:root[data-interface-language] .final-feedback{width:100%;text-align:center;line-height:1.7;margin:10px auto;overflow-wrap:anywhere}
+.final-feedback:empty{display:none}.final-feedback[data-state=correct]{color:var(--olive);font-weight:600}.final-verified-model{display:block;margin-top:6px}
