@@ -1,0 +1,30 @@
+name: Balance header proportions
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: english-savant-verified-bank-batch
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: |
+          python3 <<'PYCODE'
+          import pathlib,hashlib,gzip,base64,subprocess
+          manifest={'site-interface.css': {'before': '2a46e26406672736cbe63d7ad7dd75dc57b5c1f010b25073bd692807b0103cab', 'after': '7d30272c9abe1cb4b748d33f9e33b7105e957a6343896bfea2d2948906f67c89'}, 'sw.js': {'before': '999e7239c85261133f03bb232565e5b1d1a4b4a3e40d5fbf2e89ccd640c86b46', 'after': '72f73d05307545928be98eaf354cdb24541cbc1f02c178da89a7d29ecafc64cf'}}
+          payload={'site-interface.css': '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', 'sw.js': 'H4sIANb/A2sC/61UUW/aMBB+51fcXkrSQdAmTdOEmIQq1HZCtCrt+jDtwU0uxMXYmW2oqpb/vrPjBOgEotL60Ji7z+fP333n3imMJufjy+kFTIc/h5NbMKhXPEV4UnqOGrrAyhJMgUJAytICIVcaLH2v74dw2mulShoLZ8OzixEMoI1yJrgpuoatmLTd1ddugSxD3e4H5M3V1a0D9naRvQYwvRiNx4T41QIP7oQvfIT2gkmeo7HJEz7U6/Y2gLsaPfe/++nb56SUs33pL5+qdOt3v9UyKPKEZdlohdKOubEoUUdtTnyYEO0OROgyMQy+wwvV87+SJ8btnbRcRBSCSh6TqBJl5PWIE9JJRpFP+L1+5Q4aChH5i8Y1yOc9DzPn5T2V5nIWxTGVjvutdbyfJUstXzGL76M5x2cTxT4CEDi4mN98rdWCG2JKNF0wybmwdFY09+l5Qrpoa+65LaK3LW/HcHICc/gwGECQYcHKems4PUOBFikWx284bHRIBSf6hr6ML45SIkebFv/KUPnqBTT+WZJhYE3u8og+JXkOUUgkC7SFyjzz9vnolm6i0S617DdFllrQZolPcHczbvZR1LEC6J3ChCrrMCpuTIaX9SjR3CiKUFIrY7pK8xmXhBTCuEGqqFCpJGQcDX9RoVJmuZIhsWFVn2jdCd2ca2LoxrNkMzTAZAY/plcTMMqxJ40sUN+eDeQaTdGHnI6GB5bOwarAWOW54BI3fBppVIYwcMJItuIzZzd4fXV6JCWzhWQLTFBmwRJJYReC5DuAeDRKHkT0DLfY5cRb5yzFJDXmXfhHgse+//Ug0K1LJTMPD6bzjqkvWTux8WK1wWDjpPqvUqZKJmoe7yRrr6SqfCazNLhUKIlR3N+FHvtolEtb8+z40vFOpfXWurJHc/AGtt66IVmKbh5tD+WCbYsReBS8GiT6OvF3oO5ZrQc4sNkMzDrY88zt2DInWdDyFJgxaA1E/knuAPUhiSvb7WnWMSTrNrj++FiQgta1CiGy2/jD/T7Y7aN7/X86venzni6vA3i99V7+BcN2eXvmBwAA'}
+          for n,v in manifest.items():
+           assert hashlib.sha256(pathlib.Path(n).read_bytes()).hexdigest()==v['before'],n
+          for n,v in manifest.items():
+           b=gzip.decompress(base64.b64decode(payload[n]));assert hashlib.sha256(b).hexdigest()==v['after'];pathlib.Path(n).write_bytes(b)
+          subprocess.run(['git','config','user.name','basemhreaz-cloud'],check=True)
+          subprocess.run(['git','config','user.email','basemhreaz-cloud@users.noreply.github.com'],check=True)
+          subprocess.run(['git','add','site-interface.css','sw.js'],check=True)
+          subprocess.run(['git','commit','-m','Balance normal header height and square island corners'],check=True)
+          subprocess.run(['git','push','origin','HEAD:main'],check=True)
+          PYCODE
