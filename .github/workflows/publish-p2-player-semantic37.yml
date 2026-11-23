@@ -1,0 +1,39 @@
+name: Fix P2 player version and clear family clues
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: |
+          python3 <<'PYCODE'
+          import json,pathlib,base64
+          p=pathlib.Path('lessons.json');d=json.loads(p.read_text());q=next(x for x in d['lessons'] if x['id']=='p2-u1-lesson');assert q['mp4']=='videos/ES_P2_T1_U1.mp4?v=20261123-36';q['mp4']='videos/ES_P2_T1_U1.mp4';q['media_version']='a125b86382c9';p.write_text(json.dumps(d,ensure_ascii=False,indent=2))
+          patches=json.loads(base64.b64decode(
+           'W3siaWQiOiAyMCwgInByb21wdCI6ICJNeSBwYXJlbnRzLCBteSBicm90aGVyIGFuZCBJIGFyZSBhIF9fXy4iLCAiZXhwbGFuYXRp'
+           'b25fYXIiOiAi2YjYp9mE2K/Yp9mKINmI2KPYrtmKINmI2KPZhtinINi52KfYptmE2Kk6IGZhbWlseS4g2KfZhNi52YTYp9mC2Kkg'
+           '2KfZhNij2LPYsdmK2Kkg2YfZhtinINmI2KfYttit2Kkg2YXZhiBwYXJlbnRzINmIYnJvdGhlctiMINmF2LQg2YXZhiDYudiv2K8g'
+           '2KfZhNij2LTYrtin2LUg2KPZiCDYtNmD2YTZh9mFLiJ9LCB7ImlkIjogMjIsICJwcm9tcHQiOiAiV2UgaGF2ZSB0aGUgc2FtZSBw'
+           'YXJlbnRzLiBTaGUgaXMgbXkgX19fLiIsICJleHBsYW5hdGlvbl9hciI6ICLZhNmF2Kcg2YrZg9mI2YYg2YTZhtinINmG2YHYsyDY'
+           'p9mE2YjYp9mE2K/ZitmG2Iwg2KfZhNio2YbYqiDYqtmD2YjZhiDYo9iu2KrZijogc2lzdGVyLiDZhdi0INmF2KzYsdivINio2YbY'
+           'qiDYqNmG2YTYudioINmF2LnYp9mH2KcuIn0sIHsiaWQiOiAyMywgInByb21wdCI6ICJXZSBoYXZlIHRoZSBzYW1lIHBhcmVudHMu'
+           'IEhlIGlzIG15IF9fXy4iLCAiZXhwbGFuYXRpb25fYXIiOiAi2YTZhdinINmK2YPZiNmGINmE2YbYpyDZhtmB2LMg2KfZhNmI2KfZ'
+           'hNiv2YrZhtiMINin2YTZiNmE2K8g2YrZg9mI2YYg2KPYrtmKOiBicm90aGVyLiDYrdioINmD2LHYqSDYp9mE2YLYr9mFINmI2K3Y'
+           'r9mHINmF2LQg2K/ZhNmK2YQg2LnZhNmJINin2YTZgtix2KfYqNipLiJ9XQ=='
+          ))
+          p=pathlib.Path('es-bank-p2-u5.json');d=json.loads(p.read_text())
+          for patch in patches:
+           q=next(x for x in d['questions']if x['id']==patch['id']);q.update(patch)
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2))
+          p=pathlib.Path('sw.js');s=p.read_text();assert 'english-savant-v36-p2-u1-video'in s;p.write_text(s.replace('english-savant-v36-p2-u1-video','english-savant-v37-p2-fixes'))
+          PYCODE
+          git config user.name basemhreaz-cloud
+          git config user.email basemhreaz-cloud@users.noreply.github.com
+          git add lessons.json es-bank-p2-u5.json sw.js
+          git commit -m 'Fix P2 player cache version and explicit family relationship clues'
+          git push origin HEAD:main
