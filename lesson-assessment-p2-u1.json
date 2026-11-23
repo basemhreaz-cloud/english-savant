@@ -24,7 +24,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/fixed-chair.png",
     "alt": "Picture clue",
     "requires_image": true
@@ -54,7 +54,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/teacher.png",
     "alt": "Picture clue",
     "requires_image": true
@@ -84,7 +84,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/friends.png",
     "alt": "Picture clue",
     "requires_image": true
@@ -114,7 +114,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/hello.png",
     "alt": "Picture clue",
     "requires_image": true
@@ -140,7 +140,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/desk.jpg",
     "alt": "Picture clue",
     "requires_image": true,
@@ -172,7 +172,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/p2-student.jpg",
     "alt": "Picture clue",
     "requires_image": true,
@@ -208,7 +208,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
   },
   {
     "grade": "P2",
@@ -235,7 +235,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
   },
   {
     "grade": "P2",
@@ -262,7 +262,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
   },
   {
     "grade": "P2",
@@ -289,7 +289,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
   },
   {
     "grade": "P2",
@@ -316,7 +316,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
   },
   {
     "grade": "P2",
@@ -354,7 +354,7 @@
       ]
     },
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "word_bank": [
       "desk",
       "teacher",
@@ -397,7 +397,7 @@
       ]
     },
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "word_bank": [
       "desk",
       "teacher",
@@ -440,7 +440,7 @@
       ]
     },
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "word_bank": [
       "desk",
       "teacher",
@@ -476,13 +476,17 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "answer_tokens": [
       "What's",
       "your",
       "name",
       "?"
-    ]
+    ],
+    "image": "p2-lessons-assets/img/hello.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged"
   },
   {
     "grade": "P2",
@@ -514,13 +518,17 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "answer_tokens": [
       "Hello.",
       "I",
       "am",
       "Sama."
-    ]
+    ],
+    "image": "p2-lessons-assets/img/hello.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged"
   },
   {
     "grade": "P2",
@@ -552,14 +560,18 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "answer_tokens": [
       "May",
       "I",
       "sit",
       "down",
       "?"
-    ]
+    ],
+    "image": "images/words/fixed-chair.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged"
   },
   {
     "grade": "P2",
@@ -591,14 +603,18 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "answer_tokens": [
       "My",
       "teacher",
       "is",
       "kind",
       "."
-    ]
+    ],
+    "image": "images/words/teacher.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged"
   },
   {
     "grade": "P2",
@@ -630,14 +646,18 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "answer_tokens": [
       "I",
       "sit",
       "on",
       "a chair",
       "."
-    ]
+    ],
+    "image": "images/words/fixed-chair.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged"
   },
   {
     "grade": "P2",
@@ -664,7 +684,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/salma.png",
     "alt": "Picture clue",
     "requires_image": true
@@ -694,7 +714,7 @@
     "case_sensitive": true,
     "punctuation_sensitive": true,
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "strict_case": true,
     "strict_punctuation": true
   },
@@ -723,7 +743,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
   },
   {
     "grade": "P2",
@@ -750,7 +770,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
   },
   {
     "grade": "P2",
@@ -777,7 +797,7 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
   },
   {
     "grade": "P2",
@@ -804,7 +824,7 @@
     "review_status": "draft: source-adapted, not publisher-validated",
     "credit": "distinct printed productive spelling task; dictation equivalents excluded",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/fixed-chair.png",
     "alt": "Picture clue",
     "requires_image": true,
@@ -841,7 +861,7 @@
     "review_status": "draft: source-adapted, not publisher-validated",
     "credit": "distinct printed productive spelling task; dictation equivalents excluded",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/p2-student.jpg",
     "alt": "Picture clue",
     "requires_image": true,
@@ -878,7 +898,7 @@
     "review_status": "draft: source-adapted, not publisher-validated",
     "credit": "distinct printed productive spelling task; dictation equivalents excluded",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/teacher.png",
     "alt": "Picture clue",
     "requires_image": true,
@@ -915,7 +935,7 @@
     "review_status": "draft: source-adapted, not publisher-validated",
     "credit": "distinct printed productive spelling task; dictation equivalents excluded",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/desk.jpg",
     "alt": "Picture clue",
     "requires_image": true,
@@ -952,7 +972,7 @@
     "review_status": "draft: source-adapted, not publisher-validated",
     "credit": "distinct printed productive spelling task; dictation equivalents excluded",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/hello.png",
     "alt": "Picture clue",
     "requires_image": true,
@@ -999,7 +1019,7 @@
     "alt": "Picture clue",
     "requires_image": true,
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
   },
   {
     "grade": "P2",
@@ -1038,7 +1058,7 @@
     "alt": "Picture clue",
     "requires_image": true,
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
   },
   {
     "grade": "P2",
@@ -1074,6 +1094,2816 @@
     "alt": "Picture clue",
     "requires_image": true,
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source-pixel reviewed; exclusions and distinct task forms checked; functional QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-cp-1",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p27 (printed p27, offset 0), Study Checkpoint Read and circle item 1",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الإجابة الصح: door (باب). اربط الكلمة بالصورة اللي تطابق معناها بالظبط وبصّ كويس على باقي الصور قبل ما تختار.",
+    "source_change": "none",
+    "prompt": "Read the word and choose the picture: door",
+    "answer": "door",
+    "picture_needed": "three pictures: window, door, pen; door is the middle one",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "options": [
+      "window",
+      "door",
+      "pen"
+    ],
+    "option_images": {
+      "window": "p2-lessons-assets/img/window.png",
+      "door": "images/words/door.png",
+      "pen": "images/words/pen.png"
+    }
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-cp-2",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p27 (printed p27, offset 0), Study Checkpoint Read and circle item 2",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الإجابة الصح: bag (شنطة). اربط الكلمة بالصورة اللي تطابق معناها بالظبط وبصّ كويس على باقي الصور قبل ما تختار.",
+    "source_change": "none",
+    "prompt": "Read the word and choose the picture: bag",
+    "answer": "bag",
+    "picture_needed": "three pictures: backpack, blue book, green board; bag is the first",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "options": [
+      "bag",
+      "book",
+      "board"
+    ],
+    "option_images": {
+      "bag": "p2-lessons-assets/img/bag.png",
+      "book": "images/words/book.jpg",
+      "board": "images/words/fixed-board.png"
+    }
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-cp-3",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p27 (printed p27, offset 0), Study Checkpoint Read and circle item 3",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الإجابة الصح: pen (قلم). اربط الكلمة بالصورة اللي تطابق معناها بالظبط وبصّ كويس على باقي الصور قبل ما تختار.",
+    "source_change": "none",
+    "prompt": "Read the word and choose the picture: pen",
+    "answer": "pen",
+    "picture_needed": "three pictures: red notebook, window, pen; pen is the third",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "options": [
+      "notebook",
+      "window",
+      "pen"
+    ],
+    "option_images": {
+      "notebook": "p2-lessons-assets/img/notebook.png",
+      "window": "p2-lessons-assets/img/window.png",
+      "pen": "images/words/pen.png"
+    }
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-cp-4",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p27 (printed p27, offset 0), Study Checkpoint Read and circle item 4",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الإجابة الصح: board (سبورة). اربط الكلمة بالصورة اللي تطابق معناها بالظبط وبصّ كويس على باقي الصور قبل ما تختار.",
+    "source_change": "none",
+    "prompt": "Read the word and choose the picture: board",
+    "answer": "board",
+    "picture_needed": "three pictures: door, green board, red notebook; board is the middle one",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "options": [
+      "door",
+      "board",
+      "notebook"
+    ],
+    "option_images": {
+      "door": "images/words/door.png",
+      "board": "images/words/fixed-board.png",
+      "notebook": "p2-lessons-assets/img/notebook.png"
+    }
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-hw-1",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p28 (printed p28, offset 0), Homework Time Look and write item 1",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة هي board ومعناها سبورة. بصّ على الصورة واكتب الكلمة بالحروف الصحيحة وبدون ما تبص على ورقة الكلمات.",
+    "source_change": "source has the printed word under each picture to copy; adapted to write from the picture without the printed label",
+    "prompt": "Look at the picture and write the word.",
+    "answer": "board",
+    "accept": [
+      "board"
+    ],
+    "picture_needed": "a picture of a board",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/fixed-board.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-hw-2",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p28 (printed p28, offset 0), Homework Time Look and write item 2",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة هي window ومعناها شباك. بصّ على الصورة واكتب الكلمة بالحروف الصحيحة وبدون ما تبص على ورقة الكلمات.",
+    "source_change": "source has the printed word under each picture to copy; adapted to write from the picture without the printed label",
+    "prompt": "Look at the picture and write the word.",
+    "answer": "window",
+    "accept": [
+      "window"
+    ],
+    "picture_needed": "a picture of a window",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/window.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-hw-3",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p28 (printed p28, offset 0), Homework Time Look and write item 3",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة هي door ومعناها باب. بصّ على الصورة واكتب الكلمة بالحروف الصحيحة وبدون ما تبص على ورقة الكلمات.",
+    "source_change": "source has the printed word under each picture to copy; adapted to write from the picture without the printed label",
+    "prompt": "Look at the picture and write the word.",
+    "answer": "door",
+    "accept": [
+      "door"
+    ],
+    "picture_needed": "a picture of a door",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/door.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-hw-4",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p28 (printed p28, offset 0), Homework Time Look and write item 4",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة هي pen ومعناها قلم. بصّ على الصورة واكتب الكلمة بالحروف الصحيحة وبدون ما تبص على ورقة الكلمات.",
+    "source_change": "source has the printed word under each picture to copy; adapted to write from the picture without the printed label",
+    "prompt": "Look at the picture and write the word.",
+    "answer": "pen",
+    "accept": [
+      "pen"
+    ],
+    "picture_needed": "a picture of a pen",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/pen.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-hw-5",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p28 (printed p28, offset 0), Homework Time Look and write item 5",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة هي book ومعناها كتاب. بصّ على الصورة واكتب الكلمة بالحروف الصحيحة وبدون ما تبص على ورقة الكلمات.",
+    "source_change": "source has the printed word under each picture to copy; adapted to write from the picture without the printed label",
+    "prompt": "Look at the picture and write the word.",
+    "answer": "book",
+    "accept": [
+      "book"
+    ],
+    "picture_needed": "a picture of a book",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/book.jpg",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-hw-6",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p28 (printed p28, offset 0), Homework Time Look and write item 6",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة هي notebook ومعناها كراسة. بصّ على الصورة واكتب الكلمة بالحروف الصحيحة وبدون ما تبص على ورقة الكلمات.",
+    "source_change": "source has the printed word under each picture to copy; adapted to write from the picture without the printed label",
+    "prompt": "Look at the picture and write the word.",
+    "answer": "notebook",
+    "accept": [
+      "notebook"
+    ],
+    "picture_needed": "a picture of a notebook",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/notebook.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-hw-7",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p28 (printed p28, offset 0), Homework Time Look and write item 7",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة هي bag ومعناها شنطة. بصّ على الصورة واكتب الكلمة بالحروف الصحيحة وبدون ما تبص على ورقة الكلمات.",
+    "source_change": "source has the printed word under each picture to copy; adapted to write from the picture without the printed label",
+    "prompt": "Look at the picture and write the word.",
+    "answer": "bag",
+    "accept": [
+      "bag"
+    ],
+    "picture_needed": "a picture of a bag",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/bag.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-ph-1",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p29 (printed p29, offset 0), Phonics Focus short a Checkpoint Look and circle item 1",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الإجابة الصح: map (خريطة). اقرأ الكلمتين بحرف a القصير /æ/ وركّز على الحرف الأخير: cap بتنتهي بـ p وcat بتنتهي بـ t، وman وmap مختلفين في الحرف الأخير. اختار الكلمة المطابقة للصورة.",
+    "source_change": "none",
+    "prompt": "Look at the picture. Choose the word.",
+    "options": [
+      "man",
+      "map"
+    ],
+    "answer": "map",
+    "picture_needed": "a map",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/map.jpg",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-ph-2",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p29 (printed p29, offset 0), Phonics Focus short a Checkpoint Look and circle item 2",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الإجابة الصح: cap (كاب). اقرأ الكلمتين بحرف a القصير /æ/ وركّز على الحرف الأخير: cap بتنتهي بـ p وcat بتنتهي بـ t، وman وmap مختلفين في الحرف الأخير. اختار الكلمة المطابقة للصورة.",
+    "source_change": "none",
+    "prompt": "Look at the picture. Choose the word.",
+    "options": [
+      "cap",
+      "cat"
+    ],
+    "answer": "cap",
+    "picture_needed": "a cap",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/cap.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-ph-3",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p29 (printed p29, offset 0), Phonics Focus short a Checkpoint Look and circle item 3",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الإجابة الصح: fan (مروحة). اقرأ الكلمتين بحرف a القصير /æ/ وركّز على الحرف الأخير: cap بتنتهي بـ p وcat بتنتهي بـ t، وman وmap مختلفين في الحرف الأخير. اختار الكلمة المطابقة للصورة.",
+    "source_change": "none",
+    "prompt": "Look at the picture. Choose the word.",
+    "options": [
+      "fan",
+      "map"
+    ],
+    "answer": "fan",
+    "picture_needed": "a fan",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/fan.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1l2-ph-4",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p29 (printed p29, offset 0), Phonics Focus short a Checkpoint Look and circle item 4",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الإجابة الصح: cat (قطة). اقرأ الكلمتين بحرف a القصير /æ/ وركّز على الحرف الأخير: cap بتنتهي بـ p وcat بتنتهي بـ t، وman وmap مختلفين في الحرف الأخير. اختار الكلمة المطابقة للصورة.",
+    "source_change": "none",
+    "prompt": "Look at the picture. Choose the word.",
+    "options": [
+      "hat",
+      "cat"
+    ],
+    "answer": "cat",
+    "picture_needed": "a cat",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "status": "text-confirmed: lesson titles match Ministry Primary 2 Term 1 student book and Ministry Performance Tasks book; page-level pixel check pending"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/cat.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1rev-wa1-2",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p33 (printed p33, offset 0), Weekly Assessment on Lessons 1 and 2 1 Unscramble and write item 2",
+    "type": "unscramble",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الحروف بترتب لكلمة cat ومعناها قطة. بصّ على الصورة وابدأ من أول حرف صح.",
+    "source_change": "none",
+    "prompt": "Look at the picture. Put the letters in order.",
+    "answer": "cat",
+    "accept": [
+      "cat"
+    ],
+    "picture_needed": "cat. real illustration required (no emoji); source page image is not a functional asset",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "basis": "skill/vocabulary parallel to Ministry student book U1 pp6-14 (text read; pixel check by publisher pending)"
+    },
+    "review_status": "draft: source-adapted, not publisher-validated",
+    "credit": "counts toward Ministry L2",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "letters": [
+      "a",
+      "t",
+      "c"
+    ],
+    "image": "images/words/cat.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1rev-wa1-4",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p33 (printed p33, offset 0), Weekly Assessment on Lessons 1 and 2 1 Unscramble and write item 4",
+    "type": "unscramble",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الحروف بترتب لكلمة map ومعناها خريطة. بصّ على الصورة وابدأ من أول حرف صح.",
+    "source_change": "none",
+    "prompt": "Look at the picture. Put the letters in order.",
+    "answer": "map",
+    "accept": [
+      "map"
+    ],
+    "picture_needed": "map. real illustration required (no emoji); source page image is not a functional asset",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "basis": "skill/vocabulary parallel to Ministry student book U1 pp6-14 (text read; pixel check by publisher pending)"
+    },
+    "review_status": "draft: source-adapted, not publisher-validated",
+    "credit": "counts toward Ministry L2",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "letters": [
+      "a",
+      "m",
+      "p"
+    ],
+    "image": "images/words/map.jpg",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1rev-wa1-6",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p33 (printed p33, offset 0), Weekly Assessment on Lessons 1 and 2 1 Unscramble and write item 6",
+    "type": "unscramble",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الحروف بترتب لكلمة man ومعناها رجل. بصّ على الصورة وابدأ من أول حرف صح.",
+    "source_change": "none",
+    "prompt": "Look at the picture. Put the letters in order.",
+    "answer": "man",
+    "accept": [
+      "man"
+    ],
+    "picture_needed": "man. real illustration required (no emoji); source page image is not a functional asset",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "basis": "skill/vocabulary parallel to Ministry student book U1 pp6-14 (text read; pixel check by publisher pending)"
+    },
+    "review_status": "draft: source-adapted, not publisher-validated",
+    "credit": "counts toward Ministry L2",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "letters": [
+      "n",
+      "a",
+      "m"
+    ],
+    "image": "images/words/man.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1rev-wa2-1",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p33 (printed p33, offset 0), Weekly Assessment on Lessons 1 and 2 2 Reorder the words item 1",
+    "type": "reorder",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الجملة بتبدأ بالكلمة اللي بحرف كبير (This) وبعدها is وبعدين a واسم الشيء، وبتنتهي بنقطة: This is a cat.",
+    "source_change": "final period added as part of the answer; checker case and punctuation sensitive",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "is",
+      "This",
+      "cat",
+      "a",
+      "."
+    ],
+    "answer": "This is a cat.",
+    "accept": [
+      "This is a cat."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "basis": "skill/vocabulary parallel to Ministry student book U1 pp6-14 (text read; pixel check by publisher pending)"
+    },
+    "review_status": "draft: source-adapted, not publisher-validated",
+    "credit": "counts toward Ministry L2",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "answer_tokens": [
+      "This",
+      "is",
+      "a",
+      "cat",
+      "."
+    ],
+    "image": "images/words/cat.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1rev-wa2-2",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p33 (printed p33, offset 0), Weekly Assessment on Lessons 1 and 2 2 Reorder the words item 2",
+    "type": "reorder",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الجملة بتبدأ بالكلمة اللي بحرف كبير (This) وبعدها is وبعدين a واسم الشيء، وبتنتهي بنقطة: This is a map.",
+    "source_change": "final period added as part of the answer; checker case and punctuation sensitive",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "is",
+      "a",
+      "This",
+      "map",
+      "."
+    ],
+    "answer": "This is a map.",
+    "accept": [
+      "This is a map."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "basis": "skill/vocabulary parallel to Ministry student book U1 pp6-14 (text read; pixel check by publisher pending)"
+    },
+    "review_status": "draft: source-adapted, not publisher-validated",
+    "credit": "counts toward Ministry L2",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "answer_tokens": [
+      "This",
+      "is",
+      "a",
+      "map",
+      "."
+    ],
+    "image": "images/words/map.jpg",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1rev-wa2-3",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p33 (printed p33, offset 0), Weekly Assessment on Lessons 1 and 2 2 Reorder the words item 3",
+    "type": "reorder",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الجملة بتبدأ بالكلمة اللي بحرف كبير (She) وبعدها is وبعدين a واسم الشيء، وبتنتهي بنقطة: She is a teacher.",
+    "source_change": "final period added as part of the answer; checker case and punctuation sensitive",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "teacher",
+      "is",
+      "She",
+      "a",
+      "."
+    ],
+    "answer": "She is a teacher.",
+    "accept": [
+      "She is a teacher."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "basis": "skill/vocabulary parallel to Ministry student book U1 pp6-14 (text read; pixel check by publisher pending)"
+    },
+    "review_status": "draft: source-adapted, not publisher-validated",
+    "credit": "counts toward Ministry L2",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "answer_tokens": [
+      "She",
+      "is",
+      "a",
+      "teacher",
+      "."
+    ],
+    "image": "images/words/teacher.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1rev-wa2-4",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p33 (printed p33, offset 0), Weekly Assessment on Lessons 1 and 2 2 Reorder the words item 4",
+    "type": "reorder",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الجملة بتبدأ بالكلمة اللي بحرف كبير (It) وبعدها is وبعدين a واسم الشيء، وبتنتهي بنقطة: It is a red cap.",
+    "source_change": "final period added as part of the answer; checker case and punctuation sensitive",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "is",
+      "a",
+      "red",
+      "It",
+      "cap",
+      "."
+    ],
+    "answer": "It is a red cap.",
+    "accept": [
+      "It is a red cap."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "basis": "skill/vocabulary parallel to Ministry student book U1 pp6-14 (text read; pixel check by publisher pending)"
+    },
+    "review_status": "draft: source-adapted, not publisher-validated",
+    "credit": "counts toward Ministry L2",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "answer_tokens": [
+      "It",
+      "is",
+      "a",
+      "red",
+      "cap",
+      "."
+    ],
+    "image": "p2-lessons-assets/img/red-cap.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "cue_source": "Ministry P2 p9 cap illustration; blue recolored red to match the printed GEM sentence, no key change"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1rev-wa2-5",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p33 (printed p33, offset 0), Weekly Assessment on Lessons 1 and 2 2 Reorder the words item 5",
+    "type": "reorder",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الجملة بتبدأ بالكلمة اللي بحرف كبير (This) وبعدها is وبعدين a واسم الشيء، وبتنتهي بنقطة: This is a fan.",
+    "source_change": "final period added as part of the answer; checker case and punctuation sensitive",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "fan",
+      "This",
+      "a",
+      "is",
+      "."
+    ],
+    "answer": "This is a fan.",
+    "accept": [
+      "This is a fan."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "basis": "skill/vocabulary parallel to Ministry student book U1 pp6-14 (text read; pixel check by publisher pending)"
+    },
+    "review_status": "draft: source-adapted, not publisher-validated",
+    "credit": "counts toward Ministry L2",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "answer_tokens": [
+      "This",
+      "is",
+      "a",
+      "fan",
+      "."
+    ],
+    "image": "images/words/fan.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1rev-wa2-6",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p33 (printed p33, offset 0), Weekly Assessment on Lessons 1 and 2 2 Reorder the words item 6",
+    "type": "reorder",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الجملة بتبدأ بالكلمة اللي بحرف كبير (He) وبعدها is وبعدين a واسم الشيء، وبتنتهي بنقطة: He is a student.",
+    "source_change": "final period added as part of the answer; checker case and punctuation sensitive",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "student",
+      "a",
+      "is",
+      "He",
+      "."
+    ],
+    "answer": "He is a student.",
+    "accept": [
+      "He is a student."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "basis": "skill/vocabulary parallel to Ministry student book U1 pp6-14 (text read; pixel check by publisher pending)"
+    },
+    "review_status": "draft: source-adapted, not publisher-validated",
+    "credit": "counts toward Ministry L2",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "answer_tokens": [
+      "He",
+      "is",
+      "a",
+      "student",
+      "."
+    ],
+    "image": "images/words/p2-student.jpg",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1rev-wa2-7",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p33 (printed p33, offset 0), Weekly Assessment on Lessons 1 and 2 2 Reorder the words item 7",
+    "type": "reorder",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الجملة بتبدأ بالكلمة اللي بحرف كبير (This) وبعدها is وبعدين a واسم الشيء، وبتنتهي بنقطة: This is a hat.",
+    "source_change": "final period added as part of the answer; checker case and punctuation sensitive",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "is",
+      "a",
+      "This",
+      "hat",
+      "."
+    ],
+    "answer": "This is a hat.",
+    "accept": [
+      "This is a hat."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "basis": "skill/vocabulary parallel to Ministry student book U1 pp6-14 (text read; pixel check by publisher pending)"
+    },
+    "review_status": "draft: source-adapted, not publisher-validated",
+    "credit": "counts toward Ministry L2",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "answer_tokens": [
+      "This",
+      "is",
+      "a",
+      "hat",
+      "."
+    ],
+    "image": "images/words/fixed-hat.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1rev-sbc3-1",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p45 (printed p45, offset 0), Student's Book Corner 3 Reorder the words item 1",
+    "type": "reorder",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الجملة بتبدأ بحرف كبير وبعدها is وبعدين a واسم الشيء: This is a desk.",
+    "source_change": "final period added; checker case and punctuation sensitive",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "is",
+      "This",
+      "a",
+      "desk",
+      "."
+    ],
+    "answer": "This is a desk.",
+    "accept": [
+      "This is a desk."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "basis": "skill/vocabulary parallel to Ministry student book U1 pp6-14 (text read; pixel check by publisher pending)"
+    },
+    "review_status": "draft: source-adapted, not publisher-validated",
+    "credit": "counts toward Ministry L2",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "answer_tokens": [
+      "This",
+      "is",
+      "a",
+      "desk",
+      "."
+    ],
+    "image": "images/words/desk.jpg",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1rev-sbc3-2",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p45 (printed p45, offset 0), Student's Book Corner 3 Reorder the words item 2",
+    "type": "reorder",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الجملة بتبدأ بحرف كبير وبعدها is وبعدين a واسم الشيء: He is a teacher.",
+    "source_change": "final period added; checker case and punctuation sensitive",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "teacher",
+      "a",
+      "is",
+      "He",
+      "."
+    ],
+    "answer": "He is a teacher.",
+    "accept": [
+      "He is a teacher."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "basis": "skill/vocabulary parallel to Ministry student book U1 pp6-14 (text read; pixel check by publisher pending)"
+    },
+    "review_status": "draft: source-adapted, not publisher-validated",
+    "credit": "counts toward Ministry L2",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "answer_tokens": [
+      "He",
+      "is",
+      "a",
+      "teacher",
+      "."
+    ],
+    "image": "images/words/teacher.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "id": "gem-p2-u1rev-sbc3-4",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p45 (printed p45, offset 0), Student's Book Corner 3 Reorder the words item 4",
+    "type": "reorder",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الجملة بتبدأ بحرف كبير وبعدها is وبعدين a واسم الشيء: This is a chair.",
+    "source_change": "final period added; checker case and punctuation sensitive",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "is",
+      "chair",
+      "a",
+      "This",
+      "."
+    ],
+    "answer": "This is a chair.",
+    "accept": [
+      "This is a chair."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2 Around the Classroom",
+      "basis": "skill/vocabulary parallel to Ministry student book U1 pp6-14 (text read; pixel check by publisher pending)"
+    },
+    "review_status": "draft: source-adapted, not publisher-validated",
+    "credit": "counts toward Ministry L2",
+    "lesson_title": "Around the Classroom",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "answer_tokens": [
+      "This",
+      "is",
+      "a",
+      "chair",
+      "."
+    ],
+    "image": "images/words/fixed-chair.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "id": "ministry-p2-u1l2-p9-hat",
+    "grade": "P2",
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "type": "mcq",
+    "prompt": "Look at the picture. Choose the correct word.",
+    "answer": "hat",
+    "options": [
+      "hot",
+      "hat"
+    ],
+    "image": "images/words/fixed-hat.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 9, exercise 4 Read and circle the correct word",
+    "source_change": "none; same printed two-word contrast",
+    "key_status": "teacher-derived from printed picture; not answer-book certified",
+    "audio": false,
+    "explanation_ar": "الصورة قبعة: hat. كلمة hot معناها ساخن، فلا تطابق الصورة.",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+  },
+  {
+    "id": "ministry-p2-u1l2-p9-man",
+    "grade": "P2",
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "type": "mcq",
+    "prompt": "Look at the picture. Choose the correct word.",
+    "answer": "man",
+    "options": [
+      "man",
+      "men"
+    ],
+    "image": "images/words/man.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 9, exercise 4 Read and circle the correct word",
+    "source_change": "none; same printed two-word contrast",
+    "key_status": "teacher-derived from printed picture; not answer-book certified",
+    "audio": false,
+    "explanation_ar": "الصورة لرجل واحد: man. كلمة men جمع ومعناها رجال.",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-cp-1",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p34 (printed p34, offset 0), Study Checkpoint Read and circle item 1",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة eraser معناها أستيكة. اختار الصورة اللي تطابق الكلمة، وانتبه للأشياء التانية في الصف لأن كل واحدة ليها اسم مختلف.",
+    "source_change": "none",
+    "prompt": "Read the word and choose the picture: eraser",
+    "answer": "eraser",
+    "picture_needed": "row of 3 pictures: eraser, pencil case, bag; eraser is first",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "options": [
+      "eraser",
+      "pencil case",
+      "bag"
+    ],
+    "option_images": {
+      "eraser": "images/words/eraser.jpg",
+      "pencil case": "p2-lessons-assets/img/pencil-case.png",
+      "bag": "p2-lessons-assets/img/bag.png"
+    }
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-cp-2",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p34 (printed p34, offset 0), Study Checkpoint Read and circle item 2",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة ruler معناها مسطرة. اختار الصورة اللي تطابق الكلمة، وانتبه للأشياء التانية في الصف لأن كل واحدة ليها اسم مختلف.",
+    "source_change": "none",
+    "prompt": "Read the word and choose the picture: ruler",
+    "answer": "ruler",
+    "picture_needed": "row of 3 pictures: bag, ruler, eraser; ruler is second",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "options": [
+      "bag",
+      "ruler",
+      "eraser"
+    ],
+    "option_images": {
+      "bag": "p2-lessons-assets/img/bag.png",
+      "ruler": "p2-lessons-assets/img/ruler.png",
+      "eraser": "images/words/eraser.jpg"
+    }
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-cp-3",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p34 (printed p34, offset 0), Study Checkpoint Read and circle item 3",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة bag معناها شنطة. اختار الصورة اللي تطابق الكلمة، وانتبه للأشياء التانية في الصف لأن كل واحدة ليها اسم مختلف.",
+    "source_change": "none",
+    "prompt": "Read the word and choose the picture: bag",
+    "answer": "bag",
+    "picture_needed": "row of 3 pictures: pencil case, eraser, bag; bag is third",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "options": [
+      "pencil case",
+      "eraser",
+      "bag"
+    ],
+    "option_images": {
+      "pencil case": "p2-lessons-assets/img/pencil-case.png",
+      "eraser": "images/words/eraser.jpg",
+      "bag": "p2-lessons-assets/img/bag.png"
+    }
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-cp-4",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p34 (printed p34, offset 0), Study Checkpoint Read and circle item 4",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة pencil case معناها مقلمة. اختار الصورة اللي تطابق الكلمة، وانتبه للأشياء التانية في الصف لأن كل واحدة ليها اسم مختلف.",
+    "source_change": "none",
+    "prompt": "Read the word and choose the picture: pencil case",
+    "answer": "pencil case",
+    "picture_needed": "row of 3 pictures: ruler, pencil case, eraser; pencil case is second",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "options": [
+      "ruler",
+      "pencil case",
+      "eraser"
+    ],
+    "option_images": {
+      "ruler": "p2-lessons-assets/img/ruler.png",
+      "pencil case": "p2-lessons-assets/img/pencil-case.png",
+      "eraser": "images/words/eraser.jpg"
+    }
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-ph-1",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p37 (printed p37, offset 0), Phonics Focus Short e and i Checkpoint Look and circle item 1",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الصورة بتمثل قلم فالإجابة pen. ركّز على الحرف الأول والأخير: pen مش زي الكلمة التانية.",
+    "source_change": "none",
+    "prompt": "Look at the picture. Choose the word.",
+    "options": [
+      "ten",
+      "pen"
+    ],
+    "answer": "pen",
+    "picture_needed": "a pen",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/pen.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-ph-2",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p37 (printed p37, offset 0), Phonics Focus Short e and i Checkpoint Look and circle item 2",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الصورة بتمثل فرخة فالإجابة hen. ركّز على الحرف الأول والأخير: hen مش زي الكلمة التانية.",
+    "source_change": "none",
+    "prompt": "Look at the picture. Choose the word.",
+    "options": [
+      "hen",
+      "bin"
+    ],
+    "answer": "hen",
+    "picture_needed": "a hen",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/hen.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-ph-3",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p37 (printed p37, offset 0), Phonics Focus Short e and i Checkpoint Look and circle item 3",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الصورة بتمثل سوستة فالإجابة zip. ركّز على الحرف الأول والأخير: zip مش زي الكلمة التانية.",
+    "source_change": "none",
+    "prompt": "Look at the picture. Choose the word.",
+    "options": [
+      "fig",
+      "zip"
+    ],
+    "answer": "zip",
+    "picture_needed": "a zip",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/zip.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-ph-4",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p37 (printed p37, offset 0), Phonics Focus Short e and i Checkpoint Look and circle item 4",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الصورة بتمثل سلة المهملات فالإجابة bin. ركّز على الحرف الأول والأخير: bin مش زي الكلمة التانية.",
+    "source_change": "none",
+    "prompt": "Look at the picture. Choose the word.",
+    "options": [
+      "pen",
+      "bin"
+    ],
+    "answer": "bin",
+    "picture_needed": "a bin",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/bin.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1l34-hw-1",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p38 (printed p38, offset 0), Homework Time Look and write item 1",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة pen معناها قلم. اكتبها حرف حرف بالترتيب: p - e - n.",
+    "source_change": "printed label hidden so the child writes from the picture",
+    "prompt": "Look at the picture and write the word.",
+    "answer": "pen",
+    "accept": [
+      "pen"
+    ],
+    "picture_needed": "a picture of pen",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together (Ministry PDF p14)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/pen.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1l34-hw-2",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p38 (printed p38, offset 0), Homework Time Look and write item 2",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة ten معناها عشرة. اكتبها حرف حرف بالترتيب: t - e - n.",
+    "source_change": "printed label hidden so the child writes from the picture",
+    "prompt": "Look at the picture and write the word.",
+    "answer": "ten",
+    "accept": [
+      "ten"
+    ],
+    "picture_needed": "a picture of ten",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together (Ministry PDF p14)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/ten.jpg",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1l34-hw-3",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p38 (printed p38, offset 0), Homework Time Look and write item 3",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة hen معناها فرخة. اكتبها حرف حرف بالترتيب: h - e - n.",
+    "source_change": "printed label hidden so the child writes from the picture",
+    "prompt": "Look at the picture and write the word.",
+    "answer": "hen",
+    "accept": [
+      "hen"
+    ],
+    "picture_needed": "a picture of hen",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together (Ministry PDF p14)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/hen.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1l34-hw-4",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p38 (printed p38, offset 0), Homework Time Look and write item 4",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة zip معناها سوستة. اكتبها حرف حرف بالترتيب: z - i - p.",
+    "source_change": "printed label hidden so the child writes from the picture",
+    "prompt": "Look at the picture and write the word.",
+    "answer": "zip",
+    "accept": [
+      "zip"
+    ],
+    "picture_needed": "a picture of zip",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together (Ministry PDF p14)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/zip.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1l34-hw-5",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p38 (printed p38, offset 0), Homework Time Look and write item 5",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة fig معناها تين. اكتبها حرف حرف بالترتيب: f - i - g.",
+    "source_change": "printed label hidden so the child writes from the picture",
+    "prompt": "Look at the picture and write the word.",
+    "answer": "fig",
+    "accept": [
+      "fig"
+    ],
+    "picture_needed": "a picture of fig",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together (Ministry PDF p14)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/fig.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1l34-hw-6",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p38 (printed p38, offset 0), Homework Time Look and write item 6",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكلمة bin معناها سلة المهملات. اكتبها حرف حرف بالترتيب: b - i - n.",
+    "source_change": "printed label hidden so the child writes from the picture",
+    "prompt": "Look at the picture and write the word.",
+    "answer": "bin",
+    "accept": [
+      "bin"
+    ],
+    "picture_needed": "a picture of bin",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together (Ministry PDF p14)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/bin.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-pr4-1",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p39 (printed p39, offset 0), Practice on Lessons 3 and 4 4 Read and complete (bank: board, pencil case, bag) item 1",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الأقلام بنحطها في المقلمة pencil case مش في السبورة ولا الشنطة.",
+    "source_change": "none",
+    "prompt": "I put my pens in my ____.",
+    "options": [
+      "board",
+      "pencil case",
+      "bag"
+    ],
+    "answer": "pencil case",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "word_bank": [
+      "board",
+      "pencil case",
+      "bag"
+    ]
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-pr4-2",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p39 (printed p39, offset 0), Practice on Lessons 3 and 4 4 Read and complete (bank: board, pencil case, bag) item 2",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "المدرس بيكتب على السبورة board.",
+    "source_change": "none",
+    "prompt": "My teacher writes on the ____.",
+    "options": [
+      "board",
+      "pencil case",
+      "bag"
+    ],
+    "answer": "board",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "word_bank": [
+      "board",
+      "pencil case",
+      "bag"
+    ]
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-pr4-3",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p39 (printed p39, offset 0), Practice on Lessons 3 and 4 4 Read and complete (bank: board, pencil case, bag) item 3",
+    "type": "mcq",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الكتب بنحطها في الشنطة bag.",
+    "source_change": "none",
+    "prompt": "I put my books in the ____.",
+    "options": [
+      "board",
+      "pencil case",
+      "bag"
+    ],
+    "answer": "bag",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "word_bank": [
+      "board",
+      "pencil case",
+      "bag"
+    ]
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1l34-pr5-1",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p40 (printed p40, offset 0), Practice on Lessons 3 and 4 5 Unscramble and write item 1",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الحروف بترتب لكلمة bag ومعناها شنطة. بصّ على الصورة وابدأ بأول حرف منطقي.",
+    "source_change": "none",
+    "prompt": "Unscramble the letters and write the word: a g b",
+    "answer": "bag",
+    "accept": [
+      "bag"
+    ],
+    "picture_needed": "a backpack",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together (Ministry PDF p14)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/bag.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1l34-pr5-2",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p40 (printed p40, offset 0), Practice on Lessons 3 and 4 5 Unscramble and write item 2",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الحروف بترتب لكلمة ruler ومعناها مسطرة. بصّ على الصورة وابدأ بأول حرف منطقي.",
+    "source_change": "none",
+    "prompt": "Unscramble the letters and write the word: u l r e r",
+    "answer": "ruler",
+    "accept": [
+      "ruler"
+    ],
+    "picture_needed": "a ruler",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together (Ministry PDF p14)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/ruler.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1l34-pr5-3",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p40 (printed p40, offset 0), Practice on Lessons 3 and 4 5 Unscramble and write item 3",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الحروف بترتب لكلمة eraser ومعناها أستيكة. بصّ على الصورة وابدأ بأول حرف منطقي.",
+    "source_change": "none",
+    "prompt": "Unscramble the letters and write the word: r e e r s a",
+    "answer": "eraser",
+    "accept": [
+      "eraser"
+    ],
+    "picture_needed": "an eraser",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together (Ministry PDF p14)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/eraser.jpg",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1l34-pr5-4",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p40 (printed p40, offset 0), Practice on Lessons 3 and 4 5 Unscramble and write item 4",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الحروف بترتب لكلمة pencil case ومعناها مقلمة. بصّ على الصورة وابدأ بأول حرف منطقي.",
+    "source_change": "none",
+    "prompt": "Unscramble the letters and write the word: e n p i c l a e s c",
+    "answer": "pencil case",
+    "accept": [
+      "pencil case"
+    ],
+    "picture_needed": "a pencil case",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together (Ministry PDF p14)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/pencil-case.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-pr6-1",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p40 (printed p40, offset 0), Practice on Lessons 3 and 4 6 Reorder the words item 1",
+    "type": "reorder",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الجملة بتبدأ بـ That وبعدين is وبعدها اسم الشيء: That is a board. الحرف الأول كبير والنهاية نقطة.",
+    "source_change": "none; 'my bag' and 'an eraser' kept as single tokens as printed",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "is",
+      "That",
+      "a",
+      "board",
+      "."
+    ],
+    "answer": "That is a board.",
+    "accept": [
+      "That is a board."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "answer_tokens": [
+      "That",
+      "is",
+      "a",
+      "board",
+      "."
+    ],
+    "image": "images/words/fixed-board.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-pr6-2",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p40 (printed p40, offset 0), Practice on Lessons 3 and 4 6 Reorder the words item 2",
+    "type": "reorder",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الجملة بتبدأ بـ This وبعدين is وبعدها اسم الشيء: This is my bag. الحرف الأول كبير والنهاية نقطة.",
+    "source_change": "none; 'my bag' and 'an eraser' kept as single tokens as printed",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "my bag",
+      "is",
+      "This",
+      "."
+    ],
+    "answer": "This is my bag.",
+    "accept": [
+      "This is my bag."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "answer_tokens": [
+      "This",
+      "is",
+      "my bag",
+      "."
+    ],
+    "image": "p2-lessons-assets/img/bag.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-pr6-3",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p40 (printed p40, offset 0), Practice on Lessons 3 and 4 6 Reorder the words item 3",
+    "type": "reorder",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الجملة بتبدأ بـ That وبعدين is وبعدها اسم الشيء: That is an eraser. الحرف الأول كبير والنهاية نقطة.",
+    "source_change": "none; 'my bag' and 'an eraser' kept as single tokens as printed",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "an eraser",
+      "That",
+      "is",
+      "."
+    ],
+    "answer": "That is an eraser.",
+    "accept": [
+      "That is an eraser."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "answer_tokens": [
+      "That",
+      "is",
+      "an eraser",
+      "."
+    ],
+    "image": "images/words/eraser.jpg",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-wa1-1",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p41 (printed p41, offset 0), Weekly Assessment on Lessons 3 and 4 1 Look and write the missing letter item 1",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الصورة بتمثل قبعة فالكلمة hat والحرف الناقص a.",
+    "source_change": "none",
+    "prompt": "Look at the picture and write the missing letter: h_t",
+    "answer": "a",
+    "accept": [
+      "a"
+    ],
+    "picture_needed": "a picture of hat",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/fixed-hat.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-wa1-2",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p41 (printed p41, offset 0), Weekly Assessment on Lessons 3 and 4 1 Look and write the missing letter item 2",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الصورة بتمثل قلم فالكلمة pen والحرف الناقص e.",
+    "source_change": "none",
+    "prompt": "Look at the picture and write the missing letter: p_n",
+    "answer": "e",
+    "accept": [
+      "e"
+    ],
+    "picture_needed": "a picture of pen",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/pen.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-wa1-3",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p41 (printed p41, offset 0), Weekly Assessment on Lessons 3 and 4 1 Look and write the missing letter item 3",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الصورة بتمثل تين فالكلمة fig والحرف الناقص i.",
+    "source_change": "none",
+    "prompt": "Look at the picture and write the missing letter: f_g",
+    "answer": "i",
+    "accept": [
+      "i"
+    ],
+    "picture_needed": "a picture of fig",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/fig.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-wa1-4",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p41 (printed p41, offset 0), Weekly Assessment on Lessons 3 and 4 1 Look and write the missing letter item 4",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الصورة بتمثل خريطة فالكلمة map والحرف الناقص a.",
+    "source_change": "none",
+    "prompt": "Look at the picture and write the missing letter: m_p",
+    "answer": "a",
+    "accept": [
+      "a"
+    ],
+    "picture_needed": "a picture of map",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/map.jpg",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-wa1-5",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p41 (printed p41, offset 0), Weekly Assessment on Lessons 3 and 4 1 Look and write the missing letter item 5",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الصورة بتمثل قطة فالكلمة cat والحرف الناقص a.",
+    "source_change": "none",
+    "prompt": "Look at the picture and write the missing letter: c_t",
+    "answer": "a",
+    "accept": [
+      "a"
+    ],
+    "picture_needed": "a picture of cat",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/cat.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "gem-p2-u1l34-wa1-6",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p41 (printed p41, offset 0), Weekly Assessment on Lessons 3 and 4 1 Look and write the missing letter item 6",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "الصورة بتمثل عشرة فالكلمة ten والحرف الناقص e.",
+    "source_change": "none",
+    "prompt": "Look at the picture and write the missing letter: t_n",
+    "answer": "e",
+    "accept": [
+      "e"
+    ],
+    "picture_needed": "a picture of ten",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p11-13)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/ten.jpg",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1l34-wa2-1",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p41 (printed p41, offset 0), Weekly Assessment on Lessons 3 and 4 2 Look and write a sentence item 1",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "بنكتب جملة التعريف: This is a window (شباك). كمان That is a window صح لو الشيء بعيد. الجملة تبدأ بحرف كبير وتنتهي بنقطة.",
+    "source_change": "source gives no sentence frame; frame This/That is a ___ taken from the lesson Language in Use; grade punctuation and capital T explicitly",
+    "prompt": "Look at the picture. Write: This is a ___. (or That is a ___.)",
+    "answer": "This is a window.",
+    "accept": [
+      "This is a window.",
+      "This is a window",
+      "That is a window.",
+      "That is a window"
+    ],
+    "picture_needed": "a window",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together (Ministry PDF p14)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/window.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1l34-wa2-2",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p41 (printed p41, offset 0), Weekly Assessment on Lessons 3 and 4 2 Look and write a sentence item 2",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "بنكتب جملة التعريف: This is a ruler (مسطرة). كمان That is a ruler صح لو الشيء بعيد. الجملة تبدأ بحرف كبير وتنتهي بنقطة.",
+    "source_change": "source gives no sentence frame; frame This/That is a ___ taken from the lesson Language in Use; grade punctuation and capital T explicitly",
+    "prompt": "Look at the picture. Write: This is a ___. (or That is a ___.)",
+    "answer": "This is a ruler.",
+    "accept": [
+      "This is a ruler.",
+      "This is a ruler",
+      "That is a ruler.",
+      "That is a ruler"
+    ],
+    "picture_needed": "a ruler",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together (Ministry PDF p14)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/ruler.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1l34-wa2-3",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p41 (printed p41, offset 0), Weekly Assessment on Lessons 3 and 4 2 Look and write a sentence item 3",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "بنكتب جملة التعريف: This is a board (سبورة). كمان That is a board صح لو الشيء بعيد. الجملة تبدأ بحرف كبير وتنتهي بنقطة.",
+    "source_change": "source gives no sentence frame; frame This/That is a ___ taken from the lesson Language in Use; grade punctuation and capital T explicitly",
+    "prompt": "Look at the picture. Write: This is a ___. (or That is a ___.)",
+    "answer": "This is a board.",
+    "accept": [
+      "This is a board.",
+      "This is a board",
+      "That is a board.",
+      "That is a board"
+    ],
+    "picture_needed": "a green board",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together (Ministry PDF p14)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/fixed-board.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1l34-wa2-4",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p41 (printed p41, offset 0), Weekly Assessment on Lessons 3 and 4 2 Look and write a sentence item 4",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "بنكتب جملة التعريف: This is a bag (شنطة). كمان That is a bag صح لو الشيء بعيد. الجملة تبدأ بحرف كبير وتنتهي بنقطة.",
+    "source_change": "source gives no sentence frame; frame This/That is a ___ taken from the lesson Language in Use; grade punctuation and capital T explicitly",
+    "prompt": "Look at the picture. Write: This is a ___. (or That is a ___.)",
+    "answer": "This is a bag.",
+    "accept": [
+      "This is a bag.",
+      "This is a bag",
+      "That is a bag.",
+      "That is a bag"
+    ],
+    "picture_needed": "a backpack",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together (Ministry PDF p14)",
+      "status": "split by skill per publisher-verified Ministry U1 boundaries (L3: object names, this/that, location, short e/i recognition and listen-and-fill; L4: word tracing/copying, letter reordering, simple sentence writing); GEM prints L3-4 together so the split is by skill, not by GEM page"
+    },
+    "review_status": "feedback written, awaiting publisher review; not published, not tested",
+    "origin": "printed exercise",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/bag.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "gem-p2-u1rev-wt2-1",
+    "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p44 (printed p44, offset 0), Writing Time Look and write a sentence item 1",
+    "type": "typein",
+    "key_status": "teacher-derived, no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "بنكتب جملة التعريف من الكلمتين: This is a hen. أول حرف كبير والنهاية نقطة.",
+    "source_change": "key follows the lesson pattern; checker case and punctuation sensitive",
+    "prompt": "Look at the picture. Write a sentence with: This - hen",
+    "answer": "This is a hen.",
+    "accept": [
+      "This is a hen.",
+      "That is a hen."
+    ],
+    "picture_needed": "a hen. real illustration required (no emoji); source page image is not a functional asset",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together",
+      "basis": "skill/vocabulary parallel to Ministry student book U1 pp6-14 (text read; pixel check by publisher pending)"
+    },
+    "review_status": "draft: source-adapted, not publisher-validated",
+    "credit": "counts toward Ministry L4",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/hen.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "min-p2-u1l3-ex3-1",
+    "source_ref": "Ministry Primary 2 Term 1 student book (single edition ©2025, imprint 2025/2026; Ministry CDN serves identical file for current year 2026/27 at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/English_language_prim2_t1.pdf ; 2025/26 copy at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026/Primary/Primary2/Term1/StudentBook/English_Prim2_Tr1.pdf), Unit 1 Lesson 3, printed/PDF p12, min-p2-u1l3-ex3-1",
+    "type": "mcq",
+    "key_status": "teacher-derived from the printed picture; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "في الصورة باب بعيد، فنقول That is a door.",
+    "source_change": "write-the-answer line changed to choose-one",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p12-13)",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official student book)",
+    "credit": "counts toward Ministry L3 (pending publisher dedup vs GEM items)",
+    "prompt": "Look at the picture. Choose the correct sentence.",
+    "options": [
+      "That is a bag.",
+      "That is a window.",
+      "That is a door."
+    ],
+    "answer": "That is a door.",
+    "accept": [
+      "That is a door."
+    ],
+    "picture_needed": "a yellow door",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/min-door.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "min-p2-u1l3-ex3-2",
+    "source_ref": "Ministry Primary 2 Term 1 student book (single edition ©2025, imprint 2025/2026; Ministry CDN serves identical file for current year 2026/27 at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/English_language_prim2_t1.pdf ; 2025/26 copy at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026/Primary/Primary2/Term1/StudentBook/English_Prim2_Tr1.pdf), Unit 1 Lesson 3, printed/PDF p12, min-p2-u1l3-ex3-2",
+    "type": "mcq",
+    "key_status": "teacher-derived from the printed picture; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "في الصورة سبورة، فنقول That is a board.",
+    "source_change": "write-the-answer line changed to choose-one",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p12-13)",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official student book)",
+    "credit": "counts toward Ministry L3 (pending publisher dedup vs GEM items)",
+    "prompt": "Look at the picture. Choose the correct sentence.",
+    "options": [
+      "That is a board.",
+      "That is a pencil.",
+      "That is a door."
+    ],
+    "answer": "That is a board.",
+    "accept": [
+      "That is a board."
+    ],
+    "picture_needed": "a small blackboard on a stand",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/min-board.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "min-p2-u1l3-ex4-2",
+    "source_ref": "Ministry Primary 2 Term 1 student book (single edition ©2025, imprint 2025/2026; Ministry CDN serves identical file for current year 2026/27 at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/English_language_prim2_t1.pdf ; 2025/26 copy at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026/Primary/Primary2/Term1/StudentBook/English_Prim2_Tr1.pdf), Unit 1 Lesson 3, printed/PDF p12, min-p2-u1l3-ex4-2",
+    "type": "reorder",
+    "key_status": "teacher-derived from the printed picture; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "رتب الكلمات: This is a + اسم الشيء. الجملة بتبدأ بـ This.",
+    "source_change": "checker case and punctuation sensitive",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p12-13)",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official student book)",
+    "credit": "counts toward Ministry L3 (pending publisher dedup vs GEM items)",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "This",
+      "a",
+      "pencil.",
+      "is"
+    ],
+    "answer": "This is a pencil.",
+    "accept": [
+      "This is a pencil."
+    ],
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/pencil.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "answer_tokens": [
+      "This",
+      "is",
+      "a",
+      "pencil."
+    ]
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "min-p2-u1l3-ex4-3",
+    "source_ref": "Ministry Primary 2 Term 1 student book (single edition ©2025, imprint 2025/2026; Ministry CDN serves identical file for current year 2026/27 at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/English_language_prim2_t1.pdf ; 2025/26 copy at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026/Primary/Primary2/Term1/StudentBook/English_Prim2_Tr1.pdf), Unit 1 Lesson 3, printed/PDF p12, min-p2-u1l3-ex4-3",
+    "type": "reorder",
+    "key_status": "teacher-derived from the printed picture; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "رتب الكلمات: This is a + اسم الشيء. الجملة بتبدأ بـ This.",
+    "source_change": "checker case and punctuation sensitive",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects (Ministry PDF p12-13)",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official student book)",
+    "credit": "counts toward Ministry L3 (pending publisher dedup vs GEM items)",
+    "prompt": "Put the words in order to make a sentence.",
+    "words": [
+      "book.",
+      "is",
+      "This",
+      "a"
+    ],
+    "answer": "This is a book.",
+    "accept": [
+      "This is a book."
+    ],
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/book.jpg",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "answer_tokens": [
+      "This",
+      "is",
+      "a",
+      "book."
+    ]
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "min-p2-u1l3-ex3-3",
+    "source_ref": "Ministry Primary 2 Term 1 student book (single edition ©2025, imprint 2025/2026; Ministry CDN serves identical file for current year 2026/27 at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/English_language_prim2_t1.pdf ; 2025/26 copy at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026/Primary/Primary2/Term1/StudentBook/English_Prim2_Tr1.pdf), Unit 1 Lesson 3, printed p12 (PDF p12), ex 3 Choose and write the correct answer, item 3",
+    "type": "mcq",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "في الصورة أستيكة قريبة، فنقول This is an eraser. ونستخدم an قبل eraser لأنها تبدأ بصوت متحرك.",
+    "source_change": "write-the-answer line changed to choose-one",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Look at the picture. Choose the correct sentence.",
+    "options": [
+      "This is a board.",
+      "This is a ruler.",
+      "This is an eraser."
+    ],
+    "answer": "This is an eraser.",
+    "accept": [
+      "This is an eraser."
+    ],
+    "picture_needed": "an eraser (red and blue)",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/min-eraser.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "min-p2-u1l3-ex3-4",
+    "source_ref": "Ministry Primary 2 Term 1 student book (single edition ©2025, imprint 2025/2026; Ministry CDN serves identical file for current year 2026/27 at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/English_language_prim2_t1.pdf ; 2025/26 copy at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026/Primary/Primary2/Term1/StudentBook/English_Prim2_Tr1.pdf), Unit 1 Lesson 3, printed p12 (PDF p12), ex 3 Choose and write the correct answer, item 4",
+    "type": "mcq",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "في الصورة حقيبة قريبة، فنقول This is a bag.",
+    "source_change": "write-the-answer line changed to choose-one",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Look at the picture. Choose the correct sentence.",
+    "options": [
+      "This is a bag.",
+      "This is a door.",
+      "This is a pencil case."
+    ],
+    "answer": "This is a bag.",
+    "accept": [
+      "This is a bag."
+    ],
+    "picture_needed": "an orange school bag",
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/min-bag.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "id": "min-p2-u1l3-ab-act3-4",
+    "source_ref": "Ministry Primary 2 Term 1 Performance Tasks and Assessments 2026/2027 (official, cover \"First Term 2027-2026\", https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/Book_of_Performance_and_Evaluations/English_prim2_t1_Assmt.pdf), Unit 1 Lesson 3 Our Classroom Objects, printed p8 (PDF p9), Activity 3 Read and complete, item 4",
+    "type": "typein",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "ممكن نقول Open the door, please أو Open the window, please. الاتنين صحيحين هنا لأن مفيش صورة أو علامة تحدد واحد منهم.",
+    "source_change": "Isolated from printed word-bank group; both grammatically valid listed nouns accepted.",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3 Our Classroom Objects",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Read and complete: Open the ______, please!",
+    "answer": "door",
+    "accept": [
+      "door",
+      "window"
+    ],
+    "picture_needed": null,
+    "lesson_title": "Our Classroom Objects",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "word_bank": [
+      "board",
+      "window",
+      "pencil case",
+      "door",
+      "bag"
+    ]
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "min-p2-u1l4-ab-act1-2",
+    "source_ref": "Ministry Primary 2 Term 1 Performance Tasks and Assessments 2026/2027 (official, cover \"First Term 2027-2026\", https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/Book_of_Performance_and_Evaluations/English_prim2_t1_Assmt.pdf), Unit 1 Lesson 4 Let's Write Together!, printed p10 (PDF p11), Activity 1 Reorder, item 2",
+    "type": "reorder",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "نرتب الكلمات: That is a pencil case. معناها تلك مقلمة.",
+    "source_change": "none",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together!",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "That is a pencil case.",
+    "accept": [
+      "That is a pencil case."
+    ],
+    "picture_needed": null,
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/pencil-case.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "words": [
+      "a",
+      "That",
+      "is",
+      "pencil case."
+    ],
+    "answer_tokens": [
+      "That",
+      "is",
+      "a",
+      "pencil case."
+    ]
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "min-p2-u1l4-ab-hw-1",
+    "source_ref": "Ministry Primary 2 Term 1 Performance Tasks and Assessments 2026/2027 (official, cover \"First Term 2027-2026\", https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/Book_of_Performance_and_Evaluations/English_prim2_t1_Assmt.pdf), Unit 1 Lesson 4, printed p10 (PDF p11), Homework Activity Look and write a sentence under each picture, item 1",
+    "type": "typein",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "في الصورة مقلمة، فنكتب This is a pencil case. وتصح This is أو That is لأن الصورة لا تحدد المسافة.",
+    "source_change": "none",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together!",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Look at the picture. Write a sentence: This is a ___ (or That is a ___)",
+    "answer": "This is a pencil case.",
+    "accept": [
+      "This is a pencil case.",
+      "That is a pencil case."
+    ],
+    "picture_needed": "a pencil case with pencils",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/pencil-case.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "min-p2-u1l4-ab-waa-3",
+    "source_ref": "Ministry Primary 2 Term 1 Performance Tasks and Assessments 2026/2027 (official, cover \"First Term 2027-2026\", https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/Book_of_Performance_and_Evaluations/English_prim2_t1_Assmt.pdf), Unit 1 Weekly Assessment (A) on Lessons 3-4, printed p11 (PDF p12), part B Look and write a sentence under each picture, item 3",
+    "type": "typein",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "في الصورة أستيكة، فنكتب This is an eraser. ونستخدم an قبل eraser لأنها تبدأ بصوت متحرك. وتصح This is أو That is لأن الصورة لا تحدد المسافة.",
+    "source_change": "none",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together!",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Look at the picture. Write a sentence: This is a ___ (or That is a ___)",
+    "answer": "This is an eraser.",
+    "accept": [
+      "This is an eraser.",
+      "That is an eraser."
+    ],
+    "picture_needed": "an eraser",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/eraser.jpg",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "min-p2-u1l4-ab-wab-2",
+    "source_ref": "Ministry Primary 2 Term 1 Performance Tasks and Assessments 2026/2027 (official, cover \"First Term 2027-2026\", https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/Book_of_Performance_and_Evaluations/English_prim2_t1_Assmt.pdf), Unit 1 Weekly Assessment (B) on Lessons 3-4, printed p11 (PDF p12), part B, item 2",
+    "type": "typein",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "في الصورة باب مفتوح، فنكتب That is a door. وتصح This is أو That is لأن الصورة لا تحدد المسافة.",
+    "source_change": "none",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together!",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Look at the picture. Write a sentence: This is a ___ (or That is a ___)",
+    "answer": "That is a door.",
+    "accept": [
+      "That is a door.",
+      "This is a door."
+    ],
+    "picture_needed": "an open door",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/door.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "min-p2-u1l4-ab-wac-2",
+    "source_ref": "Ministry Primary 2 Term 1 Performance Tasks and Assessments 2026/2027 (official, cover \"First Term 2027-2026\", https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/Book_of_Performance_and_Evaluations/English_prim2_t1_Assmt.pdf), Unit 1 Weekly Assessment (C) on Lessons 3-4, printed p12 (PDF p13), part B, item 2",
+    "type": "typein",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "في الصورة مكتب، فنكتب This is a desk. وتصح This is أو That is لأن الصورة لا تحدد المسافة.",
+    "source_change": "none",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together!",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Look at the picture. Write a sentence: This is a ___ (or That is a ___)",
+    "answer": "This is a desk.",
+    "accept": [
+      "This is a desk.",
+      "That is a desk."
+    ],
+    "picture_needed": "a desk with a lamp and books on it",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/desk.jpg",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "min-p2-u1l4-ab-wac-3",
+    "source_ref": "Ministry Primary 2 Term 1 Performance Tasks and Assessments 2026/2027 (official, cover \"First Term 2027-2026\", https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/Book_of_Performance_and_Evaluations/English_prim2_t1_Assmt.pdf), Unit 1 Weekly Assessment (C) on Lessons 3-4, printed p12 (PDF p13), part B, item 3",
+    "type": "typein",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "في الصورة كرسي، فنكتب This is a chair. وتصح This is أو That is لأن الصورة لا تحدد المسافة.",
+    "source_change": "none",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together!",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Look at the picture. Write a sentence: This is a ___ (or That is a ___)",
+    "answer": "This is a chair.",
+    "accept": [
+      "This is a chair.",
+      "That is a chair."
+    ],
+    "picture_needed": "a chair",
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/fixed-chair.png",
+    "requires_image": true,
+    "alt": "Picture clue"
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "min-p2-u1l4-ex2-1",
+    "source_ref": "Ministry Primary 2 Term 1 student book (single edition ©2025, imprint 2025/2026; Ministry CDN serves identical file for current year 2026/27 at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/English_language_prim2_t1.pdf ; 2025/26 copy at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026/Primary/Primary2/Term1/StudentBook/English_Prim2_Tr1.pdf), Unit 1 Lesson 4, printed p14 (PDF p14), ex 2 Reorder the letters to make a word, item 1",
+    "type": "typein",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "نرتب الحروف لنكوّن كلمة pen ومعناها قلم.",
+    "source_change": "none",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together!",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Unscramble the letters and write the word: n e p",
+    "answer": "pen",
+    "accept": [
+      "pen"
+    ],
+    "picture_needed": null,
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/pen.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling."
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "min-p2-u1l4-ex2-2",
+    "source_ref": "Ministry Primary 2 Term 1 student book (single edition ©2025, imprint 2025/2026; Ministry CDN serves identical file for current year 2026/27 at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/English_language_prim2_t1.pdf ; 2025/26 copy at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026/Primary/Primary2/Term1/StudentBook/English_Prim2_Tr1.pdf), Unit 1 Lesson 4, printed p14 (PDF p14), ex 2, item 2",
+    "type": "typein",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "نرتب الحروف لنكوّن كلمة ten ومعناها عشرة.",
+    "source_change": "none",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together!",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Unscramble the letters and write the word: e t n",
+    "answer": "ten",
+    "accept": [
+      "ten"
+    ],
+    "picture_needed": null,
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/ten.jpg",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling."
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "min-p2-u1l4-ex2-3",
+    "source_ref": "Ministry Primary 2 Term 1 student book (single edition ©2025, imprint 2025/2026; Ministry CDN serves identical file for current year 2026/27 at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/English_language_prim2_t1.pdf ; 2025/26 copy at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026/Primary/Primary2/Term1/StudentBook/English_Prim2_Tr1.pdf), Unit 1 Lesson 4, printed p14 (PDF p14), ex 2, item 3",
+    "type": "typein",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "نرتب الحروف لنكوّن كلمة hen ومعناها دجاجة.",
+    "source_change": "none",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together!",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Unscramble the letters and write the word: n h e",
+    "answer": "hen",
+    "accept": [
+      "hen"
+    ],
+    "picture_needed": null,
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/hen.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling."
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "min-p2-u1l4-ex2-4",
+    "source_ref": "Ministry Primary 2 Term 1 student book (single edition ©2025, imprint 2025/2026; Ministry CDN serves identical file for current year 2026/27 at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/English_language_prim2_t1.pdf ; 2025/26 copy at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026/Primary/Primary2/Term1/StudentBook/English_Prim2_Tr1.pdf), Unit 1 Lesson 4, printed p14 (PDF p14), ex 2, item 4",
+    "type": "typein",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "نرتب الحروف لنكوّن كلمة zip ومعناها سوستة.",
+    "source_change": "none",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together!",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Unscramble the letters and write the word: p z i",
+    "answer": "zip",
+    "accept": [
+      "zip"
+    ],
+    "picture_needed": null,
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/zip.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling."
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "min-p2-u1l4-ex2-5",
+    "source_ref": "Ministry Primary 2 Term 1 student book (single edition ©2025, imprint 2025/2026; Ministry CDN serves identical file for current year 2026/27 at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/English_language_prim2_t1.pdf ; 2025/26 copy at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026/Primary/Primary2/Term1/StudentBook/English_Prim2_Tr1.pdf), Unit 1 Lesson 4, printed p14 (PDF p14), ex 2, item 5",
+    "type": "typein",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "نرتب الحروف لنكوّن كلمة bin ومعناها سلة مهملات.",
+    "source_change": "none",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together!",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Unscramble the letters and write the word: n b i",
+    "answer": "bin",
+    "accept": [
+      "bin"
+    ],
+    "picture_needed": null,
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "images/words/bin.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling."
+  },
+  {
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "id": "min-p2-u1l4-ex2-6",
+    "source_ref": "Ministry Primary 2 Term 1 student book (single edition ©2025, imprint 2025/2026; Ministry CDN serves identical file for current year 2026/27 at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary2/Term1/StudentBook/English_language_prim2_t1.pdf ; 2025/26 copy at https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026/Primary/Primary2/Term1/StudentBook/English_Prim2_Tr1.pdf), Unit 1 Lesson 4, printed p14 (PDF p14), ex 2, item 6",
+    "type": "typein",
+    "key_status": "teacher-derived from the printed item; no printed key; not publisher-validated",
+    "audio": false,
+    "explanation_ar": "نرتب الحروف لنكوّن كلمة fig ومعناها تين.",
+    "source_change": "none",
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4 Let's Write Together!",
+      "status": "direct: printed exercise of the Ministry lesson itself"
+    },
+    "review_status": "private source and key review completed, awaiting final unit quota decision",
+    "origin": "printed exercise (official Ministry book)",
+    "prompt": "Unscramble the letters and write the word: g i f",
+    "answer": "fig",
+    "accept": [
+      "fig"
+    ],
+    "picture_needed": null,
+    "lesson_title": "Let's Write Together",
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "image": "p2-lessons-assets/img/fig.png",
+    "requires_image": true,
+    "alt": "Picture clue",
+    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling."
   }
 ]
