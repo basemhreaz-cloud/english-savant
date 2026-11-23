@@ -17,7 +17,7 @@ jobs:
           python3 <<'PYCODE'
           import pathlib,hashlib,base64,gzip,subprocess,re
           import pathlib,re
-          names=['p2','p3','p4','p5','p6','m1','m2','m3'];changed=[]
+          names=['p2'];changed=[]
           for g in names:
            p=pathlib.Path('assessments-'+g+'.html');s=p.read_text();pattern=r'<section class="wrap"><p><a class="button"[^>]*href="extra-assessments-'+g+r'.html"[^>]*>.*?</a></p></section>';m=re.search(pattern,s,re.S);assert m
            ours='<a class="grade-entry" href="extra-assessments-'+g+'.html"><h2>تقييماتنا</h2><p>تدريبات تانية للمراجعة وتقوية فهمك.</p><span class="grade-entry-open">افتح التقييمات ←</span></a>'
