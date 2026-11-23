@@ -4470,5 +4470,203 @@
     "image": "p2-lessons-assets/img/bun.png",
     "alt": "bun",
     "requires_image": true
+  },
+  {
+    "id": "orig-p2-u2l3-01",
+    "grade": "P2",
+    "term": 1,
+    "unit": 2,
+    "lesson": 3,
+    "lesson_title": "Numbers and Counting",
+    "type": "mcq",
+    "prompt": "1 pencil, 2 ____",
+    "answer": "pencils",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 26, Language in Use: Singular and Plural (add -s)",
+    "source_change": "Printed rule example turned into a choose-the-form question",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "أكتر من واحد بنزود s: one pencil, two pencils.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "pencil",
+      "pencils",
+      "pencilss"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 2 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u2l3-02",
+    "grade": "P2",
+    "term": 1,
+    "unit": 2,
+    "lesson": 3,
+    "lesson_title": "Numbers and Counting",
+    "type": "mcq",
+    "prompt": "A: How many pens do you have?  B: I ____ five pens.",
+    "answer": "have",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 25, Ex 3 Practice Classroom Phrases / How many...? dialogue",
+    "source_change": "Printed dialogue turned into a choose-the-word question",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "مع I بنقول have: I have five pens.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "have",
+      "has",
+      "am"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 2 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u2l3-03",
+    "grade": "P2",
+    "term": 1,
+    "unit": 2,
+    "lesson": 3,
+    "lesson_title": "Numbers and Counting",
+    "type": "typein",
+    "prompt": "Write the plural: one book, three ______",
+    "answer": "books",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 26, Language in Use: Singular and Plural (3 books)",
+    "source_change": "Printed example, typed answer",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "أكتر من واحد: بنزود s فتبقى books.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "accept": [
+      "books",
+      "Books"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 2 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u2l4-01",
+    "grade": "P2",
+    "term": 1,
+    "unit": 2,
+    "lesson": 4,
+    "lesson_title": "Let's Count Together",
+    "type": "mcq",
+    "prompt": "Which word has the long a sound?",
+    "answer": "snake",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 28, Ex 7 Circle the long a, item 4 (snake / snack)",
+    "source_change": "Printed word pair as a choose-the-word question",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "snake فيها صوت a الطويل (زي اسم الحرف). snack فيها a قصيرة.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "snake",
+      "snack"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 2 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u2l4-02",
+    "grade": "P2",
+    "term": 1,
+    "unit": 2,
+    "lesson": 4,
+    "lesson_title": "Let's Count Together",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "How many pens are there?",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 27, Ex 3 Reorder the words, item 1",
+    "source_change": "Printed words, question mark as a separate token",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "السؤال: How many ... are there? وبعدها علامة استفهام.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "pens",
+      "How",
+      "many",
+      "are",
+      "there",
+      "?"
+    ],
+    "accept": [
+      "How many pens are there?"
+    ],
+    "answer_tokens": [
+      "How",
+      "many",
+      "pens",
+      "are",
+      "there",
+      "?"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 2 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u2l4-03",
+    "grade": "P2",
+    "term": 1,
+    "unit": 2,
+    "lesson": 4,
+    "lesson_title": "Let's Count Together",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "There are eight books.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 27, Ex 3 Reorder the words, item 2",
+    "source_change": "Printed words, full stop as a separate token",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "There are + الرقم + الاسم: There are eight books.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "books",
+      "eight",
+      "are",
+      "There",
+      "."
+    ],
+    "accept": [
+      "There are eight books."
+    ],
+    "answer_tokens": [
+      "There",
+      "are",
+      "eight",
+      "books",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 2 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
   }
 ]

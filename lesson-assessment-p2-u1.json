@@ -3905,5 +3905,784 @@
     "requires_image": true,
     "alt": "Picture clue",
     "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling."
+  },
+  {
+    "id": "orig-p2-u1l1-01",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Classroom Greetings",
+    "type": "mcq",
+    "prompt": "What's your name?",
+    "answer": "My name is Omar.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 6, Practice with your friend (Student A / Student B)",
+    "source_change": "Printed pair dialogue turned into a choose-the-reply question; new name",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "السؤال عن الاسم، فنرد بـ My name is ... مش بجملة تانية.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "My name is Omar.",
+      "I sit on a chair.",
+      "Goodbye."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 1",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l1-03",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Classroom Greetings",
+    "type": "typein",
+    "prompt": "At the end of the day, I say g______. (Write the missing word.)",
+    "answer": "goodbye",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 7, Ex 4 Read and complete, item 3",
+    "source_change": "Printed sentence, typed answer instead of word bank",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "في آخر اليوم بنقول Goodbye (مع السلامة).",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "accept": [
+      "goodbye",
+      "Goodbye"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 1",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l2-01",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "type": "mcq",
+    "prompt": "Which word rhymes with cat?",
+    "answer": "hat",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 8, Phonics Focus: short a (cat, hat, fan, man, map, cap)",
+    "source_change": "New rhyme question from the printed word list",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "cat و hat ليهم نفس النهاية at. fan نهايتها an و map نهايتها ap.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "hat",
+      "fan",
+      "map"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l2-02",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "type": "mcq",
+    "prompt": "Which word rhymes with fan?",
+    "answer": "man",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 8, Phonics Focus: short a (cat, hat, fan, man, map, cap)",
+    "source_change": "New rhyme question from the printed word list",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "fan و man نهايتهم an، فهما بيتقفوا مع بعض.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "man",
+      "cap",
+      "hat"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l2-03",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "type": "mcq",
+    "prompt": "Which word does NOT have the short a sound?",
+    "answer": "hot",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 9, Ex 4 Read and circle (hot / hat)",
+    "source_change": "Built from the printed hot / hat contrast",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "cat و hat فيهم صوت a القصير. hot فيها صوت o.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "cat",
+      "hat",
+      "hot"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l2-04",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "This is a notebook.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 10, Ex 5 Reorder the words (This is a ...), with word from p8 list",
+    "source_change": "Printed sentence frame; new word from the lesson list",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة بتبدأ بـ This وبعدها is a وبعدها الكلمة: This is a notebook.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "notebook",
+      "is",
+      "This",
+      "a",
+      "."
+    ],
+    "accept": [
+      "This is a notebook."
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "a",
+      "notebook",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l2-05",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 2,
+    "lesson_title": "Around the Classroom",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to spell the word.",
+    "answer": "door",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 10, Ex 6 Reorder the letters (door is in p8 list)",
+    "source_change": "Printed task type; letters of a lesson word, no picture",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الحروف بترتب لكلمة door يعني باب.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "letters": [
+      "o",
+      "r",
+      "d",
+      "o"
+    ],
+    "accept": [
+      "door"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 2",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l3-01",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "type": "mcq",
+    "prompt": "A: Where is the door?  B: ____",
+    "answer": "It's over there.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 12, Listening and Speaking: Where is the ...?",
+    "source_change": "Printed dialogue turned into choose-the-reply",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "السؤال عن المكان (Where) بنرد عليه بـ It's over there.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "It's over there.",
+      "My name is Ali.",
+      "This is a bag."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l3-02",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "type": "mcq",
+    "prompt": "I erase a mistake with an ____.",
+    "answer": "eraser",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 11, Ex 1 vocabulary: eraser",
+    "source_change": "New sentence using the printed word",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الممحاة eraser بنمسح بيها الغلط. وكلمة an جاية قبل حرف e.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "eraser",
+      "ruler",
+      "pencil case"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l3-03",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "type": "mcq",
+    "prompt": "I measure a line with a ____.",
+    "answer": "ruler",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 11, Ex 1 vocabulary: ruler",
+    "source_change": "New sentence using the printed word",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "المسطرة ruler بنقيس بيها الخط.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "ruler",
+      "window",
+      "door"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l3-04",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "type": "mcq",
+    "prompt": "I look out of the ____ to see outside.",
+    "answer": "window",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 11, Ex 1 vocabulary: window",
+    "source_change": "New sentence using the printed word",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنبص من الشباك window على اللي برّه.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "window",
+      "board",
+      "bag"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l3-05",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "That is a ruler.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 12, Ex 4 Reorder the words (This/That is a ...)",
+    "source_change": "Printed frame with That and a lesson word",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "That is a ruler. يعني: دي مسطرة (بعيدة).",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "is",
+      "That",
+      "ruler",
+      "a",
+      "."
+    ],
+    "accept": [
+      "That is a ruler."
+    ],
+    "answer_tokens": [
+      "That",
+      "is",
+      "a",
+      "ruler",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l3-06",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "Where is the door?",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 12, Listening and Speaking: Where is the door?",
+    "source_change": "Printed question turned into a reorder task",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "السؤال بيبدأ بـ Where وبعده is the door وعلامة استفهام.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "door",
+      "the",
+      "is",
+      "Where",
+      "?"
+    ],
+    "accept": [
+      "Where is the door?"
+    ],
+    "answer_tokens": [
+      "Where",
+      "is",
+      "the",
+      "door",
+      "?"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l3-07",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to spell the word.",
+    "answer": "window",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 13, Ex 5 Reorder the letters (window is the printed example)",
+    "source_change": "Printed task type; different word order from the printed example, no picture",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الحروف بترتب لكلمة window يعني شباك.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "letters": [
+      "n",
+      "d",
+      "i",
+      "w",
+      "o",
+      "w"
+    ],
+    "accept": [
+      "window"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l3-08",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 3,
+    "lesson_title": "Our Classroom Objects",
+    "type": "mcq",
+    "prompt": "Which word has the short i sound?",
+    "answer": "fig",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 13, Phonics Focus: short a and i (pen, ten, hen, zip, fig, bin)",
+    "source_change": "New sound question from the printed word list",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "fig فيها صوت i القصير. hen و pen فيهم صوت e.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "fig",
+      "hen",
+      "pen"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l4-04",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together!",
+    "type": "mcq",
+    "prompt": "Choose the correct sentence.",
+    "answer": "This is my bag.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 14, Reading and Writing: This is my bag.",
+    "source_change": "Printed example sentence with capital letter and full stop options",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة الصح بتبدأ بحرف كبير وتنتهي بنقطة.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "This is my bag.",
+      "this is my bag.",
+      "This is my bag"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l4-05",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together!",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "This is my pencil case.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 14, Reading and Writing: This is my pencil case.",
+    "source_change": "Printed example sentence turned into a reorder task",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "This is my pencil case. يعني: دي مقلمتي.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "pencil",
+      "is",
+      "This",
+      "my",
+      "case",
+      "."
+    ],
+    "accept": [
+      "This is my pencil case."
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "my",
+      "pencil",
+      "case",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l4-06",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together!",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "This is my ruler.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 14, Reading and Writing: This is my ... (pattern)",
+    "source_change": "Printed sentence pattern with a classroom word",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "This is my ruler. يعني: دي مسطرتي.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "is",
+      "ruler",
+      "This",
+      "my",
+      "."
+    ],
+    "accept": [
+      "This is my ruler."
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "my",
+      "ruler",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l4-07",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together!",
+    "type": "mcq",
+    "prompt": "Which sentence is a good sentence about a classroom item?",
+    "answer": "This is my ruler.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 14, Reading and Writing: Write two simple sentences about classroom items",
+    "source_change": "Built from the printed writing task",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة المرتبة هي This is my ruler.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "This is my ruler.",
+      "Ruler my is this.",
+      "My this ruler is."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l1-91",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 1,
+    "lesson_title": "Classroom Greetings",
+    "type": "mcq",
+    "prompt": "In the morning, I say ____ morning to my teacher.",
+    "answer": "Good",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 6, Classroom Greetings dialogue (greetings)",
+    "source_change": "New greeting-in-context question, replaces the overlapping chair item",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الصبح بنقول Good morning. Goodbye بنقولها وقت ما نمشي.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "Good",
+      "Goodbye",
+      "Bad"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 1",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l4-93",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together!",
+    "type": "typein",
+    "prompt": "Write the sentence with a capital letter and a full stop: this is my bag",
+    "answer": "This is my bag.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 14, Reading and Writing: This is my bag.",
+    "source_change": "Sentence-writing item replacing a phonics item",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة لازم تبدأ بحرف كبير وتنتهي بنقطة: This is my bag.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "accept": [
+      "This is my bag."
+    ],
+    "strict_case": true,
+    "strict_punctuation": true,
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l4-95",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together!",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "This is my notebook.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 14, Reading and Writing: This is my ... (pattern, classroom items)",
+    "source_change": "Printed sentence pattern with a classroom word",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: This is my notebook.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "notebook",
+      "is",
+      "This",
+      "my",
+      "."
+    ],
+    "accept": [
+      "This is my notebook."
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "my",
+      "notebook",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l4-96",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together!",
+    "type": "typein",
+    "prompt": "Write with a capital letter and a full stop: this is my pencil case",
+    "answer": "This is my pencil case.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 14, Reading and Writing: This is my pencil case.",
+    "source_change": "Printed example sentence as a writing task",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة بتبدأ بحرف كبير وتنتهي بنقطة.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "accept": [
+      "This is my pencil case."
+    ],
+    "strict_case": true,
+    "strict_punctuation": true,
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u1l4-98",
+    "grade": "P2",
+    "term": 1,
+    "unit": 1,
+    "lesson": 4,
+    "lesson_title": "Let's Write Together!",
+    "type": "typein",
+    "prompt": "Write with a capital letter and a full stop: this is my ruler",
+    "answer": "This is my ruler.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 14, Reading and Writing: This is my ... (pattern, classroom items)",
+    "source_change": "Editing task on the printed sentence pattern",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة بتبدأ بحرف كبير وتنتهي بنقطة.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "accept": [
+      "This is my ruler."
+    ],
+    "strict_case": true,
+    "strict_punctuation": true,
+    "mapping": {
+      "ministry_lesson": "Unit 1 Lesson 4",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
   }
 ]

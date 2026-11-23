@@ -3782,5 +3782,1138 @@
     "accept": [
       "I read a book."
     ]
+  },
+  {
+    "id": "orig-p2-u3l3-01",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 3,
+    "lesson_title": "All About Our Classroom",
+    "type": "mcq",
+    "prompt": "I ____ my hand to answer a question.",
+    "answer": "raise",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 39, Ex 2 word list: raise",
+    "source_change": "New sentence using a printed word-list verb",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنرفع إيدنا عشان نجاوب: raise my hand.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "raise",
+      "sit",
+      "clean"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 3",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l3-02",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 3,
+    "lesson_title": "All About Our Classroom",
+    "type": "mcq",
+    "prompt": "I ____ the door.",
+    "answer": "open",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 39, Ex 2 word list: open",
+    "source_change": "New sentence using a printed word-list verb",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنفتح الباب: open the door.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "open",
+      "sing",
+      "draw"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 3",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l3-03",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 3,
+    "lesson_title": "All About Our Classroom",
+    "type": "mcq",
+    "prompt": "I ____ a song with my friends.",
+    "answer": "sing",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 39, Ex 2 word list: sing",
+    "source_change": "New sentence using a printed word-list verb",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنغني أغنية: sing a song.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "sing",
+      "clean",
+      "sit"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 3",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l3-04",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 3,
+    "lesson_title": "All About Our Classroom",
+    "type": "mcq",
+    "prompt": "I ____ up when the teacher comes in.",
+    "answer": "stand",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 39, Ex 2 word list: stand",
+    "source_change": "New sentence using a printed word-list verb",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنقف لما المدرس يدخل: stand up.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "stand",
+      "draw",
+      "write"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 3",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l3-05",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 3,
+    "lesson_title": "All About Our Classroom",
+    "type": "typein",
+    "prompt": "I c_____ the picture with red and blue. (Write the missing word.)",
+    "answer": "color",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 39, Ex 2 word list: color",
+    "source_change": "New sentence using a printed word-list verb",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنلوّن الصورة: color the picture.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "accept": [
+      "color",
+      "Color",
+      "colour",
+      "Colour"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 3",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l3-06",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 3,
+    "lesson_title": "All About Our Classroom",
+    "type": "mcq",
+    "prompt": "Choose the Arabic meaning of 'draw'.",
+    "answer": "يرسم",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 39, Ex 1 text: I draw a picture.",
+    "source_change": "Meaning check on a printed verb",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "draw يعني يرسم.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "يرسم",
+      "يقرأ",
+      "يكتب"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l3-07",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 3,
+    "lesson_title": "All About Our Classroom",
+    "type": "mcq",
+    "prompt": "Choose the Arabic meaning of 'play'.",
+    "answer": "يلعب",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 39, Ex 1 text: I play with my friends.",
+    "source_change": "Meaning check on a printed verb",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "play يعني يلعب.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "يلعب",
+      "يغني",
+      "يقف"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l3-08",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 3,
+    "lesson_title": "All About Our Classroom",
+    "type": "mcq",
+    "prompt": "Which word is an action word?",
+    "answer": "write",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 39, Ex 2 action words",
+    "source_change": "Built from the printed action-word list",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "write كلمة فعل (بنعمل بيها حاجة). desk و chair أسماء حاجات.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "desk",
+      "write",
+      "chair"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l3-09",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 3,
+    "lesson_title": "All About Our Classroom",
+    "type": "mcq",
+    "prompt": "I write in my ____.",
+    "answer": "notebook",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 39, Ex 1 text: I write in my notebook.",
+    "source_change": "Printed sentence with the noun as the blank",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنكتب في الكراسة: notebook.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "notebook",
+      "chair",
+      "door"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l3-10",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 3,
+    "lesson_title": "All About Our Classroom",
+    "type": "mcq",
+    "prompt": "Choose the correct sentence.",
+    "answer": "I sit on my chair.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 40, Ex 6 Put the words in the correct order",
+    "source_change": "Printed sentence pattern as choose-the-correct-order",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الترتيب الصح: I + الفعل + باقي الجملة.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "I sit on my chair.",
+      "I chair on my sit.",
+      "Sit I my chair on."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l3-11",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 3,
+    "lesson_title": "All About Our Classroom",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "I raise my hand.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 40, Ex 6 Put the words in the correct order (pattern)",
+    "source_change": "Printed pattern I + verb + my + noun, new verb",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: I raise my hand.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "my",
+      "raise",
+      "I",
+      "hand",
+      "."
+    ],
+    "accept": [
+      "I raise my hand."
+    ],
+    "answer_tokens": [
+      "I",
+      "raise",
+      "my",
+      "hand",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 3",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l3-12",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 3,
+    "lesson_title": "All About Our Classroom",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "I sing a song.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 40, Ex 6 Put the words in the correct order (pattern)",
+    "source_change": "Printed pattern, new verb",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: I sing a song.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "a",
+      "sing",
+      "I",
+      "song",
+      "."
+    ],
+    "accept": [
+      "I sing a song."
+    ],
+    "answer_tokens": [
+      "I",
+      "sing",
+      "a",
+      "song",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 3",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l3-13",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 3,
+    "lesson_title": "All About Our Classroom",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "I open my book.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 40, Ex 6 Put the words in the correct order (pattern)",
+    "source_change": "Printed pattern, new verb",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: I open my book.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "book",
+      "open",
+      "I",
+      "my",
+      "."
+    ],
+    "accept": [
+      "I open my book."
+    ],
+    "answer_tokens": [
+      "I",
+      "open",
+      "my",
+      "book",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 3",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-01",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "I draw a picture.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 42, Ex 3 Reorder, item c",
+    "source_change": "Printed item, punctuation as separate token",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: I draw a picture.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "a",
+      "draw",
+      "I",
+      "picture",
+      "."
+    ],
+    "accept": [
+      "I draw a picture."
+    ],
+    "answer_tokens": [
+      "I",
+      "draw",
+      "a",
+      "picture",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-02",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "I stand up.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 1 trace word: stand; sentence pattern from Lesson 3",
+    "source_change": "Printed word in the lesson pattern",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: I stand up.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "up",
+      "stand",
+      "I",
+      "."
+    ],
+    "accept": [
+      "I stand up."
+    ],
+    "answer_tokens": [
+      "I",
+      "stand",
+      "up",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-03",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "I close my book.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 3 Reorder (pattern) with word-list verb",
+    "source_change": "Printed pattern, new verb",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: I close my book.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "book",
+      "close",
+      "I",
+      "my",
+      "."
+    ],
+    "accept": [
+      "I close my book."
+    ],
+    "answer_tokens": [
+      "I",
+      "close",
+      "my",
+      "book",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-04",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "I color my picture.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 3 Reorder (pattern) with word-list verb",
+    "source_change": "Printed pattern, new verb",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: I color my picture.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "picture",
+      "color",
+      "I",
+      "my",
+      "."
+    ],
+    "accept": [
+      "I color my picture."
+    ],
+    "answer_tokens": [
+      "I",
+      "color",
+      "my",
+      "picture",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-05",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "I read a story.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 3 Reorder (pattern); Lesson 3 Ex 5 'a story'",
+    "source_change": "Printed pattern and phrase",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: I read a story.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "a",
+      "read",
+      "I",
+      "story",
+      "."
+    ],
+    "accept": [
+      "I read a story."
+    ],
+    "answer_tokens": [
+      "I",
+      "read",
+      "a",
+      "story",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-06",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "typein",
+    "prompt": "Complete: I ______ my book. (bank: play, read, draw, write, clean)",
+    "answer": "read",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 2 Complete the sentences, item a",
+    "source_change": "Printed item, typed answer",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنقرأ الكتاب: read.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "accept": [
+      "read",
+      "Read"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-07",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "typein",
+    "prompt": "Complete: I ______ a picture. (bank: play, read, draw, write, clean)",
+    "answer": "draw",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 2 Complete the sentences, item b",
+    "source_change": "Printed item, typed answer",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنرسم صورة: draw.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "accept": [
+      "draw",
+      "Draw"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-08",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "typein",
+    "prompt": "Complete: I ______ with my friends. (bank: play, read, draw, write, clean)",
+    "answer": "play",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 2 Complete the sentences, item c",
+    "source_change": "Printed item, typed answer",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنلعب مع صحابنا: play.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "accept": [
+      "play",
+      "Play"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-09",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "typein",
+    "prompt": "Complete: I ______ in my notebook. (bank: play, read, draw, write, clean)",
+    "answer": "write",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 2 Complete the sentences, item d",
+    "source_change": "Printed item, typed answer",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنكتب في الكراسة: write.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "accept": [
+      "write",
+      "Write"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-10",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to spell an action word.",
+    "answer": "stand",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 1 Trace the words (spelling of the traced word)",
+    "source_change": "Printed word as a letter-ordering spelling task, no picture",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الحروف بترتب لكلمة stand.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "letters": [
+      "t",
+      "s",
+      "a",
+      "n",
+      "d"
+    ],
+    "accept": [
+      "stand"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-11",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to spell an action word.",
+    "answer": "write",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 1 Trace the words (spelling of the traced word)",
+    "source_change": "Printed word as a letter-ordering spelling task, no picture",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الحروف بترتب لكلمة write.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "letters": [
+      "t",
+      "i",
+      "w",
+      "e",
+      "r"
+    ],
+    "accept": [
+      "write"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-12",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to spell an action word.",
+    "answer": "clean",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 1 Trace the words (spelling of the traced word)",
+    "source_change": "Printed word as a letter-ordering spelling task, no picture",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الحروف بترتب لكلمة clean.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "letters": [
+      "l",
+      "c",
+      "a",
+      "e",
+      "n"
+    ],
+    "accept": [
+      "clean"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-13",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to spell an action word.",
+    "answer": "draw",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 1 Trace the words (spelling of the traced word)",
+    "source_change": "Printed word as a letter-ordering spelling task, no picture",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الحروف بترتب لكلمة draw.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "letters": [
+      "w",
+      "r",
+      "a",
+      "d"
+    ],
+    "accept": [
+      "draw"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-14",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to spell an action word.",
+    "answer": "play",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 1 Trace the words (spelling of the traced word)",
+    "source_change": "Printed word as a letter-ordering spelling task, no picture",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الحروف بترتب لكلمة play.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "letters": [
+      "y",
+      "l",
+      "a",
+      "p"
+    ],
+    "accept": [
+      "play"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-15",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to spell an action word.",
+    "answer": "sing",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 1 Trace the words (spelling of the traced word)",
+    "source_change": "Printed word as a letter-ordering spelling task, no picture",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الحروف بترتب لكلمة sing.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "letters": [
+      "s",
+      "n",
+      "i",
+      "g"
+    ],
+    "accept": [
+      "sing"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-16",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "mcq",
+    "prompt": "Choose the correct sentence.",
+    "answer": "I write in my notebook.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 42, Ex 4 Example sentences",
+    "source_change": "Printed example with scrambled distractors",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة المرتبة: I write in my notebook.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "I write in my notebook.",
+      "I write on my notebook in.",
+      "Write I notebook my in."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-17",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "mcq",
+    "prompt": "Choose the correct sentence.",
+    "answer": "I read my book.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 42, Ex 4 Example sentences",
+    "source_change": "Printed example with capital-letter and full-stop distractors",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة بتبدأ بحرف كبير وتنتهي بنقطة.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "I read my book.",
+      "i read my book.",
+      "I read my book"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-18",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "mcq",
+    "prompt": "I ____ in my notebook with a pencil.",
+    "answer": "write",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 2 sentence pattern (write in my notebook)",
+    "source_change": "New context for a printed pattern",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنكتب في الكراسة بالقلم: write.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "write",
+      "sing",
+      "stand"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-21",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "mcq",
+    "prompt": "Choose the Arabic meaning of 'write'.",
+    "answer": "يكتب",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 1 trace word: write",
+    "source_change": "Meaning check on a printed verb",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "write يعني يكتب.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "يكتب",
+      "يرسم",
+      "يلعب"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-22",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "mcq",
+    "prompt": "Choose the Arabic meaning of 'sing'.",
+    "answer": "يغني",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 1 trace word: sing",
+    "source_change": "Meaning check on a printed verb",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "sing يعني يغني.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "يغني",
+      "يقف",
+      "ينظف"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-94",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "typein",
+    "prompt": "Write with a capital letter and a full stop: i draw a picture",
+    "answer": "I draw a picture.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 41, Ex 2 sentence: I draw a picture",
+    "source_change": "Editing task on a printed sentence",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة بتبدأ بحرف كبير (I) وتنتهي بنقطة.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "accept": [
+      "I draw a picture."
+    ],
+    "strict_case": true,
+    "strict_punctuation": true,
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u3l4-96",
+    "grade": "P2",
+    "term": 1,
+    "unit": 3,
+    "lesson": 4,
+    "lesson_title": "Writing About Our Class",
+    "type": "typein",
+    "prompt": "Write with a capital letter and a full stop: i write in my notebook",
+    "answer": "I write in my notebook.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 42, Ex 4 Example sentences: I write in my notebook",
+    "source_change": "Editing task on a printed sentence",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة بتبدأ بحرف كبير (I) وتنتهي بنقطة.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "accept": [
+      "I write in my notebook."
+    ],
+    "strict_case": true,
+    "strict_punctuation": true,
+    "mapping": {
+      "ministry_lesson": "Unit 3 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
   }
 ]

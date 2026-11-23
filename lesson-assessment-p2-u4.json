@@ -2833,5 +2833,1168 @@
     "accept": [
       "play"
     ]
+  },
+  {
+    "id": "orig-p2-u4l1-01",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "type": "mcq",
+    "prompt": "Who is she?",
+    "answer": "This is my mother.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 50, Ex 2 Look, listen, and repeat (Who is she? This is my mother.)",
+    "source_change": "Printed question and answer as choose-the-reply",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "السؤال Who is she؟ بنرد عليه بـ This is my mother.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "This is my mother.",
+      "I eat breakfast.",
+      "It is a rose."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 1",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l1-02",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "type": "mcq",
+    "prompt": "Who is he?",
+    "answer": "This is my father.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 51, Language in Use: Q Who's this? A This is my father.",
+    "source_change": "Printed question and answer as choose-the-reply",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "السؤال عن شخص (Who) بنرد عليه بـ This is my father.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "This is my father.",
+      "This is my pencil case.",
+      "I wake up at seven."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 1",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l1-03",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "type": "mcq",
+    "prompt": "Which word is a family word?",
+    "answer": "brother",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 50, Ex 1 Listen, repeat, and practice (family words)",
+    "source_change": "Built from the printed family words",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "brother (أخ) كلمة من العيلة. desk و bed حاجات.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "brother",
+      "desk",
+      "bed"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 1",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l1-04",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "type": "mcq",
+    "prompt": "Which word is NOT a family word?",
+    "answer": "bed",
+    "audio": false,
+    "requires_image": false,
+    "origin": "original practice aligned to lesson",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 50, Ex 1 family words; bed from p53",
+    "source_change": "Built from printed words",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "bed يعني سرير، مش فرد من العيلة.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "mother",
+      "sister",
+      "bed",
+      "father"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 1",
+      "status": "Original practice aligned to cited lesson. Not a printed exercise."
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l1-05",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "type": "mcq",
+    "prompt": "Dad = ____",
+    "answer": "father",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 50, Ex 1: This is my father / dad.",
+    "source_change": "Printed pair father / dad",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "dad هي اسم الدلع لـ father (بابا).",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "father",
+      "mother",
+      "sister"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 1",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l1-06",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "type": "mcq",
+    "prompt": "Mom = ____",
+    "answer": "mother",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 50, Ex 1: This is my mother / mom.",
+    "source_change": "Printed pair mother / mom",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "mom هي اسم الدلع لـ mother (ماما).",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "mother",
+      "grandfather",
+      "brother"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 1",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l1-09",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "type": "mcq",
+    "prompt": "Ahmed has a car. It is ____ car.",
+    "answer": "Ahmed's",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 51, Language in Use: Ahmed has a car. It's Ahmed's car.",
+    "source_change": "Printed example turned into a choose-the-form question",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "لما حاجة بتبقى بتاعة حد بنزود 's على اسمه: Ahmed's car.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "Ahmed's",
+      "Ahmeds",
+      "Ahmed"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 1",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l1-12",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "This is my mother.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 50, Ex 1 sentence: This is my mother.",
+    "source_change": "Printed sentence as a reorder task",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: This is my mother.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "mother",
+      "is",
+      "my",
+      "This",
+      "."
+    ],
+    "accept": [
+      "This is my mother."
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "my",
+      "mother",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 1",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l1-13",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "This is my brother.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 50, Ex 1 sentence: This is my brother.",
+    "source_change": "Printed sentence as a reorder task",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: This is my brother.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "brother",
+      "is",
+      "my",
+      "This",
+      "."
+    ],
+    "accept": [
+      "This is my brother."
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "my",
+      "brother",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 1",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l1-14",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "Who is she?",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 50, Ex 2: Who is she?",
+    "source_change": "Printed question as a reorder task",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "السؤال بيبدأ بـ Who وبعده is she وعلامة استفهام.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "she",
+      "Who",
+      "is",
+      "?"
+    ],
+    "accept": [
+      "Who is she?"
+    ],
+    "answer_tokens": [
+      "Who",
+      "is",
+      "she",
+      "?"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 1",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l2-01",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "type": "mcq",
+    "prompt": "Which word has the long o sound?",
+    "answer": "nose",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 55, Ex 3 Listen and circle, item 2 (nose / net)",
+    "source_change": "Printed word pair as choose-the-word",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "nose فيها صوت o الطويل (زي اسم الحرف). net فيها e.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "nose",
+      "net"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 2",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l2-02",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "type": "mcq",
+    "prompt": "Which word has the long u sound?",
+    "answer": "cube",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 55, Ex 3 Listen and circle, item 3 (cub / cube)",
+    "source_change": "Printed word pair as choose-the-word",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "cube فيها صوت u الطويل. cub فيها u قصيرة.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "cube",
+      "cub"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 2",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l2-03",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to spell the word.",
+    "answer": "mother",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 54, Ex 5 Reorder to make a word, item 1",
+    "source_change": "Printed task, no picture",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الحروف بترتب لكلمة mother يعني ماما.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "letters": [
+      "h",
+      "m",
+      "r",
+      "e",
+      "o",
+      "t"
+    ],
+    "accept": [
+      "mother"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 2",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l2-04",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to spell the word.",
+    "answer": "sister",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 54, Ex 5 Reorder to make a word, item 2",
+    "source_change": "Printed task, no picture",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الحروف بترتب لكلمة sister يعني أخت.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "letters": [
+      "s",
+      "r",
+      "e",
+      "t",
+      "s",
+      "i"
+    ],
+    "accept": [
+      "sister"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 2",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l2-05",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "This is my father.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 53, Ex 4 Reorder the words, item 1",
+    "source_change": "Printed item, punctuation as a separate token",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: This is my father.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "is",
+      "my",
+      "father",
+      "This",
+      "."
+    ],
+    "accept": [
+      "This is my father."
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "my",
+      "father",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 2",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l2-06",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "All About Home",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "This is your father.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 53, Ex 4 Reorder the words, item 2",
+    "source_change": "Printed item, punctuation as a separate token",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: This is your father.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "father",
+      "This",
+      "your",
+      "is",
+      "."
+    ],
+    "accept": [
+      "This is your father."
+    ],
+    "answer_tokens": [
+      "This",
+      "is",
+      "your",
+      "father",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 2",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l3-01",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "type": "mcq",
+    "prompt": "I wake up ____ seven.",
+    "answer": "at",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 58, Ex 2 sentences: I wake up at seven.",
+    "source_change": "Printed sentence with the time word as the blank",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "مع الساعة بنقول at: at seven.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "at",
+      "in",
+      "on"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l3-02",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "type": "mcq",
+    "prompt": "He ____ breakfast.",
+    "answer": "eats",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 58, Language in Use: He eats breakfast.",
+    "source_change": "Printed sentence as choose-the-form",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "مع He بنزود s على الفعل: He eats.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "eats",
+      "eat",
+      "eating"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l3-03",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "type": "mcq",
+    "prompt": "I brush my teeth ____.",
+    "answer": "at night",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 58, Language in Use: Time Expressions (At night)",
+    "source_change": "Printed time expression",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "التعبير الصح at night يعني بالليل.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "at night",
+      "on night",
+      "in night"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l3-04",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "type": "mcq",
+    "prompt": "My name is Sara. I wake up at seven. Then, I ____ breakfast in the morning.",
+    "answer": "eat",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 59, Ex 4 Read and complete, blank 1",
+    "source_change": "Printed passage blank, one item per blank",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنفطر الصبح: eat breakfast.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "eat",
+      "read",
+      "brush"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l3-05",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "type": "mcq",
+    "prompt": "I ____ my teeth and read a book.",
+    "answer": "brush",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 59, Ex 4 Read and complete, blank 2",
+    "source_change": "Printed passage blank, one item per blank",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنغسل سناننا: brush my teeth.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "brush",
+      "eat",
+      "sleep"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l3-06",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My Life at Home",
+    "type": "mcq",
+    "prompt": "I brush my teeth and ____ a book.",
+    "answer": "read",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 59, Ex 4 Read and complete, blank 3",
+    "source_change": "Printed passage blank, one item per blank",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنقرأ كتاب: read a book.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "read",
+      "eat",
+      "wash"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 3",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l4-01",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "I wake up at seven.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 60, Ex 1 Reorder the words, item 1",
+    "source_change": "Printed item, punctuation as a separate token",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: I wake up at seven.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "up",
+      "wake",
+      "I",
+      "seven",
+      "at",
+      "."
+    ],
+    "accept": [
+      "I wake up at seven."
+    ],
+    "answer_tokens": [
+      "I",
+      "wake",
+      "up",
+      "at",
+      "seven",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l4-02",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "They play after school.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 60, Ex 1 Reorder the words, item 2",
+    "source_change": "Printed item, punctuation as a separate token",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: They play after school.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "school",
+      "after",
+      "play",
+      "They",
+      "."
+    ],
+    "accept": [
+      "They play after school."
+    ],
+    "answer_tokens": [
+      "They",
+      "play",
+      "after",
+      "school",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l4-03",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to spell the word.",
+    "answer": "brush",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 60, Ex 2 Reorder the letters, item 1",
+    "source_change": "Printed task, no picture",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الحروف بترتب لكلمة brush يعني يفرّش.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "letters": [
+      "s",
+      "u",
+      "h",
+      "b",
+      "r"
+    ],
+    "accept": [
+      "brush"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l4-04",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to spell the word.",
+    "answer": "sleep",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 60, Ex 2 Reorder the letters, item 2",
+    "source_change": "Printed task, no picture",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الحروف بترتب لكلمة sleep يعني ينام.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "letters": [
+      "l",
+      "e",
+      "e",
+      "p",
+      "s"
+    ],
+    "accept": [
+      "sleep"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l4-05",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to spell the word.",
+    "answer": "walk",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 60, Ex 2 Reorder the letters, item 3",
+    "source_change": "Printed task, no picture",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الحروف بترتب لكلمة walk يعني يمشي.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "letters": [
+      "k",
+      "l",
+      "a",
+      "w"
+    ],
+    "accept": [
+      "walk"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l4-06",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to spell the word.",
+    "answer": "teeth",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 62, Ex 4 Rearrange the letters, item 2",
+    "source_change": "Printed task, no picture",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الحروف بترتب لكلمة teeth يعني أسنان.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "letters": [
+      "t",
+      "h",
+      "e",
+      "e",
+      "t"
+    ],
+    "accept": [
+      "teeth"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l4-07",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "type": "mcq",
+    "prompt": "Which word has the th sound at the start?",
+    "answer": "thin",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 62, Ex 3 Listen and circle, item 1 (Tin / Thin)",
+    "source_change": "Printed word pair as choose-the-word",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "thin فيها صوت th. tin بتبدأ بـ t بس.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "thin",
+      "tin"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l4-08",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "type": "mcq",
+    "prompt": "Which word has the th sound at the end?",
+    "answer": "math",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 62, Ex 3 Listen and circle, item 2 (Math / Mat)",
+    "source_change": "Printed word pair as choose-the-word",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "math بتنتهي بصوت th. mat بتنتهي بـ t.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "math",
+      "mat"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l4-09",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "type": "mcq",
+    "prompt": "Which word has the th sound?",
+    "answer": "teeth",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 62, Ex 3 Listen and circle, item 5 (feet / Teeth)",
+    "source_change": "Printed word pair as choose-the-word",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "teeth فيها صوت th. feet لأ.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "teeth",
+      "feet"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l4-10",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Me and My Family",
+    "type": "mcq",
+    "prompt": "Which word has the th sound at the start?",
+    "answer": "thick",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 62, Ex 3 Listen and circle, item 6 (tick / Thick)",
+    "source_change": "Printed word pair as choose-the-word",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "thick فيها صوت th. tick بتبدأ بـ t.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "thick",
+      "tick"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 4",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l1-91",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "type": "mcq",
+    "prompt": "This is my father. ____ is tall.",
+    "answer": "He",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 51, Family Tree Game: This is my father. He is tall.",
+    "source_change": "Printed sentence with the pronoun as the blank",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "father ولد فبنقول He (هو).",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "He",
+      "She",
+      "It"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 1",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l1-93",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "type": "typein",
+    "prompt": "This is my f_____. He is tall. (Write the family word.)",
+    "answer": "father",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 51, Family Tree Game: This is my father. He is tall.",
+    "source_change": "Printed sentence as a missing-word task",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "He is tall بتقول إنه ولد، والكلمة father.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "accept": [
+      "father",
+      "Father"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 1",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l1-95",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "type": "mcq",
+    "prompt": "Sara has some toys. Ali says to Sara, \"These are ____ toys.\"",
+    "answer": "your",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 51, Language in Use: These are your toys.",
+    "source_change": "Printed your-toys model recast with an explicit owner and speaker so possessive choice is answerable.",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "بنكلم سارة، فبنقول your (بتاعتك).",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "options": [
+      "your",
+      "my",
+      "Ahmed's"
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 1",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+  },
+  {
+    "id": "orig-p2-u4l1-96",
+    "grade": "P2",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "My Family",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "answer": "He is tall.",
+    "audio": false,
+    "requires_image": false,
+    "origin": "adaptation",
+    "source_ref": "Ministry Primary 2 Term 1 Student Book 2026-27, printed and PDF page 51, Family Tree Game: This is my father. He is tall.",
+    "source_change": "Printed sentence as a reorder task",
+    "key_status": "teacher-derived from printed content; not answer-book certified",
+    "explanation_ar": "الجملة: He is tall.",
+    "review_status": "source pixels and answerability reviewed by integrator; browser QA pending",
+    "words": [
+      "tall",
+      "is",
+      "He",
+      "."
+    ],
+    "accept": [
+      "He is tall."
+    ],
+    "answer_tokens": [
+      "He",
+      "is",
+      "tall",
+      "."
+    ],
+    "mapping": {
+      "ministry_lesson": "Unit 4 Lesson 1",
+      "status": "Supplemental source-aligned adaptation"
+    },
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
   }
 ]
