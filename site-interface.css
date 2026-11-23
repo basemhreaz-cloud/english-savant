@@ -186,3 +186,28 @@ html:root:root[data-interface-language] header.island-compact>.island-toggle{hei
 html:root:root[data-interface-language] header.island-compact.island-open{height:auto!important;border-radius:24px!important}
 /* Blur only floating layers, not nested form fields and answer cards. */
 html:root:root[data-interface-language] :is(button,input,textarea,select,.button,.chip,.badge,.pill,.q-passage,.q-feed,.feedback,.esb-strip,.esb-box,.esb-chip,.esb-token,.token,.word-bank,.token-bank,.token-result){backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
+/* Search close is drawn geometrically, independent of text baseline and platform font. */
+html:root:root[data-interface-language] .es-search-close{position:relative;display:inline-flex!important;align-items:center;justify-content:center;box-sizing:border-box;width:40px!important;height:40px!important;min-width:40px;min-height:40px;padding:0!important;line-height:0!important;font-size:0!important;margin:0 0 10px 10px;border-radius:12px!important;vertical-align:middle}
+html:root:root[data-interface-language] .es-search-close::before,html:root:root[data-interface-language] .es-search-close::after{content:'';position:absolute;left:50%;top:50%;width:16px;height:1.8px;border-radius:2px;background:currentColor;transform:translate(-50%,-50%) rotate(45deg);pointer-events:none}
+html:root:root[data-interface-language] .es-search-close::after{transform:translate(-50%,-50%) rotate(-45deg)}
+/* Each UI symbol has a stable optical slot. Icon+label controls keep their text group. */
+html:root:root[data-interface-language] .es-ui-icon{display:inline-flex!important;align-items:center!important;justify-content:center!important;flex:0 0 18px;width:18px!important;height:18px!important;min-width:18px;line-height:0;vertical-align:middle;color:inherit;transform:none!important}
+html:root:root[data-interface-language] .es-ui-icon>svg{display:block!important;width:18px!important;height:18px!important;flex:none;margin:0!important;padding:0!important;transform:none!important}
+html:root:root[data-interface-language] :is(button,a,summary).es-ui-control:not(.grade-entry):not(.tool-card):not(.resource-card){align-items:center;vertical-align:middle}
+html:root:root[data-interface-language] :is(button,.button,.grade-back,.k2-back,.kg-course-back,.social-btn,.text-button).es-ui-control{display:inline-flex;align-items:center;justify-content:center;gap:8px}
+html:root:root[data-interface-language] .es-ui-icon-only{display:inline-flex!important;align-items:center!important;justify-content:center!important;padding:0!important;min-width:40px;min-height:40px}
+html:root:root[data-interface-language] header :is(button,.icon-button,.island-toggle){align-items:center!important;justify-content:center!important;line-height:1!important}
+html:root:root[data-interface-language] :is(.social-btn,.grade-entry-icon){display:inline-flex!important;align-items:center!important;justify-content:center!important;line-height:1.4}
+html:root:root[data-interface-language] :is(.social-btn,.grade-entry-icon)>svg{display:block;flex-shrink:0;margin-block:0!important;vertical-align:middle;transform:none!important}
+html:root:root[data-interface-language] footer .es-ui-icon{margin-inline:3px}
+/* Short action labels are centered; educational prose/options retain reading alignment. */
+html:root:root[data-interface-language] :is(.button,.q-check,.chip,.badge,.pill,.grade-chip,.badge-soon,.q-label,.q-num,.q-state,.lesson-choice,.social-btn,.text-button,.k2-back,.kg-course-back,.grade-back){text-align:center!important;align-items:center!important;justify-content:center!important;line-height:1.6;box-sizing:border-box}
+html:root:root[data-interface-language] :is(.badge,.pill,.grade-chip,.badge-soon,.q-label,.q-num,.q-state){display:inline-flex;gap:5px;padding-block:5px;min-height:26px}
+html:root:root[data-interface-language] :is(.button,.q-check,.chip,.lesson-choice,.text-button,.social-btn){display:inline-flex;gap:8px;padding-block:10px}
+html:root:root[data-interface-language] :is(.grade-card,.stage-card) :is(h2,h3,.grade-chip,.eyebrow,.text-link){text-align:center;align-self:center;justify-content:center}
+html:root:root[data-interface-language] .grade-entry :is(h2,.grade-entry-open){text-align:center;justify-content:center;align-self:center}
+html:root:root[data-interface-language] .grade-entry-icon{align-self:center!important}
+html:root:root[data-interface-language] :is(.button,.q-check,.chip,.badge,.pill,.lesson-choice,.social-btn)[hidden]{display:none!important}
+html:root:root[data-interface-language] .es-control-content{display:inline-flex;align-items:center;justify-content:center;gap:8px;text-align:center;max-width:100%;line-height:inherit}
+html:root:root[data-interface-language] .es-centered-control{display:inline-flex;align-items:center;justify-content:center;text-align:center}
+html:root:root[data-interface-language] .es-control-content>span:has(>.es-ui-icon){display:inline-flex;align-items:center;justify-content:center;line-height:0}
