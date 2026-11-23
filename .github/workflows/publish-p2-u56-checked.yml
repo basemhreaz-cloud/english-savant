@@ -16,7 +16,7 @@ jobs:
       - run: |
           python3 <<'PYCODE'
           import pathlib,hashlib,base64,tarfile,io,subprocess
-          expected={'lesson-assessments-p2.html': '46e977846b666fd5d959f8e9c7179406d0079e2f084df7583f304f4b91eb760a', 'lesson-assessment-p2.js': '48fdf11553505c717a35f8bea996295e4ae2bcf3483f395f35a1bafe2f638578'}
+          expected={'lesson-assessments-p2.html': '58ce369e36b37b64b480dd76b1df93541fc3c70a1626a38a44d04ff9bcc91934', 'lesson-assessment-p2.js': '48fdf11553505c717a35f8bea996295e4ae2bcf3483f395f35a1bafe2f638578'}
           for n,h in expected.items():assert hashlib.sha256(pathlib.Path(n).read_bytes()).hexdigest()==h,n
           payload=''.join(pathlib.Path('.github/workflows/u56-part-'+str(i)+'.txt').read_text().strip()for i in range(6))
           z=tarfile.open(fileobj=io.BytesIO(base64.b64decode(payload)),mode='r:gz')
