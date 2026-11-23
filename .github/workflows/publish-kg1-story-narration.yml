@@ -26,7 +26,7 @@ jobs:
           ar_old='بعض السرد الصوتي لسه بيتجهز.';ar_new='السرد الصوتي متاح لقصص الوحدات ١–٤.';en_old='Some story narration is still being prepared.';en_new='Story narration is available for Units 1-4.'
           for name in ['kg1.html','course-kg1.html','site-interface.js']:
            p=pathlib.Path(name);s=p.read_text();assert ar_old in s;s=s.replace(ar_old,ar_new).replace(en_old,en_new);p.write_text(s)
-          enc=''.join(pathlib.Path('.github/kg1-story-payload-'+str(i)+'.txt').read_text() for i in range(3))
+          enc=''.join(pathlib.Path('.github/kg1-story-payload-'+str(i)+'.txt').read_text().strip() for i in range(3))
           assert hashlib.sha256(enc.encode()).hexdigest()=='aa916fe94857b3bba62c5e005b3181262a378598beb536e99281985bba4720ab'
           files=json.loads(gzip.decompress(base64.b64decode(enc)))
           for name,body in files.items():
