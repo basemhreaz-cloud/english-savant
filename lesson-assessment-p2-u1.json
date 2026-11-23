@@ -3614,7 +3614,7 @@
     },
     "review_status": "private source and key review completed, awaiting final unit quota decision",
     "origin": "printed exercise (official Ministry book)",
-    "prompt": "Look at the picture. Write a sentence: This is a ___ (or That is a ___)",
+    "prompt": "Look at the picture. Write a sentence using This is or That is.",
     "answer": "This is an eraser.",
     "accept": [
       "This is an eraser.",
