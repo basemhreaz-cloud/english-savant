@@ -1,3 +1,4 @@
+export { SpeechService } from './speech-service.mjs';
 const ORIGIN = 'https://basemhreaz-cloud.github.io';
 const MODEL = '@cf/qwen/qwen3.8-27b';
 const SCHOOL_MODEL = '@cf/meta/llama-3.3-70b-instruct-fp8-fast';
@@ -27,6 +28,22 @@ function repetitive(text){
 }
 export default {async fetch(request,env){
  const url=new URL(request.url);
+ if(url.pathname==='/speech'){
+  const cors={'Access-Control-Allow-Origin':ORIGIN,'Access-Control-Allow-Methods':'POST, OPTIONS','Access-Control-Allow-Headers':'Content-Type','Access-Control-Expose-Headers':'X-Speech-Voice,X-Speech-Cache','Vary':'Origin'};
+  if(request.method==='OPTIONS')return new Response(null,{headers:cors});
+  if(request.method==='GET')return Response.json({service:'Achird speech',configured:!!env.GEMINI_API_KEY,storage:!!env.SPEECH_SERVICE,limitPerMinute:3,limitPerDay:10},{headers:cors});
+  if(request.method!=='POST')return new Response('Method not allowed',{status:405,headers:cors});
+  if(request.headers.get('Origin')!==ORIGIN)return new Response('Forbidden',{status:403,headers:cors});
+  if(!request.headers.get('Content-Type')?.includes('application/json'))return new Response('JSON required',{status:415,headers:cors});
+  const raw=await request.text();if(raw.length>3000)return new Response('Too large',{status:413,headers:cors});
+  let parsed;try{parsed=JSON.parse(raw)}catch{return new Response('Invalid JSON',{status:400,headers:cors})}if(personalData(String(parsed.text||'')))return new Response('Study text only',{status:400,headers:cors});
+  if(!env.SPEECH_SERVICE)return new Response('Unavailable',{status:503,headers:cors});
+  const stub=env.SPEECH_SERVICE.get(env.SPEECH_SERVICE.idFromName('site-wide-free-voice'));
+  const result=await stub.fetch(new Request('https://speech.internal/',{method:'POST',headers:{'Content-Type':'application/json'},body:raw}));
+  const headers=new Headers(result.headers);for(const [k,v] of Object.entries(cors))headers.set(k,v);
+  return new Response(result.body,{status:result.status,headers});
+ }
+
  if(request.method==='GET'&&url.pathname==='/og-image.png')return new Response(ogImageBytes(),{headers:{'Content-Type':'image/png','Cache-Control':'public, max-age=86400','Access-Control-Allow-Origin':'*'}});
  if(request.method==='OPTIONS')return new Response(null,{headers:{'Access-Control-Allow-Origin':ORIGIN,'Access-Control-Allow-Methods':'POST, OPTIONS','Access-Control-Allow-Headers':'Content-Type','Access-Control-Max-Age':'86400'}});
  if(request.method==='GET')return reply({service:'ENGLISH SAVANT learning tools',status:'ready',model:'Qwen / Llama / Mistral',curriculum:'general English practice, not verified textbook content',storage:'no user database',adultChat:'2026-11-21-v1',schoolTools:'2026-11-21-audit-fix-v3'});
