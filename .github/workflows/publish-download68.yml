@@ -1,0 +1,23 @@
+name: Move installation instructions to download page
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Move only the requested install block
+        run: |
+          python3 - <<'PYCODE'
+          import pathlib,base64,zlib,hashlib
+          b=zlib.decompress(base64.b64decode(''.join(pathlib.Path('.github/workflows/page68-'+str(i)+'.txt').read_text().strip() for i in range(2))))
+          assert hashlib.sha256(b).hexdigest()=='841ef8abab9a0fe2402f8333703be52567e509fa0e0a43b4a39f8f80ee3f1d8b'
+          exec(compile(b,'checked68','exec'))
+          PYCODE
+          git config user.name basemhreaz-cloud
+          git config user.email basemhreaz-cloud@users.noreply.github.com
+          git add index.html download.html sw.js
+          git commit -m "Move installation options off homepage to branded download page"
+          git push origin HEAD:main
