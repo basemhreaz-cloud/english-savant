@@ -1,0 +1,14 @@
+/* Lightweight, non-blocking content placeholders. */
+.es-skeleton{pointer-events:none;user-select:none;width:100%;max-width:100%;padding:18px 0;box-sizing:border-box;color:transparent;contain:content}
+.es-skeleton-line,.es-skeleton-card,.es-skeleton-media{display:block;position:relative;overflow:hidden;background:color-mix(in srgb,currentColor 9%,#e7e9e0);border-radius:10px}
+.es-skeleton-line{height:12px;margin:0 0 14px;width:86%}.es-skeleton-line:first-child{width:44%;height:22px;margin-bottom:22px}.es-skeleton-line:nth-child(3){width:65%}
+.es-skeleton-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,210px),1fr));gap:16px;margin-top:24px}.es-skeleton-card{height:126px;border:1px solid rgba(90,102,87,.08)}.es-skeleton-media{height:180px;margin:16px 0}
+.es-skeleton-line::after,.es-skeleton-card::after,.es-skeleton-media::after{content:"";position:absolute;inset:0;background:linear-gradient(100deg,transparent 15%,rgba(255,255,255,.42) 48%,transparent 80%);transform:translateX(-100%);animation:es-skeleton-wave 1.8s ease-in-out infinite}
+@keyframes es-skeleton-wave{to{transform:translateX(100%)}}
+body.dark .es-skeleton-line,body.dark .es-skeleton-card,body.dark .es-skeleton-media{background:#30372e}body.dark .es-skeleton-line::after,body.dark .es-skeleton-card::after,body.dark .es-skeleton-media::after{background:linear-gradient(100deg,transparent,rgba(255,255,255,.06),transparent)}
+main:has(>:not(.es-skeleton-initial))>.es-skeleton-initial{display:none}.es-skeleton-initial{max-width:1100px;margin:0 auto;padding:28px 20px}
+@media(prefers-reduced-motion:reduce){.es-skeleton-line::after,.es-skeleton-card::after,.es-skeleton-media::after{animation:none}}
+
+.es-image-pending{background:linear-gradient(110deg,#e4e7dd,#f5f4ed,#e4e7dd);color:inherit}body.dark .es-image-pending{background:#30372e}
+
+.es-brand-wait{display:flex;align-items:center;flex-direction:column;gap:8px;margin:0 auto 20px;width:70px}.es-brand-wait img{object-fit:contain;width:48px;height:48px}.es-brand-wait>span{width:64px;height:2px;border-radius:3px;background:linear-gradient(90deg,#5a6657,#b78c45,#5a6657);background-size:200% 100%;animation:es-brand-line 1.5s ease infinite}@keyframes es-brand-line{to{background-position:200% 0}}@media(prefers-reduced-motion:reduce){.es-brand-wait>span{animation:none}}

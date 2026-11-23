@@ -11,24 +11,31 @@ html[data-interface-language=en] .header-actions{flex-direction:row}
 html[data-interface-language=en] .header nav{flex-direction:row}
 @media(max-width:600px){html[data-interface-language=en] .header{flex-wrap:wrap}html[data-interface-language=en] .header .brand{min-width:0}html[data-interface-language=en] main{overflow-wrap:anywhere}}
 
-@media(max-width:360px){.header-slot{height:154px!important}.header .brand{flex:1 1 100%}.header .header-actions{margin-inline-start:auto}}
-@media(max-width:360px){.orb{max-width:100%;left:auto;right:auto}}
-/* Keep both preferences available in the site's compact reading header. */
-html:root:root[data-interface-language] .header.island-compact{display:flex;flex-wrap:wrap;align-items:center;gap:6px;max-width:calc(100% - 24px)}
-html:root:root[data-interface-language] .header.island-compact>.header-actions{display:flex!important;flex-wrap:nowrap;gap:6px;margin:0;order:2}
-html:root:root[data-interface-language] .header.island-compact>.header-actions>:not(.theme):not(.es-language-toggle){display:none!important}
-html:root:root[data-interface-language] .header.island-compact>.island-toggle{display:flex;flex:1 1 120px;width:auto;min-width:0;order:1;padding-inline:5px;gap:8px}
-html:root:root[data-interface-language] .header.island-compact>.island-toggle>span:not([aria-hidden]){overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-html:root:root[data-interface-language] .header.island-compact .island-panel{order:3}
-@media(max-width:360px){html:root:root[data-interface-language] .header.island-compact>.header-actions{flex:0 0 auto}html:root:root[data-interface-language] .header.island-compact>.island-toggle{flex-basis:100px}}
+/* Compact mirrored header. One source of layout rules. */
+html:root:root[data-interface-language] :is(.header,.site-header,header.es-simple-header){display:flex;align-items:center;flex-wrap:nowrap;gap:6px;padding:3px 8px;min-height:0;border-radius:14px}
+html:root:root[data-interface-language=ar] :is(.header,.site-header,header.es-simple-header){direction:ltr}
+html:root:root[data-interface-language=en] :is(.header,.site-header,header.es-simple-header){direction:rtl}
+html:root:root[data-interface-language] header>.brand{order:2;flex:1 1 auto;min-width:0;margin:0;direction:ltr}
+html:root:root[data-interface-language] header>.brand img{width:25px;height:27px;margin:1px}
+html:root:root[data-interface-language] header>.brand small{font-size:7px}html:root:root[data-interface-language] header>.brand b{font-size:8px!important;letter-spacing:0!important}
+html:root:root[data-interface-language] header>.menu-toggle{order:1;margin:0!important;flex:0 0 32px;width:32px;height:34px;min-height:34px;padding:0}
+html:root:root[data-interface-language] header>.header-actions{display:flex!important;flex-direction:row!important;flex-wrap:nowrap!important;gap:5px!important;align-items:center;flex:0 0 auto;order:3;margin:0!important;direction:inherit}
+html:root:root[data-interface-language] header>.header-actions>:is(.es-language-toggle,.theme){box-sizing:border-box!important;display:flex!important;align-items:center;justify-content:center;width:34px!important;height:34px!important;min-width:34px!important;min-height:34px!important;max-width:34px!important;padding:1px!important;border-radius:5px!important;line-height:1.1;font-size:8px;flex:0 0 34px}
+html:root:root[data-interface-language] header>.header-actions>.theme{font-size:17px}html:root:root[data-interface-language] header>.header-actions>.es-language-toggle{order:1}html:root:root[data-interface-language] header>.header-actions>.theme{order:2}
+html:root:root[data-interface-language] .header.island-compact{width:132px!important;min-width:0!important;height:34px!important;padding:2px 8px!important;gap:0!important;border-radius:22px!important;overflow:visible}
+html:root:root[data-interface-language] .header.island-compact>.header-actions{display:none!important}
+html:root:root[data-interface-language] .header.island-compact>.island-toggle{display:flex;width:100%;flex:1;min-width:0;height:28px;min-height:28px;font-size:10px;padding:0;justify-content:center}
+html:root:root[data-interface-language] .header.island-compact>.island-toggle>span:not([aria-hidden]){max-width:82px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.header.island-compact .island-mark{display:none}
+html:root:root[data-interface-language] .header.island-compact.island-open{width:min(320px,calc(100vw - 24px))!important;height:auto!important;flex-wrap:wrap;padding:6px!important}
+html:root:root[data-interface-language] .header.island-compact.island-open>.header-actions{display:flex!important}html:root:root[data-interface-language] .header.island-compact.island-open>.island-toggle{flex:1 1 100px}.header.island-compact .island-panel{min-width:min(288px,calc(100vw - 36px))}
+html:root:root[data-interface-language] .site-header>.adult-menu{order:1;flex:0 0 32px}.site-header>.adult-menu>summary{font-size:0;padding:3px;width:26px;min-width:26px}.site-header>.adult-menu>summary::after{content:'☰';font-size:17px}.site-header .header-actions .button{display:none!important}
+header.es-simple-header .draft{display:none}
+@media(max-width:600px){html:root:root[data-interface-language] .header nav.open{position:absolute;top:100%;inset-inline:0;background:var(--warm,#f6f4ef);padding:16px;border-radius:12px}}
+body.dark:has(header.es-simple-header){--cream:#191e18;--ink:#edf0e7;--olive:#bbc5b2;--muted:#bbc5b2;--line:#495242}
+body.dark:has(.site-header){--warm:#191e18;--ink:#edf0e7;--muted:#bbc5b2;--edge:#495242;--white:#232a20;background:var(--warm);color:var(--ink)}body.dark:has(.site-header) .glass{background:rgba(32,40,29,.9);border-color:var(--edge)}.es-added-preferences button{color:inherit;background:transparent;border:1px solid currentColor}
 
-/* Requested square preferences: language above theme. */
-html:root:root[data-interface-language] :is(.header,.site-header)>.header-actions{display:grid!important;grid-template-columns:48px auto;grid-template-rows:48px 48px;gap:4px 8px;align-items:center;flex:0 0 auto}
-html:root:root[data-interface-language] :is(.header,.site-header)>.header-actions>:is(.es-language-toggle,.theme){box-sizing:border-box!important;display:flex!important;align-items:center;justify-content:center;width:48px!important;height:48px!important;min-width:48px!important;min-height:48px!important;max-width:48px!important;padding:2px!important;border-radius:5px!important;grid-column:1;line-height:1.1;font-size:10px}
-html:root:root[data-interface-language] :is(.header,.site-header)>.header-actions>.es-language-toggle{grid-row:1}
-html:root:root[data-interface-language] :is(.header,.site-header)>.header-actions>.theme{grid-row:2;font-size:18px}
-html:root:root[data-interface-language] :is(.header,.site-header)>.header-actions>:not(.theme):not(.es-language-toggle){grid-column:2;grid-row:1/3}
-html:root:root[data-interface-language] .header.island-compact>.header-actions{display:grid!important;grid-template-columns:48px;grid-template-rows:48px 48px}
-html[data-interface-language]{scroll-padding-top:154px}
-body.dark:has(.site-header){--warm:#191e18;--ink:#edf0e7;--muted:#bbc5b2;--edge:#495242;--white:#232a20;background:var(--warm);color:var(--ink)}body.dark:has(.site-header) .glass{background:rgba(32,40,29,.9);border-color:var(--edge)}.site-header .es-added-preferences button{color:inherit;background:transparent;border:1px solid currentColor}
-@media(max-width:600px){.site-header{flex-wrap:wrap}.site-header .brand{flex:1 1 60%}}
+.es-mini-island{position:fixed;z-index:200;top:12px;left:50%;transform:translateX(-50%);width:132px;height:34px;border:1px solid #d5d8d0;border-radius:22px;background:var(--warm,#f6f4ef);color:var(--ink,#20271e);font:9px sans-serif;box-shadow:0 4px 16px #0001;cursor:pointer}.es-mini-island[hidden]{display:none}.es-fallback-hidden{visibility:hidden!important}html:root:root[data-interface-language] .es-fallback-open{position:fixed;z-index:199;top:52px;left:12px;right:12px;width:calc(100% - 24px);background:var(--warm,#f6f4ef);visibility:visible!important}
+.header.island-compact>.island-toggle>span:not([aria-hidden]){display:none}.header.island-compact>.island-toggle::before{content:'القائمة';font-size:11px}html[data-interface-language=en] .header.island-compact>.island-toggle::before{content:'Menu'}
+html:root:root .es-mini-island{box-sizing:border-box;min-height:34px;max-height:34px;padding:0;line-height:1.2}
+html:root:root[data-interface-language] .header.island-compact.island-open{box-sizing:border-box;width:calc(100vw - 24px)!important;max-width:420px!important;min-width:0!important;display:flex!important;flex-wrap:wrap!important}
+html:root:root[data-interface-language] .header.island-open>.island-panel{box-sizing:border-box;width:100%;min-width:0;max-width:100%;flex:1 1 100%;order:5;grid-template-columns:repeat(2,minmax(0,1fr))!important}
