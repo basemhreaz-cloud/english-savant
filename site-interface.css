@@ -230,3 +230,7 @@ html:root:root[data-interface-language=en] .adult-menu>nav{left:auto!important;r
 html:root:root[data-interface-language] .header.es-fallback-open>nav{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr));position:absolute!important;top:100%!important;left:0!important;right:0!important;width:100%!important;box-sizing:border-box;max-height:calc(100dvh - 160px);overflow-y:auto;background:var(--es-glass-strong)!important;border:1px solid var(--es-line);border-radius:20px;padding:8px;gap:4px}
 html:root:root[data-interface-language] .header.es-fallback-open>nav>a{display:flex;align-items:center;justify-content:center;text-align:center;min-height:44px;padding:8px 12px;line-height:1.6;border-radius:14px;color:var(--es-ink)!important}
 @media(max-width:950px){html:root:root[data-interface-language] .header.es-fallback-open>nav:not(.open){display:none!important}}
+html:root:root[data-interface-language] :is(.tool-icon,.goal-icon)[data-es-decorative]{display:flex!important;align-items:center!important;justify-content:center!important;box-sizing:border-box;width:48px;height:48px;padding:10px;margin-inline:auto!important;border-radius:16px;background:var(--es-field);color:var(--es-accent);border:1px solid var(--es-line);line-height:1;font-size:0}
+html:root:root[data-interface-language] [data-es-decorative]>svg{display:block;width:24px;height:24px;flex:0 0 24px}
+html:root:root[data-interface-language] .goal-choice{text-align:center}
+html:root:root[data-interface-language] .goal-choice small{text-align:start}
