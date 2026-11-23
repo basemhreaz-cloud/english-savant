@@ -117,3 +117,16 @@ html:root:root[data-interface-language] :is(h1,h2,h3,[id]){scroll-margin-top:96p
 
 /* Position, not score or completion. */
 .quiz-progress{height:5px;border-radius:5px;background:rgba(90,102,87,.18);overflow:hidden;margin:10px 0 20px;direction:rtl}.quiz-progress>span{display:block;height:100%;background:var(--olive,#5A6657);border-radius:inherit}body.dark .quiz-progress{background:rgba(168,179,154,.24)}body.dark .quiz-progress>span{background:#A8B39A}
+/* Compact footer and shared card edges. Preserve content, links, responsive density. */
+html:root:root[data-interface-language] :is(.grade-entry,.grade-card,.tool-card,.entry-card,.course-card,.path-card,.book-card){border-radius:10px!important}
+html:root:root[data-interface-language] footer{margin-top:48px;padding:28px max(20px,calc((100% - 1160px)/2)) 18px}
+html:root:root[data-interface-language] footer .footer-top{display:flex;justify-content:space-between;align-items:start;gap:24px;padding-bottom:22px}
+html:root:root[data-interface-language] footer .footer-brand{margin:0;flex:0 0 auto}
+html:root:root[data-interface-language] footer .wordmark{font-size:19px;letter-spacing:.08em}
+html:root:root[data-interface-language] footer .footer-top h3{font-size:17px;line-height:1.6}
+html:root:root[data-interface-language] footer .footer-top p{font-size:12px;margin:5px 0;line-height:1.8}
+html:root:root[data-interface-language] footer .footer-top a{display:inline-flex;align-items:center;min-height:36px;font-size:12px}
+html:root:root[data-interface-language] footer .footer-bottom{display:flex;flex-wrap:wrap;align-items:center;gap:8px 18px;padding-top:14px;font-size:11px;line-height:1.65}
+html:root:root[data-interface-language] footer .footer-bottom a{display:inline-flex;align-items:center;min-height:32px}
+html:root:root[data-interface-language] footer .footer-bottom small{width:auto;margin-inline-end:auto}
+@media(max-width:700px){html:root:root[data-interface-language] footer{padding:24px 20px 18px;margin-top:36px}html:root:root[data-interface-language] footer .footer-top{display:grid;gap:16px;padding-bottom:16px}html:root:root[data-interface-language] footer .footer-top p{max-width:35em}html:root:root[data-interface-language] footer .footer-brand small{font-size:10px}html:root:root[data-interface-language] footer .footer-bottom{gap:3px 15px;padding-top:10px}html:root:root[data-interface-language] footer .footer-bottom small{width:100%;margin:0}html:root:root[data-interface-language] footer .footer-bottom a[href*='maps']{width:100%}}
