@@ -250,3 +250,22 @@ html:root:root[data-interface-language] .es-mini-island:active{transform:transla
 
 /* Circular sage backdrop behind the unchanged logo card. */
 .hero-art > .orb{border-radius:50%!important;aspect-ratio:1}
+/* Brand dropdowns render in-page, never as an OS picker. */
+html:root:root[data-interface-language] .es-select-wrap{display:inline-flex;position:relative;min-width:0;max-width:100%;vertical-align:middle}
+html:root:root[data-interface-language] select.es-native-select{position:absolute!important;width:1px!important;height:1px!important;opacity:0!important;pointer-events:none!important;clip-path:inset(50%)!important;padding:0!important;border:0!important;margin:0!important}
+html:root:root[data-interface-language] .es-select-trigger{display:flex;align-items:center;justify-content:center;gap:10px;min-height:44px;width:100%;min-width:120px;max-width:100%;padding:10px 34px 10px 14px!important;position:relative;white-space:normal;overflow-wrap:anywhere;background:var(--es-glass)!important;color:var(--es-ink)!important;border:1px solid var(--es-line)!important;box-shadow:var(--es-inset)!important;font:inherit;cursor:pointer}
+html:root:root[data-interface-language] .es-select-trigger::after{content:'';position:absolute;right:14px;top:calc(50% - 4px);width:7px;height:7px;border:solid currentColor;border-width:0 1.7px 1.7px 0;transform:rotate(45deg);pointer-events:none}
+html:root:root[data-interface-language] .es-select-trigger:focus-visible{outline:2px solid var(--es-accent);outline-offset:3px}
+html:root:root[data-interface-language] .es-select-trigger:disabled{opacity:.55;cursor:not-allowed}
+html:root:root[data-interface-language] .es-select-menu{position:fixed;z-index:10001;box-sizing:border-box;overflow:auto;overscroll-behavior:contain;padding:6px;border:1px solid var(--es-line);border-radius:18px;background:var(--es-bg,#f6f4ef);color:var(--es-ink,#1a1a1a);box-shadow:var(--es-inset);font-family:inherit;font-size:14px;line-height:1.5}
+html:root:root[data-interface-language] body.dark .es-select-menu{background:#20251f}
+html:root:root[data-interface-language] .es-select-option{padding:11px 14px;min-height:44px;box-sizing:border-box;border-radius:12px;border:1px solid transparent;text-align:center;cursor:pointer;overflow-wrap:anywhere}
+html:root:root[data-interface-language] .es-select-option[aria-selected=true]{background:var(--es-accent,#5a6657);color:var(--es-bg,#f6f4ef);border-color:var(--es-line)}
+html:root:root[data-interface-language] .es-select-option.is-highlighted{outline:1px solid var(--es-accent);outline-offset:-2px}
+html:root:root[data-interface-language] .es-select-option[aria-disabled=true]{opacity:.5;cursor:not-allowed}
+html:root:root[data-interface-language] .final-choices label{display:flex;align-items:center;gap:10px;color:var(--es-ink);background:var(--es-glass);box-shadow:var(--es-inset);border-color:var(--es-line);cursor:pointer}
+html:root:root[data-interface-language] .final-choices input[type=radio]{appearance:none;-webkit-appearance:none;flex:0 0 20px!important;width:20px!important;min-width:20px!important;height:20px!important;min-height:20px!important;padding:0!important;margin:0!important;border:1.5px solid var(--es-accent)!important;border-radius:50%!important;background:transparent!important;box-shadow:none!important}
+html:root:root[data-interface-language] .final-choices input[type=radio]:checked{background:var(--es-accent)!important;box-shadow:inset 0 0 0 4px var(--es-bg,#f6f4ef)!important}
+html:root:root[data-interface-language] .final-choices label:has(input:checked){outline:1px solid var(--es-accent);outline-offset:-1px}
+html:root:root[data-interface-language] .final-section-list{background:var(--es-bg,#f6f4ef);border-color:var(--es-line);border-radius:18px;box-shadow:var(--es-inset);overscroll-behavior:contain}
+html:root:root[data-interface-language] body.dark .final-section-list{background:#20251f}
