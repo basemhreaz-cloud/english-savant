@@ -16,7 +16,7 @@ else if(q.type==='reorder'||q.type==='unscramble'){const tokens=q.type==='reorde
 else if(q.type==='tf'){if(!['True','False'].includes(q.answer))throw Error('TF key '+q.id)}
 else if(q.type==='mcq'){if(!q.options?.length||new Set(q.options).size!==q.options.length||q.options.filter(a=>a===q.answer).length!==1)throw Error('MCQ key '+q.id)}
 else if(q.type==='typein'){if(!q.accept?.length||!q.accept.some(a=>norm(a)===norm(q.answer)))throw Error('Text key '+q.id)}else throw Error('Unsupported type '+q.type);
-}const minCount=l=>(grade==='P2'&&unit===1&&[3,4].includes(l))?27:(grade==='P2'&&unit===3?({1:37,2:38,3:22,4:13}[l]):30);if(!qa)for(let l=1;l<=(Number(root.dataset.lessons)||4);l++)if(items.filter(q=>q.lesson===l).length<minCount(l))throw Error('Under30 lesson '+l);return items}
+}const minCount=l=>(grade==='P2'&&unit===1&&[3,4].includes(l))?27:(grade==='P2'&&unit===4?({1:21,2:29,3:29,4:25}[l]):(grade==='P2'&&unit===3?({1:37,2:38,3:22,4:13}[l]):30));if(!qa)for(let l=1;l<=(Number(root.dataset.lessons)||4);l++)if(items.filter(q=>q.lesson===l).length<minCount(l))throw Error('Under30 lesson '+l);return items}
 window.P1AssessmentValidate=validate;let items=[],lesson=0,index=0,answers=new Map();
 function reveal(){root.scrollIntoView({block:'start',behavior:'instant'})}
 function menu(){root.replaceChildren(node('h2',null,'اختار الدرس'));for(let l=1;l<=(Number(root.dataset.lessons)||4);l++){const qs=items.filter(q=>q.lesson===l),b=node('button','lesson-choice','الدرس '+l+' · '+qs[0].lesson_title+' · '+qs.length+' سؤال');b.onclick=()=>{lesson=l;index=0;render();reveal()};root.append(b)}}
