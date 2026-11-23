@@ -1,0 +1,25 @@
+name: Publish online Android v2.0.1
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish verified online APK
+        run: |
+          python3 - <<'PYCODE'
+          import pathlib,hashlib,zlib,base64
+          frozen={str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in pathlib.Path('.').rglob('*') if p.is_file() and '.git' not in p.parts and str(p) not in ['download.html','sw.js','English-Savant-2.0.1.apk']}
+          data=''.join(pathlib.Path('.github/workflows/apk70-'+str(i)+'.txt').read_text().strip() for i in range(2));apk=zlib.decompress(base64.b64decode(data));assert len(apk)==209474;assert hashlib.sha256(apk).hexdigest()=='31703ca7a29f621b469a8d7a54b14da7a746fd8c7b136c3dea079bdbfb79a43a';assert not pathlib.Path('English-Savant-2.0.1.apk').exists();pathlib.Path('English-Savant-2.0.1.apk').write_bytes(apk)
+          p=pathlib.Path('download.html');assert hashlib.sha256(p.read_bytes()).hexdigest()=='23f42c00b5e219706199ba63bc88f325395c0b219984eb687310113f4948b66c';s=p.read_text();assert s.count('English-Savant-1.1.0.apk')==2;s=s.replace('English-Savant-1.1.0.apk','English-Savant-2.0.1.apk').replace('أندرويد فقط · إصدار 1.1.0 · حوالي 205 كيلوبايت<br>نسخة أولى للتجربة، لسه ما اتجربتش على موبايل فعلي. ممكن يظهر تنبيه لأن التحميل من خارج Google Play.','أندرويد فقط · إصدار 2.0.1 · حوالي 205 كيلوبايت<br>التطبيق محتاج إنترنت، والمحتوى بيتحدث تلقائيًا من الموقع. ممكن يظهر تنبيه لأن التحميل من خارج Google Play.');assert 'نسخة أولى للتجربة' not in s;p.write_text(s)
+          p=pathlib.Path('sw.js');s=p.read_text();assert 'english-savant-v68-download' in s;p.write_text(s.replace('english-savant-v68-download','english-savant-v70-online'))
+          assert all(hashlib.sha256(pathlib.Path(n).read_bytes()).hexdigest()==h for n,h in frozen.items()),'unrelated file changed'
+          PYCODE
+          git config user.name basemhreaz-cloud
+          git config user.email basemhreaz-cloud@users.noreply.github.com
+          git add download.html English-Savant-2.0.1.apk sw.js
+          git commit -m "Publish online v2.0.1 Android download keeping rollback builds"
+          git push origin HEAD:main
