@@ -1,0 +1,27 @@
+name: Add free capped server speech service
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Add speech endpoint without changing existing AI routes
+        run: |
+          python3 - <<'PYCODE'
+          import pathlib,hashlib,base64,zlib,json
+          assert hashlib.sha256(pathlib.Path('worker.mjs').read_bytes()).hexdigest()=='c6a50a82a40bf6fe1c6a84b9cfc5c590ef3ddd8a9c3055361aa7a15591cbba9c'
+          assert hashlib.sha256(pathlib.Path('wrangler.jsonc').read_bytes()).hexdigest()=='44dd1c97d224a352fe2290c2c87e86bf2e6899c8827a307c64f546b6f7daa74d'
+          data=json.loads(zlib.decompress(base64.b64decode(''.join(pathlib.Path('.github/workflows/payload72-'+str(i)+'.txt').read_text().strip() for i in range(2)))))
+          assert set(data)=={'worker.mjs','speech-service.mjs','wrangler.jsonc'}
+          for n,b in data.items():pathlib.Path(n).write_bytes(base64.b64decode(b))
+          PYCODE
+          node --check worker.mjs
+          node --check speech-service.mjs
+          git config user.name basemhreaz-cloud
+          git config user.email basemhreaz-cloud@users.noreply.github.com
+          git add worker.mjs speech-service.mjs wrangler.jsonc
+          git commit -m "Add fixed Achird server speech with persistent cache and free quota cap"
+          git push origin HEAD:main
