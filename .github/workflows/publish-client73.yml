@@ -14,7 +14,7 @@ jobs:
           import pathlib,hashlib,json,zlib,base64,re
           expected={'fx.js': 'cb9336ac9abca4b9ca93f33df611f86e5a6307cfbc666bee76e90c28a98a8eb4', 'grade-shell.js': 'adf54d1e3dce2fd06c045ade9f98a3e7d385175ca0051845a6b425157ef8a4c4', 'sw.js': 'cc0899cc744322ff8cafd94722b223c39cd7ae40c52e1aee0ce87e7edfab85f4', 'tools.html': 'fd1b26f8f5c1e5b4a0758621b3d89b871c2c54f8d64c67a5b072d0dc3a9a961c'}
           for n,h in expected.items():
- if n!='sw.js':assert hashlib.sha256(pathlib.Path(n).read_bytes()).hexdigest()==h,n
+           if n!='sw.js':assert hashlib.sha256(pathlib.Path(n).read_bytes()).hexdigest()==h,n
           frozen={str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in pathlib.Path('.').glob('*.json')}
           files=json.loads(zlib.decompress(base64.b64decode(''.join(pathlib.Path('.github/workflows/'+('workflows/' if i==0 else '')+'payload73-'+str(i)+'.txt').read_text().strip() for i in range(2)))))
           assert set(files)=={'site-speech.js','fx.js','grade-shell.js','tools.html'}
