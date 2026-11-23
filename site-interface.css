@@ -57,3 +57,5 @@ body.dark :is(.lesson,.picture-card,.load-error,.release-note,.trace-demo,.st-ca
 body.dark:has(.site-header) .text-button{color:#d4dfc9!important}body.dark .error{color:#ffb4a8}html[data-interface-language] :is(.button,.text-button)>.arrow{flex:0 0 auto}
 
 body.dark :is(.esb-feedback,.q-feed,.feedback){background-color:#252d22;color:#edf0e7;border-color:#65715b}body.dark :is(.esb-feedback.good,.q-feed.good,.feedback.good,.feedback.correct){background:#243522;color:#d7efc9;border-color:#93ac7c}body.dark :is(.esb-feedback.bad,.q-feed.bad,.feedback.bad,.feedback.wrong){background:#3c2723;color:#ffd3c9;border-color:#c98979}
+
+html[data-interface-language] :is(.q-label,.pill,.badge,.chip,.esb-chip,.q-num,.q-state,.eyebrow){border-radius:5px}html[data-interface-language=en] :is(.kg-course-back,.grade-back,.back-link){transform:none}
