@@ -112,9 +112,6 @@ html:root:root[data-interface-language] :is(.glass,.esb-card,.esb-strip,.grade-e
 html:root:root[data-interface-language] body.dark :is(.glass,.esb-card,.esb-strip,.grade-entry,.tool-card){background-color:rgba(35,42,32,.74)!important;color:#edf0e7;border-color:#65715b}
 html:root:root[data-interface-language] :is(h1,h2,h3,[id]){scroll-margin-top:96px}
 
-/* Mobile booking access, above browser safe area without covering answer controls. */
-.booking-fab{display:none!important}@media(max-width:950px){body:has(.booking-fab){padding-bottom:90px}.booking-fab{display:inline-flex!important;position:fixed;bottom:calc(14px + env(safe-area-inset-bottom));inset-inline-start:14px;z-index:55;padding:11px 16px;border-radius:12px;background:var(--olive,#5A6657);color:#F6F4EF;font-family:"Baloo Bhaijaan 2",sans-serif;font-size:14px}.booking-fab:hover{color:#F6F4EF}}
-
 /* Position, not score or completion. */
 .quiz-progress{height:5px;border-radius:5px;background:rgba(90,102,87,.18);overflow:hidden;margin:10px 0 20px;direction:rtl}.quiz-progress>span{display:block;height:100%;background:var(--olive,#5A6657);border-radius:inherit}body.dark .quiz-progress{background:rgba(168,179,154,.24)}body.dark .quiz-progress>span{background:#A8B39A}
 /* Compact footer and shared card edges. Preserve content, links, responsive density. */
@@ -130,3 +127,12 @@ html:root:root[data-interface-language] footer .footer-bottom{display:flex;flex-
 html:root:root[data-interface-language] footer .footer-bottom a{display:inline-flex;align-items:center;min-height:32px}
 html:root:root[data-interface-language] footer .footer-bottom small{width:auto;margin-inline-end:auto}
 @media(max-width:700px){html:root:root[data-interface-language] footer{padding:24px 20px 18px;margin-top:36px}html:root:root[data-interface-language] footer .footer-top{display:grid;gap:16px;padding-bottom:16px}html:root:root[data-interface-language] footer .footer-top p{max-width:35em}html:root:root[data-interface-language] footer .footer-brand small{font-size:10px}html:root:root[data-interface-language] footer .footer-bottom{gap:3px 15px;padding-top:10px}html:root:root[data-interface-language] footer .footer-bottom small{width:100%;margin:0}html:root:root[data-interface-language] footer .footer-bottom a[href*='maps']{width:100%}}
+
+/* Centered original outline controls. */
+html:root:root[data-interface-language] header :is(.theme,.es-search-open,.es-language-toggle){display:inline-flex!important;align-items:center!important;justify-content:center!important;padding:0!important;line-height:1!important;box-sizing:border-box}
+html:root:root[data-interface-language] header .es-header-icon{display:block;width:20px;height:20px;min-width:20px;flex:0 0 20px;margin:0;pointer-events:none}
+html:root:root[data-interface-language] header .theme .es-header-icon{width:22px;height:22px;min-width:22px;flex-basis:22px}
+
+html[lang="en"] .about-hero,html[lang="en"] .about-card{text-align:left}html[lang="en"] [data-about-ar]{text-align:left;direction:ltr}
+
+html:root:root[data-interface-language] header .menu-toggle{align-items:center;justify-content:center;padding:0;line-height:1}
