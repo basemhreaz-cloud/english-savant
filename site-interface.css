@@ -1,0 +1,23 @@
+/* Native language control, scoped to preserve existing brand and layout. */
+.es-language-toggle{display:inline-flex;align-items:center;justify-content:center;min-width:70px;min-height:44px;padding:8px 12px;border:1px solid currentColor;border-radius:999px;background:transparent;color:inherit;font-family:inherit;font-weight:600;font-size:13px;line-height:1.2;cursor:pointer;white-space:nowrap;flex-shrink:0}
+.es-language-toggle:hover{background:color-mix(in srgb,currentColor 9%,transparent)}
+.es-language-toggle:focus-visible{outline:3px solid #b78c45;outline-offset:3px}
+.header-actions{flex-wrap:wrap}
+html[data-interface-language=en] .page-intro,html[data-interface-language=en] .grade-entry,html[data-interface-language=en] .grade-card,html[data-interface-language=en] .breadcrumbs{text-align:start}
+@media(max-width:480px){.es-language-toggle{min-width:64px;padding:8px 10px;font-size:12px}.header-actions{gap:6px}}
+@media(prefers-reduced-motion:reduce){.es-language-toggle{transition:none}}
+html[data-interface-language=en] .header nav,html[data-interface-language=en] .header-actions{direction:ltr}
+html[data-interface-language=en] .header-actions{flex-direction:row}
+html[data-interface-language=en] .header nav{flex-direction:row}
+@media(max-width:600px){html[data-interface-language=en] .header{flex-wrap:wrap}html[data-interface-language=en] .header .brand{min-width:0}html[data-interface-language=en] main{overflow-wrap:anywhere}}
+
+@media(max-width:360px){.header-slot{height:154px!important}.header .brand{flex:1 1 100%}.header .header-actions{margin-inline-start:auto}}
+@media(max-width:360px){.orb{max-width:100%;left:auto;right:auto}}
+/* Keep both preferences available in the site's compact reading header. */
+html:root:root[data-interface-language] .header.island-compact{display:flex;flex-wrap:wrap;align-items:center;gap:6px;max-width:calc(100% - 24px)}
+html:root:root[data-interface-language] .header.island-compact>.header-actions{display:flex!important;flex-wrap:nowrap;gap:6px;margin:0;order:2}
+html:root:root[data-interface-language] .header.island-compact>.header-actions>:not(.theme):not(.es-language-toggle){display:none!important}
+html:root:root[data-interface-language] .header.island-compact>.island-toggle{display:flex;flex:1 1 120px;width:auto;min-width:0;order:1;padding-inline:5px;gap:8px}
+html:root:root[data-interface-language] .header.island-compact>.island-toggle>span:not([aria-hidden]){overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+html:root:root[data-interface-language] .header.island-compact .island-panel{order:3}
+@media(max-width:360px){html:root:root[data-interface-language] .header.island-compact>.header-actions{flex:0 0 auto}html:root:root[data-interface-language] .header.island-compact>.island-toggle{flex-basis:100px}}
