@@ -3,3 +3,6 @@
 .kg-checks-intro .container{width:min(calc(100% - 32px),1100px);margin:24px auto}.kg-checks-intro h1{font-size:clamp(1.7rem,4vw,2.8rem);line-height:1.65;overflow-wrap:anywhere}.kg-checks-intro p{line-height:1.9}.kg-checks{scroll-margin-top:110px}
 
 .kg-check-card,.kg-check-card h2{color:#263022}
+
+.kg-check-guide{background:#f2f5ed;color:#283c27;padding:12px;border-radius:12px;line-height:1.9;font-weight:700}.kg-checks button.is-picked{outline:4px solid #476939;outline-offset:2px;opacity:1}.kg-checks button.is-correct{border:3px solid #2b733b;background:#e4f4e4;color:#174d25}.kg-checks button.is-wrong{border:3px solid #a54829;background:#fff0e8;color:#80351e}.kg-check-feedback{background:#f4f6ee;border-radius:12px;padding:10px;min-height:3.5em}.kg-checks button:disabled.is-correct{opacity:1}.kg-checks .kg-check-next:not(:disabled){outline:3px solid #c0d2ac}.kg-check-options{grid-template-columns:repeat(2,minmax(0,1fr))}.kg-check-options:has(>:nth-child(3)){grid-template-columns:repeat(3,minmax(0,1fr))}
+.kg-checks [hidden]{display:none!important}
