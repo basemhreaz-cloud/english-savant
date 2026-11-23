@@ -470,7 +470,7 @@
     {
       "id": 29,
       "type": "COMPLETE",
-      "prompt": "I read on the ___ in the morning.",
+      "prompt": "I read on the ___ in the morning. (الشرفة)",
       "answer": "balcony",
       "models": [
         "balcony"
@@ -488,7 +488,7 @@
         "in"
       ],
       "grading": "closed",
-      "explanation_ar": "بنقرا في البلكونة (balcony) الصبح. بلكونة مكان بنقعد فيه."
+      "explanation_ar": "الشرفة بالإنجليزي balcony. كلمة الشرفة هي الدليل هنا، مش وقت القراءة."
     },
     {
       "id": 30,
