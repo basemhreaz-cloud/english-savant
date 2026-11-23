@@ -86,3 +86,6 @@ html:root:root[data-interface-language] .grade-entry-icon{align-self:flex-end}
 html:root:root[data-interface-language] body.dark .grade-entry{background:rgba(35,42,32,.72)!important;color:#edf0e7;border-color:#59624f}
 
 html:root:root[data-interface-language] #lesson-assessment>h2{unicode-bidi:plaintext;text-align:start}
+
+html:root:root[data-interface-language=en] .kg-checks{direction:ltr;text-align:left}
+html:root:root[data-interface-language=ar] .kg-checks{direction:rtl;text-align:right}
