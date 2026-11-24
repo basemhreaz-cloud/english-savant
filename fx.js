@@ -32,7 +32,7 @@ function say(ok){
 window.addEventListener('pagehide',stopFeedback);
 function run(ok,card){
  if(!ok&&card&&window.__esExplain)window.__esExplain(card);
- var big=document.createElement('div');big.className='esfx-big '+(ok?'ok':'no');big.textContent=ok?'🎉':'❌';
+ var big=document.createElement('div');big.className='esfx-big '+(ok?'ok':'no');big.innerHTML=window.ESIconSVG?window.ESIconSVG(ok?'celebrate':'cross'):(ok?'✓':'×');
  var cx=innerWidth/2,cy=innerHeight/2,W=300;
  if(card){var r=card.getBoundingClientRect();
   cx=Math.min(Math.max(r.left+r.width/2,40),innerWidth-40);
@@ -44,7 +44,7 @@ function run(ok,card){
  setTimeout(function(){big.remove()},1100);
  if(ok&&document.body.animate&&!matchMedia('(prefers-reduced-motion:reduce)').matches){
   var set=['🎉','✅','⭐','✨','🎊','👏'];
-  for(var i=0;i<14;i++){(function(i){var b=document.createElement('div');b.className='esfx-bit';b.textContent=set[i%set.length];b.style.left=cx+'px';b.style.top=cy+'px';document.body.appendChild(b);
+  for(var i=0;i<14;i++){(function(i){var b=document.createElement('div');b.className='esfx-bit';b.innerHTML=window.ESIconSVG?window.ESIconSVG(i%2?'star':'celebrate'):'+';b.style.left=cx+'px';b.style.top=cy+'px';document.body.appendChild(b);
    var ang=Math.random()*Math.PI*2,d=W*(.25+Math.random()*.35),dx=Math.cos(ang)*d,dy=Math.sin(ang)*d*.8-30;
    var an=b.animate([{transform:'translate(-50%,-50%) scale(.3)',opacity:1},{transform:'translate(calc(-50% + '+dx+'px),calc(-50% + '+dy+'px)) scale(1.1) rotate('+(Math.random()*360-180)+'deg)',opacity:1,offset:.6},{transform:'translate(calc(-50% + '+dx+'px),calc(-50% + '+(dy+60)+'px)) scale(.8)',opacity:0}],{duration:900+Math.random()*300,easing:'cubic-bezier(.15,.8,.3,1)'});
    an.onfinish=function(){b.remove()}})(i)}
@@ -54,12 +54,12 @@ function run(ok,card){
 }
 function watch(el){
  if(el.__esfx)return;el.__esfx=1;
- new MutationObserver(function(){var t=el.textContent.trim();if(t==='✅'||t==='❌'){var card=el.closest('.q-card')||el.parentNode.parentNode;run(t==='✅',card)}}).observe(el,{childList:true,characterData:true,subtree:true});
+ new MutationObserver(function(){if(el.dataset.fxHandled==='true')return;var t=el.textContent.trim(),feed=el.closest('.q-card')?.querySelector('.q-feed'),svg=el.querySelector('svg');if(svg&&!t&&feed)t=feed.classList.contains('ok')?'✅':feed.classList.contains('no')?'❌':'';if((t==='✅'||t==='❌')&&el.__esfxLast!==t){el.__esfxLast=t;var card=el.closest('.q-card')||el.parentNode.parentNode;run(t==='✅',card)}}).observe(el,{childList:true,characterData:true,subtree:true});
 }
 function scan(r){(r.querySelectorAll?r.querySelectorAll('.q-state'):[]).forEach(watch)}
 scan(document);
 new MutationObserver(function(ms){ms.forEach(function(m){m.addedNodes.forEach(function(n){if(n.nodeType===1){if(n.classList&&n.classList.contains('q-state'))watch(n);scan(n)}})})}).observe(document.documentElement,{childList:true,subtree:true});
-window.__esFxTest=run;
+window.ESFeedback=run;window.__esFxTest=run;
 })();
 
 /* wrong-answer explainer (P1 model): compact Arabic note inside the card + browser speechSynthesis. Rule-based per question type. */
