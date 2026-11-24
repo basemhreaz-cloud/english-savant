@@ -24,5 +24,8 @@ jobs:
             echo "no changes"
           else
             git commit -m "Update English resources (auto)"
+            python3 scripts/refresh-app-content.py
+            git add app-content/
+            git commit -m "Refresh app content after automatic resource update"
             git push
           fi
