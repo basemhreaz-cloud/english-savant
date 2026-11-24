@@ -301,3 +301,7 @@ html:root:root[data-interface-language] .final-verify-actions{display:flex;justi
 html:root:root[data-interface-language] .final-verify{margin-inline:auto!important;min-height:44px}
 html:root:root[data-interface-language] .final-feedback{width:100%;text-align:center;line-height:1.7;margin:10px auto;overflow-wrap:anywhere}
 .final-feedback:empty{display:none}.final-feedback[data-state=correct]{color:var(--olive);font-weight:600}.final-verified-model{display:block;margin-top:6px}
+
+/* Audit87: squared header controls, brand-card small text uses existing readable text colour. */
+html:root:root:root:root:root:root[data-interface-language] body :is(.theme.icon-button,.es-language-toggle,.es-search-open){border-radius:10px!important}
+body.dark .identity-card :is(.identity-top,.identity-top span,.tagline,.identity-foot,.identity-foot span){color:var(--ink,#edf0e7);opacity:1}
