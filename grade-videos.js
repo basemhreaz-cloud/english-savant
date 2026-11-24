@@ -7,7 +7,7 @@ try{
  if(root){
   const list=items.filter(l=>l.grade===root.dataset.videoGrade);root.replaceChildren();
   if(!list.length){empty(root,'فيديوهات الصف لسه بتتجهز','أول ما فيديو يخلص ويتراجع، هتلاقي كارت الوحدة بتاعه هنا. ارجع لصفحة الصف عشان تشوف الأقسام المتاحة.');return}
-  list.forEach(l=>{const a=node('a','grade-card');a.href='watch.html?lesson='+encodeURIComponent(l.id);const label=node('span','grade-chip',l.part||'فيديو شرح');const title=node('b','',l.title);title.dir='auto';a.append(label,title,node('small','',(l.duration?l.duration+' · ':'')+'افتح فيديو الوحدة ←'));root.append(a)});return;
+  list.forEach(l=>{const a=node('a','grade-card');a.href='watch.html?lesson='+encodeURIComponent(l.id);const label=node('span','grade-chip',l.part||'فيديو شرح');const title=node('b','',l.title);title.dir='auto';const poster=l.poster||(l.mp4?l.mp4.replace(/\.mp4$/,'.jpg'):'https://i.ytimg.com/vi/'+encodeURIComponent(l.youtube)+'/hqdefault.jpg');const image=node('img','grade-video-thumb');image.src=poster;image.alt=l.title;image.loading='lazy';image.width=480;image.height=270;image.style.cssText='width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:10px';a.append(image,label,title,node('small','',(l.duration?l.duration+' · ':'')+'افتح فيديو الوحدة ←'));root.append(a)});return;
  }
  const id=new URLSearchParams(location.search).get('lesson');const l=items.find(l=>l.id===id);if(!l){empty(watch,'الفيديو مش موجود','ارجع لمكتبة الدروس واختار فيديو متاح.');const a=node('a','button','مكتبة الدروس');a.href='lessons.html';watch.append(a);return}
  const grade=/^(kg[12]|p[1-6]|m[1-3]|sa-g[1-6]|sa-m[1-3])$/.test(l.grade)?l.grade:null;
