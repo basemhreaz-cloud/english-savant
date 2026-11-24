@@ -19,6 +19,11 @@ def blob_valid(data, oid):
 
 base = root / 'app-content'
 previous = json.loads((base / 'latest.json').read_text())
+sequence_map = json.loads((base / 'release-sequences.json').read_text())['release_sequences']
+previous_sequence = previous.get('release_sequence', sequence_map.get(previous['release_id']))
+if not isinstance(previous_sequence, int):
+    raise SystemExit('No sequence for previous release; refuse activation')
+sequence = previous_sequence + 1
 old = json.loads((base / previous['release_id'] / 'manifest.json').read_text())
 video = json.loads((base / previous['release_id'] / 'videos.json').read_text())
 commit = git('rev-parse', 'HEAD').decode().strip()
@@ -59,10 +64,10 @@ video['release_id'] = release
 write(folder / 'videos.json', video)
 vb = (folder / 'videos.json').read_bytes()
 manifest = dict(old)
-manifest.update(release_id=release,content_version='git-'+release,source_tree_sha=commit,source_commit=commit,metadata_revision=2,generator='scripts/refresh-app-content.py',status='complete',assets=assets,asset_count=len(assets),total_bytes=sum(x['bytes'] for x in assets),entrypoints=[x['path'] for x in assets if x['path'].endswith('.html')],deleted_paths=sorted({x['path'] for x in old['assets']}-{x['path'] for x in assets}),deletion_baseline=previous['release_id'],failures=[],required_for_app_bytes=sum(x['bytes'] for x in assets if x['required_for_app']),total_bytes_without_confirmed_exclusions=sum(x['bytes'] for x in assets if x['required_for_app']),video_inventory_url=old['base_url']+'app-content/'+release+'/videos.json',video_inventory_sha256=digest(vb),video_inventory_bytes=len(vb))
+manifest.update(release_sequence=sequence,release_id=release,content_version='git-'+release,source_tree_sha=commit,source_commit=commit,metadata_revision=2,generator='scripts/refresh-app-content.py',status='complete',assets=assets,asset_count=len(assets),total_bytes=sum(x['bytes'] for x in assets),entrypoints=[x['path'] for x in assets if x['path'].endswith('.html')],deleted_paths=sorted({x['path'] for x in old['assets']}-{x['path'] for x in assets}),deletion_baseline=previous['release_id'],failures=[],required_for_app_bytes=sum(x['bytes'] for x in assets if x['required_for_app']),total_bytes_without_confirmed_exclusions=sum(x['bytes'] for x in assets if x['required_for_app']),video_inventory_url=old['base_url']+'app-content/'+release+'/videos.json',video_inventory_sha256=digest(vb),video_inventory_bytes=len(vb))
 write(folder / 'manifest.json', manifest)
 mb = (folder / 'manifest.json').read_bytes()
 pointer = dict(previous)
-pointer.update(release_id=release,content_version='git-'+release,previous_release_id=previous['release_id'],manifest_url=old['base_url']+'app-content/'+release+'/manifest.json',manifest_sha256=digest(mb),manifest_bytes=len(mb),asset_count=len(assets),total_bytes=manifest['total_bytes'],video_inventory_url=manifest['video_inventory_url'],video_inventory_sha256=digest(vb),video_inventory_bytes=len(vb))
+pointer.update(release_sequence=sequence,release_id=release,content_version='git-'+release,previous_release_id=previous['release_id'],manifest_url=old['base_url']+'app-content/'+release+'/manifest.json',manifest_sha256=digest(mb),manifest_bytes=len(mb),asset_count=len(assets),total_bytes=manifest['total_bytes'],video_inventory_url=manifest['video_inventory_url'],video_inventory_sha256=digest(vb),video_inventory_bytes=len(vb))
 write(base / 'latest.json', pointer)
 print(json.dumps({'release_id':release,'assets':len(assets),'bytes':manifest['total_bytes'],'manifest_sha256':digest(mb)}))

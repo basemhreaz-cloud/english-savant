@@ -3,8 +3,8 @@
   "release_id": "0e8ba1980bc3f0716df90c1d5d9aff8f9989dac9",
   "content_version": "git-0e8ba1980bc3f0716df90c1d5d9aff8f9989dac9",
   "manifest_url": "https://basemhreaz-cloud.github.io/english-savant/app-content/0e8ba1980bc3f0716df90c1d5d9aff8f9989dac9/manifest.json",
-  "manifest_sha256": "925e7dd9dd7c9a266ef66e27bc7c4927d0332202ad92dde678a8ba65d8560cfc",
-  "manifest_bytes": 1992009,
+  "manifest_sha256": "0e6a1f6809b33e665b5463ac88e97ea0a2746f83ac1863050a7009dac3979239",
+  "manifest_bytes": 1992034,
   "asset_count": 3132,
   "total_bytes": 174142457,
   "previous_release_id": "00104d3ecf3bdf47bad1bbec1f6c8faeea4ec8f9",
@@ -12,5 +12,6 @@
   "minimum_app_content_schema": 1,
   "video_inventory_url": "https://basemhreaz-cloud.github.io/english-savant/app-content/0e8ba1980bc3f0716df90c1d5d9aff8f9989dac9/videos.json",
   "video_inventory_sha256": "e37dcb9e4492bdecbc7d586e4134b3a1890f24892a6597a400a5ce550f8207da",
-  "video_inventory_bytes": 17872
+  "video_inventory_bytes": 17872,
+  "release_sequence": 9
 }

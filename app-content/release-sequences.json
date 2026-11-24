@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "release_sequences": {
+    "a85602ec46efa664d4cf4772e409eaa02892eeed": 1,
+    "a85602ec46efa664d4cf4772e409eaa02892eeed-meta2": 2,
+    "9ddf3aaebc95c478a6141ee1422ce39ee260a0ee": 3,
+    "9ddf3aaebc95c478a6141ee1422ce39ee260a0ee-meta2": 4,
+    "d31f67e8c9ad822bd11fc42e306ebd03fedecb83": 5,
+    "aefff1ec33055ac8717625f365029d49bdc22a41": 6,
+    "a5bfca811df5dcde8a158a6fa7ac84df37d57fcf": 7,
+    "00104d3ecf3bdf47bad1bbec1f6c8faeea4ec8f9": 8,
+    "0e8ba1980bc3f0716df90c1d5d9aff8f9989dac9": 9
+  },
+  "policy": "Historical files retain their exact bytes. Use this map when release_sequence is absent. Every new release must exceed the previous sequence."
+}
