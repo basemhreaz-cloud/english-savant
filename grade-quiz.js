@@ -1,6 +1,9 @@
 /* WebView 83: keep standalone scripts safe before native replaceChildren support. */
 (function(){if(typeof Element!=='undefined'&&!Element.prototype.replaceChildren){Object.defineProperty(Element.prototype,'replaceChildren',{configurable:true,writable:true,value:function(){var fragment=this.ownerDocument.createDocumentFragment();for(var i=0;i<arguments.length;i++)fragment.append(arguments[i]);while(this.firstChild)this.removeChild(this.firstChild);this.appendChild(fragment);}});}})();
 (function(){
+/* Decorative emoji do not change an ordinary written answer. Never used for COPY/form checks. */
+function esAnswerText(value){return String(value).replace(/[0-9#*]\uFE0F?\u20E3/g,' ').replace(/[\u{1F000}-\u{1FAFF}\u2600-\u27BF\u{1F1E6}-\u{1F1FF}]/gu,' ').replace(/[\u200D\uFE0E\uFE0F]/g,'').normalize('NFKC');}
+function esAnswerContent(value){return esAnswerText(value).toLowerCase().replace(/[’‘]/g,"'").replace(/[.,!?؟،;:]/g,' ').trim().replace(/\s+/g,' ');}
 const quizLayout=document.createElement('style');quizLayout.textContent=`
 #quiz-body .q-opts{display:grid;grid-template-columns:minmax(0,1fr);gap:8px;align-items:stretch;justify-items:stretch}
 #quiz-body .q-opts>.opt{box-sizing:border-box;width:100%;min-width:0;max-width:100%;margin:0;justify-self:stretch;animation:none!important;transform:none!important}
@@ -12,7 +15,7 @@ const resultIcon=ok=>{const ns='http://www.w3.org/2000/svg',svg=document.createE
 var gs=document.body.dataset.grade;
 var LABELS={choose:'اختر الإجابة الصحيحة',sound:'اختر الصوت الناقص',form:'اكتب التصريف الصحيح',cloze:'أكمل الفراغ من الكلمات',unscramble:'رتّب الحروف واكتب الكلمة',reorder:'رتّب الكلمات وكوّن الجملة',tf:'صح أم غلط',typein:'اكتب الإجابة',mcq:'اختر الإجابة الصحيحة'};
 function esc(t){return String(t).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
-function norm(t){return String(t).trim().toLowerCase().replace(/\s+/g,' ').replace(/[.?!،]+$/,'')}
+function norm(t){return esAnswerText(t).trim().toLowerCase().replace(/\s+/g,' ').replace(/[.?!،]+$/,'')}
 var total=0,done=0,score=0,progress={},progressKey='es-grade-quiz-v1-'+gs,restoring=false;
 function persist(){if(restoring)return;try{localStorage.setItem(progressKey,JSON.stringify(progress))}catch{}}
 function remember(card){if(restoring)return;const r=progress.answers[card.dataset.index]||{};r.values=[...card.querySelectorAll('input,select')].map(x=>x.value);r.tokens=[...card.querySelectorAll('.built .wchip')].map(x=>x.dataset.token);progress.answers[card.dataset.index]=r;persist()}

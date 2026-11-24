@@ -1,9 +1,12 @@
 /* WebView 83: keep standalone scripts safe before native replaceChildren support. */
 (function(){if(typeof Element!=='undefined'&&!Element.prototype.replaceChildren){Object.defineProperty(Element.prototype,'replaceChildren',{configurable:true,writable:true,value:function(){var fragment=this.ownerDocument.createDocumentFragment();for(var i=0;i<arguments.length;i++)fragment.append(arguments[i]);while(this.firstChild)this.removeChild(this.firstChild);this.appendChild(fragment);}});}})();
 /* Lesson assessments. Original content, source-grounded and reviewed before publication. */
-(()=>{'use strict';
+(()=>{'use strict';/* Decorative emoji do not change an ordinary written answer. Never used for COPY/form checks. */
+function esAnswerText(value){return String(value).replace(/[0-9#*]\uFE0F?\u20E3/g,' ').replace(/[\u{1F000}-\u{1FAFF}\u2600-\u27BF\u{1F1E6}-\u{1F1FF}]/gu,' ').replace(/[\u200D\uFE0E\uFE0F]/g,'').normalize('NFKC');}
+function esAnswerContent(value){return esAnswerText(value).toLowerCase().replace(/[’‘]/g,"'").replace(/[.,!?؟،;:]/g,' ').trim().replace(/\s+/g,' ');}
+
 const root=document.querySelector('#lesson-assessment'),unit=Number(root.dataset.unit||1);
-const norm=x=>String(x).normalize('NFKC').replace(/[’‘]/g,"'").trim().toLowerCase().replace(/\s+/g,' ').replace(/\s+([.!?,])/g,'$1').replace(/[.!?،]+$/,'');
+const norm=x=>esAnswerText(x).normalize('NFKC').replace(/[’‘]/g,"'").trim().toLowerCase().replace(/\s+/g,' ').replace(/\s+([.!?,])/g,'$1').replace(/[.!?،]+$/,'');
 const join=(xs,letters)=>letters?xs.join(''):xs.join(' ').replace(/\s+([.!?,])/g,'$1');
 const resultIcon=ok=>{const ns='http://www.w3.org/2000/svg',svg=document.createElementNS(ns,'svg');svg.setAttribute('viewBox','0 0 24 24');svg.setAttribute('width','24');svg.setAttribute('height','24');svg.setAttribute('aria-hidden','true');svg.style.verticalAlign='middle';const path=document.createElementNS(ns,'path');path.setAttribute('d',ok?'M5 12l4 4L19 6':'M6 6l12 12M18 6L6 18');path.setAttribute('fill','none');path.setAttribute('stroke','currentColor');path.setAttribute('stroke-width','2.5');path.setAttribute('stroke-linecap','round');svg.append(path);return svg};
 const node=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!==undefined)e.textContent=text;return e};

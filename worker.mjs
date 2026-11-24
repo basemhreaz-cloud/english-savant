@@ -1,4 +1,5 @@
 export { SpeechService } from './speech-service.mjs';
+import { handleGrade } from './grade.mjs';
 const ORIGIN = 'https://basemhreaz-cloud.github.io';
 const MODEL = '@cf/qwen/qwen3.8-27b';
 const SCHOOL_MODEL = '@cf/meta/llama-3.3-70b-instruct-fp8-fast';
@@ -28,6 +29,7 @@ function repetitive(text){
 }
 export default {async fetch(request,env){
  const url=new URL(request.url);
+ if(url.pathname==='/grade')return handleGrade(request,env,{origin:ORIGIN,personalData});
  if(url.pathname==='/speech'){
   const cors={'Access-Control-Allow-Origin':ORIGIN,'Access-Control-Allow-Methods':'POST, OPTIONS','Access-Control-Allow-Headers':'Content-Type','Access-Control-Expose-Headers':'X-Speech-Voice,X-Speech-Cache','Vary':'Origin'};
   if(request.method==='OPTIONS')return new Response(null,{headers:cors});

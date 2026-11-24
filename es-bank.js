@@ -1,9 +1,12 @@
-(function(){'use strict';
+(function(){'use strict';/* Decorative emoji do not change an ordinary written answer. Never used for COPY/form checks. */
+function esAnswerText(value){return String(value).replace(/[0-9#*]\uFE0F?\u20E3/g,' ').replace(/[\u{1F000}-\u{1FAFF}\u2600-\u27BF\u{1F1E6}-\u{1F1FF}]/gu,' ').replace(/[\u200D\uFE0E\uFE0F]/g,'').normalize('NFKC');}
+function esAnswerContent(value){return esAnswerText(value).toLowerCase().replace(/[’‘]/g,"'").replace(/[.,!?؟،;:]/g,' ').trim().replace(/\s+/g,' ');}
+
 const root=document.querySelector('[data-es-bank]');if(!root)return;
 const labels={MCQ:'اختار الإجابة',COMPLETE:'أكمل من الكلمات',LETTER:'الحرف الناقص',LETTERS:'رتب الحروف',REORDER:'رتب الكلمات',MATCH:'صل المعنى',WRITE:'اكتب بنفسك',COPY:'انسخ الجملة',READ:'اقرأ وجاوب',PUNCT:'الحروف الكبيرة والترقيم'};
 const instructions={MCQ:'اختار إجابة واحدة.',COMPLETE:'اكتب الكلمة المناسبة من الصندوق.',LETTER:'اكتب الحرف الناقص بس.',LETTERS:'اكتب الكلمة بعد ترتيب حروفها.',REORDER:'دوس على الكلمات بالترتيب. هنظبط الحرف الأول وعلامة النهاية. تقدر ترجع آخر كلمة أو تبدأ من جديد.',MATCH:'وصل الكلمة أو الجملة بالمعنى المناسب: اختار المعنى.',WRITE:'اكتب إجابتك، وبعدها قارن بالنموذج. الكتابة الحرة محتاجة مراجعة بشرية.',COPY:'انسخ الجملة زي ما هي، بالحروف الكبيرة وعلامات الترقيم.',READ:'اقرأ القطعة الأول. الإجابة موجودة في النص.',PUNCT:'اكتب الجملة تاني بالحروف الكبيرة وعلامات الترقيم المناسبة.'};
 const h=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const $=s=>root.querySelector(s),ar=n=>n.toLocaleString('ar-EG'),norm=s=>String(s).normalize('NFKC').replace(/[‘’]/g,"'").trim().replace(/\s+/g,' ').toLowerCase(),copyNorm=s=>String(s).normalize('NFKC').trim().replace(/\s+/g,' ');
+const $=s=>root.querySelector(s),ar=n=>n.toLocaleString('ar-EG'),norm=s=>esAnswerText(s).normalize('NFKC').replace(/[‘’]/g,"'").trim().replace(/\s+/g,' ').toLowerCase(),copyNorm=s=>String(s).normalize('NFKC').trim().replace(/\s+/g,' ');
 let data,at=0,filter='all',progress={},orders={},key='',chosen=null,words=[],saving=true;
 function feedbackFx(ok,card){document.querySelectorAll('.esfx-big,.esfx-bit,.esfx-wash').forEach(el=>{el.getAnimations?.().forEach(a=>a.cancel());el.remove()});window.__esFxTest?.(ok,card)}
 function list(){return data.questions.filter(q=>filter==='all'||q.type===filter)}

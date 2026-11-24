@@ -1,9 +1,12 @@
 /* WebView 83: keep standalone scripts safe before native replaceChildren support. */
 (function(){if(typeof Element!=='undefined'&&!Element.prototype.replaceChildren){Object.defineProperty(Element.prototype,'replaceChildren',{configurable:true,writable:true,value:function(){var fragment=this.ownerDocument.createDocumentFragment();for(var i=0;i<arguments.length;i++)fragment.append(arguments[i]);while(this.firstChild)this.removeChild(this.firstChild);this.appendChild(fragment);}});}})();
 /* Lesson assessments. Original content, source-grounded and reviewed before publication. */
-(()=>{'use strict';
+(()=>{'use strict';/* Decorative emoji do not change an ordinary written answer. Never used for COPY/form checks. */
+function esAnswerText(value){return String(value).replace(/[0-9#*]\uFE0F?\u20E3/g,' ').replace(/[\u{1F000}-\u{1FAFF}\u2600-\u27BF\u{1F1E6}-\u{1F1FF}]/gu,' ').replace(/[\u200D\uFE0E\uFE0F]/g,'').normalize('NFKC');}
+function esAnswerContent(value){return esAnswerText(value).toLowerCase().replace(/[’‘]/g,"'").replace(/[.,!?؟،;:]/g,' ').trim().replace(/\s+/g,' ');}
+
 const root=document.querySelector('#lesson-assessment'),unit=Number(root.dataset.unit||1);
-const norm=x=>String(x).normalize('NFKC').replace(/[’‘]/g,"'").trim().toLowerCase().replace(/\s+/g,' ').replace(/\s+([.!?,])/g,'$1').replace(/[.!?،]+$/,'');
+const norm=x=>esAnswerText(x).normalize('NFKC').replace(/[’‘]/g,"'").trim().toLowerCase().replace(/\s+/g,' ').replace(/\s+([.!?,])/g,'$1').replace(/[.!?،]+$/,'');
 const join=(xs,letters)=>letters?xs.join(''):xs.join(' ').replace(/\s+([.!?,])/g,'$1');
 const node=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!==undefined)e.textContent=text;return e};
 function optionOrder(q){let seed=2166136261;for(const ch of q.id)seed=Math.imul(seed^ch.charCodeAt(0),16777619)>>>0;const xs=[...q.options];for(let i=xs.length-1;i>0;i--){seed=(Math.imul(seed,1664525)+1013904223)>>>0;const j=seed%(i+1);[xs[i],xs[j]]=[xs[j],xs[i]]}return xs}
