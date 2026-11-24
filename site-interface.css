@@ -335,3 +335,18 @@ html:root:root:root:root:root:root:root:root body :focus-visible{outline-color:v
 html:root:root:root:root:root:root:root:root body ::placeholder{color:var(--es-muted)!important;opacity:1!important}
 html:root:root:root:root:root:root:root:root body footer{background:var(--es-glass-strong)!important;color:var(--es-muted)!important;border-color:var(--es-line)!important}
 html:root:root:root:root:root:root:root:root body .identity-card{background:#FDF9F1!important;color:#25291F!important}html:root:root:root:root:root:root:root:root body .identity-card :is(p,small,span,b,strong,.identity-top,.identity-foot,.tagline){color:#55594D!important}
+
+/* Rounded rectangles throughout, including dynamic feedback and embedded media. */
+html:root:root:root:root:root:root:root:root body :is(div,section,article,aside,nav,header,footer,figure,figcaption,details,summary,dialog,fieldset,form,table,thead,tbody,tfoot,tr,th,td,pre,code,blockquote,button,input,textarea,select,output,progress,meter,img,picture,video,iframe,canvas,[role=alert],[role=status],[role=dialog],[role=progressbar]){border-radius:var(--es-control-radius,14px)!important}
+html:root:root:root:root:root:root:root:root body :is(.glass,.card,.esb-card,.esb-strip,.esb-box,.esb-question,.esb-passage,.passage,.q-passage,.reading-passage,.question,.question-card,.review-item,.unit-card,.station-card,.st-card,.st-tile,.field-card,.task-card,.coach-card,.picture-card,.empty-state,.floating-note,.identity-card,header,footer,dialog,.modal,.dialog,.island-panel,.es-search-box){border-radius:var(--es-radius,24px)!important}
+html:root:root:root:root:root:root:root:root body :is(.feedback,.q-feed,.q-feedback,.esb-feedback,.final-feedback,.privacy-note,.steps-strip,.method-strip,.workspace-head,.video-wrap,.lesson-top,.lesson-nav){border-radius:var(--es-control-radius,14px)!important}
+html:root:root:root:root:root:root:root:root body :is(.chip,.badge,.pill,.esb-chip,.grade-chip,.unit-chip,.token,.esb-token,.lesson-choice,.word-token,.es-select-trigger,.tool-icon,.es-video-play,.quiz-progress,.quiz-progress>span,.esb-meter,.esb-meter>span,.progress,.progress-fill){border-radius:var(--es-control-radius,14px)!important}
+html:root:root:root:root:root:root:root:root body :is(table,.video-wrap,picture,progress,meter){overflow:hidden!important}
+html:root:root:root:root:root:root:root:root body table{border-collapse:separate;border-spacing:0}
+html:root:root:root:root:root:root:root:root body :is(.brand img,.hero-logo){border-radius:4px!important}
+html:root:root:root:root:root:root:root:root body :is(a,span,strong,b,label,li){border-radius:var(--es-control-radius,14px)!important}
+/* Keep the approved dark field and inset colors during theme changes. */
+html:root:root:root:root:root:root:root:root body:not(.dark){--es-inset:inset 2px 3px 8px rgba(87,72,50,.16),inset -2px -2px 7px rgba(255,252,244,.72)!important}
+html:root:root:root:root:root:root:root:root body.dark{--es-field:#354131!important;--es-inset:inset 2px 3px 8px rgba(13,22,13,.48),inset -2px -2px 7px rgba(168,179,154,.10)!important}
+
+html:root:root:root:root:root:root:root:root body :is(p,.ex-scope){border-radius:var(--es-control-radius,14px)!important}
