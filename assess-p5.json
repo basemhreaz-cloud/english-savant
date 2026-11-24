@@ -496,12 +496,12 @@
        "options": [
         "A menu",
         "A main heading",
-        "A sub",
-        "heading",
+        "A sub-heading",
         "A call to action",
         "An image"
        ],
-       "answer": 5
+       "answer": 4,
+       "passage": "Use the phrases from the textbook exercise: A main heading / A sub-heading / An image / A menu / A call to action"
       },
       {
        "type": "mcq",
@@ -511,11 +511,11 @@
         "A main heading",
         "An image",
         "A call to action",
-        "heading",
-        "A sub",
+        "A sub-heading",
         "A menu"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Use the phrases from the textbook exercise: A main heading / A sub-heading / An image / A menu / A call to action"
       },
       {
        "type": "mcq",
@@ -523,13 +523,13 @@
        "q": "___ is an invitation.",
        "options": [
         "A call to action",
-        "heading",
-        "A sub",
+        "A sub-heading",
         "A main heading",
         "An image",
         "A menu"
        ],
-       "answer": 0
+       "answer": 0,
+       "passage": "Use the phrases from the textbook exercise: A main heading / A sub-heading / An image / A menu / A call to action"
       },
       {
        "type": "typein",
@@ -545,12 +545,12 @@
        "options": [
         "A call to action",
         "A main heading",
-        "heading",
         "A menu",
-        "A sub",
+        "A sub-heading",
         "An image"
        ],
-       "answer": 3
+       "answer": 2,
+       "passage": "Use the phrases from the textbook exercise: A main heading / A sub-heading / An image / A menu / A call to action"
       },
       {
        "type": "reorder",
