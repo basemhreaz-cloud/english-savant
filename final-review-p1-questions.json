@@ -1,6 +1,6 @@
 {
   "grade": "p1",
-  "status": "partial-151-reviewed",
+  "status": "partial-206-reviewed",
   "source_pdf_sha256": "c02e0e82a06e8524061b2985a0ec85fd5a5e9a1c50beae134632f0947777739a",
   "source_pages": [
     2,
@@ -1981,6 +1981,794 @@
           "grading_mode": "checked",
           "explanation_ar": "رتّب الحروف لتكوّن mouth، ومعناها فم.",
           "meaning_ar": "فم"
+        }
+      ]
+    },
+    {
+      "type": "lookwrite",
+      "instruction": "Look and write:",
+      "instruction_ar": "انظر إلى الصورة واكتب الكلمة.",
+      "items": [
+        {
+          "item_id": "P1:s1:i0",
+          "source_page": 10,
+          "source_number": 1,
+          "answer": "tiger",
+          "accept": [
+            "tiger"
+          ],
+          "explanation_ar": "tiger معناها نمر. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-7a1d386894bb23fbedbf.png",
+          "image_sha256": "7a1d386894bb23fbedbf6ab9cc1a06bada10fbd5565d602f4fdf59ec1c915d7d",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i1",
+          "source_page": 10,
+          "source_number": 2,
+          "answer": "tree",
+          "accept": [
+            "tree"
+          ],
+          "explanation_ar": "tree معناها شجرة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-0e7770460091663029bc.png",
+          "image_sha256": "0e7770460091663029bcc159605801d6511e95ba10f21410d81da3914104e76b",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i2",
+          "source_page": 10,
+          "source_number": 3,
+          "answer": "table",
+          "accept": [
+            "table"
+          ],
+          "explanation_ar": "table معناها طاولة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-00f8139339f303b308ed.png",
+          "image_sha256": "00f8139339f303b308ed737322d2b714d18d270b78018f9808587fa1bf290ddc",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i3",
+          "source_page": 10,
+          "source_number": 4,
+          "answer": "tomato",
+          "accept": [
+            "tomato",
+            "tomatoes"
+          ],
+          "explanation_ar": "tomato معناها طماطم. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-424de9d8904e0261b1dd.png",
+          "image_sha256": "424de9d8904e0261b1dd094d55c6be571404e0d33f7121546252e8a3e2974b01",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i4",
+          "source_page": 11,
+          "source_number": 5,
+          "answer": "teacher",
+          "accept": [
+            "teacher"
+          ],
+          "explanation_ar": "teacher معناها مدرس. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-2229eaa36716cd9f1434.png",
+          "image_sha256": "2229eaa36716cd9f1434fdd44a6145186f254f620a9cafec81a31529d0d5ab16",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i5",
+          "source_page": 11,
+          "source_number": 6,
+          "answer": "book",
+          "accept": [
+            "book"
+          ],
+          "explanation_ar": "book معناها كتاب. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-1d2bda32e5a76bf47373.png",
+          "image_sha256": "1d2bda32e5a76bf473732f6452260fd83f681e205f0ff824e225a0168ab204cc",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i6",
+          "source_page": 11,
+          "source_number": 7,
+          "answer": "bag",
+          "accept": [
+            "bag",
+            "schoolbag"
+          ],
+          "explanation_ar": "bag معناها حقيبة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-81862c56bd6b7bca7691.png",
+          "image_sha256": "81862c56bd6b7bca76910fc2c952dae05e08f019ea1e4723a63ae924ab665c56",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i7",
+          "source_page": 11,
+          "source_number": 8,
+          "answer": "pencil",
+          "accept": [
+            "pencil"
+          ],
+          "explanation_ar": "pencil معناها قلم رصاص. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-8131cafd2278cde15125.png",
+          "image_sha256": "8131cafd2278cde15125452430e7d8dbcbeb72b21e5e60c75624877b51a55ebe",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i8",
+          "source_page": 11,
+          "source_number": 9,
+          "answer": "board",
+          "accept": [
+            "board",
+            "blackboard"
+          ],
+          "explanation_ar": "board معناها سبورة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-fb4516ed6e9e125af824.png",
+          "image_sha256": "fb4516ed6e9e125af824e387e1dfa8eeffa78a2bf911cfb5f60bc3754ec38b25",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i9",
+          "source_page": 11,
+          "source_number": 10,
+          "answer": "chair",
+          "accept": [
+            "chair"
+          ],
+          "explanation_ar": "chair معناها كرسي. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-531ddc1c8d9d9807b1a7.png",
+          "image_sha256": "531ddc1c8d9d9807b1a7bce5f2066777a6e8003132eda28a759e4431589c8d6a",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i10",
+          "source_page": 11,
+          "source_number": 11,
+          "answer": "desk",
+          "accept": [
+            "desk"
+          ],
+          "explanation_ar": "desk معناها مكتب. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-69ab545a778897ca1f6f.png",
+          "image_sha256": "69ab545a778897ca1f6f6e7f648b2e8b75a1e94d2f2a1d1b94fcfc3be616f1d5",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i11",
+          "source_page": 11,
+          "source_number": 12,
+          "answer": "ink",
+          "accept": [
+            "ink"
+          ],
+          "explanation_ar": "ink معناها حبر. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-51d642fc40dda3388afe.png",
+          "image_sha256": "51d642fc40dda3388afe4b53ce0ca89fcbfc58652e7d8fff20e68f70f8e9ed49",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i12",
+          "source_page": 11,
+          "source_number": 13,
+          "answer": "ill",
+          "accept": [
+            "ill",
+            "sick"
+          ],
+          "explanation_ar": "ill معناها مريض. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-9be180f02b5fa0b53879.png",
+          "image_sha256": "9be180f02b5fa0b53879f4da8622f5af744adcbdc097d8bbc5b875cfe779be2c",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i13",
+          "source_page": 11,
+          "source_number": 14,
+          "answer": "insect",
+          "accept": [
+            "insect"
+          ],
+          "explanation_ar": "insect معناها حشرة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-bc81efe65a3fb42a250f.png",
+          "image_sha256": "bc81efe65a3fb42a250fd1976c10b27f3fee15469cba3ffd7710abd6762a49b4",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i14",
+          "source_page": 11,
+          "source_number": 15,
+          "answer": "in",
+          "accept": [
+            "in",
+            "inside"
+          ],
+          "explanation_ar": "in معناها داخل. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-c8763e8e67d56af021b7.png",
+          "image_sha256": "c8763e8e67d56af021b7783c3b2148c95222831da05b5c5e0e9acf4229378181",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i15",
+          "source_page": 11,
+          "source_number": 16,
+          "answer": "ink",
+          "accept": [
+            "ink"
+          ],
+          "explanation_ar": "ink معناها حبر. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-51d642fc40dda3388afe.png",
+          "image_sha256": "51d642fc40dda3388afe4b53ce0ca89fcbfc58652e7d8fff20e68f70f8e9ed49",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i16",
+          "source_page": 11,
+          "source_number": 17,
+          "answer": "insect",
+          "accept": [
+            "insect"
+          ],
+          "explanation_ar": "insect معناها حشرة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-bc81efe65a3fb42a250f.png",
+          "image_sha256": "bc81efe65a3fb42a250fd1976c10b27f3fee15469cba3ffd7710abd6762a49b4",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i17",
+          "source_page": 11,
+          "source_number": 18,
+          "answer": "ill",
+          "accept": [
+            "ill",
+            "sick"
+          ],
+          "explanation_ar": "ill معناها مريض. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-9be180f02b5fa0b53879.png",
+          "image_sha256": "9be180f02b5fa0b53879f4da8622f5af744adcbdc097d8bbc5b875cfe779be2c",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i18",
+          "source_page": 11,
+          "source_number": 19,
+          "answer": "in",
+          "accept": [
+            "in",
+            "inside"
+          ],
+          "explanation_ar": "in معناها داخل. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-c8763e8e67d56af021b7.png",
+          "image_sha256": "c8763e8e67d56af021b7783c3b2148c95222831da05b5c5e0e9acf4229378181",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i19",
+          "source_page": 11,
+          "source_number": 20,
+          "answer": "ill",
+          "accept": [
+            "ill",
+            "sick"
+          ],
+          "explanation_ar": "ill معناها مريض. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-9be180f02b5fa0b53879.png",
+          "image_sha256": "9be180f02b5fa0b53879f4da8622f5af744adcbdc097d8bbc5b875cfe779be2c",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i20",
+          "source_page": 11,
+          "source_number": 21,
+          "answer": "insect",
+          "accept": [
+            "insect"
+          ],
+          "explanation_ar": "insect معناها حشرة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-bc81efe65a3fb42a250f.png",
+          "image_sha256": "bc81efe65a3fb42a250fd1976c10b27f3fee15469cba3ffd7710abd6762a49b4",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i21",
+          "source_page": 11,
+          "source_number": 22,
+          "answer": "sun",
+          "accept": [
+            "sun"
+          ],
+          "explanation_ar": "sun معناها شمس. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-67a904bf0d5aa487f8e8.png",
+          "image_sha256": "67a904bf0d5aa487f8e8b3728e4360bfda82e34d5401250d4b1b39ccddb94b5a",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i22",
+          "source_page": 11,
+          "source_number": 23,
+          "answer": "spider",
+          "accept": [
+            "spider"
+          ],
+          "explanation_ar": "spider معناها عنكبوت. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-e697b76bf703f1bd02e8.png",
+          "image_sha256": "e697b76bf703f1bd02e8e47a51c7317a09c8b3e5193a83866c25baf34c4fe11f",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i23",
+          "source_page": 11,
+          "source_number": 24,
+          "answer": "spoon",
+          "accept": [
+            "spoon"
+          ],
+          "explanation_ar": "spoon معناها ملعقة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-f0571b729f7cb1249782.png",
+          "image_sha256": "f0571b729f7cb12497829a47dd7cd9e336124fbed849ba9e80c3bdb62ae014be",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i24",
+          "source_page": 11,
+          "source_number": 25,
+          "answer": "snake",
+          "accept": [
+            "snake"
+          ],
+          "explanation_ar": "snake معناها ثعبان. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-3cd2fdce4a96090e623c.png",
+          "image_sha256": "3cd2fdce4a96090e623cdbd17f327b6e69c0fe69f40f1ff67265ab6e7a107e91",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i25",
+          "source_page": 11,
+          "source_number": 26,
+          "answer": "star",
+          "accept": [
+            "star"
+          ],
+          "explanation_ar": "star معناها نجمة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-5577cbde6f070b66532d.png",
+          "image_sha256": "5577cbde6f070b66532d69e1f3cb8e7c2b1ac6724d9542ce16ec251b115fc1ca",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i26",
+          "source_page": 11,
+          "source_number": 27,
+          "answer": "apple",
+          "accept": [
+            "apple"
+          ],
+          "explanation_ar": "apple معناها تفاحة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-584ea8a47ea6efe22a48.png",
+          "image_sha256": "584ea8a47ea6efe22a48ac690a1e396b50e1282a39a962eea3e66e9d677b401d",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i27",
+          "source_page": 11,
+          "source_number": 28,
+          "answer": "axe",
+          "accept": [
+            "axe"
+          ],
+          "explanation_ar": "axe معناها فأس. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-83ebdece123e727c019c.png",
+          "image_sha256": "83ebdece123e727c019c4a7bd78955d6756b882eb4c1cb816c2fe0812589d0c7",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i28",
+          "source_page": 12,
+          "source_number": 29,
+          "answer": "ant",
+          "accept": [
+            "ant"
+          ],
+          "explanation_ar": "ant معناها نملة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-96e59a7cab2745425e7d.png",
+          "image_sha256": "96e59a7cab2745425e7d33130d648d8f86dbf6507e9f7d30868f4bc33702b29d",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i29",
+          "source_page": 12,
+          "source_number": 30,
+          "answer": "arrow",
+          "accept": [
+            "arrow"
+          ],
+          "explanation_ar": "arrow معناها سهم. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-8f0b697be3bbab796106.png",
+          "image_sha256": "8f0b697be3bbab79610620e6fff0c35d29d0c6c35e85665a25420dfff1c72801",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i30",
+          "source_page": 12,
+          "source_number": 31,
+          "answer": "potato",
+          "accept": [
+            "potato",
+            "potatoes"
+          ],
+          "explanation_ar": "potato معناها بطاطس. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-81efb6e980470fadf8c0.png",
+          "image_sha256": "81efb6e980470fadf8c0e89e6ebd3721ef93d8c8afd3ea064dea9deb8ffb9b77",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i31",
+          "source_page": 12,
+          "source_number": 32,
+          "answer": "neck",
+          "accept": [
+            "neck"
+          ],
+          "explanation_ar": "neck معناها رقبة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-4f0314b002ab96fe2487.png",
+          "image_sha256": "4f0314b002ab96fe2487f7dca00af605dd9cd5317cabb92becd082e3edea75a1",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i32",
+          "source_page": 12,
+          "source_number": 33,
+          "answer": "nose",
+          "accept": [
+            "nose"
+          ],
+          "explanation_ar": "nose معناها أنف. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-115ed4a0ac7bb2c4e827.png",
+          "image_sha256": "115ed4a0ac7bb2c4e8272a2b8dec1e29e22b24b31942cd04c9ea4f130031edf3",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i33",
+          "source_page": 12,
+          "source_number": 34,
+          "answer": "pizza",
+          "accept": [
+            "pizza"
+          ],
+          "explanation_ar": "pizza معناها بيتزا. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-74ae871b08124719bc82.png",
+          "image_sha256": "74ae871b08124719bc8229e3f9e2339fa72a79466de40ed901f22fb051b70b6b",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i34",
+          "source_page": 12,
+          "source_number": 35,
+          "answer": "doll",
+          "accept": [
+            "doll"
+          ],
+          "explanation_ar": "doll معناها دمية. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-04b615b1e66b5e54b3da.png",
+          "image_sha256": "04b615b1e66b5e54b3dab8af6f0cdf1e55c51aa6c86ca878b14e67ae5d0bee97",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i35",
+          "source_page": 12,
+          "source_number": 36,
+          "answer": "horse",
+          "accept": [
+            "horse"
+          ],
+          "explanation_ar": "horse معناها حصان. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-3c57e928913533869135.png",
+          "image_sha256": "3c57e92891353386913599c772ecd2a9780fcf74c88ccdfce841e3b8f939a033",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i36",
+          "source_page": 12,
+          "source_number": 37,
+          "answer": "hat",
+          "accept": [
+            "hat"
+          ],
+          "explanation_ar": "hat معناها قبعة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-087b7878902351d36ae8.png",
+          "image_sha256": "087b7878902351d36ae8c4c6404fef54a4567fa9dd4b06905129461f59c26d2e",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i37",
+          "source_page": 12,
+          "source_number": 38,
+          "answer": "door",
+          "accept": [
+            "door"
+          ],
+          "explanation_ar": "door معناها باب. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-bd6cbdebd95b5c7b7fed.png",
+          "image_sha256": "bd6cbdebd95b5c7b7fed15dc03b0e35705451e41c0e6b42d20c1a73ab371bce1",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i38",
+          "source_page": 12,
+          "source_number": 39,
+          "answer": "hand",
+          "accept": [
+            "hand"
+          ],
+          "explanation_ar": "hand معناها يد. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-abb55100bb875d7dc7b3.png",
+          "image_sha256": "abb55100bb875d7dc7b3be831a4dea7fddbe7f7a2c3d951a932387334c08fc69",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i39",
+          "source_page": 12,
+          "source_number": 40,
+          "answer": "eye",
+          "accept": [
+            "eye"
+          ],
+          "explanation_ar": "eye معناها عين. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-24aa92684379bfb2221a.png",
+          "image_sha256": "24aa92684379bfb2221a717e3d01631f47f4632dd828e79a7a9720422b7e78e2",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i40",
+          "source_page": 12,
+          "source_number": 41,
+          "answer": "nose",
+          "accept": [
+            "nose"
+          ],
+          "explanation_ar": "nose معناها أنف. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-115ed4a0ac7bb2c4e827.png",
+          "image_sha256": "115ed4a0ac7bb2c4e8272a2b8dec1e29e22b24b31942cd04c9ea4f130031edf3",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i41",
+          "source_page": 12,
+          "source_number": 42,
+          "answer": "mouth",
+          "accept": [
+            "mouth"
+          ],
+          "explanation_ar": "mouth معناها فم. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-2861e3407546ed70c72b.png",
+          "image_sha256": "2861e3407546ed70c72b0b923bb3fa4aefa5e9fe43216f11ca4732eee9638ea2",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i42",
+          "source_page": 12,
+          "source_number": 43,
+          "answer": "ear",
+          "accept": [
+            "ear"
+          ],
+          "explanation_ar": "ear معناها أذن. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-3bc0984d68ca3bd24cb6.png",
+          "image_sha256": "3bc0984d68ca3bd24cb6d2d31ee40318cd86bcafd86fba58f2449183ae27d0bb",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i43",
+          "source_page": 12,
+          "source_number": 44,
+          "answer": "stomach",
+          "accept": [
+            "stomach",
+            "tummy",
+            "belly"
+          ],
+          "explanation_ar": "stomach معناها بطن. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-9f48911bed6f34f600a9.png",
+          "image_sha256": "9f48911bed6f34f600a9d2066b0f112b8782f8a1cc7a8a9c25148d810a9b9e9d",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i44",
+          "source_page": 12,
+          "source_number": 45,
+          "answer": "elephant",
+          "accept": [
+            "elephant"
+          ],
+          "explanation_ar": "elephant معناها فيل. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-22ca2c435a6f71a55d94.png",
+          "image_sha256": "22ca2c435a6f71a55d94cf7db4bca63ef43728aa4fffdef4ed2cacbb873a2617",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i45",
+          "source_page": 12,
+          "source_number": 46,
+          "answer": "robot",
+          "accept": [
+            "robot"
+          ],
+          "explanation_ar": "robot معناها روبوت. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-6354c514984ce7bd8032.png",
+          "image_sha256": "6354c514984ce7bd803274161b272bb66d16520230ec7ffec76bf25fb4c8ddf3",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i46",
+          "source_page": 12,
+          "source_number": 47,
+          "answer": "elbow",
+          "accept": [
+            "elbow"
+          ],
+          "explanation_ar": "elbow معناها مرفق. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-ee6657d20bc7a0fd4ab2.png",
+          "image_sha256": "ee6657d20bc7a0fd4ab2126200f9c9f5ef546530c7c034516637507153cee644",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i47",
+          "source_page": 12,
+          "source_number": 48,
+          "answer": "ring",
+          "accept": [
+            "ring"
+          ],
+          "explanation_ar": "ring معناها خاتم. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-075eb845c9dfedf92f09.png",
+          "image_sha256": "075eb845c9dfedf92f0939115f66fa479d20ea26700e36ede68707300ccd8999",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i49",
+          "source_page": 12,
+          "source_number": 50,
+          "answer": "kite",
+          "accept": [
+            "kite"
+          ],
+          "explanation_ar": "kite معناها طائرة ورقية. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-9e8ea9e8e189395c3f77.png",
+          "image_sha256": "9e8ea9e8e189395c3f77628153be24712b56edc0d45db1f25e439e4341a1d73b",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i50",
+          "source_page": 12,
+          "source_number": 51,
+          "answer": "key",
+          "accept": [
+            "key"
+          ],
+          "explanation_ar": "key معناها مفتاح. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-34e35e09e94395771d43.png",
+          "image_sha256": "34e35e09e94395771d4339ed2df0ce563712cad9291bbf3bdc78d290a6354b27",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i51",
+          "source_page": 12,
+          "source_number": 52,
+          "answer": "cat",
+          "accept": [
+            "cat"
+          ],
+          "explanation_ar": "cat معناها قطة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-a5d53156d47b6339ac6e.png",
+          "image_sha256": "a5d53156d47b6339ac6eb759a3452390a5f9172f609f9c5f69c96208feeb1a33",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i52",
+          "source_page": 13,
+          "source_number": 53,
+          "answer": "cow",
+          "accept": [
+            "cow"
+          ],
+          "explanation_ar": "cow معناها بقرة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-873c017514c14a791101.png",
+          "image_sha256": "873c017514c14a7911017b89f79cb6f6dab19b4ec6571565fd384f8f2bf171cd",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i53",
+          "source_page": 13,
+          "source_number": 54,
+          "answer": "duck",
+          "accept": [
+            "duck"
+          ],
+          "explanation_ar": "duck معناها بطة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-81c8a839a60559da6ac6.png",
+          "image_sha256": "81c8a839a60559da6ac6830bb1c51a9ff2c763a44a037e921456a76dec1d7489",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i54",
+          "source_page": 13,
+          "source_number": 55,
+          "answer": "horse",
+          "accept": [
+            "horse"
+          ],
+          "explanation_ar": "horse معناها حصان. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-3c57e928913533869135.png",
+          "image_sha256": "3c57e92891353386913599c772ecd2a9780fcf74c88ccdfce841e3b8f939a033",
+          "grading_mode": "checked",
+          "question": "Look and write."
+        },
+        {
+          "item_id": "P1:s1:i55",
+          "source_page": 13,
+          "source_number": 56,
+          "answer": "chicken",
+          "accept": [
+            "chicken"
+          ],
+          "explanation_ar": "chicken معناها دجاجة. اكتب الكلمة المناسبة للصورة.",
+          "image": "assets/final-review-p1/p1-7d48460c6eb2b28bd221.png",
+          "image_sha256": "7d48460c6eb2b28bd221ccbd36c0cdcfef127b9b0cc33fac9a9e67d584234b45",
+          "grading_mode": "checked",
+          "question": "Look and write."
         }
       ]
     }
