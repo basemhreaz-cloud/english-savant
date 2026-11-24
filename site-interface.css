@@ -384,3 +384,21 @@ html:root:root:root[data-interface-language] body .header.island-compact.es-load
 .es-loading-ring rect{fill:none;stroke:currentColor;stroke-width:1.3;stroke-linecap:round;stroke-dasharray:24 76;animation:es-loading-travel 2.8s linear infinite;opacity:.75}
 @keyframes es-loading-travel{to{stroke-dashoffset:-100}}
 @media(prefers-reduced-motion:reduce){.es-loading-ring rect{animation:none;stroke-dasharray:none;opacity:.45}}
+
+/* Consistent content rhythm, without changing artwork or the approved palette. */
+html{scroll-padding-top:96px}
+html:root:root:root[data-interface-language] body main :is(section,article,[id]){scroll-margin-top:96px}
+html:root:root:root[data-interface-language] body main :is(h1,h2,h3,h4){line-height:1.5;text-wrap:balance}
+html:root:root:root[data-interface-language] body main :is(p,li){line-height:1.95}
+html:root:root:root[data-interface-language] body main>:is(section.glass,article.glass){margin-block:24px;padding:24px!important}
+html:root:root:root[data-interface-language] body main :is(section.glass,article.glass,.tool-card,.grade-card,.unit-card,.lesson-card,.q-card,.esb-card)>:is(h2,h3,h4){margin-block:0 14px}
+html:root:root:root[data-interface-language] body main :is(section.glass,article.glass,.tool-card,.grade-card,.unit-card,.lesson-card,.q-card,.esb-card)>p{margin-block:12px 18px}
+html:root:root:root[data-interface-language] body main :is(section.glass,article.glass,.tool-card,.grade-card,.unit-card,.lesson-card)>:is(.button,.text-button){margin-block:6px 8px;max-width:100%}
+html:root:root:root[data-interface-language] body main :is(.q-inline,.q-opts,.esb-options,.lesson-choices){gap:12px;margin-block:16px}
+html:root:root:root[data-interface-language] body main :is(.section-head,.st-head){gap:20px;margin-bottom:24px}
+.es-lesson-counts{display:grid;gap:7px;margin-block:14px 20px!important;padding:0;list-style:none}
+.es-lesson-counts li{margin:0;line-height:1.8!important}
+html.es-compact-nav::before{content:'';position:fixed;inset:0 0 auto;height:74px;background:var(--es-bg,#f3efe5);z-index:190;pointer-events:none}
+@media(max-width:600px){html:root:root:root[data-interface-language] body main>:is(section.glass,article.glass){padding:22px!important;margin-block:22px}html:root:root:root[data-interface-language] body main :is(.stage-grid,.tool-grid,.grade-grid,.cards-grid){row-gap:20px}}
+html.es-compact-nav .header-slot{z-index:200!important}
+html.es-compact-nav :is(.header,.site-header,.es-mini-island){z-index:201!important}
