@@ -1,0 +1,4457 @@
+{
+ "grade": "P6",
+ "schema": "muraja3a-display/v1",
+ "autograde_allowed": true,
+ "note": "Teacher-derived answers independently checked. Ambiguous items and written/open reading answers require teacher review. Printed source contains no answer key.",
+ "sections": [
+  {
+   "section_index": 0,
+   "type": "mcq",
+   "instruction": "Choose the correct answer from a, b, c or d:",
+   "items": [
+    {
+     "item_id": "P6:s0:i0",
+     "question": "We ................ souvenirs from Khan El Khalili.",
+     "options": [
+      "do",
+      "sell",
+      "buy",
+      "eat"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "buy"
+    },
+    {
+     "item_id": "P6:s0:i1",
+     "question": "Tourists come to Egypt to ................ the ancient sites.",
+     "options": [
+      "play",
+      "visit",
+      "have",
+      "read"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "visit"
+    },
+    {
+     "item_id": "P6:s0:i2",
+     "question": "Carpenters ................ furniture in Damietta.",
+     "options": [
+      "run",
+      "watch",
+      "write",
+      "make"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "make"
+    },
+    {
+     "item_id": "P6:s0:i3",
+     "question": "They spend a great day ................ Aswan.",
+     "options": [
+      "of",
+      "in",
+      "off",
+      "from"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "in"
+    },
+    {
+     "item_id": "P6:s0:i4",
+     "question": "His family learns many new things about the Egyptian ................",
+     "options": [
+      "Stadium",
+      "Science",
+      "Museum",
+      "Math"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Museum"
+    },
+    {
+     "item_id": "P6:s0:i5",
+     "question": "We use colored ................ to make beautiful jewelry.",
+     "options": [
+      "stones",
+      "temples",
+      "papyrus",
+      "granite"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "stones"
+    },
+    {
+     "item_id": "P6:s0:i6",
+     "question": "People described papyrus as a ................ that lasts long",
+     "options": [
+      "kind of food",
+      "golden stone",
+      "writing material",
+      "type of stone"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "writing material"
+    },
+    {
+     "item_id": "P6:s0:i7",
+     "question": "Egypt builds big ................ to produce electricity from water.",
+     "options": [
+      "mines",
+      "dams",
+      "islands",
+      "farms"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "dams"
+    },
+    {
+     "item_id": "P6:s0:i8",
+     "question": "We should use water ................ so we don't waste this important resource.",
+     "options": [
+      "badly",
+      "quickly",
+      "wisely",
+      "loudly"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "wisely"
+    },
+    {
+     "item_id": "P6:s0:i9",
+     "question": "You must have a ................ to enter a different country.",
+     "options": [
+      "visa",
+      "card",
+      "passport",
+      "bag"
+     ],
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s0:i10",
+     "question": "Go to the ................ when you don't know where to go.",
+     "options": [
+      "toy shop",
+      "information desk",
+      "swimming pool",
+      "bedroom"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "information desk"
+    },
+    {
+     "item_id": "P6:s0:i11",
+     "question": "The tourist phoned the hotel to ................ a room.",
+     "options": [
+      "pack",
+      "book",
+      "buy",
+      "sell"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "book"
+    },
+    {
+     "item_id": "P6:s0:i12",
+     "question": "To ................ the plane you should have a ticket.",
+     "options": [
+      "fly",
+      "board",
+      "brochure",
+      "guide"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "board"
+    },
+    {
+     "item_id": "P6:s0:i13",
+     "question": "Tourists can take a ................ to learn more about the museum.",
+     "options": [
+      "suitcase",
+      "guided tour",
+      "swimming pool",
+      "restaurant"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "guided tour"
+    },
+    {
+     "item_id": "P6:s0:i14",
+     "question": "I can climb the high ................",
+     "options": [
+      "river",
+      "way",
+      "mountain",
+      "lake"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "mountain"
+    },
+    {
+     "item_id": "P6:s0:i15",
+     "question": "................ are a kind of animals.",
+     "options": [
+      "Tablets",
+      "Kangaroos",
+      "Shorts",
+      "Vets"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Kangaroos"
+    },
+    {
+     "item_id": "P6:s0:i16",
+     "question": "I like to ................ photos with my phone.",
+     "options": [
+      "read",
+      "take",
+      "play",
+      "buy"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "take"
+    },
+    {
+     "item_id": "P6:s0:i17",
+     "question": "I ................ fresh food.",
+     "options": [
+      "like",
+      "likes",
+      "liking",
+      "to like"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "like"
+    },
+    {
+     "item_id": "P6:s0:i18",
+     "question": "What are you ................?",
+     "options": [
+      "do",
+      "does",
+      "doing",
+      "did"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "doing"
+    },
+    {
+     "item_id": "P6:s0:i19",
+     "question": "Let's ................ the rubbish out.",
+     "options": [
+      "read",
+      "take",
+      "play",
+      "buy"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "take"
+    },
+    {
+     "item_id": "P6:s0:i20",
+     "question": "He ................ rice very much.",
+     "options": [
+      "like",
+      "likes",
+      "liking",
+      "to like"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "likes"
+    },
+    {
+     "item_id": "P6:s0:i21",
+     "question": "What are you ................ now?",
+     "options": [
+      "draw",
+      "drew",
+      "drawing",
+      "draws"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "drawing"
+    },
+    {
+     "item_id": "P6:s0:i22",
+     "question": "We ................ football every day.",
+     "options": [
+      "play",
+      "plays",
+      "played",
+      "playing"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "play"
+    },
+    {
+     "item_id": "P6:s0:i23",
+     "question": "It ................ snows in summer in Egypt.",
+     "options": [
+      "never",
+      "sometimes",
+      "often",
+      "ever"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "never"
+    },
+    {
+     "item_id": "P6:s0:i24",
+     "question": "When it's hot, people drink water and rest in the ................",
+     "options": [
+      "shade",
+      "sun",
+      "heat",
+      "dust"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "shade"
+    },
+    {
+     "item_id": "P6:s0:i25",
+     "question": "I like looking at the high ................ in the sea.",
+     "options": [
+      "stars",
+      "mountains",
+      "clouds",
+      "waves"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "waves"
+    },
+    {
+     "item_id": "P6:s0:i26",
+     "question": "It is windy and the sky is full of dark ................",
+     "options": [
+      "waves",
+      "glasses",
+      "plants",
+      "clouds"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "clouds"
+    },
+    {
+     "item_id": "P6:s0:i27",
+     "question": "In ................ weather, people should drink a lot of water.",
+     "options": [
+      "rainy",
+      "hot",
+      "cool",
+      "cold"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "hot"
+    },
+    {
+     "item_id": "P6:s0:i28",
+     "question": "The streets are ................ because it is raining heavily.",
+     "options": [
+      "dry",
+      "wet",
+      "dusty",
+      "rainy"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "wet"
+    },
+    {
+     "item_id": "P6:s0:i29",
+     "question": "We wear hats to ................ ourselves from the sun.",
+     "options": [
+      "heat",
+      "clean",
+      "grow",
+      "protect"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "protect"
+    },
+    {
+     "item_id": "P6:s0:i30",
+     "question": "What are you ................, Nada?",
+     "options": [
+      "do",
+      "does",
+      "did",
+      "doing"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "doing"
+    },
+    {
+     "item_id": "P6:s0:i31",
+     "question": "I'm ................ for the football game.",
+     "options": [
+      "practicing",
+      "practice",
+      "practiced",
+      "practices"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "practicing"
+    },
+    {
+     "item_id": "P6:s0:i32",
+     "question": "I went to the ................ to send a letter.",
+     "options": [
+      "bank",
+      "library",
+      "museum",
+      "post office"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "post office"
+    },
+    {
+     "item_id": "P6:s0:i33",
+     "question": "Clean the room by ................, Ali.",
+     "options": [
+      "yourself",
+      "himself",
+      "herself",
+      "myself"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "yourself"
+    },
+    {
+     "item_id": "P6:s0:i34",
+     "question": "My favorite ................ is football.",
+     "options": [
+      "sport",
+      "book",
+      "team",
+      "meal"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "sport"
+    },
+    {
+     "item_id": "P6:s0:i35",
+     "question": "I am ................ in watching films.",
+     "options": [
+      "interest",
+      "interested",
+      "interesting",
+      "interests"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "interested"
+    },
+    {
+     "item_id": "P6:s0:i36",
+     "question": "A paramedic helps people in an ................",
+     "options": [
+      "school",
+      "emergency",
+      "shop",
+      "park"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "emergency"
+    },
+    {
+     "item_id": "P6:s0:i37",
+     "question": "A mechanic fixes ................",
+     "options": [
+      "clothes",
+      "vehicles",
+      "food",
+      "books"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "vehicles"
+    },
+    {
+     "item_id": "P6:s0:i38",
+     "question": "A traffic officer helps people ................ the road.",
+     "options": [
+      "make",
+      "cross",
+      "build",
+      "draw"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "cross"
+    },
+    {
+     "item_id": "P6:s0:i39",
+     "question": "We use \"can\" to talk about ................",
+     "options": [
+      "past",
+      "ability",
+      "place",
+      "time"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "ability"
+    },
+    {
+     "item_id": "P6:s0:i40",
+     "question": "She is ................ to speak English well.",
+     "options": [
+      "can",
+      "able",
+      "ability",
+      "be"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "able"
+    },
+    {
+     "item_id": "P6:s0:i41",
+     "question": "You should turn ................ lights and the computer when you finish using them.",
+     "options": [
+      "out",
+      "on",
+      "off",
+      "of"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "off"
+    },
+    {
+     "item_id": "P6:s0:i42",
+     "question": "You ................ speak politely to your parents.",
+     "options": [
+      "must",
+      "mustn't",
+      "have",
+      "are to"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "must"
+    },
+    {
+     "item_id": "P6:s0:i43",
+     "question": "Don't ................ water when you have a bath.",
+     "options": [
+      "use",
+      "harm",
+      "waste",
+      "close"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "waste"
+    },
+    {
+     "item_id": "P6:s0:i44",
+     "question": "Tourists like to come to Egypt to ................ the ancient sites.",
+     "options": [
+      "play",
+      "visit",
+      "have",
+      "read"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "visit"
+    },
+    {
+     "item_id": "P6:s0:i45",
+     "question": "Asmaa ................ us every week.",
+     "options": [
+      "visits",
+      "visit",
+      "is visiting",
+      "visited"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "visits"
+    },
+    {
+     "item_id": "P6:s0:i46",
+     "question": "Every morning, Ahmed ................ a cup of tea.",
+     "options": [
+      "drink",
+      "drank",
+      "drinks",
+      "drinking"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "drinks"
+    },
+    {
+     "item_id": "P6:s0:i47",
+     "question": "What time ................ you leave for school every day?",
+     "options": [
+      "do",
+      "does",
+      "doing",
+      "did"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "do"
+    },
+    {
+     "item_id": "P6:s0:i48",
+     "question": "Egypt has many valuable treasures ................ the ground.",
+     "options": [
+      "beside",
+      "off",
+      "under",
+      "next"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "under"
+    },
+    {
+     "item_id": "P6:s0:i49",
+     "question": "We must ................ our planet from pollution.",
+     "options": [
+      "forget",
+      "protect",
+      "use",
+      "leave"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "protect"
+    },
+    {
+     "item_id": "P6:s0:i50",
+     "question": "Gases from cars, buses and factories can ................ the air.",
+     "options": [
+      "pollute",
+      "clean",
+      "charge",
+      "protect"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "pollute"
+    },
+    {
+     "item_id": "P6:s0:i51",
+     "question": "The word ................ means worried.",
+     "options": [
+      "kind",
+      "nervous",
+      "friendly",
+      "funny"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "nervous"
+    },
+    {
+     "item_id": "P6:s0:i52",
+     "question": "Jana is very ................ . She always helps people.",
+     "options": [
+      "helpful",
+      "nervous",
+      "shy",
+      "messy"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "helpful"
+    },
+    {
+     "item_id": "P6:s0:i53",
+     "question": "Amr is ................ . He shows respect to everyone.",
+     "options": [
+      "nervous",
+      "polite",
+      "messy",
+      "worried"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "polite"
+    },
+    {
+     "item_id": "P6:s0:i54",
+     "question": "Hana is ................ . She's worried about talking to people.",
+     "options": [
+      "shy",
+      "clever",
+      "funny",
+      "messy"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "shy"
+    },
+    {
+     "item_id": "P6:s0:i55",
+     "question": "The roof is the ................ of the building.",
+     "options": [
+      "side",
+      "left",
+      "top",
+      "bottom"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "top"
+    },
+    {
+     "item_id": "P6:s0:i56",
+     "question": "We go to the club ................ night",
+     "options": [
+      "on",
+      "of",
+      "in",
+      "at"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "at"
+    },
+    {
+     "item_id": "P6:s0:i57",
+     "question": "He is ................ best friend.",
+     "options": [
+      "me",
+      "mine",
+      "my",
+      "I"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "my"
+    },
+    {
+     "item_id": "P6:s0:i58",
+     "question": "Noor, Ahmed, and Farida were always looking for ways to ................",
+     "options": [
+      "play games",
+      "help",
+      "travel",
+      "sleep"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "help"
+    },
+    {
+     "item_id": "P6:s0:i59",
+     "question": "The tap in the school bathroom kept ................ even when no one used it.",
+     "options": [
+      "shining",
+      "breaking",
+      "dripping",
+      "closing"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "dripping"
+    },
+    {
+     "item_id": "P6:s0:i60",
+     "question": "Water overflowed from a broken ................ in the garden.",
+     "options": [
+      "window",
+      "pipe",
+      "door",
+      "chair"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "pipe"
+    },
+    {
+     "item_id": "P6:s0:i61",
+     "question": "Noor thought the water drops were too ................ to waste.",
+     "options": [
+      "heavy",
+      "funny",
+      "hot",
+      "precious"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "precious"
+    },
+    {
+     "item_id": "P6:s0:i62",
+     "question": "Farida wanted them to be ................",
+     "options": [
+      "Water Savers",
+      "Teachers",
+      "Gardeners",
+      "Plumber"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Water Savers"
+    },
+    {
+     "item_id": "P6:s0:i63",
+     "question": "The three friends walked around the school with ................",
+     "options": [
+      "toys and games",
+      "a notebook, a camera, and curious eyes",
+      "food and water",
+      "books and homework"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "a notebook, a camera, and curious eyes"
+    },
+    {
+     "item_id": "P6:s0:i64",
+     "question": "Noor wrote down problems like ................",
+     "options": [
+      "broken windows and dirty floors",
+      "students talking loudly",
+      "leaky taps and students leaving water running",
+      "teachers arriving late"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "leaky taps and students leaving water running"
+    },
+    {
+     "item_id": "P6:s0:i65",
+     "question": "Farida helped by making ................ posters.",
+     "options": [
+      "dark and scary",
+      "bright and cheerful",
+      "small and boring",
+      "black and white"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "bright and cheerful"
+    },
+    {
+     "item_id": "P6:s0:i66",
+     "question": "Mr. Youssef was the school ................",
+     "options": [
+      "head teacher",
+      "cleaner",
+      "driver",
+      "nurse"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "cleaner"
+    },
+    {
+     "item_id": "P6:s0:i67",
+     "question": "At the end, the head teacher gave the children ................",
+     "options": [
+      "money",
+      "new tablets",
+      "certificates of achievement",
+      "homework"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "certificates of achievement"
+    },
+    {
+     "item_id": "P6:s0:i68",
+     "question": "Using solar energy is good because it doesn't create ................",
+     "options": [
+      "electricity",
+      "pollution",
+      "jobs",
+      "sunlight"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "pollution"
+    },
+    {
+     "item_id": "P6:s0:i69",
+     "question": "He is proud ................ his grandpa.",
+     "options": [
+      "in",
+      "to",
+      "of",
+      "off"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "of"
+    },
+    {
+     "item_id": "P6:s0:i70",
+     "question": "He ................ his friend last night.",
+     "options": [
+      "meet",
+      "met",
+      "meeting",
+      "meets"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "met"
+    },
+    {
+     "item_id": "P6:s0:i71",
+     "question": "They ................ the tomb of Tutankhamen in 1922.",
+     "options": [
+      "visited",
+      "discovered",
+      "cleaned",
+      "closed"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "discovered"
+    },
+    {
+     "item_id": "P6:s0:i72",
+     "question": "We use a ................ to cut vegetables.",
+     "options": [
+      "knife",
+      "bowl",
+      "glass",
+      "fork"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "knife"
+    },
+    {
+     "item_id": "P6:s0:i73",
+     "question": "I play with my friends at the ................",
+     "options": [
+      "bank",
+      "museum",
+      "club",
+      "hospital"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "club"
+    },
+    {
+     "item_id": "P6:s0:i74",
+     "question": "In Egypt, football ................ very popular and swimming is fun.",
+     "options": [
+      "are",
+      "is",
+      "am",
+      "be"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "is"
+    },
+    {
+     "item_id": "P6:s0:i75",
+     "question": "He ................ in the morning.",
+     "options": [
+      "drinking",
+      "drink",
+      "drinks",
+      "drank"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "drinks"
+    }
+   ]
+  },
+  {
+   "section_index": 1,
+   "type": "cloze",
+   "instruction": "Read and complete the text with the words in the box:",
+   "items": [
+    {
+     "item_id": "P6:s1:i0",
+     "wordbank": [
+      "work",
+      "time",
+      "study",
+      "write",
+      "list"
+     ],
+     "text": "I have tips for studying. I (1) ................  for about 30 minutes. I study at the same (2) ................  each day. People's brains (3) ................  better if they have a regular routine. It's helpful if you (4) ................  down what you want to do each time you study. Then I check it off the (5) ................  when I finish studying and feel proud!",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "study",
+      "time",
+      "work",
+      "write",
+      "list"
+     ]
+    },
+    {
+     "item_id": "P6:s1:i1",
+     "wordbank": [
+      "United States",
+      "research",
+      "Egypt",
+      "Ain Shams",
+      "Egyptian"
+     ],
+     "text": "Dr. Mostafa El-Sayed is a famous (1) ................  scientist. He was born in (2) ................  in 1933. He studied at (3) ................  University in Cairo. Later, he went to the (4) ................  to continue his scientific (5) ................  .",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "Egyptian",
+      "Egypt",
+      "Ain Shams",
+      "United States",
+      "research"
+     ]
+    },
+    {
+     "item_id": "P6:s1:i2",
+     "wordbank": [
+      "him",
+      "chemistry",
+      "tiny",
+      "idea",
+      "discoveries"
+     ],
+     "text": "Dr. El-Sayed became an expert in (1) ................  and nanoscience. Nanoscience is the study of very (2) ................  things. One of his important (3) ................  is called El-Sayed's Rule. It is a scientific (4) ................  named after (5) ................  .",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "chemistry",
+      "tiny",
+      "discoveries",
+      "idea",
+      "him"
+     ]
+    },
+    {
+     "item_id": "P6:s1:i3",
+     "wordbank": [
+      "cancer",
+      "awards",
+      "proud",
+      "nanoparticles",
+      "Science"
+     ],
+     "text": "Dr. El-Sayed used gold (1) ................  to help doctors detect and treat some types of (2) ................  . He received many important (3) ................  , including the U.S. National Medal of (4) ................  . Egypt is very (5) ................  of him",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "nanoparticles",
+      "cancer",
+      "awards",
+      "Science",
+      "proud"
+     ]
+    },
+    {
+     "item_id": "P6:s1:i4",
+     "wordbank": [
+      "souvenirs",
+      "sites",
+      "juice",
+      "designs"
+     ],
+     "text": "My name is Amir. I usually visit ancient (1) ................  with my friends. I sometimes go there with my family. My father likes to walk through the old streets. There are many beautiful doors and buildings with Arabic (2) ................  . I sometimes buy some (3) ................  . I take photos of the places we visit.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "sites",
+      "designs",
+      "souvenirs"
+     ]
+    },
+    {
+     "item_id": "P6:s1:i5",
+     "wordbank": [
+      "animals",
+      "carries",
+      "birds",
+      "desert",
+      "flows"
+     ],
+     "text": "A river is a source of life. It (1) ................  fresh water to people and (2) ................  through the land, bringing life to the country. Many different kinds of (3) ................  live in its water, and beautiful (4) ................  live near it.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "carries",
+      "flows",
+      "animals",
+      "birds"
+     ]
+    },
+    {
+     "item_id": "P6:s1:i6",
+     "wordbank": [
+      "community",
+      "emergency",
+      "research",
+      "important"
+     ],
+     "text": "Omar lives in a big (1) ................  . He is doing (2) ................  about jobs that help people. A paramedic helps in an (3) ................  . Every job is (4) ................  and helps people live better lives.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "community",
+      "research",
+      "emergency",
+      "important"
+     ]
+    },
+    {
+     "item_id": "P6:s1:i7",
+     "wordbank": [
+      "resources",
+      "dripping",
+      "project",
+      "puddles",
+      "precious"
+     ],
+     "text": "In the school, a tap was always (1) ................  . Water overflowed from a broken pipe and made small (2) ................  . Noor thought water was too (3) ................  to waste. Ahmed said they must take care of their (4) ................  . They wanted to do a (5) ................  to help the school use water wisely.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "dripping",
+      "puddles",
+      "precious",
+      "resources",
+      "project"
+     ]
+    },
+    {
+     "item_id": "P6:s1:i8",
+     "wordbank": [
+      "Ancient",
+      "museum",
+      "tomb",
+      "stories",
+      "discovered"
+     ],
+     "text": "Last week, our class visited a history (1) ................  in Cairo. We learned about (2) ................  Egyptians and their kings. Our teacher told us how archaeologists (3) ................  the tomb of Tutankhamen in 1922. Inside the (4) ................  , they found many treasures and beautiful objects. At the end of the visit, we listened to interesting (5) ................  about life in Ancient Egypt.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "museum",
+      "Ancient",
+      "discovered",
+      "tomb",
+      "stories"
+     ]
+    },
+    {
+     "item_id": "P6:s1:i9",
+     "wordbank": [
+      "archaeologists",
+      "king",
+      "valley",
+      "treasures",
+      "desert"
+     ],
+     "text": "Two years ago, my family visited a famous (1) ................  in Egypt. Long ago, a great (2) ................  was buried there. Many years later, (3) ................  worked in the hot (4) ................  to find his tomb. Inside it, they saw beautiful (5) ................  made of gold and colored stones. Now many people visit the place to learn about Ancient Egypt.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "valley",
+      "king",
+      "archaeologists",
+      "desert",
+      "treasures"
+     ]
+    }
+   ]
+  },
+  {
+   "section_index": 2,
+   "type": "wblines",
+   "instruction": "Complete the sentences with the words from the box:",
+   "items": [
+    {
+     "item_id": "P6:s2:i0",
+     "wordbank": [
+      "landscape",
+      "coral reefs",
+      "culture",
+      "protected",
+      "clean and safe"
+     ],
+     "lines": [
+      "Ras Mohamed is a ................ area, so people must care for it.",
+      "It's important to keep the park ................ .",
+      "People enjoy the quiet and beautiful ................ in Ras Mohamed National Park.",
+      "Ras Mohamed is full of animals, plants, and colorful ................ under its sea.",
+      "Visitors can learn about the ................ of the local people."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "protected",
+      "clean and safe",
+      "landscape",
+      "coral reefs",
+      "culture"
+     ]
+    },
+    {
+     "item_id": "P6:s2:i1",
+     "wordbank": [
+      "spin",
+      "fishermen",
+      "harvest",
+      "fishing nets"
+     ],
+     "lines": [
+      "In the village, some people are ................ .",
+      "In the village, people fish using small ................ .",
+      "Farmers in Salma's village ................ the crops.",
+      "Hassan's family ................ wool and weaves it on looms."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "fishermen",
+      "fishing nets",
+      "harvest",
+      "spin"
+     ]
+    },
+    {
+     "item_id": "P6:s2:i2",
+     "wordbank": [
+      "oil",
+      "grow",
+      "herbs",
+      "water"
+     ],
+     "lines": [
+      "Since ancient times, people used olives to make ................ .",
+      "My brother and I have a plant. We ................ it every day.",
+      "In Egypt, people use ................ like basil in cooking.",
+      "Farmers ................ fruits like guavas and figs."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "oil",
+      "water",
+      "herbs",
+      "grow"
+     ]
+    },
+    {
+     "item_id": "P6:s2:i3",
+     "wordbank": [
+      "change",
+      "panels",
+      "types",
+      "protect",
+      "pollute"
+     ],
+     "lines": [
+      "Gases from cars and buses can ................ the air.",
+      "We must ................ the Earth from pollution.",
+      "Wasting energy causes climate ................ .",
+      "Egypt has lots of sunshine, so using more solar ................ saves money.",
+      "What ................ of energy do people use in Egypt?"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "pollute",
+      "protect",
+      "change",
+      "panels",
+      "types"
+     ]
+    },
+    {
+     "item_id": "P6:s2:i4",
+     "wordbank": [
+      "must",
+      "cars",
+      "metal",
+      "mustn't",
+      "resources"
+     ],
+     "lines": [
+      "You ................ cross the street when the light is red.",
+      "You ................ listen to the teacher carefully.",
+      "Natural ................ are important for Egypt.",
+      "Steel is used for ................ and buildings.",
+      "Gold is a beautiful, yellow, shiny ................ ."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "mustn't",
+      "must",
+      "resources",
+      "cars",
+      "metal"
+     ]
+    },
+    {
+     "item_id": "P6:s2:i5",
+     "wordbank": [
+      "cable",
+      "transportation",
+      "vision",
+      "special",
+      "located"
+     ],
+     "lines": [
+      "Alexandria is ................ on the Mediterranean Sea.",
+      "Egypt's ................ for smart, sustainable cities is achievable.",
+      "The ................ car is one of the main attractions in Al Galala City.",
+      "I want to visit Aswan because it is a ................ place in Egypt.",
+      "The government plans to build more homes, parks, and ................ links."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "located",
+      "vision",
+      "cable",
+      "special",
+      "transportation"
+     ]
+    },
+    {
+     "item_id": "P6:s2:i6",
+     "wordbank": [
+      "kitchen",
+      "village",
+      "moral",
+      "bundle",
+      "invitation"
+     ],
+     "lines": [
+      "Ali sent me a/an ................ to his birthday yesterday.",
+      "The ................ of sticks was hard to break.",
+      "I lived in a small ................ near the Nile, a long time ago.",
+      "My mother cooked dinner and cleaned the ................ .",
+      "The ................ of the story is to work together."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "invitation",
+      "bundle",
+      "village",
+      "kitchen",
+      "moral"
+     ]
+    },
+    {
+     "item_id": "P6:s2:i7",
+     "wordbank": [
+      "must",
+      "cars",
+      "Can",
+      "mustn't",
+      "resources"
+     ],
+     "lines": [
+      "You ................ stop when the light is red.",
+      "Many ................ are made in Egypt nowadays.",
+      "We should make use of our natural ................ .",
+      "We ................ smoke as it's bad for our health.",
+      "................ they do the research? - Yes, they can."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "must",
+      "cars",
+      "resources",
+      "mustn't",
+      "Can"
+     ]
+    }
+   ]
+  },
+  {
+   "section_index": 3,
+   "type": "reading_mcq",
+   "instruction": "Read the text and answer the questions:",
+   "items": [
+    {
+     "item_id": "P6:s3:i0",
+     "passage": "People can enjoy many activities in one day in Egypt. In the morning, tourists visit ancient sites like the pyramids. Then, they walk to a small museum to learn more about history. After that, they go to Khan El Khalili to buy souvenirs such as handmade gifts. Some people like to take photos in beautiful places. At night, people can relax and listen to music. Egypt is a great place to visit and have fun.",
+     "mcq": [
+      {
+       "question": "Tourists go to Khan El Khalili to ................",
+       "options": [
+        "visit ancient sites",
+        "buy souvenirs",
+        "play music",
+        "make furniture"
+       ],
+       "answer": "buy souvenirs"
+      },
+      {
+       "question": "Tourists visit ancient sites in the ................",
+       "options": [
+        "morning",
+        "evening",
+        "night",
+        "afternoon"
+       ],
+       "answer": "morning"
+      }
+     ],
+     "questions": [
+      "What can tourists do in the morning in Egypt?",
+      "Why do people go to Khan El Khalili?",
+      "What can people do at night in Egypt?"
+     ],
+     "model_answers": [
+      "They visit ancient sites like the pyramids.",
+      "To buy souvenirs such as handmade gifts.",
+      "They can relax and listen to music."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "P6:s3:i1",
+     "passage": "The Nile is the longest river in the world. It is about 6,650 kilometers long. The Nile flows through Egypt from south to north. It goes through the desert and brings life to the country. Many animals live in and near the Nile. Big fish like Nile perch and tilapia swim in the water. Crocodiles live in the river too. They are dangerous animals. Many birds come to the river to drink and find food. You can see kingfishers, herons, and ducks near the Nile. The Nile is very important for Egyptian people. In the past, the river flooded and brought good soil.",
+     "mcq": [],
+     "questions": [
+      "The Nile is the longest river in the world.",
+      "The Nile flows from north to east.",
+      "Crocodiles live in the Nile.",
+      "How long is the Nile River?",
+      "Name two fish that live in the Nile."
+     ],
+     "model_answers": [
+      "True",
+      "False (it flows from south to north)",
+      "True",
+      "It is about 6,650 kilometers long.",
+      "Nile perch and tilapia."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "أسئلة (1) إلى (3) عبارات صح/خطأ مطبوعة تحت عنوان الأسئلة في الكتيب. الأسئلة المكتوبة تُراجع مع المدرس."
+    },
+    {
+     "item_id": "P6:s3:i2",
+     "passage": "Tourism is very important to a lot of countries. It gives jobs to local people. It helps tourists learn about new cultures. On the other hand, it can damage the environment. It creates too much carbon dioxide from plane journeys. Tourists can damage the natural environment and historical places. People should try eco-tourism. It looks after wildlife, monuments, and local people.",
+     "mcq": [
+      {
+       "question": "Plane journeys cause a lot of ................",
+       "options": [
+        "pollution",
+        "monuments",
+        "exercise",
+        "station"
+       ],
+       "answer": "pollution"
+      },
+      {
+       "question": "The underlined word \"damage\" means ................",
+       "options": [
+        "save",
+        "keep",
+        "create",
+        "destroy"
+       ],
+       "answer": "destroy"
+      }
+     ],
+     "questions": [
+      "What does tourism damage?",
+      "Why should people try eco-tourism?",
+      "Why is tourism important for countries?"
+     ],
+     "model_answers": [
+      "The natural environment and historical places.",
+      "Because it looks after wildlife, monuments, and local people.",
+      "It gives jobs to local people and helps tourists learn about new cultures."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "P6:s3:i3",
+     "passage": "I'm Omar. Last week, I went to the museum with my family. There were lots of things to see at it. We visited a room with lots of jewelry. There were bracelets, necklaces and rings from Ancient Egypt. After the jewelry, we saw tools and artifacts. The museum was amazing. I like history. We went back home at twelve o'clock.",
+     "mcq": [
+      {
+       "question": "We visited a room with lots of ................",
+       "options": [
+        "jewelry",
+        "books",
+        "chairs",
+        "pens"
+       ],
+       "answer": "jewelry"
+      },
+      {
+       "question": "There were bracelets and ................ from Ancient Egypt",
+       "options": [
+        "dresses",
+        "earrings",
+        "necklaces",
+        "shoes"
+       ],
+       "answer": "necklaces"
+      }
+     ],
+     "questions": [
+      "Where did Omar go last week?",
+      "Were there lots of things to see at the museum?",
+      "Why did Omar enjoy his visit to the museum?"
+     ],
+     "model_answers": [
+      "To the museum.",
+      "Yes, there were.",
+      "Because he likes history and the museum was amazing. (teacher reviews wording)"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "P6:s3:i4",
+     "passage": "We all live in a community and we should all help the people who live in it. When you help as a volunteer, it's a great way to help your community. You can learn new skills, make new friends, and make your neighborhood a better place. We spoke to people in our neighborhood about different ways people can make our community stronger. We can pick up garbage with cousins. Garbage is really annoying. We can use gloves, bags and special sticks to pick up the garbage. The park is a good place to play, so we should keep it clean.",
+     "mcq": [
+      {
+       "question": "The underlined word \"pick up\" means ................",
+       "options": [
+        "boil",
+        "give",
+        "lose",
+        "collect"
+       ],
+       "answer": "collect"
+      },
+      {
+       "question": "We should keep the park ................",
+       "options": [
+        "untidy",
+        "clean",
+        "dirty",
+        "polluted"
+       ],
+       "answer": "clean"
+      }
+     ],
+     "questions": [
+      "How is helping your community very useful for you?",
+      "Give a suitable title for this text",
+      "What can people do to keep the park clean?"
+     ],
+     "model_answers": [
+      "You can learn new skills, make new friends, and make your neighborhood a better place.",
+      "Helping Our Community (teacher reviews the title)",
+      "They can use gloves, bags and special sticks to pick up the garbage."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "P6:s3:i5",
+     "passage": "Children are the men and women of the future; we should begin with good children. We should give children good food, good health and good education. They should be given the chance to practice exercises and sport to build their bodies. We should teach them how to love, give and help. We should set the examples for our children in what we say and what we do.",
+     "mcq": [
+      {
+       "question": "Children need good ................",
+       "options": [
+        "food",
+        "education",
+        "health",
+        "all of these"
+       ],
+       "answer": "all of these"
+      }
+     ],
+     "questions": [
+      "Why should we care about our children?",
+      "What does a child need?",
+      "What is the main idea of the text?"
+     ],
+     "model_answers": [
+      "Because children are the men and women of the future.",
+      "Good food, good health and good education.",
+      "We should take care of children and raise them well. (teacher reviews wording)"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "P6:s3:i6",
+     "passage": "Volcanoes look like mountains. Volcanoes can be called fire mountains. There are a lot of volcanoes in the world. Some are sleeping and some are awake. When the volcano is awake, we say the volcano is active. This means hot rocks come out of the top. This can happen fast or slowly. When the rock is very hot, it is called lava. This rock or lava moves like slow water. It can burn trees, forests and even houses. Scientists try to study volcanoes to know when a volcano erupts. This is important to help people be safe.",
+     "mcq": [
+      {
+       "question": "The text is about ................",
+       "options": [
+        "wonders",
+        "storm-chasers",
+        "volcanoes",
+        "monuments"
+       ],
+       "answer": "volcanoes"
+      },
+      {
+       "question": "Scientists try to know when a volcano ................",
+       "options": [
+        "travels",
+        "erupts",
+        "melts",
+        "dies"
+       ],
+       "answer": "erupts"
+      }
+     ],
+     "questions": [
+      "What do volcanoes look like?",
+      "Why do you think lava is dangerous?",
+      "What is the main idea of the text?"
+     ],
+     "model_answers": [
+      "They look like mountains.",
+      "Because it can burn trees, forests and even houses.",
+      "Volcanoes, and how scientists study them to keep people safe. (teacher reviews wording)"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "P6:s3:i7",
+     "passage": "The sandwich has a long history. In 1750 John Montagu invented the sandwich. He used bread and meat for the first sandwich. He liked to eat a sandwich and play cards. The sandwich is now one of America's favorite foods. In the United States, there is a sandwich shop in every town and you can buy sandwiches at every grocery store.",
+     "mcq": [
+      {
+       "question": "John Montagu used bread and ................ for the first sandwich.",
+       "options": [
+        "cheese",
+        "eggs",
+        "meat",
+        "chicken"
+       ],
+       "answer": "meat"
+      },
+      {
+       "question": "He liked to eat a sandwich and play ................",
+       "options": [
+        "cards",
+        "tennis",
+        "basketball",
+        "football"
+       ],
+       "answer": "cards"
+      }
+     ],
+     "questions": [
+      "When did John Montagu invent the sandwich?",
+      "Where can you buy a sandwich?",
+      "What were the ingredients of the first sandwich?"
+     ],
+     "model_answers": [
+      "In 1750.",
+      "In a sandwich shop or at a grocery store.",
+      "Bread and meat."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "P6:s3:i8",
+     "passage": "Ice cream has a long history. Nancy Johnson invented the first ice cream churn. The first ice cream factory opened in 1851. The first ice cream shop opened in New York in 1876. Now you can buy ice cream at every grocery store. There are a lot of flavors. My favorite flavor is chocolate.",
+     "mcq": [
+      {
+       "question": "Ice cream has a long ................",
+       "options": [
+        "Arabic",
+        "math",
+        "history",
+        "English"
+       ],
+       "answer": "history"
+      },
+      {
+       "question": "There are a lot of ice cream ................",
+       "options": [
+        "flavors",
+        "flour",
+        "favor",
+        "flowers"
+       ],
+       "answer": "flavors"
+      }
+     ],
+     "questions": [
+      "Who invented the first ice cream churn?",
+      "When did the first ice cream factory open?",
+      "Why do people like ice cream today?"
+     ],
+     "model_answers": [
+      "Nancy Johnson.",
+      "In 1851.",
+      "Because there are a lot of flavors. (opinion, teacher reviews)"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "P6:s3:i9",
+     "passage": "We need good food to grow healthy and strong. Scientists who study food are called nutritionists. They say we should eat lots of different vegetables, fruit and nuts. They also advise us to eat lots of grains or food made from grains. Dairy products like milk, cheese and yogurt are good for us. We should eat small amounts of butter or oil. It's advisable to eat some fish, chicken and meat. We shouldn't eat too much sugar or salt. Nutritionists say a variety of food is best. Eating different kinds of food gives your body everything it needs",
+     "mcq": [
+      {
+       "question": "We shouldn't eat too ................ sugar or salt.",
+       "options": [
+        "few",
+        "little",
+        "much",
+        "many"
+       ],
+       "answer": "much"
+      },
+      {
+       "question": "We should eat small amounts of ................",
+       "options": [
+        "fruit",
+        "butter",
+        "grains",
+        "milk"
+       ],
+       "answer": "butter"
+      }
+     ],
+     "questions": [
+      "Who are nutritionists?",
+      "What are dairy products?",
+      "What is the main idea of the text?"
+     ],
+     "model_answers": [
+      "Scientists who study food.",
+      "Milk, cheese and yogurt.",
+      "A variety of food is best. (teacher reviews wording)"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "P6:s3:i10",
+     "passage": "Yesterday our family rode camels into the Sahara Desert. It was an amazing journey. It was cold when we left the hotel at half past five in the morning. It was also very dark and it was hard to see camels. A camel driver helped me to climb onto a wooden saddle and then the camels walked into the desert in a line. It was very quiet. Even camels' feet were quiet in the sand. We stopped at the top of a sand dune. The camel drivers made tea for us. We returned to the hotel before it got hot.",
+     "mcq": [
+      {
+       "question": "They left the hotel at ................",
+       "options": [
+        "5:15",
+        "4:30",
+        "5:50",
+        "5:30"
+       ],
+       "answer": "5:30"
+      },
+      {
+       "question": "The ................ made tea for them.",
+       "options": [
+        "camel drivers",
+        "waiters",
+        "girls",
+        "women"
+       ],
+       "answer": "camel drivers"
+      }
+     ],
+     "questions": [
+      "Where did the writer's family ride camels?",
+      "How did camels walk?",
+      "Do you like camels? Why?"
+     ],
+     "model_answers": [
+      "Into the Sahara Desert.",
+      "In a line, very quietly.",
+      "Opinion. (teacher reviews)"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "P6:s3:i11",
+     "passage": "Energy is something we all need every day to light our homes, cook, watch TV, and charge our phones. In Egypt, we use electricity, gas, and solar power. But energy is not endless, so we must use it wisely. Some energy comes from nature, like solar and wind, which are clean and do not pollute. Egypt has lots of sunshine, so using more solar panels saves money and helps the planet. Other energy types, like oil and gas, can harm the Earth. We can save energy by turning off lights and devices when not in use and walking or biking short distances. Wasting energy causes climate change, which affects animals and their homes. Small daily actions can make a big difference.",
+     "mcq": [
+      {
+       "question": "The main idea of the text is how to ................ energy.",
+       "options": [
+        "waste",
+        "save",
+        "lose",
+        "sell"
+       ],
+       "answer": "save"
+      },
+      {
+       "question": "The underlined word \"pollute\" means ................",
+       "options": [
+        "make dirty",
+        "make bright",
+        "make quiet",
+        "make strong"
+       ],
+       "answer": "make dirty"
+      }
+     ],
+     "questions": [
+      "What types of energy do people use in Egypt?",
+      "How can we save energy at home or outside?",
+      "How does wasting energy affect the Earth and animals?"
+     ],
+     "model_answers": [
+      "Electricity, gas, and solar power.",
+      "By turning off lights and devices when not in use and walking or biking short distances.",
+      "It causes climate change, which affects animals and their homes."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "P6:s3:i12",
+     "passage": "Egypt has many valuable things under the ground called minerals. They are very important for our country. Egypt has oil, natural gas, gold, and iron. Oil and gas are used for cooking, heating, and making electricity. Gold is a shiny yellow metal used to make jewelry. Iron is a strong metal used to build buildings and cars. These natural resources help Egypt grow and have a better future for everyone.",
+     "mcq": [
+      {
+       "question": "Minerals in Egypt are ................ for our country.",
+       "options": [
+        "useless",
+        "late",
+        "important",
+        "dirty"
+       ],
+       "answer": "important"
+      },
+      {
+       "question": "The underlined word \"shiny\" means ................",
+       "options": [
+        "very dark",
+        "bright",
+        "cold",
+        "soft"
+       ],
+       "answer": "bright"
+      }
+     ],
+     "questions": [
+      "What minerals are found in Egypt?",
+      "What is gold used for?",
+      "Why are natural resources important for Egypt?"
+     ],
+     "model_answers": [
+      "Oil, natural gas, gold, and iron.",
+      "To make jewelry.",
+      "They help Egypt grow and have a better future for everyone."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "P6:s3:i13",
+     "passage": "The Grand Egyptian Museum in Giza is one of the newest places to visit in Egypt. It is close to the pyramids, so visitors can see both the museum and the pyramids on the same day. Inside the museum, people can see statues, jewelry, tools, and mummies from ancient Egypt. There is an information desk where visitors can ask questions and get maps. The museum also has smart screens and shows that help people learn in a fun way. Families can buy souvenirs in the gift shop and eat in the restaurant after their visit.",
+     "mcq": [
+      {
+       "question": "The Grand Egyptian Museum is in ................",
+       "options": [
+        "Luxor",
+        "Giza",
+        "Aswan",
+        "Alexandria"
+       ],
+       "answer": "Giza"
+      },
+      {
+       "question": "Visitors can buy souvenirs in the ................",
+       "options": [
+        "classroom",
+        "library",
+        "gift shop",
+        "ticket office"
+       ],
+       "answer": "gift shop"
+      }
+     ],
+     "questions": [
+      "Where is the Grand Egyptian Museum?",
+      "What can people see inside the museum?",
+      "What can families do after they finish visiting the museum?"
+     ],
+     "model_answers": [
+      "In Giza, close to the pyramids.",
+      "Statues, jewelry, tools, and mummies from ancient Egypt.",
+      "They can buy souvenirs in the gift shop and eat in the restaurant."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "P6:s3:i14",
+     "passage": "A long time ago, a farmer lived with his three sons in a small village. The sons argued and fought every day about small things. The farmer wanted to teach them a lesson. One day, he asked them to bring some sticks. He tied the sticks into a bundle and gave it to his eldest son. The son tried to break the bundle but he could not. The other sons also tried, but the bundle stayed strong. Then the farmer untied the sticks and gave one stick to each son. This time, they broke the sticks easily. The farmer told them that they were like the sticks. If they stayed together, no one could hurt them. If they fought and stayed alone, they would be weak. The sons understood the lesson and decided to live in peace and unity.",
+     "mcq": [
+      {
+       "question": "The farmer wanted to teach his sons about ................",
+       "options": [
+        "strength in unity",
+        "working on a farm",
+        "making a fire",
+        "growing trees"
+       ],
+       "answer": "strength in unity"
+      },
+      {
+       "question": "The underlined word \"argued\" means ................",
+       "options": [
+        "played happily",
+        "talked quietly",
+        "shouted and disagreed",
+        "slept early"
+       ],
+       "answer": "shouted and disagreed"
+      }
+     ],
+     "questions": [
+      "Why did the farmer feel unhappy with his sons?",
+      "What happened when the farmer gave each son one stick?",
+      "How did the sons change after they understood the farmer's lesson?"
+     ],
+     "model_answers": [
+      "Because they argued and fought every day about small things.",
+      "They broke the sticks easily.",
+      "They decided to live in peace and unity."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "P6:s3:i15",
+     "passage": "Egypt is a sunny country, making it ideal for solar energy. One important project is Benban Solar Park near Aswan. It is one of the largest solar stations in the world. The park uses millions of solar panels to make clean electricity for homes, schools, hospitals, and factories. Benban also creates many jobs for engineers, builders, and local workers. This helps families in Upper Egypt earn money and have a better life. By using the power of the sun instead of oil and gas, Benban reduces pollution and protects the environment. It is a proud step toward a greener future for Egypt.",
+     "mcq": [
+      {
+       "question": "Benban Solar Park is near ................",
+       "options": [
+        "Cairo",
+        "Aswan",
+        "Luxor",
+        "Alexandria"
+       ],
+       "answer": "Aswan"
+      },
+      {
+       "question": "Benban helps Egypt by ................",
+       "options": [
+        "cutting down trees",
+        "using more oil",
+        "making clean electricity and jobs",
+        "closing schools"
+       ],
+       "answer": "making clean electricity and jobs"
+      }
+     ],
+     "questions": [
+      "Why is Benban Solar Park important for Egypt?",
+      "How does Benban Solar Park help people who live in Upper Egypt?",
+      "Why is using the sun better than using oil and gas for energy?"
+     ],
+     "model_answers": [
+      "It makes clean electricity and creates many jobs.",
+      "It creates jobs, so families earn money and have a better life.",
+      "It reduces pollution and protects the environment."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    }
+   ]
+  },
+  {
+   "section_index": 4,
+   "type": "plain",
+   "instruction": "Read and write the correct form of the word(s) between brackets:",
+   "items": [
+    {
+     "item_id": "P6:s4:i0",
+     "text": "Ibrahim ................ (travel) to a different country every year.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "travels",
+     "accept": [
+      "travels"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i1",
+     "text": "(Does) Remas and Aseel go to work by bus?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Do",
+     "accept": [
+      "Do"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i2",
+     "text": "Lama ................ (don't) study in the afternoon.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "doesn't",
+     "accept": [
+      "doesn't",
+      "does not"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i3",
+     "text": "How ................ (do) Yossif get ready for the exam?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "does",
+     "accept": [
+      "does"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i4",
+     "text": "She ................ (usually) eats meat. She hates it very much.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "never",
+     "accept": [
+      "never"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i5",
+     "text": "Ahmed ................ (walk) to school every day.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "walks",
+     "accept": [
+      "walks"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i6",
+     "text": "Asmaa ................ (visited) us every week.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "visits",
+     "accept": [
+      "visits"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i7",
+     "text": "The moon ................ (go) round the earth.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "goes",
+     "accept": [
+      "goes"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i8",
+     "text": "Sama often ................ (do) her homework at six.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "does",
+     "accept": [
+      "does"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i9",
+     "text": "I sometimes ................ (sweeps) the floor.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "sweep",
+     "accept": [
+      "sweep"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i10",
+     "text": "She always ................ (make) her bed.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "makes",
+     "accept": [
+      "makes"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i11",
+     "text": "He never ................ (went) to school late.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "goes",
+     "accept": [
+      "goes"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i12",
+     "text": "We always ................ (playing) football at seven on Friday.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "play",
+     "accept": [
+      "play"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i13",
+     "text": "Every morning, Ahmed ................ (drink) a cup of tea.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "drinks",
+     "accept": [
+      "drinks"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i14",
+     "text": "What time ................ (does) you leave for school every day?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "do",
+     "accept": [
+      "do"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i15",
+     "text": "He never ................ (play) tennis.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "plays",
+     "accept": [
+      "plays"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i16",
+     "text": "She often ................ (study) English.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "studies",
+     "accept": [
+      "studies"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i17",
+     "text": "The sun ................ (giving) us light.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "gives",
+     "accept": [
+      "gives"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i18",
+     "text": "I usually ................ (am reading) stories at night.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "read",
+     "accept": [
+      "read"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i19",
+     "text": "(Do) he visit you every day?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Does",
+     "accept": [
+      "Does"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i20",
+     "text": "Mohamed ................ (play) tennis in the club now.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "is playing",
+     "accept": [
+      "is playing"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i21",
+     "text": "you ................ (eat) your lunch at the moment?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+    },
+    {
+     "item_id": "P6:s4:i22",
+     "text": "I ................ (not wear) my jacket. It's hot.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+    },
+    {
+     "item_id": "P6:s4:i23",
+     "text": "My friend and I ................ (visit) London now.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "are visiting",
+     "accept": [
+      "are visiting"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i24",
+     "text": "Ahmed ................ (clean) his room right now.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "is cleaning",
+     "accept": [
+      "is cleaning"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i25",
+     "text": "She ................ (not can) walk to school.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "can't",
+     "accept": [
+      "can't",
+      "cannot"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i26",
+     "text": "I am ................ (able) run fast.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "able to",
+     "accept": [
+      "able to"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i27",
+     "text": "(Can't) they do the research? - Yes, they can.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Can",
+     "accept": [
+      "Can"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i28",
+     "text": "(Do) they able to tidy the flat?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Are",
+     "accept": [
+      "Are"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i29",
+     "text": "Ancient Egyptians ................ (use) linen to wrap mummies.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "used",
+     "accept": [
+      "used"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i30",
+     "text": "We use colored stones to ................ (made) beautiful jewelry.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "make",
+     "accept": [
+      "make"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i31",
+     "text": "We use solar panels to get energy ................ (for) the sun.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "from",
+     "accept": [
+      "from"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i32",
+     "text": "We ................ (has) many temples that we can visit.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "have",
+     "accept": [
+      "have"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i33",
+     "text": "Egyptians used papyrus to ................ (writing) on.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "write",
+     "accept": [
+      "write"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i34",
+     "text": "They ................ (paint) their house yesterday.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "painted",
+     "accept": [
+      "painted"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i35",
+     "text": "Ali ................ (not be) at school yesterday.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "wasn't",
+     "accept": [
+      "wasn't",
+      "was not"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i36",
+     "text": "I ................ (have) dinner an hour ago.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "had",
+     "accept": [
+      "had"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i37",
+     "text": "(Do) you enjoy the trip last week?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Did",
+     "accept": [
+      "Did"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i38",
+     "text": "We go to Alex to enjoy its ................ (peace) environment.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "peaceful",
+     "accept": [
+      "peaceful"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i39",
+     "text": "Omar is ................ (interesting) in English.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "interested",
+     "accept": [
+      "interested"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i40",
+     "text": "The film was so ................ (bored). I didn't like it.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "boring",
+     "accept": [
+      "boring"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i41",
+     "text": "Let's ................ (visited) the museum next Friday.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "visit",
+     "accept": [
+      "visit"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i42",
+     "text": "I ................ (doesn't) watch the show yesterday.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "didn't",
+     "accept": [
+      "didn't",
+      "did not"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i43",
+     "text": "They ................ (watches) a movie last night.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "watched",
+     "accept": [
+      "watched"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i44",
+     "text": "We ................ (visit) Al Galala City last year.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "visited",
+     "accept": [
+      "visited"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i45",
+     "text": "She ................ (see) the beautiful gardens.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "saw",
+     "accept": [
+      "saw"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i46",
+     "text": "My friend ................ (not go) to the museum.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "didn't go",
+     "accept": [
+      "didn't go",
+      "did not go"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i47",
+     "text": "I ................ (enjoy) the trip a lot.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "enjoyed",
+     "accept": [
+      "enjoyed"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i48",
+     "text": "He ................ (choose) the wrong way.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "chose",
+     "accept": [
+      "chose"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i49",
+     "text": "Nada ................ (not) play tennis every day.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "doesn't play",
+     "accept": [
+      "doesn't play",
+      "does not play"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i50",
+     "text": "(Does) you usually watch football matches?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Do",
+     "accept": [
+      "Do"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i51",
+     "text": "They always ................ (tidies) the kitchen for their mum.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "tidy",
+     "accept": [
+      "tidy"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i52",
+     "text": "The club ................ (close) at 11:00 pm.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "closes",
+     "accept": [
+      "closes"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i53",
+     "text": "It is very cheap; it ................ (don't) cost much.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "doesn't",
+     "accept": [
+      "doesn't",
+      "does not"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i54",
+     "text": "(Be) Omer happy now?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Is",
+     "accept": [
+      "Is"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i55",
+     "text": "Aisha never ................ (drink) tea at night.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "drinks",
+     "accept": [
+      "drinks"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i56",
+     "text": "Eman ................ (goes always) to work early.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "always goes",
+     "accept": [
+      "always goes"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i57",
+     "text": "The sun ................ (shine) brightly today.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "shines",
+     "accept": [
+      "shines",
+      "is shining"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i58",
+     "text": "She ................ (close) the window because it's raining.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+    },
+    {
+     "item_id": "P6:s4:i59",
+     "text": "Nora ................ (not study) for the test. She is watching TV.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "isn't studying",
+     "accept": [
+      "isn't studying",
+      "is not studying"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i60",
+     "text": "Are the birds ................ (fly) in the sky?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "flying",
+     "accept": [
+      "flying"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i61",
+     "text": "Why ................ (do) they not revising hard?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "are",
+     "accept": [
+      "are"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i62",
+     "text": "We ................ (celebrate) my sister's birthday tonight.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "are celebrating",
+     "accept": [
+      "are celebrating"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i63",
+     "text": "(Do) your aunts visiting you tonight?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Are",
+     "accept": [
+      "Are"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i64",
+     "text": "He ................ (water) the flowers in the garden at the moment.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "is watering",
+     "accept": [
+      "is watering"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i65",
+     "text": "She ................ (not can) help her community alone.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "can't",
+     "accept": [
+      "can't",
+      "cannot"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i66",
+     "text": "They are ................ (able) solve the problem.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "able to",
+     "accept": [
+      "able to"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i67",
+     "text": "(Can) you help your neighbors?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Can",
+     "accept": [
+      "Can"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i68",
+     "text": "He ................ (work) as a mechanic in the city.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "works",
+     "accept": [
+      "works"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i69",
+     "text": "We ................ (not waste) water every day.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "don't waste",
+     "accept": [
+      "don't waste",
+      "do not waste"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i70",
+     "text": "She is ................ (able) ride a bike safely.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "able to",
+     "accept": [
+      "able to"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i71",
+     "text": "The traffic officer ................ (help) people every day.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "helps",
+     "accept": [
+      "helps"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i72",
+     "text": "They ................ (make) posters to help the community.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "make",
+     "accept": [
+      "make"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i73",
+     "text": "Did the Ancient Egyptians ................ (used) linen to wrap mummies?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "use",
+     "accept": [
+      "use"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i74",
+     "text": "She ................ (must) talk loudly in the class.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "mustn't",
+     "accept": [
+      "mustn't"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i75",
+     "text": "I am ................ (able) drive a car.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "able to",
+     "accept": [
+      "able to"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i76",
+     "text": "Egypt ................ (have) many temples that you can visit.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "has",
+     "accept": [
+      "has"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i77",
+     "text": "People from all over the world ................ (visit) Ras Mohamed every year.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "visit",
+     "accept": [
+      "visit"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i78",
+     "text": "My sister ................ (not walk) to school because it is far away.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "doesn't walk",
+     "accept": [
+      "doesn't walk",
+      "does not walk"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i79",
+     "text": "Yesterday, the students ................ (go) on a trip to Wadi El Rayan.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "went",
+     "accept": [
+      "went"
+     ]
+    },
+    {
+     "item_id": "P6:s4:i80",
+     "text": "The Nile ................ (provide) farmers with water to grow crops.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "provides",
+     "accept": [
+      "provides"
+     ]
+    }
+   ]
+  },
+  {
+   "section_index": 5,
+   "type": "punctuate",
+   "instruction": "Punctuate the following sentences:",
+   "items": [
+    {
+     "item_id": "P6:s5:i0",
+     "text": "what is omar working on",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "What is Omar working on?"
+    },
+    {
+     "item_id": "P6:s5:i1",
+     "text": "the ancient egyptians used papyrus for writing",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "The ancient Egyptians used papyrus for writing.",
+     "accept": [
+      "The ancient Egyptians used papyrus for writing.",
+      "The Ancient Egyptians used papyrus for writing."
+     ]
+    },
+    {
+     "item_id": "P6:s5:i2",
+     "text": "linen is made from flax",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "Linen is made from flax."
+    },
+    {
+     "item_id": "P6:s5:i3",
+     "text": "we are good citizens",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "We are good citizens."
+    },
+    {
+     "item_id": "P6:s5:i4",
+     "text": "lets work together",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "Let's work together."
+    },
+    {
+     "item_id": "P6:s5:i5",
+     "text": "can you ask a question",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "Can you ask a question?"
+    },
+    {
+     "item_id": "P6:s5:i6",
+     "text": "we read the story in class",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "We read the story in class."
+    },
+    {
+     "item_id": "P6:s5:i7",
+     "text": "they made a poster about the earth",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "They made a poster about the Earth.",
+     "accept": [
+      "They made a poster about the earth."
+     ]
+    },
+    {
+     "item_id": "P6:s5:i8",
+     "text": "did Hany play football yesterday",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "Did Hany play football yesterday?"
+    },
+    {
+     "item_id": "P6:s5:i9",
+     "text": "Yes, there is a bank in aswan",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "Yes, there is a bank in Aswan."
+    },
+    {
+     "item_id": "P6:s5:i10",
+     "text": "He cant run very fast",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "He can't run very fast."
+    },
+    {
+     "item_id": "P6:s5:i11",
+     "text": "noor ahmed and farida were always looking for ways to help",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "Noor, Ahmed and Farida were always looking for ways to help.",
+     "accept": [
+      "Noor, Ahmed, and Farida were always looking for ways to help."
+     ]
+    },
+    {
+     "item_id": "P6:s5:i12",
+     "text": "lets do something about it we can be water savers",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "Let's do something about it. We can be water savers.",
+     "accept": [
+      "Let's do something about it! We can be water savers.",
+      "Let's do something about it; we can be Water Savers.",
+      "Let's do something about it. We can be Water Savers.",
+      "Let's do something about it! We can be Water Savers.",
+      "Let's do something about it; we can be water savers."
+     ]
+    },
+    {
+     "item_id": "P6:s5:i13",
+     "text": "one poster said every drop counts fix leaks fast",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "One poster said, \"Every drop counts. Fix leaks fast.\"",
+     "accept": [
+      "One poster said: \"Every drop counts. Fix leaks fast!\"",
+      "One poster said, \"Every drop counts. Fix leaks fast!\"",
+      "One poster said: \"Every drop counts. Fix leaks fast.\"",
+      "One poster said, Every drop counts. Fix leaks fast.",
+      "One poster said: Every drop counts. Fix leaks fast."
+     ]
+    },
+    {
+     "item_id": "P6:s5:i14",
+     "text": "why do you care about water so much its just a few drops",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "Why do you care about water so much? It's just a few drops.",
+     "accept": [
+      "Why do you care about water so much? It's just a few drops!"
+     ]
+    },
+    {
+     "item_id": "P6:s5:i15",
+     "text": "last thursday our class went to wadi el rayan",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "Last Thursday our class went to Wadi El Rayan.",
+     "accept": [
+      "Last Thursday our class went to Wadi El Rayan.",
+      "Last Thursday, our class went to Wadi El Rayan."
+     ]
+    },
+    {
+     "item_id": "P6:s5:i16",
+     "text": "where do farmers get water for their fields",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "Where do farmers get water for their fields?"
+    },
+    {
+     "item_id": "P6:s5:i17",
+     "text": "my sister dosen t work in Cairo",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "My sister doesn't work in Cairo.",
+     "source_note": "printed as \"dosen t\" in the booklet"
+    },
+    {
+     "item_id": "P6:s5:i18",
+     "text": "what animals did the students see near the lake",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "strict_case": true,
+     "strict_punctuation": true,
+     "answer": "What animals did the students see near the lake?"
+    }
+   ]
+  },
+  {
+   "section_index": 6,
+   "type": "reorder",
+   "instruction": "Put the words in the correct order to make sentences:",
+   "items": [
+    {
+     "item_id": "P6:s6:i0",
+     "text": "plants - every - water - day - We",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "We water plants every day."
+    },
+    {
+     "item_id": "P6:s6:i1",
+     "text": "garden - weeds - I - the - from - pull out",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I pull out weeds from the garden."
+    },
+    {
+     "item_id": "P6:s6:i2",
+     "text": "grow - Farmers - fruits - many",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Farmers grow many fruits."
+    },
+    {
+     "item_id": "P6:s6:i3",
+     "text": "herbs - cooking - in - use - People",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "People use herbs in cooking."
+    },
+    {
+     "item_id": "P6:s6:i4",
+     "text": "check - I - insects - plants - the - on",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I check insects on the plants.",
+     "accept": [
+      "I check the insects on plants.",
+      "I check the plants for insects."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i5",
+     "text": "windy - is - Alexandria - and - rainy",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Alexandria is windy and rainy.",
+     "accept": [
+      "Alexandria is windy and rainy.",
+      "Alexandria is rainy and windy."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i6",
+     "text": "sunny - Cairo - warm - and - is",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Cairo is sunny and warm.",
+     "accept": [
+      "Cairo is sunny and warm.",
+      "Cairo is warm and sunny."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i7",
+     "text": "drink - People - water - hot - when - it's",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "People drink water when it's hot.",
+     "accept": [
+      "People drink water when it's hot.",
+      "When it's hot, people drink water.",
+      "When it's hot people drink water."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i8",
+     "text": "Farmers - early - plants - water - morning - in - the",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Farmers water plants early in the morning.",
+     "accept": [
+      "Farmers water plants early in the morning.",
+      "Early in the morning, farmers water plants.",
+      "Early in the morning farmers water plants."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i9",
+     "text": "live - Crocodiles - in - river - the.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Crocodiles live in the river."
+    },
+    {
+     "item_id": "P6:s6:i10",
+     "text": "Nile - longest - the - river - is - The - world - in - the",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "The Nile is the longest river in the world.",
+     "accept": [
+      "The Nile is the longest river in the world."
+     ],
+     "source_note": "one \"the\" was missing from the printed words; it is added here"
+    },
+    {
+     "item_id": "P6:s6:i11",
+     "text": "animals - Many - live - the - near - Nile",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Many animals live near the Nile."
+    },
+    {
+     "item_id": "P6:s6:i12",
+     "text": "Farmers - food - grow - soil - good - in",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Farmers grow food in good soil."
+    },
+    {
+     "item_id": "P6:s6:i13",
+     "text": "People - the - river - use - travel - to",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "People use the river to travel."
+    },
+    {
+     "item_id": "P6:s6:i14",
+     "text": "Ancient - built - Egyptians - temples - near - river - the",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Ancient Egyptians built temples near the river."
+    },
+    {
+     "item_id": "P6:s6:i15",
+     "text": "students - went - to - Wadi El Rayan - The",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "The students went to Wadi El Rayan."
+    },
+    {
+     "item_id": "P6:s6:i16",
+     "text": "left - They - school - early - in - the - morning",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "They left school early in the morning.",
+     "accept": [
+      "They left school early in the morning.",
+      "In the morning, they left school early.",
+      "In the morning they left school early.",
+      "Early in the morning, they left school.",
+      "Early in the morning they left school."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i17",
+     "text": "saw - They - sand dunes - and - camels",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "They saw sand dunes and camels.",
+     "accept": [
+      "They saw sand dunes and camels.",
+      "They saw camels and sand dunes."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i18",
+     "text": "a - guide - kind - showed - them - The - lakes",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+    },
+    {
+     "item_id": "P6:s6:i19",
+     "text": "The - park - protects - rare - animals - and - plants",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "The park protects rare animals and plants.",
+     "accept": [
+      "The park protects rare animals and plants.",
+      "The park protects rare plants and animals.",
+      "The park protects plants and rare animals."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i20",
+     "text": "They - rode - the - bus - for - two - hours",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "They rode the bus for two hours."
+    },
+    {
+     "item_id": "P6:s6:i21",
+     "text": "saw - They - the - waterfalls - and - palm trees",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "They saw the waterfalls and palm trees.",
+     "accept": [
+      "They saw the waterfalls and palm trees.",
+      "They saw palm trees and the waterfalls."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i22",
+     "text": "after - lunch - They - visited - the - desert",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "They visited the desert after lunch.",
+     "accept": [
+      "After lunch they visited the desert.",
+      "After lunch, they visited the desert."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i23",
+     "text": "Scientists - found - skeletons - of - ancient - whales",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Scientists found skeletons of ancient whales."
+    },
+    {
+     "item_id": "P6:s6:i24",
+     "text": "They - saw - a - fossil - museum",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "They saw a fossil museum."
+    },
+    {
+     "item_id": "P6:s6:i25",
+     "text": "take - wanted - a - I - picture - to",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I wanted to take a picture."
+    },
+    {
+     "item_id": "P6:s6:i26",
+     "text": "not - with - My - was - me - camera",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "My camera was not with me."
+    },
+    {
+     "item_id": "P6:s6:i27",
+     "text": "everywhere - looked - I - for - it",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I looked everywhere for it.",
+     "accept": [
+      "I looked everywhere for it.",
+      "I looked for it everywhere."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i28",
+     "text": "under - found - it - Mr. Ahmed - the - bench",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Mr. Ahmed found it under the bench."
+    },
+    {
+     "item_id": "P6:s6:i29",
+     "text": "fun - The - and - trip - was - exciting",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "The trip was fun and exciting.",
+     "accept": [
+      "The trip was fun and exciting.",
+      "The trip was exciting and fun."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i30",
+     "text": "play - We - outside - can - tennis.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "We can play tennis outside."
+    },
+    {
+     "item_id": "P6:s6:i31",
+     "text": "speak - well - Hassan's - English - able to - very.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Hassan's able to speak English very well."
+    },
+    {
+     "item_id": "P6:s6:i32",
+     "text": "able to - She - draw - is - beautifully.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "She is able to draw beautifully."
+    },
+    {
+     "item_id": "P6:s6:i33",
+     "text": "countries - other - Egypt - oil - sells - to",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Egypt sells oil to other countries."
+    },
+    {
+     "item_id": "P6:s6:i34",
+     "text": "ground - valuable - many - the - under - has - things - Egypt",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Egypt has many valuable things under the ground."
+    },
+    {
+     "item_id": "P6:s6:i35",
+     "text": "We - lights - should - off - turn - don't - them - need - we - when",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "We should turn lights off when we don't need them.",
+     "accept": [
+      "We should turn off lights when we don't need them.",
+      "When we don't need them, we should turn lights off.",
+      "When we don't need them we should turn lights off.",
+      "When we don't need them, we should turn off lights.",
+      "When we don't need them we should turn off lights."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i36",
+     "text": "black - is - Oil - a - liquid",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Oil is a black liquid."
+    },
+    {
+     "item_id": "P6:s6:i37",
+     "text": "mustn't - electrical - touch - You - wires",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "You mustn't touch electrical wires."
+    },
+    {
+     "item_id": "P6:s6:i38",
+     "text": "Earth - from - must - pollution - protect - We - the",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "We must protect the Earth from pollution."
+    },
+    {
+     "item_id": "P6:s6:i39",
+     "text": "listen - carefully - must - to - teacher - the - You",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "You must listen carefully to the teacher.",
+     "accept": [
+      "You must listen carefully to the teacher.",
+      "You must listen to the teacher carefully."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i40",
+     "text": "us - healthy - biking - keeps - Walking - or",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Walking or biking keeps us healthy.",
+     "accept": [
+      "Walking or biking keeps us healthy.",
+      "Biking or walking keeps us healthy."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i41",
+     "text": "oil - do - Egypt - find - we - Where - in",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Where do we find oil in Egypt?"
+    },
+    {
+     "item_id": "P6:s6:i42",
+     "text": "used - write - papyrus - to - on - The - Egyptians",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "The Egyptians used papyrus to write on."
+    },
+    {
+     "item_id": "P6:s6:i43",
+     "text": "shouldn't - hands - washing - water - your - You - while - waste",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "You shouldn't waste water while washing your hands."
+    },
+    {
+     "item_id": "P6:s6:i44",
+     "text": "brush - Don't - water - your - waste - teeth - you - when",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Don't waste water when you brush your teeth."
+    },
+    {
+     "item_id": "P6:s6:i45",
+     "text": "To - time - a - exist - long - continue - is - survive - to - for",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+    },
+    {
+     "item_id": "P6:s6:i46",
+     "text": "buses - Gases - the - from - air - and - can - pollute - cars",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Gases from cars and buses can pollute the air.",
+     "accept": [
+      "Gases from cars and buses can pollute the air.",
+      "Gases from buses and cars can pollute the air."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i47",
+     "text": "energy - What - people - Egypt - in - types - do - use - of",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "What types of energy do people use in Egypt?"
+    },
+    {
+     "item_id": "P6:s6:i48",
+     "text": "really - I'm - in - interested - Egypt - ancient.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I'm really interested in ancient Egypt."
+    },
+    {
+     "item_id": "P6:s6:i49",
+     "text": "did - Where - old - the - man - live?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Where did the old man live?"
+    },
+    {
+     "item_id": "P6:s6:i50",
+     "text": "much - oil - How - we - perfume - need - do?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+    },
+    {
+     "item_id": "P6:s6:i51",
+     "text": "on - a science - had - We - class - Monday.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "We had a science class on Monday."
+    },
+    {
+     "item_id": "P6:s6:i52",
+     "text": "Farida made bright posters with messages like \"Every drop counts. Fix leaks fast!\".",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i53",
+     "text": "The three friends walked around the school with a notebook, a camera and curious eyes.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i54",
+     "text": "Noor wrote down all the water problems she saw, like leaky taps and running water.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i55",
+     "text": "Ahmed used his tablet to take photos of the problems.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i56",
+     "text": "They decided to use their notes and photos later in presentations about saving water",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i57",
+     "text": "Mr. Youssef explained that a small drip could waste liters of water each day.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i58",
+     "text": "The children spoke to the school cleaner, Mr. Youssef.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i59",
+     "text": "He was surprised but pleased to see the students taking action.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i60",
+     "text": "They watched him as he fixed a leaking sink.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i61",
+     "text": "The children listened carefully and learned a lot from him.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i62",
+     "text": "Some classes had mini-challenges to see who could save the most water.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i63",
+     "text": "The school hung their posters in bathrooms, classrooms and near garden taps.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i64",
+     "text": "Soon, their message about saving water began to spread.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i65",
+     "text": "Teachers spent a few minutes each day talking about how to save water.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i66",
+     "text": "The head teacher gave Noor, Ahmed and Farida certificates of achievement",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s6:i67",
+     "text": "ride - Friday - will - on - He - a - bike.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "He will ride a bike on Friday."
+    },
+    {
+     "item_id": "P6:s6:i68",
+     "text": "want - he - Where - to - did - go?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Where did he want to go?"
+    },
+    {
+     "item_id": "P6:s6:i69",
+     "text": "the - can - beach - Alexandria - We - to - go - in.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "We can go to the beach in Alexandria."
+    },
+    {
+     "item_id": "P6:s6:i70",
+     "text": "every - visit - year - people - Ras Mohamed",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "People visit Ras Mohamed every year.",
+     "accept": [
+      "People visit Ras Mohamed every year.",
+      "Every year, people visit Ras Mohamed.",
+      "Every year people visit Ras Mohamed."
+     ]
+    },
+    {
+     "item_id": "P6:s6:i71",
+     "text": "early - Farmers - water - their plants - in the morning",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Farmers water their plants early in the morning."
+    },
+    {
+     "item_id": "P6:s6:i72",
+     "text": "had - the spring - We - night - last - performance.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "We had the spring performance last night."
+    },
+    {
+     "item_id": "P6:s6:i73",
+     "text": "black - hibernate - Do - bears - the winter - in?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Do black bears hibernate in the winter?"
+    }
+   ]
+  },
+  {
+   "section_index": 7,
+   "type": "qlines",
+   "instruction": "Answer the following questions about the story 'The Water Savers':",
+   "items": [
+    {
+     "item_id": "P6:s7:i0",
+     "text": "Where did the children see water being wasted?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "At school: a dripping tap and a broken pipe in the garden.",
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "P6:s7:i1",
+     "text": "What name did Farida give to their group?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "The Water Savers.",
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "P6:s7:i2",
+     "text": "How did the teacher react when they told her their plan?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "الإجابة غير موجودة في الكتيب المطبوع، يراجعها المدرس."
+    },
+    {
+     "item_id": "P6:s7:i3",
+     "text": "Why did Noor feel sad when she saw the dripping tap?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "She thought the water drops were too precious to waste.",
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "P6:s7:i4",
+     "text": "What did Ahmed think about wasting water?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "They must take care of their resources.",
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "P6:s7:i5",
+     "text": "What idea did Farida have to help the school?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "To make bright and cheerful posters / do a project to help the school use water wisely.",
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "P6:s7:i6",
+     "text": "How did the teacher react to their plan?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "الإجابة غير موجودة في الكتيب المطبوع، يراجعها المدرس."
+    },
+    {
+     "item_id": "P6:s7:i7",
+     "text": "Do you think you can be a \"Water Saver\" at your school or home? How?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s7:i8",
+     "text": "How did the children try to find and record water problems at school?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "They walked around the school with a notebook, a camera and curious eyes. Noor wrote down the problems and Ahmed took photos.",
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "P6:s7:i9",
+     "text": "What messages did the posters give to other students?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "Every drop counts. Fix leaks fast!",
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "P6:s7:i10",
+     "text": "What did Mr. Youssef teach them about a small drip?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "A small drip could waste liters of water each day.",
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "P6:s7:i11",
+     "text": "How did Noor answer the classmate who said, \"It's just a few drops\"?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "الإجابة غير موجودة في الكتيب المطبوع، يراجعها المدرس."
+    },
+    {
+     "item_id": "P6:s7:i12",
+     "text": "What changes happened at the school because of their work?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "Posters were hung in the school, classes had mini-challenges, and teachers talked about saving water.",
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+    }
+   ]
+  },
+  {
+   "section_index": 8,
+   "type": "paragraphs",
+   "instruction": "Write a paragraph using the guiding elements:",
+   "items": [
+    {
+     "item_id": "P6:s8:i0",
+     "title": "A day in Egypt",
+     "keywords": [
+      "places",
+      "buy souvenirs",
+      "visit ancient sites"
+     ],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i1",
+     "title": "Ras Mohamed National Park",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i2",
+     "title": "Life in the village",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i3",
+     "title": "Your school activities",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i4",
+     "title": "E-mail to your friend to invite him to visit Aswan",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i5",
+     "title": "Your school day",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i6",
+     "title": "Your favorite subject",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i7",
+     "title": "Your break time at school",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i8",
+     "title": "How do plants help people and the environment?",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i9",
+     "title": "The importance of plants in our life",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i10",
+     "title": "The school sports day",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i11",
+     "title": "Healthy food",
+     "keywords": [
+      "fresh food",
+      "water",
+      "fruit",
+      "vitamins"
+     ],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i12",
+     "title": "... important role in education / learn good moral / honesty (printed text is cut off)",
+     "keywords": [
+      "respect",
+      "good behavior / subjects"
+     ],
+     "min_words": 60,
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s8:i13",
+     "title": "(printed text is cut off) ... to tell him about your visit to the Egyptian Museum. Your name is Ali, your email ali@yahoo.com,",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s8:i14",
+     "title": "Ancient Egyptians",
+     "keywords": [
+      "Egypt",
+      "materials",
+      "used in many fields"
+     ],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i15",
+     "title": "What should we do to keep our classroom clean?",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i16",
+     "title": "What would you do if you had a lot of gold?",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i17",
+     "title": "Ways to save water",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i18",
+     "title": "Diary entry: A meeting with a tourist in Aswan",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i19",
+     "title": "Diary entry: A meeting about saving energy",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i20",
+     "title": "Diary entry: A meeting about materials used in Egypt",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i21",
+     "title": "Tourism",
+     "keywords": [
+      "Tourists",
+      "Egypt",
+      "many interesting places"
+     ],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i22",
+     "title": "Where do you want to study when you leave school?",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i23",
+     "title": "A trip you took last year",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i24",
+     "title": "Your favorite historical place in Egypt",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i25",
+     "title": "A day you enjoyed last week",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i26",
+     "title": "(printed text is cut off) ... to your friend to tell him about your new mobile. Your e-mail is amr@gmail.com and your friend's e-m...",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s8:i27",
+     "title": "Life is difficult without water",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i28",
+     "title": "(the topic is missing in the printed booklet, only \"60 words\")",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "P6:s8:i29",
+     "title": "Egypt, our beloved country",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i30",
+     "title": "Visiting a new place",
+     "keywords": [
+      "last week",
+      "enjoy",
+      "exciting"
+     ],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i31",
+     "title": "Your family",
+     "keywords": [
+      "persons",
+      "father",
+      "happy"
+     ],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i32",
+     "title": "How to be healthy",
+     "keywords": [
+      "eat healthy food",
+      "do exercise",
+      "sleep well"
+     ],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i33",
+     "title": "A nice match you have watched",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i34",
+     "title": "Your hopes for the future",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "P6:s8:i35",
+     "title": "A visit to the zoo",
+     "keywords": [],
+     "min_words": 60,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    }
+   ]
+  }
+ ]
+}
