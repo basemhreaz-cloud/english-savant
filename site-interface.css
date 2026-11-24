@@ -405,3 +405,6 @@ html.es-compact-nav :is(.header,.site-header,.es-mini-island){z-index:201!import
 
 /* Pinned navigation backing uses the current page surface, with no hard lower seam. */
 html.es-compact-nav::before{background:linear-gradient(to bottom,var(--es-page-surface,#F4F0E6) 0 58px,transparent 74px)}
+
+/* Physical centering fallback for Android WebView before margin-inline support. */
+.wrap{margin-left:auto;margin-right:auto}
