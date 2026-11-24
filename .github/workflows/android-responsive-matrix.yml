@@ -28,7 +28,7 @@ jobs:
           set -euo pipefail
           curl -fsSL https://basemhreaz-cloud.github.io/english-savant/English-Savant-2.0.3.apk -o /tmp/current-original.apk
           echo 'dd24a001242de7c2bfe7d71a0ee818ff83083ba9bdacdc494e072b7dce59c3f3  /tmp/current-original.apk' | sha256sum -c -
-          sdkmanager 'platforms;android-34' 'build-tools;34.0.0'
+          "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" 'platforms;android-34' 'build-tools;34.0.0'
           BT="$ANDROID_HOME/build-tools/34.0.0"
           mkdir -p /tmp/matrix-classes /tmp/matrix-dex
           javac -source 8 -target 8 -classpath "$ANDROID_HOME/platforms/android-34/android.jar" -d /tmp/matrix-classes android-ci/MatrixAudit.java
