@@ -22,7 +22,8 @@
     "image_optional": [
       "grass"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "grass is the green الحشيش in the garden."
   },
   {
     "grade": "P1",
@@ -47,7 +48,8 @@
     "image_optional": [
       "flower"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "flower means زهرة."
   },
   {
     "grade": "P1",
@@ -72,7 +74,8 @@
     "image": "p1-lessons-assets/img/tree.png",
     "alt": "a tree with green leaves",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is شجرة. The word in English: tree."
   },
   {
     "grade": "P1",
@@ -97,7 +100,8 @@
     "image": "p1-lessons-assets/img/obj-sky.png",
     "alt": "a picture of a sky",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is سما. The word in English: sky."
   },
   {
     "grade": "P1",
@@ -120,7 +124,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "السما = sky."
   },
   {
     "grade": "P1",
@@ -143,7 +148,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "فراشة = butterfly."
   },
   {
     "grade": "P1",
@@ -194,7 +200,8 @@
     ],
     "requires_image": true,
     "image": "p1-lessons-assets/img/obj-sky.png",
-    "alt": "a blue sky with clouds"
+    "alt": "a blue sky with clouds",
+    "explanation_en": "The sky is blue, not yellow."
   },
   {
     "grade": "P1",
@@ -232,7 +239,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/kg-grass.png",
-    "alt": "green grass"
+    "alt": "green grass",
+    "explanation_en": "The sentence: The grass is green."
   },
   {
     "grade": "P1",
@@ -257,7 +265,8 @@
     "requires_image": true,
     "hint_ar": "زهرة",
     "image": "p1-lessons-assets/img/flower.png",
-    "alt": "a flower"
+    "alt": "a flower",
+    "explanation_en": "The word flower: f-l-o-w-e-r."
   },
   {
     "grade": "P1",
@@ -338,7 +347,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has its own slot. 1: green (الحشيش). 2: see. 3: any color for the flower (red or yellow or pink...). 4: sky (السما is blue). 5: tree."
   },
   {
     "grade": "P1",
@@ -363,7 +373,8 @@
     "image": "p1-lessons-assets/img/star.png",
     "alt": "a yellow star",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "النجمة star starts with the letter s."
   },
   {
     "grade": "P1",
@@ -388,7 +399,8 @@
     "image": "p1-lessons-assets/img/obj-spoon.png",
     "alt": "a picture of a spoon",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is معلقة. The word in English: spoon."
   },
   {
     "grade": "P1",
@@ -413,7 +425,8 @@
     "image_optional": [
       "sun"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "sun means الشمس."
   },
   {
     "grade": "P1",
@@ -436,7 +449,8 @@
     "image_optional": [
       "star"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "star starts with s."
   },
   {
     "grade": "P1",
@@ -464,7 +478,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/sun.png",
-    "alt": "the sun"
+    "alt": "the sun",
+    "explanation_en": "Order the letters: s-u-n."
   },
   {
     "grade": "P1",
@@ -489,7 +504,8 @@
     "requires_image": true,
     "hint_ar": "شمس",
     "image": "p1-lessons-assets/img/sun.png",
-    "alt": "the sun"
+    "alt": "the sun",
+    "explanation_en": "The first letter of sun is s."
   },
   {
     "grade": "P1",
@@ -536,7 +552,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "green means أخضر, like grass."
   },
   {
     "grade": "P1",
@@ -559,7 +576,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "blue means أزرق, like the sky."
   },
   {
     "grade": "P1",
@@ -584,7 +602,8 @@
     "image": "p1-lessons-assets/img/shape-circle-red.png",
     "alt": "a red circle",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "This shape is دايرة, in English: circle."
   },
   {
     "grade": "P1",
@@ -665,7 +684,8 @@
     ],
     "requires_image": true,
     "image": "p1-lessons-assets/img/obj-tomato.png",
-    "alt": "a red tomato"
+    "alt": "a red tomato",
+    "explanation_en": "Tomatoes are red: red."
   },
   {
     "grade": "P1",
@@ -755,7 +775,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/shape-square-blue.png",
-    "alt": "a blue square"
+    "alt": "a blue square",
+    "explanation_en": "The sentence: The square is blue."
   },
   {
     "grade": "P1",
@@ -780,7 +801,8 @@
     "requires_image": true,
     "hint_ar": "أحمر (لون)",
     "image": "p1-lessons-assets/img/color-red.png",
-    "alt": "the color red"
+    "alt": "the color red",
+    "explanation_en": "The word red: r-e-d."
   },
   {
     "grade": "P1",
@@ -863,7 +885,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has its own slot. 1: shape (شكل). 2: a correct shape name. 3: color (لون). 4: a correct color. 5: the triangle has 3 sides (3 or three)."
   },
   {
     "grade": "P1",
@@ -888,7 +911,8 @@
     "image": "p1-lessons-assets/img/apple.png",
     "alt": "a red apple",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "التفاحة apple starts with the letter a."
   },
   {
     "grade": "P1",
@@ -913,7 +937,8 @@
     "image": "p1-lessons-assets/img/obj-axe.png",
     "alt": "a picture of a axe",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is فأس. The word in English: axe."
   },
   {
     "grade": "P1",
@@ -938,7 +963,8 @@
     "image_optional": [
       "ant"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "ant is a small نملة."
   },
   {
     "grade": "P1",
@@ -990,7 +1016,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/kg-ant.png",
-    "alt": "an ant"
+    "alt": "an ant",
+    "explanation_en": "Order the letters: a-n-t."
   },
   {
     "grade": "P1",
@@ -1015,7 +1042,8 @@
     "requires_image": true,
     "hint_ar": "نملة",
     "image": "p1-lessons-assets/img/kg-ant.png",
-    "alt": "an ant"
+    "alt": "an ant",
+    "explanation_en": "The first letter of ant is a."
   },
   {
     "grade": "P1",
@@ -1038,6 +1066,7 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "sun starts with s."
   }
 ]

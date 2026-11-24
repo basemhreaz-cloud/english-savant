@@ -27,7 +27,8 @@
     "image": "p2-lessons-assets/img/pink-square.png",
     "alt": "a pink square",
     "requires_image": true,
-    "explanation_ar": "الصورة دي مربع، يبقى الإجابة الصح square. أما triangle فمعناها مثلث، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي مربع، يبقى الإجابة الصح square. أما triangle فمعناها مثلث، ومش اللي في الصورة.",
+    "explanation_en": "The picture is a square, so the correct answer is square. As for triangle, it means مثلث, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -57,7 +58,8 @@
     "image": "p2-lessons-assets/img/splat-red.png",
     "alt": "a red paint splash",
     "requires_image": true,
-    "explanation_ar": "اللون اللي في الصورة هو أحمر، يبقى الإجابة الصح red. أما blue فمعناها أزرق، ومش اللي في الصورة."
+    "explanation_ar": "اللون اللي في الصورة هو أحمر، يبقى الإجابة الصح red. أما blue فمعناها أزرق، ومش اللي في الصورة.",
+    "explanation_en": "The color in the picture is red, so the correct answer is red. As for blue, it means أزرق, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -87,7 +89,8 @@
     "image": "p2-lessons-assets/img/purple-triangle.png",
     "alt": "a purple triangle",
     "requires_image": true,
-    "explanation_ar": "الصورة دي مثلث، يبقى الإجابة الصح triangle. أما circle فمعناها دايرة، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي مثلث، يبقى الإجابة الصح triangle. أما circle فمعناها دايرة، ومش اللي في الصورة.",
+    "explanation_en": "The picture is a triangle, so the correct answer is triangle. As for circle, it means دايرة, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -117,7 +120,8 @@
     "image": "p2-lessons-assets/img/splat-yellow.png",
     "alt": "a yellow paint splash",
     "requires_image": true,
-    "explanation_ar": "اللون اللي في الصورة هو أصفر، يبقى الإجابة الصح yellow. أما green فمعناها أخضر، ومش اللي في الصورة."
+    "explanation_ar": "اللون اللي في الصورة هو أصفر، يبقى الإجابة الصح yellow. أما green فمعناها أخضر، ومش اللي في الصورة.",
+    "explanation_en": "The color in the picture is yellow, so the correct answer is yellow. As for green, it means أخضر, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -147,7 +151,8 @@
     "image": "images/words/book.jpg",
     "alt": "a blue book",
     "requires_image": true,
-    "explanation_ar": "الصورة كتاب، يبقى This is a book. desk معناه مكتب."
+    "explanation_ar": "الصورة كتاب، يبقى This is a book. desk معناه مكتب.",
+    "explanation_en": "The picture is a book, so This is a book. desk means مكتب."
   },
   {
     "grade": "P2",
@@ -177,7 +182,8 @@
     "image": "images/words/desk.jpg",
     "alt": "a desk",
     "requires_image": true,
-    "explanation_ar": "بنسأل عن حاجة بنقول What is this? (ده إيه؟). How بنسأل بيها عن الحال، مش عن اسم الشيء."
+    "explanation_ar": "بنسأل عن حاجة بنقول What is this? (ده إيه؟). How بنسأل بيها عن الحال، مش عن اسم الشيء.",
+    "explanation_en": "To ask about a thing we say What is this? (ده إيه؟). How is used to ask about condition, not the name of a thing."
   },
   {
     "grade": "P2",
@@ -207,7 +213,8 @@
     "image": "p2-lessons-assets/img/pink-square.png",
     "alt": "a pink square",
     "requires_image": true,
-    "explanation_ar": "الشكل في الصورة مربع: square. circle معناها دايرة."
+    "explanation_ar": "الشكل في الصورة مربع: square. circle معناها دايرة.",
+    "explanation_en": "The shape in the picture is a square: square. circle means دايرة."
   },
   {
     "grade": "P2",
@@ -237,7 +244,8 @@
     "image": "p2-lessons-assets/img/yellow-book.png",
     "alt": "a yellow book",
     "requires_image": true,
-    "explanation_ar": "الإجابة yellow دي لون، فبنسأل What color is this? (لونه إيه؟). shape معناها شكل."
+    "explanation_ar": "الإجابة yellow دي لون، فبنسأل What color is this? (لونه إيه؟). shape معناها شكل.",
+    "explanation_en": "The answer yellow is a color, so we ask What color is this? (لونه إيه؟). shape means شكل."
   },
   {
     "grade": "P2",
@@ -266,7 +274,8 @@
     "image": "p2-lessons-assets/img/blue-circle.png",
     "alt": "a circle",
     "requires_image": true,
-    "explanation_ar": "الصورة دي دايرة، يبقى الإجابة الصح circle."
+    "explanation_ar": "الصورة دي دايرة، يبقى الإجابة الصح circle.",
+    "explanation_en": "The picture is a circle, so the correct answer is circle."
   },
   {
     "grade": "P2",
@@ -295,7 +304,8 @@
     "image": "images/words/desk.jpg",
     "alt": "a desk",
     "requires_image": true,
-    "explanation_ar": "الصورة دي مكتب، يبقى الإجابة الصح desk."
+    "explanation_ar": "الصورة دي مكتب، يبقى الإجابة الصح desk.",
+    "explanation_en": "The picture is a desk, so the correct answer is desk."
   },
   {
     "grade": "P2",
@@ -324,7 +334,8 @@
     "image": "p2-lessons-assets/img/blue-ball.png",
     "alt": "a ball",
     "requires_image": true,
-    "explanation_ar": "الصورة دي كورة، يبقى الإجابة الصح ball."
+    "explanation_ar": "الصورة دي كورة، يبقى الإجابة الصح ball.",
+    "explanation_en": "The picture is a ball, so the correct answer is ball."
   },
   {
     "grade": "P2",
@@ -353,7 +364,8 @@
     "image": "images/words/book.jpg",
     "alt": "a book",
     "requires_image": true,
-    "explanation_ar": "الصورة دي كتاب، يبقى الإجابة الصح book."
+    "explanation_ar": "الصورة دي كتاب، يبقى الإجابة الصح book.",
+    "explanation_en": "The picture is a book, so the correct answer is book."
   },
   {
     "grade": "P2",
@@ -382,7 +394,8 @@
     "image": "p2-lessons-assets/img/green-square.png",
     "alt": "a square",
     "requires_image": true,
-    "explanation_ar": "الصورة دي مربع، يبقى الإجابة الصح square."
+    "explanation_ar": "الصورة دي مربع، يبقى الإجابة الصح square.",
+    "explanation_en": "The picture is a square, so the correct answer is square."
   },
   {
     "grade": "P2",
@@ -412,7 +425,8 @@
     "alt": "a triangle",
     "requires_image": true,
     "explanation_ar": "الصورة دي مثلث، يبقى الإجابة الصح triangle.",
-    "cue_source": "Supplementary complete triangle recolored orange from the source blue-triangle crop; no task words or key changed."
+    "cue_source": "Supplementary complete triangle recolored orange from the source blue-triangle crop; no task words or key changed.",
+    "explanation_en": "The picture is a triangle, so the correct answer is triangle."
   },
   {
     "grade": "P2",
@@ -441,7 +455,8 @@
     "image": "p2-lessons-assets/img/splat-blue.png",
     "alt": "blue",
     "requires_image": true,
-    "explanation_ar": "اللون اللي في الصورة هو أزرق، يبقى الإجابة الصح blue."
+    "explanation_ar": "اللون اللي في الصورة هو أزرق، يبقى الإجابة الصح blue.",
+    "explanation_en": "The color in the picture is blue, so the correct answer is blue."
   },
   {
     "grade": "P2",
@@ -470,7 +485,8 @@
     "image": "p2-lessons-assets/img/splat-orange.png",
     "alt": "orange",
     "requires_image": true,
-    "explanation_ar": "اللون اللي في الصورة هو برتقالي، يبقى الإجابة الصح orange."
+    "explanation_ar": "اللون اللي في الصورة هو برتقالي، يبقى الإجابة الصح orange.",
+    "explanation_en": "The color in the picture is orange, so the correct answer is orange."
   },
   {
     "grade": "P2",
@@ -499,7 +515,8 @@
     "image": "p2-lessons-assets/img/splat-green.png",
     "alt": "green",
     "requires_image": true,
-    "explanation_ar": "اللون اللي في الصورة هو أخضر، يبقى الإجابة الصح green."
+    "explanation_ar": "اللون اللي في الصورة هو أخضر، يبقى الإجابة الصح green.",
+    "explanation_en": "The color in the picture is green, so the correct answer is green."
   },
   {
     "grade": "P2",
@@ -528,7 +545,8 @@
     "image": "p2-lessons-assets/img/splat-red.png",
     "alt": "red",
     "requires_image": true,
-    "explanation_ar": "اللون اللي في الصورة هو أحمر، يبقى الإجابة الصح red."
+    "explanation_ar": "اللون اللي في الصورة هو أحمر، يبقى الإجابة الصح red.",
+    "explanation_en": "The color in the picture is red, so the correct answer is red."
   },
   {
     "grade": "P2",
@@ -557,7 +575,8 @@
     "image": "p2-lessons-assets/img/splat-yellow.png",
     "alt": "yellow",
     "requires_image": true,
-    "explanation_ar": "اللون اللي في الصورة هو أصفر، يبقى الإجابة الصح yellow."
+    "explanation_ar": "اللون اللي في الصورة هو أصفر، يبقى الإجابة الصح yellow.",
+    "explanation_en": "The color in the picture is yellow, so the correct answer is yellow."
   },
   {
     "grade": "P2",
@@ -586,7 +605,8 @@
     "image": "p2-lessons-assets/img/cat-on-box.png",
     "alt": "a cat on a box",
     "requires_image": true,
-    "explanation_ar": "الصورة دي على (فوق)، يبقى الإجابة الصح on."
+    "explanation_ar": "الصورة دي على (فوق)، يبقى الإجابة الصح on.",
+    "explanation_en": "The picture is on (above), so the correct answer is on."
   },
   {
     "grade": "P2",
@@ -616,7 +636,8 @@
     "image": "p2-lessons-assets/img/yellow-circle.png",
     "alt": "a yellow circle",
     "requires_image": true,
-    "explanation_ar": "الصورة دي دايرة، يبقى الإجابة الصح circle. أما triangle فمعناها مثلث، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي دايرة، يبقى الإجابة الصح circle. أما triangle فمعناها مثلث، ومش اللي في الصورة.",
+    "explanation_en": "The picture is a circle, so the correct answer is circle. As for triangle, it means مثلث, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -646,7 +667,8 @@
     "image": "p2-lessons-assets/img/splat-green.png",
     "alt": "a green paint splash",
     "requires_image": true,
-    "explanation_ar": "اللون اللي في الصورة هو أخضر، يبقى الإجابة الصح green. أما yellow فمعناها أصفر، ومش اللي في الصورة."
+    "explanation_ar": "اللون اللي في الصورة هو أخضر، يبقى الإجابة الصح green. أما yellow فمعناها أصفر، ومش اللي في الصورة.",
+    "explanation_en": "The color in the picture is green, so the correct answer is green. As for yellow, it means أصفر, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -676,7 +698,8 @@
     "image": "images/words/book.jpg",
     "alt": "a blue book",
     "requires_image": true,
-    "explanation_ar": "الصورة دي كتاب، يبقى الإجابة الصح book. أما desk فمعناها مكتب، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي كتاب، يبقى الإجابة الصح book. أما desk فمعناها مكتب، ومش اللي في الصورة.",
+    "explanation_en": "The picture is a book, so the correct answer is book. As for desk, it means مكتب, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -706,7 +729,8 @@
     "image": "p2-lessons-assets/img/splat-orange.png",
     "alt": "an orange paint splash",
     "requires_image": true,
-    "explanation_ar": "اللون اللي في الصورة هو برتقالي، يبقى الإجابة الصح orange. أما red فمعناها أحمر، ومش اللي في الصورة."
+    "explanation_ar": "اللون اللي في الصورة هو برتقالي، يبقى الإجابة الصح orange. أما red فمعناها أحمر، ومش اللي في الصورة.",
+    "explanation_en": "The color in the picture is orange, so the correct answer is orange. As for red, it means أحمر, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -741,7 +765,8 @@
       "cat on a box": "p2-lessons-assets/img/cat-on-box.png",
       "desk": "images/words/desk.jpg"
     },
-    "explanation_ar": "كلمة cat on a box معناها قطة فوق علبة. اختار الصورة اللي فيها قطة فوق علبة."
+    "explanation_ar": "كلمة cat on a box معناها قطة فوق علبة. اختار الصورة اللي فيها قطة فوق علبة.",
+    "explanation_en": "The phrase cat on a box means قطة فوق علبة. Choose the picture with a cat on a box."
   },
   {
     "grade": "P2",
@@ -776,7 +801,8 @@
       "cat on a box": "p2-lessons-assets/img/cat-on-box.png",
       "desk": "images/words/desk.jpg"
     },
-    "explanation_ar": "كلمة desk معناها مكتب. اختار الصورة اللي فيها مكتب."
+    "explanation_ar": "كلمة desk معناها مكتب. اختار الصورة اللي فيها مكتب.",
+    "explanation_en": "The word desk means مكتب. Choose the picture with a desk."
   },
   {
     "grade": "P2",
@@ -804,7 +830,8 @@
       "is",
       "are"
     ],
-    "explanation_ar": "This مفرد، فبتاخد is: This is a circle. am بتيجي مع I بس، وare للجمع."
+    "explanation_ar": "This مفرد، فبتاخد is: This is a circle. am بتيجي مع I بس، وare للجمع.",
+    "explanation_en": "This is singular, so it takes is: This is a circle. am comes only with I, and are is for plurals."
   },
   {
     "grade": "P2",
@@ -832,7 +859,8 @@
       "blue",
       "triangle"
     ],
-    "explanation_ar": "بعد a هنا محتاجين لون عشان يوصف المربع: a blue square. circle وtriangle أشكال ومش ألوان."
+    "explanation_ar": "بعد a هنا محتاجين لون عشان يوصف المربع: a blue square. circle وtriangle أشكال ومش ألوان.",
+    "explanation_en": "After a here we need a color to describe the square: a blue square. circle and triangle are shapes, not colors."
   },
   {
     "grade": "P2",
@@ -860,7 +888,8 @@
       "shape",
       "old"
     ],
-    "explanation_ar": "الإجابة triangle شكل، فالسؤال What shape is this? color للألوان وold للعمر."
+    "explanation_ar": "الإجابة triangle شكل، فالسؤال What shape is this? color للألوان وold للعمر.",
+    "explanation_en": "The answer: triangle شكل، فالسؤال What shape is this? color للألوان وold للعمر."
   },
   {
     "grade": "P2",
@@ -888,7 +917,8 @@
       "How",
       "Where"
     ],
-    "explanation_ar": "بنسأل عن اللون بـ What color is this? How وWhere مش بيستخدموا هنا."
+    "explanation_ar": "بنسأل عن اللون بـ What color is this? How وWhere مش بيستخدموا هنا.",
+    "explanation_en": "We ask about the color with What color is this? How and Where are not used here."
   },
   {
     "grade": "P2",
@@ -925,7 +955,8 @@
     "image": "p2-lessons-assets/img/splat-yellow.png",
     "alt": "a yellow paint splash",
     "requires_image": true,
-    "explanation_ar": "رتّب الحروف: تطلع كلمة yellow يعني أصفر. افتكر التهجية الصح حرف حرف."
+    "explanation_ar": "رتّب الحروف: تطلع كلمة yellow يعني أصفر. افتكر التهجية الصح حرف حرف.",
+    "explanation_en": "Order the letters: they make the word yellow, meaning أصفر. افتكر التهجية الصح حرف حرف."
   },
   {
     "grade": "P2",
@@ -962,7 +993,8 @@
     "image": "p2-lessons-assets/img/pink-square.png",
     "alt": "a pink square",
     "requires_image": true,
-    "explanation_ar": "رتّب الحروف: تطلع كلمة square يعني مربع. افتكر التهجية الصح حرف حرف."
+    "explanation_ar": "رتّب الحروف: تطلع كلمة square يعني مربع. افتكر التهجية الصح حرف حرف.",
+    "explanation_en": "Order the letters: they make the word square, meaning مربع. افتكر التهجية الصح حرف حرف."
   },
   {
     "grade": "P2",
@@ -999,7 +1031,8 @@
     "image": "p2-lessons-assets/img/splat-orange.png",
     "alt": "an orange paint splash",
     "requires_image": true,
-    "explanation_ar": "رتّب الحروف: تطلع كلمة orange يعني برتقالي. افتكر التهجية الصح حرف حرف."
+    "explanation_ar": "رتّب الحروف: تطلع كلمة orange يعني برتقالي. افتكر التهجية الصح حرف حرف.",
+    "explanation_en": "Order the letters: they make the word orange, meaning برتقالي. افتكر التهجية الصح حرف حرف."
   },
   {
     "grade": "P2",
@@ -1036,7 +1069,8 @@
     "image": "p2-lessons-assets/img/yellow-circle.png",
     "alt": "a yellow circle",
     "requires_image": true,
-    "explanation_ar": "رتّب الحروف: تطلع كلمة circle يعني دايرة. افتكر التهجية الصح حرف حرف."
+    "explanation_ar": "رتّب الحروف: تطلع كلمة circle يعني دايرة. افتكر التهجية الصح حرف حرف.",
+    "explanation_en": "Order the letters: they make the word circle, meaning دايرة. افتكر التهجية الصح حرف حرف."
   },
   {
     "grade": "P2",
@@ -1068,7 +1102,8 @@
     "image": "p2-lessons-assets/img/blue-triangle.png",
     "alt": "a blue triangle",
     "requires_image": true,
-    "explanation_ar": "الصورة مثلث أزرق، والسؤال عن الشكل: This is a triangle. (ده مثلث)."
+    "explanation_ar": "الصورة مثلث أزرق، والسؤال عن الشكل: This is a triangle. (ده مثلث).",
+    "explanation_en": "The picture is a blue triangle, and the question is about the shape: This is a triangle. (ده مثلث)."
   },
   {
     "grade": "P2",
@@ -1100,7 +1135,8 @@
     "image": "p2-lessons-assets/img/splat-green.png",
     "alt": "a green paint splash",
     "requires_image": true,
-    "explanation_ar": "السؤال عن اللون، والصورة لونها أخضر: It is green. (لونه أخضر)."
+    "explanation_ar": "السؤال عن اللون، والصورة لونها أخضر: It is green. (لونه أخضر).",
+    "explanation_en": "The question is about the color, and the picture is green: It is green. (لونه أخضر)."
   },
   {
     "grade": "P2",
@@ -1142,7 +1178,8 @@
     "alt": "two children talking",
     "requires_image": true,
     "explanation_ar": "الجملة الصح: What is this? معناها «ده إيه؟». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
-    "cue_source": "Supplementary familiar object for the printed What is this question; words and key unchanged."
+    "cue_source": "Supplementary familiar object for the printed What is this question; words and key unchanged.",
+    "explanation_en": "The correct sentence: What is this? It means «ده إيه؟». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -1185,7 +1222,8 @@
     "image": "p2-lessons-assets/img/blue-square.png",
     "alt": "a square",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: This is a square. معناها «ده مربع.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: This is a square. معناها «ده مربع.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: This is a square. It means «ده مربع.». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -1230,7 +1268,8 @@
     "image": "p2-lessons-assets/img/red-circle.png",
     "alt": "a red circle",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: This is a red circle. معناها «دي دايرة حمرا.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: This is a red circle. معناها «دي دايرة حمرا.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: This is a red circle. It means «دي دايرة حمرا.». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -1275,7 +1314,8 @@
     "image": "p2-lessons-assets/img/blue-triangle.png",
     "alt": "a blue triangle",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: This is a blue triangle. معناها «ده مثلث أزرق.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: This is a blue triangle. معناها «ده مثلث أزرق.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: This is a blue triangle. It means «ده مثلث أزرق.». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -1305,7 +1345,8 @@
     "image": "p2-lessons-assets/img/cup-white.png",
     "alt": "a cup",
     "requires_image": true,
-    "explanation_ar": "الصورة دي كوباية، يبقى الإجابة الصح cup. أما bun فمعناها كعكة صغيرة (بَن)، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي كوباية، يبقى الإجابة الصح cup. أما bun فمعناها كعكة صغيرة (بَن)، ومش اللي في الصورة.",
+    "explanation_en": "The picture is a cup, so the correct answer is cup. As for bun, it means كعكة صغيرة (بَن), and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -1335,7 +1376,8 @@
     "image": "p2-lessons-assets/img/fox-cartoon.png",
     "alt": "a fox",
     "requires_image": true,
-    "explanation_ar": "الصورة دي ثعلب، يبقى الإجابة الصح fox. أما dog فمعناها كلب، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي ثعلب، يبقى الإجابة الصح fox. أما dog فمعناها كلب، ومش اللي في الصورة.",
+    "explanation_en": "The picture is a fox, so the correct answer is fox. As for dog, it means كلب, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -1365,7 +1407,8 @@
     "image": "p2-lessons-assets/img/sun-smiling.png",
     "alt": "a smiling sun",
     "requires_image": true,
-    "explanation_ar": "الصورة دي شمس، يبقى الإجابة الصح sun. أما bun فمعناها كعكة صغيرة (بَن)، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي شمس، يبقى الإجابة الصح sun. أما bun فمعناها كعكة صغيرة (بَن)، ومش اللي في الصورة.",
+    "explanation_en": "The picture is a sun, so the correct answer is sun. As for bun, it means كعكة صغيرة (بَن), and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -1395,7 +1438,8 @@
     "image": "p2-lessons-assets/img/box-cartoon.png",
     "alt": "a box",
     "requires_image": true,
-    "explanation_ar": "الصورة دي علبة، يبقى الإجابة الصح box. أما fox فمعناها ثعلب، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي علبة، يبقى الإجابة الصح box. أما fox فمعناها ثعلب، ومش اللي في الصورة.",
+    "explanation_en": "The picture is a box, so the correct answer is box. As for fox, it means ثعلب, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -1424,7 +1468,8 @@
     "image": "p2-lessons-assets/img/dog-cartoon.png",
     "alt": "a dog",
     "requires_image": true,
-    "explanation_ar": "الصورة دي كلب، يبقى الإجابة الصح dog."
+    "explanation_ar": "الصورة دي كلب، يبقى الإجابة الصح dog.",
+    "explanation_en": "The picture is a dog, so the correct answer is dog."
   },
   {
     "grade": "P2",
@@ -1453,7 +1498,8 @@
     "image": "p2-lessons-assets/img/box.png",
     "alt": "a box",
     "requires_image": true,
-    "explanation_ar": "الصورة دي علبة، يبقى الإجابة الصح box."
+    "explanation_ar": "الصورة دي علبة، يبقى الإجابة الصح box.",
+    "explanation_en": "The picture is a box, so the correct answer is box."
   },
   {
     "grade": "P2",
@@ -1482,7 +1528,8 @@
     "image": "p2-lessons-assets/img/fox.png",
     "alt": "a fox",
     "requires_image": true,
-    "explanation_ar": "الصورة دي ثعلب، يبقى الإجابة الصح fox."
+    "explanation_ar": "الصورة دي ثعلب، يبقى الإجابة الصح fox.",
+    "explanation_en": "The picture is a fox, so the correct answer is fox."
   },
   {
     "grade": "P2",
@@ -1511,7 +1558,8 @@
     "image": "p2-lessons-assets/img/sun.png",
     "alt": "the sun",
     "requires_image": true,
-    "explanation_ar": "الصورة دي شمس، يبقى الإجابة الصح sun."
+    "explanation_ar": "الصورة دي شمس، يبقى الإجابة الصح sun.",
+    "explanation_en": "The picture is a sun, so the correct answer is sun."
   },
   {
     "grade": "P2",
@@ -1540,7 +1588,8 @@
     "image": "p2-lessons-assets/img/cup.png",
     "alt": "a cup",
     "requires_image": true,
-    "explanation_ar": "الصورة دي كوباية، يبقى الإجابة الصح cup."
+    "explanation_ar": "الصورة دي كوباية، يبقى الإجابة الصح cup.",
+    "explanation_en": "The picture is a cup, so the correct answer is cup."
   },
   {
     "grade": "P2",
@@ -1569,7 +1618,8 @@
     "image": "p2-lessons-assets/img/bun.png",
     "alt": "a bun",
     "requires_image": true,
-    "explanation_ar": "الصورة دي كعكة صغيرة (بَن)، يبقى الإجابة الصح bun."
+    "explanation_ar": "الصورة دي كعكة صغيرة (بَن)، يبقى الإجابة الصح bun.",
+    "explanation_en": "The picture is a bun, so the correct answer is bun."
   },
   {
     "grade": "P2",
@@ -1604,7 +1654,8 @@
       "bun": "p2-lessons-assets/img/bun.png",
       "box": "p2-lessons-assets/img/box-cartoon.png"
     },
-    "explanation_ar": "كلمة bun معناها كعكة صغيرة (بَن). اختار الصورة اللي فيها كعكة صغيرة (بَن)."
+    "explanation_ar": "كلمة bun معناها كعكة صغيرة (بَن). اختار الصورة اللي فيها كعكة صغيرة (بَن).",
+    "explanation_en": "The word bun means كعكة صغيرة (بَن). Choose the picture that has a كعكة صغيرة (بَن)."
   },
   {
     "grade": "P2",
@@ -1639,7 +1690,8 @@
       "box": "p2-lessons-assets/img/box.png",
       "bun": "p2-lessons-assets/img/bun.png"
     },
-    "explanation_ar": "كلمة dog معناها كلب. اختار الصورة اللي فيها كلب."
+    "explanation_ar": "كلمة dog معناها كلب. اختار الصورة اللي فيها كلب.",
+    "explanation_en": "The word dog means كلب. Choose the picture that has a كلب."
   },
   {
     "grade": "P2",
@@ -1673,7 +1725,8 @@
     "image": "p2-lessons-assets/img/box-cartoon.png",
     "alt": "a box",
     "requires_image": true,
-    "explanation_ar": "رتّب الحروف: تطلع كلمة box يعني علبة. افتكر التهجية الصح حرف حرف."
+    "explanation_ar": "رتّب الحروف: تطلع كلمة box يعني علبة. افتكر التهجية الصح حرف حرف.",
+    "explanation_en": "Order the letters: they make the word box, meaning علبة. افتكر التهجية الصح حرف حرف."
   },
   {
     "grade": "P2",
@@ -1707,7 +1760,8 @@
     "image": "p2-lessons-assets/img/sun-cartoon.png",
     "alt": "the sun",
     "requires_image": true,
-    "explanation_ar": "رتّب الحروف: تطلع كلمة sun يعني شمس. افتكر التهجية الصح حرف حرف."
+    "explanation_ar": "رتّب الحروف: تطلع كلمة sun يعني شمس. افتكر التهجية الصح حرف حرف.",
+    "explanation_en": "Order the letters: they make the word sun, meaning شمس. افتكر التهجية الصح حرف حرف."
   },
   {
     "grade": "P2",
@@ -1741,7 +1795,8 @@
     "image": "p2-lessons-assets/img/fox-cartoon.png",
     "alt": "a fox",
     "requires_image": true,
-    "explanation_ar": "رتّب الحروف: تطلع كلمة fox يعني ثعلب. افتكر التهجية الصح حرف حرف."
+    "explanation_ar": "رتّب الحروف: تطلع كلمة fox يعني ثعلب. افتكر التهجية الصح حرف حرف.",
+    "explanation_en": "Order the letters: they make the word fox, meaning ثعلب. افتكر التهجية الصح حرف حرف."
   },
   {
     "grade": "P2",
@@ -1775,7 +1830,8 @@
     "image": "p2-lessons-assets/img/cup-white.png",
     "alt": "a cup",
     "requires_image": true,
-    "explanation_ar": "رتّب الحروف: تطلع كلمة cup يعني كوباية. افتكر التهجية الصح حرف حرف."
+    "explanation_ar": "رتّب الحروف: تطلع كلمة cup يعني كوباية. افتكر التهجية الصح حرف حرف.",
+    "explanation_en": "Order the letters: they make the word cup, meaning كوباية. افتكر التهجية الصح حرف حرف."
   },
   {
     "grade": "P2",
@@ -1818,7 +1874,8 @@
     "image": "p2-lessons-assets/img/fox-cartoon.png",
     "alt": "a fox",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: This is a fox. معناها «ده ثعلب.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: This is a fox. معناها «ده ثعلب.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: This is a fox. It means «ده ثعلب.». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -1861,7 +1918,8 @@
     "image": "p2-lessons-assets/img/box-cartoon.png",
     "alt": "a box",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: This is a box. معناها «دي علبة.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: This is a box. معناها «دي علبة.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: This is a box. It means «دي علبة.». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -1904,7 +1962,8 @@
     "image": "p2-lessons-assets/img/dog-cartoon.png",
     "alt": "a dog",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: This is a dog. معناها «ده كلب.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: This is a dog. معناها «ده كلب.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: This is a dog. It means «ده كلب.». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -1935,7 +1994,8 @@
     "image": "p2-lessons-assets/img/bun.png",
     "alt": "a bun",
     "requires_image": true,
-    "explanation_ar": "شوف الصورة: دي كعكة صغيرة. الجملة: This is a bun. لازم تبدأ بحرف كبير وتنهي بنقطة."
+    "explanation_ar": "شوف الصورة: دي كعكة صغيرة. الجملة: This is a bun. لازم تبدأ بحرف كبير وتنهي بنقطة.",
+    "explanation_en": "Look at the picture: this is a bun (كعكة صغيرة). The sentence: This is a bun. You must start with a capital letter and end with a full stop."
   },
   {
     "grade": "P2",
@@ -1963,7 +2023,8 @@
     ],
     "explanation_ar": "الجملة الصح: It's a fox. (ده ثعلب). لازم أول حرف كبير، وit's بأبوستروف، ونقطة في الآخر.",
     "strict_punctuation": true,
-    "strict_case": true
+    "strict_case": true,
+    "explanation_en": "The correct sentence: It's a fox. (ده ثعلب). The first letter must be capital, it's has an apostrophe, and a full stop at the end."
   },
   {
     "grade": "P2",
@@ -1990,7 +2051,8 @@
       "eight",
       "nine"
     ],
-    "explanation_ar": "الرقم 9 بالإنجليزي يتكتب nine. eight معناها تمانية (8)."
+    "explanation_ar": "الرقم 9 بالإنجليزي يتكتب nine. eight معناها تمانية (8).",
+    "explanation_en": "The number 9 is written nine in English. eight means تمانية (8)."
   },
   {
     "grade": "P2",
@@ -2017,7 +2079,8 @@
       "twenty",
       "thirty"
     ],
-    "explanation_ar": "الرقم 30 يتكتب thirty. twenty معناها عشرين (20)."
+    "explanation_ar": "الرقم 30 يتكتب thirty. twenty معناها عشرين (20).",
+    "explanation_en": "The number 30 is written thirty. twenty means عشرين (20)."
   },
   {
     "grade": "P2",
@@ -2044,7 +2107,8 @@
       "seven",
       "six"
     ],
-    "explanation_ar": "الرقم 7 يتكتب seven. six معناها ستة (6)."
+    "explanation_ar": "الرقم 7 يتكتب seven. six معناها ستة (6).",
+    "explanation_en": "The number 7 is written seven. six means ستة (6)."
   },
   {
     "grade": "P2",
@@ -2071,7 +2135,8 @@
       "fifty",
       "forty"
     ],
-    "explanation_ar": "الرقم 50 يتكتب fifty. forty معناها أربعين (40)."
+    "explanation_ar": "الرقم 50 يتكتب fifty. forty معناها أربعين (40).",
+    "explanation_en": "The number 50 is written fifty. forty means أربعين (40)."
   },
   {
     "grade": "P2",
@@ -2114,7 +2179,8 @@
     "image": "p2-lessons-assets/img/three-pencils.png",
     "alt": "three pencils",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: I have three pencils. معناها «معايا تلاتة أقلام رصاص.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: I have three pencils. معناها «معايا تلاتة أقلام رصاص.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: I have three pencils. It means «معايا تلاتة أقلام رصاص.». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -2157,7 +2223,8 @@
     "image": "p2-lessons-assets/img/five-students.png",
     "alt": "five students",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: I see five students. معناها «أنا شايف خمسة طلبة.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: I see five students. معناها «أنا شايف خمسة طلبة.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: I see five students. It means «أنا شايف خمسة طلبة.». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -2200,7 +2267,8 @@
     "image": "p2-lessons-assets/img/eight-rulers.png",
     "alt": "rulers to count",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: Let's count the rulers. معناها «يلا نعدّ المساطر.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: Let's count the rulers. معناها «يلا نعدّ المساطر.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: Let's count the rulers. It means «يلا نعدّ المساطر.». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -2247,7 +2315,8 @@
     "image": "p2-lessons-assets/img/five-books.png",
     "alt": "books to count",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: How many books do you have? معناها «معاك كام كتاب؟». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: How many books do you have? معناها «معاك كام كتاب؟». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: How many books do you have? It means «معاك كام كتاب؟». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -2277,7 +2346,8 @@
     "image": "p2-lessons-assets/img/gem-three-bags.png",
     "alt": "three bags",
     "requires_image": true,
-    "explanation_ar": "bags جمع: بنسأل How many bags are there? والإجابة There are three bags. (في تلات شنط)."
+    "explanation_ar": "bags جمع: بنسأل How many bags are there? والإجابة There are three bags. (في تلات شنط).",
+    "explanation_en": "bags is plural: we ask How many bags are there? and the answer is There are three bags. (في تلات شنط)."
   },
   {
     "grade": "P2",
@@ -2307,7 +2377,8 @@
     "image": "p2-lessons-assets/img/gem-seven-pens.png",
     "alt": "seven pens",
     "requires_image": true,
-    "explanation_ar": "عدّ الأقلام في الصورة: سبعة، يبقى seven pens. eight معناها تمانية."
+    "explanation_ar": "عدّ الأقلام في الصورة: سبعة، يبقى seven pens. eight معناها تمانية.",
+    "explanation_en": "Count the pens in the picture: seven, so seven pens. eight means تمانية."
   },
   {
     "grade": "P2",
@@ -2337,7 +2408,8 @@
     "image": "p2-lessons-assets/img/gem-five-rulers.png",
     "alt": "five rulers",
     "requires_image": true,
-    "explanation_ar": "عدّ المساطر في الصورة: خمسة، يبقى five rulers. six معناها ستة."
+    "explanation_ar": "عدّ المساطر في الصورة: خمسة، يبقى five rulers. six معناها ستة.",
+    "explanation_en": "Count the rulers in the picture: five, so five rulers. six means ستة."
   },
   {
     "grade": "P2",
@@ -2364,7 +2436,8 @@
       "old",
       "many"
     ],
-    "explanation_ar": "بنسأل عن العدد بـ How many. old بنسأل بيها عن العمر (How old)."
+    "explanation_ar": "بنسأل عن العدد بـ How many. old بنسأل بيها عن العمر (How old).",
+    "explanation_en": "We ask about the number with How many. old is used to ask about age (How old)."
   },
   {
     "grade": "P2",
@@ -2393,7 +2466,8 @@
     "image": "p2-lessons-assets/img/num-1.png",
     "alt": "the number 1",
     "requires_image": true,
-    "explanation_ar": "الرقم 1 بالإنجليزي يتكتب one. احفظ تهجية الكلمة حرف حرف."
+    "explanation_ar": "الرقم 1 بالإنجليزي يتكتب one. احفظ تهجية الكلمة حرف حرف.",
+    "explanation_en": "The number 1 is written one in English. Memorize the word's spelling letter by letter."
   },
   {
     "grade": "P2",
@@ -2422,7 +2496,8 @@
     "image": "p2-lessons-assets/img/num-10.png",
     "alt": "the number 10",
     "requires_image": true,
-    "explanation_ar": "الرقم 10 بالإنجليزي يتكتب ten. احفظ تهجية الكلمة حرف حرف."
+    "explanation_ar": "الرقم 10 بالإنجليزي يتكتب ten. احفظ تهجية الكلمة حرف حرف.",
+    "explanation_en": "The number 10 is written ten in English. Memorize the word's spelling letter by letter."
   },
   {
     "grade": "P2",
@@ -2451,7 +2526,8 @@
     "image": "p2-lessons-assets/img/num-2.png",
     "alt": "the number 2",
     "requires_image": true,
-    "explanation_ar": "الرقم 2 بالإنجليزي يتكتب two. احفظ تهجية الكلمة حرف حرف."
+    "explanation_ar": "الرقم 2 بالإنجليزي يتكتب two. احفظ تهجية الكلمة حرف حرف.",
+    "explanation_en": "The number 2 is written two in English. Memorize the word's spelling letter by letter."
   },
   {
     "grade": "P2",
@@ -2480,7 +2556,8 @@
     "image": "p2-lessons-assets/img/num-3.png",
     "alt": "the number 3",
     "requires_image": true,
-    "explanation_ar": "الرقم 3 بالإنجليزي يتكتب three. احفظ تهجية الكلمة حرف حرف."
+    "explanation_ar": "الرقم 3 بالإنجليزي يتكتب three. احفظ تهجية الكلمة حرف حرف.",
+    "explanation_en": "The number 3 is written three in English. Memorize the word's spelling letter by letter."
   },
   {
     "grade": "P2",
@@ -2509,7 +2586,8 @@
     "image": "p2-lessons-assets/img/num-4.png",
     "alt": "the number 4",
     "requires_image": true,
-    "explanation_ar": "الرقم 4 بالإنجليزي يتكتب four. احفظ تهجية الكلمة حرف حرف."
+    "explanation_ar": "الرقم 4 بالإنجليزي يتكتب four. احفظ تهجية الكلمة حرف حرف.",
+    "explanation_en": "The number 4 is written four in English. Memorize the word's spelling letter by letter."
   },
   {
     "grade": "P2",
@@ -2538,7 +2616,8 @@
     "image": "p2-lessons-assets/img/num-5.png",
     "alt": "the number 5",
     "requires_image": true,
-    "explanation_ar": "الرقم 5 بالإنجليزي يتكتب five. احفظ تهجية الكلمة حرف حرف."
+    "explanation_ar": "الرقم 5 بالإنجليزي يتكتب five. احفظ تهجية الكلمة حرف حرف.",
+    "explanation_en": "The number 5 is written five in English. Memorize the word's spelling letter by letter."
   },
   {
     "grade": "P2",
@@ -2567,7 +2646,8 @@
     "image": "p2-lessons-assets/img/num-6.png",
     "alt": "the number 6",
     "requires_image": true,
-    "explanation_ar": "الرقم 6 بالإنجليزي يتكتب six. احفظ تهجية الكلمة حرف حرف."
+    "explanation_ar": "الرقم 6 بالإنجليزي يتكتب six. احفظ تهجية الكلمة حرف حرف.",
+    "explanation_en": "The number 6 is written six in English. Memorize the word's spelling letter by letter."
   },
   {
     "grade": "P2",
@@ -2596,7 +2676,8 @@
     "image": "p2-lessons-assets/img/num-7.png",
     "alt": "the number 7",
     "requires_image": true,
-    "explanation_ar": "الرقم 7 بالإنجليزي يتكتب seven. احفظ تهجية الكلمة حرف حرف."
+    "explanation_ar": "الرقم 7 بالإنجليزي يتكتب seven. احفظ تهجية الكلمة حرف حرف.",
+    "explanation_en": "The number 7 is written seven in English. Memorize the word's spelling letter by letter."
   },
   {
     "grade": "P2",
@@ -2625,7 +2706,8 @@
     "image": "p2-lessons-assets/img/num-8.png",
     "alt": "the number 8",
     "requires_image": true,
-    "explanation_ar": "الرقم 8 بالإنجليزي يتكتب eight. احفظ تهجية الكلمة حرف حرف."
+    "explanation_ar": "الرقم 8 بالإنجليزي يتكتب eight. احفظ تهجية الكلمة حرف حرف.",
+    "explanation_en": "The number 8 is written eight in English. Memorize the word's spelling letter by letter."
   },
   {
     "grade": "P2",
@@ -2654,7 +2736,8 @@
     "image": "p2-lessons-assets/img/num-9.png",
     "alt": "the number 9",
     "requires_image": true,
-    "explanation_ar": "الرقم 9 بالإنجليزي يتكتب nine. احفظ تهجية الكلمة حرف حرف."
+    "explanation_ar": "الرقم 9 بالإنجليزي يتكتب nine. احفظ تهجية الكلمة حرف حرف.",
+    "explanation_en": "The number 9 is written nine in English. Memorize the word's spelling letter by letter."
   },
   {
     "grade": "P2",
@@ -2681,7 +2764,8 @@
       "fifty",
       "forty"
     ],
-    "explanation_ar": "الصورة دي أربعين، يبقى الإجابة الصح forty. أما fifty فمعناها خمسين، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي أربعين، يبقى الإجابة الصح forty. أما fifty فمعناها خمسين، ومش اللي في الصورة.",
+    "explanation_en": "The picture shows forty, so the correct answer is forty. As for fifty, it means خمسين, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -2708,7 +2792,8 @@
       "five",
       "four"
     ],
-    "explanation_ar": "الصورة دي خمسة، يبقى الإجابة الصح five. أما four فمعناها أربعة، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي خمسة، يبقى الإجابة الصح five. أما four فمعناها أربعة، ومش اللي في الصورة.",
+    "explanation_en": "The picture shows five, so the correct answer is five. As for four, it means أربعة, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -2735,7 +2820,8 @@
       "eight",
       "eighty"
     ],
-    "explanation_ar": "الصورة دي تمانين، يبقى الإجابة الصح eighty. أما eight فمعناها تمانية، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي تمانين، يبقى الإجابة الصح eighty. أما eight فمعناها تمانية، ومش اللي في الصورة.",
+    "explanation_en": "The picture shows eighty, so the correct answer is eighty. As for eight, it means تمانية, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -2762,7 +2848,8 @@
       "ten",
       "one hundred"
     ],
-    "explanation_ar": "الصورة دي عشرة، يبقى الإجابة الصح ten. أما one hundred فمعناها مية، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي عشرة، يبقى الإجابة الصح ten. أما one hundred فمعناها مية، ومش اللي في الصورة.",
+    "explanation_en": "The picture shows ten, so the correct answer is ten. As for one hundred, it means مية, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -2792,7 +2879,8 @@
     "image": "p2-lessons-assets/img/gem-seven-pens.png",
     "alt": "seven pens",
     "requires_image": true,
-    "explanation_ar": "عدّ الأقلام: سبعة بالظبط، يبقى الجملة There are seven pens صح (true)."
+    "explanation_ar": "عدّ الأقلام: سبعة بالظبط، يبقى الجملة There are seven pens صح (true).",
+    "explanation_en": "Count the pens: exactly seven, so the sentence There are seven pens is correct (true)."
   },
   {
     "grade": "P2",
@@ -2822,7 +2910,8 @@
     "image": "p2-lessons-assets/img/two-books.png",
     "alt": "two books",
     "requires_image": true,
-    "explanation_ar": "الصورة فيها كتابين مش كتاب واحد، يبقى الجملة There is one book غلط (false)."
+    "explanation_ar": "الصورة فيها كتابين مش كتاب واحد، يبقى الجملة There is one book غلط (false).",
+    "explanation_en": "The picture has two books, not one, so the sentence There is one book is wrong (false)."
   },
   {
     "grade": "P2",
@@ -2857,7 +2946,8 @@
       "bag": "p2-lessons-assets/img/bag-orange.png",
       "two pencils": "p2-lessons-assets/img/two-pencils.png"
     },
-    "explanation_ar": "I have one desk معناها معايا مكتب واحد. اختار صورة المكتب."
+    "explanation_ar": "I have one desk معناها معايا مكتب واحد. اختار صورة المكتب.",
+    "explanation_en": "I have one desk means معايا مكتب واحد. Choose the picture of the desk."
   },
   {
     "grade": "P2",
@@ -2892,7 +2982,8 @@
       "bag": "p2-lessons-assets/img/bag-orange.png",
       "two pencils": "p2-lessons-assets/img/two-pencils.png"
     },
-    "explanation_ar": "I have five balloons معناها معايا خمس بلالين. عدّ البلالين في كل صورة."
+    "explanation_ar": "I have five balloons معناها معايا خمس بلالين. عدّ البلالين في كل صورة.",
+    "explanation_en": "I have five balloons means معايا خمس بلالين. Count the balloons in each picture."
   },
   {
     "grade": "P2",
@@ -2927,7 +3018,8 @@
       "bag": "p2-lessons-assets/img/bag-orange.png",
       "two pencils": "p2-lessons-assets/img/two-pencils.png"
     },
-    "explanation_ar": "I have one bag معناها معايا شنطة واحدة. اختار صورة الشنطة."
+    "explanation_ar": "I have one bag معناها معايا شنطة واحدة. اختار صورة الشنطة.",
+    "explanation_en": "I have one bag means معايا شنطة واحدة. Choose the picture of the bag."
   },
   {
     "grade": "P2",
@@ -2962,7 +3054,8 @@
       "bag": "p2-lessons-assets/img/bag-orange.png",
       "two pencils": "p2-lessons-assets/img/two-pencils.png"
     },
-    "explanation_ar": "I have two pencils معناها معايا قلمين رصاص. اختار الصورة اللي فيها قلمين."
+    "explanation_ar": "I have two pencils معناها معايا قلمين رصاص. اختار الصورة اللي فيها قلمين.",
+    "explanation_en": "I have two pencils means معايا قلمين رصاص. Choose the picture with two pencils."
   },
   {
     "grade": "P2",
@@ -2992,7 +3085,8 @@
     "image": "p2-lessons-assets/img/lake.png",
     "alt": "a lake",
     "requires_image": true,
-    "explanation_ar": "الصورة دي بحيرة، يبقى الإجابة الصح lake. أما snake فمعناها ثعبان، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي بحيرة، يبقى الإجابة الصح lake. أما snake فمعناها ثعبان، ومش اللي في الصورة.",
+    "explanation_en": "The picture is a lake, so the correct answer is lake. As for snake, it means ثعبان, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -3022,7 +3116,8 @@
     "image": "p2-lessons-assets/img/cave.png",
     "alt": "a cave",
     "requires_image": true,
-    "explanation_ar": "الصورة دي كهف، يبقى الإجابة الصح cave. أما cake فمعناها كيك، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي كهف، يبقى الإجابة الصح cave. أما cake فمعناها كيك، ومش اللي في الصورة.",
+    "explanation_en": "The picture is a cave, so the correct answer is cave. As for cake, it means كيك, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -3052,7 +3147,8 @@
     "image": "p2-lessons-assets/img/grapes.png",
     "alt": "grapes",
     "requires_image": true,
-    "explanation_ar": "الصورة دي عنب، يبقى الإجابة الصح grapes. أما lake فمعناها بحيرة، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي عنب، يبقى الإجابة الصح grapes. أما lake فمعناها بحيرة، ومش اللي في الصورة.",
+    "explanation_en": "The picture is grapes, so the correct answer is grapes. As for lake, it means بحيرة, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -3082,7 +3178,8 @@
     "image": "p2-lessons-assets/img/snake.png",
     "alt": "a snake",
     "requires_image": true,
-    "explanation_ar": "الصورة دي ثعبان، يبقى الإجابة الصح snake. أما gate فمعناها بوابة، ومش اللي في الصورة."
+    "explanation_ar": "الصورة دي ثعبان، يبقى الإجابة الصح snake. أما gate فمعناها بوابة، ومش اللي في الصورة.",
+    "explanation_en": "The picture is a snake, so the correct answer is snake. As for gate, it means بوابة, and it is not what is in the picture."
   },
   {
     "grade": "P2",
@@ -3111,7 +3208,8 @@
     "image": "p2-lessons-assets/img/cake.png",
     "alt": "a cake",
     "requires_image": true,
-    "explanation_ar": "الصورة دي كيك، يبقى الإجابة الصح cake."
+    "explanation_ar": "الصورة دي كيك، يبقى الإجابة الصح cake.",
+    "explanation_en": "The picture is a cake, so the correct answer is cake."
   },
   {
     "grade": "P2",
@@ -3140,7 +3238,8 @@
     "image": "p2-lessons-assets/img/lake.png",
     "alt": "a lake",
     "requires_image": true,
-    "explanation_ar": "الصورة دي بحيرة، يبقى الإجابة الصح lake."
+    "explanation_ar": "الصورة دي بحيرة، يبقى الإجابة الصح lake.",
+    "explanation_en": "The picture is a lake, so the correct answer is lake."
   },
   {
     "grade": "P2",
@@ -3169,7 +3268,8 @@
     "image": "p2-lessons-assets/img/gate.png",
     "alt": "a gate",
     "requires_image": true,
-    "explanation_ar": "الصورة دي بوابة، يبقى الإجابة الصح gate."
+    "explanation_ar": "الصورة دي بوابة، يبقى الإجابة الصح gate.",
+    "explanation_en": "The picture is a gate, so the correct answer is gate."
   },
   {
     "grade": "P2",
@@ -3198,7 +3298,8 @@
     "image": "p2-lessons-assets/img/cave.png",
     "alt": "a cave",
     "requires_image": true,
-    "explanation_ar": "الصورة دي كهف، يبقى الإجابة الصح cave."
+    "explanation_ar": "الصورة دي كهف، يبقى الإجابة الصح cave.",
+    "explanation_en": "The picture is a cave, so the correct answer is cave."
   },
   {
     "grade": "P2",
@@ -3227,7 +3328,8 @@
     "image": "p2-lessons-assets/img/snake.png",
     "alt": "a snake",
     "requires_image": true,
-    "explanation_ar": "الصورة دي ثعبان، يبقى الإجابة الصح snake."
+    "explanation_ar": "الصورة دي ثعبان، يبقى الإجابة الصح snake.",
+    "explanation_en": "The picture is a snake, so the correct answer is snake."
   },
   {
     "grade": "P2",
@@ -3256,7 +3358,8 @@
     "image": "p2-lessons-assets/img/grapes.png",
     "alt": "grapes",
     "requires_image": true,
-    "explanation_ar": "الصورة دي عنب، يبقى الإجابة الصح grapes."
+    "explanation_ar": "الصورة دي عنب، يبقى الإجابة الصح grapes.",
+    "explanation_en": "The picture is grapes, so the correct answer is grapes."
   },
   {
     "grade": "P2",
@@ -3291,7 +3394,8 @@
       "snake": "p2-lessons-assets/img/snake.png",
       "lake": "p2-lessons-assets/img/lake.png"
     },
-    "explanation_ar": "كلمة cake معناها كيك. اختار الصورة اللي فيها كيك."
+    "explanation_ar": "كلمة cake معناها كيك. اختار الصورة اللي فيها كيك.",
+    "explanation_en": "The word cake means كيك. Choose the picture that has a كيك."
   },
   {
     "grade": "P2",
@@ -3326,7 +3430,8 @@
       "snake": "p2-lessons-assets/img/snake.png",
       "lake": "p2-lessons-assets/img/lake.png"
     },
-    "explanation_ar": "كلمة gate معناها بوابة. اختار الصورة اللي فيها بوابة."
+    "explanation_ar": "كلمة gate معناها بوابة. اختار الصورة اللي فيها بوابة.",
+    "explanation_en": "The word gate means بوابة. Choose the picture that has a بوابة."
   },
   {
     "grade": "P2",
@@ -3356,7 +3461,8 @@
     "image": "p2-lessons-assets/img/grapes.png",
     "alt": "grapes",
     "requires_image": true,
-    "explanation_ar": "الصورة عنب والكلمة grapes معناها عنب، يبقى الجملة صح (true)."
+    "explanation_ar": "الصورة عنب والكلمة grapes معناها عنب، يبقى الجملة صح (true).",
+    "explanation_en": "The picture is grapes and the word grapes means عنب, so the sentence is correct (true)."
   },
   {
     "grade": "P2",
@@ -3386,7 +3492,8 @@
     "image": "p2-lessons-assets/img/cave.png",
     "alt": "a cave",
     "requires_image": true,
-    "explanation_ar": "الصورة كهف (cave) مش بحيرة، يبقى الجملة The word is lake غلط (false)."
+    "explanation_ar": "الصورة كهف (cave) مش بحيرة، يبقى الجملة The word is lake غلط (false).",
+    "explanation_en": "The picture is a cave (cave), not a lake, so the sentence The word is lake is wrong (false)."
   },
   {
     "grade": "P2",
@@ -3416,7 +3523,8 @@
     "image": "p2-lessons-assets/img/snake.png",
     "alt": "a snake",
     "requires_image": true,
-    "explanation_ar": "الصورة ثعبان والكلمة snake معناها ثعبان، يبقى الجملة صح (true)."
+    "explanation_ar": "الصورة ثعبان والكلمة snake معناها ثعبان، يبقى الجملة صح (true).",
+    "explanation_en": "The picture is a snake and the word snake means ثعبان, so the sentence is correct (true)."
   },
   {
     "grade": "P2",
@@ -3446,7 +3554,8 @@
     "image": "p2-lessons-assets/img/lake.png",
     "alt": "a lake",
     "requires_image": true,
-    "explanation_ar": "الصورة بحيرة (lake) مش كهف، يبقى الجملة The word is cave غلط (false)."
+    "explanation_ar": "الصورة بحيرة (lake) مش كهف، يبقى الجملة The word is cave غلط (false).",
+    "explanation_en": "The picture is a lake (lake), not a cave, so the sentence The word is cave is wrong (false)."
   },
   {
     "grade": "P2",
@@ -3481,7 +3590,8 @@
     "image": "p2-lessons-assets/img/cave.png",
     "alt": "a cave",
     "requires_image": true,
-    "explanation_ar": "رتّب الحروف: تطلع كلمة cave يعني كهف. افتكر التهجية الصح حرف حرف."
+    "explanation_ar": "رتّب الحروف: تطلع كلمة cave يعني كهف. افتكر التهجية الصح حرف حرف.",
+    "explanation_en": "Order the letters: they make the word cave, meaning كهف. افتكر التهجية الصح حرف حرف."
   },
   {
     "grade": "P2",
@@ -3516,7 +3626,8 @@
     "image": "p2-lessons-assets/img/cake.png",
     "alt": "a cake",
     "requires_image": true,
-    "explanation_ar": "رتّب الحروف: تطلع كلمة cake يعني كيك. افتكر التهجية الصح حرف حرف."
+    "explanation_ar": "رتّب الحروف: تطلع كلمة cake يعني كيك. افتكر التهجية الصح حرف حرف.",
+    "explanation_en": "Order the letters: they make the word cake, meaning كيك. افتكر التهجية الصح حرف حرف."
   },
   {
     "grade": "P2",
@@ -3552,7 +3663,8 @@
     "image": "p2-lessons-assets/img/snake.png",
     "alt": "a snake",
     "requires_image": true,
-    "explanation_ar": "رتّب الحروف: تطلع كلمة snake يعني ثعبان. افتكر التهجية الصح حرف حرف."
+    "explanation_ar": "رتّب الحروف: تطلع كلمة snake يعني ثعبان. افتكر التهجية الصح حرف حرف.",
+    "explanation_en": "Order the letters: they make the word snake, meaning ثعبان. افتكر التهجية الصح حرف حرف."
   },
   {
     "grade": "P2",
@@ -3589,7 +3701,8 @@
     "image": "p2-lessons-assets/img/grapes.png",
     "alt": "grapes",
     "requires_image": true,
-    "explanation_ar": "رتّب الحروف: تطلع كلمة grapes يعني عنب. افتكر التهجية الصح حرف حرف."
+    "explanation_ar": "رتّب الحروف: تطلع كلمة grapes يعني عنب. افتكر التهجية الصح حرف حرف.",
+    "explanation_en": "Order the letters: they make the word grapes, meaning عنب. افتكر التهجية الصح حرف حرف."
   },
   {
     "grade": "P2",
@@ -3615,7 +3728,8 @@
     "accept": [
       "20"
     ],
-    "explanation_ar": "بنعدّ عشرات: 10، 20، 30. الرقم الناقص 20."
+    "explanation_ar": "بنعدّ عشرات: 10، 20، 30. الرقم الناقص 20.",
+    "explanation_en": "بنعدّ عشرات: 10، 20، 30. الرقم الناقص 20."
   },
   {
     "grade": "P2",
@@ -3641,7 +3755,8 @@
     "accept": [
       "40"
     ],
-    "explanation_ar": "بنعدّ عشرات: 30، 40، 50. الرقم الناقص 40."
+    "explanation_ar": "بنعدّ عشرات: 30، 40، 50. الرقم الناقص 40.",
+    "explanation_en": "بنعدّ عشرات: 30، 40، 50. الرقم الناقص 40."
   },
   {
     "grade": "P2",
@@ -3667,7 +3782,8 @@
     "accept": [
       "60"
     ],
-    "explanation_ar": "بنعدّ عشرات: 50، 60، 70. الرقم الناقص 60."
+    "explanation_ar": "بنعدّ عشرات: 50، 60، 70. الرقم الناقص 60.",
+    "explanation_en": "بنعدّ عشرات: 50، 60، 70. الرقم الناقص 60."
   },
   {
     "grade": "P2",
@@ -3693,7 +3809,8 @@
     "accept": [
       "80"
     ],
-    "explanation_ar": "بنعدّ عشرات: 70، 80، 90. الرقم الناقص 80."
+    "explanation_ar": "بنعدّ عشرات: 70، 80، 90. الرقم الناقص 80.",
+    "explanation_en": "بنعدّ عشرات: 70، 80، 90. الرقم الناقص 80."
   },
   {
     "grade": "P2",
@@ -3719,7 +3836,8 @@
     "accept": [
       "100"
     ],
-    "explanation_ar": "بنعدّ عشرات لحد الآخر: 90، 100. الرقم الناقص 100."
+    "explanation_ar": "بنعدّ عشرات لحد الآخر: 90، 100. الرقم الناقص 100.",
+    "explanation_en": "We count in tens to the end: 90، 100. The missing number is 100."
   },
   {
     "grade": "P2",
@@ -3762,7 +3880,8 @@
     "image": "p2-lessons-assets/img/gem-three-bags.png",
     "alt": "three bags",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: I have three bags. معناها «معايا تلات شنط.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: I have three bags. معناها «معايا تلات شنط.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: I have three bags. It means «معايا تلات شنط.». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -3805,7 +3924,8 @@
     "image": "p2-lessons-assets/img/ten-students.png",
     "alt": "ten students",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: There are ten students. معناها «في عشرة طلبة.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: There are ten students. معناها «في عشرة طلبة.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: There are ten students. It means «في عشرة طلبة.». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -3848,7 +3968,8 @@
     "image": "p2-lessons-assets/img/six-chairs.png",
     "alt": "chairs to count",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: Let's count the chairs. معناها «يلا نعدّ الكراسي.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: Let's count the chairs. معناها «يلا نعدّ الكراسي.». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: Let's count the chairs. It means «يلا نعدّ الكراسي.». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -3893,7 +4014,8 @@
     "image": "p2-lessons-assets/img/two-desks.png",
     "alt": "two desks",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: How many desks are there? معناها «في كام مكتب؟». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: How many desks are there? معناها «في كام مكتب؟». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: How many desks are there? It means «في كام مكتب؟». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -3940,7 +4062,8 @@
     "image": "p2-lessons-assets/img/eight-rulers.png",
     "alt": "rulers to count",
     "requires_image": true,
-    "explanation_ar": "الجملة الصح: How many rulers do you have? معناها «معاك كام مسطرة؟». راعي ترتيب الكلمات وعلامة الترقيم في الآخر."
+    "explanation_ar": "الجملة الصح: How many rulers do you have? معناها «معاك كام مسطرة؟». راعي ترتيب الكلمات وعلامة الترقيم في الآخر.",
+    "explanation_en": "The correct sentence: How many rulers do you have? It means «معاك كام مسطرة؟». Watch the word order and the punctuation at the end."
   },
   {
     "grade": "P2",
@@ -3973,7 +4096,8 @@
     "image": "p2-lessons-assets/img/two-desks.png",
     "alt": "two desks",
     "requires_image": true,
-    "explanation_ar": "عدّ المكاتب في الصورة: اتنين، يبقى There are two desks. (في مكتبين)."
+    "explanation_ar": "عدّ المكاتب في الصورة: اتنين، يبقى There are two desks. (في مكتبين).",
+    "explanation_en": "Count the desks in the picture: two, so There are two desks. (في مكتبين)."
   },
   {
     "grade": "P2",
@@ -4006,7 +4130,8 @@
     "image": "p2-lessons-assets/img/green-ruler.png",
     "alt": "one ruler",
     "requires_image": true,
-    "explanation_ar": "في الصورة مسطرة واحدة بس، يبقى There is one ruler. (مفرد بياخد is)."
+    "explanation_ar": "في الصورة مسطرة واحدة بس، يبقى There is one ruler. (مفرد بياخد is).",
+    "explanation_en": "There is only one ruler in the picture, so There is one ruler. (مفرد بياخد is)."
   },
   {
     "grade": "P2",
@@ -4041,7 +4166,8 @@
     ],
     "image": "p2-lessons-assets/img/splat-blue.png",
     "alt": "blue",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "Order the letters: they make the word blue, meaning أزرق."
   },
   {
     "grade": "P2",
@@ -4080,7 +4206,8 @@
     ],
     "image": "p2-lessons-assets/img/pink-triangle.png",
     "alt": "triangle",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "Order the letters: they make the word triangle, meaning مثلث."
   },
   {
     "grade": "P2",
@@ -4116,7 +4243,8 @@
     ],
     "image": "p2-lessons-assets/img/splat-green.png",
     "alt": "green",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "Order the letters: they make the word green, meaning أخضر."
   },
   {
     "grade": "P2",
@@ -4153,7 +4281,8 @@
     ],
     "image": "p2-lessons-assets/img/splat-orange.png",
     "alt": "orange",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "Order the letters: they make the word orange, meaning برتقالي."
   },
   {
     "grade": "P2",
@@ -4190,7 +4319,8 @@
     ],
     "image": "p2-lessons-assets/img/red-circle.png",
     "alt": "circle",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "Order the letters: they make the word circle, meaning دايرة."
   },
   {
     "grade": "P2",
@@ -4227,7 +4357,8 @@
     ],
     "image": "p2-lessons-assets/img/purple-square.png",
     "alt": "square",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "Order the letters: they make the word square, meaning مربع."
   },
   {
     "grade": "P2",
@@ -4256,7 +4387,8 @@
     "explanation_ar": "الصورة كلب: الكلمة dog وبتتكتب بالحرف الناقص o.",
     "image": "p2-lessons-assets/img/dog-brown.png",
     "alt": "dog",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The picture is a dog: the word is dog and it is written with the missing letter o."
   },
   {
     "grade": "P2",
@@ -4285,7 +4417,8 @@
     "explanation_ar": "الصورة علبة: الكلمة box وبتتكتب بالحرف الناقص o.",
     "image": "p2-lessons-assets/img/box-cartoon.png",
     "alt": "box",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The picture is a box: the word is box and it is written with the missing letter o."
   },
   {
     "grade": "P2",
@@ -4314,7 +4447,8 @@
     "explanation_ar": "الصورة ثعلب: الكلمة fox وبتتكتب بالحرف الناقص o.",
     "image": "p2-lessons-assets/img/fox-cartoon.png",
     "alt": "fox",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The picture is a fox: the word is fox and it is written with the missing letter o."
   },
   {
     "grade": "P2",
@@ -4343,7 +4477,8 @@
     "explanation_ar": "الصورة شمس: الكلمة sun وبتتكتب بالحرف الناقص u.",
     "image": "p2-lessons-assets/img/sun-cartoon.png",
     "alt": "sun",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The picture is a sun: the word is sun and it is written with the missing letter u."
   },
   {
     "grade": "P2",
@@ -4372,7 +4507,8 @@
     "explanation_ar": "الصورة كوباية: الكلمة cup وبتتكتب بالحرف الناقص u.",
     "image": "p2-lessons-assets/img/cup-white.png",
     "alt": "cup",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The picture is a cup: the word is cup and it is written with the missing letter u."
   },
   {
     "grade": "P2",
@@ -4401,7 +4537,8 @@
     "explanation_ar": "الصورة كعكة صغيرة: الكلمة bun وبتتكتب بالحرف الناقص u.",
     "image": "p2-lessons-assets/img/bun.png",
     "alt": "bun",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The picture is a bun: the word is bun and it is written with the missing letter u."
   },
   {
     "grade": "P2",
@@ -4435,7 +4572,8 @@
     ],
     "image": "p2-lessons-assets/img/dog-cartoon.png",
     "alt": "dog",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "Order the letters: they make the word dog, meaning كلب."
   },
   {
     "grade": "P2",
@@ -4469,7 +4607,8 @@
     ],
     "image": "p2-lessons-assets/img/bun.png",
     "alt": "bun",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "Order the letters: they make the word bun, meaning كعكة صغيرة."
   },
   {
     "id": "orig-p2-u2l3-01",
@@ -4498,7 +4637,8 @@
       "ministry_lesson": "Unit 2 Lesson 3",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "With more than one we add s: one pencil, two pencils."
   },
   {
     "id": "orig-p2-u2l3-02",
@@ -4527,7 +4667,8 @@
       "ministry_lesson": "Unit 2 Lesson 3",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "With I we say have: I have five pens."
   },
   {
     "id": "orig-p2-u2l3-03",
@@ -4555,7 +4696,8 @@
       "ministry_lesson": "Unit 2 Lesson 3",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "More than one: we add s so it becomes books."
   },
   {
     "id": "orig-p2-u2l4-01",
@@ -4583,7 +4725,8 @@
       "ministry_lesson": "Unit 2 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "snake has the long a sound (like the letter's name). snack has a short a."
   },
   {
     "id": "orig-p2-u2l4-02",
@@ -4626,7 +4769,8 @@
       "ministry_lesson": "Unit 2 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The question: How many ... are there? followed by a question mark."
   },
   {
     "id": "orig-p2-u2l4-03",
@@ -4667,6 +4811,7 @@
       "ministry_lesson": "Unit 2 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "There are + the number + the noun: There are eight books."
   }
 ]

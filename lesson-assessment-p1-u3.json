@@ -22,7 +22,8 @@
     "image_optional": [
       "father"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "father means الأب."
   },
   {
     "grade": "P1",
@@ -47,7 +48,8 @@
     "image_optional": [
       "mother"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "mother means الأم."
   },
   {
     "grade": "P1",
@@ -72,7 +74,8 @@
     "image_optional": [
       "parents"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "parents means الأب والأم together."
   },
   {
     "grade": "P1",
@@ -97,7 +100,8 @@
     "image_optional": [
       "brother"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "brother means الأخ."
   },
   {
     "grade": "P1",
@@ -122,7 +126,8 @@
     "image_optional": [
       "sister"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "sister means الأخت."
   },
   {
     "grade": "P1",
@@ -147,7 +152,8 @@
     "image_optional": [
       "grandmother"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "grandmother means الجدة."
   },
   {
     "grade": "P1",
@@ -172,7 +178,8 @@
     "image_optional": [
       "grandfather"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "grandfather means الجد."
   },
   {
     "grade": "P1",
@@ -195,7 +202,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "أمي = my mother."
   },
   {
     "grade": "P1",
@@ -218,7 +226,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "أخويا = my brother."
   },
   {
     "grade": "P1",
@@ -241,7 +250,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "جدي = my grandfather."
   },
   {
     "grade": "P1",
@@ -264,7 +274,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Who's this? is used to ask about a person."
   },
   {
     "grade": "P1",
@@ -287,7 +298,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "الأب = father."
   },
   {
     "grade": "P1",
@@ -310,7 +322,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "الأم = mother."
   },
   {
     "grade": "P1",
@@ -336,7 +349,8 @@
       "father",
       "mother"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "parents means الأب والأم."
   },
   {
     "grade": "P1",
@@ -361,7 +375,8 @@
     "image_optional": [
       "mother"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "A mother's mother is the grandmother: grandmother."
   },
   {
     "grade": "P1",
@@ -386,7 +401,8 @@
     "image_optional": [
       "father"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "A father's father is the grandfather: grandfather."
   },
   {
     "grade": "P1",
@@ -409,7 +425,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "With 2 we say the plural sisters with s."
   },
   {
     "grade": "P1",
@@ -432,7 +449,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "With 1 we say the singular brother without s."
   },
   {
     "grade": "P1",
@@ -455,7 +473,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The s at the end shows the plural."
   },
   {
     "grade": "P1",
@@ -478,7 +497,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "desk means مكتب."
   },
   {
     "grade": "P1",
@@ -501,7 +521,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "mother and sister are for females."
   },
   {
     "grade": "P1",
@@ -524,7 +545,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "father and brother are for males."
   },
   {
     "grade": "P1",
@@ -595,7 +617,8 @@
     "image_optional": [
       "brothers"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "He asked you: do you have brothers? You answer: Yes! I have 1 brother. (أيوه عندي أخ واحد)."
   },
   {
     "grade": "P1",
@@ -618,7 +641,8 @@
     "image_optional": [
       "brother"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the conversation: I have 1 brother."
   },
   {
     "grade": "P1",
@@ -641,7 +665,8 @@
     "image_optional": [
       "brothers"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Maya has 2 sisters (أختين), not brothers."
   },
   {
     "grade": "P1",
@@ -666,7 +691,8 @@
       "mother",
       "parents"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Sara said: This is my father... mother... They are my parents."
   },
   {
     "grade": "P1",
@@ -735,7 +761,8 @@
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The question: Who's this?"
   },
   {
     "grade": "P1",
@@ -771,7 +798,8 @@
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The sentence: I have 2 sisters."
   },
   {
     "grade": "P1",
@@ -793,7 +821,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word mother: m-o-t-h-e-r."
   },
   {
     "grade": "P1",
@@ -815,7 +844,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word father: f-a-t-h-e-r."
   },
   {
     "grade": "P1",
@@ -837,7 +867,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word sister: s-i-s-t-e-r."
   },
   {
     "grade": "P1",
@@ -910,7 +941,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has its own slot. 1: Who (ده مين). 2: father. 3: brothers (إخوة). 4: 1 or one. 5: sisters."
   },
   {
     "grade": "P1",
@@ -933,7 +965,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word nose starts with the letter Nn. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -956,7 +989,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word nurse starts with the letter Nn. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -979,7 +1013,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word nail starts with the letter Nn. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1002,7 +1037,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word neck starts with the letter Nn. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1027,7 +1063,8 @@
     "image_optional": [
       "nose"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "nose and also nurse start with the letter Nn."
   },
   {
     "grade": "P1",
@@ -1104,7 +1141,8 @@
     "image_optional": [
       "nail"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "nail starts with the letter n."
   },
   {
     "grade": "P1",
@@ -1127,7 +1165,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The capital N and the small n."
   },
   {
     "grade": "P1",
@@ -1150,7 +1189,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The small n and the capital N."
   },
   {
     "grade": "P1",
@@ -1175,7 +1215,8 @@
     "image_optional": [
       "nose"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "nose means أنف."
   },
   {
     "grade": "P1",
@@ -1200,7 +1241,8 @@
     "image_optional": [
       "nurse"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "nurse means ممرضة."
   },
   {
     "grade": "P1",
@@ -1225,7 +1267,8 @@
     "image_optional": [
       "nail"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "nail means ظفر."
   },
   {
     "grade": "P1",
@@ -1296,7 +1339,8 @@
     "image_optional": [
       "pizza"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "pizza starts with the letter مختلف عن N."
   },
   {
     "grade": "P1",
@@ -1318,7 +1362,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of nose is n."
   },
   {
     "grade": "P1",
@@ -1340,7 +1385,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of nurse is n."
   },
   {
     "grade": "P1",
@@ -1369,7 +1415,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/kg-nose.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: n-o-s-e."
   },
   {
     "grade": "P1",
@@ -1399,7 +1446,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "images/words/nurse.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: n-u-r-s-e."
   },
   {
     "grade": "P1",
@@ -1422,7 +1470,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word pizza starts with the letter Pp. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1445,7 +1494,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word panda starts with the letter Pp. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1468,7 +1518,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word pencil starts with the letter Pp. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1491,7 +1542,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word parrot starts with the letter Pp. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1516,7 +1568,8 @@
     "image_optional": [
       "pizza"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "pizza and also panda start with the letter Pp."
   },
   {
     "grade": "P1",
@@ -1593,7 +1646,8 @@
     "image_optional": [
       "pencil"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "pencil starts with the letter p."
   },
   {
     "grade": "P1",
@@ -1616,7 +1670,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The capital P and the small p."
   },
   {
     "grade": "P1",
@@ -1639,7 +1694,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The small p and the capital P."
   },
   {
     "grade": "P1",
@@ -1664,7 +1720,8 @@
     "image_optional": [
       "pizza"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "pizza means بيتزا."
   },
   {
     "grade": "P1",
@@ -1689,7 +1746,8 @@
     "image_optional": [
       "panda"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "panda means باندا."
   },
   {
     "grade": "P1",
@@ -1714,7 +1772,8 @@
     "image_optional": [
       "pencil"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "pencil means قلم رصاص."
   },
   {
     "grade": "P1",
@@ -1785,7 +1844,8 @@
     "image_optional": [
       "nose"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "nose starts with the letter مختلف عن P."
   },
   {
     "grade": "P1",
@@ -1807,7 +1867,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of pizza is p."
   },
   {
     "grade": "P1",
@@ -1829,7 +1890,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of panda is p."
   },
   {
     "grade": "P1",
@@ -1859,7 +1921,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/obj-pizza.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: p-i-z-z-a."
   },
   {
     "grade": "P1",
@@ -1889,7 +1952,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "images/words/panda.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: p-a-n-d-a."
   },
   {
     "grade": "P1",
@@ -1912,7 +1976,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word nose."
   },
   {
     "grade": "P1",
@@ -1935,7 +2000,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word pizza."
   },
   {
     "grade": "P1",
@@ -1958,7 +2024,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "nose starts with n."
   },
   {
     "grade": "P1",
@@ -1981,7 +2048,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "parrot starts with p."
   },
   {
     "grade": "P1",
@@ -2005,7 +2073,8 @@
     ],
     "answer": "2",
     "explanation_ar": "بعد 1 بييجي 2.",
-    "answer_kind": "closed"
+    "answer_kind": "closed",
+    "explanation_en": "After 1 comes 2."
   },
   {
     "grade": "P1",
@@ -2029,7 +2098,8 @@
     ],
     "answer": "4",
     "explanation_ar": "بعد 3 بييجي 4.",
-    "answer_kind": "closed"
+    "answer_kind": "closed",
+    "explanation_en": "After 3 comes 4."
   },
   {
     "grade": "P1",
@@ -2078,7 +2148,8 @@
     ],
     "answer": "2",
     "explanation_ar": "قبل 3 بييجي 2.",
-    "answer_kind": "closed"
+    "answer_kind": "closed",
+    "explanation_en": "Before 3 comes 2."
   },
   {
     "grade": "P1",
@@ -2127,7 +2198,8 @@
     ],
     "answer": "2",
     "explanation_ar": "2 sisters يعني أختين.",
-    "answer_kind": "closed"
+    "answer_kind": "closed",
+    "explanation_en": "2 sisters means أختين."
   },
   {
     "grade": "P1",
@@ -2151,7 +2223,8 @@
     ],
     "answer": "3",
     "explanation_ar": "3 بين 2 و 4.",
-    "answer_kind": "closed"
+    "answer_kind": "closed",
+    "explanation_en": "3 بين 2 و 4."
   },
   {
     "grade": "P1",
@@ -2175,7 +2248,8 @@
     ],
     "answer": "4",
     "explanation_ar": "4 بين 3 و 5.",
-    "answer_kind": "closed"
+    "answer_kind": "closed",
+    "explanation_en": "4 بين 3 و 5."
   },
   {
     "grade": "P1",
@@ -2198,7 +2272,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "العد: 1, 2, 3."
   },
   {
     "grade": "P1",
@@ -2221,7 +2296,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "العد: 4, 5."
   },
   {
     "grade": "P1",
@@ -2244,7 +2320,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Before 4 comes 3."
   },
   {
     "grade": "P1",
@@ -2267,7 +2344,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "الرقم الناقص 3."
   },
   {
     "grade": "P1",
@@ -2290,7 +2368,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "الرقم الناقص 2."
   },
   {
     "grade": "P1",
@@ -2313,7 +2392,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "5 is the biggest number in the choices."
   },
   {
     "grade": "P1",
@@ -2336,7 +2416,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "1 is the smallest number."
   },
   {
     "grade": "P1",
@@ -2361,7 +2442,8 @@
     "image_optional": [
       "sun"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "There is one sun, and we say There is with 1."
   },
   {
     "grade": "P1",
@@ -2386,7 +2468,8 @@
     "image_optional": [
       "books"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "With more than one we say There are."
   },
   {
     "grade": "P1",
@@ -2411,7 +2494,8 @@
     "image_optional": [
       "butterfly"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "With one we say There is."
   },
   {
     "grade": "P1",
@@ -2434,7 +2518,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "5 means many, so the noun is plural: birds."
   },
   {
     "grade": "P1",
@@ -2459,7 +2544,8 @@
     "image_optional": [
       "books"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We say There are with numbers bigger than 1."
   },
   {
     "grade": "P1",
@@ -2482,7 +2568,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We use How many to ask about the number."
   },
   {
     "grade": "P1",
@@ -2507,7 +2594,8 @@
     "image_optional": [
       "books"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Aly counted 1, 2, 3."
   },
   {
     "grade": "P1",
@@ -2532,7 +2620,8 @@
     "image_optional": [
       "apples"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Aly had zero apples. Omar gave her one apple, so she has 1."
   },
   {
     "grade": "P1",
@@ -2555,7 +2644,8 @@
     "image_optional": [
       "flowers"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Aly عدّت 1, 2, 3, 4 means 4 زهور."
   },
   {
     "grade": "P1",
@@ -2578,7 +2668,8 @@
     "image_optional": [
       "sun"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "There is only one sun in the sky: There is 1 sun."
   },
   {
     "grade": "P1",
@@ -2599,7 +2690,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The order is 1, 2, 3, 4, 5. The 3 comes before the 5."
   },
   {
     "grade": "P1",
@@ -2635,7 +2727,8 @@
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The sentence: There are 3 books."
   },
   {
     "grade": "P1",
@@ -2671,7 +2764,8 @@
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The sentence: There is 1 sun."
   },
   {
     "grade": "P1",
@@ -2707,7 +2801,8 @@
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The sentence: I see 5 birds."
   },
   {
     "grade": "P1",
@@ -2729,7 +2824,8 @@
       "3"
     ],
     "explanation_ar": "بعد 2 بييجي 3.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "After 2 comes 3."
   },
   {
     "grade": "P1",
@@ -2854,7 +2950,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has its own slot. 1: How (How many). 2: 3 or three. 3: count (يعدّ). 4: 4 or four. 5: 1 or one."
   },
   {
     "grade": "P1",
@@ -2877,7 +2974,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word hat starts with the letter Hh. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -2900,7 +2998,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word hair starts with the letter Hh. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -2923,7 +3022,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word hands starts with the letter Hh. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -2946,7 +3046,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word horse starts with the letter Hh. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -2971,7 +3072,8 @@
     "image_optional": [
       "hat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hat and also hair start with the letter Hh."
   },
   {
     "grade": "P1",
@@ -3048,7 +3150,8 @@
     "image_optional": [
       "hands"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hands starts with the letter h."
   },
   {
     "grade": "P1",
@@ -3071,7 +3174,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The capital H and the small h."
   },
   {
     "grade": "P1",
@@ -3094,7 +3198,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The small h and the capital H."
   },
   {
     "grade": "P1",
@@ -3119,7 +3224,8 @@
     "image_optional": [
       "hat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hat means قبعة."
   },
   {
     "grade": "P1",
@@ -3144,7 +3250,8 @@
     "image_optional": [
       "hair"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hair means شعر."
   },
   {
     "grade": "P1",
@@ -3169,7 +3276,8 @@
     "image_optional": [
       "hands"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hands means إيدين."
   },
   {
     "grade": "P1",
@@ -3240,7 +3348,8 @@
     "image_optional": [
       "dog"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "dog starts with the letter مختلف عن H."
   },
   {
     "grade": "P1",
@@ -3262,7 +3371,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of hat is h."
   },
   {
     "grade": "P1",
@@ -3284,7 +3394,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of hair is h."
   },
   {
     "grade": "P1",
@@ -3312,7 +3423,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/obj-hat.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: h-a-t."
   },
   {
     "grade": "P1",
@@ -3341,7 +3453,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/kg-hair.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: h-a-i-r."
   },
   {
     "grade": "P1",
@@ -3364,7 +3477,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word dog starts with the letter Dd. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -3387,7 +3501,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word door starts with the letter Dd. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -3410,7 +3525,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word doll starts with the letter Dd. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -3433,7 +3549,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word duck starts with the letter Dd. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -3458,7 +3575,8 @@
     "image_optional": [
       "dog"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "dog and also door start with the letter Dd."
   },
   {
     "grade": "P1",
@@ -3535,7 +3653,8 @@
     "image_optional": [
       "doll"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "doll starts with the letter d."
   },
   {
     "grade": "P1",
@@ -3558,7 +3677,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The capital D and the small d."
   },
   {
     "grade": "P1",
@@ -3581,7 +3701,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The small d and the capital D."
   },
   {
     "grade": "P1",
@@ -3606,7 +3727,8 @@
     "image_optional": [
       "dog"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "dog means كلب."
   },
   {
     "grade": "P1",
@@ -3631,7 +3753,8 @@
     "image_optional": [
       "door"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "door means باب."
   },
   {
     "grade": "P1",
@@ -3656,7 +3779,8 @@
     "image_optional": [
       "doll"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "doll means عروسة."
   },
   {
     "grade": "P1",
@@ -3727,7 +3851,8 @@
     "image_optional": [
       "hat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hat starts with the letter مختلف عن D."
   },
   {
     "grade": "P1",
@@ -3749,7 +3874,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of dog is d."
   },
   {
     "grade": "P1",
@@ -3771,7 +3897,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of door is d."
   },
   {
     "grade": "P1",
@@ -3799,7 +3926,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/kg-dog.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: d-o-g."
   },
   {
     "grade": "P1",
@@ -3828,7 +3956,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/obj-door.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: d-o-o-r."
   },
   {
     "grade": "P1",
@@ -3851,7 +3980,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word dog."
   },
   {
     "grade": "P1",
@@ -3874,7 +4004,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hat starts with h."
   },
   {
     "grade": "P1",
@@ -3897,7 +4028,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "duck starts with d."
   },
   {
     "grade": "P1",
@@ -3922,7 +4054,8 @@
     "image": "p1-lessons-assets/img/count-apples-3.png",
     "alt": "3 red apples",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the apples one by one: the answer is 3."
   },
   {
     "grade": "P1",
@@ -3947,7 +4080,8 @@
     "image": "p1-lessons-assets/img/count-apples-5.png",
     "alt": "5 red apples",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the apples one by one: the answer is 5."
   },
   {
     "grade": "P1",
@@ -3972,7 +4106,8 @@
     "image": "p1-lessons-assets/img/count-stars-4.png",
     "alt": "4 yellow stars",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the stars one by one: the answer is 4."
   },
   {
     "grade": "P1",
@@ -3997,7 +4132,8 @@
     "image": "p1-lessons-assets/img/count-stars-2.png",
     "alt": "2 yellow stars",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the stars one by one: the answer is 2."
   },
   {
     "grade": "P1",
@@ -4022,7 +4158,8 @@
     "image": "p1-lessons-assets/img/count-pencils-2.png",
     "alt": "2 yellow pencils",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the pencils one by one: the answer is 2."
   },
   {
     "grade": "P1",
@@ -4047,7 +4184,8 @@
     "image": "p1-lessons-assets/img/count-pencils-3.png",
     "alt": "3 yellow pencils",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the pencils one by one: the answer is 3."
   },
   {
     "grade": "P1",
@@ -4072,7 +4210,8 @@
     "image": "p1-lessons-assets/img/count-books-4.png",
     "alt": "4 books",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the books one by one: the answer is 4."
   },
   {
     "grade": "P1",
@@ -4097,7 +4236,8 @@
     "image": "p1-lessons-assets/img/count-bags-3.png",
     "alt": "3 red bags",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the bags one by one: the answer is 3."
   },
   {
     "grade": "P1",
@@ -4122,7 +4262,8 @@
     "image": "p1-lessons-assets/img/count-flowers-5.png",
     "alt": "5 pink flowers",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the flowers one by one: the answer is 5."
   },
   {
     "grade": "P1",
@@ -4147,7 +4288,8 @@
     "image": "p1-lessons-assets/img/count-flowers-4.png",
     "alt": "4 pink flowers",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the flowers one by one: the answer is 4."
   },
   {
     "grade": "P1",
@@ -4172,7 +4314,8 @@
     "image": "p1-lessons-assets/img/count-books-1.png",
     "alt": "1 book",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "One book: we say There is."
   },
   {
     "grade": "P1",
@@ -4197,7 +4340,8 @@
     "image": "p1-lessons-assets/img/obj-hat.png",
     "alt": "a picture of a hat",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is قبعة. The word in English: hat."
   },
   {
     "grade": "P1",
@@ -4248,7 +4392,8 @@
     "image": "p1-lessons-assets/img/obj-door.png",
     "alt": "a picture of a door",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is باب. The word in English: door."
   },
   {
     "grade": "P1",
@@ -4299,7 +4444,8 @@
     "image": "p1-lessons-assets/img/obj-drum.png",
     "alt": "a picture of a drum",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is طبلة. The word in English: drum."
   },
   {
     "grade": "P1",
@@ -4324,7 +4470,8 @@
     "image": "p1-lessons-assets/img/obj-drum.png",
     "alt": "a picture of a drum",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "drum starts with the letter d."
   },
   {
     "grade": "P1",
@@ -4349,7 +4496,8 @@
     "image": "p1-lessons-assets/img/obj-house.png",
     "alt": "a picture of a house",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is بيت. The word in English: house."
   },
   {
     "grade": "P1",
@@ -4374,7 +4522,8 @@
     "image": "p1-lessons-assets/img/obj-house.png",
     "alt": "a picture of a house",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "house starts with the letter h."
   },
   {
     "grade": "P1",
@@ -4399,7 +4548,8 @@
     "image": "p1-lessons-assets/img/obj-pizza.png",
     "alt": "a picture of a pizza",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is بيتزا. The word in English: pizza."
   },
   {
     "grade": "P1",
@@ -4450,7 +4600,8 @@
     "image": "p1-lessons-assets/img/kg-dog.png",
     "alt": "picture: dog",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is كلب. The word in English: dog."
   },
   {
     "grade": "P1",
@@ -4501,7 +4652,8 @@
     "image": "p1-lessons-assets/img/kg-hair.png",
     "alt": "picture: hair",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is شعر. The word in English: hair."
   },
   {
     "grade": "P1",
@@ -4590,7 +4742,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: Who (مين). 2: father (أب). 3: parents (الأب والأم). 4: grandmother (جدة).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own slot. 1: Who (مين). 2: father (أب). 3: parents (الأب والأم). 4: grandmother (جدة)."
   },
   {
     "grade": "P1",
@@ -4655,7 +4808,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: grandfather (جد). 2: sister (أخت). 3: brother (أخ).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own slot. 1: grandfather (جد). 2: sister (أخت). 3: brother (أخ)."
   },
   {
     "grade": "P1",
@@ -4677,7 +4831,8 @@
       "grandmother"
     ],
     "explanation_ar": "الإجابة grandmother، معناها جدة.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is grandmother, meaning جدة."
   },
   {
     "grade": "P1",
@@ -4699,7 +4854,8 @@
       "grandfather"
     ],
     "explanation_ar": "الإجابة grandfather، معناها جد.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is grandfather, meaning جد."
   },
   {
     "grade": "P1",
@@ -4721,7 +4877,8 @@
       "parents"
     ],
     "explanation_ar": "الإجابة parents، معناها الأب والأم.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is parents, meaning الأب والأم."
   },
   {
     "grade": "P1",
@@ -4743,7 +4900,8 @@
       "sister"
     ],
     "explanation_ar": "الإجابة sister، معناها أختي.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is sister, meaning أختي."
   },
   {
     "grade": "P1",
@@ -4794,7 +4952,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: nurse (ممرضة). 2: nose (أنف).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own slot. 1: nurse (ممرضة). 2: nose (أنف)."
   },
   {
     "grade": "P1",
@@ -4843,7 +5002,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: pizza (بيتزا). 2: panda (باندا). 3: pencil (قلم رصاص).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own slot. 1: pizza (بيتزا). 2: panda (باندا). 3: pencil (قلم رصاص)."
   },
   {
     "grade": "P1",
@@ -4865,7 +5025,8 @@
       "nose"
     ],
     "explanation_ar": "الإجابة nose، معناها أنف.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is nose, meaning أنف."
   },
   {
     "grade": "P1",
@@ -4887,7 +5048,8 @@
       "nurse"
     ],
     "explanation_ar": "الإجابة nurse، معناها ممرضة.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is nurse, meaning ممرضة."
   },
   {
     "grade": "P1",
@@ -4909,7 +5071,8 @@
       "panda"
     ],
     "explanation_ar": "الإجابة panda، معناها باندا.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is panda, meaning باندا."
   },
   {
     "grade": "P1",
@@ -4931,7 +5094,8 @@
       "pencil"
     ],
     "explanation_ar": "الإجابة pencil، معناها قلم رصاص.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is pencil, meaning قلم رصاص."
   },
   {
     "grade": "P1",
@@ -4996,7 +5160,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: 3. 2: 4. 3: 1.",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own slot. 1: 3. 2: 4. 3: 1."
   },
   {
     "grade": "P1",
@@ -5049,7 +5214,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: 2. 2: 5. 3: 3.",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own slot. 1: 2. 2: 5. 3: 3."
   },
   {
     "grade": "P1",
@@ -5071,7 +5237,8 @@
       "2"
     ],
     "explanation_ar": "الإجابة 2، معناها الرقم الناقص.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is 2, meaning الرقم الناقص."
   },
   {
     "grade": "P1",
@@ -5093,7 +5260,8 @@
       "4"
     ],
     "explanation_ar": "الإجابة 4، معناها الرقم الناقص.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is 4, meaning الرقم الناقص."
   },
   {
     "grade": "P1",
@@ -5115,7 +5283,8 @@
       "5"
     ],
     "explanation_ar": "الإجابة 5، معناها الرقم اللي بعد 4.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is 5, meaning the number after 4."
   },
   {
     "grade": "P1",
@@ -5137,7 +5306,8 @@
       "1"
     ],
     "explanation_ar": "الإجابة 1، معناها الرقم اللي قبل 2.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is 1, meaning the number before 2."
   },
   {
     "grade": "P1",
@@ -5190,7 +5360,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: hat (قبعة). 2: hair (شعر). 3: hands (إيدين).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own slot. 1: hat (قبعة). 2: hair (شعر). 3: hands (إيدين)."
   },
   {
     "grade": "P1",
@@ -5247,7 +5418,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: door (باب). 2: dog (كلب). 3: doll (عروسة).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own slot. 1: door (باب). 2: dog (كلب). 3: doll (عروسة)."
   },
   {
     "grade": "P1",
@@ -5269,7 +5441,8 @@
       "hat"
     ],
     "explanation_ar": "الإجابة hat، معناها قبعة.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is hat, meaning قبعة."
   },
   {
     "grade": "P1",
@@ -5291,7 +5464,8 @@
       "dog"
     ],
     "explanation_ar": "الإجابة dog، معناها كلب.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is dog, meaning كلب."
   },
   {
     "grade": "P1",
@@ -5313,7 +5487,8 @@
       "door"
     ],
     "explanation_ar": "الإجابة door، معناها باب.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is door, meaning باب."
   },
   {
     "grade": "P1",
@@ -5335,6 +5510,7 @@
       "doll"
     ],
     "explanation_ar": "الإجابة doll، معناها عروسة.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is doll, meaning عروسة."
   }
 ]

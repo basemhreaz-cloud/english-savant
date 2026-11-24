@@ -22,7 +22,8 @@
     "image_optional": [
       "father"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "father means الأب."
   },
   {
     "grade": "P1",
@@ -47,7 +48,8 @@
     "image_optional": [
       "mother"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "mother means الأم."
   },
   {
     "grade": "P1",
@@ -70,7 +72,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "أمي = my mother."
   },
   {
     "grade": "P1",
@@ -93,7 +96,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "أخويا = my brother."
   },
   {
     "grade": "P1",
@@ -116,7 +120,8 @@
     "image_optional": [
       "brother"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the conversation: I have 1 brother."
   },
   {
     "grade": "P1",
@@ -139,7 +144,8 @@
     "image_optional": [
       "brothers"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Maya has 2 sisters (أختين), not brothers."
   },
   {
     "grade": "P1",
@@ -162,7 +168,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "جدي = my grandfather."
   },
   {
     "grade": "P1",
@@ -185,7 +192,8 @@
     "answer_kind": "text_key",
     "image_optional": null,
     "requires_image": false,
-    "hint_ar": "أم"
+    "hint_ar": "أم",
+    "explanation_en": "The word mother: m-o-t-h-e-r."
   },
   {
     "grade": "P1",
@@ -258,7 +266,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has its own slot. 1: Who (ده مين). 2: father. 3: brothers (إخوة). 4: 1 or one. 5: sisters."
   },
   {
     "grade": "P1",
@@ -309,7 +318,8 @@
     "image_optional": [
       "nurse"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "nurse means ممرضة."
   },
   {
     "grade": "P1",
@@ -362,7 +372,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/kg-nose.png",
-    "alt": "a nose"
+    "alt": "a nose",
+    "explanation_en": "Order the letters: n-o-s-e."
   },
   {
     "grade": "P1",
@@ -413,7 +424,8 @@
     "image_optional": [
       "pizza"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "pizza means بيتزا."
   },
   {
     "grade": "P1",
@@ -436,7 +448,8 @@
     "image_optional": [
       "pizza"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "pizza starts with the letter مختلف عن N."
   },
   {
     "grade": "P1",
@@ -466,7 +479,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/obj-pizza.png",
-    "alt": "a pizza"
+    "alt": "a pizza",
+    "explanation_en": "Order the letters: p-i-z-z-a."
   },
   {
     "grade": "P1",
@@ -489,7 +503,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "parrot starts with p."
   },
   {
     "grade": "P1",
@@ -512,7 +527,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We use How many to ask about the number."
   },
   {
     "grade": "P1",
@@ -537,7 +553,8 @@
     "image": "p1-lessons-assets/img/count-books-1.png",
     "alt": "1 book",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "One book: we say There is."
   },
   {
     "grade": "P1",
@@ -562,7 +579,8 @@
     "image": "p1-lessons-assets/img/count-apples-3.png",
     "alt": "3 red apples",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the apples one by one: the answer is 3."
   },
   {
     "grade": "P1",
@@ -587,7 +605,8 @@
     "answer": "2",
     "explanation_ar": "بعد 1 بييجي 2.",
     "answer_kind": "closed",
-    "replaces": "p1-u3-l3-01"
+    "replaces": "p1-u3-l3-01",
+    "explanation_en": "After 1 comes 2."
   },
   {
     "grade": "P1",
@@ -612,7 +631,8 @@
     "answer": "4",
     "explanation_ar": "بعد 3 بييجي 4.",
     "answer_kind": "closed",
-    "replaces": "p1-u3-l3-02"
+    "replaces": "p1-u3-l3-02",
+    "explanation_en": "After 3 comes 4."
   },
   {
     "grade": "P1",
@@ -635,7 +655,8 @@
     "image_optional": [
       "flowers"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Aly عدّت 1, 2, 3, 4 means 4 زهور."
   },
   {
     "grade": "P1",
@@ -660,7 +681,8 @@
     ],
     "requires_image": true,
     "image": "p1-lessons-assets/img/sun.png",
-    "alt": "one sun"
+    "alt": "one sun",
+    "explanation_en": "There is only one sun in the sky: There is 1 sun."
   },
   {
     "grade": "P1",
@@ -698,7 +720,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/sun.png",
-    "alt": "one sun"
+    "alt": "one sun",
+    "explanation_en": "The sentence: There is 1 sun."
   },
   {
     "grade": "P1",
@@ -721,7 +744,8 @@
     ],
     "explanation_ar": "بعد 2 بييجي 3.",
     "answer_kind": "text_key",
-    "replaces": "p1-u3-l3-30"
+    "replaces": "p1-u3-l3-30",
+    "explanation_en": "After 2 comes 3."
   },
   {
     "grade": "P1",
@@ -800,7 +824,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has its own slot. 1: How (How many). 2: 3 or three. 3: count (يعدّ). 4: 4 or four. 5: 1 or one."
   },
   {
     "grade": "P1",
@@ -851,7 +876,8 @@
     "image_optional": [
       "hat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hat means قبعة."
   },
   {
     "grade": "P1",
@@ -903,7 +929,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/obj-hat.png",
-    "alt": "a hat"
+    "alt": "a hat",
+    "explanation_en": "Order the letters: h-a-t."
   },
   {
     "grade": "P1",
@@ -954,7 +981,8 @@
     "image_optional": [
       "dog"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "dog means كلب."
   },
   {
     "grade": "P1",
@@ -977,7 +1005,8 @@
     "image_optional": [
       "dog"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "dog starts with the letter مختلف عن H."
   },
   {
     "grade": "P1",
@@ -1006,7 +1035,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/obj-door.png",
-    "alt": "a door"
+    "alt": "a door",
+    "explanation_en": "Order the letters: d-o-o-r."
   },
   {
     "grade": "P1",
@@ -1029,6 +1059,7 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "duck starts with d."
   }
 ]

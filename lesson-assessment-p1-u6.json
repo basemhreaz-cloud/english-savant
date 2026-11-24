@@ -23,7 +23,8 @@
       "lion",
       "lion"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "lion means أسد."
   },
   {
     "grade": "P1",
@@ -48,7 +49,8 @@
     "image_optional": [
       "tiger"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "tiger means نمر."
   },
   {
     "grade": "P1",
@@ -73,7 +75,8 @@
     "image_optional": [
       "monkey"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "monkey means قرد."
   },
   {
     "grade": "P1",
@@ -98,7 +101,8 @@
     "image_optional": [
       "elephant"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "elephant means فيل."
   },
   {
     "grade": "P1",
@@ -123,7 +127,8 @@
     "image_optional": [
       "giraffe"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "giraffe means زرافة."
   },
   {
     "grade": "P1",
@@ -174,7 +179,8 @@
     "image_optional": [
       "jungle"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "jungle means غابة."
   },
   {
     "grade": "P1",
@@ -226,7 +232,8 @@
       "tiger",
       "legs"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The tiger has 4 legs."
   },
   {
     "grade": "P1",
@@ -252,7 +259,8 @@
       "elephant",
       "legs"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The elephant has 4 legs."
   },
   {
     "grade": "P1",
@@ -277,7 +285,8 @@
     "image_optional": [
       "monkey"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The monkey is in the tree: in the tree."
   },
   {
     "grade": "P1",
@@ -302,7 +311,8 @@
     "image_optional": [
       "snake"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The snake is on the ground: on the ground."
   },
   {
     "grade": "P1",
@@ -325,7 +335,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "الزرافة رقبتها طويلة."
   },
   {
     "grade": "P1",
@@ -348,7 +359,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The elephant has a trunk: trunk."
   },
   {
     "grade": "P1",
@@ -373,7 +385,8 @@
     "image_optional": [
       "jungle"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The duck (duck) is a farm animal, not a jungle animal."
   },
   {
     "grade": "P1",
@@ -398,7 +411,8 @@
     "image_optional": [
       "legs"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "الثعبان مالوش رجلين."
   },
   {
     "grade": "P1",
@@ -421,7 +435,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "With 2 we say lions with s."
   },
   {
     "grade": "P1",
@@ -444,7 +459,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "3 قرود = 3 monkeys."
   },
   {
     "grade": "P1",
@@ -469,7 +485,8 @@
     "image_optional": [
       "snake"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "One: There is."
   },
   {
     "grade": "P1",
@@ -492,7 +509,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Two: There are."
   },
   {
     "grade": "P1",
@@ -513,7 +531,8 @@
     "passage": "Omar: Look! What's this?\nLeila: It's a lion!\nOmar: How many lions can you see?\nLeila: I can see 2 lions!\nOmar: How many legs does a tiger have?\nLeila: A tiger has 4 legs.\nOmar: Where is the monkey?\nLeila: The monkey is in the tree!\nOmar: I see an elephant and a giraffe too!\nLeila: And look! There is a snake on the ground!\nBoth: We love the jungle!",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the conversation: I can see 2 lions!"
   },
   {
     "grade": "P1",
@@ -537,7 +556,8 @@
       "tiger",
       "legs"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The tiger has 4 legs: A tiger has 4 legs."
   },
   {
     "grade": "P1",
@@ -560,7 +580,8 @@
     "image_optional": [
       "snake"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The snake is on the ground: a snake on the ground."
   },
   {
     "grade": "P1",
@@ -583,7 +604,8 @@
     "image_optional": [
       "jungle"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The last sentence: We love the jungle!"
   },
   {
     "grade": "P1",
@@ -631,7 +653,8 @@
     "passage": "Omar: Look! What's this?\nLeila: It's a lion!\nOmar: How many lions can you see?\nLeila: I can see 2 lions!\nOmar: How many legs does a tiger have?\nLeila: A tiger has 4 legs.\nOmar: Where is the monkey?\nLeila: The monkey is in the tree!\nOmar: I see an elephant and a giraffe too!\nLeila: And look! There is a snake on the ground!\nBoth: We love the jungle!",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Leila says I can see 2 lions!"
   },
   {
     "grade": "P1",
@@ -669,7 +692,8 @@
     "accept": [
       "A tiger has 4 legs."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: A tiger has 4 legs."
   },
   {
     "grade": "P1",
@@ -709,7 +733,8 @@
     "accept": [
       "The monkey is in the tree."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: The monkey is in the tree."
   },
   {
     "grade": "P1",
@@ -745,7 +770,8 @@
     "accept": [
       "We love the jungle!"
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: We love the jungle!"
   },
   {
     "grade": "P1",
@@ -774,7 +800,8 @@
       "l"
     ],
     "image": "images/words/lion.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: l-i-o-n."
   },
   {
     "grade": "P1",
@@ -804,7 +831,8 @@
       "r"
     ],
     "image": "p1-lessons-assets/img/tiger.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: t-i-g-e-r."
   },
   {
     "grade": "P1",
@@ -826,7 +854,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word lion: l-i-o-n."
   },
   {
     "grade": "P1",
@@ -848,7 +877,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word tiger: t-i-g-e-r."
   },
   {
     "grade": "P1",
@@ -870,7 +900,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word snake: s-n-a-k-e."
   },
   {
     "grade": "P1",
@@ -948,7 +979,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has its own slot. 1: lion. 2: 2. 3: 4. 4: in."
   },
   {
     "grade": "P1",
@@ -971,7 +1003,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word bird starts with the letter Bb. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -994,7 +1027,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word boy starts with the letter Bb. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1017,7 +1051,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word banana starts with the letter Bb. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1040,7 +1075,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word ball starts with the letter Bb. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1065,7 +1101,8 @@
     "image_optional": [
       "bird"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "bird and also boy start with the letter Bb."
   },
   {
     "grade": "P1",
@@ -1166,7 +1203,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The capital B and the small b."
   },
   {
     "grade": "P1",
@@ -1189,7 +1227,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The small b and the capital B."
   },
   {
     "grade": "P1",
@@ -1214,7 +1253,8 @@
     "image_optional": [
       "bird"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "bird means عصفورة."
   },
   {
     "grade": "P1",
@@ -1239,7 +1279,8 @@
     "image_optional": [
       "boy"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "boy means ولد."
   },
   {
     "grade": "P1",
@@ -1264,7 +1305,8 @@
     "image_optional": [
       "banana"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "banana means موزة."
   },
   {
     "grade": "P1",
@@ -1335,7 +1377,8 @@
     "image_optional": [
       "lamp"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "lamp starts with the letter مختلف عن B."
   },
   {
     "grade": "P1",
@@ -1357,7 +1400,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of bird is b."
   },
   {
     "grade": "P1",
@@ -1379,7 +1423,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of boy is b."
   },
   {
     "grade": "P1",
@@ -1437,7 +1482,8 @@
       "boy"
     ],
     "image": "images/words/boy.jpg",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: b-o-y."
   },
   {
     "grade": "P1",
@@ -1460,7 +1506,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word lamp starts with the letter Ll. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1483,7 +1530,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word lemon starts with the letter Ll. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1506,7 +1554,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word lion starts with the letter Ll. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1529,7 +1578,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word leaf starts with the letter Ll. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1554,7 +1604,8 @@
     "image_optional": [
       "lamp"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "lamp and also lemon start with the letter Ll."
   },
   {
     "grade": "P1",
@@ -1632,7 +1683,8 @@
       "lion",
       "lion"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "lion starts with the letter l."
   },
   {
     "grade": "P1",
@@ -1655,7 +1707,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The capital L and the small l."
   },
   {
     "grade": "P1",
@@ -1678,7 +1731,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The small l and the capital L."
   },
   {
     "grade": "P1",
@@ -1703,7 +1757,8 @@
     "image_optional": [
       "lamp"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "lamp means أباجورة."
   },
   {
     "grade": "P1",
@@ -1728,7 +1783,8 @@
     "image_optional": [
       "lemon"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "lemon means ليمون."
   },
   {
     "grade": "P1",
@@ -1754,7 +1810,8 @@
       "lion",
       "lion"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "lion means أسد."
   },
   {
     "grade": "P1",
@@ -1825,7 +1882,8 @@
     "image_optional": [
       "bird"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "bird starts with the letter مختلف عن L."
   },
   {
     "grade": "P1",
@@ -1847,7 +1905,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of lamp is l."
   },
   {
     "grade": "P1",
@@ -1869,7 +1928,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of lemon is l."
   },
   {
     "grade": "P1",
@@ -1898,7 +1958,8 @@
       "lamp"
     ],
     "image": "p1-lessons-assets/img/obj-lamp.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: l-a-m-p."
   },
   {
     "grade": "P1",
@@ -1928,7 +1989,8 @@
       "lemon"
     ],
     "image": "p1-lessons-assets/img/obj-lemon.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: l-e-m-o-n."
   },
   {
     "grade": "P1",
@@ -1951,7 +2013,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "banana starts with b."
   },
   {
     "grade": "P1",
@@ -1974,7 +2037,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "lamp starts with l."
   },
   {
     "grade": "P1",
@@ -1997,7 +2061,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word bike."
   },
   {
     "grade": "P1",
@@ -2020,7 +2085,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word leaf."
   },
   {
     "grade": "P1",
@@ -2045,7 +2111,8 @@
     "image_optional": [
       "cat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cat means قطة."
   },
   {
     "grade": "P1",
@@ -2070,7 +2137,8 @@
     "image_optional": [
       "dog"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "dog means كلب."
   },
   {
     "grade": "P1",
@@ -2095,7 +2163,8 @@
     "image_optional": [
       "turtle"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "turtle means سلحفاة."
   },
   {
     "grade": "P1",
@@ -2120,7 +2189,8 @@
     "image_optional": [
       "bird"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "bird means عصفورة."
   },
   {
     "grade": "P1",
@@ -2143,7 +2213,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "pet is a tame animal like a cat or a dog."
   },
   {
     "grade": "P1",
@@ -2166,7 +2237,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "in means جوّه حاجة: in the cage في القفص."
   },
   {
     "grade": "P1",
@@ -2189,7 +2261,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "on means فوق حاجة: on the couch على الكنبة."
   },
   {
     "grade": "P1",
@@ -2214,7 +2287,8 @@
     "image_optional": [
       "under"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "under means تحت: under the table تحت الترابيزة."
   },
   {
     "grade": "P1",
@@ -2239,7 +2313,8 @@
     "image_optional": [
       "cage"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cage means قفص العصفورة."
   },
   {
     "grade": "P1",
@@ -2264,7 +2339,8 @@
     "image_optional": [
       "dog"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The dog is on the couch: on the couch."
   },
   {
     "grade": "P1",
@@ -2290,7 +2366,8 @@
       "bird",
       "cage"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The bird is in the cage: in the cage."
   },
   {
     "grade": "P1",
@@ -2341,7 +2418,8 @@
     "image_optional": [
       "cat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The cat is on Ali's leg: on my leg."
   },
   {
     "grade": "P1",
@@ -2364,7 +2442,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The lion (lion) is a jungle animal, not a pet."
   },
   {
     "grade": "P1",
@@ -2387,7 +2466,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The cat says مياو."
   },
   {
     "grade": "P1",
@@ -2412,7 +2492,8 @@
     "image_optional": [
       "cage"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The bird lives in a cage (cage)."
   },
   {
     "grade": "P1",
@@ -2437,7 +2518,8 @@
     "image_optional": [
       "turtle"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The turtle walks slowly: slowly."
   },
   {
     "grade": "P1",
@@ -2463,7 +2545,8 @@
       "bird",
       "cage"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the conversation: The bird is in the cage."
   },
   {
     "grade": "P1",
@@ -2488,7 +2571,8 @@
     "image_optional": [
       "cat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The sentence says: The cat is under the chair. It means القطة تحت الكرسي."
   },
   {
     "grade": "P1",
@@ -2511,7 +2595,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "With 2 we say cats with s."
   },
   {
     "grade": "P1",
@@ -2534,7 +2619,8 @@
     "image_optional": [
       "dog"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the conversation: The dog is on the couch."
   },
   {
     "grade": "P1",
@@ -2559,7 +2645,8 @@
       "under",
       "cage"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The bird is inside the cage: in the cage, not under it."
   },
   {
     "grade": "P1",
@@ -2604,7 +2691,8 @@
     "passage": "Ali: Look! The cat is on my leg!\nHana: Where is the dog?\nAli: The dog is on the couch.\nHana: What about the bird?\nAli: The bird is in the cage.\nHana: And the turtle?\nAli: Hmm... The turtle is under the table!\nHana: I love pets!\nAli: Me too!",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the conversation: I love pets! Me too!"
   },
   {
     "grade": "P1",
@@ -2629,7 +2717,8 @@
     "image_optional": [
       "turtle"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Ali says The turtle is under the table!"
   },
   {
     "grade": "P1",
@@ -2654,7 +2743,8 @@
     "image_optional": [
       "cat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Ali says The cat is on my leg!"
   },
   {
     "grade": "P1",
@@ -2694,7 +2784,8 @@
     "accept": [
       "The bird is in the cage."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: The bird is in the cage."
   },
   {
     "grade": "P1",
@@ -2734,7 +2825,8 @@
     "accept": [
       "The dog is on the couch."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: The dog is on the couch."
   },
   {
     "grade": "P1",
@@ -2774,7 +2866,8 @@
     "accept": [
       "The turtle is under the table."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: The turtle is under the table."
   },
   {
     "grade": "P1",
@@ -2835,7 +2928,8 @@
       "u"
     ],
     "image": "p1-lessons-assets/img/kg-turtle.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: t-u-r-t-l-e."
   },
   {
     "grade": "P1",
@@ -2857,7 +2951,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word turtle: t-u-r-t-l-e."
   },
   {
     "grade": "P1",
@@ -2902,7 +2997,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word cage: c-a-g-e."
   },
   {
     "grade": "P1",
@@ -2976,7 +3072,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has its own slot. 1: on (على رجلي). 2: on (على الكنبة). 3: in (في القفص). 4: under (تحت الترابيزة)."
   },
   {
     "grade": "P1",
@@ -2999,7 +3096,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word up starts with the letter Uu. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -3022,7 +3120,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word unlock starts with the letter Uu. The other words start with different letters."
   },
   {
     "grade": "P1",

@@ -133,7 +133,8 @@
       "Islam's",
       "Rana's"
     ],
-    "source_change": "none"
+    "source_change": "none",
+    "explanation_en": "Choose the possessive adjective that fits the context: Islam's."
   },
   {
     "id": "p2-u4-l1-12",
@@ -182,7 +183,8 @@
       "mother",
       "father"
     ],
-    "passage": "I am Amira. I have a big family. My father is a teacher. He is tall. My mother is kind. I have two sisters and one brother."
+    "passage": "I am Amira. I have a big family. My father is a teacher. He is tall. My mother is kind. I have two sisters and one brother.",
+    "explanation_en": "The answer from the passage: father."
   },
   {
     "id": "p2-u4-l1-14",
@@ -206,7 +208,8 @@
       "sisters",
       "brothers"
     ],
-    "passage": "I am Amira. I have a big family. My father is a teacher. He is tall. My mother is kind. I have two sisters and one brother."
+    "passage": "I am Amira. I have a big family. My father is a teacher. He is tall. My mother is kind. I have two sisters and one brother.",
+    "explanation_en": "The answer from the passage: sisters."
   },
   {
     "id": "p2-u4-l1-17",
@@ -238,7 +241,8 @@
     ],
     "accept": [
       "Who is this?"
-    ]
+    ],
+    "explanation_en": "Order the words to form the sentence: Who is this?"
   },
   {
     "id": "p2-u4-l1-18",
@@ -272,7 +276,8 @@
     ],
     "accept": [
       "This is my grandmother."
-    ]
+    ],
+    "explanation_en": "Order the words to form the sentence: This is my grandmother."
   },
   {
     "id": "p2-u4-l1-19",
@@ -306,7 +311,8 @@
     ],
     "accept": [
       "This is your bag."
-    ]
+    ],
+    "explanation_en": "Order the words to form the sentence: This is your bag."
   },
   {
     "id": "p2-u4-l1-20",
@@ -342,7 +348,8 @@
     ],
     "accept": [
       "This is Hana's pencil case."
-    ]
+    ],
+    "explanation_en": "Order the words to form the sentence: This is Hana's pencil case."
   },
   {
     "id": "p2-u4-l1-27",
@@ -366,7 +373,8 @@
     "strict_punctuation": true,
     "accept": [
       "This is my father."
-    ]
+    ],
+    "explanation_en": "We start with a capital letter and end the sentence with the right punctuation mark: This is my father."
   },
   {
     "id": "p2-u4-l2-11",
@@ -392,7 +400,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-nose.png",
     "alt": "nose",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The word that fits the picture is nose."
   },
   {
     "id": "p2-u4-l2-12",
@@ -418,7 +427,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-cube.png",
     "alt": "cube",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The word that fits the picture is cube."
   },
   {
     "id": "p2-u4-l2-13",
@@ -444,7 +454,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-rose.png",
     "alt": "rose",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The word that fits the picture is rose."
   },
   {
     "id": "p2-u4-l2-14",
@@ -470,7 +481,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-glue.png",
     "alt": "glue",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The word that fits the picture is glue."
   },
   {
     "id": "p2-u4-l2-15",
@@ -609,7 +621,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-rose.png",
     "alt": "rose",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The correct letter order is rose."
   },
   {
     "id": "p2-u4-l2-20",
@@ -640,7 +653,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-cube.png",
     "alt": "cube",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The correct letter order is cube."
   },
   {
     "id": "p2-u4-l2-21",
@@ -671,7 +685,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-nose.png",
     "alt": "nose",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The correct letter order is nose."
   },
   {
     "id": "p2-u4-l2-22",
@@ -702,7 +717,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-glue.png",
     "alt": "glue",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The correct letter order is glue."
   },
   {
     "id": "p2-u4-l2-23",
@@ -728,7 +744,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-nose.png",
     "alt": "nose",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The picture is nose, so the answer is False."
   },
   {
     "id": "p2-u4-l2-24",
@@ -754,7 +771,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-glue.png",
     "alt": "glue",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The picture is glue, so the answer is True."
   },
   {
     "id": "p2-u4-l2-25",
@@ -780,7 +798,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-rose.png",
     "alt": "rose",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The picture is rose, so the answer is False."
   },
   {
     "id": "p2-u4-l2-26",
@@ -806,7 +825,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-cube.png",
     "alt": "cube",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The picture is cube, so the answer is True."
   },
   {
     "id": "p2-u4-l2-27",
@@ -831,7 +851,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-cube.png",
     "alt": "cube",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "We use is with This."
   },
   {
     "id": "p2-u4-l2-28",
@@ -857,7 +878,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-rose.png",
     "alt": "rose",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The picture is a rose, so we can say This is a rose."
   },
   {
     "id": "p2-u4-l2-32",
@@ -879,7 +901,8 @@
     },
     "accept": [
       "rose"
-    ]
+    ],
+    "explanation_en": "The red flower is red rose."
   },
   {
     "id": "p2-u4-l3-01",
@@ -903,7 +926,8 @@
       "brush",
       "brushes",
       "brushing"
-    ]
+    ],
+    "explanation_en": "With the subject of the sentence we use brush in the simple present."
   },
   {
     "id": "p2-u4-l3-02",
@@ -927,7 +951,8 @@
       "sleeping",
       "sleep",
       "sleeps"
-    ]
+    ],
+    "explanation_en": "With the subject of the sentence we use sleeps in the simple present."
   },
   {
     "id": "p2-u4-l3-03",
@@ -951,7 +976,8 @@
       "play",
       "playing",
       "plays"
-    ]
+    ],
+    "explanation_en": "With the subject of the sentence we use plays in the simple present."
   },
   {
     "id": "p2-u4-l3-04",
@@ -975,7 +1001,8 @@
       "reads",
       "read",
       "reading"
-    ]
+    ],
+    "explanation_en": "With the subject of the sentence we use reads in the simple present."
   },
   {
     "id": "p2-u4-l3-05",
@@ -999,7 +1026,8 @@
       "eats",
       "eat",
       "eating"
-    ]
+    ],
+    "explanation_en": "With the subject of the sentence we use eat in the simple present."
   },
   {
     "id": "p2-u4-l3-06",
@@ -1023,7 +1051,8 @@
       "wash",
       "washing",
       "washes"
-    ]
+    ],
+    "explanation_en": "With the subject of the sentence we use wash in the simple present."
   },
   {
     "id": "p2-u4-l3-07",
@@ -1047,7 +1076,8 @@
       "walk",
       "walks",
       "walking"
-    ]
+    ],
+    "explanation_en": "With the subject of the sentence we use walk in the simple present."
   },
   {
     "id": "p2-u4-l3-08",
@@ -1071,7 +1101,8 @@
       "waking",
       "wake",
       "wakes"
-    ]
+    ],
+    "explanation_en": "With the subject of the sentence we use wakes in the simple present."
   },
   {
     "id": "p2-u4-l3-09",
@@ -1105,7 +1136,8 @@
     ],
     "accept": [
       "He washes his face."
-    ]
+    ],
+    "explanation_en": "Order the words to form the sentence: He washes his face."
   },
   {
     "id": "p2-u4-l3-10",
@@ -1139,7 +1171,8 @@
     ],
     "accept": [
       "Nada plays after school."
-    ]
+    ],
+    "explanation_en": "Order the words to form the sentence: Nada plays after school."
   },
   {
     "id": "p2-u4-l3-11",
@@ -1177,7 +1210,8 @@
     ],
     "accept": [
       "I eat breakfast in the morning."
-    ]
+    ],
+    "explanation_en": "Order the words to form the sentence: I eat breakfast in the morning."
   },
   {
     "id": "p2-u4-l3-12",
@@ -1217,7 +1251,8 @@
     ],
     "accept": [
       "My father wakes up at 6 o'clock."
-    ]
+    ],
+    "explanation_en": "Order the words to form the sentence: My father wakes up at 6 o'clock."
   },
   {
     "id": "p2-u4-l3-13",
@@ -1255,7 +1290,8 @@
     ],
     "accept": [
       "What do you do at night?"
-    ]
+    ],
+    "explanation_en": "Order the words to form the sentence: What do you do at night?"
   },
   {
     "id": "p2-u4-l3-14",
@@ -1279,7 +1315,8 @@
       "eat",
       "wake",
       "sleep"
-    ]
+    ],
+    "explanation_en": "The word that completes the meaning of the sentence correctly is eat."
   },
   {
     "id": "p2-u4-l3-15",
@@ -1303,7 +1340,8 @@
       "walks",
       "wakes",
       "eats"
-    ]
+    ],
+    "explanation_en": "The word that completes the meaning of the sentence correctly is wakes."
   },
   {
     "id": "p2-u4-l3-16",
@@ -1327,7 +1365,8 @@
       "brushes",
       "washes",
       "sleep"
-    ]
+    ],
+    "explanation_en": "The word that completes the meaning of the sentence correctly is sleep."
   },
   {
     "id": "p2-u4-l3-17",
@@ -1351,7 +1390,8 @@
       "plays",
       "eats",
       "reads"
-    ]
+    ],
+    "explanation_en": "The word that completes the meaning of the sentence correctly is reads."
   },
   {
     "id": "p2-u4-l3-18",
@@ -1375,7 +1415,8 @@
       "walks",
       "washes",
       "wakes"
-    ]
+    ],
+    "explanation_en": "The word that completes the meaning of the sentence correctly is washes."
   },
   {
     "id": "p2-u4-l3-19",
@@ -1399,7 +1440,8 @@
     "options": [
       "True",
       "False"
-    ]
+    ],
+    "explanation_en": "From the passage, wake-up time is 6, not 7."
   },
   {
     "id": "p2-u4-l3-20",
@@ -1423,7 +1465,8 @@
     "options": [
       "True",
       "False"
-    ]
+    ],
+    "explanation_en": "From the passage, she has breakfast with her family."
   },
   {
     "id": "p2-u4-l3-21",
@@ -1457,7 +1500,8 @@
     ],
     "accept": [
       "Salma washes her hair."
-    ]
+    ],
+    "explanation_en": "Order the words to form the sentence: Salma washes her hair."
   },
   {
     "id": "p2-u4-l3-23",
@@ -1497,7 +1541,8 @@
     ],
     "accept": [
       "I read a book in the morning."
-    ]
+    ],
+    "explanation_en": "Order the words to form the sentence: I read a book in the morning."
   },
   {
     "id": "p2-u4-l3-24",
@@ -1522,7 +1567,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-brush.png",
     "alt": "brush",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The picture shows teeth brushing."
   },
   {
     "id": "p2-u4-l3-25",
@@ -1546,7 +1592,8 @@
     "strict_punctuation": true,
     "accept": [
       "I read a story."
-    ]
+    ],
+    "explanation_en": "We start with a capital letter and end the sentence with the right punctuation mark: I read a story."
   },
   {
     "id": "p2-u4-l4-05",
@@ -1572,7 +1619,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-thin.png",
     "alt": "thin",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The word that fits the picture is thin."
   },
   {
     "id": "p2-u4-l4-06",
@@ -1598,7 +1646,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-thunder.png",
     "alt": "thunder",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The word that fits the picture is thunder."
   },
   {
     "id": "p2-u4-l4-07",
@@ -1624,7 +1673,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-math.png",
     "alt": "math",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The word that fits the picture is math."
   },
   {
     "id": "p2-u4-l4-08",
@@ -1650,7 +1700,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-thumb.png",
     "alt": "thumb",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The word that fits the picture is thumb."
   },
   {
     "id": "p2-u4-l4-11",
@@ -1780,7 +1831,8 @@
     },
     "accept": [
       "teeth"
-    ]
+    ],
+    "explanation_en": "The suitable word from the box is teeth."
   },
   {
     "id": "p2-u4-l4-16",
@@ -1802,7 +1854,8 @@
     },
     "accept": [
       "thin"
-    ]
+    ],
+    "explanation_en": "The suitable word from the box is thin."
   },
   {
     "id": "p2-u4-l4-17",
@@ -1824,7 +1877,8 @@
     },
     "accept": [
       "math"
-    ]
+    ],
+    "explanation_en": "The suitable word from the box is math."
   },
   {
     "id": "p2-u4-l4-18",
@@ -1856,7 +1910,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-thick.png",
     "alt": "thick",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The correct letter order is thick."
   },
   {
     "id": "p2-u4-l4-19",
@@ -1888,7 +1943,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-thumb.png",
     "alt": "thumb",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The correct letter order is thumb."
   },
   {
     "id": "p2-u4-l4-20",
@@ -1919,7 +1975,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-math.png",
     "alt": "math",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The correct letter order is math."
   },
   {
     "id": "p2-u4-l4-21",
@@ -1953,7 +2010,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-thunder.png",
     "alt": "thunder",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The correct letter order is thunder."
   },
   {
     "id": "p2-u4-l4-22",
@@ -1979,7 +2037,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-thumb.png",
     "alt": "thumb",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "A singular noun, we add is a."
   },
   {
     "id": "p2-u4-l4-23",
@@ -2004,7 +2063,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-thick.png",
     "alt": "thick",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "We use is with It."
   },
   {
     "id": "p2-u4-l4-29",
@@ -2038,7 +2098,8 @@
     ],
     "accept": [
       "Moaz sleeps at nine."
-    ]
+    ],
+    "explanation_en": "Order the words to form the sentence: Moaz sleeps at nine."
   },
   {
     "id": "p2-u4-l4-30",
@@ -2062,7 +2123,8 @@
       "eats",
       "wakes",
       "walks"
-    ]
+    ],
+    "explanation_en": "wake up means يصحى, and with father we add s."
   },
   {
     "id": "p2-u4-l4-31",
@@ -2086,7 +2148,8 @@
       "washing",
       "wash",
       "washes"
-    ]
+    ],
+    "explanation_en": "With Leen we use washes."
   },
   {
     "id": "p2-u4-l4-32",
@@ -2109,7 +2172,8 @@
     "accept": [
       "I eat breakfast.",
       "I eat breakfast in the morning."
-    ]
+    ],
+    "explanation_en": "A suitable sentence: I eat breakfast."
   },
   {
     "id": "p2-u4-l4-33",
@@ -2132,7 +2196,8 @@
     "accept": [
       "I brush my teeth.",
       "I brush my teeth in the morning."
-    ]
+    ],
+    "explanation_en": "A suitable sentence: I brush my teeth."
   },
   {
     "grade": "P2",
@@ -2155,7 +2220,8 @@
     "options": [
       "How",
       "Who"
-    ]
+    ],
+    "explanation_en": "The suitable answer is: Who."
   },
   {
     "grade": "P2",
@@ -2181,7 +2247,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-grandmother.png",
     "alt": "Source picture",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The suitable answer is: This is my grandmother..."
   },
   {
     "grade": "P2",
@@ -2204,7 +2271,8 @@
     "accept": [
       "She is kind.",
       "My grandmother is kind."
-    ]
+    ],
+    "explanation_en": "The suitable answer is: She is kind..."
   },
   {
     "grade": "P2",
@@ -2228,7 +2296,8 @@
       "small",
       "big"
     ],
-    "passage": "I'm Nour. I live with my family in a big house. My father is a doctor. My mother is a teacher. I have two brothers and one sister."
+    "passage": "I'm Nour. I live with my family in a big house. My father is a doctor. My mother is a teacher. I have two brothers and one sister.",
+    "explanation_en": "The suitable answer is: big."
   },
   {
     "grade": "P2",
@@ -2252,7 +2321,8 @@
       "two",
       "three"
     ],
-    "passage": "I'm Nour. I live with my family in a big house. My father is a doctor. My mother is a teacher. I have two brothers and one sister."
+    "passage": "I'm Nour. I live with my family in a big house. My father is a doctor. My mother is a teacher. I have two brothers and one sister.",
+    "explanation_en": "The suitable answer is: two."
   },
   {
     "grade": "P2",
@@ -2286,7 +2356,8 @@
     ],
     "accept": [
       "She is my sister."
-    ]
+    ],
+    "explanation_en": "The suitable answer is: She is my sister..."
   },
   {
     "grade": "P2",
@@ -2320,7 +2391,8 @@
     ],
     "accept": [
       "This is your book."
-    ]
+    ],
+    "explanation_en": "The suitable answer is: This is your book..."
   },
   {
     "grade": "P2",
@@ -2473,7 +2545,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-cube.png",
     "alt": "Source picture",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The suitable answer is: cube."
   },
   {
     "grade": "P2",
@@ -2498,7 +2571,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-glue.png",
     "alt": "Source picture",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The suitable answer is: glue."
   },
   {
     "grade": "P2",
@@ -2523,7 +2597,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-rose.png",
     "alt": "Source picture",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The suitable answer is: rose."
   },
   {
     "grade": "P2",
@@ -2548,7 +2623,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-nose.png",
     "alt": "Source picture",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The suitable answer is: nose."
   },
   {
     "grade": "P2",
@@ -2701,7 +2777,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-teeth.png",
     "alt": "Source picture",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The suitable answer is: teeth."
   },
   {
     "grade": "P2",
@@ -2726,7 +2803,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-thumb.png",
     "alt": "Source picture",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The suitable answer is: thumb."
   },
   {
     "grade": "P2",
@@ -2751,7 +2829,8 @@
     ],
     "image": "p2-lessons-assets/img/p2-u4-thunder.png",
     "alt": "Source picture",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The suitable answer is: thunder."
   },
   {
     "grade": "P2",
@@ -2785,7 +2864,8 @@
     ],
     "accept": [
       "He is my father."
-    ]
+    ],
+    "explanation_en": "The suitable answer is: He is my father..."
   },
   {
     "grade": "P2",
@@ -2809,7 +2889,8 @@
       "brother",
       "sister",
       "mother"
-    ]
+    ],
+    "explanation_en": "The suitable answer is: brother."
   },
   {
     "grade": "P2",
@@ -2831,7 +2912,8 @@
     },
     "accept": [
       "grandfather"
-    ]
+    ],
+    "explanation_en": "The suitable answer is: grandfather."
   },
   {
     "grade": "P2",
@@ -2853,7 +2935,8 @@
     },
     "accept": [
       "play"
-    ]
+    ],
+    "explanation_en": "The suitable answer is: play."
   },
   {
     "id": "orig-p2-u4l1-01",
@@ -2882,7 +2965,8 @@
       "ministry_lesson": "Unit 4 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The question Who is she؟ is answered with This is my mother."
   },
   {
     "id": "orig-p2-u4l1-02",
@@ -2911,7 +2995,8 @@
       "ministry_lesson": "Unit 4 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The question عن شخص (Who) is answered with This is my father."
   },
   {
     "id": "orig-p2-u4l1-03",
@@ -2940,7 +3025,8 @@
       "ministry_lesson": "Unit 4 Lesson 1",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "brother (أخ) is a family word. desk and bed are things."
   },
   {
     "id": "orig-p2-u4l1-04",
@@ -2970,7 +3056,8 @@
       "ministry_lesson": "Unit 4 Lesson 1",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "bed means سرير, not فرد من العيلة."
   },
   {
     "id": "orig-p2-u4l1-05",
@@ -2999,7 +3086,8 @@
       "ministry_lesson": "Unit 4 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "dad is the pet name for father (بابا)."
   },
   {
     "id": "orig-p2-u4l1-06",
@@ -3028,7 +3116,8 @@
       "ministry_lesson": "Unit 4 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "mom is the pet name for mother (ماما)."
   },
   {
     "id": "orig-p2-u4l1-09",
@@ -3057,7 +3146,8 @@
       "ministry_lesson": "Unit 4 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "When something belongs to someone we add 's to their name: Ahmed's car."
   },
   {
     "id": "orig-p2-u4l1-12",
@@ -3098,7 +3188,8 @@
       "ministry_lesson": "Unit 4 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence: This is my mother."
   },
   {
     "id": "orig-p2-u4l1-13",
@@ -3139,7 +3230,8 @@
       "ministry_lesson": "Unit 4 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence: This is my brother."
   },
   {
     "id": "orig-p2-u4l1-14",
@@ -3178,7 +3270,8 @@
       "ministry_lesson": "Unit 4 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The question starts with Who, then is she, and a question mark."
   },
   {
     "id": "orig-p2-u4l2-01",
@@ -3206,7 +3299,8 @@
       "ministry_lesson": "Unit 4 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "nose has the long o sound (like the letter's name). net has e."
   },
   {
     "id": "orig-p2-u4l2-02",
@@ -3234,7 +3328,8 @@
       "ministry_lesson": "Unit 4 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "cube has the long u sound. cub has a short u."
   },
   {
     "id": "orig-p2-u4l2-03",
@@ -3269,7 +3364,8 @@
       "ministry_lesson": "Unit 4 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The letters are ordered to make the word mother, meaning ماما."
   },
   {
     "id": "orig-p2-u4l2-04",
@@ -3304,7 +3400,8 @@
       "ministry_lesson": "Unit 4 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The letters are ordered to make the word sister, meaning أخت."
   },
   {
     "id": "orig-p2-u4l2-05",
@@ -3387,7 +3484,8 @@
       "ministry_lesson": "Unit 4 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence: This is your father."
   },
   {
     "id": "orig-p2-u4l3-01",
@@ -3416,7 +3514,8 @@
       "ministry_lesson": "Unit 4 Lesson 3",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "With clock times we say at: at seven."
   },
   {
     "id": "orig-p2-u4l3-02",
@@ -3445,7 +3544,8 @@
       "ministry_lesson": "Unit 4 Lesson 3",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "With He we add s to the verb: He eats."
   },
   {
     "id": "orig-p2-u4l3-03",
@@ -3474,7 +3574,8 @@
       "ministry_lesson": "Unit 4 Lesson 3",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "التعبير الصح at night means بالليل."
   },
   {
     "id": "orig-p2-u4l3-04",
@@ -3503,7 +3604,8 @@
       "ministry_lesson": "Unit 4 Lesson 3",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "We have breakfast in the morning: eat breakfast."
   },
   {
     "id": "orig-p2-u4l3-05",
@@ -3532,7 +3634,8 @@
       "ministry_lesson": "Unit 4 Lesson 3",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "We brush our teeth: brush my teeth."
   },
   {
     "id": "orig-p2-u4l3-06",
@@ -3561,7 +3664,8 @@
       "ministry_lesson": "Unit 4 Lesson 3",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "We read a book: read a book."
   },
   {
     "id": "orig-p2-u4l4-01",
@@ -3604,7 +3708,8 @@
       "ministry_lesson": "Unit 4 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence: I wake up at seven."
   },
   {
     "id": "orig-p2-u4l4-02",
@@ -3645,7 +3750,8 @@
       "ministry_lesson": "Unit 4 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence: They play after school."
   },
   {
     "id": "orig-p2-u4l4-03",
@@ -3679,7 +3785,8 @@
       "ministry_lesson": "Unit 4 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The letters are ordered to make the word brush, meaning يفرّش."
   },
   {
     "id": "orig-p2-u4l4-04",
@@ -3713,7 +3820,8 @@
       "ministry_lesson": "Unit 4 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The letters are ordered to make the word sleep, meaning ينام."
   },
   {
     "id": "orig-p2-u4l4-05",
@@ -3746,7 +3854,8 @@
       "ministry_lesson": "Unit 4 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The letters are ordered to make the word walk, meaning يمشي."
   },
   {
     "id": "orig-p2-u4l4-06",
@@ -3780,7 +3889,8 @@
       "ministry_lesson": "Unit 4 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The letters are ordered to make the word teeth, meaning أسنان."
   },
   {
     "id": "orig-p2-u4l4-07",
@@ -3808,7 +3918,8 @@
       "ministry_lesson": "Unit 4 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "thin has the th sound. tin starts with just t."
   },
   {
     "id": "orig-p2-u4l4-08",
@@ -3836,7 +3947,8 @@
       "ministry_lesson": "Unit 4 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "math ends with the th sound. mat ends with t."
   },
   {
     "id": "orig-p2-u4l4-09",
@@ -3864,7 +3976,8 @@
       "ministry_lesson": "Unit 4 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "teeth has the th sound. feet لأ."
   },
   {
     "id": "orig-p2-u4l4-10",
@@ -3892,7 +4005,8 @@
       "ministry_lesson": "Unit 4 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "thick has the th sound. tick starts with t."
   },
   {
     "id": "orig-p2-u4l1-91",
@@ -3921,7 +4035,8 @@
       "ministry_lesson": "Unit 4 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "father is a male, so we say He (هو)."
   },
   {
     "id": "orig-p2-u4l1-93",
@@ -3949,7 +4064,8 @@
       "ministry_lesson": "Unit 4 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "He is tall says he is a male, and the word is father."
   },
   {
     "id": "orig-p2-u4l1-95",
@@ -3978,7 +4094,8 @@
       "ministry_lesson": "Unit 4 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "We are talking to Sara, so we say your (بتاعتك)."
   },
   {
     "id": "orig-p2-u4l1-96",
@@ -4017,6 +4134,7 @@
       "ministry_lesson": "Unit 4 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence: He is tall."
   }
 ]
