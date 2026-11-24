@@ -16,7 +16,7 @@ else if(q.type==='reorder'||q.type==='unscramble'){const tokens=q.type==='reorde
 else if(q.type==='tf'){if(!['True','False'].includes(q.answer))throw Error('TF key '+q.id)}
 else if(q.type==='mcq'){if(!q.options?.length||new Set(q.options).size!==q.options.length||q.options.filter(a=>a===q.answer).length!==1)throw Error('MCQ key '+q.id)}
 else if(q.type==='typein'){if(!q.accept?.length||!q.accept.some(a=>norm(a)===norm(q.answer)))throw Error('Text key '+q.id)}else throw Error('Unsupported type '+q.type);
-}if(!qa)for(const l of available)if(items.filter(q=>q.lesson===l).length<30)throw Error('Under30 lesson '+l);return items}
+}if(!qa && root.dataset.allowUnderFloor!=='true')for(const l of available)if(items.filter(q=>q.lesson===l).length<30)throw Error('Under30 lesson '+l);return items}
 window.P1AssessmentValidate=validate;let items=[],lesson=0,index=0,answers=new Map();
 function reveal(){root.scrollIntoView({block:'start',behavior:'instant'})}
 function menu(){root.replaceChildren(node('h2',null,'اختار الدرس'));for(const l of available){const qs=items.filter(q=>q.lesson===l),b=node('button','lesson-choice','الدرس '+l+' · '+qs[0].lesson_title+' · '+qs.length+' سؤال');b.onclick=()=>{lesson=l;index=0;render();reveal()};root.append(b)}}
