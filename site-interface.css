@@ -402,3 +402,6 @@ html.es-compact-nav::before{content:'';position:fixed;inset:0 0 auto;height:74px
 @media(max-width:600px){html:root:root:root[data-interface-language] body main>:is(section.glass,article.glass){padding:22px!important;margin-block:22px}html:root:root:root[data-interface-language] body main :is(.stage-grid,.tool-grid,.grade-grid,.cards-grid){row-gap:20px}}
 html.es-compact-nav .header-slot{z-index:200!important}
 html.es-compact-nav :is(.header,.site-header,.es-mini-island){z-index:201!important}
+
+/* Pinned navigation backing uses the current page surface, with no hard lower seam. */
+html.es-compact-nav::before{background:linear-gradient(to bottom,var(--es-page-surface,#F4F0E6) 0 58px,transparent 74px)}
