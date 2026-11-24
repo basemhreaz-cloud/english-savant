@@ -350,3 +350,5 @@ html:root:root:root:root:root:root:root:root body:not(.dark){--es-inset:inset 2p
 html:root:root:root:root:root:root:root:root body.dark{--es-field:#354131!important;--es-inset:inset 2px 3px 8px rgba(13,22,13,.48),inset -2px -2px 7px rgba(168,179,154,.10)!important}
 
 html:root:root:root:root:root:root:root:root body :is(p,.ex-scope){border-radius:var(--es-control-radius,14px)!important}
+/* Translator symbol keeps the previous icon slot dimensions. */
+html:root:root:root[data-interface-language] .tool-icon[data-es-decorative=translate]{width:54px!important;height:38px!important;min-width:54px!important;min-height:38px!important}
