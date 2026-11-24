@@ -27,7 +27,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/fixed-chair.png",
     "alt": "Picture clue",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The correct answer: chair (كرسي). Match the word to the picture that fits its meaning exactly, and look carefully at the other pictures before you choose."
   },
   {
     "grade": "P2",
@@ -57,7 +58,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/teacher.png",
     "alt": "Picture clue",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The correct answer: teacher (مدرس). Match the word to the picture that fits its meaning exactly, and look carefully at the other pictures before you choose."
   },
   {
     "grade": "P2",
@@ -87,7 +89,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/friends.png",
     "alt": "Picture clue",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The correct answer: friend (صديق). Match the word to the picture that fits its meaning exactly, and look carefully at the other pictures before you choose."
   },
   {
     "grade": "P2",
@@ -117,7 +120,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/hello.png",
     "alt": "Picture clue",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "The correct answer: Hello! (مرحبًا). Match the word to the picture that fits its meaning exactly, and look carefully at the other pictures before you choose."
   },
   {
     "grade": "P2",
@@ -149,7 +153,8 @@
       "desk",
       "Goodbye!",
       "student"
-    ]
+    ],
+    "explanation_en": "The correct answer: desk (درج/مكتب الطالب). Match the word to the picture that fits its meaning exactly, and look carefully at the other pictures before you choose."
   },
   {
     "grade": "P2",
@@ -181,7 +186,8 @@
       "desk",
       "Goodbye!",
       "student"
-    ]
+    ],
+    "explanation_en": "The correct answer: student (طالب). Match the word to the picture that fits its meaning exactly, and look carefully at the other pictures before you choose."
   },
   {
     "grade": "P2",
@@ -208,7 +214,8 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "explanation_en": "The sentence means: Nada is my friend. The word friend (صديقة) is the one that fits 'my ___', while bag and desk mean شنطة and درج and are not said in 'Nada is...'."
   },
   {
     "grade": "P2",
@@ -235,7 +242,8 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "explanation_en": "We say I sit on a chair, meaning أنا أجلس على كرسي. say means يقول and help means يساعد, and they do not fit with on a chair."
   },
   {
     "grade": "P2",
@@ -262,7 +270,8 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "explanation_en": "The question What's your name? means ما اسمك؟ and the reply is My name is Salma. old is for age and color is for color, so they do not fit."
   },
   {
     "grade": "P2",
@@ -289,7 +298,8 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "explanation_en": "The sentence starts with the greeting Hello. then I'm Rana. Goodbye is for farewell, and Morning alone is not a complete greeting."
   },
   {
     "grade": "P2",
@@ -316,7 +326,8 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "explanation_en": "My teacher helps me learn means مدرسي يساعدني أتعلم. The one who helps and teaches is the teacher, not the chair or the desk."
   },
   {
     "grade": "P2",
@@ -359,7 +370,8 @@
       "desk",
       "teacher",
       "chair"
-    ]
+    ],
+    "explanation_en": "The sentence: I sit on a ___ at school. بنجلس على chair (كرسي)."
   },
   {
     "grade": "P2",
@@ -402,7 +414,8 @@
       "desk",
       "teacher",
       "chair"
-    ]
+    ],
+    "explanation_en": "The sentence: My books are on the ___. Books are put on the desk (الدرج)."
   },
   {
     "grade": "P2",
@@ -445,7 +458,8 @@
       "desk",
       "teacher",
       "chair"
-    ]
+    ],
+    "explanation_en": "The sentence: My ___ is kind. The person who can be kind (لطيف) in the class is the teacher, and then it says I love my teacher."
   },
   {
     "grade": "P2",
@@ -486,7 +500,8 @@
     "image": "p2-lessons-assets/img/hello.png",
     "requires_image": true,
     "alt": "Picture clue",
-    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged"
+    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged",
+    "explanation_en": "The question starts with What's, then your name, and the question mark at the end: What's your name?"
   },
   {
     "grade": "P2",
@@ -528,7 +543,8 @@
     "image": "p2-lessons-assets/img/hello.png",
     "requires_image": true,
     "alt": "Picture clue",
-    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged"
+    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged",
+    "explanation_en": "The greeting is first: Hello. then I am Sama. The sentence starts with a capital letter and ends with a full stop."
   },
   {
     "grade": "P2",
@@ -571,7 +587,8 @@
     "image": "images/words/fixed-chair.png",
     "requires_image": true,
     "alt": "Picture clue",
-    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged"
+    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged",
+    "explanation_en": "The asking-for-permission question: May I sit down? starts with May and ends with a question mark."
   },
   {
     "grade": "P2",
@@ -614,7 +631,8 @@
     "image": "images/words/teacher.png",
     "requires_image": true,
     "alt": "Picture clue",
-    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged"
+    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged",
+    "explanation_en": "The order: My teacher is kind. الفاعل My teacher الأول وبعده is kind."
   },
   {
     "grade": "P2",
@@ -657,7 +675,8 @@
     "image": "images/words/fixed-chair.png",
     "requires_image": true,
     "alt": "Picture clue",
-    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged"
+    "cue_source": "Supplementary picture cue for the printed sentence; source words and answer unchanged",
+    "explanation_en": "The order: I sit on a chair. The subject is I, then the verb sit, then the sitting place on a chair."
   },
   {
     "grade": "P2",
@@ -687,7 +706,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/salma.png",
     "alt": "Picture clue",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "We write the name-definition sentence: My name is Salma. Every sentence starts with a capital letter and ends with a full stop."
   },
   {
     "grade": "P2",
@@ -716,7 +736,8 @@
     "lesson_title": "Classroom Greetings",
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "strict_case": true,
-    "strict_punctuation": true
+    "strict_punctuation": true,
+    "explanation_en": "The first letter of the sentence must be capital, so we write Hello! and the name Ali with a capital letter, and we end the second sentence with a full stop: Hello! I'm Ali."
   },
   {
     "grade": "P2",
@@ -743,7 +764,8 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "explanation_en": "To ask for permission politely we say May I sit down? meaning هل يمكنني أن أجلس؟ What and When are other question words and are not for asking permission."
   },
   {
     "grade": "P2",
@@ -770,7 +792,8 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "explanation_en": "With I we use am, so we say I am Sara. are is with you, we and they, and is is with he, she and it."
   },
   {
     "grade": "P2",
@@ -797,7 +820,8 @@
     },
     "review_status": "feedback written, awaiting publisher review; not published, not tested",
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "explanation_en": "The question about the name is What's your name? and the reply is My name is Yara. How's means كيف and Where's means فين, and they do not ask about the name."
   },
   {
     "grade": "P2",
@@ -834,7 +858,8 @@
       "chair",
       "desk",
       "student"
-    ]
+    ],
+    "explanation_en": "The picture shows a chair (كرسي). The first letter is given (c) and you write the rest: chair."
   },
   {
     "grade": "P2",
@@ -871,7 +896,8 @@
       "chair",
       "desk",
       "student"
-    ]
+    ],
+    "explanation_en": "The picture shows a student (طالب). The first letter is given (s) and you write the rest: student."
   },
   {
     "grade": "P2",
@@ -908,7 +934,8 @@
       "chair",
       "desk",
       "student"
-    ]
+    ],
+    "explanation_en": "The picture shows a teacher (مدرس). The first letter is given (t) and you write the rest: teacher."
   },
   {
     "grade": "P2",
@@ -945,7 +972,8 @@
       "chair",
       "desk",
       "student"
-    ]
+    ],
+    "explanation_en": "The picture shows a desk (مكتب). The first letter is given (d) and you write the rest: desk."
   },
   {
     "grade": "P2",
@@ -982,7 +1010,8 @@
       "chair",
       "desk",
       "student"
-    ]
+    ],
+    "explanation_en": "The picture shows Hello! (مرحبًا). The first letter is given (H) and you write the rest: Hello!."
   },
   {
     "grade": "P2",
@@ -1019,7 +1048,8 @@
     "alt": "Picture clue",
     "requires_image": true,
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "explanation_en": "The letters are arranged into the word chair, meaning كرسي. Look at the picture and start from the first correct letter."
   },
   {
     "grade": "P2",
@@ -1058,7 +1088,8 @@
     "alt": "Picture clue",
     "requires_image": true,
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "explanation_en": "The letters are arranged into the word teacher, meaning مدرس. Look at the picture and start from the first correct letter."
   },
   {
     "grade": "P2",
@@ -1094,7 +1125,8 @@
     "alt": "Picture clue",
     "requires_image": true,
     "lesson_title": "Classroom Greetings",
-    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "explanation_en": "The letters are arranged into the word desk, meaning مكتب. Look at the picture and start from the first correct letter."
   },
   {
     "grade": "P2",
@@ -1127,7 +1159,8 @@
       "window": "p2-lessons-assets/img/window.png",
       "door": "images/words/door.png",
       "pen": "images/words/pen.png"
-    }
+    },
+    "explanation_en": "The correct answer: door (باب). Match the word to the picture that fits its meaning exactly, and look carefully at the other pictures before you choose."
   },
   {
     "grade": "P2",
@@ -1160,7 +1193,8 @@
       "bag": "p2-lessons-assets/img/bag.png",
       "book": "images/words/book.jpg",
       "board": "images/words/fixed-board.png"
-    }
+    },
+    "explanation_en": "The correct answer: bag (شنطة). Match the word to the picture that fits its meaning exactly, and look carefully at the other pictures before you choose."
   },
   {
     "grade": "P2",
@@ -1193,7 +1227,8 @@
       "notebook": "p2-lessons-assets/img/notebook.png",
       "window": "p2-lessons-assets/img/window.png",
       "pen": "images/words/pen.png"
-    }
+    },
+    "explanation_en": "The correct answer: pen (قلم). Match the word to the picture that fits its meaning exactly, and look carefully at the other pictures before you choose."
   },
   {
     "grade": "P2",
@@ -1226,7 +1261,8 @@
       "door": "images/words/door.png",
       "board": "images/words/fixed-board.png",
       "notebook": "p2-lessons-assets/img/notebook.png"
-    }
+    },
+    "explanation_en": "The correct answer: board (سبورة). Match the word to the picture that fits its meaning exactly, and look carefully at the other pictures before you choose."
   },
   {
     "grade": "P2",
@@ -1255,7 +1291,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/fixed-board.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The word is board, meaning سبورة. Look at the picture and write the word with the correct letters without looking at the word sheet."
   },
   {
     "grade": "P2",
@@ -1284,7 +1321,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/window.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The word is window, meaning شباك. Look at the picture and write the word with the correct letters without looking at the word sheet."
   },
   {
     "grade": "P2",
@@ -1313,7 +1351,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/door.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The word is door, meaning باب. Look at the picture and write the word with the correct letters without looking at the word sheet."
   },
   {
     "grade": "P2",
@@ -1342,7 +1381,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/pen.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The word is pen, meaning قلم. Look at the picture and write the word with the correct letters without looking at the word sheet."
   },
   {
     "grade": "P2",
@@ -1371,7 +1411,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/book.jpg",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The word is book, meaning كتاب. Look at the picture and write the word with the correct letters without looking at the word sheet."
   },
   {
     "grade": "P2",
@@ -1400,7 +1441,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/notebook.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The word is notebook, meaning كراسة. Look at the picture and write the word with the correct letters without looking at the word sheet."
   },
   {
     "grade": "P2",
@@ -1429,7 +1471,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/bag.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The word is bag, meaning شنطة. Look at the picture and write the word with the correct letters without looking at the word sheet."
   },
   {
     "grade": "P2",
@@ -1459,7 +1502,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/map.jpg",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The correct answer: map (خريطة). Read the words with the short a sound /æ/ and focus on the last letter: cap ends in p and cat ends in t, and man and map differ in the last letter. Choose the word that matches the picture."
   },
   {
     "grade": "P2",
@@ -1489,7 +1533,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/cap.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The correct answer: cap (كاب). Read the words with the short a sound /æ/ and focus on the last letter: cap ends in p and cat ends in t, and man and map differ in the last letter. Choose the word that matches the picture."
   },
   {
     "grade": "P2",
@@ -1519,7 +1564,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/fan.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The correct answer: fan (مروحة). Read the words with the short a sound /æ/ and focus on the last letter: cap ends in p and cat ends in t, and man and map differ in the last letter. Choose the word that matches the picture."
   },
   {
     "grade": "P2",
@@ -1549,7 +1595,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/cat.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The correct answer: cat (قطة). Read the words with the short a sound /æ/ and focus on the last letter: cap ends in p and cat ends in t, and man and map differ in the last letter. Choose the word that matches the picture."
   },
   {
     "grade": "P2",
@@ -1584,7 +1631,8 @@
     ],
     "image": "images/words/cat.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The letters are arranged into the word cat, meaning قطة. Look at the picture and start from the first correct letter."
   },
   {
     "grade": "P2",
@@ -1619,7 +1667,8 @@
     ],
     "image": "images/words/map.jpg",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The letters are arranged into the word map, meaning خريطة. Look at the picture and start from the first correct letter."
   },
   {
     "grade": "P2",
@@ -1654,7 +1703,8 @@
     ],
     "image": "images/words/man.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The letters are arranged into the word man, meaning رجل. Look at the picture and start from the first correct letter."
   },
   {
     "grade": "P2",
@@ -1697,7 +1747,8 @@
     ],
     "image": "images/words/cat.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The sentence starts with the word with the capital letter (This), then is, then a and the name of the thing, and it ends with a full stop: This is a cat."
   },
   {
     "grade": "P2",
@@ -1740,7 +1791,8 @@
     ],
     "image": "images/words/map.jpg",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The sentence starts with the word with the capital letter (This), then is, then a and the name of the thing, and it ends with a full stop: This is a map."
   },
   {
     "grade": "P2",
@@ -1783,7 +1835,8 @@
     ],
     "image": "images/words/teacher.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The sentence starts with the word with the capital letter (She), then is, then a and the name of the thing, and it ends with a full stop: She is a teacher."
   },
   {
     "grade": "P2",
@@ -1829,7 +1882,8 @@
     "image": "p2-lessons-assets/img/red-cap.png",
     "requires_image": true,
     "alt": "Picture clue",
-    "cue_source": "Ministry P2 p9 cap illustration; blue recolored red to match the printed GEM sentence, no key change"
+    "cue_source": "Ministry P2 p9 cap illustration; blue recolored red to match the printed GEM sentence, no key change",
+    "explanation_en": "The sentence starts with the word with the capital letter (It), then is, then a and the name of the thing, and it ends with a full stop: It is a red cap."
   },
   {
     "grade": "P2",
@@ -1872,7 +1926,8 @@
     ],
     "image": "images/words/fan.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The sentence starts with the word with the capital letter (This), then is, then a and the name of the thing, and it ends with a full stop: This is a fan."
   },
   {
     "grade": "P2",
@@ -1915,7 +1970,8 @@
     ],
     "image": "images/words/p2-student.jpg",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The sentence starts with the word with the capital letter (He), then is, then a and the name of the thing, and it ends with a full stop: He is a student."
   },
   {
     "grade": "P2",
@@ -1958,7 +2014,8 @@
     ],
     "image": "images/words/fixed-hat.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The sentence starts with the word with the capital letter (This), then is, then a and the name of the thing, and it ends with a full stop: This is a hat."
   },
   {
     "grade": "P2",
@@ -2001,7 +2058,8 @@
     ],
     "image": "images/words/desk.jpg",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The sentence starts with a capital letter, then is, then a and the name of the thing: This is a desk."
   },
   {
     "grade": "P2",
@@ -2044,7 +2102,8 @@
     ],
     "image": "images/words/teacher.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The sentence starts with a capital letter, then is, then a and the name of the thing: He is a teacher."
   },
   {
     "grade": "P2",
@@ -2087,7 +2146,8 @@
     ],
     "image": "images/words/fixed-chair.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The sentence starts with a capital letter, then is, then a and the name of the thing: This is a chair."
   },
   {
     "id": "ministry-p2-u1l2-p9-hat",
@@ -2110,7 +2170,8 @@
     "key_status": "teacher-derived from printed picture; not answer-book certified",
     "audio": false,
     "explanation_ar": "الصورة قبعة: hat. كلمة hot معناها ساخن، فلا تطابق الصورة.",
-    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "explanation_en": "The picture is a hat: hat. The word hot means ساخن, so it does not match the picture."
   },
   {
     "id": "ministry-p2-u1l2-p9-man",
@@ -2133,7 +2194,8 @@
     "key_status": "teacher-derived from printed picture; not answer-book certified",
     "audio": false,
     "explanation_ar": "الصورة لرجل واحد: man. كلمة men جمع ومعناها رجال.",
-    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication"
+    "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
+    "explanation_en": "The picture is of one man: man. The word men is plural and means رجال."
   },
   {
     "grade": "P2",
@@ -2167,7 +2229,8 @@
       "eraser": "images/words/eraser.jpg",
       "pencil case": "p2-lessons-assets/img/pencil-case.png",
       "bag": "p2-lessons-assets/img/bag.png"
-    }
+    },
+    "explanation_en": "The word eraser means أستيكة. Choose the picture that matches the word, and watch out for the other things in the class, because each one has a different name."
   },
   {
     "grade": "P2",
@@ -2201,7 +2264,8 @@
       "bag": "p2-lessons-assets/img/bag.png",
       "ruler": "p2-lessons-assets/img/ruler.png",
       "eraser": "images/words/eraser.jpg"
-    }
+    },
+    "explanation_en": "The word ruler means مسطرة. Choose the picture that matches the word, and watch out for the other things in the class, because each one has a different name."
   },
   {
     "grade": "P2",
@@ -2235,7 +2299,8 @@
       "pencil case": "p2-lessons-assets/img/pencil-case.png",
       "eraser": "images/words/eraser.jpg",
       "bag": "p2-lessons-assets/img/bag.png"
-    }
+    },
+    "explanation_en": "The word bag means شنطة. Choose the picture that matches the word, and watch out for the other things in the class, because each one has a different name."
   },
   {
     "grade": "P2",
@@ -2269,7 +2334,8 @@
       "ruler": "p2-lessons-assets/img/ruler.png",
       "pencil case": "p2-lessons-assets/img/pencil-case.png",
       "eraser": "images/words/eraser.jpg"
-    }
+    },
+    "explanation_en": "The word pencil case means مقلمة. Choose the picture that matches the word, and watch out for the other things in the class, because each one has a different name."
   },
   {
     "grade": "P2",
@@ -2300,7 +2366,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/pen.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The picture shows a pen, so the answer is pen. Focus on the first and last letter: pen is not like the other word."
   },
   {
     "grade": "P2",
@@ -2331,7 +2398,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/hen.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The picture shows a hen, so the answer is hen. Focus on the first and last letter: hen is not like the other word."
   },
   {
     "grade": "P2",
@@ -2362,7 +2430,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/zip.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The picture shows a zip, so the answer is zip. Focus on the first and last letter: zip is not like the other word."
   },
   {
     "grade": "P2",
@@ -2393,7 +2462,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/bin.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The picture shows a bin, so the answer is bin. Focus on the first and last letter: bin is not like the other word."
   },
   {
     "grade": "P2",
@@ -2423,7 +2493,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/pen.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The word pen means قلم. Write it letter by letter in order: p - e - n."
   },
   {
     "grade": "P2",
@@ -2453,7 +2524,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/ten.jpg",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The word ten means عشرة. Write it letter by letter in order: t - e - n."
   },
   {
     "grade": "P2",
@@ -2483,7 +2555,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/hen.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The word hen means فرخة. Write it letter by letter in order: h - e - n."
   },
   {
     "grade": "P2",
@@ -2513,7 +2586,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/zip.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The word zip means سوستة. Write it letter by letter in order: z - i - p."
   },
   {
     "grade": "P2",
@@ -2543,7 +2617,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/fig.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The word fig means تين. Write it letter by letter in order: f - i - g."
   },
   {
     "grade": "P2",
@@ -2573,7 +2648,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/bin.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The word bin means سلة المهملات. Write it letter by letter in order: b - i - n."
   },
   {
     "grade": "P2",
@@ -2606,7 +2682,8 @@
       "board",
       "pencil case",
       "bag"
-    ]
+    ],
+    "explanation_en": "We put pens in the pencil case, not on the board or in the bag."
   },
   {
     "grade": "P2",
@@ -2639,7 +2716,8 @@
       "board",
       "pencil case",
       "bag"
-    ]
+    ],
+    "explanation_en": "The teacher writes on the board."
   },
   {
     "grade": "P2",
@@ -2672,7 +2750,8 @@
       "board",
       "pencil case",
       "bag"
-    ]
+    ],
+    "explanation_en": "We put books in the bag."
   },
   {
     "grade": "P2",
@@ -2702,7 +2781,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/bag.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The letters are arranged into the word bag, meaning شنطة. Look at the picture and start with the first sensible letter."
   },
   {
     "grade": "P2",
@@ -2732,7 +2812,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/ruler.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The letters are arranged into the word ruler, meaning مسطرة. Look at the picture and start with the first sensible letter."
   },
   {
     "grade": "P2",
@@ -2762,7 +2843,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/eraser.jpg",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The letters are arranged into the word eraser, meaning أستيكة. Look at the picture and start with the first sensible letter."
   },
   {
     "grade": "P2",
@@ -2792,7 +2874,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/pencil-case.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The letters are arranged into the word pencil case, meaning مقلمة. Look at the picture and start with the first sensible letter."
   },
   {
     "grade": "P2",
@@ -2835,7 +2918,8 @@
     ],
     "image": "images/words/fixed-board.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The sentence starts with That, then is, then the name of the thing: That is a board. The first letter is capital and the ending is a full stop."
   },
   {
     "grade": "P2",
@@ -2876,7 +2960,8 @@
     ],
     "image": "p2-lessons-assets/img/bag.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The sentence starts with This, then is, then the name of the thing: This is my bag. The first letter is capital and the ending is a full stop."
   },
   {
     "grade": "P2",
@@ -2917,7 +3002,8 @@
     ],
     "image": "images/words/eraser.jpg",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The sentence starts with That, then is, then the name of the thing: That is an eraser. The first letter is capital and the ending is a full stop."
   },
   {
     "grade": "P2",
@@ -2947,7 +3033,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/fixed-hat.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The picture shows a hat, so the word is hat and the missing letter is a."
   },
   {
     "grade": "P2",
@@ -2977,7 +3064,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/pen.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The picture shows a pen, so the word is pen and the missing letter is e."
   },
   {
     "grade": "P2",
@@ -3007,7 +3095,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/fig.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The picture shows figs, so the word is fig and the missing letter is i."
   },
   {
     "grade": "P2",
@@ -3037,7 +3126,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/map.jpg",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The picture shows a map, so the word is map and the missing letter is a."
   },
   {
     "grade": "P2",
@@ -3067,7 +3157,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/cat.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The picture shows a cat, so the word is cat and the missing letter is a."
   },
   {
     "grade": "P2",
@@ -3097,7 +3188,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/ten.jpg",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "The picture shows ten, so the word is ten and the missing letter is e."
   },
   {
     "grade": "P2",
@@ -3130,7 +3222,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/window.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "We write the definition sentence: This is a window (شباك). That is a window is also correct if the thing is far away. The sentence starts with a capital letter and ends with a full stop."
   },
   {
     "grade": "P2",
@@ -3163,7 +3256,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/ruler.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "We write the definition sentence: This is a ruler (مسطرة). That is a ruler is also correct if the thing is far away. The sentence starts with a capital letter and ends with a full stop."
   },
   {
     "grade": "P2",
@@ -3196,7 +3290,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/fixed-board.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "We write the definition sentence: This is a board (سبورة). That is a board is also correct if the thing is far away. The sentence starts with a capital letter and ends with a full stop."
   },
   {
     "grade": "P2",
@@ -3229,7 +3324,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/bag.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "We write the definition sentence: This is a bag (شنطة). That is a bag is also correct if the thing is far away. The sentence starts with a capital letter and ends with a full stop."
   },
   {
     "grade": "P2",
@@ -3260,7 +3356,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/hen.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "We write the definition sentence from the two words: This is a hen. First letter capital and the ending is a full stop."
   },
   {
     "grade": "P2",
@@ -3296,7 +3393,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/min-door.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "In the picture there is a door far away, so we say That is a door."
   },
   {
     "grade": "P2",
@@ -3332,7 +3430,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/min-board.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "In the picture there is a board, so we say That is a board."
   },
   {
     "grade": "P2",
@@ -3453,7 +3552,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/min-eraser.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "In the picture there is an eraser nearby, so we say This is an eraser. We use an before eraser because it starts with a vowel sound."
   },
   {
     "grade": "P2",
@@ -3488,7 +3588,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/min-bag.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "In the picture there is a bag nearby, so we say This is a bag."
   },
   {
     "grade": "P2",
@@ -3523,7 +3624,8 @@
       "pencil case",
       "door",
       "bag"
-    ]
+    ],
+    "explanation_en": "We can say Open the door, please or Open the window, please. Both are correct here because there is no picture or sign that specifies one of them."
   },
   {
     "grade": "P2",
@@ -3565,7 +3667,8 @@
       "is",
       "a",
       "pencil case."
-    ]
+    ],
+    "explanation_en": "We order the words: That is a pencil case. meaning تلك مقلمة."
   },
   {
     "grade": "P2",
@@ -3596,7 +3699,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "p2-lessons-assets/img/pencil-case.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "In the picture there is a pencil case, so we write This is a pencil case. This is and That is are both correct because the picture does not set the distance."
   },
   {
     "grade": "P2",
@@ -3627,7 +3731,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/eraser.jpg",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "In the picture there is أستيكة, so we write This is an eraser. We use an before eraser because it starts with a vowel sound. This is and That is are both correct because the picture does not set the distance."
   },
   {
     "grade": "P2",
@@ -3658,7 +3763,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/door.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "In the picture there is an open door, so we write That is a door. This is and That is are both correct because the picture does not set the distance."
   },
   {
     "grade": "P2",
@@ -3689,7 +3795,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/desk.jpg",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "In the picture there is a desk, so we write This is a desk. This is and That is are both correct because the picture does not set the distance."
   },
   {
     "grade": "P2",
@@ -3720,7 +3827,8 @@
     "qa_status": "source and key reviewed; correct/incorrect/empty/navigation/variant QA passed before publication",
     "image": "images/words/fixed-chair.png",
     "requires_image": true,
-    "alt": "Picture clue"
+    "alt": "Picture clue",
+    "explanation_en": "In the picture there is a chair, so we write This is a chair. This is and That is are both correct because the picture does not set the distance."
   },
   {
     "grade": "P2",
@@ -3751,7 +3859,8 @@
     "image": "images/words/pen.png",
     "requires_image": true,
     "alt": "Picture clue",
-    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling."
+    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling.",
+    "explanation_en": "We order the letters to form the word pen, meaning قلم."
   },
   {
     "grade": "P2",
@@ -3782,7 +3891,8 @@
     "image": "images/words/ten.jpg",
     "requires_image": true,
     "alt": "Picture clue",
-    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling."
+    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling.",
+    "explanation_en": "We order the letters to form the word ten, meaning عشرة."
   },
   {
     "grade": "P2",
@@ -3813,7 +3923,8 @@
     "image": "images/words/hen.png",
     "requires_image": true,
     "alt": "Picture clue",
-    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling."
+    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling.",
+    "explanation_en": "We order the letters to form the word hen, meaning دجاجة."
   },
   {
     "grade": "P2",
@@ -3844,7 +3955,8 @@
     "image": "p2-lessons-assets/img/zip.png",
     "requires_image": true,
     "alt": "Picture clue",
-    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling."
+    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling.",
+    "explanation_en": "We order the letters to form the word zip, meaning سوستة."
   },
   {
     "grade": "P2",
@@ -3875,7 +3987,8 @@
     "image": "images/words/bin.png",
     "requires_image": true,
     "alt": "Picture clue",
-    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling."
+    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling.",
+    "explanation_en": "We order the letters to form the word bin, meaning سلة مهملات."
   },
   {
     "grade": "P2",
@@ -3906,7 +4019,8 @@
     "image": "p2-lessons-assets/img/fig.png",
     "requires_image": true,
     "alt": "Picture clue",
-    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling."
+    "adaptation": "Printed letter unscramble remains typed word entry with a supplementary picture cue. Distinct supplied-letter sequencing, not a second copy of picture-only spelling.",
+    "explanation_en": "We order the letters to form the word fig, meaning تين."
   },
   {
     "id": "orig-p2-u1l1-01",
@@ -3935,7 +4049,8 @@
       "ministry_lesson": "Unit 1 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The question is about the name, so we reply with My name is ... not another sentence."
   },
   {
     "id": "orig-p2-u1l1-03",
@@ -3963,7 +4078,8 @@
       "ministry_lesson": "Unit 1 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "At the end of the day we say Goodbye (مع السلامة)."
   },
   {
     "id": "orig-p2-u1l2-01",
@@ -3992,7 +4108,8 @@
       "ministry_lesson": "Unit 1 Lesson 2",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "cat and hat have the same ending at. fan ends in an and map ends in ap."
   },
   {
     "id": "orig-p2-u1l2-02",
@@ -4021,7 +4138,8 @@
       "ministry_lesson": "Unit 1 Lesson 2",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "fan and man end in an, so they rhyme with each other."
   },
   {
     "id": "orig-p2-u1l2-03",
@@ -4050,7 +4168,8 @@
       "ministry_lesson": "Unit 1 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "cat and hat have the short a sound. hot has the o sound."
   },
   {
     "id": "orig-p2-u1l2-04",
@@ -4091,7 +4210,8 @@
       "ministry_lesson": "Unit 1 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence starts with This, then is a, then the word: This is a notebook."
   },
   {
     "id": "orig-p2-u1l2-05",
@@ -4124,7 +4244,8 @@
       "ministry_lesson": "Unit 1 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The letters are arranged into the word door, meaning باب."
   },
   {
     "id": "orig-p2-u1l3-01",
@@ -4153,7 +4274,8 @@
       "ministry_lesson": "Unit 1 Lesson 3",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The question about place (Where) is answered with It's over there."
   },
   {
     "id": "orig-p2-u1l3-02",
@@ -4182,7 +4304,8 @@
       "ministry_lesson": "Unit 1 Lesson 3",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The eraser is what we erase mistakes with. The word an comes before the letter e."
   },
   {
     "id": "orig-p2-u1l3-03",
@@ -4211,7 +4334,8 @@
       "ministry_lesson": "Unit 1 Lesson 3",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The ruler is what we measure the line with."
   },
   {
     "id": "orig-p2-u1l3-04",
@@ -4240,7 +4364,8 @@
       "ministry_lesson": "Unit 1 Lesson 3",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "We look out of the window at what is outside."
   },
   {
     "id": "orig-p2-u1l3-05",
@@ -4281,7 +4406,8 @@
       "ministry_lesson": "Unit 1 Lesson 3",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "That is a ruler. means: دي مسطرة (far away)."
   },
   {
     "id": "orig-p2-u1l3-06",
@@ -4322,7 +4448,8 @@
       "ministry_lesson": "Unit 1 Lesson 3",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The question starts with Where, then is the door, and a question mark."
   },
   {
     "id": "orig-p2-u1l3-07",
@@ -4357,7 +4484,8 @@
       "ministry_lesson": "Unit 1 Lesson 3",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The letters are arranged into the word window, meaning شباك."
   },
   {
     "id": "orig-p2-u1l3-08",
@@ -4386,7 +4514,8 @@
       "ministry_lesson": "Unit 1 Lesson 3",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "fig has the short i sound. hen and pen have the e sound."
   },
   {
     "id": "orig-p2-u1l4-04",
@@ -4415,7 +4544,8 @@
       "ministry_lesson": "Unit 1 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The correct sentence starts with a capital letter and ends with a full stop."
   },
   {
     "id": "orig-p2-u1l4-05",
@@ -4458,7 +4588,8 @@
       "ministry_lesson": "Unit 1 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "This is my pencil case. means: دي مقلمتي."
   },
   {
     "id": "orig-p2-u1l4-06",
@@ -4499,7 +4630,8 @@
       "ministry_lesson": "Unit 1 Lesson 4",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "This is my ruler. means: دي مسطرتي."
   },
   {
     "id": "orig-p2-u1l4-07",
@@ -4528,7 +4660,8 @@
       "ministry_lesson": "Unit 1 Lesson 4",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The ordered sentence is This is my ruler."
   },
   {
     "id": "orig-p2-u1l1-91",
@@ -4557,7 +4690,8 @@
       "ministry_lesson": "Unit 1 Lesson 1",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "In the morning we say Good morning. Goodbye is said when we leave."
   },
   {
     "id": "orig-p2-u1l4-93",
@@ -4586,7 +4720,8 @@
       "ministry_lesson": "Unit 1 Lesson 4",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence must start with a capital letter and end with a full stop: This is my bag."
   },
   {
     "id": "orig-p2-u1l4-95",
@@ -4627,7 +4762,8 @@
       "ministry_lesson": "Unit 1 Lesson 4",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence: This is my notebook."
   },
   {
     "id": "orig-p2-u1l4-96",
@@ -4656,7 +4792,8 @@
       "ministry_lesson": "Unit 1 Lesson 4",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence starts with a capital letter and ends with a full stop."
   },
   {
     "id": "orig-p2-u1l4-98",
@@ -4685,6 +4822,7 @@
       "ministry_lesson": "Unit 1 Lesson 4",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence starts with a capital letter and ends with a full stop."
   }
 ]

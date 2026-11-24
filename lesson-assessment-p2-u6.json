@@ -524,7 +524,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the bedroom we sleep: I sleep."
   },
   {
     "grade": "P2",
@@ -893,7 +894,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«next to» means جنب."
   },
   {
     "grade": "P2",
@@ -925,7 +927,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«on» means فوق."
   },
   {
     "grade": "P2",
@@ -2409,7 +2412,8 @@
     "image": "p2-lessons-assets/img/p2-u6-p173-cook.jpg",
     "alt": "a mom and girl cooking",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "Choose the sentence that describes the picture."
   },
   {
     "grade": "P2",
@@ -2443,7 +2447,8 @@
     "image": "p2-lessons-assets/img/p2-u6-p173-sleep.jpg",
     "alt": "a person sleeping",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "Choose the sentence that describes the picture."
   },
   {
     "grade": "P2",
@@ -2477,7 +2482,8 @@
     "image": "p2-lessons-assets/img/p2-u6-p173-dining.jpg",
     "alt": "a family eating",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "Choose the sentence that describes the picture."
   },
   {
     "grade": "P2",
@@ -2511,7 +2517,8 @@
     "image": "p2-lessons-assets/img/p2-u6-p173-garden.jpg",
     "alt": "flowers in a garden",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "Choose the sentence that describes the picture."
   },
   {
     "grade": "P2",
@@ -3079,7 +3086,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the bedroom we sleep: I sleep."
   },
   {
     "grade": "P2",
@@ -4757,7 +4765,8 @@
       "ministry_lesson": "Unit 6 Lesson 1",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence starts with a capital letter and ends with a full stop."
   },
   {
     "id": "orig-p2-u6l2-01",

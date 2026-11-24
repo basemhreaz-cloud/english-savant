@@ -22,7 +22,8 @@
     "image_optional": [
       "cow"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«cow» means بقرة."
   },
   {
     "grade": "P1",
@@ -47,7 +48,8 @@
     "image_optional": [
       "duck"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«duck» means بطة."
   },
   {
     "grade": "P1",
@@ -72,7 +74,8 @@
     "image": "p1-lessons-assets/img/kg-cow.png",
     "alt": "picture: cow",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is بقرة. The word in English: cow."
   },
   {
     "grade": "P1",
@@ -97,7 +100,8 @@
     "image_optional": [
       "cow"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The cow is big: big."
   },
   {
     "grade": "P1",
@@ -122,7 +126,8 @@
     "image_optional": [
       "duck"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The duck is small: small."
   },
   {
     "grade": "P1",
@@ -145,7 +150,8 @@
     "image_optional": [
       "cow"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the dialogue: The cow is big."
   },
   {
     "grade": "P1",
@@ -168,7 +174,8 @@
     "image_optional": [
       "horse"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the dialogue: The horse is big, too."
   },
   {
     "grade": "P1",
@@ -195,7 +202,8 @@
     ],
     "requires_image": true,
     "image": "p1-lessons-assets/img/kg-cow.png",
-    "alt": "a cow"
+    "alt": "a cow",
+    "explanation_en": "The cow gives us milk: milk."
   },
   {
     "grade": "P1",
@@ -220,7 +228,8 @@
     "requires_image": true,
     "hint_ar": "بقرة",
     "image": "p1-lessons-assets/img/kg-cow.png",
-    "alt": "a cow"
+    "alt": "a cow",
+    "explanation_en": "The word cow: c-o-w"
   },
   {
     "grade": "P1",
@@ -290,7 +299,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has a slot. 1: cow. 2: big. 3: small. 4: animals."
   },
   {
     "grade": "P1",
@@ -315,7 +325,8 @@
     "image": "p1-lessons-assets/img/obj-moon.png",
     "alt": "a picture of a moon",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "moon starts with the letter m."
   },
   {
     "grade": "P1",
@@ -340,7 +351,8 @@
     "image_optional": [
       "moon"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«moon» means قمر."
   },
   {
     "grade": "P1",
@@ -363,7 +375,8 @@
     "image_optional": [
       "monkey"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "monkey starts with the letter m."
   },
   {
     "grade": "P1",
@@ -392,7 +405,8 @@
       "moon"
     ],
     "image": "p1-lessons-assets/img/obj-moon.png",
-    "alt": "the moon"
+    "alt": "the moon",
+    "explanation_en": "Order the letters: m-o-o-n"
   },
   {
     "grade": "P1",
@@ -417,7 +431,8 @@
     "image": "p1-lessons-assets/img/kg-grapes.png",
     "alt": "a picture of a grapes",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "grapes starts with the letter g."
   },
   {
     "grade": "P1",
@@ -442,7 +457,8 @@
     "image_optional": [
       "grapes"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«grapes» means عنب."
   },
   {
     "grade": "P1",
@@ -465,7 +481,8 @@
     "image_optional": [
       "grapes"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "grapes starts with a different letter from M."
   },
   {
     "grade": "P1",
@@ -496,7 +513,8 @@
       "grapes"
     ],
     "image": "p1-lessons-assets/img/kg-grapes.png",
-    "alt": "grapes"
+    "alt": "grapes",
+    "explanation_en": "Order the letters: g-r-a-p-e-s"
   },
   {
     "grade": "P1",
@@ -519,7 +537,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "goat starts with g."
   },
   {
     "grade": "P1",
@@ -544,7 +563,8 @@
     "image": "p1-lessons-assets/img/count-stars-6.png",
     "alt": "6 yellow stars",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "«6 نجوم» means كذا واحد: بنقول There are."
   },
   {
     "grade": "P1",
@@ -569,7 +589,8 @@
     "image": "p1-lessons-assets/img/count-apples-6.png",
     "alt": "6 red apples",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the apples one by one: the answer is 6."
   },
   {
     "grade": "P1",
@@ -592,7 +613,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "After 5 comes 6."
   },
   {
     "grade": "P1",
@@ -615,7 +637,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "After 7 comes 8."
   },
   {
     "grade": "P1",
@@ -636,7 +659,8 @@
     "passage": "Sara: Hi, Tamer!\nTamer: Hi, Sara!\nSara: How many horses can you see?\nTamer: I can see 7 horses!\nSara: Let's count the ducks.\nTamer: Okay! 1, 2, 3, 4, 5, 6, 7, 8, and 9\nSara: There are 9 ducks!\nTamer: That's a lot of animals!\nSara: Counting farm animals is fun.",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the dialogue: I can see 7 horses!"
   },
   {
     "grade": "P1",
@@ -657,7 +681,8 @@
     "passage": "Sara: Hi, Tamer!\nTamer: Hi, Sara!\nSara: How many horses can you see?\nTamer: I can see 7 horses!\nSara: Let's count the ducks.\nTamer: Okay! 1, 2, 3, 4, 5, 6, 7, 8, and 9\nSara: There are 9 ducks!\nTamer: That's a lot of animals!\nSara: Counting farm animals is fun.",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The ducks are 9, not 8: There are 9 ducks!"
   },
   {
     "grade": "P1",
@@ -697,7 +722,8 @@
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image": "p1-lessons-assets/img/count-stars-10.png",
-    "alt": "ten stars"
+    "alt": "ten stars",
+    "explanation_en": "The sentence: I can see 10 stars."
   },
   {
     "grade": "P1",
@@ -718,7 +744,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "After 7 comes 8."
   },
   {
     "grade": "P1",
@@ -782,7 +809,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has a slot. 1: horses. 2: ducks. 3: 9."
   },
   {
     "grade": "P1",
@@ -807,7 +835,8 @@
     "image": "p1-lessons-assets/img/obj-olive.png",
     "alt": "a picture of a olive",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "olive starts with the letter o."
   },
   {
     "grade": "P1",
@@ -832,7 +861,8 @@
     "image_optional": [
       "octopus"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«octopus» means أخطبوط."
   },
   {
     "grade": "P1",
@@ -855,7 +885,8 @@
     "image_optional": [
       "on"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "on starts with the letter o."
   },
   {
     "grade": "P1",
@@ -878,7 +909,8 @@
     "answer_kind": "text_key",
     "image_optional": null,
     "requires_image": false,
-    "hint_ar": "أخطبوط"
+    "hint_ar": "أخطبوط",
+    "explanation_en": "The first letter of octopus is o."
   },
   {
     "grade": "P1",
@@ -903,7 +935,8 @@
     "image": "p1-lessons-assets/img/obj-fan.png",
     "alt": "a picture of a fan",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "fan starts with the letter f."
   },
   {
     "grade": "P1",
@@ -928,7 +961,8 @@
     "image_optional": [
       "fish"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«fish» means سمكة."
   },
   {
     "grade": "P1",
@@ -951,7 +985,8 @@
     "image_optional": [
       "fish"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "fish starts with a different letter from O."
   },
   {
     "grade": "P1",
@@ -980,7 +1015,8 @@
       "fork"
     ],
     "image": "p1-lessons-assets/img/obj-fork.png",
-    "alt": "a fork"
+    "alt": "a fork",
+    "explanation_en": "Order the letters: f-o-r-k"
   },
   {
     "grade": "P1",
@@ -1003,6 +1039,7 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "frog starts with f."
   }
 ]

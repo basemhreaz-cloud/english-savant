@@ -860,7 +860,8 @@
     "image": "p1-lessons-assets/img/kg-ink.png",
     "alt": "a picture of a ink",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "ink starts with the letter i."
   },
   {
     "grade": "P1",
@@ -1013,6 +1014,7 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "tiger starts with the letter t."
   }
 ]

@@ -204,7 +204,8 @@
     "image_optional": [
       "legs"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«legs جمع leg» means رجلين."
   },
   {
     "grade": "P1",
@@ -1120,7 +1121,8 @@
     "image_optional": [
       "rabbit"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "rabbit starts with the letter r."
   },
   {
     "grade": "P1",
@@ -1145,7 +1147,8 @@
     "image_optional": [
       "red"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "red starts with the letter r."
   },
   {
     "grade": "P1",
@@ -1170,7 +1173,8 @@
     "image_optional": [
       "ring"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "ring starts with the letter r."
   },
   {
     "grade": "P1",
@@ -1319,7 +1323,8 @@
     "image_optional": [
       "rabbit"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "rabbit starts with the letter r."
   },
   {
     "grade": "P1",
@@ -1342,7 +1347,8 @@
     "image_optional": [
       "red"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "red starts with the letter r."
   },
   {
     "grade": "P1",
@@ -1620,7 +1626,8 @@
     "image_optional": [
       "egg"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "egg starts with the letter e."
   },
   {
     "grade": "P1",
@@ -1645,7 +1652,8 @@
     "image_optional": [
       "elephant"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "elephant starts with the letter e."
   },
   {
     "grade": "P1",
@@ -1820,7 +1828,8 @@
     "image_optional": [
       "egg"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "egg starts with the letter e."
   },
   {
     "grade": "P1",
@@ -1843,7 +1852,8 @@
     "image_optional": [
       "elephant"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "elephant starts with the letter e."
   },
   {
     "grade": "P1",
@@ -2263,7 +2273,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We smell with the nose."
   },
   {
     "grade": "P1",
@@ -2536,7 +2547,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We smell with the nose."
   },
   {
     "grade": "P1",
@@ -3145,7 +3157,8 @@
     "image_optional": [
       "cat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cat starts with the letter c."
   },
   {
     "grade": "P1",
@@ -3170,7 +3183,8 @@
     "image_optional": [
       "cake"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cake starts with the letter c."
   },
   {
     "grade": "P1",
@@ -3195,7 +3209,8 @@
     "image_optional": [
       "cup"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cup starts with the letter c."
   },
   {
     "grade": "P1",
@@ -3344,7 +3359,8 @@
     "image_optional": [
       "cat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cat starts with the letter c."
   },
   {
     "grade": "P1",
@@ -3367,7 +3383,8 @@
     "image_optional": [
       "cake"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cake starts with the letter c."
   },
   {
     "grade": "P1",
@@ -3643,7 +3660,8 @@
     "image_optional": [
       "kite"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "kite starts with the letter k."
   },
   {
     "grade": "P1",
@@ -3668,7 +3686,8 @@
     "image_optional": [
       "king"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "king starts with the letter k."
   },
   {
     "grade": "P1",
@@ -3693,7 +3712,8 @@
     "image_optional": [
       "key"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "key starts with the letter k."
   },
   {
     "grade": "P1",
@@ -3842,7 +3862,8 @@
     "image_optional": [
       "kite"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "kite starts with the letter k."
   },
   {
     "grade": "P1",
@@ -3865,7 +3886,8 @@
     "image_optional": [
       "king"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "king starts with the letter k."
   },
   {
     "grade": "P1",
@@ -4142,7 +4164,8 @@
     "image": "p1-lessons-assets/img/kg-egg.png",
     "alt": "a picture of a egg",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "egg starts with the letter e."
   },
   {
     "grade": "P1",
@@ -4193,7 +4216,8 @@
     "image": "p1-lessons-assets/img/obj-ring.png",
     "alt": "a picture of a ring",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "ring starts with the letter r."
   },
   {
     "grade": "P1",
@@ -4244,7 +4268,8 @@
     "image": "p1-lessons-assets/img/obj-cake.png",
     "alt": "a picture of a cake",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "cake starts with the letter c."
   },
   {
     "grade": "P1",
@@ -4295,7 +4320,8 @@
     "image": "p1-lessons-assets/img/obj-cup.png",
     "alt": "a picture of a cup",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "cup starts with the letter c."
   },
   {
     "grade": "P1",
@@ -4346,7 +4372,8 @@
     "image": "p1-lessons-assets/img/obj-key.png",
     "alt": "a picture of a key",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "key starts with the letter k."
   },
   {
     "grade": "P1",
@@ -4397,7 +4424,8 @@
     "image": "p1-lessons-assets/img/kg-kite.png",
     "alt": "a picture of a kite",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "kite starts with the letter k."
   },
   {
     "grade": "P1",
@@ -4526,7 +4554,8 @@
     "image": "p1-lessons-assets/img/kg-nose.png",
     "alt": "picture: nose",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is أنف. The word in English: nose."
   },
   {
     "grade": "P1",
@@ -4577,7 +4606,8 @@
     "image": "p1-lessons-assets/img/kg-hands.png",
     "alt": "picture: hands",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is إيدين. The word in English: hands."
   },
   {
     "grade": "P1",
@@ -4758,7 +4788,8 @@
     "image": "p1-lessons-assets/img/kg-cat.png",
     "alt": "picture: cat",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is قطة. The word in English: cat."
   },
   {
     "grade": "P1",
@@ -4809,7 +4840,8 @@
     "image": "p1-lessons-assets/img/kg-elephant.png",
     "alt": "picture: elephant",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is فيل. The word in English: elephant."
   },
   {
     "grade": "P1",
@@ -5209,7 +5241,8 @@
       "elephant"
     ],
     "explanation_ar": "الإجابة elephant، معناها فيل.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is elephant, meaning فيل."
   },
   {
     "grade": "P1",

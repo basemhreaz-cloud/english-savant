@@ -365,7 +365,8 @@
     "image": "p1-lessons-assets/img/obj-ring.png",
     "alt": "a picture of a ring",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "ring starts with the letter r."
   },
   {
     "grade": "P1",
@@ -414,7 +415,8 @@
     "image_optional": [
       "red"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "red starts with the letter r."
   },
   {
     "grade": "P1",
@@ -471,7 +473,8 @@
     "image": "p1-lessons-assets/img/kg-egg.png",
     "alt": "a picture of a egg",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "egg starts with the letter e."
   },
   {
     "grade": "P1",
@@ -890,7 +893,8 @@
     "image": "p1-lessons-assets/img/obj-cake.png",
     "alt": "a picture of a cake",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "cake starts with the letter c."
   },
   {
     "grade": "P1",
@@ -939,7 +943,8 @@
     "image_optional": [
       "cake"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cake starts with the letter c."
   },
   {
     "grade": "P1",
@@ -993,7 +998,8 @@
     "image": "p1-lessons-assets/img/obj-key.png",
     "alt": "a picture of a key",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "key starts with the letter k."
   },
   {
     "grade": "P1",

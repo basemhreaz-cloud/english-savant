@@ -73,7 +73,8 @@
     "image": "p1-lessons-assets/img/kg-elephant.png",
     "alt": "picture: elephant",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is فيل. The word in English: elephant."
   },
   {
     "grade": "P1",
@@ -98,7 +99,8 @@
     "image": "p1-lessons-assets/img/kg-monkey.png",
     "alt": "picture: monkey",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is قرد. The word in English: monkey."
   },
   {
     "grade": "P1",
@@ -345,7 +347,8 @@
     "image": "p1-lessons-assets/img/obj-banana.png",
     "alt": "a picture of a banana",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "banana starts with the letter b."
   },
   {
     "grade": "P1",
@@ -393,7 +396,8 @@
     "image_optional": [
       "boy"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "boy starts with the letter b."
   },
   {
     "grade": "P1",
@@ -644,7 +648,8 @@
     "image": "p1-lessons-assets/img/ball-under-table.png",
     "alt": "a blue ball under a wooden table",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The ball is under the table: under."
   },
   {
     "grade": "P1",
@@ -894,7 +899,8 @@
     "image": "p1-lessons-assets/img/kg-umbrella.png",
     "alt": "a picture of a umbrella",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "umbrella starts with the letter u."
   },
   {
     "grade": "P1",
@@ -943,7 +949,8 @@
     "image_optional": [
       "unlock"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "unlock starts with the letter u."
   },
   {
     "grade": "P1",
@@ -992,7 +999,8 @@
     "image": "p1-lessons-assets/img/obj-jam.png",
     "alt": "a picture of a jam",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "jam starts with the letter j."
   },
   {
     "grade": "P1",

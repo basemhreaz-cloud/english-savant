@@ -24,7 +24,8 @@
     "source_change": "none",
     "image": "p2-lessons-assets/img/p2-u4-my-book.png",
     "alt": "my book",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "Choose the possessive adjective that fits the context: my"
   },
   {
     "id": "p2-u4-l1-08",
@@ -51,7 +52,8 @@
     "source_change": "none",
     "image": "p2-lessons-assets/img/p2-u4-your-pen.png",
     "alt": "your pen",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "Choose the possessive adjective that fits the context: your"
   },
   {
     "id": "p2-u4-l1-09",
@@ -78,7 +80,8 @@
     "source_change": "none",
     "image": "p2-lessons-assets/img/p2-u4-brother.png",
     "alt": "brother",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "Choose the possessive adjective that fits the context: my"
   },
   {
     "id": "p2-u4-l1-10",
@@ -105,7 +108,8 @@
     "source_change": "none",
     "image": "p2-lessons-assets/img/p2-u4-your-balls.png",
     "alt": "your balls",
-    "requires_image": true
+    "requires_image": true,
+    "explanation_en": "Choose the possessive adjective that fits the context: your"
   },
   {
     "id": "p2-u4-l1-11",
@@ -153,7 +157,8 @@
       "my",
       "you"
     ],
-    "source_change": "Added I have a bag to preserve speaker context"
+    "source_change": "Added I have a bag to preserve speaker context",
+    "explanation_en": "Choose the possessive adjective that fits the context: my"
   },
   {
     "id": "p2-u4-l1-13",
@@ -491,7 +496,8 @@
     "image": "p2-lessons-assets/img/p2-u4-glue.png",
     "alt": "glue",
     "requires_image": true,
-    "source_change": "Listening removed; complete printed spelling using the visible picture"
+    "source_change": "Listening removed; complete printed spelling using the visible picture",
+    "explanation_en": "The missing letters are u."
   },
   {
     "id": "p2-u4-l2-16",
@@ -517,7 +523,8 @@
     "image": "p2-lessons-assets/img/p2-u4-nose.png",
     "alt": "nose",
     "requires_image": true,
-    "source_change": "Listening removed; complete printed spelling using the visible picture"
+    "source_change": "Listening removed; complete printed spelling using the visible picture",
+    "explanation_en": "The missing letters are o."
   },
   {
     "id": "p2-u4-l2-17",
@@ -543,7 +550,8 @@
     "image": "p2-lessons-assets/img/p2-u4-cube.png",
     "alt": "cube",
     "requires_image": true,
-    "source_change": "Listening removed; complete printed spelling using the visible picture"
+    "source_change": "Listening removed; complete printed spelling using the visible picture",
+    "explanation_en": "The missing letters are u."
   },
   {
     "id": "p2-u4-l2-18",
@@ -569,7 +577,8 @@
     "image": "p2-lessons-assets/img/p2-u4-rose.png",
     "alt": "rose",
     "requires_image": true,
-    "source_change": "Listening removed; complete printed spelling using the visible picture"
+    "source_change": "Listening removed; complete printed spelling using the visible picture",
+    "explanation_en": "The missing letters are o."
   },
   {
     "id": "p2-u4-l2-19",
@@ -1667,7 +1676,8 @@
     "image": "p2-lessons-assets/img/p2-u4-thin.png",
     "alt": "thin",
     "requires_image": true,
-    "source_change": "Audio removed; visible picture provides target spelling"
+    "source_change": "Audio removed; visible picture provides target spelling",
+    "explanation_en": "The missing letters are th."
   },
   {
     "id": "p2-u4-l4-12",
@@ -1693,7 +1703,8 @@
     "image": "p2-lessons-assets/img/p2-u4-math.png",
     "alt": "math",
     "requires_image": true,
-    "source_change": "Audio removed; visible picture provides target spelling"
+    "source_change": "Audio removed; visible picture provides target spelling",
+    "explanation_en": "The missing letters are th."
   },
   {
     "id": "p2-u4-l4-13",
@@ -1719,7 +1730,8 @@
     "image": "p2-lessons-assets/img/p2-u4-thunder.png",
     "alt": "thunder",
     "requires_image": true,
-    "source_change": "Audio removed; visible picture provides target spelling"
+    "source_change": "Audio removed; visible picture provides target spelling",
+    "explanation_en": "The missing letters are th."
   },
   {
     "id": "p2-u4-l4-14",
@@ -1745,7 +1757,8 @@
     "image": "p2-lessons-assets/img/p2-u4-teeth.png",
     "alt": "teeth",
     "requires_image": true,
-    "source_change": "Audio removed; visible picture provides target spelling"
+    "source_change": "Audio removed; visible picture provides target spelling",
+    "explanation_en": "The missing letters are th."
   },
   {
     "id": "p2-u4-l4-15",
@@ -2338,7 +2351,8 @@
       "Picture 2": "p2-lessons-assets/img/p2-u4-cube.png",
       "Picture 3": "p2-lessons-assets/img/p2-u4-glue.png",
       "Picture 4": "p2-lessons-assets/img/p2-u4-rose.png"
-    }
+    },
+    "explanation_en": "The picture matching the sentence is Picture 1."
   },
   {
     "grade": "P2",
@@ -2369,7 +2383,8 @@
       "Picture 2": "p2-lessons-assets/img/p2-u4-cube.png",
       "Picture 3": "p2-lessons-assets/img/p2-u4-glue.png",
       "Picture 4": "p2-lessons-assets/img/p2-u4-rose.png"
-    }
+    },
+    "explanation_en": "The picture matching the sentence is Picture 2."
   },
   {
     "grade": "P2",
@@ -2400,7 +2415,8 @@
       "Picture 2": "p2-lessons-assets/img/p2-u4-cube.png",
       "Picture 3": "p2-lessons-assets/img/p2-u4-glue.png",
       "Picture 4": "p2-lessons-assets/img/p2-u4-rose.png"
-    }
+    },
+    "explanation_en": "The picture matching the sentence is Picture 3."
   },
   {
     "grade": "P2",
@@ -2431,7 +2447,8 @@
       "Picture 2": "p2-lessons-assets/img/p2-u4-cube.png",
       "Picture 3": "p2-lessons-assets/img/p2-u4-glue.png",
       "Picture 4": "p2-lessons-assets/img/p2-u4-rose.png"
-    }
+    },
+    "explanation_en": "The picture matching the sentence is Picture 4."
   },
   {
     "grade": "P2",
@@ -2562,7 +2579,8 @@
       "Picture 2": "p2-lessons-assets/img/p2-u4-walk.png",
       "Picture 3": "p2-lessons-assets/img/p2-u4-read.png",
       "Picture 4": "p2-lessons-assets/img/p2-u4-wash.png"
-    }
+    },
+    "explanation_en": "The picture matching the sentence is Picture 1."
   },
   {
     "grade": "P2",
@@ -2593,7 +2611,8 @@
       "Picture 2": "p2-lessons-assets/img/p2-u4-walk.png",
       "Picture 3": "p2-lessons-assets/img/p2-u4-read.png",
       "Picture 4": "p2-lessons-assets/img/p2-u4-wash.png"
-    }
+    },
+    "explanation_en": "The picture matching the sentence is Picture 2."
   },
   {
     "grade": "P2",
@@ -2624,7 +2643,8 @@
       "Picture 2": "p2-lessons-assets/img/p2-u4-walk.png",
       "Picture 3": "p2-lessons-assets/img/p2-u4-read.png",
       "Picture 4": "p2-lessons-assets/img/p2-u4-wash.png"
-    }
+    },
+    "explanation_en": "The picture matching the sentence is Picture 3."
   },
   {
     "grade": "P2",
@@ -2655,7 +2675,8 @@
       "Picture 2": "p2-lessons-assets/img/p2-u4-walk.png",
       "Picture 3": "p2-lessons-assets/img/p2-u4-read.png",
       "Picture 4": "p2-lessons-assets/img/p2-u4-wash.png"
-    }
+    },
+    "explanation_en": "The picture matching the sentence is Picture 4."
   },
   {
     "grade": "P2",
@@ -3324,7 +3345,8 @@
       "ministry_lesson": "Unit 4 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence: This is my father."
   },
   {
     "id": "orig-p2-u4l2-06",

@@ -22,7 +22,8 @@
     "image_optional": [
       "cow"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«cow» means بقرة."
   },
   {
     "grade": "P1",
@@ -47,7 +48,8 @@
     "image_optional": [
       "duck"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«duck» means بطة."
   },
   {
     "grade": "P1",
@@ -72,7 +74,8 @@
     "image_optional": [
       "horse"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«horse» means حصان."
   },
   {
     "grade": "P1",
@@ -97,7 +100,8 @@
     "image_optional": [
       "chicken"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«chicken» means فرخة."
   },
   {
     "grade": "P1",
@@ -120,7 +124,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«big» means كبير."
   },
   {
     "grade": "P1",
@@ -143,7 +148,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«small» means صغير."
   },
   {
     "grade": "P1",
@@ -168,7 +174,8 @@
     "image_optional": [
       "farm"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«farm» means مزرعة."
   },
   {
     "grade": "P1",
@@ -193,7 +200,8 @@
     "image_optional": [
       "animals"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«animals جمع animal» means حيوانات."
   },
   {
     "grade": "P1",
@@ -218,7 +226,8 @@
     "image_optional": [
       "cow"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The cow is big: big."
   },
   {
     "grade": "P1",
@@ -243,7 +252,8 @@
     "image_optional": [
       "duck"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The duck is small: small."
   },
   {
     "grade": "P1",
@@ -268,7 +278,8 @@
     "image_optional": [
       "horse"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The horse is big: big."
   },
   {
     "grade": "P1",
@@ -293,7 +304,8 @@
     "image_optional": [
       "chicken"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The hen is small: small."
   },
   {
     "grade": "P1",
@@ -316,7 +328,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The opposite of big is small."
   },
   {
     "grade": "P1",
@@ -339,7 +352,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The opposite of small is big."
   },
   {
     "grade": "P1",
@@ -364,7 +378,8 @@
     "image_optional": [
       "farm"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The lion is a jungle animal, not a farm animal."
   },
   {
     "grade": "P1",
@@ -389,7 +404,8 @@
     "image_optional": [
       "cow"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The cow gives us milk: milk."
   },
   {
     "grade": "P1",
@@ -414,7 +430,8 @@
     "image_optional": [
       "chicken"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The hen gives us eggs: eggs."
   },
   {
     "grade": "P1",
@@ -437,7 +454,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "With 2 we say the plural cows with s."
   },
   {
     "grade": "P1",
@@ -460,7 +478,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "3 ducks = 3 ducks."
   },
   {
     "grade": "P1",
@@ -487,7 +506,8 @@
       "cow",
       "farm"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "One animal: There is."
   },
   {
     "grade": "P1",
@@ -510,7 +530,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "More than one: There are."
   },
   {
     "grade": "P1",
@@ -533,7 +554,8 @@
     "image_optional": [
       "cow"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the dialogue: The cow is big."
   },
   {
     "grade": "P1",
@@ -556,7 +578,8 @@
     "image_optional": [
       "horse"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the dialogue: The horse is big, too."
   },
   {
     "grade": "P1",
@@ -580,7 +603,8 @@
       "farm",
       "animals"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The last sentence: I love farm animals!"
   },
   {
     "grade": "P1",
@@ -605,7 +629,8 @@
     "image_optional": [
       "animals"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The cow and the horse are big: 2."
   },
   {
     "grade": "P1",
@@ -628,7 +653,8 @@
     "passage": "Noor: Look at the cow!\nZiad: Wow! The cow is big!\nNoor: And look at the duck!\nZiad: The duck is small.\nNoor: Do you see the horse?\nZiad: Yes! The horse is big, too.\nNoor: What about the chicken?\nZiad: The chicken is small.\nNoor: I love farm animals!",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The duck is small: The duck is small."
   },
   {
     "grade": "P1",
@@ -664,7 +690,8 @@
     "accept": [
       "The cow is big."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: The cow is big."
   },
   {
     "grade": "P1",
@@ -700,7 +727,8 @@
     "accept": [
       "The duck is small."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: The duck is small."
   },
   {
     "grade": "P1",
@@ -736,7 +764,8 @@
     "accept": [
       "The horse is big."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: The horse is big."
   },
   {
     "grade": "P1",
@@ -764,7 +793,8 @@
       "o"
     ],
     "image": "p1-lessons-assets/img/kg-cow.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: c-o-w"
   },
   {
     "grade": "P1",
@@ -793,7 +823,8 @@
       "u"
     ],
     "image": "images/words/fixed-duck.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: d-u-c-k"
   },
   {
     "grade": "P1",
@@ -815,7 +846,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word cow: c-o-w"
   },
   {
     "grade": "P1",
@@ -837,7 +869,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word horse: h-o-r-s-e"
   },
   {
     "grade": "P1",
@@ -859,7 +892,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word chicken: c-h-i-c-k-e-n"
   },
   {
     "grade": "P1",
@@ -929,7 +963,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has a slot. 1: cow. 2: big. 3: small. 4: animals."
   },
   {
     "grade": "P1",
@@ -952,7 +987,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word moon starts with the letter Mm. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -975,7 +1011,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word monkey starts with the letter Mm. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -998,7 +1035,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word milk starts with the letter Mm. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1021,7 +1059,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word mango starts with the letter Mm. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1046,7 +1085,8 @@
     "image_optional": [
       "moon"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "moon and also monkey start with the letter Mm."
   },
   {
     "grade": "P1",
@@ -1071,7 +1111,8 @@
     "image_optional": [
       "moon"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "moon starts with the letter m."
   },
   {
     "grade": "P1",
@@ -1096,7 +1137,8 @@
     "image_optional": [
       "monkey"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "monkey starts with the letter m."
   },
   {
     "grade": "P1",
@@ -1121,7 +1163,8 @@
     "image_optional": [
       "milk"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "milk starts with the letter m."
   },
   {
     "grade": "P1",
@@ -1144,7 +1187,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The capital M and the small m."
   },
   {
     "grade": "P1",
@@ -1167,7 +1211,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The small m and the capital M."
   },
   {
     "grade": "P1",
@@ -1192,7 +1237,8 @@
     "image_optional": [
       "moon"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«moon» means قمر."
   },
   {
     "grade": "P1",
@@ -1217,7 +1263,8 @@
     "image_optional": [
       "monkey"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«monkey» means قرد."
   },
   {
     "grade": "P1",
@@ -1242,7 +1289,8 @@
     "image_optional": [
       "milk"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«milk» means لبن."
   },
   {
     "grade": "P1",
@@ -1265,7 +1313,8 @@
     "image_optional": [
       "moon"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "moon starts with the letter m."
   },
   {
     "grade": "P1",
@@ -1288,7 +1337,8 @@
     "image_optional": [
       "monkey"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "monkey starts with the letter m."
   },
   {
     "grade": "P1",
@@ -1311,7 +1361,8 @@
     "image_optional": [
       "grapes"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "grapes starts with a different letter from M."
   },
   {
     "grade": "P1",
@@ -1333,7 +1384,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of moon is m."
   },
   {
     "grade": "P1",
@@ -1355,7 +1407,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of monkey is m."
   },
   {
     "grade": "P1",
@@ -1384,7 +1437,8 @@
       "moon"
     ],
     "image": "p1-lessons-assets/img/obj-moon.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: m-o-o-n"
   },
   {
     "grade": "P1",
@@ -1415,7 +1469,8 @@
       "monkey"
     ],
     "image": "p1-lessons-assets/img/kg-monkey.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: m-o-n-k-e-y"
   },
   {
     "grade": "P1",
@@ -1438,7 +1493,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word grapes starts with the letter Gg. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1461,7 +1517,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word goat starts with the letter Gg. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1484,7 +1541,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word girl starts with the letter Gg. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1507,7 +1565,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word guitar starts with the letter Gg. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1532,7 +1591,8 @@
     "image_optional": [
       "grapes"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "grapes and also goat start with the letter Gg."
   },
   {
     "grade": "P1",
@@ -1557,7 +1617,8 @@
     "image_optional": [
       "grapes"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "grapes starts with the letter g."
   },
   {
     "grade": "P1",
@@ -1582,7 +1643,8 @@
     "image_optional": [
       "goat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "goat starts with the letter g."
   },
   {
     "grade": "P1",
@@ -1607,7 +1669,8 @@
     "image_optional": [
       "girl"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "girl starts with the letter g."
   },
   {
     "grade": "P1",
@@ -1630,7 +1693,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The capital G and the small g."
   },
   {
     "grade": "P1",
@@ -1653,7 +1717,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The small g and the capital G."
   },
   {
     "grade": "P1",
@@ -1678,7 +1743,8 @@
     "image_optional": [
       "grapes"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«grapes» means عنب."
   },
   {
     "grade": "P1",
@@ -1703,7 +1769,8 @@
     "image_optional": [
       "goat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«goat» means معزة."
   },
   {
     "grade": "P1",
@@ -1728,7 +1795,8 @@
     "image_optional": [
       "girl"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«girl» means بنت."
   },
   {
     "grade": "P1",
@@ -1751,7 +1819,8 @@
     "image_optional": [
       "grapes"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "grapes starts with the letter g."
   },
   {
     "grade": "P1",
@@ -1774,7 +1843,8 @@
     "image_optional": [
       "goat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "goat starts with the letter g."
   },
   {
     "grade": "P1",
@@ -1797,7 +1867,8 @@
     "image_optional": [
       "moon"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "moon starts with a different letter from G."
   },
   {
     "grade": "P1",
@@ -1819,7 +1890,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of grapes is g."
   },
   {
     "grade": "P1",
@@ -1841,7 +1913,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of goat is g."
   },
   {
     "grade": "P1",
@@ -1872,7 +1945,8 @@
       "grapes"
     ],
     "image": "p1-lessons-assets/img/obj-grapes.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: g-r-a-p-e-s"
   },
   {
     "grade": "P1",
@@ -1901,7 +1975,8 @@
       "goat"
     ],
     "image": "images/words/goat.jpg",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: g-o-a-t"
   },
   {
     "grade": "P1",
@@ -1924,7 +1999,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "goat starts with g."
   },
   {
     "grade": "P1",
@@ -1947,7 +2023,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "After 5 comes 6."
   },
   {
     "grade": "P1",
@@ -1970,7 +2047,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "After 7 comes 8."
   },
   {
     "grade": "P1",
@@ -1993,7 +2071,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "After 9 comes 10."
   },
   {
     "grade": "P1",
@@ -2016,7 +2095,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "After 6 comes 7."
   },
   {
     "grade": "P1",
@@ -2039,7 +2119,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "After 8 comes 9."
   },
   {
     "grade": "P1",
@@ -2062,7 +2143,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Before 10 comes 9."
   },
   {
     "grade": "P1",
@@ -2085,7 +2167,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Between 7 and 9 comes 8."
   },
   {
     "grade": "P1",
@@ -2108,7 +2191,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The biggest number here is 10."
   },
   {
     "grade": "P1",
@@ -2131,7 +2215,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The smallest number here is 6."
   },
   {
     "grade": "P1",
@@ -2154,7 +2239,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "5 plus 1 makes 6."
   },
   {
     "grade": "P1",
@@ -2177,7 +2263,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "7 plus 1 makes 8."
   },
   {
     "grade": "P1",
@@ -2200,7 +2287,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "9 plus 1 makes 10."
   },
   {
     "grade": "P1",
@@ -2223,7 +2311,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "She counted up to 7."
   },
   {
     "grade": "P1",
@@ -2246,7 +2335,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Count up to 9."
   },
   {
     "grade": "P1",
@@ -2269,7 +2359,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The number 6."
   },
   {
     "grade": "P1",
@@ -2290,7 +2381,8 @@
     "passage": "Sara: Hi, Tamer!\nTamer: Hi, Sara!\nSara: How many horses can you see?\nTamer: I can see 7 horses!\nSara: Let's count the ducks.\nTamer: Okay! 1, 2, 3, 4, 5, 6, 7, 8, and 9\nSara: There are 9 ducks!\nTamer: That's a lot of animals!\nSara: Counting farm animals is fun.",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the dialogue: I can see 7 horses!"
   },
   {
     "grade": "P1",
@@ -2311,7 +2403,8 @@
     "passage": "Sara: Hi, Tamer!\nTamer: Hi, Sara!\nSara: How many horses can you see?\nTamer: I can see 7 horses!\nSara: Let's count the ducks.\nTamer: Okay! 1, 2, 3, 4, 5, 6, 7, 8, and 9\nSara: There are 9 ducks!\nTamer: That's a lot of animals!\nSara: Counting farm animals is fun.",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The ducks are 9, not 8: There are 9 ducks!"
   },
   {
     "grade": "P1",
@@ -2335,7 +2428,8 @@
       "farm",
       "animals"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The whole dialogue is about counting farm animals."
   },
   {
     "grade": "P1",
@@ -2358,7 +2452,8 @@
     "passage": "Sara: Hi, Tamer!\nTamer: Hi, Sara!\nSara: How many horses can you see?\nTamer: I can see 7 horses!\nSara: Let's count the ducks.\nTamer: Okay! 1, 2, 3, 4, 5, 6, 7, 8, and 9\nSara: There are 9 ducks!\nTamer: That's a lot of animals!\nSara: Counting farm animals is fun.",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Tamer says I can see 7 horses!"
   },
   {
     "grade": "P1",
@@ -2381,7 +2476,8 @@
     "passage": "Sara: Hi, Tamer!\nTamer: Hi, Sara!\nSara: How many horses can you see?\nTamer: I can see 7 horses!\nSara: Let's count the ducks.\nTamer: Okay! 1, 2, 3, 4, 5, 6, 7, 8, and 9\nSara: There are 9 ducks!\nTamer: That's a lot of animals!\nSara: Counting farm animals is fun.",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Sara says There are 9 ducks!"
   },
   {
     "grade": "P1",
@@ -2406,7 +2502,8 @@
     "image_optional": [
       "animals"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«a lot of» means كتير."
   },
   {
     "grade": "P1",
@@ -2432,7 +2529,8 @@
       "farm",
       "animals"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«fun» means ممتعة وحلوة."
   },
   {
     "grade": "P1",
@@ -2470,7 +2568,8 @@
     "accept": [
       "I can see 6 ducks."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: I can see 6 ducks."
   },
   {
     "grade": "P1",
@@ -2508,7 +2607,8 @@
     "accept": [
       "I can see 10 stars."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: I can see 10 stars."
   },
   {
     "grade": "P1",
@@ -2544,7 +2644,8 @@
     "accept": [
       "There are 9 ducks."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: There are 9 ducks."
   },
   {
     "grade": "P1",
@@ -2565,7 +2666,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "After 7 comes 8."
   },
   {
     "grade": "P1",
@@ -2586,7 +2688,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "After 9 comes 10."
   },
   {
     "grade": "P1",
@@ -2671,7 +2774,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has a slot. 1: horses. 2: ducks. 3: 9."
   },
   {
     "grade": "P1",
@@ -2694,7 +2798,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word octopus starts with the letter Oo. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -2717,7 +2822,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word on starts with the letter Oo. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -2740,7 +2846,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word ostrich starts with the letter Oo. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -2763,7 +2870,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word olive starts with the letter Oo. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -2788,7 +2896,8 @@
     "image_optional": [
       "octopus"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "octopus and also on start with the letter Oo."
   },
   {
     "grade": "P1",
@@ -2813,7 +2922,8 @@
     "image_optional": [
       "octopus"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "octopus starts with the letter o."
   },
   {
     "grade": "P1",
@@ -2838,7 +2948,8 @@
     "image_optional": [
       "on"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "on starts with the letter o."
   },
   {
     "grade": "P1",
@@ -2863,7 +2974,8 @@
     "image_optional": [
       "ostrich"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "ostrich starts with the letter o."
   },
   {
     "grade": "P1",
@@ -2886,7 +2998,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The capital O and the small o."
   },
   {
     "grade": "P1",
@@ -2909,7 +3022,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The small o and the capital O."
   },
   {
     "grade": "P1",
@@ -2934,7 +3048,8 @@
     "image_optional": [
       "octopus"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«octopus» means أخطبوط."
   },
   {
     "grade": "P1",
@@ -2959,7 +3074,8 @@
     "image_optional": [
       "on"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«on» means على / فوق."
   },
   {
     "grade": "P1",
@@ -2984,7 +3100,8 @@
     "image_optional": [
       "ostrich"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«ostrich» means نعامة."
   },
   {
     "grade": "P1",
@@ -3007,7 +3124,8 @@
     "image_optional": [
       "octopus"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "octopus starts with the letter o."
   },
   {
     "grade": "P1",
@@ -3030,7 +3148,8 @@
     "image_optional": [
       "on"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "on starts with the letter o."
   },
   {
     "grade": "P1",
@@ -3053,7 +3172,8 @@
     "image_optional": [
       "fish"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "fish starts with a different letter from O."
   },
   {
     "grade": "P1",
@@ -3075,7 +3195,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of octopus is o."
   },
   {
     "grade": "P1",
@@ -3097,7 +3218,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of on is o."
   },
   {
     "grade": "P1",
@@ -3129,7 +3251,8 @@
       "octopus"
     ],
     "image": "images/words/octopus.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: o-c-t-o-p-u-s"
   },
   {
     "grade": "P1",
@@ -3152,7 +3275,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word fish starts with the letter Ff. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -3175,7 +3299,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word fork starts with the letter Ff. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -3198,7 +3323,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word fan starts with the letter Ff. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -3221,7 +3347,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word frog starts with the letter Ff. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -3246,7 +3373,8 @@
     "image_optional": [
       "fish"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "fish and also fork start with the letter Ff."
   },
   {
     "grade": "P1",
@@ -3271,7 +3399,8 @@
     "image_optional": [
       "fish"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "fish starts with the letter f."
   },
   {
     "grade": "P1",
@@ -3296,7 +3425,8 @@
     "image_optional": [
       "fork"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "fork starts with the letter f."
   },
   {
     "grade": "P1",
@@ -3321,7 +3451,8 @@
     "image_optional": [
       "fan"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "fan starts with the letter f."
   },
   {
     "grade": "P1",
@@ -3344,7 +3475,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The capital F and the small f."
   },
   {
     "grade": "P1",
@@ -3367,7 +3499,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The small f and the capital F."
   },
   {
     "grade": "P1",
@@ -3392,7 +3525,8 @@
     "image_optional": [
       "fish"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«fish» means سمكة."
   },
   {
     "grade": "P1",
@@ -3417,7 +3551,8 @@
     "image_optional": [
       "fork"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«fork» means شوكة."
   },
   {
     "grade": "P1",
@@ -3442,7 +3577,8 @@
     "image_optional": [
       "fan"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "«fan» means مروحة."
   },
   {
     "grade": "P1",
@@ -3465,7 +3601,8 @@
     "image_optional": [
       "fish"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "fish starts with the letter f."
   },
   {
     "grade": "P1",
@@ -3488,7 +3625,8 @@
     "image_optional": [
       "fork"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "fork starts with the letter f."
   },
   {
     "grade": "P1",
@@ -3511,7 +3649,8 @@
     "image_optional": [
       "octopus"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "octopus starts with a different letter from F."
   },
   {
     "grade": "P1",
@@ -3533,7 +3672,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of fish is f."
   },
   {
     "grade": "P1",
@@ -3555,7 +3695,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of fork is f."
   },
   {
     "grade": "P1",
@@ -3584,7 +3725,8 @@
       "fish"
     ],
     "image": "images/words/fixed-fish.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: f-i-s-h"
   },
   {
     "grade": "P1",
@@ -3613,7 +3755,8 @@
       "fork"
     ],
     "image": "p1-lessons-assets/img/obj-fork.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: f-o-r-k"
   },
   {
     "grade": "P1",
@@ -3636,7 +3779,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "octopus starts with o."
   },
   {
     "grade": "P1",
@@ -3659,7 +3803,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "frog starts with f."
   },
   {
     "grade": "P1",
@@ -3682,7 +3827,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word fan"
   },
   {
     "grade": "P1",
@@ -3705,7 +3851,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word olive"
   },
   {
     "grade": "P1",
@@ -3730,7 +3877,8 @@
     "image": "p1-lessons-assets/img/count-apples-6.png",
     "alt": "6 red apples",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the apples one by one: the answer is 6."
   },
   {
     "grade": "P1",
@@ -3755,7 +3903,8 @@
     "image": "p1-lessons-assets/img/count-stars-7.png",
     "alt": "7 yellow stars",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the stars one by one: the answer is 7."
   },
   {
     "grade": "P1",
@@ -3780,7 +3929,8 @@
     "image": "p1-lessons-assets/img/count-books-8.png",
     "alt": "8 books",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the books one by one: the answer is 8."
   },
   {
     "grade": "P1",
@@ -3805,7 +3955,8 @@
     "image": "p1-lessons-assets/img/count-bags-9.png",
     "alt": "9 red bags",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the bags one by one: the answer is 9."
   },
   {
     "grade": "P1",
@@ -3830,7 +3981,8 @@
     "image": "p1-lessons-assets/img/count-flowers-10.png",
     "alt": "10 pink flowers",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the flowers one by one: the answer is 10."
   },
   {
     "grade": "P1",
@@ -3855,7 +4007,8 @@
     "image": "p1-lessons-assets/img/count-apples-8.png",
     "alt": "8 red apples",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Count the apples one by one: the answer is 8."
   },
   {
     "grade": "P1",
@@ -3880,7 +4033,8 @@
     "image": "p1-lessons-assets/img/count-stars-6.png",
     "alt": "6 yellow stars",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "«6 نجوم» means كذا واحد: بنقول There are."
   },
   {
     "grade": "P1",
@@ -3905,7 +4059,8 @@
     "image": "p1-lessons-assets/img/obj-moon.png",
     "alt": "a picture of a moon",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is قمر. The word in English: moon."
   },
   {
     "grade": "P1",
@@ -3930,7 +4085,8 @@
     "image": "p1-lessons-assets/img/obj-moon.png",
     "alt": "a picture of a moon",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "moon starts with the letter m."
   },
   {
     "grade": "P1",
@@ -3955,7 +4111,8 @@
     "image": "p1-lessons-assets/img/obj-milk.png",
     "alt": "a picture of a milk",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is لبن. The word in English: milk."
   },
   {
     "grade": "P1",
@@ -3980,7 +4137,8 @@
     "image": "p1-lessons-assets/img/obj-milk.png",
     "alt": "a picture of a milk",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "milk starts with the letter m."
   },
   {
     "grade": "P1",
@@ -4005,7 +4163,8 @@
     "image": "p1-lessons-assets/img/obj-mango.png",
     "alt": "a picture of a mango",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is مانجو. The word in English: mango."
   },
   {
     "grade": "P1",
@@ -4030,7 +4189,8 @@
     "image": "p1-lessons-assets/img/obj-mango.png",
     "alt": "a picture of a mango",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "mango starts with the letter m."
   },
   {
     "grade": "P1",
@@ -4055,7 +4215,8 @@
     "image": "p1-lessons-assets/img/kg-grapes.png",
     "alt": "a picture of a grapes",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is عنب. The word in English: grapes."
   },
   {
     "grade": "P1",
@@ -4080,7 +4241,8 @@
     "image": "p1-lessons-assets/img/kg-grapes.png",
     "alt": "a picture of a grapes",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "grapes starts with the letter g."
   },
   {
     "grade": "P1",
@@ -4105,7 +4267,8 @@
     "image": "p1-lessons-assets/img/obj-guitar.png",
     "alt": "a picture of a guitar",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is جيتار. The word in English: guitar."
   },
   {
     "grade": "P1",
@@ -4130,7 +4293,8 @@
     "image": "p1-lessons-assets/img/obj-guitar.png",
     "alt": "a picture of a guitar",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "guitar starts with the letter g."
   },
   {
     "grade": "P1",
@@ -4155,7 +4319,8 @@
     "image": "p1-lessons-assets/img/obj-gloves.png",
     "alt": "a picture of a gloves",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is جوانتي. The word in English: gloves."
   },
   {
     "grade": "P1",
@@ -4180,7 +4345,8 @@
     "image": "p1-lessons-assets/img/obj-gloves.png",
     "alt": "a picture of a gloves",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "gloves starts with the letter g."
   },
   {
     "grade": "P1",
@@ -4205,7 +4371,8 @@
     "image": "p1-lessons-assets/img/obj-olive.png",
     "alt": "a picture of a olive",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is زيتون. The word in English: olive."
   },
   {
     "grade": "P1",
@@ -4230,7 +4397,8 @@
     "image": "p1-lessons-assets/img/obj-olive.png",
     "alt": "a picture of a olive",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "olive starts with the letter o."
   },
   {
     "grade": "P1",
@@ -4255,7 +4423,8 @@
     "image": "p1-lessons-assets/img/obj-fan.png",
     "alt": "a picture of a fan",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is مروحة. The word in English: fan."
   },
   {
     "grade": "P1",
@@ -4280,7 +4449,8 @@
     "image": "p1-lessons-assets/img/obj-fan.png",
     "alt": "a picture of a fan",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "fan starts with the letter f."
   },
   {
     "grade": "P1",
@@ -4305,7 +4475,8 @@
     "image": "p1-lessons-assets/img/obj-fork.png",
     "alt": "a picture of a fork",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is شوكة. The word in English: fork."
   },
   {
     "grade": "P1",
@@ -4330,7 +4501,8 @@
     "image": "p1-lessons-assets/img/obj-fork.png",
     "alt": "a picture of a fork",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "fork starts with the letter f."
   },
   {
     "grade": "P1",
@@ -4355,7 +4527,8 @@
     "image": "p1-lessons-assets/img/kg-cow.png",
     "alt": "picture: cow",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is بقرة. The word in English: cow."
   },
   {
     "grade": "P1",
@@ -4380,7 +4553,8 @@
     "image": "p1-lessons-assets/img/kg-monkey.png",
     "alt": "picture: monkey",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is قرد. The word in English: monkey."
   },
   {
     "grade": "P1",
@@ -4443,7 +4617,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: farm (مزرعة). 2: animals (حيوانات). 3: cow (بقرة). 4: horse (حصان).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has a slot. 1: farm (مزرعة). 2: animals (حيوانات). 3: cow (بقرة). 4: horse (حصان)."
   },
   {
     "grade": "P1",
@@ -4508,7 +4683,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: duck (بطة). 2: chicken (فرخة). 3: big (كبير).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has a slot. 1: duck (بطة). 2: chicken (فرخة). 3: big (كبير)."
   },
   {
     "grade": "P1",
@@ -4530,7 +4706,8 @@
       "cow"
     ],
     "explanation_ar": "الإجابة cow، معناها بقرة.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is cow, meaning بقرة."
   },
   {
     "grade": "P1",
@@ -4552,7 +4729,8 @@
       "duck"
     ],
     "explanation_ar": "الإجابة duck، معناها بطة.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is duck, meaning بطة."
   },
   {
     "grade": "P1",
@@ -4574,7 +4752,8 @@
       "chicken"
     ],
     "explanation_ar": "الإجابة chicken، معناها فرخة.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is chicken, meaning فرخة."
   },
   {
     "grade": "P1",
@@ -4596,7 +4775,8 @@
       "horse"
     ],
     "explanation_ar": "الإجابة horse، معناها حصان.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is horse, meaning حصان."
   },
   {
     "grade": "P1",
@@ -4618,7 +4798,8 @@
       "small"
     ],
     "explanation_ar": "الإجابة small، معناها صغير.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is small, meaning صغير."
   },
   {
     "grade": "P1",
@@ -4671,7 +4852,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: moon (قمر). 2: milk (لبن). 3: monkey (قرد).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has a slot. 1: moon (قمر). 2: milk (لبن). 3: monkey (قرد)."
   },
   {
     "grade": "P1",
@@ -4724,7 +4906,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: grapes (عنب). 2: goat (معزة). 3: girl (بنت).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has a slot. 1: grapes (عنب). 2: goat (معزة). 3: girl (بنت)."
   },
   {
     "grade": "P1",
@@ -4746,7 +4929,8 @@
       "moon"
     ],
     "explanation_ar": "الإجابة moon، معناها قمر.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is moon, meaning قمر."
   },
   {
     "grade": "P1",
@@ -4768,7 +4952,8 @@
       "monkey"
     ],
     "explanation_ar": "الإجابة monkey، معناها قرد.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is monkey, meaning قرد."
   },
   {
     "grade": "P1",
@@ -4790,7 +4975,8 @@
       "grapes"
     ],
     "explanation_ar": "الإجابة grapes، معناها عنب.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is grapes, meaning عنب."
   },
   {
     "grade": "P1",
@@ -4812,7 +4998,8 @@
       "goat"
     ],
     "explanation_ar": "الإجابة goat، معناها معزة.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is goat, meaning معزة."
   },
   {
     "grade": "P1",
@@ -4883,7 +5070,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: 8. 2: 10. 3: 7. 4: 9.",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has a slot. 1: 8. 2: 10. 3: 7. 4: 9."
   },
   {
     "grade": "P1",
@@ -4948,7 +5136,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: 6. 2: 8. 3: 10.",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has a slot. 1: 6. 2: 8. 3: 10."
   },
   {
     "grade": "P1",
@@ -4970,7 +5159,8 @@
       "8"
     ],
     "explanation_ar": "الإجابة 8، معناها الرقم الناقص.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is 8, the missing number."
   },
   {
     "grade": "P1",
@@ -4992,7 +5182,8 @@
       "7"
     ],
     "explanation_ar": "الإجابة 7، معناها الرقم الناقص.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is 7, the missing number."
   },
   {
     "grade": "P1",
@@ -5014,7 +5205,8 @@
       "9"
     ],
     "explanation_ar": "الإجابة 9، معناها الرقم الناقص.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is 9, the missing number."
   },
   {
     "grade": "P1",
@@ -5036,7 +5228,8 @@
       "10"
     ],
     "explanation_ar": "الإجابة 10، معناها الرقم اللي بعد 9.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is 10, the number after 9."
   },
   {
     "grade": "P1",
@@ -5101,7 +5294,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: octopus (أخطبوط). 2: ostrich (نعامة). 3: on (على).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has a slot. 1: octopus (أخطبوط). 2: ostrich (نعامة). 3: on (على)."
   },
   {
     "grade": "P1",
@@ -5154,7 +5348,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: fish (سمكة). 2: fork (شوكة). 3: fan (مروحة).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has a slot. 1: fish (سمكة). 2: fork (شوكة). 3: fan (مروحة)."
   },
   {
     "grade": "P1",
@@ -5176,7 +5371,8 @@
       "octopus"
     ],
     "explanation_ar": "الإجابة octopus، معناها أخطبوط.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is octopus, meaning أخطبوط."
   },
   {
     "grade": "P1",
@@ -5198,7 +5394,8 @@
       "fish"
     ],
     "explanation_ar": "الإجابة fish، معناها سمكة.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is fish, meaning سمكة."
   },
   {
     "grade": "P1",
@@ -5220,7 +5417,8 @@
       "fork"
     ],
     "explanation_ar": "الإجابة fork، معناها شوكة.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is fork, meaning شوكة."
   },
   {
     "grade": "P1",
@@ -5242,6 +5440,7 @@
       "ostrich"
     ],
     "explanation_ar": "الإجابة ostrich، معناها نعامة.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is ostrich, meaning نعامة."
   }
 ]

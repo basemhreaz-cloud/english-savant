@@ -702,7 +702,8 @@
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The sentence: This is my father."
   },
   {
     "grade": "P1",
@@ -1051,7 +1052,8 @@
     "image_optional": [
       "nose"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "nose starts with the letter n."
   },
   {
     "grade": "P1",
@@ -1076,7 +1078,8 @@
     "image_optional": [
       "nurse"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "nurse starts with the letter n."
   },
   {
     "grade": "P1",
@@ -1245,7 +1248,8 @@
     "image_optional": [
       "nose"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "nose starts with the letter n."
   },
   {
     "grade": "P1",
@@ -1268,7 +1272,8 @@
     "image_optional": [
       "nurse"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "nurse starts with the letter n."
   },
   {
     "grade": "P1",
@@ -1536,7 +1541,8 @@
     "image_optional": [
       "pizza"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "pizza starts with the letter p."
   },
   {
     "grade": "P1",
@@ -1561,7 +1567,8 @@
     "image_optional": [
       "panda"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "panda starts with the letter p."
   },
   {
     "grade": "P1",
@@ -1730,7 +1737,8 @@
     "image_optional": [
       "pizza"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "pizza starts with the letter p."
   },
   {
     "grade": "P1",
@@ -1753,7 +1761,8 @@
     "image_optional": [
       "panda"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "panda starts with the letter p."
   },
   {
     "grade": "P1",
@@ -2044,7 +2053,8 @@
     ],
     "answer": "4",
     "explanation_ar": "قبل 5 بييجي 4.",
-    "answer_kind": "closed"
+    "answer_kind": "closed",
+    "explanation_en": "Before 5 comes 4."
   },
   {
     "grade": "P1",
@@ -2092,7 +2102,8 @@
     ],
     "answer": "4",
     "explanation_ar": "العد: 2، 3، 4، 5.",
-    "answer_kind": "closed"
+    "answer_kind": "closed",
+    "explanation_en": "Counting: 2,  3,  4,  5."
   },
   {
     "grade": "P1",
@@ -2740,7 +2751,8 @@
       "4"
     ],
     "explanation_ar": "قبل 5 بييجي 4.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "Before 5 comes 4."
   },
   {
     "grade": "P1",
@@ -2762,7 +2774,8 @@
       "5"
     ],
     "explanation_ar": "العد: 2، 3، 4، 5.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "Counting: 2,  3,  4,  5."
   },
   {
     "grade": "P1",
@@ -2983,7 +2996,8 @@
     "image_optional": [
       "hat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hat starts with the letter h."
   },
   {
     "grade": "P1",
@@ -3008,7 +3022,8 @@
     "image_optional": [
       "hair"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hair starts with the letter h."
   },
   {
     "grade": "P1",
@@ -3177,7 +3192,8 @@
     "image_optional": [
       "hat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hat starts with the letter h."
   },
   {
     "grade": "P1",
@@ -3200,7 +3216,8 @@
     "image_optional": [
       "hair"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hair starts with the letter h."
   },
   {
     "grade": "P1",
@@ -3466,7 +3483,8 @@
     "image_optional": [
       "dog"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "dog starts with the letter d."
   },
   {
     "grade": "P1",
@@ -3491,7 +3509,8 @@
     "image_optional": [
       "door"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "door starts with the letter d."
   },
   {
     "grade": "P1",
@@ -3660,7 +3679,8 @@
     "image_optional": [
       "dog"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "dog starts with the letter d."
   },
   {
     "grade": "P1",
@@ -3683,7 +3703,8 @@
     "image_optional": [
       "door"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "door starts with the letter d."
   },
   {
     "grade": "P1",
@@ -4201,7 +4222,8 @@
     "image": "p1-lessons-assets/img/obj-hat.png",
     "alt": "a picture of a hat",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "hat starts with the letter h."
   },
   {
     "grade": "P1",
@@ -4251,7 +4273,8 @@
     "image": "p1-lessons-assets/img/obj-door.png",
     "alt": "a picture of a door",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "door starts with the letter d."
   },
   {
     "grade": "P1",
@@ -4401,7 +4424,8 @@
     "image": "p1-lessons-assets/img/obj-pizza.png",
     "alt": "a picture of a pizza",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "pizza starts with the letter p."
   },
   {
     "grade": "P1",
@@ -4451,7 +4475,8 @@
     "image": "p1-lessons-assets/img/kg-nose.png",
     "alt": "picture: nose",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is أنف. The word in English: nose."
   },
   {
     "grade": "P1",
@@ -4501,7 +4526,8 @@
     "image": "p1-lessons-assets/img/kg-hands.png",
     "alt": "picture: hands",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture is إيدين. The word in English: hands."
   },
   {
     "grade": "P1",
