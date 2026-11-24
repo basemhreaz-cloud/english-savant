@@ -107,7 +107,7 @@ function build(card,q,d){
  card.appendChild(n);
  setTimeout(function(){say(txt)},1500);
 }
-function say(t){try{if(!window.speechSynthesis)return;var u=new SpeechSynthesisUtterance(t);u.lang='ar-EG';u.rate=.95;speechSynthesis.cancel();speechSynthesis.speak(u)}catch(e){}}
+function say(t){if(window.ESSpeech){window.ESSpeech.speak(t,{lang:'ar-EG'});return}try{if(!window.speechSynthesis)return;var u=new SpeechSynthesisUtterance(t);u.lang='ar-EG';u.rate=.95;speechSynthesis.cancel();speechSynthesis.speak(u)}catch(e){}}
 window.__esExplain=function(card){try{var q=card.__q;if(!q||card.querySelector('.esx-note'))return;dict(function(d){build(card,q,d)})}catch(e){}};
 })();
 
