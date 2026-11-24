@@ -1,4 +1,5 @@
 (function(){
+const resultIcon=ok=>{const ns='http://www.w3.org/2000/svg',svg=document.createElementNS(ns,'svg');svg.setAttribute('viewBox','0 0 24 24');svg.setAttribute('width','24');svg.setAttribute('height','24');svg.setAttribute('aria-hidden','true');svg.style.verticalAlign='middle';const path=document.createElementNS(ns,'path');path.setAttribute('d',ok?'M5 12l4 4L19 6':'M6 6l12 12M18 6L6 18');path.setAttribute('fill','none');path.setAttribute('stroke','currentColor');path.setAttribute('stroke-width','2.5');path.setAttribute('stroke-linecap','round');svg.append(path);return svg};
 var gs=document.body.dataset.grade;
 var LABELS={choose:'اختر الإجابة الصحيحة',sound:'اختر الصوت الناقص',form:'اكتب التصريف الصحيح',cloze:'أكمل الفراغ من الكلمات',unscramble:'رتّب الحروف واكتب الكلمة',reorder:'رتّب الكلمات وكوّن الجملة',tf:'صح أم غلط',typein:'اكتب الإجابة',mcq:'اختر الإجابة الصحيحة'};
 function esc(t){return String(t).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
@@ -19,8 +20,8 @@ function updateBar(){
 function feed(card,ok,corr){
   var f=card.querySelector('.q-feed');
   f.className='q-feed '+(ok?'ok':'no');
-  f.innerHTML=ok?'أحسنت ✅ إجابة صحيحة':'غلط ❌ <span class="corr">الإجابة الصحيحة: '+esc(corr)+'</span>';
-  card.querySelector('.q-state').textContent=ok?'✅':'❌';
+  f.innerHTML=ok?'أحسنت، إجابة صحيحة':'راجع الإجابة <span class="corr">الإجابة الصحيحة: '+esc(corr)+'</span>';
+  card.querySelector('.q-state').replaceChildren(resultIcon(ok));
   done++; if(ok)score++; updateBar();
 }
 function passage(q){return q.passage?'<div class="q-passage" dir="ltr">'+esc(q.passage)+'</div>':''}
