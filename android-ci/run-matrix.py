@@ -20,9 +20,11 @@ try:
  for width,height in sizes:
   for rotation in [0,1]:
    label=f'api{api}-{device}-{width}x{height}-rotation{rotation}';p=O/label;p.mkdir()
-   adb('shell','am','force-stop','eg.englishsavant.app');adb('shell','rm','-rf','/data/data/eg.englishsavant.app/files/matrix',check=False)
-   output=adb('shell','am','instrument','-w','-e','width',str(width),'-e','height',str(height),'-e','rotation',str(rotation),'eg.englishsavant.matrix/.MatrixAudit',timeout=1200)
+   adb('shell','am','force-stop','eg.englishsavant.app');adb('shell','settings','put','system','accelerometer_rotation','0');adb('shell','settings','put','system','user_rotation',str(rotation));adb('shell','wm','size',f'{width}x{height}');adb('shell','wm','density','160');time.sleep(2);adb('shell','rm','-rf','/data/data/eg.englishsavant.app/files/matrix',check=False)
+   output=adb('shell','am','instrument','-w','-e','width',str(width),'-e','height',str(height),'-e','rotation',str(rotation),'eg.englishsavant.matrix/.MatrixAudit',timeout=600)
    (p/'instrument.txt').write_bytes(output)
+   print(output.decode(errors='replace')[-1500:],flush=True)
+   (p/'unconditional-emulator-screen.png').write_bytes(adb('exec-out','screencap','-p'))
    adb('pull','/data/data/eg.englishsavant.app/files/matrix',str(p))
    (p/'display.txt').write_bytes(adb('shell','dumpsys','display'))
    (p/'window.txt').write_bytes(adb('shell','dumpsys','window'))
