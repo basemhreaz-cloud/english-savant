@@ -33,7 +33,8 @@ jobs:
           mkdir -p /tmp/matrix-classes /tmp/matrix-dex
           javac -source 8 -target 8 -classpath "$ANDROID_HOME/platforms/android-34/android.jar" -d /tmp/matrix-classes android-ci/MatrixAudit.java
           "$BT/d8" --lib "$ANDROID_HOME/platforms/android-34/android.jar" --output /tmp/matrix-dex $(find /tmp/matrix-classes -name '*.class')
-          "$BT/aapt" package -f -M android-ci/MatrixManifest.xml -I "$ANDROID_HOME/platforms/android-34/android.jar" -F /tmp/matrix-unsigned.apk
+          cp android-ci/MatrixManifest.xml /tmp/AndroidManifest.xml
+          "$BT/aapt" package -f -M /tmp/AndroidManifest.xml -I "$ANDROID_HOME/platforms/android-34/android.jar" -F /tmp/matrix-unsigned.apk
           (cd /tmp/matrix-dex && zip /tmp/matrix-unsigned.apk classes.dex)
           keytool -genkeypair -keystore /tmp/matrix.jks -storepass android -keypass android -alias test -dname 'CN=Disposable Emulator Test' -keyalg RSA -validity 2
           cp /tmp/current-original.apk /tmp/current-unsigned.apk
