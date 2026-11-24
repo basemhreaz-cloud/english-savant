@@ -1,6 +1,6 @@
 {
   "grade": "p1",
-  "status": "partial-307-reviewed",
+  "status": "partial-336-reviewed",
   "source_pdf_sha256": "c02e0e82a06e8524061b2985a0ec85fd5a5e9a1c50beae134632f0947777739a",
   "source_pages": [
     2,
@@ -20,7 +20,10 @@
     16,
     17,
     18,
-    19
+    19,
+    28,
+    29,
+    30
   ],
   "sections": [
     {
@@ -4297,6 +4300,332 @@
           "meaning_ar": "حشرة",
           "explanation_ar": "اكتب الحرف i في الفراغ لتكتمل كلمة insect، ومعناها حشرة.",
           "grading_mode": "checked"
+        }
+      ]
+    },
+    {
+      "type": "reorder",
+      "instruction": "Reorder the words to make sentences.",
+      "instruction_ar": "رتّب الكلمات لتكوّن جملة.",
+      "items": [
+        {
+          "item_id": "P1:s11:i0",
+          "source_page": 28,
+          "source_number": 1,
+          "question": "name? / your / What's",
+          "answer": "What's your name?",
+          "meaning_ar": "ما اسمك؟",
+          "explanation_ar": "What's your name? معناها: ما اسمك؟ نبدأ بكلمة السؤال أو الفعل المساعد، ثم نرتب بقية السؤال.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i1",
+          "source_page": 28,
+          "source_number": 2,
+          "question": "name / is / Hana. / My",
+          "answer": "My name is Hana.",
+          "meaning_ar": "اسمي هناء.",
+          "explanation_ar": "My name is Hana. معناها: اسمي هناء. نبدأ بـ My name، ثم is، ثم الاسم.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i2",
+          "source_page": 28,
+          "source_number": 3,
+          "question": "is / The / grass / green",
+          "answer": "The grass is green.",
+          "meaning_ar": "العشب أخضر.",
+          "explanation_ar": "The grass is green. معناها: العشب أخضر. نضع اسم الشيء أو الشخص أولًا، ثم is أو are، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i3",
+          "source_page": 29,
+          "source_number": 4,
+          "question": "a / is / butterfly / This",
+          "answer": "This is a butterfly.",
+          "meaning_ar": "هذه فراشة.",
+          "explanation_ar": "This is a butterfly. معناها: هذه فراشة. نضع اسم الشيء أو الشخص أولًا، ثم is أو are، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i4",
+          "source_page": 29,
+          "source_number": 5,
+          "question": "see / a / I / tree / can",
+          "answer": "I can see a tree.",
+          "meaning_ar": "أستطيع رؤية شجرة.",
+          "explanation_ar": "I can see a tree. معناها: أستطيع رؤية شجرة. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i5",
+          "source_page": 29,
+          "source_number": 6,
+          "question": "is / The / blue / square",
+          "answer": "The square is blue.",
+          "meaning_ar": "المربع أزرق.",
+          "explanation_ar": "The square is blue. معناها: المربع أزرق. نضع اسم الشيء أو الشخص أولًا، ثم is أو are، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i6",
+          "source_page": 29,
+          "source_number": 7,
+          "question": "sun / is / yellow / The",
+          "answer": "The sun is yellow.",
+          "meaning_ar": "الشمس صفراء.",
+          "explanation_ar": "The sun is yellow. معناها: الشمس صفراء. نضع اسم الشيء أو الشخص أولًا، ثم is أو are، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i7",
+          "source_page": 29,
+          "source_number": 8,
+          "question": "father / This / is / my",
+          "answer": "This is my father.",
+          "meaning_ar": "هذا أبي.",
+          "explanation_ar": "This is my father. معناها: هذا أبي. نضع اسم الشيء أو الشخص أولًا، ثم is أو are، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i8",
+          "source_page": 29,
+          "source_number": 9,
+          "question": "my / is / grandmother / This",
+          "answer": "This is my grandmother.",
+          "meaning_ar": "هذه جدتي.",
+          "explanation_ar": "This is my grandmother. معناها: هذه جدتي. نضع اسم الشيء أو الشخص أولًا، ثم is أو are، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i9",
+          "source_page": 29,
+          "source_number": 10,
+          "question": "2 / I / sisters / have",
+          "answer": "I have 2 sisters.",
+          "meaning_ar": "لدي أختان.",
+          "explanation_ar": "I have 2 sisters. معناها: لدي أختان. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i10",
+          "source_page": 29,
+          "source_number": 11,
+          "question": "Who / this? / is",
+          "answer": "Who is this?",
+          "meaning_ar": "من هذا؟",
+          "explanation_ar": "Who is this? معناها: من هذا؟ نبدأ بكلمة السؤال أو الفعل المساعد، ثم نرتب بقية السؤال.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i11",
+          "source_page": 29,
+          "source_number": 12,
+          "question": "They / parents / are",
+          "answer": "They are parents.",
+          "meaning_ar": "هم آباء وأمهات.",
+          "explanation_ar": "They are parents. معناها: هم آباء وأمهات. نضع اسم الشيء أو الشخص أولًا، ثم is أو are، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i12",
+          "source_page": 29,
+          "source_number": 13,
+          "question": "I / have / brother / 1",
+          "answer": "I have 1 brother.",
+          "meaning_ar": "لدي أخ واحد.",
+          "explanation_ar": "I have 1 brother. معناها: لدي أخ واحد. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i13",
+          "source_page": 29,
+          "source_number": 14,
+          "question": "is / grandfather / This / my",
+          "answer": "This is my grandfather.",
+          "meaning_ar": "هذا جدي.",
+          "explanation_ar": "This is my grandfather. معناها: هذا جدي. نضع اسم الشيء أو الشخص أولًا، ثم is أو are، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i14",
+          "source_page": 29,
+          "source_number": 15,
+          "question": "my / can / I / nose / smell / with",
+          "answer": "I can smell with my nose.",
+          "meaning_ar": "أستطيع الشم بأنفي.",
+          "explanation_ar": "I can smell with my nose. معناها: أستطيع الشم بأنفي. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i15",
+          "source_page": 29,
+          "source_number": 16,
+          "question": "my / I / with / eyes / see / can",
+          "answer": "I can see with my eyes.",
+          "meaning_ar": "أستطيع الرؤية بعينيّ.",
+          "explanation_ar": "I can see with my eyes. معناها: أستطيع الرؤية بعينيّ. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i16",
+          "source_page": 30,
+          "source_number": 17,
+          "question": "I / my / with / tongue / can / taste",
+          "answer": "I can taste with my tongue.",
+          "meaning_ar": "أستطيع التذوق بلساني.",
+          "explanation_ar": "I can taste with my tongue. معناها: أستطيع التذوق بلساني. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i17",
+          "source_page": 30,
+          "source_number": 18,
+          "question": "have / I / feet / 2",
+          "answer": "I have 2 feet.",
+          "meaning_ar": "لدي قدمان.",
+          "explanation_ar": "I have 2 feet. معناها: لدي قدمان. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i18",
+          "source_page": 30,
+          "source_number": 19,
+          "question": "have / 1 / nose / I",
+          "answer": "I have 1 nose.",
+          "meaning_ar": "لدي أنف واحد.",
+          "explanation_ar": "I have 1 nose. معناها: لدي أنف واحد. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i19",
+          "source_page": 30,
+          "source_number": 20,
+          "question": "I / 1 / mouth / have",
+          "answer": "I have 1 mouth.",
+          "meaning_ar": "لدي فم واحد.",
+          "explanation_ar": "I have 1 mouth. معناها: لدي فم واحد. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i20",
+          "source_page": 30,
+          "source_number": 21,
+          "question": "2 / I / arms / have",
+          "answer": "I have 2 arms.",
+          "meaning_ar": "لدي ذراعان.",
+          "explanation_ar": "I have 2 arms. معناها: لدي ذراعان. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i21",
+          "source_page": 30,
+          "source_number": 22,
+          "question": "2 / have / eyes / I",
+          "answer": "I have 2 eyes.",
+          "meaning_ar": "لدي عينان.",
+          "explanation_ar": "I have 2 eyes. معناها: لدي عينان. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i22",
+          "source_page": 30,
+          "source_number": 23,
+          "question": "have / 1 / head / I",
+          "answer": "I have 1 head.",
+          "meaning_ar": "لدي رأس واحد.",
+          "explanation_ar": "I have 1 head. معناها: لدي رأس واحد. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i23",
+          "source_page": 30,
+          "source_number": 24,
+          "question": "my / I / with / touch / can / hands",
+          "answer": "I can touch with my hands.",
+          "meaning_ar": "أستطيع اللمس بيديّ.",
+          "explanation_ar": "I can touch with my hands. معناها: أستطيع اللمس بيديّ. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i24",
+          "source_page": 30,
+          "source_number": 25,
+          "question": "hear / with / my / can / ears / I",
+          "answer": "I can hear with my ears.",
+          "meaning_ar": "أستطيع السمع بأذنيّ.",
+          "explanation_ar": "I can hear with my ears. معناها: أستطيع السمع بأذنيّ. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i25",
+          "source_page": 30,
+          "source_number": 26,
+          "question": "small / duck / is / The",
+          "answer": "The duck is small.",
+          "meaning_ar": "البطة صغيرة.",
+          "explanation_ar": "The duck is small. معناها: البطة صغيرة. نضع اسم الشيء أو الشخص أولًا، ثم is أو are، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i26",
+          "source_page": 30,
+          "source_number": 27,
+          "question": "The / is / big / cow",
+          "answer": "The cow is big.",
+          "meaning_ar": "البقرة كبيرة.",
+          "explanation_ar": "The cow is big. معناها: البقرة كبيرة. نضع اسم الشيء أو الشخص أولًا، ثم is أو are، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i27",
+          "source_page": 30,
+          "source_number": 28,
+          "question": "I / animals / farm / love",
+          "answer": "I love farm animals.",
+          "meaning_ar": "أحب حيوانات المزرعة.",
+          "explanation_ar": "I love farm animals. معناها: أحب حيوانات المزرعة. نبدأ بـ I، ثم الفعل أو can مع الفعل، ثم بقية الجملة.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
+        },
+        {
+          "item_id": "P1:s11:i28",
+          "source_page": 30,
+          "source_number": 29,
+          "question": "horse? / a / Do / see / you",
+          "answer": "Do you see a horse?",
+          "meaning_ar": "هل ترى حصانًا؟",
+          "explanation_ar": "Do you see a horse? معناها: هل ترى حصانًا؟ نبدأ بكلمة السؤال أو الفعل المساعد، ثم نرتب بقية السؤال.",
+          "grading_mode": "checked",
+          "grading_note": "All source tokens preserved; punctuation and capitalization may vary."
         }
       ]
     }
