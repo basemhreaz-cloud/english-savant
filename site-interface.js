@@ -1,3 +1,5 @@
+/* WebView 83: keep standalone scripts safe before native replaceChildren support. */
+(function(){if(typeof Element!=='undefined'&&!Element.prototype.replaceChildren){Object.defineProperty(Element.prototype,'replaceChildren',{configurable:true,writable:true,value:function(){var fragment=this.ownerDocument.createDocumentFragment();for(var i=0;i<arguments.length;i++)fragment.append(arguments[i]);while(this.firstChild)this.removeChild(this.firstChild);this.appendChild(fragment);}});}})();
 /* Native interface language only. Educational content is deliberately out of scope. */
 (()=>{'use strict';
 const KEY='es-interface-language';
