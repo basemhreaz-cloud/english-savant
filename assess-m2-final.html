@@ -63,7 +63,7 @@ button,.button,.chip,.icon-button{border-radius:12px}.island-toggle{border-radiu
 
 
 <section class="wrap section compact-section">
-<h2>التقييم النهائي</h2>
+
 <p class="section-sub">كل محطة بتصحح فورًا بعد كل سؤال.</p>
 <div id="stations"><div class="lesson-empty">بنحضّر الأنشطة…</div></div>
 <div class="quiz-done" id="unit-done">
@@ -156,9 +156,9 @@ function buildTeach(u){
 }
 function mountStation(root,st){
   var total=st.questions.length,done=0,score=0;
-  root.innerHTML='<div class="unit-station"><div class="st-head"><h3>'+esc(st.title)+'</h3><span class="st-progress"></span></div>'+(st.sub?'<p class="st-sub">'+esc(st.sub)+'</p>':'')+'<div class="st-body"></div><div class="quiz-done st-done"><h4>خلّصت المحطة!</h4><span class="score st-score"></span><button class="q-check st-retry">حاول المحطة تاني</button></div></div>';
+  root.innerHTML='<div class="unit-station"><div class="st-head"><h3>'+esc(st.title==='التقييم النهائي'?'أسئلة التقييم':st.title)+'</h3><span class="st-progress"></span></div>'+(st.sub?'<p class="st-sub">'+esc(st.sub)+'</p>':'')+'<div class="st-body"></div><div class="quiz-done st-done"><h4>خلّصت المحطة!</h4><span class="score st-score"></span><button class="q-check st-retry">حاول المحطة تاني</button></div></div>';
   var prog=root.querySelector('.st-progress'),body=root.querySelector('.st-body'),doneEl=root.querySelector('.st-done'),scoreEl=root.querySelector('.st-score');
-  function updateBar(){prog.textContent=done+' / '+total;if(done===total){doneEl.classList.add('show');scoreEl.textContent=score+' / '+total}}
+  function updateBar(){prog.textContent='تم '+done+' من '+total;if(done===total){doneEl.classList.add('show');scoreEl.textContent=score+' / '+total}}
   function feed(card,ok,corr){
     var f=card.querySelector('.q-feed');
     f.className='q-feed '+(ok?'ok':'no');
