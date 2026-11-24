@@ -1,4 +1,11 @@
 (function(){
+const quizLayout=document.createElement('style');quizLayout.textContent=`
+#quiz-body .q-opts{display:grid;grid-template-columns:minmax(0,1fr);gap:8px;align-items:stretch;justify-items:stretch}
+#quiz-body .q-opts>.opt{box-sizing:border-box;width:100%;min-width:0;max-width:100%;margin:0;justify-self:stretch;animation:none!important;transform:none!important}
+#quiz-body .q-feed{box-sizing:border-box;margin:12px 0;padding:8px 10px;line-height:1.75;animation:none!important;transform:none!important;overflow-wrap:anywhere}
+#quiz-body .q-feed .corr{display:block;margin-top:4px}
+`;document.head.append(quizLayout);
+
 const resultIcon=ok=>{const ns='http://www.w3.org/2000/svg',svg=document.createElementNS(ns,'svg');svg.setAttribute('viewBox','0 0 24 24');svg.setAttribute('width','24');svg.setAttribute('height','24');svg.setAttribute('aria-hidden','true');svg.style.verticalAlign='middle';const path=document.createElementNS(ns,'path');path.setAttribute('d',ok?'M5 12l4 4L19 6':'M6 6l12 12M18 6L6 18');path.setAttribute('fill','none');path.setAttribute('stroke','currentColor');path.setAttribute('stroke-width','2.5');path.setAttribute('stroke-linecap','round');svg.append(path);return svg};
 var gs=document.body.dataset.grade;
 var LABELS={choose:'اختر الإجابة الصحيحة',sound:'اختر الصوت الناقص',form:'اكتب التصريف الصحيح',cloze:'أكمل الفراغ من الكلمات',unscramble:'رتّب الحروف واكتب الكلمة',reorder:'رتّب الكلمات وكوّن الجملة',tf:'صح أم غلط',typein:'اكتب الإجابة',mcq:'اختر الإجابة الصحيحة'};
