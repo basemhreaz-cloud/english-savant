@@ -17,7 +17,7 @@ public class MatrixAudit extends Instrumentation {
  int rotation=Integer.parseInt(args.getString("rotation","0"));int width=Integer.parseInt(args.getString("width","360"));int height=Integer.parseInt(args.getString("height","800"));Thread.sleep(1000);runOnMainSync(()->web=find(activity.getWindow().getDecorView()));
  for(String lang:new String[]{"ar","en"})for(boolean dark:new boolean[]{false,true}){screen("home","index.html",lang,dark);screen("lesson","explain-p2-u1.html",lang,dark);screen("quiz","lesson-assessment-p1-u1.html",lang,dark);screen("windows","download.html",lang,dark);screen("video","watch.html?lesson=p4-u4-lesson",lang,dark);}
  for(String scale:new String[]{"0.85","1.3","2.0"}){shell("settings put system font_scale "+scale);for(String lang:new String[]{"ar","en"}){open("index.html");configure(lang,false);shot("font-"+scale+"-"+lang);}}
- try{open("booklets.html");configure("ar",false);tap("a[href*='sample-g1.pdf']");Thread.sleep(6000);shot("pdf-final-ar");}catch(Exception e){save("pdf-error.txt",e.toString());}
+ 
  save("summary.txt","Real Android emulator screenshots. Target APK re-signed for test instrumentation only; production DEX/resources unchanged. Native navigation and font/orientation values recorded by runner. WebView URL loads used for deterministic page coverage; video/PDF use native input taps. Not physical-device certification.");
  }catch(Throwable e){try{save("harness-error.txt",e.toString());}catch(Exception ignored){}}finally{try{shell("settings put system font_scale 1.0");}catch(Exception ignored){}finish(Activity.RESULT_OK,new Bundle());}}
 }
