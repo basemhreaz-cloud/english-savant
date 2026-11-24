@@ -22,7 +22,8 @@
     "image_optional": [
       "head"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "head means الراس."
   },
   {
     "grade": "P1",
@@ -47,7 +48,8 @@
     "image_optional": [
       "eye"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "eye means عين, and two eyes = eyes."
   },
   {
     "grade": "P1",
@@ -72,7 +74,8 @@
     "image": "p1-lessons-assets/img/kg-eyes.png",
     "alt": "picture: eyes",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows عينين. The word in English is eyes."
   },
   {
     "grade": "P1",
@@ -97,7 +100,8 @@
     "image": "p1-lessons-assets/img/kg-eyes.png",
     "alt": "picture: eyes",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Two eyes: 2."
   },
   {
     "grade": "P1",
@@ -122,7 +126,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/kg-ears-hl.png",
-    "alt": "ears marked with red circles"
+    "alt": "ears marked with red circles",
+    "explanation_en": "We have two ears, so we say 2 ears."
   },
   {
     "grade": "P1",
@@ -147,7 +152,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/kg-mouth.png",
-    "alt": "a mouth"
+    "alt": "a mouth",
+    "explanation_en": "We have one mouth: 1 mouth."
   },
   {
     "grade": "P1",
@@ -172,7 +178,8 @@
     ],
     "requires_image": true,
     "image": "p1-lessons-assets/img/kg-ears-hl.png",
-    "alt": "ears marked with red circles"
+    "alt": "ears marked with red circles",
+    "explanation_en": "We have two ears."
   },
   {
     "grade": "P1",
@@ -197,7 +204,8 @@
     ],
     "requires_image": true,
     "image": "p1-lessons-assets/img/kg-eyes.png",
-    "alt": "two eyes"
+    "alt": "two eyes",
+    "explanation_en": "We have two eyes, not 3."
   },
   {
     "grade": "P1",
@@ -235,7 +243,8 @@
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image": "p1-lessons-assets/img/kg-eyes.png",
-    "alt": "two eyes"
+    "alt": "two eyes",
+    "explanation_en": "The sentence: I have 2 eyes."
   },
   {
     "grade": "P1",
@@ -258,7 +267,8 @@
     "answer_kind": "text_key",
     "image_optional": null,
     "requires_image": false,
-    "hint_ar": "ودن"
+    "hint_ar": "ودن",
+    "explanation_en": "The word ear: e-a-r."
   },
   {
     "grade": "P1",
@@ -329,7 +339,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has its own box. 1: eyes. 2: 1 أو one. 3: mouth. 4: toes."
   },
   {
     "grade": "P1",
@@ -379,7 +390,8 @@
     "image_optional": [
       "rabbit"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "rabbit means أرنب."
   },
   {
     "grade": "P1",
@@ -433,7 +445,8 @@
       "rabbit"
     ],
     "image": "p1-lessons-assets/img/kg-rabbit.png",
-    "alt": "a rabbit"
+    "alt": "a rabbit",
+    "explanation_en": "Order the letters: r-a-b-b-i-t."
   },
   {
     "grade": "P1",
@@ -483,7 +496,8 @@
     "image_optional": [
       "egg"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "egg means بيضة."
   },
   {
     "grade": "P1",
@@ -506,7 +520,8 @@
     "image_optional": [
       "egg"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "egg starts with a different letter from R."
   },
   {
     "grade": "P1",
@@ -539,7 +554,8 @@
       "elephant"
     ],
     "image": "p1-lessons-assets/img/kg-elephant.png",
-    "alt": "an elephant"
+    "alt": "an elephant",
+    "explanation_en": "Order the letters: e-l-e-p-h-a-n-t."
   },
   {
     "grade": "P1",
@@ -562,7 +578,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "rabbit starts with r."
   },
   {
     "grade": "P1",
@@ -585,7 +602,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "see means يشوف."
   },
   {
     "grade": "P1",
@@ -608,7 +626,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hear means يسمع."
   },
   {
     "grade": "P1",
@@ -631,7 +650,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We see with our eyes."
   },
   {
     "grade": "P1",
@@ -654,7 +674,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We hear with our ears."
   },
   {
     "grade": "P1",
@@ -675,7 +696,8 @@
     "passage": "Aly: Hi, Omar!\nOmar: Hi, Aly. Let's talk about our senses.\nAly: Tell me. What can you see?\nOmar: I can see the teacher and the desk.\nAly: Look! A flower!\nOmar: Wow! I can see it with my eyes.\nAly: I can smell it with my nose. It smells nice!\nOmar: I can hear the teacher with my ears.\nAly: I can touch the desk with my hands.\nOmar: I have an apple. I can taste it with my tongue!",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the text Omar says I can see the teacher and the desk."
   },
   {
     "grade": "P1",
@@ -698,7 +720,8 @@
     "image_optional": [
       "ears"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Aly smells it with the nose, not the ear: I can smell it with my nose."
   },
   {
     "grade": "P1",
@@ -740,7 +763,8 @@
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image": "p1-lessons-assets/img/kg-eyes.png",
-    "alt": "eyes"
+    "alt": "eyes",
+    "explanation_en": "The sentence: I can see with my eyes."
   },
   {
     "grade": "P1",
@@ -763,7 +787,8 @@
     "answer_kind": "text_key",
     "image_optional": null,
     "requires_image": false,
-    "hint_ar": "يشم"
+    "hint_ar": "يشم",
+    "explanation_en": "The word smell has two letters l at the end."
   },
   {
     "grade": "P1",
@@ -839,7 +864,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has its own box. 1: senses (حواسنا). 2: eyes. 3: smell بالأنف. 4: hear بالودن. 5: hands بالإيدين."
   },
   {
     "grade": "P1",
@@ -889,7 +915,8 @@
     "image_optional": [
       "cat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cat means قطة."
   },
   {
     "grade": "P1",
@@ -940,7 +967,8 @@
       "cat"
     ],
     "image": "p1-lessons-assets/img/kg-cat.png",
-    "alt": "a cat"
+    "alt": "a cat",
+    "explanation_en": "Order the letters: c-a-t."
   },
   {
     "grade": "P1",
@@ -990,7 +1018,8 @@
     "image_optional": [
       "kite"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "kite means طيارة ورق."
   },
   {
     "grade": "P1",
@@ -1013,7 +1042,8 @@
     "image_optional": [
       "kite"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "kite starts with a different letter from C."
   },
   {
     "grade": "P1",
@@ -1042,7 +1072,8 @@
       "kite"
     ],
     "image": "p1-lessons-assets/img/kg-kite.png",
-    "alt": "a kite"
+    "alt": "a kite",
+    "explanation_en": "Order the letters: k-i-t-e."
   },
   {
     "grade": "P1",
@@ -1065,6 +1096,7 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cat starts with c."
   }
 ]

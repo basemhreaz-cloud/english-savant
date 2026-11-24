@@ -20,7 +20,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We say Hello when we meet someone, meaning أهلاً or مرحباً."
   },
   {
     "grade": "P1",
@@ -43,7 +44,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We say Goodbye when we leave someone."
   },
   {
     "grade": "P1",
@@ -68,7 +70,8 @@
     "image": "p1-lessons-assets/img/handshake.png",
     "alt": "two hands clasped in a handshake",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The hands are holding each other: we shake hands."
   },
   {
     "grade": "P1",
@@ -93,7 +96,8 @@
     "image": "p1-lessons-assets/img/handshake.png",
     "alt": "two hands clasped in a handshake",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows a handshake: shake hands."
   },
   {
     "grade": "P1",
@@ -116,7 +120,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "What's your name? is a question. My name is... is the reply."
   },
   {
     "grade": "P1",
@@ -139,7 +144,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "When we meet someone we start with Hello."
   },
   {
     "grade": "P1",
@@ -160,7 +166,8 @@
     "passage": "Nour: Hello!\nOmar: Hello! What's your name?\nNour: My name is Nour.\nOmar: Nice to meet you, Nour! Do you want to shake hands?\nNour: Yes! (They shake hands.) Goodbye, Omar!\nOmar: Goodbye, Nour!",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the conversation Omar asked Do you want to shake hands? and Nour said Yes and they shook hands."
   },
   {
     "grade": "P1",
@@ -181,7 +188,8 @@
     "passage": "Nour: Hello!\nOmar: Hello! What's your name?\nNour: My name is Nour.\nOmar: Nice to meet you, Nour! Do you want to shake hands?\nNour: Yes! (They shake hands.) Goodbye, Omar!\nOmar: Goodbye, Nour!",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "At the start of the conversation Nour says Hello."
   },
   {
     "grade": "P1",
@@ -204,7 +212,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "When we leave we say Goodbye."
   },
   {
     "grade": "P1",
@@ -227,7 +236,8 @@
     "answer_kind": "text_key",
     "image_optional": null,
     "requires_image": false,
-    "hint_ar": "أهلاً (تحية)"
+    "hint_ar": "أهلاً (تحية)",
+    "explanation_en": "The word Hello. The missing letter e."
   },
   {
     "grade": "P1",
@@ -309,7 +319,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The whole conversation is one question and each blank has a box. 1: Hello. 2: My name. 3: meet you. 4: shake hands. 5: Goodbye so we can leave."
   },
   {
     "grade": "P1",
@@ -334,7 +345,8 @@
     "image": "p1-lessons-assets/img/obj-tomato.png",
     "alt": "a picture of a tomato",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "tomato starts with the letter t."
   },
   {
     "grade": "P1",
@@ -359,7 +371,8 @@
     "image": "p1-lessons-assets/img/obj-tomato.png",
     "alt": "a picture of a tomato",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "This picture shows طماطم. The English word is tomato."
   },
   {
     "grade": "P1",
@@ -384,7 +397,8 @@
     "image_optional": [
       "tiger"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "tiger is the animal نمر."
   },
   {
     "grade": "P1",
@@ -437,7 +451,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/obj-table.png",
-    "alt": "a table"
+    "alt": "a table",
+    "explanation_en": "Order the letters: t-a-b-l-e makes table."
   },
   {
     "grade": "P1",
@@ -462,7 +477,8 @@
     "requires_image": true,
     "hint_ar": "نمر",
     "image": "p1-lessons-assets/img/tiger.png",
-    "alt": "a tiger"
+    "alt": "a tiger",
+    "explanation_en": "The first letter of tiger is t."
   },
   {
     "grade": "P1",
@@ -485,7 +501,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "sun starts with the letter s, not t."
   },
   {
     "grade": "P1",
@@ -510,7 +527,8 @@
     "image_optional": [
       "book"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "book means كتاب."
   },
   {
     "grade": "P1",
@@ -535,7 +553,8 @@
     "image_optional": [
       "bag"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "bag means the school bag, شنطة المدرسة."
   },
   {
     "grade": "P1",
@@ -560,7 +579,8 @@
     "image": "p1-lessons-assets/img/pencil.png",
     "alt": "a yellow pencil",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "This picture shows قلم رصاص. The English word is pencil."
   },
   {
     "grade": "P1",
@@ -585,7 +605,8 @@
     "image": "p1-lessons-assets/img/chair.png",
     "alt": "a wooden chair",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "This picture shows كرسي. The English word is chair."
   },
   {
     "grade": "P1",
@@ -610,7 +631,8 @@
     "image_optional": [
       "teacher"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The teacher writes on the board."
   },
   {
     "grade": "P1",
@@ -635,7 +657,8 @@
     "image_optional": [
       "teacher"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "stand up means to stand."
   },
   {
     "grade": "P1",
@@ -658,7 +681,8 @@
     "image_optional": [
       "teacher"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The teacher is in the classroom."
   },
   {
     "grade": "P1",
@@ -681,7 +705,8 @@
     "image_optional": [
       "bag"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We write with the pen. The bag is for carrying books."
   },
   {
     "grade": "P1",
@@ -715,7 +740,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/stand.png",
-    "alt": "a child standing up"
+    "alt": "a child standing up",
+    "explanation_en": "The command starts with Stand then up."
   },
   {
     "grade": "P1",
@@ -740,7 +766,8 @@
     "requires_image": true,
     "hint_ar": "كتاب",
     "image": "p1-lessons-assets/img/book.png",
-    "alt": "a book"
+    "alt": "a book",
+    "explanation_en": "The word book: b-o-o-k."
   },
   {
     "grade": "P1",
@@ -807,7 +834,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has its own box. 1: Stand up (قف). 2: Sit down (اقعد). 3: Open your book. 4: ننادي على المدرس بـ teacher."
   },
   {
     "grade": "P1",
@@ -857,7 +885,8 @@
     "image": "p1-lessons-assets/img/kg-ink.png",
     "alt": "a picture of a ink",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "This picture shows حبر. The English word is ink."
   },
   {
     "grade": "P1",
@@ -882,7 +911,8 @@
     "image_optional": [
       "insect"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "insect is an insect like an ant."
   },
   {
     "grade": "P1",
@@ -933,7 +963,8 @@
     "image_optional": null,
     "requires_image": true,
     "image": "p1-lessons-assets/img/ill.png",
-    "alt": "a child who is ill"
+    "alt": "a child who is ill",
+    "explanation_en": "Put the letters in order: i-l-l."
   },
   {
     "grade": "P1",
@@ -958,7 +989,8 @@
     "requires_image": true,
     "hint_ar": "حبر",
     "image": "p1-lessons-assets/img/kg-ink.png",
-    "alt": "a bottle of ink"
+    "alt": "a bottle of ink",
+    "explanation_en": "The first letter of ink is i."
   },
   {
     "grade": "P1",

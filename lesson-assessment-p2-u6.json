@@ -28,7 +28,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-kitchen.jpg",
     "alt": "a kitchen",
     "requires_image": true,
-    "picture_crop": "reused clean p168 illustration; same picture as printed p170"
+    "picture_crop": "reused clean p168 illustration; same picture as printed p170",
+    "explanation_en": "Mom cooks in the kitchen, so the missing word is kitchen."
   },
   {
     "grade": "P2",
@@ -59,7 +60,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-bedroom.jpg",
     "alt": "a bedroom",
     "requires_image": true,
-    "picture_crop": "reused clean p168 illustration; same picture as printed p170"
+    "picture_crop": "reused clean p168 illustration; same picture as printed p170",
+    "explanation_en": "I sleep in the bedroom, so the missing word is bedroom."
   },
   {
     "grade": "P2",
@@ -96,7 +98,8 @@
     "picture_crop": "crop from GEM page image; see source_ref and notes",
     "accept": [
       "hall"
-    ]
+    ],
+    "explanation_en": "These letters make the word hall, meaning الصالة."
   },
   {
     "grade": "P2",
@@ -135,7 +138,8 @@
     "picture_crop": "crop from GEM page image; see source_ref and notes",
     "accept": [
       "garden"
-    ]
+    ],
+    "explanation_en": "These letters make the word garden, meaning الحديقة."
   },
   {
     "grade": "P2",
@@ -176,7 +180,8 @@
     "picture_crop": "crop from GEM page image; see source_ref and notes",
     "accept": [
       "bathroom"
-    ]
+    ],
+    "explanation_en": "These letters make the word bathroom, meaning الحمام."
   },
   {
     "grade": "P2",
@@ -216,7 +221,8 @@
     "picture_crop": "crop from GEM page image; see source_ref and notes",
     "accept": [
       "balcony"
-    ]
+    ],
+    "explanation_en": "These letters make the word balcony, meaning البلكونة."
   },
   {
     "grade": "P2",
@@ -250,7 +256,8 @@
     "case_sensitive": true,
     "punctuation_sensitive": true,
     "strict_case": true,
-    "strict_punctuation": true
+    "strict_punctuation": true,
+    "explanation_en": "The sentence starts with a capital letter and ends with a full stop: This is the living room."
   },
   {
     "grade": "P2",
@@ -283,7 +290,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The correct answer is bedroom because the sentence tells the right place for the verb."
   },
   {
     "grade": "P2",
@@ -316,7 +324,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The correct answer is bathroom because the sentence tells the right place for the verb."
   },
   {
     "grade": "P2",
@@ -349,7 +358,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The correct answer is garden because the sentence tells the right place for the verb."
   },
   {
     "grade": "P2",
@@ -382,7 +392,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The correct answer is living room because the sentence tells the right place for the verb."
   },
   {
     "grade": "P2",
@@ -414,7 +425,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Mom cooks dinner in the kitchen."
   },
   {
     "grade": "P2",
@@ -446,7 +458,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The shower is in the bathroom."
   },
   {
     "grade": "P2",
@@ -478,7 +491,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "brush teeth means she cleans her teeth."
   },
   {
     "grade": "P2",
@@ -540,7 +554,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The fridge is in the kitchen, so it is fridge."
   },
   {
     "grade": "P2",
@@ -570,7 +585,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The chairs are in the dining room."
   },
   {
     "grade": "P2",
@@ -616,7 +632,8 @@
     "requires_image": false,
     "accept": [
       "We eat in the dining room."
-    ]
+    ],
+    "explanation_en": "The order: We eat in the dining room."
   },
   {
     "grade": "P2",
@@ -666,7 +683,8 @@
     "requires_image": false,
     "accept": [
       "I sleep in my bedroom at night."
-    ]
+    ],
+    "explanation_en": "The order: I sleep in my bedroom at night. "
   },
   {
     "grade": "P2",
@@ -710,7 +728,8 @@
     "requires_image": false,
     "accept": [
       "Ahmed watches TV in the living room."
-    ]
+    ],
+    "explanation_en": "The order: Ahmed watches TV in the living room."
   },
   {
     "grade": "P2",
@@ -742,7 +761,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "One table, so There is."
   },
   {
     "grade": "P2",
@@ -774,7 +794,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "four chairs is plural, so There are."
   },
   {
     "grade": "P2",
@@ -806,7 +827,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "After There is a we use a singular noun: bed."
   },
   {
     "grade": "P2",
@@ -838,7 +860,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "two means اتنين، يبقى جمع: bedrooms."
   },
   {
     "grade": "P2",
@@ -934,7 +957,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "in means في."
   },
   {
     "grade": "P2",
@@ -966,7 +990,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We ask about the place with Where."
   },
   {
     "grade": "P2",
@@ -998,7 +1023,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "This question is a Super Question about the rule. The key is is because There is is repeated with the first noun a table. Check the key with the teacher."
   },
   {
     "grade": "P2",
@@ -1036,7 +1062,8 @@
     "picture_crop": "crop from GEM page image; see source_ref and notes",
     "accept": [
       "lunch"
-    ]
+    ],
+    "explanation_en": "The letters make lunch, meaning وجبة الغداء, and it has ch."
   },
   {
     "grade": "P2",
@@ -1073,7 +1100,8 @@
     "picture_crop": "crop from GEM page image; see source_ref and notes",
     "accept": [
       "chin"
-    ]
+    ],
+    "explanation_en": "The letters make chin, meaning دقن."
   },
   {
     "grade": "P2",
@@ -1112,7 +1140,8 @@
     "picture_crop": "crop from GEM page image; see source_ref and notes",
     "accept": [
       "cheese"
-    ]
+    ],
+    "explanation_en": "The letters make cheese, meaning جبنة."
   },
   {
     "grade": "P2",
@@ -1150,7 +1179,8 @@
     "picture_crop": "crop from GEM page image; see source_ref and notes",
     "accept": [
       "beach"
-    ]
+    ],
+    "explanation_en": "The letters make beach, meaning شاطئ."
   },
   {
     "grade": "P2",
@@ -1184,7 +1214,8 @@
     "requires_image": false,
     "passage": "I am Nada. I love my house. There are six bedrooms in my house. There is a TV in the living room. I brush my teeth in the bathroom. I play in the garden.",
     "source_group": "gem-p181-reading-5",
-    "group_layout": "complete passage above all associated questions, single page"
+    "group_layout": "complete passage above all associated questions, single page",
+    "explanation_en": "In the passage: six bedrooms, not two."
   },
   {
     "grade": "P2",
@@ -1218,7 +1249,8 @@
     "requires_image": false,
     "passage": "I am Nada. I love my house. There are six bedrooms in my house. There is a TV in the living room. I brush my teeth in the bathroom. I play in the garden.",
     "source_group": "gem-p181-reading-5",
-    "group_layout": "complete passage above all associated questions, single page"
+    "group_layout": "complete passage above all associated questions, single page",
+    "explanation_en": "في القطعة: I play in the garden."
   },
   {
     "grade": "P2",
@@ -1436,7 +1468,8 @@
     "requires_image": false,
     "accept": [
       "I cook in the kitchen."
-    ]
+    ],
+    "explanation_en": "I cook in the kitchen."
   },
   {
     "grade": "P2",
@@ -1550,7 +1583,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "table means ترابيزة وبتبقى في غرفة الطعام."
   },
   {
     "grade": "P2",
@@ -1580,7 +1614,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "watch TV means we watch television."
   },
   {
     "grade": "P2",
@@ -1620,7 +1655,8 @@
     "picture_crop": "reused clean illustration from GEM p168/p178; the printed task shows the same picture",
     "accept": [
       "bedroom"
-    ]
+    ],
+    "explanation_en": "The letters make bedroom."
   },
   {
     "grade": "P2",
@@ -1654,7 +1690,8 @@
     "requires_image": false,
     "passage": "My home has a big hall and a small garden. My brother likes to play in the garden every day. My mother sits in the living room and reads a book. We love our home very much.",
     "source_group": "gem-p187-reading-5",
-    "group_layout": "complete passage above all associated questions, single page"
+    "group_layout": "complete passage above all associated questions, single page",
+    "explanation_en": "The passage says big hall."
   },
   {
     "grade": "P2",
@@ -1688,7 +1725,8 @@
     "requires_image": false,
     "passage": "My home has a big hall and a small garden. My brother likes to play in the garden every day. My mother sits in the living room and reads a book. We love our home very much.",
     "source_group": "gem-p187-reading-5",
-    "group_layout": "complete passage above all associated questions, single page"
+    "group_layout": "complete passage above all associated questions, single page",
+    "explanation_en": "القطعة بتقول: My mother sits in the living room and reads a book."
   },
   {
     "grade": "P2",
@@ -1810,7 +1848,8 @@
     "case_sensitive": true,
     "punctuation_sensitive": true,
     "strict_case": true,
-    "strict_punctuation": true
+    "strict_punctuation": true,
+    "explanation_en": "The sentence starts with a capital letter and ends with a full stop."
   },
   {
     "grade": "P2",
@@ -1840,7 +1879,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We watch TV in the living room."
   },
   {
     "grade": "P2",
@@ -1870,7 +1910,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "table is singular: is."
   },
   {
     "grade": "P2",
@@ -1900,7 +1941,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We wash our faces in the bathroom."
   },
   {
     "grade": "P2",
@@ -1932,7 +1974,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-balcony.jpg",
     "alt": "a balcony",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows balcony, so the correct answer is balcony."
   },
   {
     "grade": "P2",
@@ -1964,7 +2007,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-bedroom.jpg",
     "alt": "a bedroom",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows bedroom, so the correct answer is bedroom."
   },
   {
     "grade": "P2",
@@ -1996,7 +2040,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-kitchen.jpg",
     "alt": "a kitchen",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows kitchen, so the correct answer is kitchen."
   },
   {
     "grade": "P2",
@@ -2028,7 +2073,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-dining-room.jpg",
     "alt": "a dining room",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows dining room, so the correct answer is dining room."
   },
   {
     "grade": "P2",
@@ -2062,7 +2108,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-hall.jpg",
     "alt": "a hall",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows hall."
   },
   {
     "grade": "P2",
@@ -2096,7 +2143,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-garden.jpg",
     "alt": "a garden",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows garden."
   },
   {
     "grade": "P2",
@@ -2130,7 +2178,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-living-room.jpg",
     "alt": "a living room",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows living room."
   },
   {
     "grade": "P2",
@@ -2162,7 +2211,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-bathroom.jpg",
     "alt": "a bathroom",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows bathroom and the sentence is wrong."
   },
   {
     "grade": "P2",
@@ -2194,7 +2244,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-bedroom.jpg",
     "alt": "a bedroom",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows bedroom and the sentence is correct."
   },
   {
     "grade": "P2",
@@ -2226,7 +2277,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-garden.jpg",
     "alt": "a garden",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows garden and the sentence is wrong."
   },
   {
     "grade": "P2",
@@ -2258,7 +2310,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-dining-room.jpg",
     "alt": "a dining room",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows dining room and the sentence is correct."
   },
   {
     "grade": "P2",
@@ -2289,7 +2342,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-balcony.jpg",
     "alt": "a balcony",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "This picture shows a balcony, meaning بلكونة."
   },
   {
     "grade": "P2",
@@ -2320,7 +2374,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-hall.jpg",
     "alt": "a hall",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "This picture shows a hall, meaning صالة."
   },
   {
     "grade": "P2",
@@ -2488,7 +2543,8 @@
     "image": "p2-lessons-assets/img/p2-u6-ch-cheese.jpg",
     "alt": "a picture of cheese",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows cheese and it has ch."
   },
   {
     "grade": "P2",
@@ -2520,7 +2576,8 @@
     "image": "p2-lessons-assets/img/p2-u6-ch-chin.jpg",
     "alt": "a picture of chin",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows chin and it has ch."
   },
   {
     "grade": "P2",
@@ -2552,7 +2609,8 @@
     "image": "p2-lessons-assets/img/p2-u6-ch-beach.jpg",
     "alt": "a picture of beach",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows beach and it has ch."
   },
   {
     "grade": "P2",
@@ -2584,7 +2642,8 @@
     "image": "p2-lessons-assets/img/p2-u6-ch-lunch.jpg",
     "alt": "a picture of lunch",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows lunch and it has ch."
   },
   {
     "grade": "P2",
@@ -2618,7 +2677,8 @@
     "image": "p2-lessons-assets/img/p2-u6-room-bathroom.jpg",
     "alt": "a bathroom",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The picture shows bathroom."
   },
   {
     "grade": "P2",
@@ -2651,7 +2711,8 @@
     "image": "p2-lessons-assets/img/p2-u6-ch-chin.jpg",
     "alt": "a picture of chin",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The missing letters are ch to make chin."
   },
   {
     "grade": "P2",
@@ -2684,7 +2745,8 @@
     "image": "p2-lessons-assets/img/p2-u6-ch-beach.jpg",
     "alt": "a picture of beach",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The missing letters are ch to make beach."
   },
   {
     "grade": "P2",
@@ -2717,7 +2779,8 @@
     "image": "p2-lessons-assets/img/p2-u6-ch-chicken.jpg",
     "alt": "a picture of chicken",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The missing letters are ch to make chicken."
   },
   {
     "grade": "P2",
@@ -2750,7 +2813,8 @@
     "image": "p2-lessons-assets/img/p2-u6-ch-cheese.jpg",
     "alt": "a picture of cheese",
     "requires_image": true,
-    "picture_crop": "crop from GEM page image; see source_ref and notes"
+    "picture_crop": "crop from GEM page image; see source_ref and notes",
+    "explanation_en": "The missing letters are ch to make cheese."
   },
   {
     "grade": "P2",
@@ -2918,7 +2982,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We eat in the dining room."
   },
   {
     "grade": "P2",
@@ -2950,7 +3015,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "an eraser is singular: is."
   },
   {
     "grade": "P2",
@@ -2982,7 +3048,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the living room we watch: watch TV."
   },
   {
     "grade": "P2",
@@ -3042,7 +3109,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "two books is plural: are."
   },
   {
     "grade": "P2",
@@ -3072,7 +3140,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "under means تحت."
   },
   {
     "grade": "P2",
@@ -3106,7 +3175,8 @@
     "requires_image": false,
     "passage": "This is my home. I watch TV in the living room. I eat in the dining room. I sleep in the bedroom. I love my home.",
     "source_group": "gem-p231-reading-5",
-    "group_layout": "complete passage above all associated questions, single page"
+    "group_layout": "complete passage above all associated questions, single page",
+    "explanation_en": "In the passage: the answer is living room."
   },
   {
     "grade": "P2",
@@ -3140,7 +3210,8 @@
     "requires_image": false,
     "passage": "This is my home. I watch TV in the living room. I eat in the dining room. I sleep in the bedroom. I love my home.",
     "source_group": "gem-p231-reading-5",
-    "group_layout": "complete passage above all associated questions, single page"
+    "group_layout": "complete passage above all associated questions, single page",
+    "explanation_en": "In the passage: the answer is dining room."
   },
   {
     "grade": "P2",
@@ -3174,7 +3245,8 @@
     "requires_image": false,
     "passage": "This is my living room. There is a table next to the window. There is a lamp on the table. There is a red couch. I love my home.",
     "source_group": "gem-p235-reading-5",
-    "group_layout": "complete passage above all associated questions, single page"
+    "group_layout": "complete passage above all associated questions, single page",
+    "explanation_en": "In the passage: the answer is table."
   },
   {
     "grade": "P2",
@@ -3208,7 +3280,8 @@
     "requires_image": false,
     "passage": "This is my living room. There is a table next to the window. There is a lamp on the table. There is a red couch. I love my home.",
     "source_group": "gem-p235-reading-5",
-    "group_layout": "complete passage above all associated questions, single page"
+    "group_layout": "complete passage above all associated questions, single page",
+    "explanation_en": "In the passage: the answer is red."
   },
   {
     "grade": "P2",
@@ -3242,7 +3315,8 @@
     "requires_image": false,
     "passage": "My name is Eyad. My bedroom is big. There is a bed in my bedroom. There is a table next to the bed. There is one chair.",
     "source_group": "gem-p239-reading-5",
-    "group_layout": "complete passage above all associated questions, single page"
+    "group_layout": "complete passage above all associated questions, single page",
+    "explanation_en": "In the passage: the answer is big."
   },
   {
     "grade": "P2",
@@ -3276,7 +3350,8 @@
     "requires_image": false,
     "passage": "My name is Eyad. My bedroom is big. There is a bed in my bedroom. There is a table next to the bed. There is one chair.",
     "source_group": "gem-p239-reading-5",
-    "group_layout": "complete passage above all associated questions, single page"
+    "group_layout": "complete passage above all associated questions, single page",
+    "explanation_en": "In the passage: the answer is next to."
   },
   {
     "grade": "P2",
@@ -3430,7 +3505,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "There is a is followed by a singular noun: garden."
   },
   {
     "grade": "P2",
@@ -3462,7 +3538,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "six is plural: chairs."
   },
   {
     "grade": "P2",
@@ -3572,7 +3649,8 @@
     ],
     "image": "",
     "alt": "",
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "How many asks about plurals: beds."
   },
   {
     "grade": "P2",
@@ -3650,7 +3728,8 @@
     "requires_image": false,
     "source_group": "gem-p249-reading-5",
     "group_layout": "complete passage above all associated questions, single page",
-    "passage": "I'm Ali. In the morning, I brush my teeth in the bathroom. I eat breakfast in the dining room. I play with my brother in the garden."
+    "passage": "I'm Ali. In the morning, I brush my teeth in the bathroom. I eat breakfast in the dining room. I play with my brother in the garden.",
+    "explanation_en": "The text says: I eat breakfast in the dining room."
   },
   {
     "grade": "P2",
@@ -3684,7 +3763,8 @@
     "requires_image": false,
     "source_group": "gem-p249-reading-5",
     "group_layout": "complete passage above all associated questions, single page",
-    "passage": "I'm Ali. In the morning, I brush my teeth in the bathroom. I eat breakfast in the dining room. I play with my brother in the garden."
+    "passage": "I'm Ali. In the morning, I brush my teeth in the bathroom. I eat breakfast in the dining room. I play with my brother in the garden.",
+    "explanation_en": "He plays in the garden, not the kitchen."
   },
   {
     "grade": "P2",
@@ -3718,7 +3798,8 @@
     "requires_image": false,
     "source_group": "gem-p253-reading-5",
     "group_layout": "complete passage above all associated questions, single page",
-    "passage": "I'm Nour. This is my house. There are two bedrooms. My bedroom is next to the kitchen. There is a small balcony. I love my home."
+    "passage": "I'm Nour. This is my house. There are two bedrooms. My bedroom is next to the kitchen. There is a small balcony. I love my home.",
+    "explanation_en": "The text says: next to the kitchen."
   },
   {
     "grade": "P2",
@@ -3752,7 +3833,8 @@
     "requires_image": false,
     "source_group": "gem-p253-reading-5",
     "group_layout": "complete passage above all associated questions, single page",
-    "passage": "I'm Nour. This is my house. There are two bedrooms. My bedroom is next to the kitchen. There is a small balcony. I love my home."
+    "passage": "I'm Nour. This is my house. There are two bedrooms. My bedroom is next to the kitchen. There is a small balcony. I love my home.",
+    "explanation_en": "The text says: small balcony."
   },
   {
     "grade": "P2",
@@ -3788,7 +3870,8 @@
     "picture_crop": "reused room illustration from GEM p168; printed GEM picture is a bed",
     "accept": [
       "bed"
-    ]
+    ],
+    "explanation_en": "These letters make bed, meaning سرير."
   },
   {
     "grade": "P2",
@@ -4397,7 +4480,8 @@
       "ministry_lesson": "Unit 6 Lesson 1",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "hall (the inside hall) is a place in the house. plate and lamp are things."
   },
   {
     "id": "orig-p2-u6l1-02",
@@ -4433,7 +4517,8 @@
       "ministry_lesson": "Unit 6 Lesson 1",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The letters are arranged into the word kitchen, meaning مطبخ."
   },
   {
     "id": "orig-p2-u6l1-03",
@@ -4462,7 +4547,8 @@
       "ministry_lesson": "Unit 6 Lesson 1",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The correct spelling is kitchen."
   },
   {
     "id": "orig-p2-u6l1-04",
@@ -4491,7 +4577,8 @@
       "ministry_lesson": "Unit 6 Lesson 1",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The correct spelling is balcony."
   },
   {
     "id": "orig-p2-u6l1-05",
@@ -4520,7 +4607,8 @@
       "ministry_lesson": "Unit 6 Lesson 1",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The correct spelling is garden."
   },
   {
     "id": "orig-p2-u6l1-06",
@@ -4549,7 +4637,8 @@
       "ministry_lesson": "Unit 6 Lesson 1",
       "status": "Original practice aligned to cited lesson. Not a printed exercise."
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The correct spelling is bathroom."
   },
   {
     "id": "orig-p2-u6l1-07",
@@ -4578,7 +4667,8 @@
       "ministry_lesson": "Unit 6 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "balcony means شرفة (بلكونة)."
   },
   {
     "id": "orig-p2-u6l1-08",
@@ -4607,7 +4697,8 @@
       "ministry_lesson": "Unit 6 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "hall means صالة (ممر)."
   },
   {
     "id": "orig-p2-u6l1-09",
@@ -4636,7 +4727,8 @@
       "ministry_lesson": "Unit 6 Lesson 1",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "garden means حديقة."
   },
   {
     "id": "orig-p2-u6l1-10",
@@ -4710,7 +4802,8 @@
       "ministry_lesson": "Unit 6 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence: We cook dinner in the kitchen."
   },
   {
     "id": "orig-p2-u6l2-02",
@@ -4757,7 +4850,8 @@
       "ministry_lesson": "Unit 6 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence: I brush my teeth in the bathroom."
   },
   {
     "id": "orig-p2-u6l2-03",
@@ -4804,7 +4898,8 @@
       "ministry_lesson": "Unit 6 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The sentence: We watch TV in the living room."
   },
   {
     "id": "orig-p2-u6l2-04",
@@ -4833,7 +4928,8 @@
       "ministry_lesson": "Unit 6 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The question is about a place, and the correct reply: I eat in the kitchen."
   },
   {
     "id": "orig-p2-u6l2-05",
@@ -4862,7 +4958,8 @@
       "ministry_lesson": "Unit 6 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The question is about a place, and the correct reply: I watch TV in the living room."
   },
   {
     "id": "orig-p2-u6l2-06",
@@ -4891,7 +4988,8 @@
       "ministry_lesson": "Unit 6 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The question is about a place, and the correct reply: It is in the dining room."
   },
   {
     "id": "orig-p2-u6l2-07",
@@ -4920,7 +5018,8 @@
       "ministry_lesson": "Unit 6 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "The question is about a place, and the correct reply: It is next to the window."
   },
   {
     "id": "orig-p2-u6l2-08",
@@ -4949,7 +5048,8 @@
       "ministry_lesson": "Unit 6 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "We eat in the dining room: dining room."
   },
   {
     "id": "orig-p2-u6l2-09",
@@ -4978,6 +5078,7 @@
       "ministry_lesson": "Unit 6 Lesson 2",
       "status": "Supplemental source-aligned adaptation"
     },
-    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified."
+    "qa_status": "Source page pixels, schema, canonical answer, incorrect answer and navigation checked locally; public deployment not yet verified.",
+    "explanation_en": "Flowers and trees are in the garden: garden."
   }
 ]

@@ -22,7 +22,8 @@
     "image_optional": [
       "head"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "head means الراس."
   },
   {
     "grade": "P1",
@@ -47,7 +48,8 @@
     "image_optional": [
       "eye"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "eye means عين, and two eyes = eyes."
   },
   {
     "grade": "P1",
@@ -72,7 +74,8 @@
     "image_optional": [
       "ear"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "ear means ودن."
   },
   {
     "grade": "P1",
@@ -97,7 +100,8 @@
     "image_optional": [
       "nose"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "nose means أنف."
   },
   {
     "grade": "P1",
@@ -122,7 +126,8 @@
     "image_optional": [
       "mouth"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "mouth means بُق."
   },
   {
     "grade": "P1",
@@ -147,7 +152,8 @@
     "image_optional": [
       "tongue"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "tongue means لسان."
   },
   {
     "grade": "P1",
@@ -172,7 +178,8 @@
     "image_optional": [
       "hand"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hand means إيد, and two hands = hands."
   },
   {
     "grade": "P1",
@@ -222,7 +229,8 @@
     "image_optional": [
       "foot"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "foot is one foot, and its plural is feet (not foots)."
   },
   {
     "grade": "P1",
@@ -247,7 +255,8 @@
     "image_optional": [
       "toes"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "toes means صوابع الرجل."
   },
   {
     "grade": "P1",
@@ -272,7 +281,8 @@
     "image_optional": [
       "arms"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "arms is the plural of arm, meaning two arms."
   },
   {
     "grade": "P1",
@@ -295,7 +305,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We have two eyes, so we say 2 eyes."
   },
   {
     "grade": "P1",
@@ -318,7 +329,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We have two ears, so we say 2 ears."
   },
   {
     "grade": "P1",
@@ -341,7 +353,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We have one mouth: 1 mouth."
   },
   {
     "grade": "P1",
@@ -364,7 +377,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We have one nose: 1 nose."
   },
   {
     "grade": "P1",
@@ -387,7 +401,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Two legs = 2 legs."
   },
   {
     "grade": "P1",
@@ -412,7 +427,8 @@
     "image_optional": [
       "foot"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "A foot has 5 toes: 5 toes."
   },
   {
     "grade": "P1",
@@ -437,7 +453,8 @@
     "image_optional": [
       "eyes"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We have two eyes: 2."
   },
   {
     "grade": "P1",
@@ -460,7 +477,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We have one mouth: 1."
   },
   {
     "grade": "P1",
@@ -485,7 +503,8 @@
     "image_optional": [
       "hands"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We have two hands: 2."
   },
   {
     "grade": "P1",
@@ -510,7 +529,8 @@
     "image_optional": [
       "feet"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We have two feet: 2 feet."
   },
   {
     "grade": "P1",
@@ -533,7 +553,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The nose is one, and the others are two."
   },
   {
     "grade": "P1",
@@ -556,7 +577,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "feet is the plural of foot."
   },
   {
     "grade": "P1",
@@ -579,7 +601,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "desk is a desk, not a part of the body."
   },
   {
     "grade": "P1",
@@ -648,7 +671,8 @@
     "image_optional": [
       "ears"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We have two ears."
   },
   {
     "grade": "P1",
@@ -671,7 +695,8 @@
     "image_optional": [
       "eyes"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We have two eyes, not 3."
   },
   {
     "grade": "P1",
@@ -695,7 +720,8 @@
       "foot",
       "toes"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each foot has 5 toes."
   },
   {
     "grade": "P1",
@@ -731,7 +757,8 @@
     "accept": [
       "I have 2 eyes."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: I have 2 eyes."
   },
   {
     "grade": "P1",
@@ -767,7 +794,8 @@
     "accept": [
       "I have 1 nose."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: I have 1 nose."
   },
   {
     "grade": "P1",
@@ -803,7 +831,8 @@
     "accept": [
       "I have 2 legs."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: I have 2 legs."
   },
   {
     "grade": "P1",
@@ -825,7 +854,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word ear: e-a-r."
   },
   {
     "grade": "P1",
@@ -847,7 +877,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word nose: n-o-s-e."
   },
   {
     "grade": "P1",
@@ -869,7 +900,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word hand: h-a-n-d."
   },
   {
     "grade": "P1",
@@ -940,7 +972,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has its own box. 1: eyes. 2: 1 أو one. 3: mouth. 4: toes."
   },
   {
     "grade": "P1",
@@ -963,7 +996,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word rabbit starts with the letter Rr. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -986,7 +1020,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word red starts with the letter Rr. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1009,7 +1044,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word ring starts with the letter Rr. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1032,7 +1068,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word robot starts with the letter Rr. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1057,7 +1094,8 @@
     "image_optional": [
       "rabbit"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "rabbit and red start with the letter Rr."
   },
   {
     "grade": "P1",
@@ -1155,7 +1193,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Capital R and small r."
   },
   {
     "grade": "P1",
@@ -1178,7 +1217,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Small r and capital R."
   },
   {
     "grade": "P1",
@@ -1203,7 +1243,8 @@
     "image_optional": [
       "rabbit"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "rabbit means أرنب."
   },
   {
     "grade": "P1",
@@ -1228,7 +1269,8 @@
     "image_optional": [
       "red"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "red means أحمر."
   },
   {
     "grade": "P1",
@@ -1253,7 +1295,8 @@
     "image_optional": [
       "ring"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "ring means خاتم."
   },
   {
     "grade": "P1",
@@ -1322,7 +1365,8 @@
     "image_optional": [
       "egg"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "egg starts with a different letter from R."
   },
   {
     "grade": "P1",
@@ -1344,7 +1388,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of rabbit is r."
   },
   {
     "grade": "P1",
@@ -1366,7 +1411,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of red is r."
   },
   {
     "grade": "P1",
@@ -1397,7 +1443,8 @@
       "rabbit"
     ],
     "image": "p1-lessons-assets/img/kg-rabbit.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: r-a-b-b-i-t."
   },
   {
     "grade": "P1",
@@ -1425,7 +1472,8 @@
       "red"
     ],
     "image": "p1-lessons-assets/img/color-red.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: r-e-d."
   },
   {
     "grade": "P1",
@@ -1448,7 +1496,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word egg starts with the letter Ee. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1471,7 +1520,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word elephant starts with the letter Ee. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1494,7 +1544,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word elbow starts with the letter Ee. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1517,7 +1568,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word eggplant starts with the letter Ee. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -1542,7 +1594,8 @@
     "image_optional": [
       "egg"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "egg and elephant start with the letter Ee."
   },
   {
     "grade": "P1",
@@ -1617,7 +1670,8 @@
     "image_optional": [
       "elbow"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "elbow starts with the letter e."
   },
   {
     "grade": "P1",
@@ -1640,7 +1694,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Capital E and small e."
   },
   {
     "grade": "P1",
@@ -1663,7 +1718,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Small e and capital E."
   },
   {
     "grade": "P1",
@@ -1688,7 +1744,8 @@
     "image_optional": [
       "egg"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "egg means بيضة."
   },
   {
     "grade": "P1",
@@ -1713,7 +1770,8 @@
     "image_optional": [
       "elephant"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "elephant means فيل."
   },
   {
     "grade": "P1",
@@ -1738,7 +1796,8 @@
     "image_optional": [
       "elbow"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "elbow means كوع."
   },
   {
     "grade": "P1",
@@ -1807,7 +1866,8 @@
     "image_optional": [
       "rabbit"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "rabbit starts with a different letter from E."
   },
   {
     "grade": "P1",
@@ -1829,7 +1889,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of egg is e."
   },
   {
     "grade": "P1",
@@ -1851,7 +1912,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of elephant is e."
   },
   {
     "grade": "P1",
@@ -1879,7 +1941,8 @@
       "egg"
     ],
     "image": "p1-lessons-assets/img/obj-egg.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: e-g-g."
   },
   {
     "grade": "P1",
@@ -1912,7 +1975,8 @@
       "elephant"
     ],
     "image": "p1-lessons-assets/img/kg-elephant.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: e-l-e-p-h-a-n-t."
   },
   {
     "grade": "P1",
@@ -1935,7 +1999,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "rabbit starts with r."
   },
   {
     "grade": "P1",
@@ -1958,7 +2023,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "elephant starts with e."
   },
   {
     "grade": "P1",
@@ -1981,7 +2047,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word egg."
   },
   {
     "grade": "P1",
@@ -2004,7 +2071,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word red."
   },
   {
     "grade": "P1",
@@ -2027,7 +2095,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "see means يشوف."
   },
   {
     "grade": "P1",
@@ -2050,7 +2119,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "hear means يسمع."
   },
   {
     "grade": "P1",
@@ -2073,7 +2143,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "smell means يشم."
   },
   {
     "grade": "P1",
@@ -2096,7 +2167,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "taste means يدوق."
   },
   {
     "grade": "P1",
@@ -2119,7 +2191,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "touch means يلمس."
   },
   {
     "grade": "P1",
@@ -2142,7 +2215,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We see with our eyes."
   },
   {
     "grade": "P1",
@@ -2165,7 +2239,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We hear with our ears."
   },
   {
     "grade": "P1",
@@ -2211,7 +2286,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We taste with the tongue."
   },
   {
     "grade": "P1",
@@ -2234,7 +2310,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We touch with our hands."
   },
   {
     "grade": "P1",
@@ -2259,7 +2336,8 @@
     "image_optional": [
       "eyes"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "العين للرؤية: see."
   },
   {
     "grade": "P1",
@@ -2284,7 +2362,8 @@
     "image_optional": [
       "ears"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "الودن للسمع: hear."
   },
   {
     "grade": "P1",
@@ -2309,7 +2388,8 @@
     "image_optional": [
       "nose"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "الأنف للشم: smell."
   },
   {
     "grade": "P1",
@@ -2334,7 +2414,8 @@
     "image_optional": [
       "tongue"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "اللسان للدوق: taste."
   },
   {
     "grade": "P1",
@@ -2359,7 +2440,8 @@
     "image_optional": [
       "hands"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "الإيد للمس: touch."
   },
   {
     "grade": "P1",
@@ -2382,7 +2464,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We feel the flavor of food: taste."
   },
   {
     "grade": "P1",
@@ -2405,7 +2488,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "الموسيقى بنسمعها: hear."
   },
   {
     "grade": "P1",
@@ -2428,7 +2512,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We look at the flower: see."
   },
   {
     "grade": "P1",
@@ -2474,7 +2559,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "We have 5 senses: see, hear, smell, taste, touch."
   },
   {
     "grade": "P1",
@@ -2497,7 +2583,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "jump means يقفز، مش حاسة."
   },
   {
     "grade": "P1",
@@ -2522,7 +2609,8 @@
     "image_optional": [
       "ears"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The ear = hear."
   },
   {
     "grade": "P1",
@@ -2545,7 +2633,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The nose goes with smell."
   },
   {
     "grade": "P1",
@@ -2566,7 +2655,8 @@
     "passage": "Aly: Hi, Omar!\nOmar: Hi, Aly. Let's talk about our senses.\nAly: Tell me. What can you see?\nOmar: I can see the teacher and the desk.\nAly: Look! A flower!\nOmar: Wow! I can see it with my eyes.\nAly: I can smell it with my nose. It smells nice!\nOmar: I can hear the teacher with my ears.\nAly: I can touch the desk with my hands.\nOmar: I have an apple. I can taste it with my tongue!",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the text Omar says I can see the teacher and the desk."
   },
   {
     "grade": "P1",
@@ -2589,7 +2679,8 @@
     "image_optional": [
       "ears"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Aly smells it with the nose, not the ear: I can smell it with my nose."
   },
   {
     "grade": "P1",
@@ -2612,7 +2703,8 @@
     "image_optional": [
       "tongue"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "النص: I can taste it with my tongue."
   },
   {
     "grade": "P1",
@@ -2635,7 +2727,8 @@
     "passage": "Aly: Hi, Omar!\nOmar: Hi, Aly. Let's talk about our senses.\nAly: Tell me. What can you see?\nOmar: I can see the teacher and the desk.\nAly: Look! A flower!\nOmar: Wow! I can see it with my eyes.\nAly: I can smell it with my nose. It smells nice!\nOmar: I can hear the teacher with my ears.\nAly: I can touch the desk with my hands.\nOmar: I have an apple. I can taste it with my tongue!",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Aly says I can touch the desk with my hands."
   },
   {
     "grade": "P1",
@@ -2658,7 +2751,8 @@
     "passage": "Aly: Hi, Omar!\nOmar: Hi, Aly. Let's talk about our senses.\nAly: Tell me. What can you see?\nOmar: I can see the teacher and the desk.\nAly: Look! A flower!\nOmar: Wow! I can see it with my eyes.\nAly: I can smell it with my nose. It smells nice!\nOmar: I can hear the teacher with my ears.\nAly: I can touch the desk with my hands.\nOmar: I have an apple. I can taste it with my tongue!",
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Omar says I can hear the teacher with my ears."
   },
   {
     "grade": "P1",
@@ -2698,7 +2792,8 @@
     "accept": [
       "I can see with my eyes."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: I can see with my eyes."
   },
   {
     "grade": "P1",
@@ -2738,7 +2833,8 @@
     "accept": [
       "I can hear with my ears."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: I can hear with my ears."
   },
   {
     "grade": "P1",
@@ -2778,7 +2874,8 @@
     "accept": [
       "I can smell with my nose."
     ],
-    "join_rule": "tokens joined with single spaces, then space before final . or ? removed"
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "explanation_en": "The sentence: I can smell with my nose."
   },
   {
     "grade": "P1",
@@ -2800,7 +2897,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word smell has two letters l at the end."
   },
   {
     "grade": "P1",
@@ -2822,7 +2920,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word touch: t-o-u-c-h."
   },
   {
     "grade": "P1",
@@ -2898,7 +2997,8 @@
     "passage": null,
     "answer_kind": "blanks_text",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Each blank has its own box. 1: senses (حواسنا). 2: eyes. 3: smell بالأنف. 4: hear بالودن. 5: hands بالإيدين."
   },
   {
     "grade": "P1",
@@ -2921,7 +3021,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word cat starts with the letter Cc. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -2944,7 +3045,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word cake starts with the letter Cc. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -2967,7 +3069,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word cup starts with the letter Cc. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -2990,7 +3093,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word car starts with the letter Cc. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -3015,7 +3119,8 @@
     "image_optional": [
       "cat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cat and cake start with the letter Cc."
   },
   {
     "grade": "P1",
@@ -3113,7 +3218,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Capital C and small c."
   },
   {
     "grade": "P1",
@@ -3136,7 +3242,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Small c and capital C."
   },
   {
     "grade": "P1",
@@ -3161,7 +3268,8 @@
     "image_optional": [
       "cat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cat means قطة."
   },
   {
     "grade": "P1",
@@ -3186,7 +3294,8 @@
     "image_optional": [
       "cake"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cake means كيكة."
   },
   {
     "grade": "P1",
@@ -3211,7 +3320,8 @@
     "image_optional": [
       "cup"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cup means كوب."
   },
   {
     "grade": "P1",
@@ -3280,7 +3390,8 @@
     "image_optional": [
       "kite"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "kite starts with a different letter from C."
   },
   {
     "grade": "P1",
@@ -3302,7 +3413,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of cat is c."
   },
   {
     "grade": "P1",
@@ -3324,7 +3436,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of cake is c."
   },
   {
     "grade": "P1",
@@ -3352,7 +3465,8 @@
       "cat"
     ],
     "image": "p1-lessons-assets/img/kg-cat.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: c-a-t."
   },
   {
     "grade": "P1",
@@ -3381,7 +3495,8 @@
       "cake"
     ],
     "image": "p1-lessons-assets/img/obj-cake.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: c-a-k-e."
   },
   {
     "grade": "P1",
@@ -3404,7 +3519,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word kite starts with the letter Kk. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -3427,7 +3543,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word king starts with the letter Kk. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -3450,7 +3567,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word key starts with the letter Kk. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -3473,7 +3591,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word kitchen starts with the letter Kk. The other words start with different letters."
   },
   {
     "grade": "P1",
@@ -3498,7 +3617,8 @@
     "image_optional": [
       "kite"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "kite and king start with the letter Kk."
   },
   {
     "grade": "P1",
@@ -3596,7 +3716,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Capital K and small k."
   },
   {
     "grade": "P1",
@@ -3619,7 +3740,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "Small k and capital K."
   },
   {
     "grade": "P1",
@@ -3644,7 +3766,8 @@
     "image_optional": [
       "kite"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "kite means طيارة ورق."
   },
   {
     "grade": "P1",
@@ -3669,7 +3792,8 @@
     "image_optional": [
       "king"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "king means ملك."
   },
   {
     "grade": "P1",
@@ -3694,7 +3818,8 @@
     "image_optional": [
       "key"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "key means مفتاح."
   },
   {
     "grade": "P1",
@@ -3763,7 +3888,8 @@
     "image_optional": [
       "cat"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cat starts with a different letter from K."
   },
   {
     "grade": "P1",
@@ -3785,7 +3911,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of kite is k."
   },
   {
     "grade": "P1",
@@ -3807,7 +3934,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The first letter of king is k."
   },
   {
     "grade": "P1",
@@ -3836,7 +3964,8 @@
       "kite"
     ],
     "image": "p1-lessons-assets/img/obj-kite.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: k-i-t-e."
   },
   {
     "grade": "P1",
@@ -3865,7 +3994,8 @@
       "king"
     ],
     "image": "p1-lessons-assets/img/audit-king-only.png",
-    "alt": "Picture clue for the word"
+    "alt": "Picture clue for the word",
+    "explanation_en": "Order the letters: k-i-n-g."
   },
   {
     "grade": "P1",
@@ -3888,7 +4018,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "cat starts with c."
   },
   {
     "grade": "P1",
@@ -3911,7 +4042,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "kite starts with k."
   },
   {
     "grade": "P1",
@@ -3934,7 +4066,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word cake."
   },
   {
     "grade": "P1",
@@ -3957,7 +4090,8 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The word king."
   },
   {
     "grade": "P1",
@@ -3982,7 +4116,8 @@
     "image": "p1-lessons-assets/img/kg-egg.png",
     "alt": "a picture of a egg",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows بيضة. The word in English is egg."
   },
   {
     "grade": "P1",
@@ -4032,7 +4167,8 @@
     "image": "p1-lessons-assets/img/obj-ring.png",
     "alt": "a picture of a ring",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows خاتم. The word in English is ring."
   },
   {
     "grade": "P1",
@@ -4082,7 +4218,8 @@
     "image": "p1-lessons-assets/img/obj-cake.png",
     "alt": "a picture of a cake",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows كيكة. The word in English is cake."
   },
   {
     "grade": "P1",
@@ -4132,7 +4269,8 @@
     "image": "p1-lessons-assets/img/obj-cup.png",
     "alt": "a picture of a cup",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows كوب. The word in English is cup."
   },
   {
     "grade": "P1",
@@ -4182,7 +4320,8 @@
     "image": "p1-lessons-assets/img/obj-key.png",
     "alt": "a picture of a key",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows مفتاح. The word in English is key."
   },
   {
     "grade": "P1",
@@ -4232,7 +4371,8 @@
     "image": "p1-lessons-assets/img/kg-kite.png",
     "alt": "a picture of a kite",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows طيارة ورق. The word in English is kite."
   },
   {
     "grade": "P1",
@@ -4282,7 +4422,8 @@
     "image": "p1-lessons-assets/img/kg-head.png",
     "alt": "picture: head",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows راس. The word in English is head."
   },
   {
     "grade": "P1",
@@ -4307,7 +4448,8 @@
     "image": "p1-lessons-assets/img/kg-eyes.png",
     "alt": "picture: eyes",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows عينين. The word in English is eyes."
   },
   {
     "grade": "P1",
@@ -4332,7 +4474,8 @@
     "image": "p1-lessons-assets/img/kg-eyes.png",
     "alt": "picture: eyes",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Two eyes: 2."
   },
   {
     "grade": "P1",
@@ -4357,7 +4500,8 @@
     "image": "p1-lessons-assets/img/kg-ears-hl.png",
     "alt": "back of a boy's head with a red circle around each ear",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows ودنين. The word in English is ears."
   },
   {
     "grade": "P1",
@@ -4407,7 +4551,8 @@
     "image": "p1-lessons-assets/img/kg-mouth.png",
     "alt": "picture: mouth",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows بُق. The word in English is mouth."
   },
   {
     "grade": "P1",
@@ -4457,7 +4602,8 @@
     "image": "p1-lessons-assets/img/kg-hands.png",
     "alt": "picture: hands",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Two hands: 2."
   },
   {
     "grade": "P1",
@@ -4482,7 +4628,8 @@
     "image": "p1-lessons-assets/img/kg-arms.png",
     "alt": "picture: arms",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows دراعين. The word in English is arms."
   },
   {
     "grade": "P1",
@@ -4507,7 +4654,8 @@
     "image": "p1-lessons-assets/img/kg-legs.png",
     "alt": "picture: legs",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows رجلين. The word in English is legs."
   },
   {
     "grade": "P1",
@@ -4532,7 +4680,8 @@
     "image": "p1-lessons-assets/img/kg-legs.png",
     "alt": "picture: legs",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Two legs: 2."
   },
   {
     "grade": "P1",
@@ -4557,7 +4706,8 @@
     "image": "p1-lessons-assets/img/kg-feet.png",
     "alt": "picture: feet",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows قدمين. The word in English is feet."
   },
   {
     "grade": "P1",
@@ -4582,7 +4732,8 @@
     "image": "p1-lessons-assets/img/kg-feet.png",
     "alt": "picture: feet",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "Two feet: 2."
   },
   {
     "grade": "P1",
@@ -4632,7 +4783,8 @@
     "image": "p1-lessons-assets/img/kg-rabbit.png",
     "alt": "picture: rabbit",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The picture shows أرنب. The word in English is rabbit."
   },
   {
     "grade": "P1",
@@ -4730,7 +4882,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: head (رأس). 2: eyes (عينين). 3: ears (ودانين). 4: nose (أنف). 5: mouth (بُق).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own box. 1: head (رأس). 2: eyes (عينين). 3: ears (ودانين). 4: nose (أنف). 5: mouth (بُق)."
   },
   {
     "grade": "P1",
@@ -4793,7 +4946,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: hands (إيدين). 2: legs (رجلين). 3: toes (صوابع الرجل). 4: arms (دراعين).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own box. 1: hands (إيدين). 2: legs (رجلين). 3: toes (صوابع الرجل). 4: arms (دراعين)."
   },
   {
     "grade": "P1",
@@ -4815,7 +4969,8 @@
       "foot"
     ],
     "explanation_ar": "الإجابة foot، معناها قدم.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is foot, meaning قدم."
   },
   {
     "grade": "P1",
@@ -4837,7 +4992,8 @@
       "hands"
     ],
     "explanation_ar": "الإجابة hands، معناها إيدين.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is hands, meaning إيدين."
   },
   {
     "grade": "P1",
@@ -4859,7 +5015,8 @@
       "head"
     ],
     "explanation_ar": "الإجابة head، معناها رأس.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is head, meaning رأس."
   },
   {
     "grade": "P1",
@@ -4881,7 +5038,8 @@
       "mouth"
     ],
     "explanation_ar": "الإجابة mouth، معناها بُق.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is mouth, meaning بُق."
   },
   {
     "grade": "P1",
@@ -4938,7 +5096,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: rabbit (أرنب). 2: red (أحمر). 3: ring (خاتم).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own box. 1: rabbit (أرنب). 2: red (أحمر). 3: ring (خاتم)."
   },
   {
     "grade": "P1",
@@ -4981,7 +5140,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: egg (بيضة). 2: elephant (فيل).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own box. 1: egg (بيضة). 2: elephant (فيل)."
   },
   {
     "grade": "P1",
@@ -5003,7 +5163,8 @@
       "rabbit"
     ],
     "explanation_ar": "الإجابة rabbit، معناها أرنب.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is rabbit, meaning أرنب."
   },
   {
     "grade": "P1",
@@ -5025,7 +5186,8 @@
       "egg"
     ],
     "explanation_ar": "الإجابة egg، معناها بيضة.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is egg, meaning بيضة."
   },
   {
     "grade": "P1",
@@ -5069,7 +5231,8 @@
       "ring"
     ],
     "explanation_ar": "الإجابة ring، معناها خاتم.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is ring, meaning خاتم."
   },
   {
     "grade": "P1",
@@ -5091,7 +5254,8 @@
       "elbow"
     ],
     "explanation_ar": "الإجابة elbow، معناها كوع.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is elbow, meaning كوع."
   },
   {
     "grade": "P1",
@@ -5164,7 +5328,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: see (نشوف). 2: hear (نسمع). 3: smell (نشم). 4: taste (ندوق). 5: touch (نلمس).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own box. 1: see (نشوف). 2: hear (نسمع). 3: smell (نشم). 4: taste (ندوق). 5: touch (نلمس)."
   },
   {
     "grade": "P1",
@@ -5244,7 +5409,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: ears (ودانين). 2: nose (أنف). 3: tongue (لسان). 4: five (خمسة).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own box. 1: ears (ودانين). 2: nose (أنف). 3: tongue (لسان). 4: five (خمسة)."
   },
   {
     "grade": "P1",
@@ -5266,7 +5432,8 @@
       "hear"
     ],
     "explanation_ar": "الإجابة hear، معناها أسمع.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is hear, meaning أسمع."
   },
   {
     "grade": "P1",
@@ -5288,7 +5455,8 @@
       "smell"
     ],
     "explanation_ar": "الإجابة smell، معناها أشم.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is smell, meaning أشم."
   },
   {
     "grade": "P1",
@@ -5310,7 +5478,8 @@
       "taste"
     ],
     "explanation_ar": "الإجابة taste، معناها أدوق.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is taste, meaning أدوق."
   },
   {
     "grade": "P1",
@@ -5332,7 +5501,8 @@
       "touch"
     ],
     "explanation_ar": "الإجابة touch، معناها ألمس.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is touch, meaning ألمس."
   },
   {
     "grade": "P1",
@@ -5385,7 +5555,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: cake (كيكة). 2: cup (كوب). 3: cat (قطة).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own box. 1: cake (كيكة). 2: cup (كوب). 3: cat (قطة)."
   },
   {
     "grade": "P1",
@@ -5428,7 +5599,8 @@
     ],
     "answer": null,
     "explanation_ar": "كل فراغ له خانة. 1: kite (طيارة ورق). 2: key (مفتاح).",
-    "answer_kind": "blanks_text"
+    "answer_kind": "blanks_text",
+    "explanation_en": "Each blank has its own box. 1: kite (طيارة ورق). 2: key (مفتاح)."
   },
   {
     "grade": "P1",
@@ -5450,7 +5622,8 @@
       "cat"
     ],
     "explanation_ar": "الإجابة cat، معناها قطة.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is cat, meaning قطة."
   },
   {
     "grade": "P1",
@@ -5472,7 +5645,8 @@
       "cup"
     ],
     "explanation_ar": "الإجابة cup، معناها كوب.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is cup, meaning كوب."
   },
   {
     "grade": "P1",
@@ -5494,7 +5668,8 @@
       "kite"
     ],
     "explanation_ar": "الإجابة kite، معناها طيارة ورق.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is kite, meaning طيارة ورق."
   },
   {
     "grade": "P1",
@@ -5516,7 +5691,8 @@
       "key"
     ],
     "explanation_ar": "الإجابة key، معناها مفتاح.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is key, meaning مفتاح."
   },
   {
     "grade": "P1",
@@ -5538,6 +5714,7 @@
       "king"
     ],
     "explanation_ar": "الإجابة king، معناها ملك.",
-    "answer_kind": "text_key"
+    "answer_kind": "text_key",
+    "explanation_en": "The answer is king, meaning ملك."
   }
 ]

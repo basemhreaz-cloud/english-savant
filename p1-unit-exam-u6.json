@@ -441,7 +441,8 @@
     "image": "p1-lessons-assets/img/obj-leaf.png",
     "alt": "a picture of a leaf",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "leaf starts with the letter l."
   },
   {
     "grade": "P1",
@@ -617,7 +618,8 @@
     "image": "p1-lessons-assets/img/ball-on-table.png",
     "alt": "a blue ball on a wooden table",
     "requires_image": true,
-    "image_optional": null
+    "image_optional": null,
+    "explanation_en": "The ball is on the table: on."
   },
   {
     "grade": "P1",
@@ -917,7 +919,8 @@
     "image_optional": [
       "up"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "up means لفوق."
   },
   {
     "grade": "P1",
@@ -963,7 +966,8 @@
     "answer_kind": "text_key",
     "image_optional": null,
     "requires_image": false,
-    "hint_ar": "لفوق"
+    "hint_ar": "لفوق",
+    "explanation_en": "The first letter of up is u."
   },
   {
     "grade": "P1",
@@ -1013,7 +1017,8 @@
     "image_optional": [
       "jam"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "jam means مربى."
   },
   {
     "grade": "P1",
@@ -1036,7 +1041,8 @@
     "image_optional": [
       "jam"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "jam starts with a different letter from U."
   },
   {
     "grade": "P1",
@@ -1067,7 +1073,8 @@
       "jacket"
     ],
     "image": "p1-lessons-assets/img/obj-jacket.png",
-    "alt": "a jacket"
+    "alt": "a jacket",
+    "explanation_en": "Order the letters: j-a-c-k-e-t."
   },
   {
     "grade": "P1",
@@ -1090,6 +1097,7 @@
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "umbrella starts with u."
   }
 ]
