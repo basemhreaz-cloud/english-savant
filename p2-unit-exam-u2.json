@@ -23,7 +23,8 @@
     "alt": "Picture from the unit practice exercise",
     "accept": [
       "o"
-    ]
+    ],
+    "explanation_en": "The missing letter is o, so the word becomes dog. Look at the picture."
   },
   {
     "grade": "P2",
@@ -49,7 +50,8 @@
     "alt": "Picture from the unit practice exercise",
     "accept": [
       "a"
-    ]
+    ],
+    "explanation_en": "The missing letter is a, so the word becomes gate. Look at the picture."
   },
   {
     "grade": "P2",
@@ -75,7 +77,8 @@
     "alt": "Picture from the unit practice exercise",
     "accept": [
       "o"
-    ]
+    ],
+    "explanation_en": "The missing letter is o, so the word becomes box. Look at the picture."
   },
   {
     "grade": "P2",
@@ -101,7 +104,8 @@
     "alt": "Picture from the unit practice exercise",
     "accept": [
       "u"
-    ]
+    ],
+    "explanation_en": "The missing letter is u, so the word becomes sun. Look at the picture."
   },
   {
     "grade": "P2",
@@ -133,7 +137,8 @@
       "orange": "p2-lessons-assets/img/p2-u2exam-orange.png",
       "yellow": "p2-lessons-assets/img/p2-u2exam-yellow.png",
       "square": "p2-lessons-assets/img/p2-u2exam-square.png"
-    }
+    },
+    "explanation_en": "Choose the picture that matches the word three."
   },
   {
     "grade": "P2",
@@ -165,7 +170,8 @@
       "orange": "p2-lessons-assets/img/p2-u2exam-orange.png",
       "yellow": "p2-lessons-assets/img/p2-u2exam-yellow.png",
       "square": "p2-lessons-assets/img/p2-u2exam-square.png"
-    }
+    },
+    "explanation_en": "Choose the picture that matches the word orange."
   },
   {
     "grade": "P2",
@@ -197,7 +203,8 @@
       "orange": "p2-lessons-assets/img/p2-u2exam-orange.png",
       "yellow": "p2-lessons-assets/img/p2-u2exam-yellow.png",
       "square": "p2-lessons-assets/img/p2-u2exam-square.png"
-    }
+    },
+    "explanation_en": "Choose the picture that matches the word yellow."
   },
   {
     "grade": "P2",
@@ -229,7 +236,8 @@
       "orange": "p2-lessons-assets/img/p2-u2exam-orange.png",
       "yellow": "p2-lessons-assets/img/p2-u2exam-yellow.png",
       "square": "p2-lessons-assets/img/p2-u2exam-square.png"
-    }
+    },
+    "explanation_en": "Choose the picture that matches the word square."
   },
   {
     "grade": "P2",
@@ -253,7 +261,8 @@
     ],
     "lesson": 1,
     "lesson_title": "General Practice on Unit (2)",
-    "raw_candidate_index": 8
+    "raw_candidate_index": 8,
+    "explanation_en": "rulers is plural (it has s), so a number bigger than one is needed: two."
   },
   {
     "grade": "P2",
@@ -277,7 +286,8 @@
     ],
     "lesson": 1,
     "lesson_title": "General Practice on Unit (2)",
-    "raw_candidate_index": 9
+    "raw_candidate_index": 9,
+    "explanation_en": "After a we use a singular noun: a book. books is plural."
   },
   {
     "grade": "P2",
@@ -301,7 +311,8 @@
     ],
     "lesson": 1,
     "lesson_title": "General Practice on Unit (2)",
-    "raw_candidate_index": 10
+    "raw_candidate_index": 10,
+    "explanation_en": "The reply blue is a color, so the question is What color is this?"
   },
   {
     "grade": "P2",
@@ -325,7 +336,8 @@
     ],
     "lesson": 1,
     "lesson_title": "General Practice on Unit (2)",
-    "raw_candidate_index": 11
+    "raw_candidate_index": 11,
+    "explanation_en": "How many asks about a number, so we use the plural pens."
   },
   {
     "grade": "P2",
@@ -378,7 +390,8 @@
           "notebooks"
         ]
       }
-    ]
+    ],
+    "explanation_en": "1) A number comes before pencils, so we write three. 2) My bag is blue is a color. 3) two is followed by the plural notebooks."
   },
   {
     "grade": "P2",
@@ -403,7 +416,8 @@
     "lesson": 1,
     "lesson_title": "General Practice on Unit (2)",
     "raw_candidate_index": 13,
-    "passage": "I am Fatma. This is my desk. There is a green book on it. There are five red pens. There are two notebooks."
+    "passage": "I am Fatma. This is my desk. There is a green book on it. There are five red pens. There are two notebooks.",
+    "explanation_en": "The text says a green book مش orange فالجملة غلط."
   },
   {
     "grade": "P2",
@@ -428,7 +442,8 @@
     "lesson": 1,
     "lesson_title": "General Practice on Unit (2)",
     "raw_candidate_index": 14,
-    "passage": "I am Fatma. This is my desk. There is a green book on it. There are five red pens. There are two notebooks."
+    "passage": "I am Fatma. This is my desk. There is a green book on it. There are five red pens. There are two notebooks.",
+    "explanation_en": "The text says There are five red pens فالجملة صح."
   },
   {
     "grade": "P2",
@@ -459,7 +474,8 @@
     "raw_candidate_index": 15,
     "image": "p2-lessons-assets/img/p2-u2exam-blue-book.png",
     "requires_image": true,
-    "alt": "Picture from the unit practice exercise"
+    "alt": "Picture from the unit practice exercise",
+    "explanation_en": "The question is about color and the book is blue: It is blue."
   },
   {
     "grade": "P2",
@@ -491,7 +507,8 @@
     "raw_candidate_index": 16,
     "image": "p2-lessons-assets/img/p2-u2exam-pink-square.png",
     "requires_image": true,
-    "alt": "Picture from the unit practice exercise"
+    "alt": "Picture from the unit practice exercise",
+    "explanation_en": "The question is about shape and the shape is a square: This is a square."
   },
   {
     "grade": "P2",
@@ -522,7 +539,8 @@
     ],
     "accept": [
       "red"
-    ]
+    ],
+    "explanation_en": "These letters make the word red. Look at the picture."
   },
   {
     "grade": "P2",
@@ -556,7 +574,8 @@
     ],
     "accept": [
       "grapes"
-    ]
+    ],
+    "explanation_en": "These letters make the word grapes. Look at the picture."
   },
   {
     "grade": "P2",
@@ -587,7 +606,8 @@
     ],
     "accept": [
       "bun"
-    ]
+    ],
+    "explanation_en": "These letters make the word bun. Look at the picture."
   },
   {
     "grade": "P2",
@@ -620,7 +640,8 @@
     ],
     "accept": [
       "snake"
-    ]
+    ],
+    "explanation_en": "These letters make the word snake. Look at the picture."
   },
   {
     "grade": "P2",
@@ -652,7 +673,8 @@
     ],
     "accept": [
       "book"
-    ]
+    ],
+    "explanation_en": "These letters make the word book. Look at the picture."
   },
   {
     "grade": "P2",
@@ -684,7 +706,8 @@
     ],
     "accept": [
       "cave"
-    ]
+    ],
+    "explanation_en": "These letters make the word cave. Look at the picture."
   },
   {
     "grade": "P2",
@@ -718,7 +741,8 @@
     ],
     "accept": [
       "This is a green square."
-    ]
+    ],
+    "explanation_en": "We start with This is, then a green square."
   },
   {
     "grade": "P2",
@@ -752,7 +776,8 @@
     ],
     "accept": [
       "What shape is this?"
-    ]
+    ],
+    "explanation_en": "A question about shape: What shape is this? And a question mark."
   },
   {
     "grade": "P2",
@@ -786,7 +811,8 @@
     ],
     "accept": [
       "There is one window."
-    ]
+    ],
+    "explanation_en": "For the singular we say There is, then one window."
   },
   {
     "grade": "P2",
@@ -822,7 +848,8 @@
     ],
     "accept": [
       "How many pencils are there?"
-    ]
+    ],
+    "explanation_en": "A question about number starts with How many, then pencils are there?"
   },
   {
     "grade": "P2",
@@ -849,7 +876,8 @@
     "raw_candidate_index": 27,
     "image": "p2-lessons-assets/img/p2-u2exam-ninety.png",
     "requires_image": true,
-    "alt": "Picture from the unit practice exercise"
+    "alt": "Picture from the unit practice exercise",
+    "explanation_en": "The picture shows ninety. Write the word."
   },
   {
     "grade": "P2",
@@ -875,7 +903,8 @@
     "raw_candidate_index": 28,
     "image": "p2-lessons-assets/img/p2-u2exam-green.png",
     "requires_image": true,
-    "alt": "Picture from the unit practice exercise"
+    "alt": "Picture from the unit practice exercise",
+    "explanation_en": "The picture shows green. Write the word."
   },
   {
     "grade": "P2",
@@ -902,7 +931,8 @@
     "raw_candidate_index": 29,
     "image": "p2-lessons-assets/img/p2-u2exam-pink-square.png",
     "requires_image": true,
-    "alt": "Picture from the unit practice exercise"
+    "alt": "Picture from the unit practice exercise",
+    "explanation_en": "The picture shows square. Write the word."
   },
   {
     "grade": "P2",
@@ -929,7 +959,8 @@
     "raw_candidate_index": 30,
     "image": "p2-lessons-assets/img/p2-u2exam-five.png",
     "requires_image": true,
-    "alt": "Picture from the unit practice exercise"
+    "alt": "Picture from the unit practice exercise",
+    "explanation_en": "The picture shows five. Write the word."
   },
   {
     "grade": "P2",
@@ -960,7 +991,8 @@
     "raw_candidate_index": 31,
     "image": "p2-lessons-assets/img/p2-u2exam-chairs.png",
     "requires_image": true,
-    "alt": "Picture from the unit practice exercise"
+    "alt": "Picture from the unit practice exercise",
+    "explanation_en": "Write a full sentence using the given words and the number, color or shape in the picture. Start with a capital letter and end with a period."
   },
   {
     "grade": "P2",
@@ -992,7 +1024,8 @@
     "raw_candidate_index": 32,
     "image": "p2-lessons-assets/img/p2-u2exam-circle.png",
     "requires_image": true,
-    "alt": "Picture from the unit practice exercise"
+    "alt": "Picture from the unit practice exercise",
+    "explanation_en": "Write a full sentence using the given words and the number, color or shape in the picture. Start with a capital letter and end with a period."
   },
   {
     "grade": "P2",
@@ -1019,6 +1052,7 @@
     "raw_candidate_index": 33,
     "image": "p2-lessons-assets/img/p2-u2exam-triangle.png",
     "requires_image": true,
-    "alt": "Picture from the unit practice exercise"
+    "alt": "Picture from the unit practice exercise",
+    "explanation_en": "Write a full sentence using the given words and the number, color or shape in the picture. Start with a capital letter and end with a period."
   }
 ]

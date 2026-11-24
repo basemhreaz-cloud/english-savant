@@ -15,7 +15,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "الشمس لونها أصفر (yellow). الأزرق للسما والأخضر للعشب."
+      "explanation_ar": "الشمس لونها أصفر (yellow). الأزرق للسما والأخضر للعشب.",
+      "explanation_en": "The sun is yellow (yellow). Blue is for the sky and green is for the grass."
     },
     {
       "id": 2,
@@ -29,7 +30,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "السما لونها أزرق (blue) في النهار. الأحمر والأسود مش ألوان السما العادية."
+      "explanation_ar": "السما لونها أزرق (blue) في النهار. الأحمر والأسود مش ألوان السما العادية.",
+      "explanation_en": "The sky is blue (blue) in the daytime. Red and black are not the usual colors of the sky."
     },
     {
       "id": 3,
@@ -43,7 +45,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "العشب لونه أخضر (green). الأحمر والأصفر مش لون العشب."
+      "explanation_ar": "العشب لونه أخضر (green). الأحمر والأصفر مش لون العشب.",
+      "explanation_en": "Grass is green (green). Red and yellow are not the color of grass."
     },
     {
       "id": 4,
@@ -57,7 +60,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "الكلمة العربية (أحمر) معناها red، وهو لون الطماطم."
+      "explanation_ar": "الكلمة العربية (أحمر) معناها red، وهو لون الطماطم.",
+      "explanation_en": "The Arabic word (أحمر) means red, and it is the color of the tomato."
     },
     {
       "id": 5,
@@ -71,7 +75,8 @@
       ],
       "answer_index": 2,
       "grading": "closed",
-      "explanation_ar": "الشكل المسطح للكورة دايرة (circle). المربع square له 4 أضلاع، والمثلث triangle له 3."
+      "explanation_ar": "الشكل المسطح للكورة دايرة (circle). المربع square له 4 أضلاع، والمثلث triangle له 3.",
+      "explanation_en": "The flat shape of a ball is a circle (circle). A square has 4 sides, and a triangle has 3."
     },
     {
       "id": 6,
@@ -85,7 +90,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "الشكل اللي له 4 أضلاع متساوية هو المربع (square). الدايرة ملهاش أضلاع، والمثلث له 3 بس."
+      "explanation_ar": "الشكل اللي له 4 أضلاع متساوية هو المربع (square). الدايرة ملهاش أضلاع، والمثلث له 3 بس.",
+      "explanation_en": "The shape with 4 equal sides is the square (square). A circle has no sides, and a triangle has only 3."
     },
     {
       "id": 7,
@@ -99,7 +105,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "الشكل اللي له 3 أضلاع هو المثلث (triangle). tri معناها تلاتة."
+      "explanation_ar": "الشكل اللي له 3 أضلاع هو المثلث (triangle). tri معناها تلاتة.",
+      "explanation_en": "The shape with 3 sides is the triangle (triangle). tri means three."
     },
     {
       "id": 8,
@@ -113,7 +120,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "بنسأل عن اللون بـ What color. السؤال: What color is this? يعني ده لونه إيه؟ How وWhere ليهم معاني تانية."
+      "explanation_ar": "بنسأل عن اللون بـ What color. السؤال: What color is this? يعني ده لونه إيه؟ How وWhere ليهم معاني تانية.",
+      "explanation_en": "We ask about color with What color. The question: What color is this? means \"What is its color?\" How and Where have other meanings."
     },
     {
       "id": 9,
@@ -127,7 +135,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "السؤال How many بيسأل عن العدد، وبعده اسم جمع. الإجابة four يعني 4، فنقول pens بحرف s."
+      "explanation_ar": "السؤال How many بيسأل عن العدد، وبعده اسم جمع. الإجابة four يعني 4، فنقول pens بحرف s.",
+      "explanation_en": "The question How many asks about number, and it is followed by a plural noun. The answer four means 4, so we say pens with an s."
     },
     {
       "id": 10,
@@ -141,7 +150,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "مع I بنستخدم have. has بتيجي مع He وShe وIt، وam مش مناسبة قبل five crayons."
+      "explanation_ar": "مع I بنستخدم have. has بتيجي مع He وShe وIt، وam مش مناسبة قبل five crayons.",
+      "explanation_en": "With I we use have. has goes with He, She and It, and am does not fit before five crayons."
     },
     {
       "id": 11,
@@ -155,7 +165,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "مع He بنستخدم has. have بتيجي مع I وYou وWe وThey. نقول: He has three books."
+      "explanation_ar": "مع He بنستخدم has. have بتيجي مع I وYou وWe وThey. نقول: He has three books.",
+      "explanation_en": "With He we use has. have goes with I, You, We and They. We say: He has three books."
     },
     {
       "id": 12,
@@ -169,7 +180,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "ten + ten يعني 10 + 10 = 20، وده twenty. twelve هي 12 وthirty هي 30."
+      "explanation_ar": "ten + ten يعني 10 + 10 = 20، وده twenty. twelve هي 12 وthirty هي 30.",
+      "explanation_en": "ten + ten means 10 + 10 = 20, and that is twenty. twelve is 12 and thirty is 30."
     },
     {
       "id": 13,
@@ -183,7 +195,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "بعد eleven (11) بييجي twelve (12). ten قبلها وthirteen بعد twelve."
+      "explanation_ar": "بعد eleven (11) بييجي twelve (12). ten قبلها وthirteen بعد twelve.",
+      "explanation_en": "After eleven (11) comes twelve (12). ten is before it and thirteen is after twelve."
     },
     {
       "id": 14,
@@ -197,7 +210,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "قبل fifteen (15) بييجي fourteen (14). sixteen بعدها وthirteen أبعد."
+      "explanation_ar": "قبل fifteen (15) بييجي fourteen (14). sixteen بعدها وthirteen أبعد.",
+      "explanation_en": "Before fifteen (15) comes fourteen (14). sixteen is after it and thirteen is further away."
     },
     {
       "id": 15,
@@ -211,7 +225,8 @@
       ],
       "answer_index": 2,
       "grading": "closed",
-      "explanation_ar": "الرقم 18 بالكلمات eighteen. eighty يعني 80 وeight يعني 8، فخلي بالك من آخر الكلمة teen."
+      "explanation_ar": "الرقم 18 بالكلمات eighteen. eighty يعني 80 وeight يعني 8، فخلي بالك من آخر الكلمة teen.",
+      "explanation_en": "The number 18 in words is eighteen. eighty means 80 and eight means 8, so watch the end of the word: teen."
     },
     {
       "id": 16,
@@ -225,7 +240,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "الكلمة العربية (أصفر) معناها yellow. red أحمر وblue أزرق."
+      "explanation_ar": "الكلمة العربية (أصفر) معناها yellow. red أحمر وblue أزرق.",
+      "explanation_en": "The Arabic word (أصفر) means yellow. red is أحمر and blue is أزرق."
     },
     {
       "id": 17,
@@ -239,7 +255,8 @@
       ],
       "answer_index": 2,
       "grading": "closed",
-      "explanation_ar": "الكلمة العربية (مربع) معناها square. circle دايرة وtriangle مثلث."
+      "explanation_ar": "الكلمة العربية (مربع) معناها square. circle دايرة وtriangle مثلث.",
+      "explanation_en": "The Arabic word (مربع) means square. circle is دايرة and triangle is مثلث."
     },
     {
       "id": 18,
@@ -253,7 +270,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "الجملة العربية بتقول إن لون المثلث أخضر، فنختار green. الألوان التانية مش هي المطلوبة."
+      "explanation_ar": "الجملة العربية بتقول إن لون المثلث أخضر، فنختار green. الألوان التانية مش هي المطلوبة.",
+      "explanation_en": "The Arabic sentence says the color of the triangle is green, so we choose green. The other colors are not the ones asked for."
     },
     {
       "id": 19,
@@ -267,7 +285,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "مع She بنستخدم has. have مش بتيجي مع She، وam مش مناسبة قبل two bags."
+      "explanation_ar": "مع She بنستخدم has. have مش بتيجي مع She، وam مش مناسبة قبل two bags.",
+      "explanation_en": "With She we use has. have does not go with She, and am does not fit before two bags."
     },
     {
       "id": 20,
@@ -281,7 +300,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "7 + 6 = 13، وده thirteen. twelve هي 12 وfourteen هي 14."
+      "explanation_ar": "7 + 6 = 13، وده thirteen. twelve هي 12 وfourteen هي 14.",
+      "explanation_en": "7 + 6 = 13, and that is thirteen. twelve is 12 and fourteen is 14."
     },
     {
       "id": 21,
@@ -304,7 +324,8 @@
         "has"
       ],
       "grading": "closed",
-      "explanation_ar": "الشكل المسطح للكورة دايرة: circle."
+      "explanation_ar": "الشكل المسطح للكورة دايرة: circle.",
+      "explanation_en": "The flat shape of a ball is a circle: circle."
     },
     {
       "id": 22,
@@ -327,7 +348,8 @@
         "has"
       ],
       "grading": "closed",
-      "explanation_ar": "الشكل اللي له 4 أضلاع متساوية هو المربع: square."
+      "explanation_ar": "الشكل اللي له 4 أضلاع متساوية هو المربع: square.",
+      "explanation_en": "The shape with 4 equal sides is the square: square."
     },
     {
       "id": 23,
@@ -350,7 +372,8 @@
         "has"
       ],
       "grading": "closed",
-      "explanation_ar": "قطعة البيتزا شكلها مثلث: triangle. لها 3 أضلاع."
+      "explanation_ar": "قطعة البيتزا شكلها مثلث: triangle. لها 3 أضلاع.",
+      "explanation_en": "A pizza slice is shaped like a triangle: triangle. It has 3 sides."
     },
     {
       "id": 24,
@@ -373,7 +396,8 @@
         "has"
       ],
       "grading": "closed",
-      "explanation_ar": "الموز لونه أصفر: yellow."
+      "explanation_ar": "الموز لونه أصفر: yellow.",
+      "explanation_en": "A banana is yellow: yellow."
     },
     {
       "id": 25,
@@ -396,7 +420,8 @@
         "has"
       ],
       "grading": "closed",
-      "explanation_ar": "الفراولة لونها أحمر: red."
+      "explanation_ar": "الفراولة لونها أحمر: red.",
+      "explanation_en": "A strawberry is red: red."
     },
     {
       "id": 26,
@@ -419,7 +444,8 @@
         "has"
       ],
       "grading": "closed",
-      "explanation_ar": "بنسأل عن لون الشنطة بـ What color. كلمة color معناها لون."
+      "explanation_ar": "بنسأل عن لون الشنطة بـ What color. كلمة color معناها لون.",
+      "explanation_en": "We ask about the color of the bag with What color. The word color means لون."
     },
     {
       "id": 27,
@@ -442,7 +468,8 @@
         "has"
       ],
       "grading": "closed",
-      "explanation_ar": "How many بتسأل عن العدد: كام مسطرة عندك؟ many هي الكلمة الناقصة."
+      "explanation_ar": "How many بتسأل عن العدد: كام مسطرة عندك؟ many هي الكلمة الناقصة.",
+      "explanation_en": "How many asks about number: how many rulers do you have? many is the missing word."
     },
     {
       "id": 28,
@@ -465,7 +492,8 @@
         "has"
       ],
       "grading": "closed",
-      "explanation_ar": "My sister فاعل مفرد (هي)، فنستخدم has. نقول: My sister has one doll."
+      "explanation_ar": "My sister فاعل مفرد (هي)، فنستخدم has. نقول: My sister has one doll.",
+      "explanation_en": "My sister is a singular subject (she), so we use has. We say: My sister has one doll."
     },
     {
       "id": 29,
@@ -488,7 +516,8 @@
         "has"
       ],
       "grading": "closed",
-      "explanation_ar": "10 + 2 = 12، وده twelve بالكلمات."
+      "explanation_ar": "10 + 2 = 12، وده twelve بالكلمات.",
+      "explanation_en": "10 + 2 = 12, and that is twelve in words."
     },
     {
       "id": 30,
@@ -511,7 +540,8 @@
         "has"
       ],
       "grading": "closed",
-      "explanation_ar": "10 + 10 = 20، وده twenty بالكلمات."
+      "explanation_ar": "10 + 10 = 20، وده twenty بالكلمات.",
+      "explanation_en": "10 + 10 = 20, and that is twenty in words."
     },
     {
       "id": 31,
@@ -522,7 +552,8 @@
         "r"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو r، فتكتمل الكلمة: red. معناها أحمر."
+      "explanation_ar": "الحرف الناقص هو r، فتكتمل الكلمة: red. معناها أحمر.",
+      "explanation_en": "The missing letter is r, so the word becomes: red. It means أحمر."
     },
     {
       "id": 32,
@@ -533,7 +564,8 @@
         "b"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو b، فتكتمل الكلمة: blue. معناها أزرق."
+      "explanation_ar": "الحرف الناقص هو b، فتكتمل الكلمة: blue. معناها أزرق.",
+      "explanation_en": "The missing letter is b, so the word becomes: blue. It means أزرق."
     },
     {
       "id": 33,
@@ -544,7 +576,8 @@
         "g"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو g، فتكتمل الكلمة: green. معناها أخضر."
+      "explanation_ar": "الحرف الناقص هو g، فتكتمل الكلمة: green. معناها أخضر.",
+      "explanation_en": "The missing letter is g, so the word becomes: green. It means أخضر."
     },
     {
       "id": 34,
@@ -555,7 +588,8 @@
         "c"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو c، فتكتمل الكلمة: circle. معناها دائرة."
+      "explanation_ar": "الحرف الناقص هو c، فتكتمل الكلمة: circle. معناها دائرة.",
+      "explanation_en": "The missing letter is c, so the word becomes: circle. It means دائرة."
     },
     {
       "id": 35,
@@ -566,7 +600,8 @@
         "s"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو s، فتكتمل الكلمة: square. معناها مربع."
+      "explanation_ar": "الحرف الناقص هو s، فتكتمل الكلمة: square. معناها مربع.",
+      "explanation_en": "The missing letter is s, so the word becomes: square. It means مربع."
     },
     {
       "id": 36,
@@ -577,7 +612,8 @@
         "t"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو t، فتكتمل الكلمة: ten. معناها عشرة."
+      "explanation_ar": "الحرف الناقص هو t، فتكتمل الكلمة: ten. معناها عشرة.",
+      "explanation_en": "The missing letter is t, so the word becomes: ten. It means عشرة."
     },
     {
       "id": 37,
@@ -588,7 +624,8 @@
         "f"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو f، فتكتمل الكلمة: five. معناها خمسة."
+      "explanation_ar": "الحرف الناقص هو f، فتكتمل الكلمة: five. معناها خمسة.",
+      "explanation_en": "The missing letter is f, so the word becomes: five. It means خمسة."
     },
     {
       "id": 38,
@@ -599,7 +636,8 @@
         "y"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو y، فتكتمل الكلمة: yellow. معناها أصفر."
+      "explanation_ar": "الحرف الناقص هو y، فتكتمل الكلمة: yellow. معناها أصفر.",
+      "explanation_en": "The missing letter is y, so the word becomes: yellow. It means أصفر."
     },
     {
       "id": 39,
@@ -610,7 +648,8 @@
         "This is a red circle."
       ],
       "grading": "model_review",
-      "explanation_ar": "الترتيب الصحيح: This is a red circle. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+      "explanation_ar": "الترتيب الصحيح: This is a red circle. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: This is a red circle. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
     },
     {
       "id": 40,
@@ -621,7 +660,8 @@
         "What color is this?"
       ],
       "grading": "model_review",
-      "explanation_ar": "الترتيب الصحيح: What color is this? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح."
+      "explanation_ar": "الترتيب الصحيح: What color is this? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: What color is this? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح."
     },
     {
       "id": 41,
@@ -632,7 +672,8 @@
         "How many pens do you have?"
       ],
       "grading": "model_review",
-      "explanation_ar": "الترتيب الصحيح: How many pens do you have? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح."
+      "explanation_ar": "الترتيب الصحيح: How many pens do you have? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: How many pens do you have? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح."
     },
     {
       "id": 42,
@@ -643,7 +684,8 @@
         "I have three pencils."
       ],
       "grading": "model_review",
-      "explanation_ar": "الترتيب الصحيح: I have three pencils. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+      "explanation_ar": "الترتيب الصحيح: I have three pencils. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: I have three pencils. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
     },
     {
       "id": 43,
@@ -654,7 +696,8 @@
         "She has two books."
       ],
       "grading": "model_review",
-      "explanation_ar": "الترتيب الصحيح: She has two books. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+      "explanation_ar": "الترتيب الصحيح: She has two books. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: She has two books. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
     },
     {
       "id": 44,
@@ -665,7 +708,8 @@
         "This is a blue square."
       ],
       "grading": "model_review",
-      "explanation_ar": "الترتيب الصحيح: This is a blue square. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+      "explanation_ar": "الترتيب الصحيح: This is a blue square. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: This is a blue square. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
     },
     {
       "id": 45,
@@ -682,7 +726,8 @@
         "twelve"
       ],
       "answer_index": 0,
-      "explanation_ar": "triangle معناها مثلث، وله 3 أضلاع."
+      "explanation_ar": "triangle معناها مثلث، وله 3 أضلاع.",
+      "explanation_en": "triangle means مثلث, and it has 3 sides."
     },
     {
       "id": 46,
@@ -699,7 +744,8 @@
         "twelve"
       ],
       "answer_index": 1,
-      "explanation_ar": "circle معناها دايرة، وملهاش أضلاع."
+      "explanation_ar": "circle معناها دايرة، وملهاش أضلاع.",
+      "explanation_en": "circle means دايرة, and it has no sides."
     },
     {
       "id": 47,
@@ -716,7 +762,8 @@
         "twelve"
       ],
       "answer_index": 2,
-      "explanation_ar": "twelve معناها اثنا عشر، يعني الرقم 12."
+      "explanation_ar": "twelve معناها اثنا عشر، يعني الرقم 12.",
+      "explanation_en": "twelve means اثنا عشر, which is the number 12."
     },
     {
       "id": 48,
@@ -727,7 +774,8 @@
         "This is a red circle."
       ],
       "grading": "model_review",
-      "explanation_ar": "الكلمات: circle وred. اللون بييجي قبل الشكل: This is a red circle. نبدأ بحرف كبير وننهي بنقطة."
+      "explanation_ar": "الكلمات: circle وred. اللون بييجي قبل الشكل: This is a red circle. نبدأ بحرف كبير وننهي بنقطة.",
+      "explanation_en": "The words: circle and red. The color comes before the shape: This is a red circle. We start with a capital letter and end with a full stop."
     },
     {
       "id": 49,
@@ -738,7 +786,8 @@
         "How many books do you have?"
       ],
       "grading": "model_review",
-      "explanation_ar": "الكلمات: how many وbooks. بنسأل عن العدد: How many books do you have? وننهي الجملة بعلامة استفهام."
+      "explanation_ar": "الكلمات: how many وbooks. بنسأل عن العدد: How many books do you have? وننهي الجملة بعلامة استفهام.",
+      "explanation_en": "The words: how many and books. We ask about number: How many books do you have? And we end the sentence with a question mark."
     },
     {
       "id": 50,
@@ -749,7 +798,8 @@
         "I have two bags."
       ],
       "grading": "model_review",
-      "explanation_ar": "الكلمات: have وtwo bags. نبدأ بـ I وبعدها have: I have two bags. وbags جمع لأن العدد اتنين."
+      "explanation_ar": "الكلمات: have وtwo bags. نبدأ بـ I وبعدها have: I have two bags. وbags جمع لأن العدد اتنين.",
+      "explanation_en": "The words: have and two bags. We start with I and then have: I have two bags. And bags is plural because the number is two."
     },
     {
       "id": 51,
@@ -760,7 +810,8 @@
         "I have two red books."
       ],
       "grading": "closed",
-      "explanation_ar": "المطلوب تنسخ الجملة بالظبط: I have two red books. بنفس الحروف الكبيرة والنقطة. اتأكد من كل كلمة وإنها مكتوبة صح."
+      "explanation_ar": "المطلوب تنسخ الجملة بالظبط: I have two red books. بنفس الحروف الكبيرة والنقطة. اتأكد من كل كلمة وإنها مكتوبة صح.",
+      "explanation_en": "You need to copy the sentence exactly: I have two red books. With the same capital letters and full stop. Check every word and make sure it is spelled correctly."
     }
   ],
   "version": "0e62bdfa700d"

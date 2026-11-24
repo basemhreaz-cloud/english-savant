@@ -15,7 +15,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "بنطبخ في المطبخ (kitchen). غرفة النوم للنوم، والحمام للاستحمام."
+      "explanation_ar": "بنطبخ في المطبخ (kitchen). غرفة النوم للنوم، والحمام للاستحمام.",
+      "explanation_en": "We cook in the kitchen (kitchen). The bedroom is for sleeping, and the bathroom is for washing."
     },
     {
       "id": 2,
@@ -29,7 +30,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "بننام في غرفة النوم (bedroom). المطبخ للطبخ والصالة للجلوس."
+      "explanation_ar": "بننام في غرفة النوم (bedroom). المطبخ للطبخ والصالة للجلوس.",
+      "explanation_en": "We sleep in the bedroom (bedroom). The kitchen is for cooking, and the living area is for sitting."
     },
     {
       "id": 3,
@@ -43,7 +45,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "بنتفرج على التليفزيون في غرفة المعيشة (living room). الحمام والمطبخ مش لده."
+      "explanation_ar": "بنتفرج على التليفزيون في غرفة المعيشة (living room). الحمام والمطبخ مش لده.",
+      "explanation_en": "We watch TV in the living room (living room). The bathroom and the kitchen are not for that."
     },
     {
       "id": 4,
@@ -57,7 +60,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "بنغسل إيدينا في الحمام (bathroom). الحديقة والنوم ملهمش علاقة بغسيل الإيد."
+      "explanation_ar": "بنغسل إيدينا في الحمام (bathroom). الحديقة والنوم ملهمش علاقة بغسيل الإيد.",
+      "explanation_en": "We wash our hands in the bathroom (bathroom). The garden and sleeping have nothing to do with washing hands."
     },
     {
       "id": 5,
@@ -71,7 +75,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "بناكل العشا في غرفة الطعام (dining room). الحمام والبلكونة مش للأكل."
+      "explanation_ar": "بناكل العشا في غرفة الطعام (dining room). الحمام والبلكونة مش للأكل.",
+      "explanation_en": "We eat dinner in the dining room (dining room). The bathroom and the balcony are not for eating."
     },
     {
       "id": 6,
@@ -85,7 +90,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "الورد والشجر بيبقوا في الحديقة (garden). المطبخ والصالة مفيهمش شجر."
+      "explanation_ar": "الورد والشجر بيبقوا في الحديقة (garden). المطبخ والصالة مفيهمش شجر.",
+      "explanation_en": "Flowers and trees are in the garden (garden). The kitchen and the living room have no trees."
     },
     {
       "id": 7,
@@ -99,7 +105,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "بنقعد ونشرب الشاي في البلكونة (balcony). الحمام وغرفة النوم مش للتقعيد وشرب الشاي."
+      "explanation_ar": "بنقعد ونشرب الشاي في البلكونة (balcony). الحمام وغرفة النوم مش للتقعيد وشرب الشاي.",
+      "explanation_en": "We sit and drink tea on the balcony (balcony). The bathroom and the bedroom are not for sitting and drinking tea."
     },
     {
       "id": 8,
@@ -113,7 +120,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "a kitchen مفرد، فنقول There is. are للجمع وam مع I بس."
+      "explanation_ar": "a kitchen مفرد، فنقول There is. are للجمع وam مع I بس.",
+      "explanation_en": "a kitchen is singular, so we say There is. are is for plurals, and am is only with I."
     },
     {
       "id": 9,
@@ -127,7 +135,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "a bed مفرد، فنقول There is. are بتيجي مع الجمع."
+      "explanation_ar": "a bed مفرد، فنقول There is. are بتيجي مع الجمع.",
+      "explanation_en": "a bed is singular, so we say There is. are goes with the plural."
     },
     {
       "id": 10,
@@ -141,7 +150,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "الكلمة العربية (غرفة النوم) معناها bedroom. kitchen مطبخ وbathroom حمام."
+      "explanation_ar": "الكلمة العربية (غرفة النوم) معناها bedroom. kitchen مطبخ وbathroom حمام.",
+      "explanation_en": "The Arabic word (غرفة النوم) means bedroom. kitchen is مطبخ and bathroom is حمام."
     },
     {
       "id": 11,
@@ -155,7 +165,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "الكلمة العربية (غرفة المعيشة) معناها living room. dining room غرفة الطعام."
+      "explanation_ar": "الكلمة العربية (غرفة المعيشة) معناها living room. dining room غرفة الطعام.",
+      "explanation_en": "The Arabic word (غرفة المعيشة) means living room. dining room is غرفة الطعام."
     },
     {
       "id": 12,
@@ -169,7 +180,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "التلاجة (fridge) بتبقى في المطبخ (kitchen). غرفة النوم والحمام مش مكانها."
+      "explanation_ar": "التلاجة (fridge) بتبقى في المطبخ (kitchen). غرفة النوم والحمام مش مكانها.",
+      "explanation_en": "The fridge (fridge) is in the kitchen (kitchen). The bedroom and the bathroom are not its place."
     },
     {
       "id": 13,
@@ -183,7 +195,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "الكنبة (sofa) بتبقى في غرفة المعيشة (living room). المطبخ والحديقة مش مكانها."
+      "explanation_ar": "الكنبة (sofa) بتبقى في غرفة المعيشة (living room). المطبخ والحديقة مش مكانها.",
+      "explanation_en": "The sofa (sofa) is in the living room (living room). The kitchen and the garden are not its place."
     },
     {
       "id": 14,
@@ -197,7 +210,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "بنقول in the living room يعني جوه الغرفة. on فوق وunder تحت."
+      "explanation_ar": "بنقول in the living room يعني جوه الغرفة. on فوق وunder تحت.",
+      "explanation_en": "We say in the living room, meaning inside the room. on is فوق and under is تحت."
     },
     {
       "id": 15,
@@ -211,7 +225,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "الكلمة العربية (شرفة) معناها balcony. hall صالة وgarden حديقة."
+      "explanation_ar": "الكلمة العربية (شرفة) معناها balcony. hall صالة وgarden حديقة.",
+      "explanation_en": "The Arabic word (شرفة) means balcony. hall is صالة and garden is حديقة."
     },
     {
       "id": 16,
@@ -225,7 +240,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "بندخل البيت من الصالة (hall). الحمام وغرفة النوم جوه البيت."
+      "explanation_ar": "بندخل البيت من الصالة (hall). الحمام وغرفة النوم جوه البيت.",
+      "explanation_en": "We enter the house through the hall (hall). The bathroom and the bedroom are inside the house."
     },
     {
       "id": 17,
@@ -239,7 +255,8 @@
       ],
       "answer_index": 0,
       "grading": "closed",
-      "explanation_ar": "There is بنستخدمها مع الشيء المفرد (واحد). للجمع بنستخدم There are."
+      "explanation_ar": "There is بنستخدمها مع الشيء المفرد (واحد). للجمع بنستخدم There are.",
+      "explanation_en": "We use There is with a singular thing (one). For plurals we use There are."
     },
     {
       "id": 18,
@@ -253,7 +270,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "السؤال عن المكان: Where is the table؟ والإجابة In the dining room. What بتسأل عن الحاجة وWho عن الشخص."
+      "explanation_ar": "السؤال عن المكان: Where is the table؟ والإجابة In the dining room. What بتسأل عن الحاجة وWho عن الشخص.",
+      "explanation_en": "The question is about place: Where is the table? And the answer is In the dining room. What asks about a thing, and Who asks about a person."
     },
     {
       "id": 19,
@@ -267,7 +285,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "بنقف في البلكونة (balcony) ونشوف العربيات في الشارع. الحمام والمطبخ مفيهم منظر للشارع."
+      "explanation_ar": "بنقف في البلكونة (balcony) ونشوف العربيات في الشارع. الحمام والمطبخ مفيهم منظر للشارع.",
+      "explanation_en": "We stand on the balcony (balcony) and see the cars in the street. The bathroom and the kitchen have no view of the street."
     },
     {
       "id": 20,
@@ -281,7 +300,8 @@
       ],
       "answer_index": 1,
       "grading": "closed",
-      "explanation_ar": "My house شيء مفرد (It)، فنقول has. have بتيجي مع I وYou وWe وThey."
+      "explanation_ar": "My house شيء مفرد (It)، فنقول has. have بتيجي مع I وYou وWe وThey.",
+      "explanation_en": "My house is a singular thing (It), so we say has. have goes with I, You, We and They."
     },
     {
       "id": 21,
@@ -304,7 +324,8 @@
         "in"
       ],
       "grading": "closed",
-      "explanation_ar": "الأم بتطبخ في المطبخ: kitchen."
+      "explanation_ar": "الأم بتطبخ في المطبخ: kitchen.",
+      "explanation_en": "Mom cooks in the kitchen: kitchen."
     },
     {
       "id": 22,
@@ -327,7 +348,8 @@
         "in"
       ],
       "grading": "closed",
-      "explanation_ar": "بنام في أوضة نومي: bedroom. my معناها بتاعي، فنقول my bedroom."
+      "explanation_ar": "بنام في أوضة نومي: bedroom. my معناها بتاعي، فنقول my bedroom.",
+      "explanation_en": "I sleep in my bedroom: bedroom. my means بتاعي, so we say my bedroom."
     },
     {
       "id": 23,
@@ -350,7 +372,8 @@
         "in"
       ],
       "grading": "closed",
-      "explanation_ar": "بناخد دش في الحمام: bathroom."
+      "explanation_ar": "بناخد دش في الحمام: bathroom.",
+      "explanation_en": "We take a shower in the bathroom: bathroom."
     },
     {
       "id": 24,
@@ -373,7 +396,8 @@
         "in"
       ],
       "grading": "closed",
-      "explanation_ar": "الكلمة العربية (غرفة المعيشة) معناها living room، وهي مكان قعدة الجدة."
+      "explanation_ar": "الكلمة العربية (غرفة المعيشة) معناها living room، وهي مكان قعدة الجدة.",
+      "explanation_en": "The Arabic word (غرفة المعيشة) means living room, and it is where grandma sits."
     },
     {
       "id": 25,
@@ -396,7 +420,8 @@
         "in"
       ],
       "grading": "closed",
-      "explanation_ar": "الكلمة العربية (غرفة الطعام) معناها dining room. بنتغدى فيها."
+      "explanation_ar": "الكلمة العربية (غرفة الطعام) معناها dining room. بنتغدى فيها.",
+      "explanation_en": "The Arabic word (غرفة الطعام) means dining room. We have lunch in it."
     },
     {
       "id": 26,
@@ -419,7 +444,8 @@
         "in"
       ],
       "grading": "closed",
-      "explanation_ar": "الكلمة العربية (حديقة) معناها garden، والقطة بتلعب فيها."
+      "explanation_ar": "الكلمة العربية (حديقة) معناها garden، والقطة بتلعب فيها.",
+      "explanation_en": "The Arabic word (حديقة) means garden, and the cat plays in it."
     },
     {
       "id": 27,
@@ -442,7 +468,8 @@
         "in"
       ],
       "grading": "closed",
-      "explanation_ar": "a TV شيء واحد، فنقول There is. are للجمع."
+      "explanation_ar": "a TV شيء واحد، فنقول There is. are للجمع.",
+      "explanation_en": "a TV is one thing, so we say There is. are is for plurals."
     },
     {
       "id": 28,
@@ -465,7 +492,8 @@
         "in"
       ],
       "grading": "closed",
-      "explanation_ar": "بنقول in the dining room يعني جوه الغرفة. in بتيجي مع الأماكن المقفولة."
+      "explanation_ar": "بنقول in the dining room يعني جوه الغرفة. in بتيجي مع الأماكن المقفولة.",
+      "explanation_en": "We say in the dining room, meaning inside the room. in goes with closed places."
     },
     {
       "id": 29,
@@ -488,7 +516,8 @@
         "in"
       ],
       "grading": "closed",
-      "explanation_ar": "الشرفة بالإنجليزي balcony. كلمة الشرفة هي الدليل هنا، مش وقت القراءة."
+      "explanation_ar": "الشرفة بالإنجليزي balcony. كلمة الشرفة هي الدليل هنا، مش وقت القراءة.",
+      "explanation_en": "The balcony in English is balcony. The word الشرفة is the clue here, not the reading time."
     },
     {
       "id": 30,
@@ -511,7 +540,8 @@
         "in"
       ],
       "grading": "closed",
-      "explanation_ar": "الكلمة العربية (صالة) معناها hall، وبنسيب الجزم في الصالة."
+      "explanation_ar": "الكلمة العربية (صالة) معناها hall، وبنسيب الجزم في الصالة.",
+      "explanation_en": "The Arabic word (صالة) means hall, and we leave the shoes in the hall."
     },
     {
       "id": 31,
@@ -522,7 +552,8 @@
         "k"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو k، فتكتمل الكلمة: kitchen. معناها مطبخ."
+      "explanation_ar": "الحرف الناقص هو k، فتكتمل الكلمة: kitchen. معناها مطبخ.",
+      "explanation_en": "The missing letter is k, so the word becomes: kitchen. It means مطبخ."
     },
     {
       "id": 32,
@@ -533,7 +564,8 @@
         "b"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو b، فتكتمل الكلمة: bedroom. معناها غرفة نوم."
+      "explanation_ar": "الحرف الناقص هو b، فتكتمل الكلمة: bedroom. معناها غرفة نوم.",
+      "explanation_en": "The missing letter is b, so the word becomes: bedroom. It means غرفة نوم."
     },
     {
       "id": 33,
@@ -544,7 +576,8 @@
         "b"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو b، فتكتمل الكلمة: bathroom. معناها حمّام."
+      "explanation_ar": "الحرف الناقص هو b، فتكتمل الكلمة: bathroom. معناها حمّام.",
+      "explanation_en": "The missing letter is b, so the word becomes: bathroom. It means حمّام."
     },
     {
       "id": 34,
@@ -555,7 +588,8 @@
         "g"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو g، فتكتمل الكلمة: garden. معناها حديقة."
+      "explanation_ar": "الحرف الناقص هو g، فتكتمل الكلمة: garden. معناها حديقة.",
+      "explanation_en": "The missing letter is g, so the word becomes: garden. It means حديقة."
     },
     {
       "id": 35,
@@ -566,7 +600,8 @@
         "h"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو h، فتكتمل الكلمة: hall. معناها صالة."
+      "explanation_ar": "الحرف الناقص هو h، فتكتمل الكلمة: hall. معناها صالة.",
+      "explanation_en": "The missing letter is h, so the word becomes: hall. It means صالة."
     },
     {
       "id": 36,
@@ -577,7 +612,8 @@
         "b"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو b، فتكتمل الكلمة: balcony. معناها شرفة."
+      "explanation_ar": "الحرف الناقص هو b، فتكتمل الكلمة: balcony. معناها شرفة.",
+      "explanation_en": "The missing letter is b, so the word becomes: balcony. It means شرفة."
     },
     {
       "id": 37,
@@ -588,7 +624,8 @@
         "l"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو l، فتكتمل الكلمة: living. معناها معيشة."
+      "explanation_ar": "الحرف الناقص هو l، فتكتمل الكلمة: living. معناها معيشة.",
+      "explanation_en": "The missing letter is l, so the word becomes: living. It means معيشة."
     },
     {
       "id": 38,
@@ -599,7 +636,8 @@
         "d"
       ],
       "grading": "closed",
-      "explanation_ar": "الحرف الناقص هو d، فتكتمل الكلمة: dining. معناها طعام."
+      "explanation_ar": "الحرف الناقص هو d، فتكتمل الكلمة: dining. معناها طعام.",
+      "explanation_en": "The missing letter is d, so the word becomes: dining. It means طعام."
     },
     {
       "id": 39,
@@ -610,7 +648,8 @@
         "There is a kitchen."
       ],
       "grading": "model_review",
-      "explanation_ar": "الترتيب الصحيح: There is a kitchen. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+      "explanation_ar": "الترتيب الصحيح: There is a kitchen. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: There is a kitchen. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
     },
     {
       "id": 40,
@@ -621,7 +660,8 @@
         "There is a bed in my room."
       ],
       "grading": "model_review",
-      "explanation_ar": "الترتيب الصحيح: There is a bed in my room. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+      "explanation_ar": "الترتيب الصحيح: There is a bed in my room. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: There is a bed in my room. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
     },
     {
       "id": 41,
@@ -632,7 +672,8 @@
         "Where is the table?"
       ],
       "grading": "model_review",
-      "explanation_ar": "الترتيب الصحيح: Where is the table? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح."
+      "explanation_ar": "الترتيب الصحيح: Where is the table? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: Where is the table? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح."
     },
     {
       "id": 42,
@@ -643,7 +684,8 @@
         "The table is in the dining room."
       ],
       "grading": "model_review",
-      "explanation_ar": "الترتيب الصحيح: The table is in the dining room. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+      "explanation_ar": "الترتيب الصحيح: The table is in the dining room. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: The table is in the dining room. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
     },
     {
       "id": 43,
@@ -654,7 +696,8 @@
         "Mom is in the kitchen."
       ],
       "grading": "model_review",
-      "explanation_ar": "الترتيب الصحيح: Mom is in the kitchen. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+      "explanation_ar": "الترتيب الصحيح: Mom is in the kitchen. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: Mom is in the kitchen. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
     },
     {
       "id": 44,
@@ -665,7 +708,8 @@
         "My house is big."
       ],
       "grading": "model_review",
-      "explanation_ar": "الترتيب الصحيح: My house is big. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+      "explanation_ar": "الترتيب الصحيح: My house is big. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: My house is big. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
     },
     {
       "id": 45,
@@ -682,7 +726,8 @@
         "garden"
       ],
       "answer_index": 0,
-      "explanation_ar": "kitchen معناها مطبخ، ونطبخ فيه الأكل."
+      "explanation_ar": "kitchen معناها مطبخ، ونطبخ فيه الأكل.",
+      "explanation_en": "kitchen means مطبخ, and we cook food in it."
     },
     {
       "id": 46,
@@ -699,7 +744,8 @@
         "garden"
       ],
       "answer_index": 1,
-      "explanation_ar": "bathroom معناها حمام، ونغسل فيه إيدينا."
+      "explanation_ar": "bathroom معناها حمام، ونغسل فيه إيدينا.",
+      "explanation_en": "bathroom means حمام, and we wash our hands in it."
     },
     {
       "id": 47,
@@ -716,7 +762,8 @@
         "garden"
       ],
       "answer_index": 2,
-      "explanation_ar": "garden معناها حديقة، وفيها ورد وشجر."
+      "explanation_ar": "garden معناها حديقة، وفيها ورد وشجر.",
+      "explanation_en": "garden means حديقة, and it has flowers and trees."
     },
     {
       "id": 48,
@@ -727,7 +774,8 @@
         "There is a bed in the bedroom."
       ],
       "grading": "model_review",
-      "explanation_ar": "الكلمات: bed وbedroom. نقول: There is a bed in the bedroom. There is للشيء المفرد، وin للمكان."
+      "explanation_ar": "الكلمات: bed وbedroom. نقول: There is a bed in the bedroom. There is للشيء المفرد، وin للمكان.",
+      "explanation_en": "The words: bed and bedroom. We say: There is a bed in the bedroom. There is is for a singular thing, and in is for place."
     },
     {
       "id": 49,
@@ -738,7 +786,8 @@
         "The fridge is in the kitchen."
       ],
       "grading": "model_review",
-      "explanation_ar": "الكلمات: fridge وkitchen. نقول: The fridge is in the kitchen. نبدأ بـ The ونستخدم is مع شيء واحد."
+      "explanation_ar": "الكلمات: fridge وkitchen. نقول: The fridge is in the kitchen. نبدأ بـ The ونستخدم is مع شيء واحد.",
+      "explanation_en": "The words: fridge and kitchen. We say: The fridge is in the kitchen. We start with The and use is with one thing."
     },
     {
       "id": 50,
@@ -749,7 +798,8 @@
         "My house is big."
       ],
       "grading": "model_review",
-      "explanation_ar": "الكلمات: house وbig. نقول: My house is big. بنقول My بدل the، وis بين house وbig."
+      "explanation_ar": "الكلمات: house وbig. نقول: My house is big. بنقول My بدل the، وis بين house وbig.",
+      "explanation_en": "The words: house and big. We say: My house is big. We say My instead of the, and is goes between house and big."
     },
     {
       "id": 51,
@@ -760,7 +810,8 @@
         "My bedroom is clean."
       ],
       "grading": "closed",
-      "explanation_ar": "المطلوب تنسخ الجملة بالظبط: My bedroom is clean. بنفس الحروف الكبيرة والنقطة. اتأكد من كل كلمة وإنها مكتوبة صح."
+      "explanation_ar": "المطلوب تنسخ الجملة بالظبط: My bedroom is clean. بنفس الحروف الكبيرة والنقطة. اتأكد من كل كلمة وإنها مكتوبة صح.",
+      "explanation_en": "You need to copy the sentence exactly: My bedroom is clean. With the same capital letters and full stop. Check every word and make sure it is spelled correctly."
     }
   ],
   "version": "eed7c0d5d4df"
