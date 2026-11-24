@@ -24,7 +24,7 @@ def one(x):
    except Exception:
     if trial==3:raise
     time.sleep(trial+1)
- return {'required_for_app':path not in {'audio/no-ar.mp3','audio/no-en.mp3','audio/ok-ar.mp3','audio/ok-en.mp3'},'bundle_recommendation':'exclude-superseded' if path in {'audio/no-ar.mp3','audio/no-en.mp3','audio/ok-ar.mp3','audio/ok-en.mp3'} else 'bundle','path':path,'url':'https://basemhreaz-cloud.github.io/english-savant/'+path,'immutable_url':'https://raw.githubusercontent.com/basemhreaz-cloud/english-savant/'+a.commit+'/'+path,'bytes':len(data),'sha256':hashlib.sha256(data).hexdigest(),'git_blob_sha1':x['sha'],'mime':mimetypes.guess_type(path)[0] or 'application/octet-stream','role':'learning-animation' if path.endswith('.mp4') else 'static-content'}
+ return {'required_for_app':path not in {'audio/no-ar.mp3','audio/no-en.mp3','audio/ok-ar.mp3','audio/ok-en.mp3'},'bundle_recommendation':'exclude-superseded' if path in {'audio/no-ar.mp3','audio/no-en.mp3','audio/ok-ar.mp3','audio/ok-en.mp3'} else 'bundle','path':path,'url':'https://basemhreaz-cloud.github.io/english-savant/'+path,'immutable_url':'https://raw.githubusercontent.com/basemhreaz-cloud/english-savant/'+a.commit+'/'+path,'bytes':len(data),'sha256':hashlib.sha256(data).hexdigest(),'git_blob_sha1':x['sha'],'mime':{'.webp':'image/webp','.woff2':'font/woff2','.woff':'font/woff','.mp3':'audio/mpeg','.wav':'audio/wav','.webmanifest':'application/manifest+json','.js':'text/javascript','.json':'application/json'}.get(Path(path).suffix.lower(),mimetypes.guess_type(path)[0] or 'application/octet-stream'),'role':'learning-animation' if path.endswith('.mp4') else 'static-content'}
 result=[];fail=[]
 with concurrent.futures.ThreadPoolExecutor(max_workers=a.workers) as pool:
  jobs={pool.submit(one,x):x for x in rows}
