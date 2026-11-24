@@ -4361,27 +4361,16 @@
        "answer": 2
       },
       {
-       "type": "reorder",
-       "words": [
-        "are",
-        "doing",
-        "your",
-        "Adham?",
-        "__",
-        "(What/Where/How/Why)",
-        "now,",
-        "[sic]"
+       "type": "mcq",
+       "label": "choose",
+       "q": "___ are you doing now, Adham?",
+       "options": [
+        "What",
+        "Where",
+        "How",
+        "Why"
        ],
-       "answer": [
-        "__",
-        "are",
-        "your",
-        "doing",
-        "now,",
-        "Adham?",
-        "(What/Where/How/Why)",
-        "[sic]"
-       ]
+       "answer": 0
       },
       {
        "type": "mcq",
@@ -5235,7 +5224,7 @@
       {
        "type": "typein",
        "label": "form",
-       "q": "4. A classmate spoke unkindly to them near the. [sic]",
+       "q": "A classmate spoke unkindly to them near the ___. (posters / problems / dripping / hallway / certificates)",
        "answer": [
         "hallway"
        ]
@@ -5243,7 +5232,7 @@
       {
        "type": "typein",
        "label": "form",
-       "q": "5. At the end, they received from the head teacher. [sic]",
+       "q": "At the end, they received ___ from the head teacher. (posters / problems / dripping / hallway / certificates)",
        "answer": [
         "certificates"
        ]
@@ -5302,7 +5291,7 @@
       {
        "type": "mcq",
        "label": "choose",
-       "q": "They __ the tomb of Tutankhamen in 1922\" [sic: stray quote]",
+       "q": "They ___ the tomb of Tutankhamen in 1922.",
        "options": [
         "cleaned",
         "visited",
