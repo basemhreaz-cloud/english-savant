@@ -1,6 +1,6 @@
 {
   "grade": "p1",
-  "status": "partial-269-reviewed",
+  "status": "partial-307-reviewed",
   "source_pdf_sha256": "c02e0e82a06e8524061b2985a0ec85fd5a5e9a1c50beae134632f0947777739a",
   "source_pages": [
     2,
@@ -11,7 +11,16 @@
     7,
     8,
     9,
-    10
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
   ],
   "sections": [
     {
@@ -3673,6 +3682,621 @@
           "explanation_ar": "cow معناها بقرة. اكتب الكلمة المناسبة للصورة.",
           "grading_mode": "checked",
           "image_sha256": "873c017514c14a7911017b89f79cb6f6dab19b4ec6571565fd384f8f2bf171cd"
+        }
+      ]
+    },
+    {
+      "type": "missing-sound",
+      "instruction": "Write the missing sound.",
+      "instruction_ar": "اكتب الحرف الناقص.",
+      "items": [
+        {
+          "item_id": "P1:s2:i0",
+          "source_page": 16,
+          "source_number": 1,
+          "image": "assets/final-review-p1/p1-424de9d8904e0261b1dd.png",
+          "image_sha256": "424de9d8904e0261b1dd094d55c6be571404e0d33f7121546252e8a3e2974b01",
+          "question": "_omato",
+          "answer": "t",
+          "accept": [
+            "t"
+          ],
+          "completed_word": "tomato",
+          "meaning_ar": "طماطم",
+          "explanation_ar": "اكتب الحرف t في الفراغ لتكتمل كلمة tomato، ومعناها طماطم.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i1",
+          "source_page": 16,
+          "source_number": 2,
+          "image": "assets/final-review-p1/p1-2229eaa36716cd9f1434.png",
+          "image_sha256": "2229eaa36716cd9f1434fdd44a6145186f254f620a9cafec81a31529d0d5ab16",
+          "question": "_eacher",
+          "answer": "t",
+          "accept": [
+            "t"
+          ],
+          "completed_word": "teacher",
+          "meaning_ar": "معلم",
+          "explanation_ar": "اكتب الحرف t في الفراغ لتكتمل كلمة teacher، ومعناها معلم.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i2",
+          "source_page": 16,
+          "source_number": 3,
+          "image": "assets/final-review-p1/p1-7a1d386894bb23fbedbf.png",
+          "image_sha256": "7a1d386894bb23fbedbf6ab9cc1a06bada10fbd5565d602f4fdf59ec1c915d7d",
+          "question": "_iger",
+          "answer": "t",
+          "accept": [
+            "t"
+          ],
+          "completed_word": "tiger",
+          "meaning_ar": "نمر",
+          "explanation_ar": "اكتب الحرف t في الفراغ لتكتمل كلمة tiger، ومعناها نمر.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i3",
+          "source_page": 16,
+          "source_number": 4,
+          "image": "assets/final-review-p1/p1-0e7770460091663029bc.png",
+          "image_sha256": "0e7770460091663029bcc159605801d6511e95ba10f21410d81da3914104e76b",
+          "question": "_ree",
+          "answer": "t",
+          "accept": [
+            "t"
+          ],
+          "completed_word": "tree",
+          "meaning_ar": "شجرة",
+          "explanation_ar": "اكتب الحرف t في الفراغ لتكتمل كلمة tree، ومعناها شجرة.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i4",
+          "source_page": 16,
+          "source_number": 5,
+          "image": "assets/final-review-p1/p1-00f8139339f303b308ed.png",
+          "image_sha256": "00f8139339f303b308ed737322d2b714d18d270b78018f9808587fa1bf290ddc",
+          "question": "_able",
+          "answer": "t",
+          "accept": [
+            "t"
+          ],
+          "completed_word": "table",
+          "meaning_ar": "طاولة",
+          "explanation_ar": "اكتب الحرف t في الفراغ لتكتمل كلمة table، ومعناها طاولة.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i5",
+          "source_page": 16,
+          "source_number": 6,
+          "image": "assets/final-review-p1/p1-51d642fc40dda3388afe.png",
+          "image_sha256": "51d642fc40dda3388afe4b53ce0ca89fcbfc58652e7d8fff20e68f70f8e9ed49",
+          "question": "_nk",
+          "answer": "i",
+          "accept": [
+            "i"
+          ],
+          "completed_word": "ink",
+          "meaning_ar": "حبر",
+          "explanation_ar": "اكتب الحرف i في الفراغ لتكتمل كلمة ink، ومعناها حبر.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i6",
+          "source_page": 16,
+          "source_number": 7,
+          "image": "assets/final-review-p1/p1-9be180f02b5fa0b53879.png",
+          "image_sha256": "9be180f02b5fa0b53879f4da8622f5af744adcbdc097d8bbc5b875cfe779be2c",
+          "question": "_ll",
+          "answer": "i",
+          "accept": [
+            "i"
+          ],
+          "completed_word": "ill",
+          "meaning_ar": "مريض",
+          "explanation_ar": "اكتب الحرف i في الفراغ لتكتمل كلمة ill، ومعناها مريض.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i7",
+          "source_page": 16,
+          "source_number": 8,
+          "image": "assets/final-review-p1/p1-bc81efe65a3fb42a250f.png",
+          "image_sha256": "bc81efe65a3fb42a250fd1976c10b27f3fee15469cba3ffd7710abd6762a49b4",
+          "question": "_nsect",
+          "answer": "i",
+          "accept": [
+            "i"
+          ],
+          "completed_word": "insect",
+          "meaning_ar": "حشرة",
+          "explanation_ar": "اكتب الحرف i في الفراغ لتكتمل كلمة insect، ومعناها حشرة.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i8",
+          "source_page": 16,
+          "source_number": 9,
+          "image": "assets/final-review-p1/p1-c8763e8e67d56af021b7.png",
+          "image_sha256": "c8763e8e67d56af021b7783c3b2148c95222831da05b5c5e0e9acf4229378181",
+          "question": "_n",
+          "answer": "i",
+          "accept": [
+            "i"
+          ],
+          "completed_word": "in",
+          "meaning_ar": "داخل",
+          "explanation_ar": "اكتب الحرف i في الفراغ لتكتمل كلمة in، ومعناها داخل.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i9",
+          "source_page": 16,
+          "source_number": 10,
+          "image": "assets/final-review-p1/p1-00f8139339f303b308ed.png",
+          "image_sha256": "00f8139339f303b308ed737322d2b714d18d270b78018f9808587fa1bf290ddc",
+          "question": "_able",
+          "answer": "t",
+          "accept": [
+            "t"
+          ],
+          "completed_word": "table",
+          "meaning_ar": "طاولة",
+          "explanation_ar": "اكتب الحرف t في الفراغ لتكتمل كلمة table، ومعناها طاولة.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i10",
+          "source_page": 16,
+          "source_number": 11,
+          "image": "assets/final-review-p1/p1-424de9d8904e0261b1dd.png",
+          "image_sha256": "424de9d8904e0261b1dd094d55c6be571404e0d33f7121546252e8a3e2974b01",
+          "question": "_omato",
+          "answer": "t",
+          "accept": [
+            "t"
+          ],
+          "completed_word": "tomato",
+          "meaning_ar": "طماطم",
+          "explanation_ar": "اكتب الحرف t في الفراغ لتكتمل كلمة tomato، ومعناها طماطم.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i11",
+          "source_page": 16,
+          "source_number": 12,
+          "image": "assets/final-review-p1/p1-0e7770460091663029bc.png",
+          "image_sha256": "0e7770460091663029bcc159605801d6511e95ba10f21410d81da3914104e76b",
+          "question": "_ree",
+          "answer": "t",
+          "accept": [
+            "t"
+          ],
+          "completed_word": "tree",
+          "meaning_ar": "شجرة",
+          "explanation_ar": "اكتب الحرف t في الفراغ لتكتمل كلمة tree، ومعناها شجرة.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i12",
+          "source_page": 16,
+          "source_number": 13,
+          "image": "assets/final-review-p1/p1-7a1d386894bb23fbedbf.png",
+          "image_sha256": "7a1d386894bb23fbedbf6ab9cc1a06bada10fbd5565d602f4fdf59ec1c915d7d",
+          "question": "_iger",
+          "answer": "t",
+          "accept": [
+            "t"
+          ],
+          "completed_word": "tiger",
+          "meaning_ar": "نمر",
+          "explanation_ar": "اكتب الحرف t في الفراغ لتكتمل كلمة tiger، ومعناها نمر.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i13",
+          "source_page": 16,
+          "source_number": 14,
+          "image": "assets/final-review-p1/p1-2229eaa36716cd9f1434.png",
+          "image_sha256": "2229eaa36716cd9f1434fdd44a6145186f254f620a9cafec81a31529d0d5ab16",
+          "question": "_eacher",
+          "answer": "t",
+          "accept": [
+            "t"
+          ],
+          "completed_word": "teacher",
+          "meaning_ar": "معلم",
+          "explanation_ar": "اكتب الحرف t في الفراغ لتكتمل كلمة teacher، ومعناها معلم.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i14",
+          "source_page": 16,
+          "source_number": 15,
+          "image": "assets/final-review-p1/p1-cbf55dad2fe41d7fc0f4.png",
+          "image_sha256": "cbf55dad2fe41d7fc0f4f0f707dcd35cffeeccb7da050ba04dbe06c7d182e399",
+          "question": "_ello",
+          "answer": "h",
+          "accept": [
+            "h"
+          ],
+          "completed_word": "hello",
+          "meaning_ar": "مرحبًا",
+          "explanation_ar": "اكتب الحرف h في الفراغ لتكتمل كلمة hello، ومعناها مرحبًا.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i15",
+          "source_page": 16,
+          "source_number": 16,
+          "image": "assets/final-review-p1/p1-3cd2fdce4a96090e623c.png",
+          "image_sha256": "3cd2fdce4a96090e623cdbd17f327b6e69c0fe69f40f1ff67265ab6e7a107e91",
+          "question": "_nake",
+          "answer": "s",
+          "accept": [
+            "s"
+          ],
+          "completed_word": "snake",
+          "meaning_ar": "ثعبان",
+          "explanation_ar": "اكتب الحرف s في الفراغ لتكتمل كلمة snake، ومعناها ثعبان.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i16",
+          "source_page": 16,
+          "source_number": 17,
+          "image": "assets/final-review-p1/p1-67a904bf0d5aa487f8e8.png",
+          "image_sha256": "67a904bf0d5aa487f8e8b3728e4360bfda82e34d5401250d4b1b39ccddb94b5a",
+          "question": "_un",
+          "answer": "s",
+          "accept": [
+            "s"
+          ],
+          "completed_word": "sun",
+          "meaning_ar": "شمس",
+          "explanation_ar": "اكتب الحرف s في الفراغ لتكتمل كلمة sun، ومعناها شمس.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i17",
+          "source_page": 16,
+          "source_number": 18,
+          "image": "assets/final-review-p1/p1-f0571b729f7cb1249782.png",
+          "image_sha256": "f0571b729f7cb12497829a47dd7cd9e336124fbed849ba9e80c3bdb62ae014be",
+          "question": "_poon",
+          "answer": "s",
+          "accept": [
+            "s"
+          ],
+          "completed_word": "spoon",
+          "meaning_ar": "ملعقة",
+          "explanation_ar": "اكتب الحرف s في الفراغ لتكتمل كلمة spoon، ومعناها ملعقة.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i18",
+          "source_page": 17,
+          "source_number": 19,
+          "image": "assets/final-review-p1/p1-5577cbde6f070b66532d.png",
+          "image_sha256": "5577cbde6f070b66532d69e1f3cb8e7c2b1ac6724d9542ce16ec251b115fc1ca",
+          "question": "_tar",
+          "answer": "s",
+          "accept": [
+            "s"
+          ],
+          "completed_word": "star",
+          "meaning_ar": "نجمة",
+          "explanation_ar": "اكتب الحرف s في الفراغ لتكتمل كلمة star، ومعناها نجمة.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i19",
+          "source_page": 17,
+          "source_number": 20,
+          "image": "assets/final-review-p1/p1-e697b76bf703f1bd02e8.png",
+          "image_sha256": "e697b76bf703f1bd02e8e47a51c7317a09c8b3e5193a83866c25baf34c4fe11f",
+          "question": "_pider",
+          "answer": "s",
+          "accept": [
+            "s"
+          ],
+          "completed_word": "spider",
+          "meaning_ar": "عنكبوت",
+          "explanation_ar": "اكتب الحرف s في الفراغ لتكتمل كلمة spider، ومعناها عنكبوت.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i42",
+          "source_page": 18,
+          "source_number": 43,
+          "image": "assets/final-review-p1/p1-74ae871b08124719bc82.png",
+          "image_sha256": "74ae871b08124719bc8229e3f9e2339fa72a79466de40ed901f22fb051b70b6b",
+          "question": "_izza",
+          "answer": "p",
+          "accept": [
+            "p"
+          ],
+          "completed_word": "pizza",
+          "meaning_ar": "بيتزا",
+          "explanation_ar": "اكتب الحرف p في الفراغ لتكتمل كلمة pizza، ومعناها بيتزا.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i43",
+          "source_page": 18,
+          "source_number": 44,
+          "image": "assets/final-review-p1/p1-1c8e017d2be3d880d422.png",
+          "image_sha256": "1c8e017d2be3d880d422108b718162eafacf2e86f596b2d8b269216ef89f39c6",
+          "question": "_urse",
+          "answer": "n",
+          "accept": [
+            "n"
+          ],
+          "completed_word": "nurse",
+          "meaning_ar": "ممرض",
+          "explanation_ar": "اكتب الحرف n في الفراغ لتكتمل كلمة nurse، ومعناها ممرض.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i44",
+          "source_page": 18,
+          "source_number": 45,
+          "image": "assets/final-review-p1/p1-83ebdece123e727c019c.png",
+          "image_sha256": "83ebdece123e727c019c4a7bd78955d6756b882eb4c1cb816c2fe0812589d0c7",
+          "question": "_xe",
+          "answer": "a",
+          "accept": [
+            "a"
+          ],
+          "completed_word": "axe",
+          "meaning_ar": "فأس",
+          "explanation_ar": "اكتب الحرف a في الفراغ لتكتمل كلمة axe، ومعناها فأس.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i45",
+          "source_page": 18,
+          "source_number": 46,
+          "image": "assets/final-review-p1/p1-584ea8a47ea6efe22a48.png",
+          "image_sha256": "584ea8a47ea6efe22a48ac690a1e396b50e1282a39a962eea3e66e9d677b401d",
+          "question": "_pple",
+          "answer": "a",
+          "accept": [
+            "a"
+          ],
+          "completed_word": "apple",
+          "meaning_ar": "تفاحة",
+          "explanation_ar": "اكتب الحرف a في الفراغ لتكتمل كلمة apple، ومعناها تفاحة.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i46",
+          "source_page": 18,
+          "source_number": 47,
+          "image": "assets/final-review-p1/p1-96e59a7cab2745425e7d.png",
+          "image_sha256": "96e59a7cab2745425e7d33130d648d8f86dbf6507e9f7d30868f4bc33702b29d",
+          "question": "_nt",
+          "answer": "a",
+          "accept": [
+            "a"
+          ],
+          "completed_word": "ant",
+          "meaning_ar": "نملة",
+          "explanation_ar": "اكتب الحرف a في الفراغ لتكتمل كلمة ant، ومعناها نملة.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i47",
+          "source_page": 18,
+          "source_number": 48,
+          "image": "assets/final-review-p1/p1-8f0b697be3bbab796106.png",
+          "image_sha256": "8f0b697be3bbab79610620e6fff0c35d29d0c6c35e85665a25420dfff1c72801",
+          "question": "_rrow",
+          "answer": "a",
+          "accept": [
+            "a"
+          ],
+          "completed_word": "arrow",
+          "meaning_ar": "سهم",
+          "explanation_ar": "اكتب الحرف a في الفراغ لتكتمل كلمة arrow، ومعناها سهم.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i48",
+          "source_page": 18,
+          "source_number": 49,
+          "image": "assets/final-review-p1/p1-3cd2fdce4a96090e623c.png",
+          "image_sha256": "3cd2fdce4a96090e623cdbd17f327b6e69c0fe69f40f1ff67265ab6e7a107e91",
+          "question": "_nake",
+          "answer": "s",
+          "accept": [
+            "s"
+          ],
+          "completed_word": "snake",
+          "meaning_ar": "ثعبان",
+          "explanation_ar": "اكتب الحرف s في الفراغ لتكتمل كلمة snake، ومعناها ثعبان.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i49",
+          "source_page": 18,
+          "source_number": 50,
+          "image": "assets/final-review-p1/p1-f0571b729f7cb1249782.png",
+          "image_sha256": "f0571b729f7cb12497829a47dd7cd9e336124fbed849ba9e80c3bdb62ae014be",
+          "question": "_poon",
+          "answer": "s",
+          "accept": [
+            "s"
+          ],
+          "completed_word": "spoon",
+          "meaning_ar": "ملعقة",
+          "explanation_ar": "اكتب الحرف s في الفراغ لتكتمل كلمة spoon، ومعناها ملعقة.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i50",
+          "source_page": 18,
+          "source_number": 51,
+          "image": "assets/final-review-p1/p1-0e7770460091663029bc.png",
+          "image_sha256": "0e7770460091663029bcc159605801d6511e95ba10f21410d81da3914104e76b",
+          "question": "_ree",
+          "answer": "t",
+          "accept": [
+            "t"
+          ],
+          "completed_word": "tree",
+          "meaning_ar": "شجرة",
+          "explanation_ar": "اكتب الحرف t في الفراغ لتكتمل كلمة tree، ومعناها شجرة.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i51",
+          "source_page": 18,
+          "source_number": 52,
+          "image": "assets/final-review-p1/p1-a3b24a5e6032b14fdbf5.png",
+          "image_sha256": "a3b24a5e6032b14fdbf599fbe3d7b1789ce0c1f2c5a233e3d758c6b473ee95fe",
+          "question": "_anda",
+          "answer": "p",
+          "accept": [
+            "p"
+          ],
+          "completed_word": "panda",
+          "meaning_ar": "باندا",
+          "explanation_ar": "اكتب الحرف p في الفراغ لتكتمل كلمة panda، ومعناها باندا.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i52",
+          "source_page": 18,
+          "source_number": 53,
+          "image": "assets/final-review-p1/p1-5577cbde6f070b66532d.png",
+          "image_sha256": "5577cbde6f070b66532d69e1f3cb8e7c2b1ac6724d9542ce16ec251b115fc1ca",
+          "question": "_tar",
+          "answer": "s",
+          "accept": [
+            "s"
+          ],
+          "completed_word": "star",
+          "meaning_ar": "نجمة",
+          "explanation_ar": "اكتب الحرف s في الفراغ لتكتمل كلمة star، ومعناها نجمة.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i53",
+          "source_page": 18,
+          "source_number": 54,
+          "image": "assets/final-review-p1/p1-49bbae45351cb60d36f4.png",
+          "image_sha256": "49bbae45351cb60d36f4e51cef66de7a2fb5ff90e4a2838541d6b1486fb5f7d1",
+          "question": "_ail",
+          "answer": "n",
+          "accept": [
+            "n"
+          ],
+          "completed_word": "nail",
+          "meaning_ar": "مسمار",
+          "explanation_ar": "اكتب الحرف n في الفراغ لتكتمل كلمة nail، ومعناها مسمار.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i54",
+          "source_page": 19,
+          "source_number": 55,
+          "image": "assets/final-review-p1/p1-67a904bf0d5aa487f8e8.png",
+          "image_sha256": "67a904bf0d5aa487f8e8b3728e4360bfda82e34d5401250d4b1b39ccddb94b5a",
+          "question": "_un",
+          "answer": "s",
+          "accept": [
+            "s"
+          ],
+          "completed_word": "sun",
+          "meaning_ar": "شمس",
+          "explanation_ar": "اكتب الحرف s في الفراغ لتكتمل كلمة sun، ومعناها شمس.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i55",
+          "source_page": 19,
+          "source_number": 56,
+          "image": "assets/final-review-p1/p1-e697b76bf703f1bd02e8.png",
+          "image_sha256": "e697b76bf703f1bd02e8e47a51c7317a09c8b3e5193a83866c25baf34c4fe11f",
+          "question": "_pider",
+          "answer": "s",
+          "accept": [
+            "s"
+          ],
+          "completed_word": "spider",
+          "meaning_ar": "عنكبوت",
+          "explanation_ar": "اكتب الحرف s في الفراغ لتكتمل كلمة spider، ومعناها عنكبوت.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i56",
+          "source_page": 19,
+          "source_number": 57,
+          "image": "assets/final-review-p1/p1-c8763e8e67d56af021b7.png",
+          "image_sha256": "c8763e8e67d56af021b7783c3b2148c95222831da05b5c5e0e9acf4229378181",
+          "question": "_n",
+          "answer": "i",
+          "accept": [
+            "i"
+          ],
+          "completed_word": "in",
+          "meaning_ar": "داخل",
+          "explanation_ar": "اكتب الحرف i في الفراغ لتكتمل كلمة in، ومعناها داخل.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i57",
+          "source_page": 19,
+          "source_number": 58,
+          "image": "assets/final-review-p1/p1-51d642fc40dda3388afe.png",
+          "image_sha256": "51d642fc40dda3388afe4b53ce0ca89fcbfc58652e7d8fff20e68f70f8e9ed49",
+          "question": "_nk",
+          "answer": "i",
+          "accept": [
+            "i"
+          ],
+          "completed_word": "ink",
+          "meaning_ar": "حبر",
+          "explanation_ar": "اكتب الحرف i في الفراغ لتكتمل كلمة ink، ومعناها حبر.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i58",
+          "source_page": 19,
+          "source_number": 59,
+          "image": "assets/final-review-p1/p1-9be180f02b5fa0b53879.png",
+          "image_sha256": "9be180f02b5fa0b53879f4da8622f5af744adcbdc097d8bbc5b875cfe779be2c",
+          "question": "_ll",
+          "answer": "i",
+          "accept": [
+            "i"
+          ],
+          "completed_word": "ill",
+          "meaning_ar": "مريض",
+          "explanation_ar": "اكتب الحرف i في الفراغ لتكتمل كلمة ill، ومعناها مريض.",
+          "grading_mode": "checked"
+        },
+        {
+          "item_id": "P1:s2:i59",
+          "source_page": 19,
+          "source_number": 60,
+          "image": "assets/final-review-p1/p1-bc81efe65a3fb42a250f.png",
+          "image_sha256": "bc81efe65a3fb42a250fd1976c10b27f3fee15469cba3ffd7710abd6762a49b4",
+          "question": "_nsect",
+          "answer": "i",
+          "accept": [
+            "i"
+          ],
+          "completed_word": "insect",
+          "meaning_ar": "حشرة",
+          "explanation_ar": "اكتب الحرف i في الفراغ لتكتمل كلمة insect، ومعناها حشرة.",
+          "grading_mode": "checked"
         }
       ]
     }
