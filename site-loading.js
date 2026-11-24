@@ -11,3 +11,13 @@ function ready(){document.querySelectorAll('.es-skeleton-initial').forEach(e=>e.
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',ready,{once:true});else ready();
 window.addEventListener('error',()=>active.forEach(clear),{once:true});window.addEventListener('pagehide',()=>observer.disconnect(),{once:true});
 })();
+
+/* Show the rounded island indicator only while content is loading. */
+(()=>{'use strict';
+let pending=0,frame=0;const originalFetch=window.fetch;
+function sync(){frame=0;const loading=document.readyState!=='complete'||pending>0||!!document.querySelector('.es-skeleton,.es-skeleton-initial,main img.es-image-pending,[aria-busy="true"]');document.querySelectorAll('.header').forEach(h=>{if(!h.querySelector('.es-loading-ring'))h.insertAdjacentHTML('beforeend','<svg class="es-loading-ring" viewBox="0 0 132 44" preserveAspectRatio="none" aria-hidden="true"><rect x=".8" y=".8" width="130.4" height="42.4" rx="21.2" pathLength="100"/></svg>');h.classList.toggle('es-loading-active',loading)})}
+function queue(){if(!frame)frame=requestAnimationFrame(sync)}
+if(originalFetch)window.fetch=function(){pending++;queue();return originalFetch.apply(this,arguments).finally(()=>{pending--;queue()})};
+new MutationObserver(queue).observe(document.documentElement,{childList:true,subtree:true,attributes:true,attributeFilter:['aria-busy']});
+window.addEventListener('load',queue);document.addEventListener('DOMContentLoaded',queue);document.addEventListener('load',queue,true);document.addEventListener('error',queue,true);queue();
+})();
