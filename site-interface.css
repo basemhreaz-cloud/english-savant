@@ -305,3 +305,7 @@ html:root:root[data-interface-language] .final-feedback{width:100%;text-align:ce
 /* Audit87: squared header controls, brand-card small text uses existing readable text colour. */
 html:root:root:root:root:root:root[data-interface-language] body :is(.theme.icon-button,.es-language-toggle,.es-search-open){border-radius:10px!important}
 body.dark .identity-card :is(.identity-top,.identity-top span,.tagline,.identity-foot,.identity-foot span){color:var(--ink,#edf0e7);opacity:1}
+
+/* Approved 44px header controls, keep artwork and colours unchanged. */
+html:root:root[data-interface-language] header>.menu-toggle,html:root:root[data-interface-language] header>.header-actions>:is(.es-language-toggle,.theme,.es-search-open){box-sizing:border-box!important;flex:0 0 44px!important;width:44px!important;height:44px!important;min-width:44px!important;min-height:44px!important;max-width:44px!important;max-height:44px!important}
+html:root:root[data-interface-language] header :is(.menu-toggle,.es-search-open,.es-language-toggle,.theme)>.es-header-icon{width:24px!important;height:24px!important;min-width:24px!important;flex:0 0 24px!important}
