@@ -31,7 +31,7 @@ function feed(card,ok,corr){
   var f=card.querySelector('.q-feed');if(!restoring){remember(card);const record=progress.answers[card.dataset.index];record.ok=ok;record.corr=corr;record.chosen=card.dataset.chosen;persist()}card.dataset.result=ok?'correct':'incorrect';
   f.className='q-feed '+(ok?'ok':'no');
   f.innerHTML=ok?'أحسنت، إجابة صحيحة':'راجع الإجابة <span class="corr">الإجابة الصحيحة: '+esc(corr)+'</span>';
-  card.querySelector('.q-state').replaceChildren(resultIcon(ok));
+  card.querySelector('.q-state').dataset.fxHandled='true';card.querySelector('.q-state').replaceChildren(resultIcon(ok));if(!restoring)window.ESFeedback?.(ok,card);
   done++; if(ok)score++; updateBar();
 }
 function passage(q){return q.passage?'<div class="q-passage" dir="ltr">'+esc(q.passage)+'</div>':''}
