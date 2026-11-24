@@ -1,0 +1,407 @@
+{
+  "release_id": "5ba97d6764836bae5021dddbf29117e2710bd06d",
+  "lessons": [
+    {
+      "lesson_id": "psc-ep1",
+      "kind": "youtube-embed",
+      "youtube_id": "Ab-0IzMgfcs",
+      "bytes": null,
+      "size_status": "not a downloadable fixed MP4; playback embed only",
+      "offline_policy": "streaming-only"
+    },
+    {
+      "lesson_id": "psc-ep2",
+      "kind": "youtube-embed",
+      "youtube_id": "0BS52iyo-cc",
+      "bytes": null,
+      "size_status": "not a downloadable fixed MP4; playback embed only",
+      "offline_policy": "streaming-only"
+    },
+    {
+      "lesson_id": "m1-u1",
+      "kind": "direct-mp4",
+      "source": "videos/ES_M1_T1_U1.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_M1_T1_U1.mp4",
+      "bytes": 17613936,
+      "sha256": "a5a1571c80297e3d8a7ed4056b862cc47fc319a2c3871bf5a7be880ab9952db9",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "psc-ep1-m1",
+      "kind": "youtube-embed",
+      "youtube_id": "Ab-0IzMgfcs",
+      "bytes": null,
+      "size_status": "not a downloadable fixed MP4; playback embed only",
+      "offline_policy": "streaming-only"
+    },
+    {
+      "lesson_id": "psc-ep2-m1",
+      "kind": "youtube-embed",
+      "youtube_id": "0BS52iyo-cc",
+      "bytes": null,
+      "size_status": "not a downloadable fixed MP4; playback embed only",
+      "offline_policy": "streaming-only"
+    },
+    {
+      "lesson_id": "p2-u1-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P2_T1_U1.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P2_T1_U1.mp4",
+      "bytes": 25732628,
+      "sha256": "a125b86382c9f353fcc01f8c0da1db56e679128573cd5d4b9891d6bf25ad5f5f",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p3-u1-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P3_T1_U1.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P3_T1_U1.mp4",
+      "bytes": 16975636,
+      "sha256": "71b766e944a03217c343b13a2b53b8f61368b0a1da23049f662a7ff3220b7e5c",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p4-u1-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P4_T1_U1.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P4_T1_U1.mp4",
+      "bytes": 18702224,
+      "sha256": "6711a6fb175234692c55979e785803622f217dda9fe05fe002b6a5779c6775de",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p5-u1-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P5_T1_U1.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P5_T1_U1.mp4",
+      "bytes": 15683808,
+      "sha256": "5d7c8169c848726fd0b1398853e1e5f8c9737f919b6ecb44a9b58acfb2b9256e",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "sa-g1-u1-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_SA_G1_U1.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_SA_G1_U1.mp4",
+      "bytes": 8690621,
+      "sha256": "ab725641d6785f76e6c96facb9030880639c15e21fced74d2dd18ca85e2e4fdd",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "sa-g1-u2-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_SA_G1_U2.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_SA_G1_U2.mp4",
+      "bytes": 13284465,
+      "sha256": "84e9f6041987da92c3f4bc613b1d19424836051fac1a4deef867ef3656f5c946",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p6-u1-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P6_T1_U1.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P6_T1_U1.mp4",
+      "bytes": 15755916,
+      "sha256": "134f0580f06eb9ed7ddd33c8f1ddca3992e4510b8297787443517c290b549af6",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "m2-u1",
+      "kind": "direct-mp4",
+      "source": "videos/ES_M2_T1_U1.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_M2_T1_U1.mp4",
+      "bytes": 17083022,
+      "sha256": "c9decda8705f2155fa5ae3e4c82236dbc4426bbab8f330f3ce4d7081f3d9af26",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "m3-u1",
+      "kind": "direct-mp4",
+      "source": "videos/ES_M3_T1_U1.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_M3_T1_U1.mp4",
+      "bytes": 17740236,
+      "sha256": "1ae4b4568673bd93c51a8679a8ab7865bd8de1f1d32fff81e63889ce4b31554e",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p2-u2",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P2_T1_U2.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P2_T1_U2.mp4",
+      "bytes": 48430062,
+      "sha256": "40ca2d912ab46365d4904ea8846f2127fe66c13e16a122595c357c31a83775f2",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p2-u3-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P2_T1_U3.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P2_T1_U3.mp4",
+      "bytes": 41491823,
+      "sha256": "fc2bfbd1d560c2433866deadc5b3725d243624c57941dc7e7c5872532817142a",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p2-u4-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P2_T1_U4.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P2_T1_U4.mp4",
+      "bytes": 26607013,
+      "sha256": "d470eaf06e385ed3ec18c2162faf730143e55c4289f69885e4902930beff564a",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "sa-g1-u3-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_SA_G1_U3.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_SA_G1_U3.mp4",
+      "bytes": 10450375,
+      "sha256": "541123619cfd49faa2c1d9e4a334ec566b258b023965ecc6b73c0e2b97ecbacd",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "sa-g1-u4-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_SA_G1_U4.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_SA_G1_U4.mp4",
+      "bytes": 10922035,
+      "sha256": "660f6747eacc56ec18c26497323777cfbc572c7a566c117e726794c96ccca45c",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p2-u5-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P2_T1_U5.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P2_T1_U5.mp4",
+      "bytes": 22090959,
+      "sha256": "3116452434cdf118d7b541ee9e0f6d5550fa61c417201e2d5d1701f64a9b853f",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p2-u6-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P2_T1_U6.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P2_T1_U6.mp4",
+      "bytes": 11580976,
+      "sha256": "24b055e49c7458e209890abf57bf7b1cd4ced2dc95b36a240a172791914b9605",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "kg1-t1-u1",
+      "kind": "direct-mp4",
+      "source": "videos/ES_KG1_T1_U1.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_KG1_T1_U1.mp4",
+      "bytes": 7795275,
+      "sha256": "a3eb51b51f4f680b0c068f3525174e87499edfc37cb2c25a590c76d386f952d4",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "kg1-t1-u2",
+      "kind": "direct-mp4",
+      "source": "videos/ES_KG1_T1_U2.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_KG1_T1_U2.mp4",
+      "bytes": 6490982,
+      "sha256": "5f2e3fc4adac987668d3cf701568d3ab899d3dd0a63270edb345a927d7107031",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "kg1-t1-u3",
+      "kind": "direct-mp4",
+      "source": "videos/ES_KG1_T1_U3.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_KG1_T1_U3.mp4",
+      "bytes": 8524769,
+      "sha256": "f6bc3544e6453698af99d7d70d8d7040e3b799819c75d0267e1a798d0f4f6fb2",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "kg1-t1-u4",
+      "kind": "direct-mp4",
+      "source": "videos/ES_KG1_T1_U4.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_KG1_T1_U4.mp4",
+      "bytes": 17594683,
+      "sha256": "448966c8d14d67780f13961ea2b3ef1129ceb5a695964ad37828450e4714463c",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "kg2-t1-u1",
+      "kind": "direct-mp4",
+      "source": "videos/ES_KG2_T1_U1.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_KG2_T1_U1.mp4",
+      "bytes": 13090807,
+      "sha256": "7328960eef0f8d1a9ef36ed46c1fa1f7922917418e440560e85329e95d58443e",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "kg2-t1-u2",
+      "kind": "direct-mp4",
+      "source": "videos/ES_KG2_T1_U2.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_KG2_T1_U2.mp4",
+      "bytes": 78562819,
+      "sha256": "52c0947d598533c038876d2eb2dcf7a836a59baf192abf784540668e9e79098a",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "kg2-t1-u3",
+      "kind": "direct-mp4",
+      "source": "https://github.com/basemhreaz-cloud/english-savant/releases/download/kg2-u3-hd-20261122/ES_KG2_T1_U3_HD.mp4",
+      "url": "https://github.com/basemhreaz-cloud/english-savant/releases/download/kg2-u3-hd-20261122/ES_KG2_T1_U3_HD.mp4",
+      "bytes": 130720686,
+      "size_status": "verified response headers",
+      "sha256": "f0d1bd3e2487c5921ff18e04fad170de3b53aa5cc4cc70ff485fbc2be6ac2d86",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "kg2-t1-u4",
+      "kind": "direct-mp4",
+      "source": "https://github.com/basemhreaz-cloud/english-savant/releases/download/kg2-u4-hd-20261122/ES_KG2_T1_U4_HD.mp4",
+      "url": "https://github.com/basemhreaz-cloud/english-savant/releases/download/kg2-u4-hd-20261122/ES_KG2_T1_U4_HD.mp4",
+      "bytes": 125674036,
+      "size_status": "verified response headers",
+      "sha256": "a3bf06a73b98ce51ff866eb8f3c91901793c97860181d62f312e9089ccebf09a",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p1-u1-full-lesson",
+      "kind": "direct-mp4",
+      "source": "https://github.com/basemhreaz-cloud/english-savant/releases/download/p1-u1-full-lesson-20261122/P1_U1_AR_full_word_lesson.mp4",
+      "url": "https://github.com/basemhreaz-cloud/english-savant/releases/download/p1-u1-full-lesson-20261122/P1_U1_AR_full_word_lesson.mp4",
+      "bytes": 127290475,
+      "size_status": "verified response headers",
+      "sha256": "50d869989ed6f142990d25aaf093210309cd5494a0acc659b3229164b47ce765",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p1-u2-full-lesson",
+      "kind": "direct-mp4",
+      "source": "https://github.com/basemhreaz-cloud/english-savant/releases/download/p1-u2-full-lesson-20261123/P1_U2_AR_full_word_lesson.mp4",
+      "url": "https://github.com/basemhreaz-cloud/english-savant/releases/download/p1-u2-full-lesson-20261123/P1_U2_AR_full_word_lesson.mp4",
+      "bytes": 139423718,
+      "size_status": "verified response headers",
+      "sha256": "99f44f11abb81a96bb7893f87f4b9319bd1b5b6f1b4513d2ac4281228852d4bc",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p1-u3-full-lesson",
+      "kind": "direct-mp4",
+      "source": "https://github.com/basemhreaz-cloud/english-savant/releases/download/p1-u3-full-lesson-20261123/P1_U3_AR_full_word_lesson.mp4",
+      "url": "https://github.com/basemhreaz-cloud/english-savant/releases/download/p1-u3-full-lesson-20261123/P1_U3_AR_full_word_lesson.mp4",
+      "bytes": 176006219,
+      "size_status": "verified response headers",
+      "sha256": "4e9e1ff32c130c463e66202b14ab682ad29bd95cf24d495b7473a66460613e37",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p1-u4-full-lesson",
+      "kind": "direct-mp4",
+      "source": "https://github.com/basemhreaz-cloud/english-savant/releases/download/p1-u4-full-lesson-20261123/P1_U4_AR_full_word_lesson.mp4",
+      "url": "https://github.com/basemhreaz-cloud/english-savant/releases/download/p1-u4-full-lesson-20261123/P1_U4_AR_full_word_lesson.mp4",
+      "bytes": 176270715,
+      "size_status": "verified response headers",
+      "sha256": "9ccbee7aa20819c6df7038a05f8463c65c37e110d6a131109a2d109687c33969",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p1-u5-full-lesson",
+      "kind": "direct-mp4",
+      "source": "https://github.com/basemhreaz-cloud/english-savant/releases/download/p1-u5-full-lesson-20261123/P1_U5_AR_full_word_lesson.mp4",
+      "url": "https://github.com/basemhreaz-cloud/english-savant/releases/download/p1-u5-full-lesson-20261123/P1_U5_AR_full_word_lesson.mp4",
+      "bytes": 179530678,
+      "size_status": "verified response headers",
+      "sha256": "f2f35457bfa186f05daaeb320f13b2a69f6bcc8df02da6c9e7ed7fa06ca6ab4a",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p1-u6-full-lesson",
+      "kind": "direct-mp4",
+      "source": "https://github.com/basemhreaz-cloud/english-savant/releases/download/p1-u6-full-lesson-20261123/P1_U6_AR_full_word_lesson.mp4",
+      "url": "https://github.com/basemhreaz-cloud/english-savant/releases/download/p1-u6-full-lesson-20261123/P1_U6_AR_full_word_lesson.mp4",
+      "bytes": 175135904,
+      "size_status": "verified response headers",
+      "sha256": "2dc5f0ea1fcebfbd5e562dde8a1adb41301d22110e1516bf39a71d584778f45f",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p3-u2-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P3_T1_U2.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P3_T1_U2.mp4",
+      "bytes": 40885189,
+      "sha256": "8f8bd25f0aab3889ad15609f148a44e408069d5af63c5185f5ff11ceb294a949",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p3-u3-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P3_T1_U3.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P3_T1_U3.mp4",
+      "bytes": 65380949,
+      "sha256": "c0f624e0ccfebe0dde43d75c334550d3f505e5d20372ff948f1c7c8e0218e5e1",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p3-u4-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P3_T1_U4.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P3_T1_U4.mp4",
+      "bytes": 87367732,
+      "sha256": "d5b19e2e65ea2295b9cbc24d79cf13fe779dd34dbfa995f405efc011b3e477fb",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p4-u2-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P4_T1_U2.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P4_T1_U2.mp4",
+      "bytes": 97637074,
+      "sha256": "b9c440fee8116144df42e48415bfe32900c85b701efa4273aa5d72c065a7cda8",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p3-u5-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P3_T1_U5.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P3_T1_U5.mp4",
+      "bytes": 98917769,
+      "sha256": "ad4d166856c3cbb09840d1c3887650706b0585eaecd089c769c8ae3d8ec37d01",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p3-u6-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P3_T1_U6.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P3_T1_U6.mp4",
+      "bytes": 58106032,
+      "sha256": "b1dc9c521a51a1d6f63a4eea7a063522735d2d93521f086709a188e9f10b8a68",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p4-u3-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P4_T1_U3.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P4_T1_U3.mp4",
+      "bytes": 57733453,
+      "sha256": "035046898e4059310c9c44d4ef9195d76d47707c3b797d9c58f7b7e1e7a7122e",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p4-u4-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P4_T1_U4.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P4_T1_U4.mp4",
+      "bytes": 64368753,
+      "sha256": "5072cb78fb8f8d03717e3113c8e0e54c8f5bb4277f90b376a65a773478893ddb",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    },
+    {
+      "lesson_id": "p4-u5-lesson",
+      "kind": "direct-mp4",
+      "source": "videos/ES_P4_T1_U5.mp4",
+      "url": "https://basemhreaz-cloud.github.io/english-savant/videos/ES_P4_T1_U5.mp4",
+      "bytes": 79801900,
+      "sha256": "94d0d97ad78b51c370d28498508fffbed4b0283a622b9677fb7e3bbe0f4f38f9",
+      "offline_policy": "download-after-first-play; ready-only-when-full-hash-verifies"
+    }
+  ],
+  "cache_policy_proposal": "Separate opt-in played-video store, ranges/resume supported; complete flag only after full file verified. YouTube playback cannot be promised as offline file.",
+  "source_policy": "Stable direct source URLs only, never temporary redirect URLs."
+}
