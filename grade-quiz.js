@@ -18,7 +18,7 @@ function esc(t){return String(t).replace(/[&<>"]/g,function(c){return{'&':'&amp;
 function norm(t){return esAnswerText(t).trim().toLowerCase().replace(/\s+/g,' ').replace(/[.?!،]+$/,'')}
 var total=0,done=0,score=0,progress={},progressKey='es-grade-quiz-v1-'+gs,restoring=false;
 function persist(){if(restoring)return;try{localStorage.setItem(progressKey,JSON.stringify(progress))}catch{}}
-function remember(card){if(restoring)return;const r=progress.answers[card.dataset.index]||{};r.values=[...card.querySelectorAll('input,select')].map(x=>x.value);r.tokens=[...card.querySelectorAll('.built .wchip')].map(x=>x.dataset.token);progress.answers[card.dataset.index]=r;persist()}
+function remember(card){if(restoring)return;const r=progress.answers[card.dataset.index]||{};r.values=[...card.querySelectorAll('input:not([type=checkbox]),select')].map(x=>x.value);r.tokens=[...card.querySelectorAll('.built .wchip')].map(x=>x.dataset.token);progress.answers[card.dataset.index]=r;persist()}
 
 function updateBar(){
   document.getElementById('qprogress').textContent='سؤال '+done+' من '+total;
@@ -66,7 +66,7 @@ function buildTf(card,q){
 function buildTypein(card,q,placeholder){
   var extra=q.letters?'<div class="q-text" dir="ltr"><span class="q-letters">'+esc(q.letters)+'</span></div>':'<div class="q-text" dir="ltr">'+esc(q.q)+'</div>';
   card.innerHTML+=passage(q)+extra+'<div class="q-inline" dir="ltr"><input class="q-input" type="text" placeholder="'+(placeholder||'')+'" autocapitalize="off" autocomplete="off" spellcheck="false"/><button class="q-check">تحقق</button></div>';
-  var inp=card.querySelector('.q-input'),btn=card.querySelector('.q-check');
+  var inp=card.querySelector('.q-input'),btn=card.querySelector('.q-check');if(!q.letters)window.ESWrittenAI?.attach(card,{question:q.q,passage:q.passage,alternatives:q.answer,answer:()=>inp.value});
   function go(){
     if(!inp.value.trim())return;
     var ok=q.answer.some(function(a){return norm(a)===norm(inp.value)});
@@ -136,7 +136,7 @@ card.querySelector('.q-feed').setAttribute('role','status');
 card.querySelectorAll('.q-words .wchip').forEach((x,k)=>x.dataset.token=k);
 card.addEventListener('input',()=>remember(card));card.addEventListener('change',()=>remember(card));card.addEventListener('click',()=>remember(card));
 const old=progress.answers[i];if(old){restoring=true;
-card.querySelectorAll('input,select').forEach((x,k)=>x.value=old.values?.[k]||'');
+card.querySelectorAll('input:not([type=checkbox]),select').forEach((x,k)=>x.value=old.values?.[k]||'');
 for(const token of old.tokens||[]){const b=[...card.querySelectorAll('.wchip')].find(x=>x.dataset.token===token);if(b)card.querySelector('.built').append(b)}
 if(typeof old.ok==='boolean'){
 card.dataset.chosen=old.chosen??'';
