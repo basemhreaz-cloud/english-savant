@@ -1,0 +1,84 @@
+name: Android disposable low-storage audit
+on:
+  push:
+    branches: [android-space-d1-once]
+permissions:
+  contents: write
+concurrency:
+  group: android-installed-audit
+  cancel-in-progress: false
+jobs:
+  emulator:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: true
+      - name: Fetch exact test binary
+        env:
+          APK_URL: https://basemhreaz-cloud.github.io/english-savant/English-Savant-2.1.3-reliability-test.apk
+          APK_SHA: eb3d03323135f7315b764309848dcc64e8c9663ad50532bb10a3a0ddd58925cc
+        run: |
+          python3 - <<'PY'
+          import os,urllib.request,urllib.parse,hashlib,re
+          url=os.environ['APK_URL']; expected=os.environ['APK_SHA']
+          u=urllib.parse.urlparse(url)
+          assert u.scheme=='https' and u.hostname in ('basemhreaz-cloud.github.io','github.com'), 'Unexpected test source'
+          assert re.fullmatch('[a-f0-9]{64}',expected)
+          with urllib.request.urlopen(url,timeout=120) as r, open('/tmp/savant-test.apk','wb') as f:
+            total=0; h=hashlib.sha256()
+            while True:
+              b=r.read(1024*1024)
+              if not b:break
+              total+=len(b);assert total<250*1024*1024
+              h.update(b);f.write(b)
+          assert h.hexdigest()==expected, 'APK hash mismatch'
+          print('APK verified',total,h.hexdigest())
+          PY
+      - name: Enable KVM
+        run: |
+          test -c /dev/kvm
+          sudo chmod 666 /dev/kvm
+          ls -l /dev/kvm
+      - name: Verify audit binary
+        run: echo "4d6192719f014afd424871feafc9dc348a553c876f46549d6622a5c0761b0766  android-ci/Savant-Space-Audit.apk" | sha256sum -c -
+      - name: Real Android emulator tests
+        uses: reactivecircus/android-emulator-runner@a421e43855164a8197daf9d8d40fe71c6996bb0d
+        with:
+          api-level: 30
+          target: google_apis
+          arch: x86_64
+          profile: pixel_2
+          ram-size: 2048M
+          disk-size: 4096M
+          disable-animations: false
+          emulator-boot-timeout: 600
+          script: python3 android-ci/run-space-audit.py
+      - name: Evidence size cap
+        if: always()
+        run: |
+          mkdir -p android-evidence
+          du -sh android-evidence
+          test "$(du -sb android-evidence | cut -f1)" -lt 20000000
+      - name: Publish bounded evidence on isolated branch
+        if: always()
+        env:
+          EVIDENCE_BRANCH: android-targeted-evidence-${{ github.run_id }}
+        run: |
+          python3 - <<'PYTEST'
+          import json,pathlib
+          p=pathlib.Path('android-evidence/results.json')
+          if p.exists(): print(p.read_text())
+          PYTEST
+          mkdir -p /tmp/evidence-save
+          cp -a android-evidence/. /tmp/evidence-save/
+          git checkout --orphan "$EVIDENCE_BRANCH"
+          git rm -rf --cached .
+          mkdir -p evidence
+          cp -a /tmp/evidence-save/. evidence/
+          git add evidence/
+          git config user.name english-savant-test
+          git config user.email english-savant-test@users.noreply.github.com
+          git commit -m "Installed API30 test evidence only"
+          git push origin HEAD:"$EVIDENCE_BRANCH"
