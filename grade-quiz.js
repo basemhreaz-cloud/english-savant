@@ -4,7 +4,10 @@ var gs=document.body.dataset.grade;
 var LABELS={choose:'اختر الإجابة الصحيحة',sound:'اختر الصوت الناقص',form:'اكتب التصريف الصحيح',cloze:'أكمل الفراغ من الكلمات',unscramble:'رتّب الحروف واكتب الكلمة',reorder:'رتّب الكلمات وكوّن الجملة',tf:'صح أم غلط',typein:'اكتب الإجابة',mcq:'اختر الإجابة الصحيحة'};
 function esc(t){return String(t).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 function norm(t){return String(t).trim().toLowerCase().replace(/\s+/g,' ').replace(/[.?!،]+$/,'')}
-var total=0,done=0,score=0;
+var total=0,done=0,score=0,progress={},progressKey='es-grade-quiz-v1-'+gs,restoring=false;
+function persist(){if(restoring)return;try{localStorage.setItem(progressKey,JSON.stringify(progress))}catch{}}
+function remember(card){if(restoring)return;const r=progress.answers[card.dataset.index]||{};r.values=[...card.querySelectorAll('input,select')].map(x=>x.value);r.tokens=[...card.querySelectorAll('.built .wchip')].map(x=>x.dataset.token);progress.answers[card.dataset.index]=r;persist()}
+
 function updateBar(){
   document.getElementById('qprogress').textContent='سؤال '+done+' من '+total;
   document.getElementById('qbarfill').style.width=(total?(done/total*100):0)+'%';
@@ -18,7 +21,7 @@ function updateBar(){
   }
 }
 function feed(card,ok,corr){
-  var f=card.querySelector('.q-feed');
+  var f=card.querySelector('.q-feed');if(!restoring){remember(card);const record=progress.answers[card.dataset.index];record.ok=ok;record.corr=corr;record.chosen=card.dataset.chosen;persist()}card.dataset.result=ok?'correct':'incorrect';
   f.className='q-feed '+(ok?'ok':'no');
   f.innerHTML=ok?'أحسنت، إجابة صحيحة':'راجع الإجابة <span class="corr">الإجابة الصحيحة: '+esc(corr)+'</span>';
   card.querySelector('.q-state').replaceChildren(resultIcon(ok));
@@ -31,7 +34,7 @@ function buildMcq(card,q,i){
   card.innerHTML+=h+'</div>';
   card.querySelectorAll('.opt').forEach(function(b){b.addEventListener('click',function(){
     card.querySelectorAll('.opt').forEach(function(x){x.disabled=true});
-    var j=+b.dataset.j,ok=j===q.answer;
+    card.dataset.chosen=b.dataset.j;var j=+b.dataset.j,ok=j===q.answer;
     b.classList.add(ok?'ok':'no');
     if(!ok)card.querySelectorAll('.opt')[q.answer].classList.add('ok');
     feed(card,ok,q.options[q.answer]);
@@ -42,7 +45,7 @@ function buildTf(card,q){
   card.innerHTML+=h;
   card.querySelectorAll('.opt').forEach(function(b){b.addEventListener('click',function(){
     card.querySelectorAll('.opt').forEach(function(x){x.disabled=true});
-    var ok=(b.dataset.v==='1')===q.answer;
+    card.dataset.chosen=b.dataset.v;var ok=(b.dataset.v==='1')===q.answer;
     b.classList.add(ok?'ok':'no');
     if(!ok)card.querySelector('.opt[data-v="'+(q.answer?'1':'0')+'"]').classList.add('ok');
     feed(card,ok,q.answer?'صح':'غلط');
@@ -94,7 +97,7 @@ function buildReorder(card,q){
     var got=[...built.querySelectorAll('.wchip')].map(function(b){return b.dataset.w});
     if(got.length!==q.answer.length){card.querySelector('.q-feed').className='q-feed no';card.querySelector('.q-feed').textContent='استخدم كل الكلمات.';return}
     var ok=q.answer.every(function(w,i){return got[i]===w});
-    btn.disabled=true;built.style.borderStyle='solid';
+    btn.disabled=true;card.querySelectorAll('.wchip').forEach(x=>x.disabled=true);built.style.borderStyle='solid';
     feed(card,ok,q.answer.join(' '));
   });
 }
@@ -102,10 +105,10 @@ fetch('quiz-'+gs+'.json').then(function(r){if(!r.ok)throw 0;return r.json()}).th
   var _qt=document.getElementById('quiz-title'); if(_qt)_qt.textContent='اختبر نفسك — '+d.gradeName+'.';
   var _qs=document.getElementById('quiz-sub'); if(_qs)_qs.textContent=d.examTitle+' · من امتحانات مستر باسم، والتصحيح فوري بعد كل سؤال.';
   document.title='اختبر نفسك — '+d.gradeName+' | ENGLISH SAVANT';
-  var body=document.getElementById('quiz-body');body.innerHTML='';
+  var fingerprint=JSON.stringify(d.questions);try{progress=JSON.parse(localStorage.getItem(progressKey))||{}}catch{}if(progress.fingerprint!==fingerprint||!progress.answers)progress={fingerprint,answers:{}};var body=document.getElementById('quiz-body');body.innerHTML='';
   total=d.questions.length;updateBar();
   d.questions.forEach(function(q,i){
-    var card=document.createElement('div');card.className='q-card';
+    var card=document.createElement('div');card.className='q-card';card.dataset.index=i;
     var label=LABELS[q.label||q.type]||LABELS[q.type]||'';
     card.innerHTML='<div class="q-head"><span class="q-num">'+(i+1)+'</span><span class="q-label">'+label+'</span><span class="q-state"></span></div><div class="q-feed"></div>';
     body.appendChild(card);
@@ -115,8 +118,27 @@ fetch('quiz-'+gs+'.json').then(function(r){if(!r.ok)throw 0;return r.json()}).th
     else if(q.type==='unscramble')buildTypein(card,q,'الكلمة الصح…');
     else if(q.type==='cloze')buildCloze(card,q);
     else if(q.type==='reorder')buildReorder(card,q);
+card.querySelectorAll('input').forEach((x,k)=>x.setAttribute('aria-label','إجابتك '+(k+1)));
+card.querySelectorAll('select').forEach((x,k)=>x.setAttribute('aria-label','الفراغ '+(k+1)));
+card.querySelector('.q-feed').setAttribute('role','status');
+card.querySelectorAll('.q-words .wchip').forEach((x,k)=>x.dataset.token=k);
+card.addEventListener('input',()=>remember(card));card.addEventListener('change',()=>remember(card));card.addEventListener('click',()=>remember(card));
+const old=progress.answers[i];if(old){restoring=true;
+card.querySelectorAll('input,select').forEach((x,k)=>x.value=old.values?.[k]||'');
+for(const token of old.tokens||[]){const b=[...card.querySelectorAll('.wchip')].find(x=>x.dataset.token===token);if(b)card.querySelector('.built').append(b)}
+if(typeof old.ok==='boolean'){
+card.dataset.chosen=old.chosen??'';
+if(q.type==='mcq'||q.type==='tf'){const attr=q.type==='mcq'?'j':'v',answer=q.type==='mcq'?String(q.answer):(q.answer?'1':'0');card.querySelectorAll('.opt').forEach(x=>{if(x.dataset[attr]===String(old.chosen))x.classList.add(old.ok?'ok':'no');if(!old.ok&&x.dataset[attr]===answer)x.classList.add('ok')})}
+else if(q.type==='cloze')card.querySelectorAll('select').forEach((x,k)=>x.classList.add(x.value===q.answers[k]?'ok':'no'));
+else card.querySelector('input')?.classList.add(old.ok?'ok':'no');
+card.querySelectorAll('input,select,button').forEach(x=>x.disabled=true);feed(card,old.ok,old.corr)
+}restoring=false}
+
   });
-  document.getElementById('quiz-retry').addEventListener('click',function(){location.reload()});
+  document.getElementById('quiz-retry').addEventListener('click',function(){localStorage.removeItem(progressKey);location.reload()});
+const review=document.createElement('button');review.className='q-check';review.textContent='راجع الإجابات غير الصحيحة';review.onclick=()=>{const wrong=[...body.querySelectorAll('.q-card[data-result=incorrect]')];if(!wrong.length){review.textContent='لا توجد إجابات غير صحيحة حتى الآن';return}body.querySelectorAll('.q-card').forEach(c=>c.hidden=c.dataset.result!=='incorrect');wrong[0].scrollIntoView({block:'center',behavior:'instant'})};document.getElementById('quiz-done').append(review);
+const showAll=document.createElement('button');showAll.className='q-check';showAll.textContent='اعرض كل الأسئلة';showAll.onclick=()=>body.querySelectorAll('.q-card').forEach(c=>c.hidden=false);document.getElementById('quiz-done').append(showAll);
+
 }).catch(function(){
   document.getElementById('quiz-body').innerHTML='<div class="lesson-empty">الاختبار ده لسه مش جاهز. جرب صفحة تانية من <a href="grades.html">الصفوف التعليمية</a>.</div>';
 });
