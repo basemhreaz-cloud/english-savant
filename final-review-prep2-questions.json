@@ -1,0 +1,5223 @@
+{
+ "grade": "Prep2",
+ "schema": "muraja3a-display/v1",
+ "autograde_allowed": true,
+ "note": "Teacher-derived answers independently checked. Ambiguous items and written/open reading answers require teacher review. Printed source contains no answer key.",
+ "sections": [
+  {
+   "section_index": 0,
+   "type": "mcq",
+   "instruction": "Choose the correct answer from a, b, c or d:",
+   "items": [
+    {
+     "item_id": "Prep2:s0:i0",
+     "question": "The time people spend using a screen is called ……...",
+     "options": [
+      "spare time",
+      "free time",
+      "screen time",
+      "waste time"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "screen time"
+    },
+    {
+     "item_id": "Prep2:s0:i1",
+     "question": "If you have the same ideas and interests with someone, it means you have something in ……...",
+     "options": [
+      "special",
+      "common",
+      "particular",
+      "different"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "common"
+    },
+    {
+     "item_id": "Prep2:s0:i2",
+     "question": "We should all treat old people .......kindness.",
+     "options": [
+      "to",
+      "for",
+      "with",
+      "in"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "with"
+    },
+    {
+     "item_id": "Prep2:s0:i3",
+     "question": "......are small digital images used to express emotions or ideas in electronic messages.",
+     "options": [
+      "Sites",
+      "Websites",
+      "Emojis",
+      "Photos"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Emojis"
+    },
+    {
+     "item_id": "Prep2:s0:i4",
+     "question": "Many parents encourage their children to use ........skills online.",
+     "options": [
+      "digital",
+      "interpersonal",
+      "manual",
+      "mechanical"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "digital"
+    },
+    {
+     "item_id": "Prep2:s0:i5",
+     "question": "Gen Alpha is a generation that is hoped to........the future.",
+     "options": [
+      "ship",
+      "shape",
+      "tape",
+      "tip"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "shape"
+    },
+    {
+     "item_id": "Prep2:s0:i6",
+     "question": "Your ......is shaped by your culture and experiences.",
+     "options": [
+      "done",
+      "shaped",
+      "taken",
+      "left"
+     ],
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "لا يوجد خيار صحيح بين الخيارات المطبوعة، يراجعه المدرس."
+    },
+    {
+     "item_id": "Prep2:s0:i7",
+     "question": "A group of people born around the same time are called ......",
+     "options": [
+      "generation",
+      "preparation",
+      "connection",
+      "presentation"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "generation"
+    },
+    {
+     "item_id": "Prep2:s0:i8",
+     "question": "The antonym of the word \"encourage\" is ......",
+     "options": [
+      "uncourage",
+      "discourage",
+      "support",
+      "motivate"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "discourage"
+    },
+    {
+     "item_id": "Prep2:s0:i9",
+     "question": "“......” means being in distant places.",
+     "options": [
+      "Near",
+      "Open",
+      "Far apart",
+      "A part"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Far apart"
+    },
+    {
+     "item_id": "Prep2:s0:i10",
+     "question": "Last year, my father’s facebook account was...... as his password was very simple.",
+     "options": [
+      "hacked",
+      "healed",
+      "hooked",
+      "hoped"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "hacked"
+    },
+    {
+     "item_id": "Prep2:s0:i11",
+     "question": "If I don’t set my privacy settings......, all my photos online will be seen by others.",
+     "options": [
+      "proper",
+      "properly",
+      "probable",
+      "wrongly"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "properly"
+    },
+    {
+     "item_id": "Prep2:s0:i12",
+     "question": "Don’t put yourself …… risk by trying extreme sports.",
+     "options": [
+      "in",
+      "at",
+      "on",
+      "of"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "at"
+    },
+    {
+     "item_id": "Prep2:s0:i13",
+     "question": "To stay safe online, you shouldn’t...... your full name or address.",
+     "options": [
+      "take",
+      "share",
+      "read",
+      "see"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "share"
+    },
+    {
+     "item_id": "Prep2:s0:i14",
+     "question": "You should …….. sure that you don’t post your personal details online.",
+     "options": [
+      "do",
+      "have",
+      "try",
+      "make"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "make"
+    },
+    {
+     "item_id": "Prep2:s0:i15",
+     "question": "The antonym of the word “careful” is ......",
+     "options": [
+      "careless",
+      "cautious",
+      "weak",
+      "strong"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "careless"
+    },
+    {
+     "item_id": "Prep2:s0:i16",
+     "question": "To protect your online accounts, you need a strong ......",
+     "options": [
+      "effect",
+      "password",
+      "information",
+      "data"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "password"
+    },
+    {
+     "item_id": "Prep2:s0:i17",
+     "question": ".....old stamps is one of my favorite hobbies.",
+     "options": [
+      "Connecting",
+      "Cancelling",
+      "Collecting",
+      "Communicating"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Collecting"
+    },
+    {
+     "item_id": "Prep2:s0:i18",
+     "question": "To stay safe online, we shouldn’t ......our personal data.",
+     "options": [
+      "delete",
+      "save",
+      "remove",
+      "share"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "share"
+    },
+    {
+     "item_id": "Prep2:s0:i19",
+     "question": "She is ................ of her son who won the competition.",
+     "options": [
+      "glad",
+      "proud",
+      "ashamed",
+      "afraid"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "proud"
+    },
+    {
+     "item_id": "Prep2:s0:i20",
+     "question": "Last week, I went to school late as I got ……..in a traffic jam.",
+     "options": [
+      "stick",
+      "sticking",
+      "sticker",
+      "stuck"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "stuck"
+    },
+    {
+     "item_id": "Prep2:s0:i21",
+     "question": "The antonym of the word “courage” is “......”.",
+     "options": [
+      "strength",
+      "power",
+      "fear",
+      "bravery"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "fear"
+    },
+    {
+     "item_id": "Prep2:s0:i22",
+     "question": "Leila felt ......... when she lost the race.",
+     "options": [
+      "disappoint",
+      "disappointed",
+      "disappoints",
+      "disappointing"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "disappointed"
+    },
+    {
+     "item_id": "Prep2:s0:i23",
+     "question": "A ...... is a difficult situation or task.",
+     "options": [
+      "quiz",
+      "result",
+      "step",
+      "challenge"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "challenge"
+    },
+    {
+     "item_id": "Prep2:s0:i24",
+     "question": "She is trying to ...... the challenges in her new job.",
+     "options": [
+      "make",
+      "fail",
+      "give up",
+      "overcome"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "overcome"
+    },
+    {
+     "item_id": "Prep2:s0:i25",
+     "question": "You should have ......to overcome your challenges.",
+     "options": [
+      "fear",
+      "anger",
+      "determination",
+      "laziness"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "determination"
+    },
+    {
+     "item_id": "Prep2:s0:i26",
+     "question": "A traffic jam happens when long lines of cars can’t move or are moving very.......",
+     "options": [
+      "fast",
+      "quickly",
+      "slow",
+      "slowly"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "slowly"
+    },
+    {
+     "item_id": "Prep2:s0:i27",
+     "question": "The word “hard” is a synonym for “......”.",
+     "options": [
+      "easy",
+      "simple",
+      "difficult",
+      "brave"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "difficult"
+    },
+    {
+     "item_id": "Prep2:s0:i28",
+     "question": "In big cities, it’s easier to ......using buses ,bikes ,or trains.",
+     "options": [
+      "stay",
+      "move around",
+      "fly",
+      "play"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "move around"
+    },
+    {
+     "item_id": "Prep2:s0:i29",
+     "question": "The words “blocked” and “open” are ......",
+     "options": [
+      "antonyms",
+      "synonyms",
+      "meanings",
+      "the same"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "antonyms"
+    },
+    {
+     "item_id": "Prep2:s0:i30",
+     "question": "He felt ......when he got low marks in his exams.",
+     "options": [
+      "pleased",
+      "happy",
+      "brave",
+      "disappointed"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "disappointed"
+    },
+    {
+     "item_id": "Prep2:s0:i31",
+     "question": "The prefix ......gives the opposite of the word “afraid”.",
+     "options": [
+      "in",
+      "un",
+      "il",
+      "dis"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "un"
+    },
+    {
+     "item_id": "Prep2:s0:i32",
+     "question": "After he died, he gained .......for his work.",
+     "options": [
+      "meaningful",
+      "message",
+      "recognition",
+      "special"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "recognition"
+    },
+    {
+     "item_id": "Prep2:s0:i33",
+     "question": "Everyone liked the sculpture he made. It’s an .........statue.",
+     "options": [
+      "paintings",
+      "amazing",
+      "imagination",
+      "creativity"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "amazing"
+    },
+    {
+     "item_id": "Prep2:s0:i34",
+     "question": "Next time, I will exhibit more ........artworks.",
+     "options": [
+      "elements",
+      "interactive",
+      "engage",
+      "paintings"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "interactive"
+    },
+    {
+     "item_id": "Prep2:s0:i35",
+     "question": "Our school encourages students to participate in the annual art exhibition to promote ........ and imagination.",
+     "options": [
+      "amazing",
+      "creativity",
+      "art",
+      "hidden"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "creativity"
+    },
+    {
+     "item_id": "Prep2:s0:i36",
+     "question": "This gallery is filled with ...... artworks.",
+     "options": [
+      "create",
+      "imagination",
+      "valuable",
+      "feelings"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "valuable"
+    },
+    {
+     "item_id": "Prep2:s0:i37",
+     "question": "The synonym of the word”original” is .......",
+     "options": [
+      "fake",
+      "copy",
+      "real",
+      "unreal"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "real"
+    },
+    {
+     "item_id": "Prep2:s0:i38",
+     "question": "Mahmoud Mokhtar is well known as a very creative.......",
+     "options": [
+      "painting",
+      "clay",
+      "teacher",
+      "sculptor"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "sculptor"
+    },
+    {
+     "item_id": "Prep2:s0:i39",
+     "question": "Amir used to ......when he was young. He made an amazing sculpture.",
+     "options": [
+      "teach",
+      "sing",
+      "sculpt",
+      "cook"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "sculpt"
+    },
+    {
+     "item_id": "Prep2:s0:i40",
+     "question": "The synonym of the word “valuable” is .......",
+     "options": [
+      "visible",
+      "worthless",
+      "cheap",
+      "precious"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "precious"
+    },
+    {
+     "item_id": "Prep2:s0:i41",
+     "question": "The gallery held a ........ competition among artists every year.",
+     "options": [
+      "recognition",
+      "national",
+      "sculpture",
+      "artworks"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "national"
+    },
+    {
+     "item_id": "Prep2:s0:i42",
+     "question": "I always include .......in my big installations.",
+     "options": [
+      "interactive",
+      "sculpt",
+      "elements",
+      "awards"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "elements"
+    },
+    {
+     "item_id": "Prep2:s0:i43",
+     "question": "The synonym of the word”incredible” is .......",
+     "options": [
+      "usual",
+      "normal",
+      "amazing",
+      "boring"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "amazing"
+    },
+    {
+     "item_id": "Prep2:s0:i44",
+     "question": "Gold is a shiny ……used for making jewelry.",
+     "options": [
+      "art",
+      "skill",
+      "metal",
+      "stone"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "metal"
+    },
+    {
+     "item_id": "Prep2:s0:i45",
+     "question": "I think that art should really…….with people.",
+     "options": [
+      "risk",
+      "choose",
+      "hide",
+      "engage"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "engage"
+    },
+    {
+     "item_id": "Prep2:s0:i46",
+     "question": "…….means something that is very hard to believe.",
+     "options": [
+      "Lazy",
+      "Incredible",
+      "Secret",
+      "Hidden"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Incredible"
+    },
+    {
+     "item_id": "Prep2:s0:i47",
+     "question": "Mahmoud Mokhtar ......international recognition by exhibiting his art in Paris.",
+     "options": [
+      "gained",
+      "lost",
+      "forgot",
+      "played"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "gained"
+    },
+    {
+     "item_id": "Prep2:s0:i48",
+     "question": "Each country has its own ....... and culture.",
+     "options": [
+      "souvenirs",
+      "wonders",
+      "treasures",
+      "traditions"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "traditions"
+    },
+    {
+     "item_id": "Prep2:s0:i49",
+     "question": "The trip to Ras Mohamed was an ........ experience.",
+     "options": [
+      "forgettable",
+      "geothermal",
+      "peaceful",
+      "unforgettable"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "unforgettable"
+    },
+    {
+     "item_id": "Prep2:s0:i50",
+     "question": "My trip to the mountains gave me great ...... that I will never forget.",
+     "options": [
+      "locations",
+      "destinations",
+      "memories",
+      "objects."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "memories"
+    },
+    {
+     "item_id": "Prep2:s0:i51",
+     "question": "Dubai has become a famous ....... city.",
+     "options": [
+      "painting",
+      "hiking",
+      "trading",
+      "wedding"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "trading"
+    },
+    {
+     "item_id": "Prep2:s0:i52",
+     "question": "Aswan is a special place full of ........ and culture.",
+     "options": [
+      "amazing",
+      "charm",
+      "exciting",
+      "surprising"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "charm"
+    },
+    {
+     "item_id": "Prep2:s0:i53",
+     "question": "The ancient statue was ...... from a single piece of stone.",
+     "options": [
+      "dealt",
+      "carved",
+      "painted"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "carved"
+    },
+    {
+     "item_id": "Prep2:s0:i54",
+     "question": "He told me about his amazing ....... after climbing the mountains.",
+     "options": [
+      "paintings",
+      "adventures",
+      "statues",
+      "mummies"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "adventures"
+    },
+    {
+     "item_id": "Prep2:s0:i55",
+     "question": "The Pyramids in Giza were one of the ancient seven .......",
+     "options": [
+      "cities",
+      "countries",
+      "mountains",
+      "wonders"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "wonders"
+    },
+    {
+     "item_id": "Prep2:s0:i56",
+     "question": "We will go on a tour to many amazing .......",
+     "options": [
+      "rocks",
+      "memories",
+      "destinations",
+      "charms"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "destinations"
+    },
+    {
+     "item_id": "Prep2:s0:i57",
+     "question": "Mount Fuji is a special ......in Japan.",
+     "options": [
+      "land",
+      "landmark",
+      "landfill",
+      "landslide"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "landmark"
+    },
+    {
+     "item_id": "Prep2:s0:i58",
+     "question": "The synonym of the word (impressive) is ......",
+     "options": [
+      "risky",
+      "dull",
+      "attractive",
+      "ordinary"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "attractive"
+    },
+    {
+     "item_id": "Prep2:s0:i59",
+     "question": ".....means the number of people living in a place.",
+     "options": [
+      "Tourists",
+      "Population",
+      "Pollution",
+      "Tours"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Population"
+    },
+    {
+     "item_id": "Prep2:s0:i60",
+     "question": "Dead bodies that have been preserved for a long time, especially in Ancient Egypt are called ......",
+     "options": [
+      "kings",
+      "queens",
+      "mummies",
+      "tombs"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "mummies"
+    },
+    {
+     "item_id": "Prep2:s0:i61",
+     "question": "Japan is a country in ......",
+     "options": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "America"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Asia"
+    },
+    {
+     "item_id": "Prep2:s0:i62",
+     "question": "The people of Japan are......",
+     "options": [
+      "huge",
+      "small",
+      "funny",
+      "polite"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "polite"
+    },
+    {
+     "item_id": "Prep2:s0:i63",
+     "question": "After washing the clothes, she put them in the ........ to remove the water.",
+     "options": [
+      "oven",
+      "fridge",
+      "dryer",
+      "sink"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "dryer"
+    },
+    {
+     "item_id": "Prep2:s0:i64",
+     "question": "His room was so ........ that it was hard to find all the clothes under the bed.",
+     "options": [
+      "neat",
+      "clean",
+      "tidy",
+      "messy"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "messy"
+    },
+    {
+     "item_id": "Prep2:s0:i65",
+     "question": "Be careful! The floor is wet and you might start ........",
+     "options": [
+      "jumping",
+      "slipping",
+      "standing",
+      "running"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "slipping"
+    },
+    {
+     "item_id": "Prep2:s0:i66",
+     "question": "She used a bottle of water to ........ the plants every morning.",
+     "options": [
+      "drink",
+      "collect",
+      "invent",
+      "spray"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "spray"
+    },
+    {
+     "item_id": "Prep2:s0:i67",
+     "question": "The student felt ........ before the exam because she had studied hard.",
+     "options": [
+      "nervous",
+      "afraid",
+      "confident",
+      "angry"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "confident"
+    },
+    {
+     "item_id": "Prep2:s0:i68",
+     "question": "We have different ...... of smartphones in our company.",
+     "options": [
+      "materials",
+      "steps",
+      "thoughts",
+      "versions"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "versions"
+    },
+    {
+     "item_id": "Prep2:s0:i69",
+     "question": "Inventions don’t have to be ......... What matters is the impact.",
+     "options": [
+      "easy",
+      "simple",
+      "complex",
+      "patient"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "complex"
+    },
+    {
+     "item_id": "Prep2:s0:i70",
+     "question": "Working hard helps you ...... great success.",
+     "options": [
+      "fail",
+      "miss",
+      "lose",
+      "achieve"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "achieve"
+    },
+    {
+     "item_id": "Prep2:s0:i71",
+     "question": "Do you have any ....... about how to test this tool?",
+     "options": [
+      "impacts",
+      "engineers",
+      "thoughts",
+      "inventors"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "thoughts"
+    },
+    {
+     "item_id": "Prep2:s0:i72",
+     "question": "A ........ engineer works to make cities safe and organized.",
+     "options": [
+      "computer",
+      "fashion",
+      "biomedical",
+      "civil"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "civil"
+    },
+    {
+     "item_id": "Prep2:s0:i73",
+     "question": "Many inventors received ...... for their achievements.",
+     "options": [
+      "skills",
+      "prizes",
+      "points",
+      "tasks"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "prizes"
+    },
+    {
+     "item_id": "Prep2:s0:i74",
+     "question": "Learning a new language is a slow ....... that takes time and practice.",
+     "options": [
+      "mistake",
+      "process",
+      "object",
+      "tool"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "process"
+    },
+    {
+     "item_id": "Prep2:s0:i75",
+     "question": "His bedroom was so ...... that he couldn’t find his shoes.",
+     "options": [
+      "tidy",
+      "shiny",
+      "bright",
+      "messy"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "messy"
+    },
+    {
+     "item_id": "Prep2:s0:i76",
+     "question": "Biomedical engineers use tools like ...... to help patients.",
+     "options": [
+      "movements",
+      "sensors",
+      "stations",
+      "impacts"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "sensors"
+    },
+    {
+     "item_id": "Prep2:s0:i77",
+     "question": "Dr Zeweil inspired a lot of scientists and ......",
+     "options": [
+      "inventors",
+      "invitations",
+      "inventions",
+      "innovations"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "inventors"
+    },
+    {
+     "item_id": "Prep2:s0:i78",
+     "question": "Last year, a student created a ......device which made a big impact on her town.",
+     "options": [
+      "water-saved",
+      "water-saving",
+      "water-saves",
+      "water saver"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "water-saving"
+    },
+    {
+     "item_id": "Prep2:s0:i79",
+     "question": "Many inventions started with a simple......",
+     "options": [
+      "think",
+      "thinker",
+      "thought",
+      "thinking"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "thought"
+    },
+    {
+     "item_id": "Prep2:s0:i80",
+     "question": "Great scientists always come up ......great ideas.",
+     "options": [
+      "with",
+      "into",
+      "on",
+      "about"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "with"
+    }
+   ]
+  },
+  {
+   "section_index": 1,
+   "type": "reading_mcq",
+   "instruction": "Read the text and answer the questions:",
+   "items": [
+    {
+     "item_id": "Prep2:s1:i0",
+     "passage": "Amina doesn't like math. She used to think she had to study computer science because everyone says it's excellent. But she felt stressed every time she saw numbers. One day, her cousin showed her a graphic design on a tablet.Amina drew it and made it move. She smiled for the first time in weeks. She learned that computer science is about numbers, but graphic design is about colors and ideas. She didn't know you could make art with computers. Her motivation is creativity – not money.She says, \"I don't work for money. I work because I feel free.\" She doesn't want to be an engineer. She wants to design games for kids.",
+     "mcq": [
+      {
+       "question": "Amina felt stressed when she saw ................",
+       "options": [
+        "buildings",
+        "numbers",
+        "animals",
+        "cars"
+       ],
+       "answer": "numbers"
+      },
+      {
+       "question": "Amina learned that graphic design is about colors and ................",
+       "options": [
+        "objects",
+        "tools",
+        "ideas",
+        "photos"
+       ],
+       "answer": "ideas"
+      }
+     ],
+     "questions": [
+      "What is the main idea of the passage?",
+      "What two jobs did Amina learn about?",
+      "Does Amina work for money? Why?"
+     ],
+     "model_answers": [
+      "Amina found that she prefers graphic design, which is about creativity, to computer science.",
+      "Computer science and graphic design.",
+      "No, she doesn't. Her motivation is creativity, and she works because she feels free."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "Prep2:s1:i1",
+     "passage": "Many years ago, a poor, kind farmer was walking through the forest when he found a small bird trapped in a net.The bird was weak, so the farmer gently freed it and helped it recover. Suddenly,the bird turned into a young man. He thanked the farmer and promised to stay and work on the farm. They planted crops, shared meals, and lived happily.However,the young man asked the farmer never to ask about his past. One day, curiosity made the farmer ask anyway. The young man felt sad and left forever.The farmer learned an important lesson:keeping promises is very important.",
+     "mcq": [
+      {
+       "question": "The story is mainly about ................",
+       "options": [
+        "a farmer planting crops",
+        "making friends with animals",
+        "how to walk in the forest",
+        "a bird turns into a man"
+       ],
+       "answer": "a bird turns into a man"
+      },
+      {
+       "question": "The underlined word \"curiosity\" means ................",
+       "options": [
+        "wanting to know things",
+        "feeling very happy",
+        "feeling very angry",
+        "feeling very scared"
+       ],
+       "answer": "wanting to know things"
+      }
+     ],
+     "questions": [
+      "What did the farmer find in the forest?",
+      "What promise did the young man make to the farmer?",
+      "Do you agree with the young man's decisions to leave the farmer? Why?"
+     ],
+     "model_answers": [
+      "A small bird trapped in a net.",
+      "He promised to stay and work on the farm.",
+      "Opinion. (teacher reviews)"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "Prep2:s1:i2",
+     "passage": "Computers are being used more and more widely in the world today. They are far more efficient than human beings. They can store information and many other things we do, but faster and better. Computers can catch criminals .They can help the police fight crime and find out information about people's appearance. Photographs of different kinds of criminals are seen across the computer screen. So computers are very useful for helping us catch thieves and murders. The only problem is that we now have a new kind of criminals. He is a very clever man who knows how to corrupt a computer, and he is very difficult to be caught.",
+     "mcq": [
+      {
+       "question": "Human beings are ................ than computers.",
+       "options": [
+        "faster",
+        "more efficient",
+        "less efficient",
+        "happier"
+       ],
+       "answer": "less efficient"
+      },
+      {
+       "question": "The underlined word \"They\" refers to ................",
+       "options": [
+        "photographs",
+        "police",
+        "criminals",
+        "computers"
+       ],
+       "answer": "computers"
+      }
+     ],
+     "questions": [
+      "What is the main idea of the text?",
+      "Why are computers far more efficient than humans beings?",
+      "Why is it sometimes difficult to catch a criminal?"
+     ],
+     "model_answers": [
+      "Computers are widely used and help catch criminals, but there is also a new kind of computer criminal.",
+      "They can store information and do many things faster and better.",
+      "Because the new kind of criminal is very clever and knows how to corrupt a computer."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "Prep2:s1:i3",
+     "passage": "Samir asks Nader how he is preparing for the science test. Samir says he struggles with vocabulary. Nader explains that he uses flashcards and suggests Samir make his own. He also advises Samir to add colors and pictures. According to Nader, drawing diagrams helps a lot because visual memory helps us understand and remember information. Samir likes the idea, but wonders about long processes like photosynthesis. Nader suggests making up a story and connecting steps to familiar things, since understanding is better than memorizing .Samir admits that he usually rereads notes and that this habit of his may need to change .However, Samir thinks that his method of using song lyrics helps him a lot when studies. They decide to study together and mix methods.",
+     "mcq": [
+      {
+       "question": "What study tool does Nader use for vocabulary?",
+       "options": [
+        "Notes",
+        "Flashcards",
+        "Songs",
+        "Movies"
+       ],
+       "answer": "Flashcards"
+      },
+      {
+       "question": "For long processes like photosynthesis, Nader suggests that Samir ................",
+       "options": [
+        "memorize notes",
+        "make a story and connect steps",
+        "skip them",
+        "write them in his notebook"
+       ],
+       "answer": "make a story and connect steps"
+      }
+     ],
+     "questions": [
+      "What does Nader add to flashcards to make them more interesting?",
+      "What do Samir and Nader decide to do at the end?",
+      "Do you think understanding is always better than memorizing when studying science? Why/Why not?"
+     ],
+     "model_answers": [
+      "Colors and pictures.",
+      "They decide to study together and mix methods.",
+      "Opinion. (teacher reviews)"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "Prep2:s1:i4",
+     "passage": "We usually say that people have five senses. Senses enable us to learn what is happening around us. The five main senses are sight, hearing, touch, taste and smell. Each sense depends on a certain part of the body. This part receives the information and then the nerves send it to the brain. For example, eyes control sight, ears control hearing, and skin controls touch .Taste depends on the tongue, and the smell depends on the nose. There are also other senses which are equally as important. There is a sense of balance which stops us from falling down. We also have senses of hunger, thirst, heat and cold.",
+     "mcq": [
+      {
+       "question": "Without a good sense of ................ people can not walk.",
+       "options": [
+        "balance",
+        "hunger",
+        "thirst",
+        "heat"
+       ],
+       "answer": "balance"
+      },
+      {
+       "question": "The word sight means the ability to ................",
+       "options": [
+        "touch",
+        "speak",
+        "see",
+        "say"
+       ],
+       "answer": "see"
+      }
+     ],
+     "questions": [
+      "What is the main idea of the text?",
+      "How many senses do people have mainly?",
+      "What do you think is the most important sense? Why?"
+     ],
+     "model_answers": [
+      "People have five main senses and other senses too, and each depends on a part of the body.",
+      "Five: sight, hearing, touch, taste and smell.",
+      "Opinion. (teacher reviews)"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    },
+    {
+     "item_id": "Prep2:s1:i5",
+     "passage": "I visit my friend Ali about twice a month. He lives in a village twenty kilometers from me. We don't attend the same local school, but we go to the same summer program each year. We met at a summer day camp about three years ago and became loyal friends. Ali comes from an entirely different background. He has a large family, I have a small one .His family follows many countryside traditions, mine follows city habits. He is poor, we are what many people would call comfortable. At my home we stayed at the home yard .But, I remember the first time I went to Ali's house, we pulled out a couple of old bikes and begin to ride through the countryside.",
+     "mcq": [
+      {
+       "question": "The underlined word 'mine' refers to ................",
+       "options": [
+        "Ali's family",
+        "the writer's family",
+        "both families",
+        "no families"
+       ],
+       "answer": "the writer's family"
+      },
+      {
+       "question": "The two bikes were ................",
+       "options": [
+        "modern",
+        "up-to-date",
+        "out-of-date",
+        "new"
+       ],
+       "answer": "out-of-date"
+      }
+     ],
+     "questions": [
+      "Why don't Ali and the writer attend the same school?",
+      "What is the difference between the writer's family and Ali's?",
+      "Is the writer's family a wealthy family?"
+     ],
+     "model_answers": [
+      "Because Ali lives in a village twenty kilometers away from the writer.",
+      "Ali has a large, poor family that follows countryside traditions. The writer has a small, comfortable family that follows city habits.",
+      "No, it is a comfortable family, not a wealthy one. (teacher reviews wording)"
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+    }
+   ]
+  },
+  {
+   "section_index": 2,
+   "type": "cloze",
+   "instruction": "Complete the texts with the words from the list:",
+   "items": [
+    {
+     "item_id": "Prep2:s2:i0",
+     "wordbank": [
+      "memes",
+      "balance",
+      "represent",
+      "videos",
+      "photos"
+     ],
+     "text": "Gen Alpha are the children who were born from around 2010 to the mid-2020s. They like creating short (1) ................ to show their hobbies and opinions. They share (2) ................ and send emojis to show their emotions. They are learning to (3) ................ online activities with real-life connections. They (4) ................ a powerful trend that is shaping the future.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "videos",
+      "photos",
+      "balance",
+      "represent"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i1",
+     "wordbank": [
+      "language",
+      "understand",
+      "about",
+      "to",
+      "thoughts"
+     ],
+     "text": "Gen Z and Gen Alpha like short videos, emojis, and memes. Many of them care (1) ................ the environment. They share their (2) ................ through using technology. Both generations speak the same digital (3) ................ Technology helps them (4) ................ each other and cooperate to make their world a better place.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "about",
+      "thoughts",
+      "language",
+      "understand"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i2",
+     "wordbank": [
+      "special",
+      "talking",
+      "used",
+      "creative",
+      "strange"
+     ],
+     "text": "Amal was a curious girl. She (1) ................ old toys, wires and little machines. The other children annoyed her and said, \"You are (2) ................ .\" Her parents always told her, \"Your identity is what makes you (3) ................ .\" Amal decided to build a (4) ................ robot to take part in a school fair. Her friend, Farida, encouraged her, \"We believe in you, Amal.\"",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "used",
+      "strange",
+      "special",
+      "creative"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i3",
+     "wordbank": [
+      "better",
+      "connect",
+      "common",
+      "language",
+      "connected"
+     ],
+     "text": "Both Gen Z and Gen Alpha are today's young generations, growing up in a digital world. They have a lot in (1) ................ , like using smartphones to watch videos and play games. Social media helps them (2) ................ , even if they live far apart.Technology helps them speak the same digital (3) ................ and understand each other.It also helps them share their ideas and work together to make the world a (4) ................ place.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "common",
+      "connect",
+      "language",
+      "better"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i4",
+     "wordbank": [
+      "passwords",
+      "updates",
+      "remove",
+      "trace",
+      "removal"
+     ],
+     "text": "There are some important tips to follow to protect your privacy online. Think before you share photos or (1) ................ online. You should change your (2) ................ every now and then. Everything you do online leaves a (3) ................ , like a footprint. This includes the websites you visit and the things you post. So, be careful about what you post as it can be hard to (4) ................ later.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "updates",
+      "passwords",
+      "trace",
+      "remove"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i5",
+     "wordbank": [
+      "obstacle",
+      "posters",
+      "challenges",
+      "improve",
+      "improved"
+     ],
+     "text": "With determination, Soha started to work harder. She wanted to overcome her (1) ................ with grammar. She watched videos and made grammar (2) ................ for her room. Each grammar rule felt like an (3) ................ , but she didn't stop. Slowly, she began to (4) ................ She passed her next quiz and felt proud of herself.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "challenges",
+      "posters",
+      "obstacle",
+      "improve"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i6",
+     "wordbank": [
+      "blocked",
+      "dirty",
+      "jams",
+      "stressed",
+      "stress"
+     ],
+     "text": "Cairo is a very busy city. Every day, we find traffic (1) ................ on its streets and highways. People drive their cars and roads get (2) ................ This causes pollution, making the air (3) ................ It also makes people feel (4) ................ and tired from waiting.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "jams",
+      "blocked",
+      "dirty",
+      "stressed"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i7",
+     "wordbank": [
+      "proud",
+      "injured",
+      "solutions",
+      "determination",
+      "injury"
+     ],
+     "text": "Our team faced a big challenge last week.When our best player was (1) ................ , we needed to solve this problem before the final match. We looked for different (2) ................ and changed our plan.With great (3) ................ , we did our best and won the game. We were all very (4) ................ of our teamwork.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "injured",
+      "solutions",
+      "determination",
+      "proud"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i8",
+     "wordbank": [
+      "appreciated",
+      "packed",
+      "island",
+      "map",
+      "collaboration"
+     ],
+     "text": "Four friends - Hany, Faris, Malik, and Sami -were living on a quiet coastal island. One day, they found an old (1) ................ of a \"Hidden Island''. Hany encouraged them to go and discover the (2) ................ .They (3) ................ what they would need for the journey: food, water, notebooks, and a compass. They agreed on a rule of (4) ................ and respect. They (5) ................ the value of being different.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "map",
+      "island",
+      "packed",
+      "collaboration",
+      "appreciated"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i9",
+     "wordbank": [
+      "participated",
+      "sculpt",
+      "symbol",
+      "agriculture",
+      "industry"
+     ],
+     "text": "Mahmoud Mokhtar was a very important national artist. He was one of the famous Egyptian sculptors. He learned to (1) ................ when he was still a child. His most famous work is Nahdet Misr Statue which symbolizes Egypt's history and (2) ................ It became a big (3) ................ for Egypt and was put in a public square in Cairo in 1928.Mokhtar actively (4) ................ in the art movement,using his art to promote Egyptian identity.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "sculpt",
+      "agriculture",
+      "symbol",
+      "participated"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i10",
+     "wordbank": [
+      "landmark",
+      "organized",
+      "tradition",
+      "population",
+      "impressive"
+     ],
+     "text": "I went to Japan. I stayed in a beautiful city full of life. The (1) ................ is bigger than Marrakech's. I explored Tokyo, the capital city. It's one of the most (2) ................ places I've ever seen. The main language is Japanese. I joined a tea ceremony, a beautiful (3) ................ that shows calmness and kindness. Each country has a special (4) ................",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "population",
+      "impressive",
+      "tradition",
+      "landmark"
+     ],
+     "accept_blanks": [
+      [
+       "population"
+      ],
+      [
+       "impressive",
+       "organized"
+      ],
+      [
+       "tradition"
+      ],
+      [
+       "landmark"
+      ]
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i11",
+     "wordbank": [
+      "geothermal",
+      "glaciers",
+      "home",
+      "Lagoon",
+      "hiking"
+     ],
+     "text": "Reykjavik is the capital of Iceland and the (1) ................ of amazing nature. It is the northernmost capital in the world. From here, you can visit the Blue (2) ................ , a warm and blue (3) ................ pool. You can also see volcanoes, (4) ................ , and maybe even the Northern lights in winter.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "home",
+      "Lagoon",
+      "geothermal",
+      "glaciers"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i12",
+     "wordbank": [
+      "split",
+      "strange",
+      "shiny",
+      "bird"
+     ],
+     "text": "Yesterday, we went on a trip to the mountains. While walking through the forest, we heard a (1) ................ sound coming from behind the trees. Suddenly, we saw a beautiful (2) ................ falling down the rocks. My friend pointed at an old tree that had (3) ................ into two parts. Near the river, we also found some (4) ................ stones that sparkled in the sunlight.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "strange",
+      "bird",
+      "split",
+      "shiny"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i13",
+     "wordbank": [
+      "trading",
+      "carved",
+      "building",
+      "wanders",
+      "wonders"
+     ],
+     "text": "Petra is a famous historic place in Jordan. It is an ancient city (1) ................ into red rocks. It is over 2,000 years old and was once a rich (2) ................ city. The most famous (3) ................ is the Treasury, which you may know from movies. Petra is very special and is one of the New Seven (4) ................ of the world",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "carved",
+      "trading",
+      "building",
+      "wonders"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i14",
+     "wordbank": [
+      "version",
+      "impact",
+      "identify",
+      "complex",
+      "inventors"
+     ],
+     "text": "When Engineers create a new app, they first try to (1) ................ any problems that might happen. Some apps are very (2) ................ The way people use an app can have a big (3) ................ on their daily lives. Then they make a new (4) ................ that works better.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "identify",
+      "complex",
+      "impact",
+      "version"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i15",
+     "wordbank": [
+      "biomedical",
+      "role model",
+      "civil",
+      "impact",
+      "sensors"
+     ],
+     "text": "Hany Azer is a famous Egyptian engineer who made a great (1) ................ in the world of (2) ................ engineering. He has a relative who works as (3) ................ engineer. They both used science and technology to help people live better life. He is a (4) ................ for many students in Egypt and around the world.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "impact",
+      "civil",
+      "biomedical",
+      "role model"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i16",
+     "wordbank": [
+      "explorers",
+      "stories",
+      "stronger",
+      "creativity",
+      "leadership"
+     ],
+     "text": "The four friends left the island and returned to the village. When they arrived, they shared (1) ................ with others. They believe that (2) ................ is a very valuable skill in a teamwork. Their friendship grew (3) ................ Everyone in the village called them the island (4) ................ They think that (5) ................ makes adventures more fun!",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s2:i17",
+     "wordbank": [
+      "feedback",
+      "problem",
+      "brainstorm",
+      "prototype"
+     ],
+     "text": "We participated in a competition for young inventors. Our teacher encouraged us to (1) ................ a creative idea. We agreed on designing an innovative device to solve a real (2) ................ in our community. Our teacher told us that testing a (3) ................ and receiving (4) ................ will help improve our invention. We believe that teamwork and collaboration are very important.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "brainstorm",
+      "problem",
+      "prototype",
+      "feedback"
+     ]
+    },
+    {
+     "item_id": "Prep2:s2:i18",
+     "wordbank": [
+      "enemy",
+      "secretly",
+      "army",
+      "smart",
+      "friends"
+     ],
+     "text": "Ahmed Idris was a brave Nubian soldier in the Egyptian (1) ................ He served in the Border Guard during the 1970s. In 1973, before the October War, he suggested using the Nubian language as a secret code for the army. His idea was very (2) ................ because the Nubian language was not written and was only known by Nubian people. The (3) ................ could not understand it. Thanks to his idea, the Egyptian army sent messages safely and (4) ................",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "army",
+      "smart",
+      "enemy",
+      "secretly"
+     ]
+    }
+   ]
+  },
+  {
+   "section_index": 3,
+   "type": "wblines",
+   "instruction": "Complete the sentences with the words from the list:",
+   "items": [
+    {
+     "item_id": "Prep2:s3:i0",
+     "wordbank": [
+      "prepared",
+      "keep",
+      "announced"
+     ],
+     "lines": [
+      "Our school principal ................ that the school fair would be next month.",
+      "Facing challenges makes a lot of people better ................ for the future.",
+      "We should all ................ going, even if we face challenges."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "announced",
+      "prepared",
+      "keep"
+     ]
+    },
+    {
+     "item_id": "Prep2:s3:i1",
+     "wordbank": [
+      "because",
+      "but",
+      "Although"
+     ],
+     "lines": [
+      "She passed the final exam ................ she studied hard.",
+      "He is rich, ................ he is unhappy.",
+      "................ she woke up early, she didn't catch the bus."
+     ],
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": [
+      "because",
+      "but",
+      "Although"
+     ]
+    }
+   ]
+  },
+  {
+   "section_index": 4,
+   "type": "plain",
+   "instruction": "Complete the sentences with the correct form of the word(s) in brackets:",
+   "items": [
+    {
+     "item_id": "Prep2:s4:i0",
+     "text": "She is (travel) to Aswan next week.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "traveling",
+     "accept": [
+      "traveling",
+      "travelling"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i1",
+     "text": "Adel (eat) Koshari right now.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "is eating",
+     "accept": [
+      "is eating",
+      "'s eating"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i2",
+     "text": "They (play) football next Friday. They have arranged to do that.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "are playing",
+     "accept": [
+      "are playing"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i3",
+     "text": "At the moment, he (study) Science.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "is studying",
+     "accept": [
+      "is studying",
+      "'s studying"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i4",
+     "text": "Strong passwords (use) to protect our information.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "are used",
+     "accept": [
+      "are used"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i5",
+     "text": "Our lessons (teach) well by our teachers.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "are taught",
+     "accept": [
+      "are taught"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i6",
+     "text": "My room (keep) clean to stay healthy.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "is kept",
+     "accept": [
+      "is kept"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i7",
+     "text": "How about (make) a study plan?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "making",
+     "accept": [
+      "making"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i8",
+     "text": "I suggest (go) fishing tomorrow.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "going",
+     "accept": [
+      "going"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i9",
+     "text": "Maybe we should (cleans) our garden.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "clean",
+     "accept": [
+      "clean"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i10",
+     "text": "It might be a good idea to (redecorates) our apartment.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "redecorate",
+     "accept": [
+      "redecorate"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i11",
+     "text": "We (watch) a new movie last Friday.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "watched",
+     "accept": [
+      "watched"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i12",
+     "text": "It was raining when we (leave) the cinema.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "left",
+     "accept": [
+      "left"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i13",
+     "text": "When he (fall) down, he was playing football.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "fell",
+     "accept": [
+      "fell"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i14",
+     "text": "During my stay in France, I (study) French.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "studied",
+     "accept": [
+      "studied"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i15",
+     "text": "The population in China is (big) than Egypt's.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "bigger",
+     "accept": [
+      "bigger"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i16",
+     "text": "Our ancient history is the (more) impressive.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "most",
+     "accept": [
+      "most"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i17",
+     "text": "Maria is (the most) beautiful than her friend.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "more",
+     "accept": [
+      "more"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i18",
+     "text": "We stayed for (awhile) when we were in France.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "a while",
+     "accept": [
+      "a while"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i19",
+     "text": "I think this trip gave us the best (memorize) we will keep forever.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "memories",
+     "accept": [
+      "memories"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i20",
+     "text": "Japan is (the modern) than India.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "more modern",
+     "accept": [
+      "more modern"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i21",
+     "text": "The animals always (protects) their babies from danger.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "protect",
+     "accept": [
+      "protect"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i22",
+     "text": "She would pass the exam if she (study) harder.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "studied",
+     "accept": [
+      "studied"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i23",
+     "text": "If I (can) fly, I would visit every country in the world.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "could",
+     "accept": [
+      "could"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s4:i24",
+     "text": "If we (was) in Paris, we would visit the Eiffel Tower.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "were",
+     "accept": [
+      "were"
+     ],
+     "strict_case": false
+    }
+   ]
+  },
+  {
+   "section_index": 5,
+   "type": "qlines",
+   "instruction": "Complete the following sentences:",
+   "items": [
+    {
+     "item_id": "Prep2:s5:i0",
+     "text": "We can use the expression \"In my opinion\" to explain our ideas ................ when talking to others.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "clearly",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i1",
+     "text": "We should put our mobiles ................ during meals and before bedtime.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "away",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i2",
+     "text": "Spending too much time on digital devices can be ................",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "harmful",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i3",
+     "text": "We should learn how to find a ................ between our screen time and family life.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "balance",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i4",
+     "text": "A blog is an online journal or ................ where someone writes regularly about a certain topic.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "website",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i5",
+     "text": "Your digital footprint is made up through the ................ you leave behind when using social media.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "clues",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i6",
+     "text": "When someone chooses to post or share something online this is ................ footprints.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "active",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i7",
+     "text": "It is very important to think carefully before you share something online as what you share adds to your ................",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "digital footprint",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i8",
+     "text": "My brother's favorite hobby is ................ old stories.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i9",
+     "text": "We can use the prefix \" ................ \" to give the opposite of the word \"comfortable\".",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "un",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i10",
+     "text": "The government is trying to find ................ to most of our problems.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "solutions",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i11",
+     "text": "There are big traffic jams ................ the streets and highways of Cairo",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "on",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i12",
+     "text": "Most students feel ................ before exams.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "nervous",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i13",
+     "text": "One of the greatest projects in Cairo is building a lot of ................ to solve the traffic problem.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "bridges",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i14",
+     "text": "The ................ is a train that runs on a single rail, usually above the ground.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "monorail",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i15",
+     "text": "When I make a mistake during a presentation, I feel ................",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "embarrassed",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i16",
+     "text": "I sometimes feel nervous when I have to ................ a speech to my class.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "give",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i17",
+     "text": "Our teacher asked our class to do a new project, so we ................ more research online.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i18",
+     "text": "Facing an obstacle can surprise us, but we can ................ it with hard work and determination.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "overcome",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i19",
+     "text": "Facing challenges in life teaches us to be braver and more ................",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i20",
+     "text": "You can see many different ................ in a gallery.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "artworks",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i21",
+     "text": "Every artwork has a powerful ................",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "message",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i22",
+     "text": "Artists use different materials to create ................",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "artworks",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i23",
+     "text": "................ is a very important life skill.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i24",
+     "text": "The opposite of \"imagination\" is ................",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "reality",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i25",
+     "text": "Sami felt worried for sharing his ideas with his friends.  (True / False)",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i26",
+     "text": "Teamwork means to collaborate with each other.  (True / False)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "True",
+     "accept": [
+      "True",
+      "T"
+     ]
+    },
+    {
+     "item_id": "Prep2:s5:i27",
+     "text": "To come up with new ideas means ................",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i28",
+     "text": "Every piece of any artwork should be ................",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i29",
+     "text": "His work is full of creativity and ................",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i30",
+     "text": "The opposite of ‘' national'' is ................",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "international",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i31",
+     "text": "Grand Egyptian Museum is one of the ................ (large) museums in the world.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "largest",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i32",
+     "text": "When I was in Europe, I saw ................ plants I have never seen before.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i33",
+     "text": "You can enjoy the ................ in Al Fayoum, and the beautiful weather.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i34",
+     "text": "We can ................ into pairs and explore the city.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "split",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i35",
+     "text": "The story about how did the pharaohs build the pyramids is still ................",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i36",
+     "text": "Did you buy any ................ for your mother when you were in London?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "souvenirs",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i37",
+     "text": "Salah El Din's ................ was built to protect Cairo.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "Citadel",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i38",
+     "text": "Some people are afraid of sharks' ................ when they go swimming in the sea.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i39",
+     "text": "The tourists go around the world to explore different traditions and ................",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i40",
+     "text": "Traveling makes you see famous ................ and hear new languages.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "landmarks",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i41",
+     "text": "If you (helps) me with homework, I will finish early.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "help",
+     "accept": [
+      "help"
+     ]
+    },
+    {
+     "item_id": "Prep2:s5:i42",
+     "text": "................ engineers use special tools to help patients.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "Biomedical",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i43",
+     "text": "Many young players see Mohamed Salah as their ................ because of his success.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "role model",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i44",
+     "text": "................ can help people with problems such as movement difficulties.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i45",
+     "text": "Hany Azer is known for his ................ of science and young inventors.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i46",
+     "text": "................ can change lives and help those in need.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i47",
+     "text": "Working together to come up with new ideas means ................",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i48",
+     "text": "If you ................ feedback, it would help improve your design.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s5:i49",
+     "text": "Your invention should have a useful ................ on your community.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "impact",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s5:i50",
+     "text": "If you didn't come up with a design, you may miss the ................",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    }
+   ]
+  },
+  {
+   "section_index": 6,
+   "type": "plain",
+   "instruction": "Rewrite the following sentences using the word(s) in brackets:",
+   "items": [
+    {
+     "item_id": "Prep2:s6:i0",
+     "text": "My mom always cleans our rooms on Friday. (now)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "My mom is cleaning our rooms now.",
+     "accept": [
+      "My mom is cleaning our rooms now."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i1",
+     "text": "I have booked the tickets to travel next week. (traveling)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I am traveling next week.",
+     "accept": [
+      "I am traveling next week.",
+      "I am travelling next week.",
+      "I'm traveling next week.",
+      "I'm travelling next week."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i2",
+     "text": "Ali does his homework every day. (at the moment)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Ali is doing his homework at the moment.",
+     "accept": [
+      "Ali is doing his homework at the moment."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i3",
+     "text": "Students read in the library. (Look)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Look! The students are reading in the library.",
+     "accept": [
+      "Look! The students are reading in the library.",
+      "Look! Students are reading in the library."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i4",
+     "text": "They have arranged to volunteer in protecting the environment. (are)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "They are volunteering to protect the environment.",
+     "accept": [
+      "They are volunteering to protect the environment.",
+      "They are volunteering in protecting the environment.",
+      "They're volunteering in protecting the environment.",
+      "They're volunteering to protect the environment."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i5",
+     "text": "He has booked a ticket to watch a play next week. (watching)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "He is watching a play next week.",
+     "accept": [
+      "He is watching a play next week.",
+      "He's watching a play next week."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i6",
+     "text": "She writes her project plan (now)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "She is writing her project plan now.",
+     "accept": [
+      "She is writing her project plan now.",
+      "She's writing her project plan now."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i7",
+     "text": "Nadia volunteers to help her neighbors (is)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Nadia is volunteering to help her neighbors.",
+     "accept": [
+      "Nadia is volunteering to help her neighbors."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i8",
+     "text": "The students study for the coming English exam. ( at this moment)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "The students are studying for the coming English exam at this moment.",
+     "accept": [
+      "The students are studying for the coming English exam at this moment.",
+      "At this moment, the students are studying for the coming English exam."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i9",
+     "text": "The children sing in their room. (Listen)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Listen! The children are singing in their room.",
+     "accept": [
+      "Listen! The children are singing in their room."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i10",
+     "text": "My sister plays online games with her brother. (is)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "My sister is playing online games with her brother.",
+     "accept": [
+      "My sister is playing online games with her brother."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i11",
+     "text": "We watch a match in Cairo Stadium . (next Friday)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "We are watching a match in Cairo Stadium next Friday.",
+     "accept": [
+      "We are watching a match in Cairo Stadium next Friday.",
+      "Next Friday we are watching a match in Cairo Stadium.",
+      "Next Friday, we are watching a match in Cairo Stadium.",
+      "Next Friday we're watching a match in Cairo Stadium.",
+      "Next Friday, we're watching a match in Cairo Stadium.",
+      "We're watching a match in Cairo Stadium next Friday."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i12",
+     "text": "How long do you spend using technology every day? (How many)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "How many hours do you spend using technology every day?",
+     "accept": [
+      "How many hours do you spend using technology every day?"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i13",
+     "text": "In my opinion, it's okay to enjoy your screen, but don't let it control you. (I think)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I think it's okay to enjoy your screen, but don't let it control you.",
+     "accept": [
+      "I think it's okay to enjoy your screen, but don't let it control you.",
+      "I think it is okay to enjoy your screen, but do not let it control you.",
+      "I think it is okay to enjoy your screen, but don't let it control you.",
+      "I think it's okay to enjoy your screen, but do not let it control you."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i14",
+     "text": "My brother cleans his room every Friday. (now)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "My brother is cleaning his room now.",
+     "accept": [
+      "My brother is cleaning his room now."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i15",
+     "text": "I do my homework in the evening . (at the moment)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I am doing my homework at the moment.",
+     "accept": [
+      "I am doing my homework at the moment.",
+      "I'm doing my homework at the moment."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i16",
+     "text": "My brother has arranged to travel next Friday. (traveling)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "My brother is traveling next Friday.",
+     "accept": [
+      "My brother is traveling next Friday.",
+      "My brother is travelling next Friday."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i17",
+     "text": "I have a plan to buy a new mobile next month . ( I am )",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I am going to buy a new mobile next month.",
+     "accept": [
+      "I am going to buy a new mobile next month.",
+      "I am planning to buy a new mobile next month.",
+      "I am buying a new mobile next month.",
+      "I'm buying a new mobile next month.",
+      "I'm going to buy a new mobile next month.",
+      "I'm planning to buy a new mobile next month."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i18",
+     "text": "Many companies make cars in Japan. (are made)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Cars are made in Japan by many companies.",
+     "accept": [
+      "Cars are made in Japan by many companies.",
+      "Cars are made by many companies in Japan."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i19",
+     "text": "Our uniforms are ironed every week. (Our mom)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Our mom irons our uniforms every week.",
+     "accept": [
+      "Our mom irons our uniforms every week."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i20",
+     "text": "We should obey the traffic rules. (be)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "The traffic rules should be obeyed.",
+     "accept": [
+      "The traffic rules should be obeyed.",
+      "Our traffic rules should be obeyed.",
+      "Traffic rules should be obeyed.",
+      "The traffic rules should be obeyed by us.",
+      "Traffic rules should be obeyed by us.",
+      "Our traffic rules should be obeyed by us."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i21",
+     "text": "English is spoken in many parts of the world. (Many people)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Many people speak English in many parts of the world.",
+     "accept": [
+      "Many people speak English in many parts of the world."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i22",
+     "text": "My mother cleans our apartment every day. (is)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Our apartment is cleaned by my mother every day.",
+     "accept": [
+      "Our apartment is cleaned by my mother every day.",
+      "Our apartment is cleaned every day by my mother.",
+      "Our apartment is cleaned every day."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i23",
+     "text": "Egypt exports a lot of products to many countries. (exported)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "A lot of products are exported by Egypt to many countries.",
+     "accept": [
+      "A lot of products are exported by Egypt to many countries.",
+      "A lot of products are exported to many countries by Egypt."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i24",
+     "text": "Teachers in our schools use the latest technology inside the classes. (used)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "The latest technology is used by teachers inside the classes.",
+     "accept": [
+      "The latest technology is used by teachers inside the classes.",
+      "The latest technology is used inside the classes.",
+      "The latest technology is used in our schools by teachers inside the classes.",
+      "The latest technology is used inside the classes in our schools.",
+      "The latest technology is used inside the classes by teachers in our schools.",
+      "The latest technology is used by teachers in our schools inside the classes.",
+      "The latest technology is used in our schools inside the classes.",
+      "The latest technology is used inside the classes by teachers."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i25",
+     "text": "If water is boiled, it turns into vapor. (If we…..)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "If we boil water, it turns into vapor.",
+     "accept": [
+      "If we boil water, it turns into vapor.",
+      "If we boil water, it turns into vapour."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i26",
+     "text": "Teachers explain their lessons using smartboards. (are)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Lessons are explained by teachers using smartboards.",
+     "accept": [
+      "Lessons are explained by teachers using smartboards.",
+      "Their lessons are explained by teachers using smartboards.",
+      "Lessons are explained using smartboards by teachers.",
+      "Lessons are explained by teachers by using smartboards."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i27",
+     "text": "We should follow the traffic rules. (be)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Traffic rules should be followed.",
+     "accept": [
+      "Traffic rules should be followed.",
+      "The traffic rules should be followed.",
+      "The traffic rules should be followed by us.",
+      "Traffic rules should be followed by us."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i28",
+     "text": "It is important to get up early. (should)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "We should get up early.",
+     "accept": [
+      "We should get up early.",
+      "You should get up early.",
+      "People should get up early.",
+      "One should get up early."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i29",
+     "text": "A lot of videos are downloaded from the internet. (People)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "People download a lot of videos from the internet.",
+     "accept": [
+      "People download a lot of videos from the internet."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i30",
+     "text": "We use the Metro to go to and from our work. (is)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "The Metro is used to go to and from work.",
+     "accept": [
+      "The Metro is used to go to and from work.",
+      "The Metro is used to go to and from our work.",
+      "The Metro is used by us to go to and from work.",
+      "The Metro is used by us to go to and from our work."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i31",
+     "text": "Teachers reward good students for their work. (are)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Good students are rewarded by teachers for their work.",
+     "accept": [
+      "Good students are rewarded by teachers for their work."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i32",
+     "text": "Students should keep their school clean. (be)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "School should be kept clean by students.",
+     "accept": [
+      "School should be kept clean by students.",
+      "The school should be kept clean by students.",
+      "Their school should be kept clean by students."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i33",
+     "text": "You should go to school early. (important)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "It is important to go to school early.",
+     "accept": [
+      "It is important to go to school early.",
+      "It's important to go to school early."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i34",
+     "text": "A lot of messages are sent on the internet. (People)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "People send a lot of messages on the internet.",
+     "accept": [
+      "People send a lot of messages on the internet."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i35",
+     "text": "We use cameras to take photos. (are)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Cameras are used to take photos.",
+     "accept": [
+      "Cameras are used to take photos."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i36",
+     "text": "Teachers help students understand their lessons. (are)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Students are helped by teachers to understand their lessons.",
+     "accept": [
+      "Students are helped by teachers to understand their lessons.",
+      "Students are helped to understand their lessons by teachers."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i37",
+     "text": "We should give a hand to the poor. (be)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "The poor should be given a hand.",
+     "accept": [
+      "The poor should be given a hand.",
+      "A hand should be given to the poor."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i38",
+     "text": "It's important to eat healthy food. (should)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "We should eat healthy food.",
+     "accept": [
+      "We should eat healthy food.",
+      "You should eat healthy food.",
+      "People should eat healthy food.",
+      "One should eat healthy food."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i39",
+     "text": "A lot of projects are done in Egypt. (The government)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "The government does a lot of projects in Egypt.",
+     "accept": [
+      "The government does a lot of projects in Egypt.",
+      "The government makes a lot of projects in Egypt.",
+      "The government carries out a lot of projects in Egypt."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i40",
+     "text": "We produce different goods in our town. (are)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Different goods are produced in our town.",
+     "accept": [
+      "Different goods are produced in our town.",
+      "Different goods are produced by us in our town."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i41",
+     "text": "It is important to make a study plan. (should)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "We should make a study plan.",
+     "accept": [
+      "We should make a study plan.",
+      "You should make a study plan.",
+      "People should make a study plan.",
+      "One should make a study plan."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i42",
+     "text": "You should think twice before posting anything online. (carefully)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "You should think carefully before posting anything online.",
+     "accept": [
+      "You should think carefully before posting anything online."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i43",
+     "text": "Amira uses a strong password to protect her account . ( is)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "A strong password is used by Amira to protect her account.",
+     "accept": [
+      "A strong password is used by Amira to protect her account.",
+      "A strong password is used to protect her account by Amira.",
+      "A strong password is used to protect Amira's account."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i44",
+     "text": "Football isn't played by us on Friday. (We)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "We don't play football on Friday.",
+     "accept": [
+      "We don't play football on Friday.",
+      "We do not play football on Friday."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i45",
+     "text": "My brother cleans his room every Friday. (His room..)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "His room is cleaned every Friday.",
+     "accept": [
+      "His room is cleaned every Friday.",
+      "His room is cleaned by my brother every Friday."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i46",
+     "text": "Do people speak English in Egypt? (Is ...)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Is English spoken in Egypt?",
+     "accept": [
+      "Is English spoken in Egypt?"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i47",
+     "text": "My brother played online yesterday. (yesterday's evening)",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s6:i48",
+     "text": "While I was going home , I met an old friend. (When)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I was going home when I met an old friend.",
+     "accept": [
+      "I was going home when I met an old friend.",
+      "When I was going home, I met an old friend."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i49",
+     "text": "I was studying English when my father came home. (As)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "As I was studying English, my father came home.",
+     "accept": [
+      "As I was studying English, my father came home.",
+      "My father came home as I was studying English."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i50",
+     "text": "While I was visiting Paris , I studied French. (During)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "During my stay in Paris, I studied French.",
+     "accept": [
+      "During my stay in Paris, I studied French.",
+      "During my visit to Paris, I studied French.",
+      "During my time in Paris, I studied French."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i51",
+     "text": "When the teacher entered the class, the students were doing a project. (While)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "While the students were doing a project, the teacher entered the class.",
+     "accept": [
+      "While the students were doing a project, the teacher entered the class.",
+      "The teacher entered the class while the students were doing a project."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i52",
+     "text": "As we were riding bikes, Ali broke his leg. (When)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Ali broke his leg when we were riding bikes.",
+     "accept": [
+      "Ali broke his leg when we were riding bikes.",
+      "When we were riding bikes, Ali broke his leg."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i53",
+     "text": "While I was walking to school , I saw an accident. (When)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I saw an accident when I was walking to school.",
+     "accept": [
+      "I saw an accident when I was walking to school.",
+      "When I was walking to school, I saw an accident."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i54",
+     "text": "She had the ability to make her own food. (was)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "She was able to make her own food.",
+     "accept": [
+      "She was able to make her own food."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i55",
+     "text": "They were playing tennis when it started to rain. (While)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "It started to rain while they were playing tennis.",
+     "accept": [
+      "It started to rain while they were playing tennis.",
+      "While they were playing tennis, it started to rain."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i56",
+     "text": "They went to the park last week. (ago)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "They went to the park a week ago.",
+     "accept": [
+      "They went to the park a week ago."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i57",
+     "text": "He didn't win the race. He hurt his knee. (because )",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "He didn't win the race because he hurt his knee.",
+     "accept": [
+      "He didn't win the race because he hurt his knee.",
+      "Because he hurt his knee, he didn't win the race.",
+      "Because he hurt his knee, he did not win the race.",
+      "He did not win the race because he hurt his knee."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i58",
+     "text": "They played well. They lost. (although)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Although they played well, they lost.",
+     "accept": [
+      "Although they played well, they lost.",
+      "They lost although they played well."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i59",
+     "text": "I eat unhealthy food. I gained weight. (so)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I eat unhealthy food, so I gained weight.",
+     "accept": [
+      "I eat unhealthy food, so I gained weight."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i60",
+     "text": "He was sick. He finished his homework. (but)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "He was sick, but he finished his homework.",
+     "accept": [
+      "He was sick, but he finished his homework."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i61",
+     "text": "He is rich, so he is wearing new clothes. (because)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "He is wearing new clothes because he is rich.",
+     "accept": [
+      "He is wearing new clothes because he is rich.",
+      "Because he is rich, he is wearing new clothes.",
+      "Because he's rich, he's wearing new clothes.",
+      "He is wearing new clothes because he's rich.",
+      "He's wearing new clothes because he is rich.",
+      "He's wearing new clothes because he's rich."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i62",
+     "text": "Omar walked slowly because he was tired. (so )",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Omar was tired, so he walked slowly.",
+     "accept": [
+      "Omar was tired, so he walked slowly."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i63",
+     "text": "He was sick, so he didn't go to school. (because)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "He didn't go to school because he was sick.",
+     "accept": [
+      "He didn't go to school because he was sick.",
+      "Because he was sick, he didn't go to school.",
+      "Because he was sick, he did not go to school.",
+      "He did not go to school because he was sick."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i64",
+     "text": "Although she doesn't draw well, she participated in the national competition. (but)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "She doesn't draw well, but she participated in the national competition.",
+     "accept": [
+      "She doesn't draw well, but she participated in the national competition.",
+      "She does not draw well, but she participated in the national competition."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i65",
+     "text": "Although his artworks are amazing, he doesn't receive recognition. (but)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "His artworks are amazing, but he doesn't receive recognition.",
+     "accept": [
+      "His artworks are amazing, but he doesn't receive recognition.",
+      "His artworks are amazing, but he does not receive recognition."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i66",
+     "text": "He prepared well, so he won the race. (because)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "He won the race because he prepared well.",
+     "accept": [
+      "He won the race because he prepared well.",
+      "Because he prepared well, he won the race."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i67",
+     "text": "Amir didn't study hard, so he got low marks . (because)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Amir got low marks because he didn't study hard.",
+     "accept": [
+      "Amir got low marks because he didn't study hard.",
+      "Because he didn't study hard, Amir got low marks.",
+      "Amir got low marks because he did not study hard.",
+      "Because he did not study hard, Amir got low marks."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i68",
+     "text": "Although Sama was tired, she was smiling . (but)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Sama was tired, but she was smiling.",
+     "accept": [
+      "Sama was tired, but she was smiling."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i69",
+     "text": "The artist was very creative , so his work was amazing. (because)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "His work was amazing because the artist was very creative.",
+     "accept": [
+      "His work was amazing because the artist was very creative.",
+      "Because the artist was very creative, his work was amazing."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i70",
+     "text": "It was raining , but I went out. (Although)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Although it was raining, I went out.",
+     "accept": [
+      "Although it was raining, I went out."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i71",
+     "text": "Egypt is hotter than France. (colder)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "France is colder than Egypt.",
+     "accept": [
+      "France is colder than Egypt."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i72",
+     "text": "I haven't read a more interesting book than this. (the most)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "This is the most interesting book I have ever read.",
+     "accept": [
+      "This is the most interesting book I have ever read.",
+      "This is the most interesting book I've ever read."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i73",
+     "text": "No mountain is higher than Everest. (highest)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Everest is the highest mountain.",
+     "accept": [
+      "Everest is the highest mountain.",
+      "Everest is the highest mountain in the world."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i74",
+     "text": "Egypt has the most impressive civilization in the world. (more)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "No other civilization in the world is more impressive than Egypt's.",
+     "accept": [
+      "No other civilization in the world is more impressive than Egypt's.",
+      "Egypt's civilization is more impressive than any other civilization in the world.",
+      "No civilization in the world is more impressive than Egypt's.",
+      "Egypt has a more impressive civilization than any other country in the world."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i75",
+     "text": "Amira is the most intelligent Student in her class. (more)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Amira is more intelligent than any other student in her class.",
+     "accept": [
+      "Amira is more intelligent than any other student in her class.",
+      "No other student in her class is more intelligent than Amira.",
+      "Amira is more intelligent than all the other students in her class."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i76",
+     "text": "My hometown is quieter than Alexandria. (quietest)",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s6:i77",
+     "text": "This is the most expensive car I have ever seen. (more)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I have never seen a more expensive car than this.",
+     "accept": [
+      "I have never seen a more expensive car than this.",
+      "I have never seen a more expensive car than this one.",
+      "This car is more expensive than any other car I have ever seen.",
+      "No other car I have ever seen is more expensive than this one.",
+      "I've never seen a more expensive car than this one.",
+      "I've never seen a more expensive car than this.",
+      "No other car I've ever seen is more expensive than this one.",
+      "This car is more expensive than any other car I've ever seen."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i78",
+     "text": "Luxor is hotter than Sharm El Sheikh. (hottest)",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s6:i79",
+     "text": "This painting is the most beautiful one in the gallery. (more)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "This painting is more beautiful than any other one in the gallery.",
+     "accept": [
+      "This painting is more beautiful than any other one in the gallery.",
+      "This painting is more beautiful than any other painting in the gallery.",
+      "No other painting in the gallery is more beautiful than this one."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i80",
+     "text": "The Nile River is longer than the Mississippi River. (longest)",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s6:i81",
+     "text": "Ali is taller than Ayman. (shorter )",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Ayman is shorter than Ali.",
+     "accept": [
+      "Ayman is shorter than Ali."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i82",
+     "text": "No boy is fatter than Adel in class. (fattest )",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Adel is the fattest boy in the class.",
+     "accept": [
+      "Adel is the fattest boy in the class."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i83",
+     "text": "I have never seen a more organized city than Tokyo. ( most)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Tokyo is the most organized city I have ever seen.",
+     "accept": [
+      "Tokyo is the most organized city I have ever seen.",
+      "Tokyo is the most organized city I've ever seen."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i84",
+     "text": "Gold is more expensive than silver. (Silver)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "Silver is less expensive than gold.",
+     "accept": [
+      "Silver is less expensive than gold.",
+      "Silver is cheaper than gold.",
+      "Silver is not as expensive as gold.",
+      "Silver isn't as expensive as gold."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i85",
+     "text": "I don't have much money,so I can't buy a new laptop . (If)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "If I had much money, I could buy a new laptop.",
+     "accept": [
+      "If I had much money, I could buy a new laptop.",
+      "If I had more money, I could buy a new laptop.",
+      "I could buy a new laptop if I had much money.",
+      "If I had much money, I could buy a new lab top.",
+      "I could buy a new lab top if I had much money.",
+      "If I had much money, I would buy a new laptop.",
+      "I would buy a new laptop if I had much money.",
+      "If I had much money, I would buy a new lab top.",
+      "I would buy a new lab top if I had much money.",
+      "If I had much money, I would be able to buy a new laptop.",
+      "I would be able to buy a new laptop if I had much money.",
+      "If I had much money, I would be able to buy a new lab top.",
+      "I would be able to buy a new lab top if I had much money.",
+      "If I had much money, I'd buy a new laptop.",
+      "I'd buy a new laptop if I had much money.",
+      "If I had much money, I'd buy a new lab top.",
+      "I'd buy a new lab top if I had much money.",
+      "I could buy a new laptop if I had more money.",
+      "If I had more money, I could buy a new lab top.",
+      "I could buy a new lab top if I had more money.",
+      "If I had more money, I would buy a new laptop.",
+      "I would buy a new laptop if I had more money.",
+      "If I had more money, I would buy a new lab top.",
+      "I would buy a new lab top if I had more money.",
+      "If I had more money, I would be able to buy a new laptop.",
+      "I would be able to buy a new laptop if I had more money.",
+      "If I had more money, I would be able to buy a new lab top.",
+      "I would be able to buy a new lab top if I had more money.",
+      "If I had more money, I'd buy a new laptop.",
+      "I'd buy a new laptop if I had more money.",
+      "If I had more money, I'd buy a new lab top.",
+      "I'd buy a new lab top if I had more money.",
+      "If I had enough money, I could buy a new laptop.",
+      "I could buy a new laptop if I had enough money.",
+      "If I had enough money, I could buy a new lab top.",
+      "I could buy a new lab top if I had enough money.",
+      "If I had enough money, I would buy a new laptop.",
+      "I would buy a new laptop if I had enough money.",
+      "If I had enough money, I would buy a new lab top.",
+      "I would buy a new lab top if I had enough money.",
+      "If I had enough money, I would be able to buy a new laptop.",
+      "I would be able to buy a new laptop if I had enough money.",
+      "If I had enough money, I would be able to buy a new lab top.",
+      "I would be able to buy a new lab top if I had enough money.",
+      "If I had enough money, I'd buy a new laptop.",
+      "I'd buy a new laptop if I had enough money.",
+      "If I had enough money, I'd buy a new lab top.",
+      "I'd buy a new lab top if I had enough money.",
+      "If I had a lot of money, I could buy a new laptop.",
+      "I could buy a new laptop if I had a lot of money.",
+      "If I had a lot of money, I could buy a new lab top.",
+      "I could buy a new lab top if I had a lot of money.",
+      "If I had a lot of money, I would buy a new laptop.",
+      "I would buy a new laptop if I had a lot of money.",
+      "If I had a lot of money, I would buy a new lab top.",
+      "I would buy a new lab top if I had a lot of money.",
+      "If I had a lot of money, I would be able to buy a new laptop.",
+      "I would be able to buy a new laptop if I had a lot of money.",
+      "If I had a lot of money, I would be able to buy a new lab top.",
+      "I would be able to buy a new lab top if I had a lot of money.",
+      "If I had a lot of money, I'd buy a new laptop.",
+      "I'd buy a new laptop if I had a lot of money.",
+      "If I had a lot of money, I'd buy a new lab top.",
+      "I'd buy a new lab top if I had a lot of money.",
+      "If I had some money, I could buy a new laptop.",
+      "I could buy a new laptop if I had some money.",
+      "If I had some money, I could buy a new lab top.",
+      "I could buy a new lab top if I had some money.",
+      "If I had some money, I would buy a new laptop.",
+      "I would buy a new laptop if I had some money.",
+      "If I had some money, I would buy a new lab top.",
+      "I would buy a new lab top if I had some money.",
+      "If I had some money, I would be able to buy a new laptop.",
+      "I would be able to buy a new laptop if I had some money.",
+      "If I had some money, I would be able to buy a new lab top.",
+      "I would be able to buy a new lab top if I had some money.",
+      "If I had some money, I'd buy a new laptop.",
+      "I'd buy a new laptop if I had some money.",
+      "If I had some money, I'd buy a new lab top.",
+      "I'd buy a new lab top if I had some money.",
+      "If I had money, I could buy a new laptop.",
+      "I could buy a new laptop if I had money.",
+      "If I had money, I could buy a new lab top.",
+      "I could buy a new lab top if I had money.",
+      "If I had money, I would buy a new laptop.",
+      "I would buy a new laptop if I had money.",
+      "If I had money, I would buy a new lab top.",
+      "I would buy a new lab top if I had money.",
+      "If I had money, I would be able to buy a new laptop.",
+      "I would be able to buy a new laptop if I had money.",
+      "If I had money, I would be able to buy a new lab top.",
+      "I would be able to buy a new lab top if I had money.",
+      "If I had money, I'd buy a new laptop.",
+      "I'd buy a new laptop if I had money.",
+      "If I had money, I'd buy a new lab top.",
+      "I'd buy a new lab top if I had money."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i86",
+     "text": "Come early ,or you will be punished (If )",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "If you don't come early, you will be punished.",
+     "accept": [
+      "If you don't come early, you will be punished.",
+      "If you don't come early, you'll be punished.",
+      "If you do not come early, you will be punished.",
+      "If you do not come early, you'll be punished.",
+      "You will be punished if you don't come early.",
+      "You'll be punished if you don't come early.",
+      "You will be punished if you do not come early.",
+      "If you come late, you will be punished.",
+      "If you come late, you'll be punished.",
+      "You'll be punished if you do not come early."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i87",
+     "text": "We must respect different cultures. (If I were...)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "If I were you, I would respect different cultures.",
+     "accept": [
+      "If I were you, I would respect different cultures.",
+      "If I were you, I'd respect different cultures."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s6:i88",
+     "text": "It may rain tomorrow,so I will stay home . (If)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "If it rains tomorrow, I will stay home.",
+     "accept": [
+      "If it rains tomorrow, I will stay home.",
+      "If it rains tomorrow, I'll stay home.",
+      "I will stay home if it rains tomorrow.",
+      "I'll stay home if it rains tomorrow."
+     ],
+     "strict_case": false
+    }
+   ]
+  },
+  {
+   "section_index": 7,
+   "type": "plain",
+   "instruction": "Find and correct the mistake in each of the following sentences:",
+   "items": [
+    {
+     "item_id": "Prep2:s7:i0",
+     "text": "This week, they are play Tennis.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "This week, they are playing tennis.",
+     "accept": [
+      "This week, they are playing tennis.",
+      "This week, they're playing tennis."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s7:i1",
+     "text": "He is done a new project right now.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "He is doing a new project right now.",
+     "accept": [
+      "He is doing a new project right now.",
+      "He's doing a new project right now."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s7:i2",
+     "text": "While was sleeping, I had a bad dream.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "While I was sleeping, I had a bad dream.",
+     "accept": [
+      "While I was sleeping, I had a bad dream."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s7:i3",
+     "text": "During my study, the light was going out.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "During my study, the light went out.",
+     "accept": [
+      "During my study, the light went out.",
+      "While I was studying, the light went out."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s7:i4",
+     "text": "I fell asleep. I watched a movie. (While)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I fell asleep while I was watching a movie.",
+     "accept": [
+      "I fell asleep while I was watching a movie.",
+      "While I was watching a movie, I fell asleep.",
+      "I fell asleep while watching a movie."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s7:i5",
+     "text": "My mother made the salad. My father came. (When)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "My mother was making the salad when my father came.",
+     "accept": [
+      "My mother was making the salad when my father came.",
+      "When my father came, my mother was making the salad.",
+      "My mother was making the salad when my father came home."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s7:i6",
+     "text": "How about go fishing next week?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "How about going fishing next week?",
+     "accept": [
+      "How about going fishing next week?"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s7:i7",
+     "text": "During my flight to Paris, I watch a movie.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "During my flight to Paris, I watched a movie.",
+     "accept": [
+      "During my flight to Paris, I watched a movie."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s7:i8",
+     "text": "I suggest play tennis next weekend.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "I suggest playing tennis next weekend.",
+     "accept": [
+      "I suggest playing tennis next weekend.",
+      "I suggest we play tennis next weekend."
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s7:i9",
+     "text": "While my father was driving his car, it breaks down.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "While my father was driving his car, it broke down.",
+     "accept": [
+      "While my father was driving his car, it broke down."
+     ],
+     "strict_case": false
+    }
+   ]
+  },
+  {
+   "section_index": 8,
+   "type": "qlines",
+   "instruction": "Complete the following dialogs:",
+   "items": [
+    {
+     "item_id": "Prep2:s8:i0",
+     "text": "Ahmed and Omar are talking about Gen Alpha.\nAhmed: Where were you born?\nOmar: In 2012.\nAhmed: So you are one of Gen Alpha.\nOmar: (1) ................ ?\nAhmed: They are the children who were born from 2010 to 2020.\nOmar: What else do you know about Gen Alpha?\nAhmed: They are called digital natives.\nOmar: (2) ................ ?\nAhmed: Because they learn to use technology before they can read.\nOmar: (3) ................ ?\nAhmed: They rarely spend a day without using technology.\nOmar: (4) ................ ?\nAhmed: Their parents are trying to limit their children's screen time.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "(1) Who are Gen Alpha? (2) Why are they called digital natives? (3) How often do they use technology? (4) What are their parents trying to do?",
+     "grading_reason": "الحوارات إجاباتها نموذجية وتُراجع مع المدرس، فقد تصح كلمات أخرى مناسبة."
+    },
+    {
+     "item_id": "Prep2:s8:i1",
+     "text": "Sara is discussing screen time with her mother.\nMother: Sara, you have been on your phone for a long time.\nSara: Yes,mother.I am (1) ................ with my friends.\nMother: I know, but too much screen time isn't good for your eyes\nSara: How (2) ................ should I use my phone?\nMother: About two hours a day for fun is enough.\nSara: Okay. Mother. I (3) ................ \nMother: Good. (4) ................ are you going to do now?\nSara: I have to finish my science project.It's about digital trends.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "(1) chatting (2) long (3) will use it only two hours a day (4) What",
+     "grading_reason": "الحوارات إجاباتها نموذجية وتُراجع مع المدرس، فقد تصح كلمات أخرى مناسبة."
+    },
+    {
+     "item_id": "Prep2:s8:i2",
+     "text": "Rana is telling Reem about her trip to the beach.\nReem: How was your trip to the beach?\nRana: It was (1) ................ !\nReem: Really! (2) ................ did you enjoy the most?\nRana: I love building sandcastles.It was so much fun.\nReem: (3) ................ it sunny while you were there?\nRana:Yes, it was hot during the day,but it felt cooler in the evening.\nReem: Did you sleep there too?\nRana :Yes, I slept in a big (4) ................ near the waves.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "(1) great (2) What (3) Was (4) tent",
+     "grading_reason": "الحوارات إجاباتها نموذجية وتُراجع مع المدرس، فقد تصح كلمات أخرى مناسبة."
+    },
+    {
+     "item_id": "Prep2:s8:i3",
+     "text": "Anas and Seif are talking about water.\nAnas: What are you doing?\nSeif: I am reading a book about (1) ................ \nAnas: A book about water! (2) ................ does it contain?\nSeif: It contains facts about water.\nAnas: (3) ................ our bodies contain water?\nSeif: Yes, our bodies have water inside them.\nAnas: What is the importance of water in our bodies?\nSeif: (4) ................ blood and keeping the body cool..\nAnas: Moving blood and keeping the body cool.Wow! Interesting facts.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "(1) water (2) What (3) Do (4) Moving",
+     "grading_reason": "الحوارات إجاباتها نموذجية وتُراجع مع المدرس، فقد تصح كلمات أخرى مناسبة."
+    },
+    {
+     "item_id": "Prep2:s8:i4",
+     "text": "Noor is telling Omar about an art gallery.\nOmar: Hi, Noor! How was your last weekend?\nNoor: Hi, Omar!It was (1) ................ \nOmar: Where did you (2) ................ ?\nNoor: I went to an art gallery in Zamalek. It was really fun!\nOmar: That sounds interesting! What did you enjoy the most?\nNoor: I enjoyed the (3) ................ the most. They are made of smooth stone.\nOmar: Were there any other kinds of artworks?\nNoor: Yes, there were other amazing (4) ................ \nOmar: That's great.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "(1) great (2) go (3) sculptures (4) artworks",
+     "grading_reason": "الحوارات إجاباتها نموذجية وتُراجع مع المدرس، فقد تصح كلمات أخرى مناسبة."
+    },
+    {
+     "item_id": "Prep2:s8:i5",
+     "text": "Sally and Dina are talking about Dina's dream job.\nSally: What is your dream job?\nDina: My dream job is to be a (1) ................ \nSally: (2) ................ do you want to be a doctor?\nDina: Because I want to help sick people get better.\nSally: Great (3) ................ inspired you?\nDina: My uncle,who is a doctor, inspired me\nSally: What skills do doctors need?\nDina: They (4) ................ kindness,patience,and hard work.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "(1) doctor (2) Why (3) Who (4) need",
+     "grading_reason": "الحوارات إجاباتها نموذجية وتُراجع مع المدرس، فقد تصح كلمات أخرى مناسبة."
+    },
+    {
+     "item_id": "Prep2:s8:i6",
+     "text": "Maria and Hind are talking about Khan El Khalili.\nMaria: Have you ever visited Khan El Khalili?\nHind: (1) ................ It's famous for its bazaars.\nMaria: Why do people like to visit Khan El Khalili?\nHind: To buy (2) ................ \nMaria: What kind of souvenirs they can buy?\nHind: They can buy (3) ................ and also they can bargain for fun.\nMaria: Wow! That is impressive indeed!\nHind: Do you like to visit it?\nMaria: (4) ................ , I like it very much.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "(1) Yes, I have (2) souvenirs (3) handmade gifts (4) Yes",
+     "grading_reason": "الحوارات إجاباتها نموذجية وتُراجع مع المدرس، فقد تصح كلمات أخرى مناسبة."
+    },
+    {
+     "item_id": "Prep2:s8:i7",
+     "text": "Hany and Fady are talking about online games.\nHany: What are you doing, Fady?......\nFady: I'm doing my (1) ................ .. I always do it after school.\nHany: Me, too. After I finish my homework, I usually play online games. Do you enjoy playing (2) ................ .?\nFady: Yes, I love them. I always use my smartphone to play games online.\nHany: Who do you play with?\nFady: I play with my cousin.\nHany: How much (3) ................ .. do you spend playing online games?\nFady: I spend around (4) ................ \nHany: Only an hour? I sometimes play for three hours.\nFady: You shouldn't spend too much time playing games.\nHany: You're right.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "(1) homework (2) online games (3) time (4) an hour",
+     "grading_reason": "الحوارات إجاباتها نموذجية وتُراجع مع المدرس، فقد تصح كلمات أخرى مناسبة."
+    },
+    {
+     "item_id": "Prep2:s8:i8",
+     "text": "Sara and Heba are talking about shopping.\nSara: Do you like going shopping?\nHeba: (1) ................ , of course.\nSara :Who do you go shopping with?\nHeba: (2) ................ \nSara: (3) ................ do you go shopping?\nHeba: We go shopping once a week.\nSara: (4) ................ don't you like about shopping?\nHeba:The only thing I don't like about shopping is carrying the shopping bags.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "(1) Yes (2) My friends (3) How often (4) What",
+     "grading_reason": "الحوارات إجاباتها نموذجية وتُراجع مع المدرس، فقد تصح كلمات أخرى مناسبة."
+    },
+    {
+     "item_id": "Prep2:s8:i9",
+     "text": "Ahmed:What a fantastic jacket you are wearing! Is it (1) ................ ?\nEmad:Yes, I bought it yesterday.\nAhmed: (2) ................ did you buy it?\nEmad:I bought it at City Stars..\nAhmed: How (3) ................ is it?\nEmad:It is for 900 pounds.\nAhmed: Can you come with me to buy one?\nEmad: (4) ................ ,of course.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "(1) new (2) Where (3) much (4) Yes",
+     "grading_reason": "الحوارات إجاباتها نموذجية وتُراجع مع المدرس، فقد تصح كلمات أخرى مناسبة."
+    }
+   ]
+  },
+  {
+   "section_index": 9,
+   "type": "qlines",
+   "instruction": "Answer the following questions:",
+   "items": [
+    {
+     "item_id": "Prep2:s9:i0",
+     "text": "What are two interesting things you learned about Gen Alpha?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "Gen Alpha were born from 2010 onwards, and they are called digital natives because they learn to use technology before they can read.",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i1",
+     "text": "If you meet a Gen Alpha, what will you advise him/her to do?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i2",
+     "text": "In your opinion, why is it important to stay safe online?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i3",
+     "text": "Is it necessary to believe in yourself? Why?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i4",
+     "text": "What did Amal's parents teach her?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "Your identity is what makes you special.",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i5",
+     "text": "How was Yara a good friend to Amal?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "She showed empathy and encouraged her when Amal felt like giving up, and she helped her.",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i6",
+     "text": "\"The internet is a big part of our life.\" Do you agree? Why?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i7",
+     "text": "Is it important to keep your online information safe? How?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i8",
+     "text": "Write in brief about the two types of footprints.",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "Active footprints happen when you choose to share something online. Passive footprints happen without your knowing, like when websites collect information about what you look for.",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i9",
+     "text": "Before the fair day, Amal faced many problems. She felt like (1) ................ up, but her parents encouraged her to (2) ................ Yara helped her by showing empathy when Amal felt (3) ................ Amal fixed the problems with her robot. She made sure she was learning from (4) ................ places online. Finally, the robot blinked its eyes and said \"Hello!\" Amal and Yara cheered with joy.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "الفقرة بدون صندوق كلمات في الكتيب المطبوع، يراجعها المدرس ولا تدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s9:i10",
+     "text": "Do you think it's okay to make mistakes in our life? Why?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i11",
+     "text": "Have you ever felt like giving up? Give an example.",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i12",
+     "text": "What problems did Amal face as the fair came closer?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s9:i13",
+     "text": "\"It's okay to make mistakes.\" What do you think of this sentence?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i14",
+     "text": "If a classmate has a study challenge, what advice will you give him or her?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i15",
+     "text": "All the children displayed their work on the day of the fair. Amal stood (1) ................ with her robot. When she presented it, the robot spoke: \"Be (2) ................ Never give up!\" The children (3) ................ Amal's hard work and creativity. The teacher said, \"Amal, you showed (4) ................ and honesty, you stayed true to who you are.\" Amal felt proud because she had expressed herself honestly and used her tools responsibly.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "الفقرة بدون صندوق كلمات في الكتيب المطبوع، يراجعها المدرس ولا تدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s9:i16",
+     "text": "What is the moral you learned from \"The Little Inventor\"?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s9:i17",
+     "text": "Why do you think the teacher admires Amal's work?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s9:i18",
+     "text": "What message did Amal's robot give at the fair?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "Never give up!",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i19",
+     "text": "In your opinion, how did Amal inspire her friends to follow their dreams?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i20",
+     "text": "Last week, I visited an art gallery in Zamalek. The gallery was filled with (1) ................ paintings and different kinds of sculptures. Artists showcased their original artworks. They (2) ................ different kinds of material like paper, clay, and (3) ................ This makes the artworks special and original. Each piece carries a meaningful (4) ................",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "الفقرة بدون صندوق كلمات في الكتيب المطبوع، يراجعها المدرس ولا تدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s9:i21",
+     "text": "Mahmoud Mokhtar is a famous Egyptian (1) ................ He (2) ................ different kinds of art styles in his artworks. He gained international recognition for his remarkable artworks. One of his (3) ................ that had been recognized globally is Nahdet Misr Statue. He exhibited his artworks in many (4) ................ around the world. Al Khamaseen is one of his incredible pieces.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "الفقرة بدون صندوق كلمات في الكتيب المطبوع، يراجعها المدرس ولا تدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s9:i22",
+     "text": "What would you do if your friends refused to listen to your ideas? Why?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i23",
+     "text": "What is the rule that the four friends agreed on?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "No one is the boss. (a rule of collaboration and respect)",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i24",
+     "text": "Last week, we visited a modern art museum. All the (1) ................ were special and original. The sculptures looked very (2) ................ because they were different from anything else. Making art requires a lot of (3) ................ and creativity. An artwork doesn't need to be (4) ................ to be valuable or beautiful.",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "الفقرة بدون صندوق كلمات في الكتيب المطبوع، يراجعها المدرس ولا تدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s9:i25",
+     "text": "What did the group of friends find one sunny morning?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s9:i26",
+     "text": "Why do you think they agreed that \"No one is the boss\"?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s9:i27",
+     "text": "If you had an invitation to visit either Japan or Morocco, which would you prefer? Why?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i28",
+     "text": "Are you interested in exploring new places? Why?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i29",
+     "text": "If you had the chance, which place would you choose, Jordan or Peru?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i30",
+     "text": "What lesson did the friends learn at the end?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s9:i31",
+     "text": "What did the students do when they felt tired?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s9:i32",
+     "text": "What did Hany suggest doing?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "He encouraged them to go and discover the island.",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i33",
+     "text": "Why do you think Hany asked his group to stay close and safe?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s9:i34",
+     "text": "What is the capital of Japan?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "Tokyo.",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i35",
+     "text": "What does the tea ceremony show?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "It shows calmness and kindness.",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i36",
+     "text": "What is Japan full of?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s9:i37",
+     "text": "If you have an idea for a new invention, what steps will you follow to make it real?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i38",
+     "text": "After completing \"The Adventure of The Hidden Island\", what lessons did you learn?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i39",
+     "text": "Why do you think leadership is important in a group of friends?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i40",
+     "text": "What did the children do after they returned to the village?",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "teacher",
+     "model_answer": "They shared stories with others.",
+     "grading_reason": "إجابة نموذجية. تُراجع الإجابة المكتوبة مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i41",
+     "text": "If you were one of the children, what message would you share with the village?",
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s9:i42",
+     "text": "What important lesson did the friends share?",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    }
+   ]
+  },
+  {
+   "section_index": 10,
+   "type": "plain",
+   "instruction": "Read and write (T) True or (F) False:",
+   "items": [
+    {
+     "item_id": "Prep2:s10:i0",
+     "text": "Amal decided to build a walking robot. (True / False)",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s10:i1",
+     "text": "Amal made sure she used the internet safely. (True / False)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "True",
+     "accept": [
+      "True",
+      "T"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s10:i2",
+     "text": "Amal decided to persevere instead of giving up. (True / False)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "True",
+     "accept": [
+      "True",
+      "T"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s10:i3",
+     "text": "Yara laughed at Amal when the robot wasn't working. (True / False)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "False",
+     "accept": [
+      "False",
+      "F"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s10:i4",
+     "text": "Yara helped her friend Amal by giving her money. (True / False)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "False",
+     "accept": [
+      "False",
+      "F"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s10:i5",
+     "text": "Amal felt proud because she had expressed herself honestly. (True / False)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "True",
+     "accept": [
+      "True",
+      "T"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s10:i6",
+     "text": "Although they were all different, the friends respected each other's thoughts. (True / False)",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "True",
+     "accept": [
+      "True",
+      "T"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s10:i7",
+     "text": "Malik who loved drawing ignored the scenery. (True / False)",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s10:i8",
+     "text": "When they felt tired, they sat by the water and shared jokes. (True / False)",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s10:i9",
+     "text": "Malik used his creativity to draw maps of the island. (True / False)",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s10:i10",
+     "text": "As the sun set, the children gathered to leave the island, agreeing that their friendship grew stronger. (True / False)",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s10:i11",
+     "text": "The group sailed back home under the blue sky. (True / False)",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    }
+   ]
+  },
+  {
+   "section_index": 11,
+   "type": "plain",
+   "instruction": "Give the antonym of the following words:",
+   "items": [
+    {
+     "item_id": "Prep2:s11:i0",
+     "text": "safe",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "dangerous",
+     "accept": [
+      "dangerous",
+      "unsafe",
+      "risky"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s11:i1",
+     "text": "easy",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "difficult",
+     "accept": [
+      "difficult",
+      "hard",
+      "complicated",
+      "tough"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s11:i2",
+     "text": "strong",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "weak",
+     "accept": [
+      "weak",
+      "feeble"
+     ],
+     "strict_case": false
+    }
+   ]
+  },
+  {
+   "section_index": 12,
+   "type": "plain",
+   "instruction": "Give the synonym of the following words:",
+   "items": [
+    {
+     "item_id": "Prep2:s12:i0",
+     "text": "online",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s12:i1",
+     "text": "keep",
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s12:i2",
+     "text": "strong",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "powerful",
+     "accept": [
+      "powerful",
+      "mighty",
+      "tough"
+     ],
+     "strict_case": false
+    },
+    {
+     "item_id": "Prep2:s12:i3",
+     "text": "important",
+     "review_status": "model_answer",
+     "held": false,
+     "grading_mode": "checked",
+     "answer": "significant",
+     "accept": [
+      "significant",
+      "essential",
+      "vital",
+      "valuable",
+      "main",
+      "key",
+      "necessary"
+     ],
+     "strict_case": false
+    }
+   ]
+  },
+  {
+   "section_index": 13,
+   "type": "paragraphs",
+   "instruction": "Write a paragraph of 100 words about:",
+   "items": [
+    {
+     "item_id": "Prep2:s13:i0",
+     "title": "What Do Gen Z and Gen Alpha Have in Common?",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i1",
+     "title": "My Screen Time",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i2",
+     "title": "How to Stay Safe Online",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i3",
+     "title": "How to Use the Internet Safely",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i4",
+     "title": "The Good Points of Using Social Media",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i5",
+     "title": "The Bad Points of Using Social Media",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i6",
+     "title": "My Favorite Free-Time Activity",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i7",
+     "title": "Tips to Stay Safe Online",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i8",
+     "title": "The Traffic Problem in Cairo",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i9",
+     "title": "A Difficult Situation You Got Through",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i10",
+     "title": "Tips for Facing Challenges in Life",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i11",
+     "title": "A Story You Read And The Lessons You Learned",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i12",
+     "title": "Your Future Job",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i13",
+     "title": "An Interesting Art Gallery You Visited",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i14",
+     "title": "A Famous Egyptian Artist",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i15",
+     "title": "Write (T) true or (F) false:",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "الطلب غير صحيح في الكتيب المطبوع (سطر صح وخطأ مكرر)، يراجعه المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i16",
+     "title": "A Visit to a Place You Like",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i17",
+     "title": "A country you want to visit",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i18",
+     "title": "Famous Landmarks in Egypt",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i19",
+     "title": "Famous Tourist Places in Egypt",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i20",
+     "title": "A Country You Want to Visit",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i21",
+     "title": "My Favorite Holiday Destination",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i22",
+     "title": "A Place You Visited And Will Never Forget",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i23",
+     "title": "Something You Want to Invent to Help Your Community",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i24",
+     "title": "A Role Model You Like",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i25",
+     "title": "Your inspiring inventor",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i26",
+     "title": "Your role model inventor",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i27",
+     "title": "Your Favorite Invention",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i28",
+     "title": "An Inventor You Admire",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i29",
+     "title": "How to Design an Invention",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i30",
+     "title": "An Invention That Could Solve a Real Problem",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s13:i31",
+     "title": "An Egyptian Person You Admire",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    }
+   ]
+  },
+  {
+   "section_index": 14,
+   "type": "paragraphs",
+   "instruction": "Write an email of 100 words about:",
+   "items": [
+    {
+     "item_id": "Prep2:s14:i0",
+     "title": "Your Favorite Actor",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s14:i1",
+     "title": "Your Favorite Piece of Art",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s14:i2",
+     "title": "Your Visit to an Art Exhibition",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s14:i3",
+     "title": "Art Doesn't Have to Be Perfect",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    }
+   ]
+  },
+  {
+   "section_index": 15,
+   "type": "paragraphs",
+   "instruction": "Write a blog post of 100 words about:",
+   "items": [
+    {
+     "item_id": "Prep2:s15:i0",
+     "title": "A Day in Your Life As a Gen Alpha",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s15:i1",
+     "title": "My Digital Habits",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s15:i2",
+     "title": "My Favorite Digital Device",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s15:i3",
+     "title": "The Importance of Technology",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s15:i4",
+     "title": "A Famous Egyptian Artist",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    }
+   ]
+  },
+  {
+   "section_index": 16,
+   "type": "paragraphs",
+   "instruction": "Write a biography of 100 words about:",
+   "items": [
+    {
+     "item_id": "Prep2:s16:i0",
+     "title": "How to Solve Traffic Problems",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    },
+    {
+     "item_id": "Prep2:s16:i1",
+     "title": "Your favorite scientist",
+     "keywords": [],
+     "min_words": 100,
+     "review_status": "open_ended",
+     "held": false,
+     "grading_mode": "teacher",
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+    }
+   ]
+  },
+  {
+   "section_index": 17,
+   "type": "paragraphs",
+   "instruction": "Summarize the story chapter in your own words:",
+   "items": [
+    {
+     "item_id": "Prep2:s17:i0",
+     "title": "The Gen Z and Alpha Bridge",
+     "keywords": [],
+     "min_words": 0,
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s17:i1",
+     "title": "Chapter One",
+     "keywords": [],
+     "min_words": 0,
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s17:i2",
+     "title": "The chapter",
+     "keywords": [],
+     "min_words": 0,
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    },
+    {
+     "item_id": "Prep2:s17:i3",
+     "title": "Chapter 3",
+     "keywords": [],
+     "min_words": 0,
+     "review_status": "ambiguous_held",
+     "held": true,
+     "grading_mode": "teacher",
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+    }
+   ]
+  }
+ ]
+}
