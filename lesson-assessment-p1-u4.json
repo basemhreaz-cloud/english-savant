@@ -257,7 +257,8 @@
       "toes"
     ],
     "requires_image": false,
-    "explanation_en": "toes means صوابع الرجل."
+    "explanation_en": "Toes are the digits on your feet.",
+    "prompt_en": "What is the Arabic meaning of 'toes'?"
   },
   {
     "grade": "P1",
@@ -759,7 +760,7 @@
       "I have 2 eyes."
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
-    "explanation_en": "The sentence: I have 2 eyes."
+    "explanation_en": "The sentence is: I have 2 eyes."
   },
   {
     "grade": "P1",
@@ -974,7 +975,7 @@
     "answer_kind": "blanks_text",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Each blank has its own box. 1: eyes. 2: 1 أو one. 3: mouth. 4: toes."
+    "explanation_en": "Each blank has its own box. 1: eyes. 2: 1 or one. 3: mouth. 4: toes."
   },
   {
     "grade": "P1",
@@ -1070,7 +1071,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The word robot starts with the letter Rr. The other words start with different letters."
+    "explanation_en": "Robot begins with Rr. The other words begin with different letters."
   },
   {
     "grade": "P1",
@@ -1122,7 +1123,7 @@
       "rabbit"
     ],
     "requires_image": false,
-    "explanation_en": "rabbit starts with the letter r."
+    "explanation_en": "Rabbit begins with r."
   },
   {
     "grade": "P1",
@@ -1198,7 +1199,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Capital R and small r."
+    "explanation_en": "The capital letter is R and the small letter is r."
   },
   {
     "grade": "P1",
@@ -1274,7 +1275,8 @@
       "red"
     ],
     "requires_image": false,
-    "explanation_en": "red means أحمر."
+    "explanation_en": "Learn the color red.",
+    "prompt_en": "What is the Arabic meaning of 'red'?"
   },
   {
     "grade": "P1",
@@ -1450,7 +1452,7 @@
     ],
     "image": "p1-lessons-assets/img/kg-rabbit.png",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: r-a-b-b-i-t."
+    "explanation_en": "Put the letters in order: r-a-b-b-i-t."
   },
   {
     "grade": "P1",
@@ -1551,7 +1553,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The word elbow starts with the letter Ee. The other words start with different letters."
+    "explanation_en": "Elbow begins with Ee. The other words begin with different letters."
   },
   {
     "grade": "P1",
@@ -1703,7 +1705,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Capital E and small e."
+    "explanation_en": "The capital letter is E and the small letter is e."
   },
   {
     "grade": "P1",
@@ -1952,7 +1954,7 @@
     ],
     "image": "p1-lessons-assets/img/obj-egg.png",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: e-g-g."
+    "explanation_en": "Put the letters in order: e-g-g."
   },
   {
     "grade": "P1",
@@ -2274,7 +2276,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "We smell with the nose."
+    "explanation_en": "We smell with our nose."
   },
   {
     "grade": "P1",
@@ -2298,7 +2300,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "We taste with the tongue."
+    "explanation_en": "We taste with our tongue."
   },
   {
     "grade": "P1",
@@ -2348,7 +2350,7 @@
       "eyes"
     ],
     "requires_image": false,
-    "explanation_en": "العين للرؤية: see."
+    "explanation_en": "We use our eyes to see."
   },
   {
     "grade": "P1",
@@ -2572,7 +2574,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "We have 5 senses: see, hear, smell, taste, touch."
+    "explanation_en": "We have 5 senses: see, hear, smell, taste and touch."
   },
   {
     "grade": "P1",
@@ -2805,7 +2807,7 @@
       "I can see with my eyes."
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
-    "explanation_en": "The sentence: I can see with my eyes."
+    "explanation_en": "The sentence is: I can see with my eyes."
   },
   {
     "grade": "P1",
@@ -3010,7 +3012,7 @@
     "answer_kind": "blanks_text",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Each blank has its own box. 1: senses (حواسنا). 2: eyes. 3: smell بالأنف. 4: hear بالودن. 5: hands بالإيدين."
+    "explanation_en": "Each blank has its own box. 1: senses. 2: eyes. 3: smell, using the nose. 4: hear, using the ears. 5: hands."
   },
   {
     "grade": "P1",
@@ -3106,7 +3108,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The word car starts with the letter Cc. The other words start with different letters."
+    "explanation_en": "Car begins with Cc. The other words begin with different letters."
   },
   {
     "grade": "P1",
@@ -3234,7 +3236,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Capital C and small c."
+    "explanation_en": "The capital letter is C and the small letter is c."
   },
   {
     "grade": "P1",
@@ -3483,7 +3485,7 @@
     ],
     "image": "p1-lessons-assets/img/kg-cat.png",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: c-a-t."
+    "explanation_en": "Put the letters in order: c-a-t."
   },
   {
     "grade": "P1",
@@ -3585,7 +3587,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The word key starts with the letter Kk. The other words start with different letters."
+    "explanation_en": "Key begins with Kk. The other words begin with different letters."
   },
   {
     "grade": "P1",
@@ -3737,7 +3739,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Capital K and small k."
+    "explanation_en": "The capital letter is K and the small letter is k."
   },
   {
     "grade": "P1",
@@ -3987,7 +3989,7 @@
     ],
     "image": "p1-lessons-assets/img/obj-kite.png",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: k-i-t-e."
+    "explanation_en": "Put the letters in order: k-i-t-e."
   },
   {
     "grade": "P1",
@@ -4139,7 +4141,7 @@
     "alt": "a picture of a egg",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows بيضة. The word in English is egg."
+    "explanation_en": "The picture shows an egg."
   },
   {
     "grade": "P1",
@@ -4191,7 +4193,7 @@
     "alt": "a picture of a ring",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows خاتم. The word in English is ring."
+    "explanation_en": "The picture shows a ring."
   },
   {
     "grade": "P1",
@@ -4243,7 +4245,7 @@
     "alt": "a picture of a cake",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows كيكة. The word in English is cake."
+    "explanation_en": "The picture shows a cake."
   },
   {
     "grade": "P1",
@@ -4295,7 +4297,7 @@
     "alt": "a picture of a cup",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows كوب. The word in English is cup."
+    "explanation_en": "The picture shows a cup."
   },
   {
     "grade": "P1",
@@ -4347,7 +4349,7 @@
     "alt": "a picture of a key",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows مفتاح. The word in English is key."
+    "explanation_en": "The picture shows a key."
   },
   {
     "grade": "P1",
@@ -4399,7 +4401,7 @@
     "alt": "a picture of a kite",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows طيارة ورق. The word in English is kite."
+    "explanation_en": "The picture shows a kite."
   },
   {
     "grade": "P1",
@@ -4451,7 +4453,7 @@
     "alt": "picture: head",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows راس. The word in English is head."
+    "explanation_en": "The picture shows a head."
   },
   {
     "grade": "P1",
@@ -4477,7 +4479,7 @@
     "alt": "picture: eyes",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows عينين. The word in English is eyes."
+    "explanation_en": "The picture shows eyes."
   },
   {
     "grade": "P1",
@@ -4503,7 +4505,7 @@
     "alt": "picture: eyes",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "Two eyes: 2."
+    "explanation_en": "There are two eyes: 2."
   },
   {
     "grade": "P1",
@@ -4529,7 +4531,7 @@
     "alt": "back of a boy's head with a red circle around each ear",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows ودنين. The word in English is ears."
+    "explanation_en": "The picture shows ears."
   },
   {
     "grade": "P1",
@@ -4555,7 +4557,7 @@
     "alt": "picture: nose",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is أنف. The word in English: nose."
+    "explanation_en": "The picture shows a nose."
   },
   {
     "grade": "P1",
@@ -4581,7 +4583,7 @@
     "alt": "picture: mouth",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows بُق. The word in English is mouth."
+    "explanation_en": "The picture shows a mouth."
   },
   {
     "grade": "P1",
@@ -4607,7 +4609,7 @@
     "alt": "picture: hands",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is إيدين. The word in English: hands."
+    "explanation_en": "The picture shows hands."
   },
   {
     "grade": "P1",
@@ -4659,7 +4661,7 @@
     "alt": "picture: arms",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows دراعين. The word in English is arms."
+    "explanation_en": "The picture shows arms."
   },
   {
     "grade": "P1",
@@ -4685,7 +4687,7 @@
     "alt": "picture: legs",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows رجلين. The word in English is legs."
+    "explanation_en": "The picture shows legs."
   },
   {
     "grade": "P1",
@@ -4737,7 +4739,7 @@
     "alt": "picture: feet",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows قدمين. The word in English is feet."
+    "explanation_en": "The picture shows feet."
   },
   {
     "grade": "P1",
@@ -4789,7 +4791,7 @@
     "alt": "picture: cat",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is قطة. The word in English: cat."
+    "explanation_en": "The picture shows a cat."
   },
   {
     "grade": "P1",
@@ -4815,7 +4817,7 @@
     "alt": "picture: rabbit",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows أرنب. The word in English is rabbit."
+    "explanation_en": "The picture shows a rabbit."
   },
   {
     "grade": "P1",
@@ -4841,7 +4843,7 @@
     "alt": "picture: elephant",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is فيل. The word in English: elephant."
+    "explanation_en": "The picture shows an elephant."
   },
   {
     "grade": "P1",
