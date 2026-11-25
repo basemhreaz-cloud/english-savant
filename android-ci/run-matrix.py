@@ -11,7 +11,7 @@ try:
  for i in range(120):
   if adb('shell','getprop','sys.boot_completed',check=False).strip()==b'1':break
   time.sleep(2)
- adb('root');adb('wait-for-device');adb('shell','svc','power','stayon','true');adb('shell','input','keyevent','82');adb('logcat','-c')
+ adb('root');adb('wait-for-device');adb('shell','svc','power','stayon','true');adb('shell','input','keyevent','82');adb('logcat','-c');adb('shell','svc','wifi','disable');adb('shell','svc','data','disable')
  (O/'device.txt').write_bytes(adb('shell','getprop'))
  (O/'webview.txt').write_bytes(adb('shell','dumpsys','webviewupdate'))
  for apk in ['android-ci/current-test-signed.apk','android-ci/matrix-audit.apk']:print(adb('install','-r',apk).decode())
