@@ -59,16 +59,6 @@
       "media_version": "a125b86382c9"
     },
     {
-      "id": "p4-u1-lesson",
-      "grade": "p4",
-      "title": "Unit 1: The Five Senses",
-      "part": "فيديو شرح الوحدة الأولى",
-      "duration": "9:53",
-      "youtube": "",
-      "soon": false,
-      "mp4": "videos/ES_P4_T1_U1.mp4"
-    },
-    {
       "id": "p5-u1-lesson",
       "grade": "p5",
       "title": "Unit 1: Food, Nature, and Culture",
@@ -739,6 +729,17 @@
       "mp4": "videos/ES_P3_T1_U3.mp4",
       "poster": "videos/ES_P3_T1_U3.jpg",
       "media_version": "4dc60059a838",
+      "soon": false
+    },
+    {
+      "id": "p4-u1-lesson",
+      "grade": "p4",
+      "title": "Unit 1: The Five Senses",
+      "part": "فيديو شرح الوحدة الأولى",
+      "duration": "27:11",
+      "mp4": "videos/ES_P4_T1_U1.mp4",
+      "poster": "videos/ES_P4_T1_U1.jpg",
+      "media_version": "fdab0a9da0a6",
       "soon": false
     }
   ]
