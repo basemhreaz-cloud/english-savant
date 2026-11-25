@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "lessons": [
     {
       "id": "psc-ep1",
@@ -66,17 +66,6 @@
       "mp4": "videos/ES_M2_T1_U1.mp4",
       "poster": "videos/ES_M2_T1_U1.jpg",
       "soon": false
-    },
-    {
-      "id": "p2-u2",
-      "grade": "p2",
-      "title": "Colors, Shapes and Numbers",
-      "part": "الوحدة الثانية",
-      "duration": "13:14",
-      "mp4": "videos/ES_P2_T1_U2.mp4",
-      "poster": "videos/ES_P2_T1_U2.jpg",
-      "soon": false,
-      "media_version": "40ca2d912ab4"
     },
     {
       "id": "sa-g1-u3-lesson",
@@ -765,6 +754,17 @@
       "mp4": "videos/ES_P2_T1_U3.mp4",
       "poster": "videos/ES_P2_T1_U3.jpg",
       "media_version": "3c308016a576",
+      "soon": false
+    },
+    {
+      "id": "p2-u2",
+      "grade": "p2",
+      "title": "Colors, Shapes and Numbers",
+      "part": "الوحدة الثانية",
+      "duration": "17:01",
+      "mp4": "videos/ES_P2_T1_U2.mp4",
+      "poster": "videos/ES_P2_T1_U2.jpg",
+      "media_version": "58b6fc5b021b",
       "soon": false
     }
   ]
