@@ -1,0 +1,83 @@
+name: Isolated Android 2.1.8 native fix matrix
+on:
+  workflow_dispatch:
+  push:
+    branches: [android-218-native-test-once]
+permissions:
+  contents: read
+concurrency:
+  group: android-responsive-matrix
+  cancel-in-progress: false
+jobs:
+  emulator:
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        api: [28, 34]
+        device: [phone, tablet]
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Prepare test-only instrumentation and exact current APK
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat android-ci/apk218.part* > /tmp/current-original.apk
+          echo 'aae213146e9fc45931c768c115e6214f01967d1e8cb1d82c598e75e971321875  /tmp/current-original.apk' | sha256sum -c -
+          "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" 'platforms;android-34' 'build-tools;34.0.0'
+          BT="$ANDROID_HOME/build-tools/34.0.0"
+          mkdir -p /tmp/matrix-classes /tmp/matrix-dex
+          javac -source 8 -target 8 -classpath "$ANDROID_HOME/platforms/android-34/android.jar" -d /tmp/matrix-classes android-ci/MatrixAudit.java
+          "$BT/d8" --lib "$ANDROID_HOME/platforms/android-34/android.jar" --output /tmp/matrix-dex $(find /tmp/matrix-classes -name '*.class')
+          cp android-ci/MatrixManifest.xml /tmp/AndroidManifest.xml
+          "$BT/aapt" package -f -M /tmp/AndroidManifest.xml -I "$ANDROID_HOME/platforms/android-34/android.jar" -F /tmp/matrix-unsigned.apk
+          (cd /tmp/matrix-dex && zip /tmp/matrix-unsigned.apk classes.dex)
+          keytool -genkeypair -keystore /tmp/matrix.jks -storepass android -keypass android -alias test -dname 'CN=Disposable Emulator Test' -keyalg RSA -validity 2
+          cp /tmp/current-original.apk /tmp/current-unsigned.apk
+          zip -d /tmp/current-unsigned.apk 'META-INF/*' || true
+          "$BT/zipalign" -f 4 /tmp/current-unsigned.apk /tmp/current-aligned.apk
+          "$BT/apksigner" sign --ks /tmp/matrix.jks --ks-pass pass:android --out android-ci/current-test-signed.apk /tmp/current-aligned.apk
+          "$BT/apksigner" sign --ks /tmp/matrix.jks --ks-pass pass:android --out android-ci/matrix-audit.apk /tmp/matrix-unsigned.apk
+          mkdir -p android-evidence
+          "$BT/aapt" dump badging /tmp/current-original.apk > android-evidence/original-apk.txt
+          "$BT/apksigner" verify --print-certs /tmp/current-original.apk > android-evidence/original-signature.txt
+          python3 - <<'PY'
+          import zipfile,hashlib,json
+          with zipfile.ZipFile('/tmp/current-original.apk') as a,zipfile.ZipFile('android-ci/current-test-signed.apk') as b:
+            before={n:hashlib.sha256(a.read(n)).hexdigest() for n in a.namelist() if not n.startswith('META-INF/')}
+            after={n:hashlib.sha256(b.read(n)).hexdigest() for n in b.namelist() if not n.startswith('META-INF/')}
+            assert before==after,'Test resign changed resources or code'
+          open('android-evidence/test-apk-provenance.json','w').write(json.dumps({'original_sha256':'aae213146e9fc45931c768c115e6214f01967d1e8cb1d82c598e75e971321875','test_only_resigned':True,'code_and_resources_unchanged':True},indent=2))
+          PY
+          rm /tmp/matrix.jks
+      - name: Enable KVM
+        run: |
+          test -c /dev/kvm
+          sudo chmod 666 /dev/kvm
+      - name: Real Android emulator matrix
+        uses: reactivecircus/android-emulator-runner@a421e43855164a8197daf9d8d40fe71c6996bb0d
+        env:
+          API: ${{ matrix.api }}
+          DEVICE: ${{ matrix.device }}
+        with:
+          api-level: ${{ matrix.api }}
+          target: default
+          arch: x86_64
+          profile: ${{ matrix.device == 'tablet' && 'Nexus 9' || 'pixel_6' }}
+          ram-size: 2048M
+          disk-size: 4096M
+          emulator-boot-timeout: 600
+          disable-animations: true
+          script: python3 android-ci/run-matrix.py
+      - name: Save actual emulator evidence
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: real-android-api${{ matrix.api }}-${{ matrix.device }}
+          path: android-evidence/
+          retention-days: 1
+          if-no-files-found: error

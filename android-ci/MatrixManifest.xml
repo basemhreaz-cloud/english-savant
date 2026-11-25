@@ -1,0 +1,1 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="eg.englishsavant.matrix"><uses-sdk android:minSdkVersion="26" android:targetSdkVersion="28"/><instrumentation android:name="eg.englishsavant.matrix.MatrixAudit" android:targetPackage="eg.englishsavant.app" android:functionalTest="true"/><application android:label="Disposable Savant Matrix"/></manifest>
