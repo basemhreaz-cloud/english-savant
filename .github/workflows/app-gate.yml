@@ -1,0 +1,52 @@
+name: Offline app gate 2.1.14
+on:
+  workflow_dispatch:
+  push:
+    branches: [ci-app-gate-2114-v2]
+permissions:
+  contents: read
+concurrency:
+  group: offline-app-gate-2114-v2
+  cancel-in-progress: false
+jobs:
+  gate:
+    strategy:
+      fail-fast: false
+      matrix:
+        api: [28, 34]
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+          fetch-depth: 1
+          sparse-checkout: ci
+      - name: Verify exact APK
+        run: |
+          echo '08d3d980a4657608396cd52b4ccdf5fe75e5a2b37ff69225610f989a12242293  ci/app2114.apk' | sha256sum -c -
+      - name: Enable KVM
+        run: |
+          test -c /dev/kvm
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
+          sudo udevadm control --reload-rules
+          sudo udevadm trigger --name-match=kvm
+      - name: Run exact unmodified APK
+        uses: reactivecircus/android-emulator-runner@a421e43855164a8197daf9d8d40fe71c6996bb0d
+        env:
+          API: ${{ matrix.api }}
+        with:
+          api-level: ${{ matrix.api }}
+          target: default
+          arch: x86_64
+          profile: pixel_6
+          ram-size: 2048M
+          disk-size: 4096M
+          emulator-options: -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim -no-snapshot
+          disable-animations: true
+          script: |
+            python3 -m pip install uiautomator2 pillow
+            python3 ci/gate.py
+      - name: Evidence in logs only, no billed artifact or cache storage
+        if: always()
+        run: python3 ci/emit.py
