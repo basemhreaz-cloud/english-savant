@@ -1,8 +1,8 @@
-name: Isolated Android 2.1.10 native fix matrix
+name: Isolated Android 2.1.11 native fix matrix
 on:
   workflow_dispatch:
   push:
-    branches: [android-2110-native-test-once]
+    branches: [android-2111-native-test-once]
 permissions:
   contents: read
 concurrency:
@@ -26,8 +26,8 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          cat android-ci/apk2110.part* > /tmp/current-original.apk
-          echo '8d9b73dd872c5030a7ef84cac530080bd8f2fb8f46861313c1f25672c1ffb11c  /tmp/current-original.apk' | sha256sum -c -
+          cat android-ci/apk2111.part* > /tmp/current-original.apk
+          echo '963b6b1b98be7d11c8d182b211b701cdad54c58b203697ec0ef09b85e51f17cb  /tmp/current-original.apk' | sha256sum -c -
           "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" 'platforms;android-34' 'build-tools;34.0.0'
           BT="$ANDROID_HOME/build-tools/34.0.0"
           mkdir -p /tmp/matrix-classes /tmp/matrix-dex
@@ -51,7 +51,7 @@ jobs:
             before={n:hashlib.sha256(a.read(n)).hexdigest() for n in a.namelist() if not n.startswith('META-INF/')}
             after={n:hashlib.sha256(b.read(n)).hexdigest() for n in b.namelist() if not n.startswith('META-INF/')}
             assert before==after,'Test resign changed resources or code'
-          open('android-evidence/test-apk-provenance.json','w').write(json.dumps({'original_sha256':'8d9b73dd872c5030a7ef84cac530080bd8f2fb8f46861313c1f25672c1ffb11c','test_only_resigned':True,'code_and_resources_unchanged':True},indent=2))
+          open('android-evidence/test-apk-provenance.json','w').write(json.dumps({'original_sha256':'963b6b1b98be7d11c8d182b211b701cdad54c58b203697ec0ef09b85e51f17cb','test_only_resigned':True,'code_and_resources_unchanged':True},indent=2))
           PY
           rm /tmp/matrix.jks
       - name: Enable KVM
