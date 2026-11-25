@@ -1,12 +1,12 @@
-name: Isolated Android 2.1.8 native fix matrix
+name: Isolated Android 2.1.8 PDF viewer matrix
 on:
   workflow_dispatch:
   push:
-    branches: [android-218-native-test-once]
+    branches: [android-218-pdf-test-once]
 permissions:
   contents: read
 concurrency:
-  group: android-responsive-matrix
+  group: android-pdf-matrix
   cancel-in-progress: false
 jobs:
   emulator:
@@ -14,7 +14,7 @@ jobs:
       fail-fast: false
       max-parallel: 4
       matrix:
-        api: [28, 34]
+        api: [34]
         device: [phone, tablet]
     runs-on: ubuntu-latest
     timeout-minutes: 55
