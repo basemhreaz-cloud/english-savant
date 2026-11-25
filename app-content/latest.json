@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "release_id": "deca033ca005e7f34d765c0b324a4da4cc7d20b9",
-  "content_version": "git-deca033ca005e7f34d765c0b324a4da4cc7d20b9",
-  "manifest_url": "https://basemhreaz-cloud.github.io/english-savant/app-content/deca033ca005e7f34d765c0b324a4da4cc7d20b9/manifest.json",
-  "manifest_sha256": "2cd51fa9ba2736e5dbb1e69a0b6e2ed2fa1fb27795c278da1ceea8dcd644e438",
+  "release_id": "f729e7dcbc119337ee389fd07f9a937687eb260a",
+  "content_version": "git-f729e7dcbc119337ee389fd07f9a937687eb260a",
+  "manifest_url": "https://basemhreaz-cloud.github.io/english-savant/app-content/f729e7dcbc119337ee389fd07f9a937687eb260a/manifest.json",
+  "manifest_sha256": "98561990005c316576c7aae5c9ac8a7bf2743e172bcb671632943d14a7341818",
   "manifest_bytes": 2033342,
   "asset_count": 3196,
-  "total_bytes": 184500791,
-  "previous_release_id": "2ed652360b1f47d57eb04e4315746e460055d7dc",
+  "total_bytes": 184498510,
+  "previous_release_id": "deca033ca005e7f34d765c0b324a4da4cc7d20b9",
   "update_policy": "stage-verify-atomic-activate",
   "minimum_app_content_schema": 1,
-  "video_inventory_url": "https://basemhreaz-cloud.github.io/english-savant/app-content/deca033ca005e7f34d765c0b324a4da4cc7d20b9/videos.json",
-  "video_inventory_sha256": "495cc613a419cd10f95659b34a007eb470703d8f09f5b72f89fd5daa76ddd71b",
+  "video_inventory_url": "https://basemhreaz-cloud.github.io/english-savant/app-content/f729e7dcbc119337ee389fd07f9a937687eb260a/videos.json",
+  "video_inventory_sha256": "094cd45dc51539b928acea309c0704ce7cbba43666f42a15c122136106719acc",
   "video_inventory_bytes": 29200,
-  "release_sequence": 94
+  "release_sequence": 95
 }
