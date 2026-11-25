@@ -2490,13 +2490,14 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 68, The World of Big Numbers",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "1 billion.",
+    "explanation_ar": "1,000,000,000 يتقرأ one billion (مليار).",
     "review_status": "Ministry source checked against extracted text and page images; answer teacher-derived and reviewed",
     "options": [
       "1 billion",
       "1 million",
       "1 thousand"
-    ]
+    ],
+    "explanation_en": "1,000,000,000 is one billion."
   },
   {
     "id": "orig-p4-u4l3-05",
@@ -2516,13 +2517,14 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 68, The World of Big Numbers",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "4,000 = four thousand.",
+    "explanation_ar": "4,000 تتقرأ four thousand (أربعة آلاف).",
     "review_status": "Ministry source checked against extracted text and page images; answer teacher-derived and reviewed",
     "options": [
       "four thousand",
       "forty thousand",
       "four hundred"
-    ]
+    ],
+    "explanation_en": "4,000 is read four thousand."
   },
   {
     "id": "orig-p4-u4l3-06",
@@ -2542,13 +2544,14 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 68, The World of Big Numbers",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "73,000,000 = seventy-three million.",
+    "explanation_ar": "73,000,000 تتقرأ seventy-three million.",
     "review_status": "Ministry source checked against extracted text and page images; answer teacher-derived and reviewed",
     "options": [
       "seventy-three million",
       "seventy-three thousand",
       "seventy-three billion"
-    ]
+    ],
+    "explanation_en": "73,000,000 is read seventy-three million."
   },
   {
     "id": "orig-p4-u4l3-07",
@@ -2568,13 +2571,14 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 68, The World of Big Numbers",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "7,000,000,000 = seven billion.",
+    "explanation_ar": "7,000,000,000 تتقرأ seven billion.",
     "review_status": "Ministry source checked against extracted text and page images; answer teacher-derived and reviewed",
     "options": [
       "seven billion",
       "seven million",
       "seven hundred billion"
-    ]
+    ],
+    "explanation_en": "7,000,000,000 is read seven billion."
   },
   {
     "id": "orig-p4-u4l3-08",
@@ -2967,12 +2971,13 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 68, The World of Big Numbers (place value)",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "three million = 3,000,000.",
+    "explanation_ar": "مليون = 1,000,000 فثلاثة مليون: 3,000,000.",
     "review_status": "Ministry source checked against extracted text and page images; answer teacher-derived and reviewed",
     "accept": [
       "3,000,000",
       "3000000"
-    ]
+    ],
+    "explanation_en": "A million is 1,000,000, so three million is 3,000,000."
   },
   {
     "id": "orig-p4-u4l3-23",
@@ -2992,12 +2997,13 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 68, The World of Big Numbers (place value)",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "seven thousand = 7,000.",
+    "explanation_ar": "ألف = 1,000 فسبعة آلاف: 7,000.",
     "review_status": "Ministry source checked against extracted text and page images; answer teacher-derived and reviewed",
     "accept": [
       "7,000",
       "7000"
-    ]
+    ],
+    "explanation_en": "A thousand is 1,000, so seven thousand is 7,000."
   },
   {
     "id": "orig-p4-u4l3-24",
@@ -3017,12 +3023,13 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 68, The World of Big Numbers (place value)",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "one hundred thousand = 100,000.",
+    "explanation_ar": "مية ألف = 100,000.",
     "review_status": "Ministry source checked against extracted text and page images; answer teacher-derived and reviewed",
     "accept": [
       "100,000",
       "100000"
-    ]
+    ],
+    "explanation_en": "One hundred thousand is 100,000."
   },
   {
     "id": "orig-p4-u4l3-25",
@@ -3042,12 +3049,13 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 68, The World of Big Numbers (place value)",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "two billion = 2,000,000,000.",
+    "explanation_ar": "مليار = 1,000,000,000 فمليارين: 2,000,000,000.",
     "review_status": "Ministry source checked against extracted text and page images; answer teacher-derived and reviewed",
     "accept": [
       "2,000,000,000",
       "2000000000"
-    ]
+    ],
+    "explanation_en": "A billion is 1,000,000,000, so two billion is 2,000,000,000."
   },
   {
     "id": "orig-p4-u4l3-26",

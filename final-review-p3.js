@@ -234,6 +234,17 @@
     } else if (s.section_index === 6) c.append(tokens(q.item_id, q.text));
     else if (s.section_index !== 9 || q.pronunciation_audio) c.append(field(q.item_id, s.type === "paragraphs" || s.type === "passage_write"));
     addGrading(c, q, s);
+    if (q.explanation_ar) {
+      const explanation = e("details", void 0, "final-explanation");
+      const summary = e("summary", "افهم الإجابة");
+      const text = e("p", q.explanation_ar, "final-explanation-text");
+      text.dir = "auto";
+      if (window.ESInterface) window.ESInterface.bindExplanation(text, q);
+      explanation.append(summary, text);
+      explanation.style.cssText = "border:1px solid var(--line, #b0aa98);border-radius:18px;padding:12px 14px;margin-top:12px;line-height:1.9";
+      summary.style.cursor = "pointer";
+      c.append(explanation);
+    }
     return c;
   }
   fetch("final-review-p3-questions.json?v=85", { cache: "no-cache" }).then((r) => {

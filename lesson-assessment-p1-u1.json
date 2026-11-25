@@ -456,11 +456,12 @@
       "firends"
     ],
     "answer": "friends",
-    "explanation_ar": "friends: f-r-i-e-n-d-s.",
+    "explanation_ar": "الإملاء الصحيح friends: بتتكتب f-r-i-e-n-d-s.",
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The correct spelling is friends."
   },
   {
     "grade": "P1",
@@ -1423,13 +1424,14 @@
       "False"
     ],
     "answer": "True",
-    "explanation_ar": "tree: t-r-e-e.",
+    "explanation_ar": "True: كلمة tree بتبدأ بحرف t.",
     "passage": null,
     "answer_kind": "closed",
     "image_optional": [
       "tree"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "True: tree starts with the letter t."
   },
   {
     "grade": "P1",
@@ -2062,11 +2064,12 @@
       "pincil"
     ],
     "answer": "pencil",
-    "explanation_ar": "pencil: p-e-n-c-i-l.",
+    "explanation_ar": "الإملاء الصحيح pencil.",
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The correct spelling is pencil."
   },
   {
     "grade": "P1",
@@ -2085,11 +2088,12 @@
       "chare"
     ],
     "answer": "chair",
-    "explanation_ar": "chair: c-h-a-i-r.",
+    "explanation_ar": "الإملاء الصحيح chair.",
     "passage": null,
     "answer_kind": "closed",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "The correct spelling is chair."
   },
   {
     "grade": "P1",
@@ -2936,13 +2940,14 @@
       "False"
     ],
     "answer": "True",
-    "explanation_ar": "ink: i-n-k.",
+    "explanation_ar": "True: كلمة ink بتبدأ بحرف i.",
     "passage": null,
     "answer_kind": "closed",
     "image_optional": [
       "ink"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "True: ink starts with the letter i."
   },
   {
     "grade": "P1",
@@ -2983,13 +2988,14 @@
       "False"
     ],
     "answer": "True",
-    "explanation_ar": "insect: i-n-s-e-c-t.",
+    "explanation_ar": "True: كلمة insect بتبدأ بحرف i.",
     "passage": null,
     "answer_kind": "closed",
     "image_optional": [
       "insect"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "True: insect starts with the letter i."
   },
   {
     "grade": "P1",

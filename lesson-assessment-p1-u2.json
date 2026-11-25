@@ -1466,13 +1466,14 @@
       "False"
     ],
     "answer": "True",
-    "explanation_ar": "sun: s-u-n.",
+    "explanation_ar": "True: كلمة sun بتبدأ بحرف s.",
     "passage": null,
     "answer_kind": "closed",
     "image_optional": [
       "sun"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "True: sun starts with the letter s."
   },
   {
     "grade": "P1",
@@ -1513,13 +1514,14 @@
       "False"
     ],
     "answer": "True",
-    "explanation_ar": "snake: s-n-a-k-e.",
+    "explanation_ar": "True: كلمة snake بتبدأ بحرف s.",
     "passage": null,
     "answer_kind": "closed",
     "image_optional": [
       "snake"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "True: snake starts with the letter s."
   },
   {
     "grade": "P1",
@@ -3172,13 +3174,14 @@
       "False"
     ],
     "answer": "True",
-    "explanation_ar": "ant: a-n-t.",
+    "explanation_ar": "True: كلمة ant بتبدأ بحرف a.",
     "passage": null,
     "answer_kind": "closed",
     "image_optional": [
       "ant"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "True: ant starts with the letter a."
   },
   {
     "grade": "P1",
@@ -3219,13 +3222,14 @@
       "False"
     ],
     "answer": "True",
-    "explanation_ar": "arrow: a-r-r-o-w.",
+    "explanation_ar": "True: كلمة arrow بتبدأ بحرف a.",
     "passage": null,
     "answer_kind": "closed",
     "image_optional": [
       "arrow"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "True: arrow starts with the letter a."
   },
   {
     "grade": "P1",

@@ -348,7 +348,7 @@
     "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p216 (printed p216, offset 0), General Practice on Unit (5), exercise 4 bank_fill, item 1",
     "type": "dialogue",
     "prompt": "Complete the numbered blanks using the word bank.",
-    "explanation_ar": "1) a big bed. 2) next to the bed. 3) I clean my room.",
+    "explanation_ar": "الإجابات: 1) bed 2) next 3) clean. فيه سرير كبير، كراسي جنب السرير، وأنا بنضف أوضتي.",
     "source_change": "3 blanks kept as one item with full word box",
     "key_status": "Publisher independently checked against printed source; teacher-derived key, no printed answer key",
     "audio": false,
@@ -390,7 +390,8 @@
           "clean"
         ]
       }
-    ]
+    ],
+    "explanation_en": "Answers: 1) bed 2) next 3) clean. There is a big bed, two chairs next to the bed, and I clean my room."
   },
   {
     "grade": "P2",
@@ -688,7 +689,7 @@
     "type": "reorder",
     "prompt": "Put the words in order.",
     "answer": "This is my mother.",
-    "explanation_ar": "This is my mother.",
+    "explanation_ar": "الترتيب الصحيح: This is my mother.",
     "source_change": "none",
     "key_status": "Publisher independently checked against printed source; teacher-derived key, no printed answer key",
     "audio": false,
@@ -710,7 +711,8 @@
     ],
     "accept": [
       "This is my mother."
-    ]
+    ],
+    "explanation_en": "The order is This is + noun: This is my mother."
   },
   {
     "grade": "P2",
@@ -794,7 +796,7 @@
     "type": "reorder",
     "prompt": "Put the words in order.",
     "answer": "I help my father clean the car.",
-    "explanation_ar": "I help my father clean the car.",
+    "explanation_ar": "الترتيب الصحيح: I help my father clean the car.",
     "source_change": "none",
     "key_status": "Publisher independently checked against printed source; teacher-derived key, no printed answer key",
     "audio": false,
@@ -818,7 +820,8 @@
     ],
     "accept": [
       "I help my father clean the car."
-    ]
+    ],
+    "explanation_en": "The order is subject, verb, object, then the action: I help my father clean the car."
   },
   {
     "grade": "P2",

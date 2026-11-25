@@ -21,7 +21,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "buy"
+     "answer": "buy",
+     "explanation_ar": "بنشتري buy الهدايا التذكارية من خان الخليلي.",
+     "explanation_en": "We buy souvenirs from Khan El Khalili."
     },
     {
      "item_id": "P6:s0:i1",
@@ -35,7 +37,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "visit"
+     "answer": "visit",
+     "explanation_ar": "السياح بييجوا مصر علشان visit يعني يزوروا الآثار القديمة.",
+     "explanation_en": "Tourists come to Egypt to visit the ancient sites."
     },
     {
      "item_id": "P6:s0:i2",
@@ -49,7 +53,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "make"
+     "answer": "make",
+     "explanation_ar": "النجارين make يعني بيصنعوا الأثاث في دمياط.",
+     "explanation_en": "Carpenters make furniture in Damietta."
     },
     {
      "item_id": "P6:s0:i3",
@@ -63,7 +69,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "in"
+     "answer": "in",
+     "explanation_ar": "مع اسم المدينة بنستخدم in: in Aswan.",
+     "explanation_en": "We use in with the name of a city: in Aswan."
     },
     {
      "item_id": "P6:s0:i4",
@@ -77,7 +85,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Museum"
+     "answer": "Museum",
+     "explanation_ar": "العيلة بتتعلم حاجات جديدة عن Egyptian Museum يعني المتحف المصري.",
+     "explanation_en": "The family learns new things at the Egyptian Museum."
     },
     {
      "item_id": "P6:s0:i5",
@@ -91,7 +101,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "stones"
+     "answer": "stones",
+     "explanation_ar": "بنستخدم colored stones يعني أحجار ملونة في عمل المجوهرات.",
+     "explanation_en": "We use colored stones to make jewelry."
     },
     {
      "item_id": "P6:s0:i6",
@@ -105,7 +117,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "writing material"
+     "answer": "writing material",
+     "explanation_ar": "البردي writing material يعني خامة للكتابة وبتعيش كتير.",
+     "explanation_en": "Papyrus is a writing material that lasts a long time."
     },
     {
      "item_id": "P6:s0:i7",
@@ -119,7 +133,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "dams"
+     "answer": "dams",
+     "explanation_ar": "مصر بتبني dams يعني سدود علشان تنتج كهربا من الميه.",
+     "explanation_en": "Egypt builds big dams to produce electricity from water."
     },
     {
      "item_id": "P6:s0:i8",
@@ -133,7 +149,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "wisely"
+     "answer": "wisely",
+     "explanation_ar": "علشان منضيعش الميه بنستخدمها wisely يعني بحكمة.",
+     "explanation_en": "We should use water wisely so we do not waste it."
     },
     {
      "item_id": "P6:s0:i9",
@@ -147,7 +165,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s0:i10",
@@ -161,7 +181,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "information desk"
+     "answer": "information desk",
+     "explanation_ar": "لما منعرفش نروح فين بنروح information desk يعني مكتب الاستعلامات.",
+     "explanation_en": "Go to the information desk when you do not know where to go."
     },
     {
      "item_id": "P6:s0:i11",
@@ -175,7 +197,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "book"
+     "answer": "book",
+     "explanation_ar": "السائح اتصل بالفندق علشان book يعني يحجز أوضة.",
+     "explanation_en": "The tourist phoned the hotel to book a room."
     },
     {
      "item_id": "P6:s0:i12",
@@ -189,7 +213,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "board"
+     "answer": "board",
+     "explanation_ar": "board the plane يعني تركب الطيارة، ولازم يبقى معاك تذكرة.",
+     "explanation_en": "To board the plane you need a ticket."
     },
     {
      "item_id": "P6:s0:i13",
@@ -203,7 +229,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "guided tour"
+     "answer": "guided tour",
+     "explanation_ar": "guided tour يعني جولة مع مرشد بتعرّفنا أكتر عن المتحف.",
+     "explanation_en": "A guided tour teaches us more about the museum."
     },
     {
      "item_id": "P6:s0:i14",
@@ -217,7 +245,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "mountain"
+     "answer": "mountain",
+     "explanation_ar": "بنتسلق الـ mountain يعني الجبل العالي.",
+     "explanation_en": "You climb a high mountain."
     },
     {
      "item_id": "P6:s0:i15",
@@ -231,7 +261,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Kangaroos"
+     "answer": "Kangaroos",
+     "explanation_ar": "Kangaroos يعني الكنغر نوع من الحيوانات. الباقي مش حيوانات.",
+     "explanation_en": "Kangaroos are a kind of animal. The other words are not animals."
     },
     {
      "item_id": "P6:s0:i16",
@@ -245,7 +277,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "take"
+     "answer": "take",
+     "explanation_ar": "بنقول take photos يعني نصوّر.",
+     "explanation_en": "The collocation is take photos."
     },
     {
      "item_id": "P6:s0:i17",
@@ -259,7 +293,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "like"
+     "answer": "like",
+     "explanation_ar": "I فاعل، فنستخدم الفعل المصدر like من غير s.",
+     "explanation_en": "With I we use the base verb like, with no s."
     },
     {
      "item_id": "P6:s0:i18",
@@ -273,7 +309,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "doing"
+     "answer": "doing",
+     "explanation_ar": "are you + فعل-ing للحاضر المستمر: doing.",
+     "explanation_en": "Are you + verb-ing is the present continuous: doing."
     },
     {
      "item_id": "P6:s0:i19",
@@ -287,7 +325,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "take"
+     "answer": "take",
+     "explanation_ar": "take the rubbish out معناها نخرّج الزبالة.",
+     "explanation_en": "Take the rubbish out means to carry it outside."
     },
     {
      "item_id": "P6:s0:i20",
@@ -301,7 +341,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "likes"
+     "answer": "likes",
+     "explanation_ar": "He فاعل مفرد، فنزود s: likes.",
+     "explanation_en": "He is singular, so the verb takes s: likes."
     },
     {
      "item_id": "P6:s0:i21",
@@ -315,7 +357,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "drawing"
+     "answer": "drawing",
+     "explanation_ar": "now بتدل على حاجة بتحصل دلوقتي، فنستخدم drawing.",
+     "explanation_en": "Now shows something happening at this moment, so we use drawing."
     },
     {
      "item_id": "P6:s0:i22",
@@ -329,7 +373,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "play"
+     "answer": "play",
+     "explanation_ar": "every day بتدل على عادة، وWe جمع، فنستخدم play من غير s.",
+     "explanation_en": "Every day shows a habit and We is plural, so we use play with no s."
     },
     {
      "item_id": "P6:s0:i23",
@@ -343,7 +389,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "never"
+     "answer": "never",
+     "explanation_ar": "في مصر مفيش تلج في الصيف: never.",
+     "explanation_en": "It never snows in summer in Egypt."
     },
     {
      "item_id": "P6:s0:i24",
@@ -357,7 +405,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "shade"
+     "answer": "shade",
+     "explanation_ar": "لما الجو يبقى حر الناس بترتاح في الضل: shade.",
+     "explanation_en": "When it is hot people rest in the shade."
     },
     {
      "item_id": "P6:s0:i25",
@@ -371,7 +421,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "waves"
+     "answer": "waves",
+     "explanation_ar": "بنبص على waves يعني الموج العالي في البحر.",
+     "explanation_en": "I like looking at the high waves in the sea."
     },
     {
      "item_id": "P6:s0:i26",
@@ -385,7 +437,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "clouds"
+     "answer": "clouds",
+     "explanation_ar": "السما مليانة dark clouds يعني غيوم داكنة لما الجو يبقى عاصف.",
+     "explanation_en": "The sky is full of dark clouds when it is windy."
     },
     {
      "item_id": "P6:s0:i27",
@@ -399,7 +453,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "hot"
+     "answer": "hot",
+     "explanation_ar": "في hot weather يعني الجو الحر لازم نشرب ميه كتير.",
+     "explanation_en": "In hot weather people should drink a lot of water."
     },
     {
      "item_id": "P6:s0:i28",
@@ -413,7 +469,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "wet"
+     "answer": "wet",
+     "explanation_ar": "لما المطر يبقى جامد الشوارع بتبقى wet يعني مبلولة.",
+     "explanation_en": "When it rains heavily the streets are wet."
     },
     {
      "item_id": "P6:s0:i29",
@@ -427,7 +485,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "protect"
+     "answer": "protect",
+     "explanation_ar": "بنلبس القبعات علشان نحمي نفسنا من الشمس: protect.",
+     "explanation_en": "We wear hats to protect ourselves from the sun."
     },
     {
      "item_id": "P6:s0:i30",
@@ -441,7 +501,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "doing"
+     "answer": "doing",
+     "explanation_ar": "What are you + فعل-ing: doing.",
+     "explanation_en": "What are you + verb-ing is the present continuous: doing."
     },
     {
      "item_id": "P6:s0:i31",
@@ -455,7 +517,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "practicing"
+     "answer": "practicing",
+     "explanation_ar": "I'm + فعل-ing للحاضر المستمر: practicing.",
+     "explanation_en": "I'm + verb-ing is the present continuous: practicing."
     },
     {
      "item_id": "P6:s0:i32",
@@ -469,7 +533,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "post office"
+     "answer": "post office",
+     "explanation_ar": "بنبعت الجواب من post office يعني مكتب البريد.",
+     "explanation_en": "You send a letter at the post office."
     },
     {
      "item_id": "P6:s0:i33",
@@ -483,7 +549,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "yourself"
+     "answer": "yourself",
+     "explanation_ar": "الأمر موجّه لـ Ali (you)، فنستخدم yourself.",
+     "explanation_en": "The command is to Ali (you), so we use yourself."
     },
     {
      "item_id": "P6:s0:i34",
@@ -497,7 +565,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "sport"
+     "answer": "sport",
+     "explanation_ar": "football رياضة، فالإجابة sport.",
+     "explanation_en": "Football is a sport."
     },
     {
      "item_id": "P6:s0:i35",
@@ -511,7 +581,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "interested"
+     "answer": "interested",
+     "explanation_ar": "I am interested in بتعبر عن إحساس الشخص، فنستخدم interested.",
+     "explanation_en": "I am interested in describes how a person feels, so we use interested."
     },
     {
      "item_id": "P6:s0:i36",
@@ -525,7 +597,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "emergency"
+     "answer": "emergency",
+     "explanation_ar": "المسعف بيساعد الناس في emergency يعني حالة طوارئ.",
+     "explanation_en": "A paramedic helps people in an emergency."
     },
     {
      "item_id": "P6:s0:i37",
@@ -539,7 +613,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "vehicles"
+     "answer": "vehicles",
+     "explanation_ar": "الميكانيكي بيصلّح vehicles يعني المركبات.",
+     "explanation_en": "A mechanic fixes vehicles."
     },
     {
      "item_id": "P6:s0:i38",
@@ -553,7 +629,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "cross"
+     "answer": "cross",
+     "explanation_ar": "ضابط المرور بيساعد الناس cross the road يعني يعدّوا الشارع.",
+     "explanation_en": "A traffic officer helps people cross the road."
     },
     {
      "item_id": "P6:s0:i39",
@@ -567,7 +645,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "ability"
+     "answer": "ability",
+     "explanation_ar": "بنستخدم can علشان نتكلم عن ability يعني القدرة.",
+     "explanation_en": "We use can to talk about ability."
     },
     {
      "item_id": "P6:s0:i40",
@@ -581,7 +661,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "able"
+     "answer": "able",
+     "explanation_ar": "بنقول be able to + فعل: She is able to speak.",
+     "explanation_en": "We say be able to + verb: She is able to speak."
     },
     {
      "item_id": "P6:s0:i41",
@@ -595,7 +677,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "off"
+     "answer": "off",
+     "explanation_ar": "turn off يعني نطفي النور والكمبيوتر.",
+     "explanation_en": "Turn off means to switch off the lights and the computer."
     },
     {
      "item_id": "P6:s0:i42",
@@ -609,7 +693,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "must"
+     "answer": "must",
+     "explanation_ar": "must معناها لازم، والجملة قاعدة أدب مع الأهل.",
+     "explanation_en": "Must shows an obligation, and speaking politely to parents is a rule."
     },
     {
      "item_id": "P6:s0:i43",
@@ -623,7 +709,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "waste"
+     "answer": "waste",
+     "explanation_ar": "Don't waste water معناها ماتضيّعش الميه وإنت بتاخد حمام.",
+     "explanation_en": "Don't waste water means do not use more than you need."
     },
     {
      "item_id": "P6:s0:i44",
@@ -637,7 +725,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "visit"
+     "answer": "visit",
+     "explanation_ar": "بنزور visit الآثار القديمة.",
+     "explanation_en": "We visit the ancient sites."
     },
     {
      "item_id": "P6:s0:i45",
@@ -651,7 +741,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "visits"
+     "answer": "visits",
+     "explanation_ar": "every week بتدل على عادة، وAsmaa مفرد، فنستخدم visits.",
+     "explanation_en": "Every week shows a habit and Asmaa is singular, so we use visits."
     },
     {
      "item_id": "P6:s0:i46",
@@ -665,7 +757,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "drinks"
+     "answer": "drinks",
+     "explanation_ar": "Every morning بتدل على عادة، وAhmed مفرد، فنستخدم drinks.",
+     "explanation_en": "Every morning shows a habit and Ahmed is singular, so we use drinks."
     },
     {
      "item_id": "P6:s0:i47",
@@ -679,7 +773,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "do"
+     "answer": "do",
+     "explanation_ar": "مع you بنستخدم do في المضارع البسيط.",
+     "explanation_en": "With you we use do in the present simple."
     },
     {
      "item_id": "P6:s0:i48",
@@ -693,7 +789,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "under"
+     "answer": "under",
+     "explanation_ar": "الكنوز تحت الأرض: under the ground.",
+     "explanation_en": "The treasures are under the ground."
     },
     {
      "item_id": "P6:s0:i49",
@@ -707,7 +805,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "protect"
+     "answer": "protect",
+     "explanation_ar": "لازم نحمي كوكبنا من التلوث: protect.",
+     "explanation_en": "We must protect our planet from pollution."
     },
     {
      "item_id": "P6:s0:i50",
@@ -721,7 +821,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "pollute"
+     "answer": "pollute",
+     "explanation_ar": "الغازات من العربيات والمصانع ممكن تلوّث الهوا: pollute.",
+     "explanation_en": "Gases from cars and factories can pollute the air."
     },
     {
      "item_id": "P6:s0:i51",
@@ -735,7 +837,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "nervous"
+     "answer": "nervous",
+     "explanation_ar": "nervous معناها قلقان.",
+     "explanation_en": "Nervous means worried."
     },
     {
      "item_id": "P6:s0:i52",
@@ -749,7 +853,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "helpful"
+     "answer": "helpful",
+     "explanation_ar": "Jana دايما بتساعد الناس، يعني helpful.",
+     "explanation_en": "Jana always helps people, so she is helpful."
     },
     {
      "item_id": "P6:s0:i53",
@@ -763,7 +869,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "polite"
+     "answer": "polite",
+     "explanation_ar": "Amr بيحترم الكل، يعني polite أي مؤدب.",
+     "explanation_en": "Amr shows respect to everyone, so he is polite."
     },
     {
      "item_id": "P6:s0:i54",
@@ -777,7 +885,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "shy"
+     "answer": "shy",
+     "explanation_ar": "Hana قلقانة من الكلام مع الناس، يعني shy أي خجولة.",
+     "explanation_en": "Hana is worried about talking to people, so she is shy."
     },
     {
      "item_id": "P6:s0:i55",
@@ -791,7 +901,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "top"
+     "answer": "top",
+     "explanation_ar": "السقف roof هو top يعني أعلى المبنى.",
+     "explanation_en": "The roof is the top of the building."
     },
     {
      "item_id": "P6:s0:i56",
@@ -805,7 +917,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "at"
+     "answer": "at",
+     "explanation_ar": "مع night بنقول at night.",
+     "explanation_en": "We say at night."
     },
     {
      "item_id": "P6:s0:i57",
@@ -819,7 +933,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "my"
+     "answer": "my",
+     "explanation_ar": "قبل best friend بنستخدم صفة الملكية my.",
+     "explanation_en": "Before best friend we use the possessive adjective my."
     },
     {
      "item_id": "P6:s0:i58",
@@ -833,7 +949,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "help"
+     "answer": "help",
+     "explanation_ar": "في القصة الأصحاب كانوا دايما بيدوّروا على طرق علشان help يعني يساعدوا.",
+     "explanation_en": "In the story the friends were always looking for ways to help."
     },
     {
      "item_id": "P6:s0:i59",
@@ -847,7 +965,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "dripping"
+     "answer": "dripping",
+     "explanation_ar": "الحنفية كانت dripping يعني بتنقّط حتى لما محدش بيستخدمها.",
+     "explanation_en": "The tap kept dripping even when no one used it."
     },
     {
      "item_id": "P6:s0:i60",
@@ -861,7 +981,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "pipe"
+     "answer": "pipe",
+     "explanation_ar": "الميه بتفيض من pipe يعني ماسورة مكسورة في الجنينة.",
+     "explanation_en": "Water overflowed from a broken pipe in the garden."
     },
     {
      "item_id": "P6:s0:i61",
@@ -875,7 +997,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "precious"
+     "answer": "precious",
+     "explanation_ar": "Noor شافت إن نقط الميه precious يعني ثمينة جدا ومينفعش تتضيّع.",
+     "explanation_en": "Noor thought water drops were too precious to waste."
     },
     {
      "item_id": "P6:s0:i62",
@@ -889,7 +1013,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Water Savers"
+     "answer": "Water Savers",
+     "explanation_ar": "Farida عايزاهم يبقوا Water Savers يعني موفّري الميه.",
+     "explanation_en": "Farida wanted them to be Water Savers."
     },
     {
      "item_id": "P6:s0:i63",
@@ -903,7 +1029,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "a notebook, a camera, and curious eyes"
+     "answer": "a notebook, a camera, and curious eyes",
+     "explanation_ar": "الأصحاب مشيوا في المدرسة بـ notebook وcamera وعيون فضولية.",
+     "explanation_en": "The friends walked around the school with a notebook, a camera, and curious eyes."
     },
     {
      "item_id": "P6:s0:i64",
@@ -917,7 +1045,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "leaky taps and students leaving water running"
+     "answer": "leaky taps and students leaving water running",
+     "explanation_ar": "Noor كتبت مشاكل زي leaky taps يعني حنفيات بتنقّط وطلاب سايبين الميه شغالة.",
+     "explanation_en": "Noor wrote down problems like leaky taps and students leaving water running."
     },
     {
      "item_id": "P6:s0:i65",
@@ -931,7 +1061,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "bright and cheerful"
+     "answer": "bright and cheerful",
+     "explanation_ar": "Farida عملت بوسترات bright and cheerful يعني ملونة ومبهجة.",
+     "explanation_en": "Farida made bright and cheerful posters."
     },
     {
      "item_id": "P6:s0:i66",
@@ -945,7 +1077,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "cleaner"
+     "answer": "cleaner",
+     "explanation_ar": "حسب القصة، Mr. Youssef كان cleaner يعني عامل النظافة في المدرسة.",
+     "explanation_en": "In the story Mr. Youssef was the school cleaner."
     },
     {
      "item_id": "P6:s0:i67",
@@ -959,7 +1093,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "certificates of achievement"
+     "answer": "certificates of achievement",
+     "explanation_ar": "في الآخر مدير المدرسة أدّى الأطفال certificates of achievement يعني شهادات تقدير.",
+     "explanation_en": "At the end the head teacher gave the children certificates of achievement."
     },
     {
      "item_id": "P6:s0:i68",
@@ -973,7 +1109,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "pollution"
+     "answer": "pollution",
+     "explanation_ar": "الطاقة الشمسية كويسة لأنها مبتعملش pollution يعني تلوث.",
+     "explanation_en": "Solar energy is good because it does not create pollution."
     },
     {
      "item_id": "P6:s0:i69",
@@ -987,7 +1125,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "of"
+     "answer": "of",
+     "explanation_ar": "بنقول proud of يعني فخور بـ.",
+     "explanation_en": "We say proud of."
     },
     {
      "item_id": "P6:s0:i70",
@@ -1001,7 +1141,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "met"
+     "answer": "met",
+     "explanation_ar": "last night بتدل على الماضي، وماضي meet هو met.",
+     "explanation_en": "Last night shows the past, and the past of meet is met."
     },
     {
      "item_id": "P6:s0:i71",
@@ -1015,7 +1157,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "discovered"
+     "answer": "discovered",
+     "explanation_ar": "اكتشفوا discovered مقبرة توت عنخ آمون سنة 1922.",
+     "explanation_en": "They discovered the tomb of Tutankhamen in 1922."
     },
     {
      "item_id": "P6:s0:i72",
@@ -1029,7 +1173,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "knife"
+     "answer": "knife",
+     "explanation_ar": "بنستخدم knife يعني سكينة علشان نقطع الخضار.",
+     "explanation_en": "We use a knife to cut vegetables."
     },
     {
      "item_id": "P6:s0:i73",
@@ -1043,7 +1189,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "club"
+     "answer": "club",
+     "explanation_ar": "بنلعب مع أصحابنا في club يعني النادي.",
+     "explanation_en": "I play with my friends at the club."
     },
     {
      "item_id": "P6:s0:i74",
@@ -1057,7 +1205,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "is"
+     "answer": "is",
+     "explanation_ar": "football مفرد، فنستخدم is.",
+     "explanation_en": "Football is singular, so we use is."
     },
     {
      "item_id": "P6:s0:i75",
@@ -1071,7 +1221,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "drinks"
+     "answer": "drinks",
+     "explanation_ar": "He مفرد والجملة عادة كل صباح، فنستخدم drinks.",
+     "explanation_en": "He is singular and the sentence is about a habit, so we use drinks."
     }
    ]
   },
@@ -1099,7 +1251,9 @@
       "work",
       "write",
       "list"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) study | 2) time | 3) work | 4) write | 5) list",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) study | 2) time | 3) work | 4) write | 5) list"
     },
     {
      "item_id": "P6:s1:i1",
@@ -1120,7 +1274,9 @@
       "Ain Shams",
       "United States",
       "research"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) Egyptian | 2) Egypt | 3) Ain Shams | 4) United States | 5) research",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) Egyptian | 2) Egypt | 3) Ain Shams | 4) United States | 5) research"
     },
     {
      "item_id": "P6:s1:i2",
@@ -1141,7 +1297,9 @@
       "discoveries",
       "idea",
       "him"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) chemistry | 2) tiny | 3) discoveries | 4) idea | 5) him",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) chemistry | 2) tiny | 3) discoveries | 4) idea | 5) him"
     },
     {
      "item_id": "P6:s1:i3",
@@ -1162,7 +1320,9 @@
       "awards",
       "Science",
       "proud"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) nanoparticles | 2) cancer | 3) awards | 4) Science | 5) proud",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) nanoparticles | 2) cancer | 3) awards | 4) Science | 5) proud"
     },
     {
      "item_id": "P6:s1:i4",
@@ -1180,7 +1340,9 @@
       "sites",
       "designs",
       "souvenirs"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) sites | 2) designs | 3) souvenirs",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) sites | 2) designs | 3) souvenirs"
     },
     {
      "item_id": "P6:s1:i5",
@@ -1200,7 +1362,9 @@
       "flows",
       "animals",
       "birds"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) carries | 2) flows | 3) animals | 4) birds",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) carries | 2) flows | 3) animals | 4) birds"
     },
     {
      "item_id": "P6:s1:i6",
@@ -1219,7 +1383,9 @@
       "research",
       "emergency",
       "important"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) community | 2) research | 3) emergency | 4) important",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) community | 2) research | 3) emergency | 4) important"
     },
     {
      "item_id": "P6:s1:i7",
@@ -1240,7 +1406,9 @@
       "precious",
       "resources",
       "project"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) dripping | 2) puddles | 3) precious | 4) resources | 5) project",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) dripping | 2) puddles | 3) precious | 4) resources | 5) project"
     },
     {
      "item_id": "P6:s1:i8",
@@ -1261,7 +1429,9 @@
       "discovered",
       "tomb",
       "stories"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) museum | 2) Ancient | 3) discovered | 4) tomb | 5) stories",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) museum | 2) Ancient | 3) discovered | 4) tomb | 5) stories"
     },
     {
      "item_id": "P6:s1:i9",
@@ -1282,7 +1452,9 @@
       "archaeologists",
       "desert",
       "treasures"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) valley | 2) king | 3) archaeologists | 4) desert | 5) treasures",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) valley | 2) king | 3) archaeologists | 4) desert | 5) treasures"
     }
    ]
   },
@@ -1316,7 +1488,9 @@
       "landscape",
       "coral reefs",
       "culture"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) protected | 2) clean and safe | 3) landscape | 4) coral reefs | 5) culture",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) protected | 2) clean and safe | 3) landscape | 4) coral reefs | 5) culture"
     },
     {
      "item_id": "P6:s2:i1",
@@ -1340,7 +1514,9 @@
       "fishing nets",
       "harvest",
       "spin"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) fishermen | 2) fishing nets | 3) harvest | 4) spin",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) fishermen | 2) fishing nets | 3) harvest | 4) spin"
     },
     {
      "item_id": "P6:s2:i2",
@@ -1364,7 +1540,9 @@
       "water",
       "herbs",
       "grow"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) oil | 2) water | 3) herbs | 4) grow",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) oil | 2) water | 3) herbs | 4) grow"
     },
     {
      "item_id": "P6:s2:i3",
@@ -1391,7 +1569,9 @@
       "change",
       "panels",
       "types"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) pollute | 2) protect | 3) change | 4) panels | 5) types",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) pollute | 2) protect | 3) change | 4) panels | 5) types"
     },
     {
      "item_id": "P6:s2:i4",
@@ -1418,7 +1598,9 @@
       "resources",
       "cars",
       "metal"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) mustn't | 2) must | 3) resources | 4) cars | 5) metal",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) mustn't | 2) must | 3) resources | 4) cars | 5) metal"
     },
     {
      "item_id": "P6:s2:i5",
@@ -1445,7 +1627,9 @@
       "cable",
       "special",
       "transportation"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) located | 2) vision | 3) cable | 4) special | 5) transportation",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) located | 2) vision | 3) cable | 4) special | 5) transportation"
     },
     {
      "item_id": "P6:s2:i6",
@@ -1472,7 +1656,9 @@
       "village",
       "kitchen",
       "moral"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) invitation | 2) bundle | 3) village | 4) kitchen | 5) moral",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) invitation | 2) bundle | 3) village | 4) kitchen | 5) moral"
     },
     {
      "item_id": "P6:s2:i7",
@@ -1499,7 +1685,9 @@
       "resources",
       "mustn't",
       "Can"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) must | 2) cars | 3) resources | 4) mustn't | 5) Can",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) must | 2) cars | 3) resources | 4) mustn't | 5) Can"
     }
    ]
   },
@@ -1546,7 +1734,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i1",
@@ -1569,7 +1759,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "أسئلة (1) إلى (3) عبارات صح/خطأ مطبوعة تحت عنوان الأسئلة في الكتيب. الأسئلة المكتوبة تُراجع مع المدرس."
+     "grading_reason": "أسئلة (1) إلى (3) عبارات صح/خطأ مطبوعة تحت عنوان الأسئلة في الكتيب. الأسئلة المكتوبة تُراجع مع المدرس.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i2",
@@ -1609,7 +1801,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i3",
@@ -1649,7 +1843,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i4",
@@ -1689,7 +1885,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i5",
@@ -1719,7 +1917,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i6",
@@ -1759,7 +1959,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i7",
@@ -1799,7 +2001,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i8",
@@ -1839,7 +2043,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i9",
@@ -1879,7 +2085,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i10",
@@ -1919,7 +2127,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i11",
@@ -1959,7 +2169,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i12",
@@ -1999,7 +2211,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i13",
@@ -2039,7 +2253,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i14",
@@ -2079,7 +2295,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s3:i15",
@@ -2119,7 +2337,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     }
    ]
   },
@@ -2137,7 +2357,9 @@
      "answer": "travels",
      "accept": [
       "travels"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: travels.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: travels."
     },
     {
      "item_id": "P6:s4:i1",
@@ -2148,7 +2370,9 @@
      "answer": "Do",
      "accept": [
       "Do"
-     ]
+     ],
+     "explanation_ar": "السؤال بيبدأ بـ Do: Does مع he/she/it، Do مع I/you/we/they، Did في الماضي. الجملة: (Does) Remas and Aseel go to work by bus?",
+     "explanation_en": "The question starts with Do: Does with he/she/it, Do with I/you/we/they, Did for the past. The sentence is: (Does) Remas and Aseel go to work by bus?"
     },
     {
      "item_id": "P6:s4:i2",
@@ -2160,7 +2384,9 @@
      "accept": [
       "doesn't",
       "does not"
-     ]
+     ],
+     "explanation_ar": "النفي في الجملة بيكون بـ doesn't حسب الفاعل والزمن (doesn't مع he/she/it، don't مع الباقي، didn't في الماضي). الجملة: Lama doesn't study in the afternoon.",
+     "explanation_en": "The negative uses doesn't to match the subject and tense (doesn't with he/she/it, don't with the others, didn't for the past). The sentence is: Lama doesn't study in the afternoon."
     },
     {
      "item_id": "P6:s4:i3",
@@ -2171,7 +2397,9 @@
      "answer": "does",
      "accept": [
       "does"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: does.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: does."
     },
     {
      "item_id": "P6:s4:i4",
@@ -2182,7 +2410,9 @@
      "answer": "never",
      "accept": [
       "never"
-     ]
+     ],
+     "explanation_ar": "الجملة التانية بتقول إنها بتكره اللحمة، فالمعنى إنها never يعني مبتاكلهاش أبدا.",
+     "explanation_en": "The next sentence says she hates meat, so the right adverb is never: She never eats meat."
     },
     {
      "item_id": "P6:s4:i5",
@@ -2193,7 +2423,9 @@
      "answer": "walks",
      "accept": [
       "walks"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: walks.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: walks."
     },
     {
      "item_id": "P6:s4:i6",
@@ -2204,7 +2436,9 @@
      "answer": "visits",
      "accept": [
       "visits"
-     ]
+     ],
+     "explanation_ar": "always وusually وevery... بتدل على عادة، فنستخدم المضارع البسيط (visits). الجملة: Asmaa visits us every week.",
+     "explanation_en": "Always, usually, every and similar words show a habit, so we use the present simple (visits). The sentence is: Asmaa visits us every week."
     },
     {
      "item_id": "P6:s4:i7",
@@ -2215,7 +2449,9 @@
      "answer": "goes",
      "accept": [
       "goes"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: goes.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: goes."
     },
     {
      "item_id": "P6:s4:i8",
@@ -2226,7 +2462,9 @@
      "answer": "does",
      "accept": [
       "does"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: does.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: does."
     },
     {
      "item_id": "P6:s4:i9",
@@ -2237,7 +2475,9 @@
      "answer": "sweep",
      "accept": [
       "sweep"
-     ]
+     ],
+     "explanation_ar": "always وusually وevery... بتدل على عادة، فنستخدم المضارع البسيط (sweep). الجملة: I sometimes sweep the floor.",
+     "explanation_en": "Always, usually, every and similar words show a habit, so we use the present simple (sweep). The sentence is: I sometimes sweep the floor."
     },
     {
      "item_id": "P6:s4:i10",
@@ -2248,7 +2488,9 @@
      "answer": "makes",
      "accept": [
       "makes"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: makes.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: makes."
     },
     {
      "item_id": "P6:s4:i11",
@@ -2259,7 +2501,9 @@
      "answer": "goes",
      "accept": [
       "goes"
-     ]
+     ],
+     "explanation_ar": "always وusually وevery... بتدل على عادة، فنستخدم المضارع البسيط (goes). الجملة: He never goes to school late.",
+     "explanation_en": "Always, usually, every and similar words show a habit, so we use the present simple (goes). The sentence is: He never goes to school late."
     },
     {
      "item_id": "P6:s4:i12",
@@ -2270,7 +2514,9 @@
      "answer": "play",
      "accept": [
       "play"
-     ]
+     ],
+     "explanation_ar": "always وusually وevery... بتدل على عادة، فنستخدم المضارع البسيط (play). الجملة: We always play football at seven on Friday.",
+     "explanation_en": "Always, usually, every and similar words show a habit, so we use the present simple (play). The sentence is: We always play football at seven on Friday."
     },
     {
      "item_id": "P6:s4:i13",
@@ -2281,7 +2527,9 @@
      "answer": "drinks",
      "accept": [
       "drinks"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: drinks.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: drinks."
     },
     {
      "item_id": "P6:s4:i14",
@@ -2292,7 +2540,9 @@
      "answer": "do",
      "accept": [
       "do"
-     ]
+     ],
+     "explanation_ar": "مع you بنستخدم do مش does: What time do you leave for school?",
+     "explanation_en": "With you we use do, not does: What time do you leave for school every day?"
     },
     {
      "item_id": "P6:s4:i15",
@@ -2303,7 +2553,9 @@
      "answer": "plays",
      "accept": [
       "plays"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: plays.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: plays."
     },
     {
      "item_id": "P6:s4:i16",
@@ -2314,7 +2566,9 @@
      "answer": "studies",
      "accept": [
       "studies"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: studies.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: studies."
     },
     {
      "item_id": "P6:s4:i17",
@@ -2325,7 +2579,9 @@
      "answer": "gives",
      "accept": [
       "gives"
-     ]
+     ],
+     "explanation_ar": "الكلمة بين القوسين (giving) مش بالشكل الصح هنا. الشكل الصح هو gives. الجملة: The sun gives us light.",
+     "explanation_en": "The word in brackets (giving) is not in the right form here. The correct form is gives. The sentence is: The sun gives us light."
     },
     {
      "item_id": "P6:s4:i18",
@@ -2336,7 +2592,9 @@
      "answer": "read",
      "accept": [
       "read"
-     ]
+     ],
+     "explanation_ar": "usually بتدل على عادة، فنستخدم المضارع البسيط read مش am reading.",
+     "explanation_en": "Usually shows a habit, so we use the present simple read, not am reading."
     },
     {
      "item_id": "P6:s4:i19",
@@ -2347,7 +2605,9 @@
      "answer": "Does",
      "accept": [
       "Does"
-     ]
+     ],
+     "explanation_ar": "السؤال بيبدأ بـ Does: Does مع he/she/it، Do مع I/you/we/they، Did في الماضي. الجملة: (Do) he visit you every day?",
+     "explanation_en": "The question starts with Does: Does with he/she/it, Do with I/you/we/they, Did for the past. The sentence is: (Do) he visit you every day?"
     },
     {
      "item_id": "P6:s4:i20",
@@ -2358,7 +2618,9 @@
      "answer": "is playing",
      "accept": [
       "is playing"
-     ]
+     ],
+     "explanation_ar": "now أو at the moment بتدل على حاجة بتحصل دلوقتي، فنستخدم الحاضر المستمر: be + فعل-ing (is playing). الجملة: Mohamed is playing tennis in the club now.",
+     "explanation_en": "Now or at the moment shows an action happening now, so we use the present continuous: be + verb-ing (is playing). The sentence is: Mohamed is playing tennis in the club now."
     },
     {
      "item_id": "P6:s4:i21",
@@ -2366,7 +2628,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s4:i22",
@@ -2374,7 +2638,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s4:i23",
@@ -2385,7 +2651,9 @@
      "answer": "are visiting",
      "accept": [
       "are visiting"
-     ]
+     ],
+     "explanation_ar": "now أو at the moment بتدل على حاجة بتحصل دلوقتي، فنستخدم الحاضر المستمر: be + فعل-ing (are visiting). الجملة: My friend and I are visiting London now.",
+     "explanation_en": "Now or at the moment shows an action happening now, so we use the present continuous: be + verb-ing (are visiting). The sentence is: My friend and I are visiting London now."
     },
     {
      "item_id": "P6:s4:i24",
@@ -2396,7 +2664,9 @@
      "answer": "is cleaning",
      "accept": [
       "is cleaning"
-     ]
+     ],
+     "explanation_ar": "now أو at the moment بتدل على حاجة بتحصل دلوقتي، فنستخدم الحاضر المستمر: be + فعل-ing (is cleaning). الجملة: Ahmed is cleaning his room right now.",
+     "explanation_en": "Now or at the moment shows an action happening now, so we use the present continuous: be + verb-ing (is cleaning). The sentence is: Ahmed is cleaning his room right now."
     },
     {
      "item_id": "P6:s4:i25",
@@ -2408,7 +2678,9 @@
      "accept": [
       "can't",
       "cannot"
-     ]
+     ],
+     "explanation_ar": "الفعل الناقص المناسب للمعنى هو can't. الجملة: She can't walk to school.",
+     "explanation_en": "The modal verb that fits the meaning is can't. The sentence is: She can't walk to school."
     },
     {
      "item_id": "P6:s4:i26",
@@ -2419,7 +2691,9 @@
      "answer": "able to",
      "accept": [
       "able to"
-     ]
+     ],
+     "explanation_ar": "بنقول be able to + فعل مصدر للتعبير عن القدرة: able to. الجملة: I am able to run fast.",
+     "explanation_en": "We say be able to + base verb to express ability: able to. The sentence is: I am able to run fast."
     },
     {
      "item_id": "P6:s4:i27",
@@ -2430,7 +2704,9 @@
      "answer": "Can",
      "accept": [
       "Can"
-     ]
+     ],
+     "explanation_ar": "الكلمة بين القوسين (Can't) مش بالشكل الصح هنا. الشكل الصح هو Can. الجملة: (Can't) they do the research? - Yes, they can.",
+     "explanation_en": "The word in brackets (Can't) is not in the right form here. The correct form is Can. The sentence is: (Can't) they do the research? - Yes, they can."
     },
     {
      "item_id": "P6:s4:i28",
@@ -2441,7 +2717,9 @@
      "answer": "Are",
      "accept": [
       "Are"
-     ]
+     ],
+     "explanation_ar": "السؤال أو الجملة محتاجة فعل be المناسب للفاعل: Are. الجملة: (Do) they able to tidy the flat?",
+     "explanation_en": "The sentence needs the form of be that matches the subject: Are. The sentence is: (Do) they able to tidy the flat?"
     },
     {
      "item_id": "P6:s4:i29",
@@ -2452,7 +2730,9 @@
      "answer": "used",
      "accept": [
       "used"
-     ]
+     ],
+     "explanation_ar": "الجملة بتتكلم عن الماضي، فالفعل بيكون في الماضي: used. الجملة: Ancient Egyptians used linen to wrap mummies.",
+     "explanation_en": "The sentence is about the past, so the verb is in the past tense: used. The sentence is: Ancient Egyptians used linen to wrap mummies."
     },
     {
      "item_id": "P6:s4:i30",
@@ -2463,7 +2743,9 @@
      "answer": "make",
      "accept": [
       "make"
-     ]
+     ],
+     "explanation_ar": "بعد to بنستخدم الفعل المصدر: to make.",
+     "explanation_en": "After to we use the base verb: to make."
     },
     {
      "item_id": "P6:s4:i31",
@@ -2474,7 +2756,9 @@
      "answer": "from",
      "accept": [
       "from"
-     ]
+     ],
+     "explanation_ar": "بناخد الطاقة from the sun يعني من الشمس، مش for.",
+     "explanation_en": "We get energy from the sun, so the preposition is from, not for."
     },
     {
      "item_id": "P6:s4:i32",
@@ -2485,7 +2769,9 @@
      "answer": "have",
      "accept": [
       "have"
-     ]
+     ],
+     "explanation_ar": "We فاعل جمع، فنستخدم have مش has.",
+     "explanation_en": "We is plural, so we use have, not has."
     },
     {
      "item_id": "P6:s4:i33",
@@ -2496,7 +2782,9 @@
      "answer": "write",
      "accept": [
       "write"
-     ]
+     ],
+     "explanation_ar": "الكلمة بين القوسين (writing) مش بالشكل الصح هنا. الشكل الصح هو write. الجملة: Egyptians used papyrus to write on.",
+     "explanation_en": "The word in brackets (writing) is not in the right form here. The correct form is write. The sentence is: Egyptians used papyrus to write on."
     },
     {
      "item_id": "P6:s4:i34",
@@ -2507,7 +2795,9 @@
      "answer": "painted",
      "accept": [
       "painted"
-     ]
+     ],
+     "explanation_ar": "الجملة بتتكلم عن الماضي، فالفعل بيكون في الماضي: painted. الجملة: They painted their house yesterday.",
+     "explanation_en": "The sentence is about the past, so the verb is in the past tense: painted. The sentence is: They painted their house yesterday."
     },
     {
      "item_id": "P6:s4:i35",
@@ -2519,7 +2809,9 @@
      "accept": [
       "wasn't",
       "was not"
-     ]
+     ],
+     "explanation_ar": "الجملة بتتكلم عن الماضي (yesterday)، فنستخدم النفي wasn't/weren't مع be. الجملة: Ali wasn't at school yesterday.",
+     "explanation_en": "The sentence is about the past, so be becomes wasn't or weren't. The sentence is: Ali wasn't at school yesterday."
     },
     {
      "item_id": "P6:s4:i36",
@@ -2530,7 +2822,9 @@
      "answer": "had",
      "accept": [
       "had"
-     ]
+     ],
+     "explanation_ar": "yesterday وago بتدل على الماضي، فنستخدم الماضي البسيط (had). الجملة: I had dinner an hour ago.",
+     "explanation_en": "Yesterday and ago show the past, so we use the past simple (had). The sentence is: I had dinner an hour ago."
     },
     {
      "item_id": "P6:s4:i37",
@@ -2541,7 +2835,9 @@
      "answer": "Did",
      "accept": [
       "Did"
-     ]
+     ],
+     "explanation_ar": "السؤال بيبدأ بـ Did: Does مع he/she/it، Do مع I/you/we/they، Did في الماضي. الجملة: (Do) you enjoy the trip last week?",
+     "explanation_en": "The question starts with Did: Does with he/she/it, Do with I/you/we/they, Did for the past. The sentence is: (Do) you enjoy the trip last week?"
     },
     {
      "item_id": "P6:s4:i38",
@@ -2552,7 +2848,9 @@
      "answer": "peaceful",
      "accept": [
       "peaceful"
-     ]
+     ],
+     "explanation_ar": "بنحوّل الاسم peace لصفة بإضافة ful: peaceful. الجملة: We go to Alex to enjoy its peaceful environment.",
+     "explanation_en": "We turn the noun peace into an adjective by adding ful: peaceful. The sentence is: We go to Alex to enjoy its peaceful environment."
     },
     {
      "item_id": "P6:s4:i39",
@@ -2563,7 +2861,9 @@
      "answer": "interested",
      "accept": [
       "interested"
-     ]
+     ],
+     "explanation_ar": "صفات -ed بتوصف إحساس الشخص (interested)، وصفات -ing بتوصف الشيء نفسه (boring). الجملة: Omar is interested in English.",
+     "explanation_en": "-ed adjectives describe how a person feels (interested); -ing adjectives describe the thing (boring). The sentence is: Omar is interested in English."
     },
     {
      "item_id": "P6:s4:i40",
@@ -2574,7 +2874,9 @@
      "answer": "boring",
      "accept": [
       "boring"
-     ]
+     ],
+     "explanation_ar": "صفات -ed بتوصف إحساس الشخص (interested)، وصفات -ing بتوصف الشيء نفسه (boring). الجملة: The film was so boring. I didn't like it.",
+     "explanation_en": "-ed adjectives describe how a person feels (interested); -ing adjectives describe the thing (boring). The sentence is: The film was so boring. I didn't like it."
     },
     {
      "item_id": "P6:s4:i41",
@@ -2585,7 +2887,9 @@
      "answer": "visit",
      "accept": [
       "visit"
-     ]
+     ],
+     "explanation_ar": "الكلمة بين القوسين (visited) مش بالشكل الصح هنا. الشكل الصح هو visit. الجملة: Let's visit the museum next Friday.",
+     "explanation_en": "The word in brackets (visited) is not in the right form here. The correct form is visit. The sentence is: Let's visit the museum next Friday."
     },
     {
      "item_id": "P6:s4:i42",
@@ -2597,7 +2901,9 @@
      "accept": [
       "didn't",
       "did not"
-     ]
+     ],
+     "explanation_ar": "النفي في الجملة بيكون بـ didn't حسب الفاعل والزمن (doesn't مع he/she/it، don't مع الباقي، didn't في الماضي). الجملة: I didn't watch the show yesterday.",
+     "explanation_en": "The negative uses didn't to match the subject and tense (doesn't with he/she/it, don't with the others, didn't for the past). The sentence is: I didn't watch the show yesterday."
     },
     {
      "item_id": "P6:s4:i43",
@@ -2608,7 +2914,9 @@
      "answer": "watched",
      "accept": [
       "watched"
-     ]
+     ],
+     "explanation_ar": "الجملة بتتكلم عن الماضي، فالفعل بيكون في الماضي: watched. الجملة: They watched a movie last night.",
+     "explanation_en": "The sentence is about the past, so the verb is in the past tense: watched. The sentence is: They watched a movie last night."
     },
     {
      "item_id": "P6:s4:i44",
@@ -2619,7 +2927,9 @@
      "answer": "visited",
      "accept": [
       "visited"
-     ]
+     ],
+     "explanation_ar": "الجملة بتتكلم عن الماضي، فالفعل بيكون في الماضي: visited. الجملة: We visited Al Galala City last year.",
+     "explanation_en": "The sentence is about the past, so the verb is in the past tense: visited. The sentence is: We visited Al Galala City last year."
     },
     {
      "item_id": "P6:s4:i45",
@@ -2630,7 +2940,9 @@
      "answer": "saw",
      "accept": [
       "saw"
-     ]
+     ],
+     "explanation_ar": "الجملة بتتكلم عن الماضي، فنستخدم صيغة الماضي saw. الجملة: She saw the beautiful gardens.",
+     "explanation_en": "The sentence is about the past, so we use the past form saw. The sentence is: She saw the beautiful gardens."
     },
     {
      "item_id": "P6:s4:i46",
@@ -2642,7 +2954,9 @@
      "accept": [
       "didn't go",
       "did not go"
-     ]
+     ],
+     "explanation_ar": "النفي: didn't + الفعل المصدر (go) من غير s أو ed. الجملة: My friend didn't go to the museum.",
+     "explanation_en": "Negative: didn't + base verb (go), with no s or ed. The sentence is: My friend didn't go to the museum."
     },
     {
      "item_id": "P6:s4:i47",
@@ -2653,7 +2967,9 @@
      "answer": "enjoyed",
      "accept": [
       "enjoyed"
-     ]
+     ],
+     "explanation_ar": "الكلمة بين القوسين (enjoy) مش بالشكل الصح هنا. الشكل الصح هو enjoyed. الجملة: I enjoyed the trip a lot.",
+     "explanation_en": "The word in brackets (enjoy) is not in the right form here. The correct form is enjoyed. The sentence is: I enjoyed the trip a lot."
     },
     {
      "item_id": "P6:s4:i48",
@@ -2664,7 +2980,9 @@
      "answer": "chose",
      "accept": [
       "chose"
-     ]
+     ],
+     "explanation_ar": "الكلمة بين القوسين (choose) مش بالشكل الصح هنا. الشكل الصح هو chose. الجملة: He chose the wrong way.",
+     "explanation_en": "The word in brackets (choose) is not in the right form here. The correct form is chose. The sentence is: He chose the wrong way."
     },
     {
      "item_id": "P6:s4:i49",
@@ -2676,7 +2994,9 @@
      "accept": [
       "doesn't play",
       "does not play"
-     ]
+     ],
+     "explanation_ar": "النفي: doesn't + الفعل المصدر (play) من غير s أو ed. الجملة: Nada doesn't play play tennis every day.",
+     "explanation_en": "Negative: doesn't + base verb (play), with no s or ed. The sentence is: Nada doesn't play play tennis every day."
     },
     {
      "item_id": "P6:s4:i50",
@@ -2687,7 +3007,9 @@
      "answer": "Do",
      "accept": [
       "Do"
-     ]
+     ],
+     "explanation_ar": "السؤال بيبدأ بـ Do: Does مع he/she/it، Do مع I/you/we/they، Did في الماضي. الجملة: (Does) you usually watch football matches?",
+     "explanation_en": "The question starts with Do: Does with he/she/it, Do with I/you/we/they, Did for the past. The sentence is: (Does) you usually watch football matches?"
     },
     {
      "item_id": "P6:s4:i51",
@@ -2698,7 +3020,9 @@
      "answer": "tidy",
      "accept": [
       "tidy"
-     ]
+     ],
+     "explanation_ar": "always وusually وevery... بتدل على عادة، فنستخدم المضارع البسيط (tidy). الجملة: They always tidy the kitchen for their mum.",
+     "explanation_en": "Always, usually, every and similar words show a habit, so we use the present simple (tidy). The sentence is: They always tidy the kitchen for their mum."
     },
     {
      "item_id": "P6:s4:i52",
@@ -2709,7 +3033,9 @@
      "answer": "closes",
      "accept": [
       "closes"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: closes.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: closes."
     },
     {
      "item_id": "P6:s4:i53",
@@ -2721,7 +3047,9 @@
      "accept": [
       "doesn't",
       "does not"
-     ]
+     ],
+     "explanation_ar": "النفي في الجملة بيكون بـ doesn't حسب الفاعل والزمن (doesn't مع he/she/it، don't مع الباقي، didn't في الماضي). الجملة: It is very cheap; it doesn't cost much.",
+     "explanation_en": "The negative uses doesn't to match the subject and tense (doesn't with he/she/it, don't with the others, didn't for the past). The sentence is: It is very cheap; it doesn't cost much."
     },
     {
      "item_id": "P6:s4:i54",
@@ -2732,7 +3060,9 @@
      "answer": "Is",
      "accept": [
       "Is"
-     ]
+     ],
+     "explanation_ar": "السؤال أو الجملة محتاجة فعل be المناسب للفاعل: Is. الجملة: (Be) Omer happy now?",
+     "explanation_en": "The sentence needs the form of be that matches the subject: Is. The sentence is: (Be) Omer happy now?"
     },
     {
      "item_id": "P6:s4:i55",
@@ -2743,7 +3073,9 @@
      "answer": "drinks",
      "accept": [
       "drinks"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: drinks.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: drinks."
     },
     {
      "item_id": "P6:s4:i56",
@@ -2754,7 +3086,9 @@
      "answer": "always goes",
      "accept": [
       "always goes"
-     ]
+     ],
+     "explanation_ar": "always وusually وevery... بتدل على عادة، فنستخدم المضارع البسيط (always goes). الجملة: Eman always goes to work early.",
+     "explanation_en": "Always, usually, every and similar words show a habit, so we use the present simple (always goes). The sentence is: Eman always goes to work early."
     },
     {
      "item_id": "P6:s4:i57",
@@ -2766,7 +3100,9 @@
      "accept": [
       "shines",
       "is shining"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: shines.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: shines."
     },
     {
      "item_id": "P6:s4:i58",
@@ -2774,7 +3110,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s4:i59",
@@ -2786,7 +3124,9 @@
      "accept": [
       "isn't studying",
       "is not studying"
-     ]
+     ],
+     "explanation_ar": "She is watching TV يعني دلوقتي، فنستخدم الحاضر المستمر المنفي: isn't studying.",
+     "explanation_en": "She is watching TV now, so we use the negative present continuous: isn't studying."
     },
     {
      "item_id": "P6:s4:i60",
@@ -2797,7 +3137,9 @@
      "answer": "flying",
      "accept": [
       "flying"
-     ]
+     ],
+     "explanation_ar": "الكلمة بين القوسين (fly) مش بالشكل الصح هنا. الشكل الصح هو flying. الجملة: Are the birds flying in the sky?",
+     "explanation_en": "The word in brackets (fly) is not in the right form here. The correct form is flying. The sentence is: Are the birds flying in the sky?"
     },
     {
      "item_id": "P6:s4:i61",
@@ -2808,7 +3150,9 @@
      "answer": "are",
      "accept": [
       "are"
-     ]
+     ],
+     "explanation_ar": "السؤال أو الجملة محتاجة فعل be المناسب للفاعل: are. الجملة: Why are they not revising hard?",
+     "explanation_en": "The sentence needs the form of be that matches the subject: are. The sentence is: Why are they not revising hard?"
     },
     {
      "item_id": "P6:s4:i62",
@@ -2819,7 +3163,9 @@
      "answer": "are celebrating",
      "accept": [
       "are celebrating"
-     ]
+     ],
+     "explanation_ar": "now أو at the moment بتدل على حاجة بتحصل دلوقتي، فنستخدم الحاضر المستمر: be + فعل-ing (are celebrating). الجملة: We are celebrating my sister's birthday tonight.",
+     "explanation_en": "Now or at the moment shows an action happening now, so we use the present continuous: be + verb-ing (are celebrating). The sentence is: We are celebrating my sister's birthday tonight."
     },
     {
      "item_id": "P6:s4:i63",
@@ -2830,7 +3176,9 @@
      "answer": "Are",
      "accept": [
       "Are"
-     ]
+     ],
+     "explanation_ar": "السؤال أو الجملة محتاجة فعل be المناسب للفاعل: Are. الجملة: (Do) your aunts visiting you tonight?",
+     "explanation_en": "The sentence needs the form of be that matches the subject: Are. The sentence is: (Do) your aunts visiting you tonight?"
     },
     {
      "item_id": "P6:s4:i64",
@@ -2841,7 +3189,9 @@
      "answer": "is watering",
      "accept": [
       "is watering"
-     ]
+     ],
+     "explanation_ar": "now أو at the moment بتدل على حاجة بتحصل دلوقتي، فنستخدم الحاضر المستمر: be + فعل-ing (is watering). الجملة: He is watering the flowers in the garden at the moment.",
+     "explanation_en": "Now or at the moment shows an action happening now, so we use the present continuous: be + verb-ing (is watering). The sentence is: He is watering the flowers in the garden at the moment."
     },
     {
      "item_id": "P6:s4:i65",
@@ -2853,7 +3203,9 @@
      "accept": [
       "can't",
       "cannot"
-     ]
+     ],
+     "explanation_ar": "الفعل الناقص المناسب للمعنى هو can't. الجملة: She can't help her community alone.",
+     "explanation_en": "The modal verb that fits the meaning is can't. The sentence is: She can't help her community alone."
     },
     {
      "item_id": "P6:s4:i66",
@@ -2864,7 +3216,9 @@
      "answer": "able to",
      "accept": [
       "able to"
-     ]
+     ],
+     "explanation_ar": "بنقول be able to + فعل مصدر للتعبير عن القدرة: able to. الجملة: They are able to solve the problem.",
+     "explanation_en": "We say be able to + base verb to express ability: able to. The sentence is: They are able to solve the problem."
     },
     {
      "item_id": "P6:s4:i67",
@@ -2875,7 +3229,9 @@
      "answer": "Can",
      "accept": [
       "Can"
-     ]
+     ],
+     "explanation_ar": "الكلمة اللي بين القوسين صح زي ما هي ومفيش تغيير مطلوب. الجملة: (Can) you help your neighbors?",
+     "explanation_en": "The word in brackets is already correct, so it stays the same. The sentence is: (Can) you help your neighbors?"
     },
     {
      "item_id": "P6:s4:i68",
@@ -2886,7 +3242,9 @@
      "answer": "works",
      "accept": [
       "works"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: works.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: works."
     },
     {
      "item_id": "P6:s4:i69",
@@ -2898,7 +3256,9 @@
      "accept": [
       "don't waste",
       "do not waste"
-     ]
+     ],
+     "explanation_ar": "النفي: don't + الفعل المصدر (waste) من غير s أو ed. الجملة: We don't waste water every day.",
+     "explanation_en": "Negative: don't + base verb (waste), with no s or ed. The sentence is: We don't waste water every day."
     },
     {
      "item_id": "P6:s4:i70",
@@ -2909,7 +3269,9 @@
      "answer": "able to",
      "accept": [
       "able to"
-     ]
+     ],
+     "explanation_ar": "بنقول be able to + فعل مصدر للتعبير عن القدرة: able to. الجملة: She is able to ride a bike safely.",
+     "explanation_en": "We say be able to + base verb to express ability: able to. The sentence is: She is able to ride a bike safely."
     },
     {
      "item_id": "P6:s4:i71",
@@ -2920,7 +3282,9 @@
      "answer": "helps",
      "accept": [
       "helps"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: helps.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: helps."
     },
     {
      "item_id": "P6:s4:i72",
@@ -2931,7 +3295,9 @@
      "answer": "make",
      "accept": [
       "make"
-     ]
+     ],
+     "explanation_ar": "الكلمة اللي بين القوسين صح زي ما هي ومفيش تغيير مطلوب. الجملة: They make posters to help the community.",
+     "explanation_en": "The word in brackets is already correct, so it stays the same. The sentence is: They make posters to help the community."
     },
     {
      "item_id": "P6:s4:i73",
@@ -2942,7 +3308,9 @@
      "answer": "use",
      "accept": [
       "use"
-     ]
+     ],
+     "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: use. الجملة: Did the Ancient Egyptians use linen to wrap mummies?",
+     "explanation_en": "After the helper verb we use the base verb with no s or ed: use. The sentence is: Did the Ancient Egyptians use linen to wrap mummies?"
     },
     {
      "item_id": "P6:s4:i74",
@@ -2953,7 +3321,9 @@
      "answer": "mustn't",
      "accept": [
       "mustn't"
-     ]
+     ],
+     "explanation_ar": "mustn't معناها ممنوع، والجملة بتتكلم عن شيء ممنوع في الفصل. الجملة: She mustn't talk loudly in the class.",
+     "explanation_en": "Mustn't means it is not allowed, and the sentence is about a rule. The sentence is: She mustn't talk loudly in the class."
     },
     {
      "item_id": "P6:s4:i75",
@@ -2964,7 +3334,9 @@
      "answer": "able to",
      "accept": [
       "able to"
-     ]
+     ],
+     "explanation_ar": "بنقول be able to + فعل مصدر للتعبير عن القدرة: able to. الجملة: I am able to drive a car.",
+     "explanation_en": "We say be able to + base verb to express ability: able to. The sentence is: I am able to drive a car."
     },
     {
      "item_id": "P6:s4:i76",
@@ -2975,7 +3347,9 @@
      "answer": "has",
      "accept": [
       "has"
-     ]
+     ],
+     "explanation_ar": "Egypt فاعل مفرد، فنستخدم has مش have.",
+     "explanation_en": "Egypt is singular, so we use has, not have."
     },
     {
      "item_id": "P6:s4:i77",
@@ -2986,7 +3360,9 @@
      "answer": "visit",
      "accept": [
       "visit"
-     ]
+     ],
+     "explanation_ar": "الكلمة اللي بين القوسين صح زي ما هي ومفيش تغيير مطلوب. الجملة: People from all over the world visit Ras Mohamed every year.",
+     "explanation_en": "The word in brackets is already correct, so it stays the same. The sentence is: People from all over the world visit Ras Mohamed every year."
     },
     {
      "item_id": "P6:s4:i78",
@@ -2998,7 +3374,9 @@
      "accept": [
       "doesn't walk",
       "does not walk"
-     ]
+     ],
+     "explanation_ar": "النفي: doesn't + الفعل المصدر (walk) من غير s أو ed. الجملة: My sister doesn't walk to school because it is far away.",
+     "explanation_en": "Negative: doesn't + base verb (walk), with no s or ed. The sentence is: My sister doesn't walk to school because it is far away."
     },
     {
      "item_id": "P6:s4:i79",
@@ -3009,7 +3387,9 @@
      "answer": "went",
      "accept": [
       "went"
-     ]
+     ],
+     "explanation_ar": "الجملة بتتكلم عن الماضي، فنستخدم صيغة الماضي went. الجملة: Yesterday, the students went on a trip to Wadi El Rayan.",
+     "explanation_en": "The sentence is about the past, so we use the past form went. The sentence is: Yesterday, the students went on a trip to Wadi El Rayan."
     },
     {
      "item_id": "P6:s4:i80",
@@ -3020,7 +3400,9 @@
      "answer": "provides",
      "accept": [
       "provides"
-     ]
+     ],
+     "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: provides.",
+     "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: provides."
     }
    ]
   },
@@ -3037,7 +3419,9 @@
      "grading_mode": "checked",
      "strict_case": true,
      "strict_punctuation": true,
-     "answer": "What is Omar working on?"
+     "answer": "What is Omar working on?",
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): What is Omar working on?",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): What is Omar working on?"
     },
     {
      "item_id": "P6:s5:i1",
@@ -3051,7 +3435,9 @@
      "accept": [
       "The ancient Egyptians used papyrus for writing.",
       "The Ancient Egyptians used papyrus for writing."
-     ]
+     ],
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): The ancient Egyptians used papyrus for writing.",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): The ancient Egyptians used papyrus for writing."
     },
     {
      "item_id": "P6:s5:i2",
@@ -3061,7 +3447,9 @@
      "grading_mode": "checked",
      "strict_case": true,
      "strict_punctuation": true,
-     "answer": "Linen is made from flax."
+     "answer": "Linen is made from flax.",
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Linen is made from flax.",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Linen is made from flax."
     },
     {
      "item_id": "P6:s5:i3",
@@ -3071,7 +3459,9 @@
      "grading_mode": "checked",
      "strict_case": true,
      "strict_punctuation": true,
-     "answer": "We are good citizens."
+     "answer": "We are good citizens.",
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): We are good citizens.",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): We are good citizens."
     },
     {
      "item_id": "P6:s5:i4",
@@ -3081,7 +3471,9 @@
      "grading_mode": "checked",
      "strict_case": true,
      "strict_punctuation": true,
-     "answer": "Let's work together."
+     "answer": "Let's work together.",
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Let's work together.",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Let's work together."
     },
     {
      "item_id": "P6:s5:i5",
@@ -3091,7 +3483,9 @@
      "grading_mode": "checked",
      "strict_case": true,
      "strict_punctuation": true,
-     "answer": "Can you ask a question?"
+     "answer": "Can you ask a question?",
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Can you ask a question?",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Can you ask a question?"
     },
     {
      "item_id": "P6:s5:i6",
@@ -3101,7 +3495,9 @@
      "grading_mode": "checked",
      "strict_case": true,
      "strict_punctuation": true,
-     "answer": "We read the story in class."
+     "answer": "We read the story in class.",
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): We read the story in class.",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): We read the story in class."
     },
     {
      "item_id": "P6:s5:i7",
@@ -3114,7 +3510,9 @@
      "answer": "They made a poster about the Earth.",
      "accept": [
       "They made a poster about the earth."
-     ]
+     ],
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): They made a poster about the Earth.",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): They made a poster about the Earth."
     },
     {
      "item_id": "P6:s5:i8",
@@ -3124,7 +3522,9 @@
      "grading_mode": "checked",
      "strict_case": true,
      "strict_punctuation": true,
-     "answer": "Did Hany play football yesterday?"
+     "answer": "Did Hany play football yesterday?",
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Did Hany play football yesterday?",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Did Hany play football yesterday?"
     },
     {
      "item_id": "P6:s5:i9",
@@ -3134,7 +3534,9 @@
      "grading_mode": "checked",
      "strict_case": true,
      "strict_punctuation": true,
-     "answer": "Yes, there is a bank in Aswan."
+     "answer": "Yes, there is a bank in Aswan.",
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Yes, there is a bank in Aswan.",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Yes, there is a bank in Aswan."
     },
     {
      "item_id": "P6:s5:i10",
@@ -3144,7 +3546,9 @@
      "grading_mode": "checked",
      "strict_case": true,
      "strict_punctuation": true,
-     "answer": "He can't run very fast."
+     "answer": "He can't run very fast.",
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): He can't run very fast.",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): He can't run very fast."
     },
     {
      "item_id": "P6:s5:i11",
@@ -3157,7 +3561,9 @@
      "answer": "Noor, Ahmed and Farida were always looking for ways to help.",
      "accept": [
       "Noor, Ahmed, and Farida were always looking for ways to help."
-     ]
+     ],
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Noor, Ahmed and Farida were always looking for ways to help.",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Noor, Ahmed and Farida were always looking for ways to help."
     },
     {
      "item_id": "P6:s5:i12",
@@ -3174,7 +3580,9 @@
       "Let's do something about it. We can be Water Savers.",
       "Let's do something about it! We can be Water Savers.",
       "Let's do something about it; we can be water savers."
-     ]
+     ],
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Let's do something about it. We can be water savers.",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Let's do something about it. We can be water savers."
     },
     {
      "item_id": "P6:s5:i13",
@@ -3191,7 +3599,9 @@
       "One poster said: \"Every drop counts. Fix leaks fast.\"",
       "One poster said, Every drop counts. Fix leaks fast.",
       "One poster said: Every drop counts. Fix leaks fast."
-     ]
+     ],
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): One poster said, \"Every drop counts. Fix leaks fast.\"",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): One poster said, \"Every drop counts. Fix leaks fast.\""
     },
     {
      "item_id": "P6:s5:i14",
@@ -3204,7 +3614,9 @@
      "answer": "Why do you care about water so much? It's just a few drops.",
      "accept": [
       "Why do you care about water so much? It's just a few drops!"
-     ]
+     ],
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Why do you care about water so much? It's just a few drops.",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Why do you care about water so much? It's just a few drops."
     },
     {
      "item_id": "P6:s5:i15",
@@ -3218,7 +3630,9 @@
      "accept": [
       "Last Thursday our class went to Wadi El Rayan.",
       "Last Thursday, our class went to Wadi El Rayan."
-     ]
+     ],
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Last Thursday our class went to Wadi El Rayan.",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Last Thursday our class went to Wadi El Rayan."
     },
     {
      "item_id": "P6:s5:i16",
@@ -3228,7 +3642,9 @@
      "grading_mode": "checked",
      "strict_case": true,
      "strict_punctuation": true,
-     "answer": "Where do farmers get water for their fields?"
+     "answer": "Where do farmers get water for their fields?",
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Where do farmers get water for their fields?",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Where do farmers get water for their fields?"
     },
     {
      "item_id": "P6:s5:i17",
@@ -3239,7 +3655,9 @@
      "strict_case": true,
      "strict_punctuation": true,
      "answer": "My sister doesn't work in Cairo.",
-     "source_note": "printed as \"dosen t\" in the booklet"
+     "source_note": "printed as \"dosen t\" in the booklet",
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): My sister doesn't work in Cairo.",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): My sister doesn't work in Cairo."
     },
     {
      "item_id": "P6:s5:i18",
@@ -3249,7 +3667,9 @@
      "grading_mode": "checked",
      "strict_case": true,
      "strict_punctuation": true,
-     "answer": "What animals did the students see near the lake?"
+     "answer": "What animals did the students see near the lake?",
+     "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): What animals did the students see near the lake?",
+     "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): What animals did the students see near the lake?"
     }
    ]
   },
@@ -3264,7 +3684,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "We water plants every day."
+     "answer": "We water plants every day.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: We water plants every day.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: We water plants every day."
     },
     {
      "item_id": "P6:s6:i1",
@@ -3272,7 +3694,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "I pull out weeds from the garden."
+     "answer": "I pull out weeds from the garden.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: I pull out weeds from the garden.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: I pull out weeds from the garden."
     },
     {
      "item_id": "P6:s6:i2",
@@ -3280,7 +3704,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Farmers grow many fruits."
+     "answer": "Farmers grow many fruits.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Farmers grow many fruits.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Farmers grow many fruits."
     },
     {
      "item_id": "P6:s6:i3",
@@ -3288,7 +3714,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "People use herbs in cooking."
+     "answer": "People use herbs in cooking.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: People use herbs in cooking.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: People use herbs in cooking."
     },
     {
      "item_id": "P6:s6:i4",
@@ -3300,7 +3728,9 @@
      "accept": [
       "I check the insects on plants.",
       "I check the plants for insects."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: I check insects on the plants.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: I check insects on the plants."
     },
     {
      "item_id": "P6:s6:i5",
@@ -3312,7 +3742,9 @@
      "accept": [
       "Alexandria is windy and rainy.",
       "Alexandria is rainy and windy."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Alexandria is windy and rainy.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Alexandria is windy and rainy."
     },
     {
      "item_id": "P6:s6:i6",
@@ -3324,7 +3756,9 @@
      "accept": [
       "Cairo is sunny and warm.",
       "Cairo is warm and sunny."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Cairo is sunny and warm.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Cairo is sunny and warm."
     },
     {
      "item_id": "P6:s6:i7",
@@ -3337,7 +3771,9 @@
       "People drink water when it's hot.",
       "When it's hot, people drink water.",
       "When it's hot people drink water."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: People drink water when it's hot.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: People drink water when it's hot."
     },
     {
      "item_id": "P6:s6:i8",
@@ -3350,7 +3786,9 @@
       "Farmers water plants early in the morning.",
       "Early in the morning, farmers water plants.",
       "Early in the morning farmers water plants."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Farmers water plants early in the morning.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Farmers water plants early in the morning."
     },
     {
      "item_id": "P6:s6:i9",
@@ -3358,7 +3796,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Crocodiles live in the river."
+     "answer": "Crocodiles live in the river.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Crocodiles live in the river.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Crocodiles live in the river."
     },
     {
      "item_id": "P6:s6:i10",
@@ -3370,7 +3810,9 @@
      "accept": [
       "The Nile is the longest river in the world."
      ],
-     "source_note": "one \"the\" was missing from the printed words; it is added here"
+     "source_note": "one \"the\" was missing from the printed words; it is added here",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: The Nile is the longest river in the world.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: The Nile is the longest river in the world."
     },
     {
      "item_id": "P6:s6:i11",
@@ -3378,7 +3820,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Many animals live near the Nile."
+     "answer": "Many animals live near the Nile.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Many animals live near the Nile.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Many animals live near the Nile."
     },
     {
      "item_id": "P6:s6:i12",
@@ -3386,7 +3830,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Farmers grow food in good soil."
+     "answer": "Farmers grow food in good soil.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Farmers grow food in good soil.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Farmers grow food in good soil."
     },
     {
      "item_id": "P6:s6:i13",
@@ -3394,7 +3840,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "People use the river to travel."
+     "answer": "People use the river to travel.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: People use the river to travel.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: People use the river to travel."
     },
     {
      "item_id": "P6:s6:i14",
@@ -3402,7 +3850,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Ancient Egyptians built temples near the river."
+     "answer": "Ancient Egyptians built temples near the river.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Ancient Egyptians built temples near the river.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Ancient Egyptians built temples near the river."
     },
     {
      "item_id": "P6:s6:i15",
@@ -3410,7 +3860,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "The students went to Wadi El Rayan."
+     "answer": "The students went to Wadi El Rayan.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: The students went to Wadi El Rayan.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: The students went to Wadi El Rayan."
     },
     {
      "item_id": "P6:s6:i16",
@@ -3425,7 +3877,9 @@
       "In the morning they left school early.",
       "Early in the morning, they left school.",
       "Early in the morning they left school."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: They left school early in the morning.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: They left school early in the morning."
     },
     {
      "item_id": "P6:s6:i17",
@@ -3437,7 +3891,9 @@
      "accept": [
       "They saw sand dunes and camels.",
       "They saw camels and sand dunes."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: They saw sand dunes and camels.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: They saw sand dunes and camels."
     },
     {
      "item_id": "P6:s6:i18",
@@ -3445,7 +3901,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i19",
@@ -3458,7 +3916,9 @@
       "The park protects rare animals and plants.",
       "The park protects rare plants and animals.",
       "The park protects plants and rare animals."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: The park protects rare animals and plants.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: The park protects rare animals and plants."
     },
     {
      "item_id": "P6:s6:i20",
@@ -3466,7 +3926,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "They rode the bus for two hours."
+     "answer": "They rode the bus for two hours.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: They rode the bus for two hours.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: They rode the bus for two hours."
     },
     {
      "item_id": "P6:s6:i21",
@@ -3478,7 +3940,9 @@
      "accept": [
       "They saw the waterfalls and palm trees.",
       "They saw palm trees and the waterfalls."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: They saw the waterfalls and palm trees.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: They saw the waterfalls and palm trees."
     },
     {
      "item_id": "P6:s6:i22",
@@ -3490,7 +3954,9 @@
      "accept": [
       "After lunch they visited the desert.",
       "After lunch, they visited the desert."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: They visited the desert after lunch.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: They visited the desert after lunch."
     },
     {
      "item_id": "P6:s6:i23",
@@ -3498,7 +3964,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Scientists found skeletons of ancient whales."
+     "answer": "Scientists found skeletons of ancient whales.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Scientists found skeletons of ancient whales.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Scientists found skeletons of ancient whales."
     },
     {
      "item_id": "P6:s6:i24",
@@ -3506,7 +3974,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "They saw a fossil museum."
+     "answer": "They saw a fossil museum.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: They saw a fossil museum.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: They saw a fossil museum."
     },
     {
      "item_id": "P6:s6:i25",
@@ -3514,7 +3984,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "I wanted to take a picture."
+     "answer": "I wanted to take a picture.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: I wanted to take a picture.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: I wanted to take a picture."
     },
     {
      "item_id": "P6:s6:i26",
@@ -3522,7 +3994,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "My camera was not with me."
+     "answer": "My camera was not with me.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: My camera was not with me.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: My camera was not with me."
     },
     {
      "item_id": "P6:s6:i27",
@@ -3534,7 +4008,9 @@
      "accept": [
       "I looked everywhere for it.",
       "I looked for it everywhere."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: I looked everywhere for it.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: I looked everywhere for it."
     },
     {
      "item_id": "P6:s6:i28",
@@ -3542,7 +4018,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Mr. Ahmed found it under the bench."
+     "answer": "Mr. Ahmed found it under the bench.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Mr. Ahmed found it under the bench.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Mr. Ahmed found it under the bench."
     },
     {
      "item_id": "P6:s6:i29",
@@ -3554,7 +4032,9 @@
      "accept": [
       "The trip was fun and exciting.",
       "The trip was exciting and fun."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: The trip was fun and exciting.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: The trip was fun and exciting."
     },
     {
      "item_id": "P6:s6:i30",
@@ -3562,7 +4042,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "We can play tennis outside."
+     "answer": "We can play tennis outside.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: We can play tennis outside.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: We can play tennis outside."
     },
     {
      "item_id": "P6:s6:i31",
@@ -3570,7 +4052,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Hassan's able to speak English very well."
+     "answer": "Hassan's able to speak English very well.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Hassan's able to speak English very well.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Hassan's able to speak English very well."
     },
     {
      "item_id": "P6:s6:i32",
@@ -3578,7 +4062,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "She is able to draw beautifully."
+     "answer": "She is able to draw beautifully.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: She is able to draw beautifully.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: She is able to draw beautifully."
     },
     {
      "item_id": "P6:s6:i33",
@@ -3586,7 +4072,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Egypt sells oil to other countries."
+     "answer": "Egypt sells oil to other countries.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Egypt sells oil to other countries.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Egypt sells oil to other countries."
     },
     {
      "item_id": "P6:s6:i34",
@@ -3594,7 +4082,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Egypt has many valuable things under the ground."
+     "answer": "Egypt has many valuable things under the ground.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Egypt has many valuable things under the ground.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Egypt has many valuable things under the ground."
     },
     {
      "item_id": "P6:s6:i35",
@@ -3609,7 +4099,9 @@
       "When we don't need them we should turn lights off.",
       "When we don't need them, we should turn off lights.",
       "When we don't need them we should turn off lights."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: We should turn lights off when we don't need them.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: We should turn lights off when we don't need them."
     },
     {
      "item_id": "P6:s6:i36",
@@ -3617,7 +4109,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Oil is a black liquid."
+     "answer": "Oil is a black liquid.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Oil is a black liquid.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Oil is a black liquid."
     },
     {
      "item_id": "P6:s6:i37",
@@ -3625,7 +4119,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "You mustn't touch electrical wires."
+     "answer": "You mustn't touch electrical wires.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: You mustn't touch electrical wires.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: You mustn't touch electrical wires."
     },
     {
      "item_id": "P6:s6:i38",
@@ -3633,7 +4129,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "We must protect the Earth from pollution."
+     "answer": "We must protect the Earth from pollution.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: We must protect the Earth from pollution.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: We must protect the Earth from pollution."
     },
     {
      "item_id": "P6:s6:i39",
@@ -3645,7 +4143,9 @@
      "accept": [
       "You must listen carefully to the teacher.",
       "You must listen to the teacher carefully."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: You must listen carefully to the teacher.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: You must listen carefully to the teacher."
     },
     {
      "item_id": "P6:s6:i40",
@@ -3657,7 +4157,9 @@
      "accept": [
       "Walking or biking keeps us healthy.",
       "Biking or walking keeps us healthy."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Walking or biking keeps us healthy.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Walking or biking keeps us healthy."
     },
     {
      "item_id": "P6:s6:i41",
@@ -3665,7 +4167,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Where do we find oil in Egypt?"
+     "answer": "Where do we find oil in Egypt?",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Where do we find oil in Egypt?",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Where do we find oil in Egypt?"
     },
     {
      "item_id": "P6:s6:i42",
@@ -3673,7 +4177,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "The Egyptians used papyrus to write on."
+     "answer": "The Egyptians used papyrus to write on.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: The Egyptians used papyrus to write on.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: The Egyptians used papyrus to write on."
     },
     {
      "item_id": "P6:s6:i43",
@@ -3681,7 +4187,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "You shouldn't waste water while washing your hands."
+     "answer": "You shouldn't waste water while washing your hands.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: You shouldn't waste water while washing your hands.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: You shouldn't waste water while washing your hands."
     },
     {
      "item_id": "P6:s6:i44",
@@ -3689,7 +4197,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Don't waste water when you brush your teeth."
+     "answer": "Don't waste water when you brush your teeth.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Don't waste water when you brush your teeth.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Don't waste water when you brush your teeth."
     },
     {
      "item_id": "P6:s6:i45",
@@ -3697,7 +4207,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i46",
@@ -3709,7 +4221,9 @@
      "accept": [
       "Gases from cars and buses can pollute the air.",
       "Gases from buses and cars can pollute the air."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Gases from cars and buses can pollute the air.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Gases from cars and buses can pollute the air."
     },
     {
      "item_id": "P6:s6:i47",
@@ -3717,7 +4231,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "What types of energy do people use in Egypt?"
+     "answer": "What types of energy do people use in Egypt?",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: What types of energy do people use in Egypt?",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: What types of energy do people use in Egypt?"
     },
     {
      "item_id": "P6:s6:i48",
@@ -3725,7 +4241,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "I'm really interested in ancient Egypt."
+     "answer": "I'm really interested in ancient Egypt.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: I'm really interested in ancient Egypt.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: I'm really interested in ancient Egypt."
     },
     {
      "item_id": "P6:s6:i49",
@@ -3733,7 +4251,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Where did the old man live?"
+     "answer": "Where did the old man live?",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Where did the old man live?",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Where did the old man live?"
     },
     {
      "item_id": "P6:s6:i50",
@@ -3741,7 +4261,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+     "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i51",
@@ -3749,7 +4271,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "We had a science class on Monday."
+     "answer": "We had a science class on Monday.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: We had a science class on Monday.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: We had a science class on Monday."
     },
     {
      "item_id": "P6:s6:i52",
@@ -3757,7 +4281,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i53",
@@ -3765,7 +4291,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i54",
@@ -3773,7 +4301,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i55",
@@ -3781,7 +4311,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i56",
@@ -3789,7 +4321,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i57",
@@ -3797,7 +4331,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i58",
@@ -3805,7 +4341,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i59",
@@ -3813,7 +4351,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i60",
@@ -3821,7 +4361,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i61",
@@ -3829,7 +4371,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i62",
@@ -3837,7 +4381,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i63",
@@ -3845,7 +4391,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i64",
@@ -3853,7 +4401,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i65",
@@ -3861,7 +4411,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i66",
@@ -3869,7 +4421,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s6:i67",
@@ -3877,7 +4431,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "He will ride a bike on Friday."
+     "answer": "He will ride a bike on Friday.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: He will ride a bike on Friday.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: He will ride a bike on Friday."
     },
     {
      "item_id": "P6:s6:i68",
@@ -3885,7 +4441,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Where did he want to go?"
+     "answer": "Where did he want to go?",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Where did he want to go?",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Where did he want to go?"
     },
     {
      "item_id": "P6:s6:i69",
@@ -3893,7 +4451,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "We can go to the beach in Alexandria."
+     "answer": "We can go to the beach in Alexandria.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: We can go to the beach in Alexandria.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: We can go to the beach in Alexandria."
     },
     {
      "item_id": "P6:s6:i70",
@@ -3906,7 +4466,9 @@
       "People visit Ras Mohamed every year.",
       "Every year, people visit Ras Mohamed.",
       "Every year people visit Ras Mohamed."
-     ]
+     ],
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: People visit Ras Mohamed every year.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: People visit Ras Mohamed every year."
     },
     {
      "item_id": "P6:s6:i71",
@@ -3914,7 +4476,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Farmers water their plants early in the morning."
+     "answer": "Farmers water their plants early in the morning.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Farmers water their plants early in the morning.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Farmers water their plants early in the morning."
     },
     {
      "item_id": "P6:s6:i72",
@@ -3922,7 +4486,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "We had the spring performance last night."
+     "answer": "We had the spring performance last night.",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: We had the spring performance last night.",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: We had the spring performance last night."
     },
     {
      "item_id": "P6:s6:i73",
@@ -3930,7 +4496,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Do black bears hibernate in the winter?"
+     "answer": "Do black bears hibernate in the winter?",
+     "explanation_ar": "رتّب الكلمات علشان تكوّن جملة صحيحة تبدأ بحرف كبير وتنتهي بعلامة ترقيم: Do black bears hibernate in the winter?",
+     "explanation_en": "Put the words in order to make a correct sentence with a capital letter and an end mark: Do black bears hibernate in the winter?"
     }
    ]
   },
@@ -3946,7 +4514,9 @@
      "held": false,
      "grading_mode": "teacher",
      "model_answer": "At school: a dripping tap and a broken pipe in the garden.",
-     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "P6:s7:i1",
@@ -3955,7 +4525,9 @@
      "held": false,
      "grading_mode": "teacher",
      "model_answer": "The Water Savers.",
-     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "P6:s7:i2",
@@ -3963,7 +4535,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "الإجابة غير موجودة في الكتيب المطبوع، يراجعها المدرس."
+     "grading_reason": "الإجابة غير موجودة في الكتيب المطبوع، يراجعها المدرس.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s7:i3",
@@ -3972,7 +4546,9 @@
      "held": false,
      "grading_mode": "teacher",
      "model_answer": "She thought the water drops were too precious to waste.",
-     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "P6:s7:i4",
@@ -3981,7 +4557,9 @@
      "held": false,
      "grading_mode": "teacher",
      "model_answer": "They must take care of their resources.",
-     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "P6:s7:i5",
@@ -3990,7 +4568,9 @@
      "held": false,
      "grading_mode": "teacher",
      "model_answer": "To make bright and cheerful posters / do a project to help the school use water wisely.",
-     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "P6:s7:i6",
@@ -3998,7 +4578,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "الإجابة غير موجودة في الكتيب المطبوع، يراجعها المدرس."
+     "grading_reason": "الإجابة غير موجودة في الكتيب المطبوع، يراجعها المدرس.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s7:i7",
@@ -4006,7 +4588,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "P6:s7:i8",
@@ -4015,7 +4599,9 @@
      "held": false,
      "grading_mode": "teacher",
      "model_answer": "They walked around the school with a notebook, a camera and curious eyes. Noor wrote down the problems and Ahmed took photos.",
-     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "P6:s7:i9",
@@ -4024,7 +4610,9 @@
      "held": false,
      "grading_mode": "teacher",
      "model_answer": "Every drop counts. Fix leaks fast!",
-     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "P6:s7:i10",
@@ -4033,7 +4621,9 @@
      "held": false,
      "grading_mode": "teacher",
      "model_answer": "A small drip could waste liters of water each day.",
-     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "P6:s7:i11",
@@ -4041,7 +4631,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "الإجابة غير موجودة في الكتيب المطبوع، يراجعها المدرس."
+     "grading_reason": "الإجابة غير موجودة في الكتيب المطبوع، يراجعها المدرس.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s7:i12",
@@ -4050,7 +4642,9 @@
      "held": false,
      "grading_mode": "teacher",
      "model_answer": "Posters were hung in the school, classes had mini-challenges, and teachers talked about saving water.",
-     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس."
+     "grading_reason": "إجابة نموذجية من نص الكتيب. تُراجع الإجابة المكتوبة مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     }
    ]
   },
@@ -4071,7 +4665,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i1",
@@ -4081,7 +4677,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i2",
@@ -4091,7 +4689,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i3",
@@ -4101,7 +4701,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i4",
@@ -4111,7 +4713,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i5",
@@ -4121,7 +4725,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i6",
@@ -4131,7 +4737,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i7",
@@ -4141,7 +4749,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i8",
@@ -4151,7 +4761,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i9",
@@ -4161,7 +4773,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i10",
@@ -4171,7 +4785,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i11",
@@ -4186,7 +4802,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i12",
@@ -4199,7 +4817,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s8:i13",
@@ -4209,7 +4829,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s8:i14",
@@ -4223,7 +4845,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i15",
@@ -4233,7 +4857,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i16",
@@ -4243,7 +4869,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i17",
@@ -4253,7 +4881,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i18",
@@ -4263,7 +4893,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i19",
@@ -4273,7 +4905,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i20",
@@ -4283,7 +4917,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i21",
@@ -4297,7 +4933,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i22",
@@ -4307,7 +4945,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i23",
@@ -4317,7 +4957,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i24",
@@ -4327,7 +4969,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i25",
@@ -4337,7 +4981,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i26",
@@ -4347,7 +4993,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s8:i27",
@@ -4357,7 +5005,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i28",
@@ -4367,7 +5017,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "المصدر المطبوع ناقص أو مقطوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "P6:s8:i29",
@@ -4377,7 +5029,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i30",
@@ -4391,7 +5045,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i31",
@@ -4405,7 +5061,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i32",
@@ -4419,7 +5077,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i33",
@@ -4429,7 +5089,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i34",
@@ -4439,7 +5101,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "P6:s8:i35",
@@ -4449,7 +5113,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     }
    ]
   }

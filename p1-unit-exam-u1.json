@@ -415,13 +415,14 @@
       "False"
     ],
     "answer": "True",
-    "explanation_ar": "tree: t-r-e-e.",
+    "explanation_ar": "True: كلمة tree بتبدأ بحرف t.",
     "passage": null,
     "answer_kind": "closed",
     "image_optional": [
       "tree"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "True: tree starts with the letter t."
   },
   {
     "grade": "P1",
@@ -930,13 +931,14 @@
       "False"
     ],
     "answer": "True",
-    "explanation_ar": "ink: i-n-k.",
+    "explanation_ar": "True: كلمة ink بتبدأ بحرف i.",
     "passage": null,
     "answer_kind": "closed",
     "image_optional": [
       "ink"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "True: ink starts with the letter i."
   },
   {
     "grade": "P1",

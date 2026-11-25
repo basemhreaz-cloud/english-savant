@@ -152,6 +152,21 @@
     return wrap;
   }
   function addVerification(c, q, s) {
+    const r = addVerification0(c, q, s);
+    if (q.explanation_ar && r && !r.querySelector(".final-explanation")) {
+      const explanation = e("details", void 0, "final-explanation");
+      const summary = e("summary", "افهم الإجابة");
+      const text = e("p", q.explanation_ar, "final-explanation-text");
+      text.dir = "auto";
+      if (window.ESInterface) window.ESInterface.bindExplanation(text, q);
+      explanation.append(summary, text);
+      explanation.style.cssText = "border:1px solid var(--line, #b0aa98);border-radius:18px;padding:12px 14px;margin-top:12px;line-height:1.9";
+      summary.style.cursor = "pointer";
+      r.append(explanation);
+    }
+    return r;
+  }
+  function addVerification0(c, q, s) {
     var _a, _b;
     if (!q.answerability_hold && !q.listening_excluded && s.type !== "punctuate" && c.querySelector("textarea,input:not([type=radio]):not([type=checkbox])")) (_b = window.ESWrittenAI) == null ? void 0 : _b.attach(c, { question: q.text || q.title || s.instruction, passage: q.passage, alternatives: ((_a = answerKeys[q.item_id]) == null ? void 0 : _a.accepted_answers) || [], answer: () => Array.from(c.querySelectorAll("textarea,input:not([type=radio]):not([type=checkbox])")).map((x) => x.value).join(" ") });
     if (q.answerability_hold || q.listening_excluded) return c;

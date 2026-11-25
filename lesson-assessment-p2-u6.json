@@ -1277,7 +1277,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "I Can Read and Write About My Home!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "Where is the couch?",
+    "explanation_ar": "السؤال بيبدأ بكلمة Where: Where is the couch?",
     "words": [
       "the",
       "couch",
@@ -1297,7 +1297,8 @@
     "requires_image": false,
     "accept": [
       "Where is the couch?"
-    ]
+    ],
+    "explanation_en": "The question word comes first: Where is the couch?"
   },
   {
     "grade": "P2",
@@ -1321,7 +1322,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "I Can Read and Write About My Home!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "The bathroom is next to the kitchen.",
+    "explanation_ar": "الجملة: الحمام جنب المطبخ: The bathroom is next to the kitchen.",
     "words": [
       "The bathroom",
       ".",
@@ -1341,7 +1342,8 @@
     "requires_image": false,
     "accept": [
       "The bathroom is next to the kitchen."
-    ]
+    ],
+    "explanation_en": "The order is subject, verb, place: The bathroom is next to the kitchen."
   },
   {
     "grade": "P2",
@@ -1365,7 +1367,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "I Can Read and Write About My Home!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "There is a bed in the bedroom.",
+    "explanation_ar": "There is + مفرد: There is a bed in the bedroom.",
     "words": [
       "in the bedroom",
       "There",
@@ -1385,7 +1387,8 @@
     "requires_image": false,
     "accept": [
       "There is a bed in the bedroom."
-    ]
+    ],
+    "explanation_en": "There is goes with a singular noun: There is a bed in the bedroom."
   },
   {
     "grade": "P2",
@@ -1409,7 +1412,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "I Can Read and Write About My Home!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "There are dishes in the kitchen.",
+    "explanation_ar": "There are + جمع: There are dishes in the kitchen.",
     "words": [
       "are",
       "dishes",
@@ -1429,7 +1432,8 @@
     "requires_image": false,
     "accept": [
       "There are dishes in the kitchen."
-    ]
+    ],
+    "explanation_en": "There are goes with a plural noun: There are dishes in the kitchen."
   },
   {
     "grade": "P2",
@@ -1496,7 +1500,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "I Can Read and Write About My Home!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "The chair is next to the bed.",
+    "explanation_ar": "الترتيب: The chair is next to the bed.",
     "words": [
       "The chair",
       ".",
@@ -1514,7 +1518,8 @@
     "requires_image": false,
     "accept": [
       "The chair is next to the bed."
-    ]
+    ],
+    "explanation_en": "The order is subject, verb, place: The chair is next to the bed."
   },
   {
     "grade": "P2",
@@ -1538,7 +1543,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "I Can Read and Write About My Home!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "We watch TV here.",
+    "explanation_ar": "الترتيب: We watch TV here.",
     "words": [
       "here",
       "We",
@@ -1556,7 +1561,8 @@
     "requires_image": false,
     "accept": [
       "We watch TV here."
-    ]
+    ],
+    "explanation_en": "The order is subject, verb, object, place: We watch TV here."
   },
   {
     "grade": "P2",
@@ -1753,7 +1759,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "I Can Read and Write About My Home!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "The hall is big.",
+    "explanation_ar": "الترتيب: The hall is big.",
     "words": [
       "is",
       "hall",
@@ -1773,7 +1779,8 @@
     "requires_image": false,
     "accept": [
       "The hall is big."
-    ]
+    ],
+    "explanation_en": "The order is subject, verb, adjective: The hall is big."
   },
   {
     "grade": "P2",
@@ -1797,7 +1804,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "I Can Read and Write About My Home!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "There are four chairs.",
+    "explanation_ar": "There are + عدد جمع: There are four chairs.",
     "words": [
       "four",
       "are",
@@ -1817,7 +1824,8 @@
     "requires_image": false,
     "accept": [
       "There are four chairs."
-    ]
+    ],
+    "explanation_en": "There are goes with a plural: There are four chairs."
   },
   {
     "grade": "P2",
@@ -2845,7 +2853,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "I Can Read and Write About My Home!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "There are two bathrooms in my home.",
+    "explanation_ar": "There are two bathrooms in my home: جمع فنستخدم are.",
     "words": [
       ".",
       "two bathrooms",
@@ -2865,7 +2873,8 @@
     "requires_image": false,
     "accept": [
       "There are two bathrooms in my home."
-    ]
+    ],
+    "explanation_en": "Two bathrooms is plural, so we use There are."
   },
   {
     "grade": "P2",
@@ -2889,7 +2898,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "Where Things Are in My House!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "There is a cat under the table.",
+    "explanation_ar": "There is a cat under the table: مفرد فنستخدم is.",
     "words": [
       "a cat",
       "is",
@@ -2911,7 +2920,8 @@
     "requires_image": false,
     "accept": [
       "There is a cat under the table."
-    ]
+    ],
+    "explanation_en": "A cat is singular, so we use There is."
   },
   {
     "grade": "P2",
@@ -2935,7 +2945,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "Where Things Are in My House!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "There is a fridge in the kitchen.",
+    "explanation_ar": "There is a fridge in the kitchen: مفرد فنستخدم is.",
     "words": [
       "the kitchen",
       "a fridge",
@@ -2957,7 +2967,8 @@
     "requires_image": false,
     "accept": [
       "There is a fridge in the kitchen."
-    ]
+    ],
+    "explanation_en": "A fridge is singular, so we use There is."
   },
   {
     "grade": "P2",
@@ -3383,7 +3394,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "Where Things Are in My House!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "There are seven bags.",
+    "explanation_ar": "There are seven bags: جمع فنستخدم are.",
     "words": [
       "bags",
       "seven",
@@ -3403,7 +3414,8 @@
     "requires_image": false,
     "accept": [
       "There are seven bags."
-    ]
+    ],
+    "explanation_en": "Seven bags is plural, so we use There are."
   },
   {
     "grade": "P2",
@@ -3427,7 +3439,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "Where Things Are in My House!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "There is a window.",
+    "explanation_ar": "There is a window: مفرد فنستخدم is.",
     "words": [
       "There",
       ".",
@@ -3447,7 +3459,8 @@
     "requires_image": false,
     "accept": [
       "There is a window."
-    ]
+    ],
+    "explanation_en": "A window is singular, so we use There is."
   },
   {
     "grade": "P2",
@@ -3471,7 +3484,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "Where Things Are in My House!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "There is a cup on the table.",
+    "explanation_ar": "الجملة تبدأ بحرف كبير وتنتهي بنقطة: There is a cup on the table.",
     "image": "",
     "alt": "",
     "requires_image": false,
@@ -3481,7 +3494,8 @@
     "case_sensitive": true,
     "punctuation_sensitive": true,
     "strict_case": true,
-    "strict_punctuation": true
+    "strict_punctuation": true,
+    "explanation_en": "A statement starts with a capital letter and ends with a full stop."
   },
   {
     "grade": "P2",
@@ -3571,7 +3585,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "Where Things Are in My House!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "The ball is under the table.",
+    "explanation_ar": "الترتيب: The ball is under the table.",
     "words": [
       "the table",
       ".",
@@ -3591,7 +3605,8 @@
     "requires_image": false,
     "accept": [
       "The ball is under the table."
-    ]
+    ],
+    "explanation_en": "The order is subject, verb, place: The ball is under the table."
   },
   {
     "grade": "P2",
@@ -3615,7 +3630,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "I Can Read and Write About My Home!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "We eat in the dining room.",
+    "explanation_ar": "حرف كبير ونقطة: We eat in the dining room.",
     "image": "",
     "alt": "",
     "requires_image": false,
@@ -3625,7 +3640,8 @@
     "case_sensitive": true,
     "punctuation_sensitive": true,
     "strict_case": true,
-    "strict_punctuation": true
+    "strict_punctuation": true,
+    "explanation_en": "Capital letter and full stop: We eat in the dining room."
   },
   {
     "grade": "P2",
@@ -3682,7 +3698,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "Where Things Are in My House!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "There are chairs in the dining room.",
+    "explanation_ar": "There are chairs in the dining room: جمع فنستخدم are.",
     "words": [
       ".",
       "in the dining room",
@@ -3702,7 +3718,8 @@
     "requires_image": false,
     "accept": [
       "There are chairs in the dining room."
-    ]
+    ],
+    "explanation_en": "Chairs is plural, so we use There are."
   },
   {
     "grade": "P2",
@@ -3903,7 +3920,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "I Can Read and Write About My Home!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "two / kitchen / in",
+    "explanation_ar": "الكلمات two وkitchen وin بتكمل النص بالترتيب.",
     "image": "",
     "alt": "",
     "requires_image": false,
@@ -3932,7 +3949,8 @@
           "in"
         ]
       }
-    ]
+    ],
+    "explanation_en": "The words two, kitchen and in complete the text in order."
   },
   {
     "grade": "P2",
@@ -3956,7 +3974,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "lesson_title": "I Can Read and Write About My Home!",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "four / couch / house",
+    "explanation_ar": "الكلمات four وcouch وhouse بتكمل النص بالترتيب.",
     "image": "",
     "alt": "",
     "requires_image": false,
@@ -3985,7 +4003,8 @@
           "house"
         ]
       }
-    ]
+    ],
+    "explanation_en": "The words four, couch and house complete the text in order."
   },
   {
     "grade": "P2",
@@ -4007,7 +4026,7 @@
     "audio": false,
     "key_status": "Teacher-derived from actual full-page pixels; no publisher key",
     "source_change": "Original picture and Arabic meaning retained; not labelled copying or a listening-only task",
-    "explanation_ar": "kitchen",
+    "explanation_ar": "مطبخ بالإنجليزي kitchen.",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "mapping": {
@@ -4022,7 +4041,8 @@
         175,
         264
       ]
-    }
+    },
+    "explanation_en": "Kitchen is the English word for مطبخ."
   },
   {
     "grade": "P2",
@@ -4044,7 +4064,7 @@
     "audio": false,
     "key_status": "Teacher-derived from actual full-page pixels; no publisher key",
     "source_change": "Original picture and Arabic meaning retained; not labelled copying or a listening-only task",
-    "explanation_ar": "dining room",
+    "explanation_ar": "غرفة الطعام بالإنجليزي dining room.",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "mapping": {
@@ -4059,7 +4079,8 @@
         174,
         379
       ]
-    }
+    },
+    "explanation_en": "Dining room is the English for غرفة الطعام."
   },
   {
     "grade": "P2",
@@ -4081,7 +4102,7 @@
     "audio": false,
     "key_status": "Teacher-derived from actual full-page pixels; no publisher key",
     "source_change": "Original picture and Arabic meaning retained; not labelled copying or a listening-only task",
-    "explanation_ar": "living room",
+    "explanation_ar": "غرفة المعيشة بالإنجليزي living room.",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "mapping": {
@@ -4096,7 +4117,8 @@
         735,
         269
       ]
-    }
+    },
+    "explanation_en": "Living room is the English for غرفة المعيشة."
   },
   {
     "grade": "P2",
@@ -4118,7 +4140,7 @@
     "audio": false,
     "key_status": "Teacher-derived from actual full-page pixels; no publisher key",
     "source_change": "Original picture and Arabic meaning retained; not labelled copying or a listening-only task",
-    "explanation_ar": "chicken",
+    "explanation_ar": "دجاجة بالإنجليزي chicken.",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "mapping": {
@@ -4133,7 +4155,8 @@
         737,
         717
       ]
-    }
+    },
+    "explanation_en": "Chicken is the English word for دجاجة."
   },
   {
     "grade": "P2",
@@ -4150,7 +4173,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "False",
+    "explanation_ar": "False: سارة بتقول إنها عايشة في بيت كبير (big).",
     "mapping": {
       "status": "Actual official lesson skill corroborated: read and write home descriptions. Mixed source page placement alone is not the mapping authority."
     },
@@ -4164,7 +4187,8 @@
     "image": "",
     "requires_image": false,
     "alt": "",
-    "lesson_title": "I Can Read and Write About My Home!"
+    "lesson_title": "I Can Read and Write About My Home!",
+    "explanation_en": "False: Sara says she lives in a big house."
   },
   {
     "grade": "P2",
@@ -4181,7 +4205,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "True",
+    "explanation_ar": "True: سارة بتحب تقرأ كتب في البلكونة.",
     "mapping": {
       "status": "Actual official lesson skill corroborated: read and write home descriptions. Mixed source page placement alone is not the mapping authority."
     },
@@ -4195,7 +4219,8 @@
     "image": "",
     "requires_image": false,
     "alt": "",
-    "lesson_title": "I Can Read and Write About My Home!"
+    "lesson_title": "I Can Read and Write About My Home!",
+    "explanation_en": "True: Sara likes to read books on the balcony."
   },
   {
     "grade": "P2",
@@ -4212,7 +4237,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "small",
+    "explanation_ar": "فاطمة عايشة في بيت صغير (small).",
     "mapping": {
       "status": "Actual official lesson skill corroborated: read and write home descriptions. Mixed source page placement alone is not the mapping authority."
     },
@@ -4227,7 +4252,8 @@
     "image": "",
     "requires_image": false,
     "alt": "",
-    "lesson_title": "I Can Read and Write About My Home!"
+    "lesson_title": "I Can Read and Write About My Home!",
+    "explanation_en": "Fatima lives in a small house."
   },
   {
     "grade": "P2",
@@ -4244,7 +4270,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "shower",
+    "explanation_ar": "فيه دش (shower) في الحمام حسب النص.",
     "mapping": {
       "status": "Actual official lesson skill corroborated: read and write home descriptions. Mixed source page placement alone is not the mapping authority."
     },
@@ -4259,7 +4285,8 @@
     "image": "",
     "requires_image": false,
     "alt": "",
-    "lesson_title": "I Can Read and Write About My Home!"
+    "lesson_title": "I Can Read and Write About My Home!",
+    "explanation_en": "The passage says there is a shower in the bathroom."
   },
   {
     "grade": "P2",
@@ -4276,7 +4303,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "bathroom / table",
+    "explanation_ar": "الكلمتان bathroom وtable بتكمل النص بالترتيب.",
     "mapping": {
       "status": "Actual official lesson skill corroborated: read and write home descriptions. Mixed source page placement alone is not the mapping authority."
     },
@@ -4303,7 +4330,8 @@
     "image": "",
     "requires_image": false,
     "alt": "",
-    "lesson_title": "I Can Read and Write About My Home!"
+    "lesson_title": "I Can Read and Write About My Home!",
+    "explanation_en": "The words bathroom and table complete the text in order."
   },
   {
     "grade": "P2",
@@ -4320,7 +4348,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "bed / chairs",
+    "explanation_ar": "الكلمتان bed وchairs بتكمل النص بالترتيب.",
     "mapping": {
       "status": "Actual official lesson skill corroborated: read and write home descriptions. Mixed source page placement alone is not the mapping authority."
     },
@@ -4347,7 +4375,8 @@
     "image": "",
     "requires_image": false,
     "alt": "",
-    "lesson_title": "I Can Read and Write About My Home!"
+    "lesson_title": "I Can Read and Write About My Home!",
+    "explanation_en": "The words bed and chairs complete the text in order."
   },
   {
     "grade": "P2",
@@ -4364,7 +4393,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "beach",
+    "explanation_ar": "الأطفال بيلعبوا على الشاطئ (beach).",
     "mapping": {
       "status": "Actual official lesson skill corroborated: ch-phonics vocabulary in context. Mixed source page placement alone is not the mapping authority."
     },
@@ -4375,7 +4404,8 @@
     "image": "",
     "requires_image": false,
     "alt": "",
-    "lesson_title": "Where Things Are in My House!"
+    "lesson_title": "Where Things Are in My House!",
+    "explanation_en": "Children play on the beach."
   },
   {
     "grade": "P2",
@@ -4392,7 +4422,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "cheese",
+    "explanation_ar": "الفطار المفضل هو الجبنة (cheese) واللبن.",
     "mapping": {
       "status": "Actual official lesson skill corroborated: ch-phonics vocabulary in context. Mixed source page placement alone is not the mapping authority."
     },
@@ -4403,7 +4433,8 @@
     "image": "",
     "requires_image": false,
     "alt": "",
-    "lesson_title": "Where Things Are in My House!"
+    "lesson_title": "Where Things Are in My House!",
+    "explanation_en": "Cheese goes with milk for breakfast; chin is a part of the face."
   },
   {
     "grade": "P2",
@@ -4420,7 +4451,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "True",
+    "explanation_ar": "True: الصورة فيها تلاجة (fridge).",
     "mapping": {
       "status": "Actual official lesson skill corroborated: home vocabulary recognition. Mixed source page placement alone is not the mapping authority."
     },
@@ -4431,7 +4462,8 @@
     "image": "p2-lessons-assets/img/moasser-p2-u6-l1-p194-picture-tf-1.jpg",
     "requires_image": true,
     "alt": "Original exercise picture",
-    "lesson_title": "My Home"
+    "lesson_title": "My Home",
+    "explanation_en": "True: the picture shows a fridge."
   },
   {
     "grade": "P2",
@@ -4448,7 +4480,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "True",
+    "explanation_ar": "True: الصورة فيها أكواب في المطبخ.",
     "mapping": {
       "status": "Actual official lesson skill corroborated: read and write home descriptions. Mixed source page placement alone is not the mapping authority."
     },
@@ -4459,7 +4491,8 @@
     "image": "p2-lessons-assets/img/moasser-p2-u6-l4-p187-picture-tf-1.jpg",
     "requires_image": true,
     "alt": "Original exercise picture",
-    "lesson_title": "I Can Read and Write About My Home!"
+    "lesson_title": "I Can Read and Write About My Home!",
+    "explanation_en": "True: the picture shows cups in the kitchen."
   },
   {
     "id": "orig-p2-u6l1-01",

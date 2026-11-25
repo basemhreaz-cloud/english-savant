@@ -853,7 +853,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "picture_needed": "",
-    "explanation_ar": "help / cooks / wash",
+    "explanation_ar": "الكلمات help وcooks وwash بتكمل النص: ساعد، يطبخ، يغسل، حسب الجمل.",
     "dialogue": [
       {
         "speaker": "",
@@ -879,7 +879,8 @@
           "wash"
         ]
       }
-    ]
+    ],
+    "explanation_en": "The word bank words fill the text in order: help, cooks, wash."
   },
   {
     "grade": "P2",
@@ -1299,12 +1300,13 @@
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "image": "",
     "requires_image": false,
-    "explanation_ar": "reads",
+    "explanation_ar": "My father reads a book: الفاعل مفرد غائب فنضيف s للفعل: reads.",
     "options": [
       "reads",
       "reading",
       "read"
-    ]
+    ],
+    "explanation_en": "My father is third person singular, so the present verb takes -s: reads."
   },
   {
     "grade": "P2",
@@ -1328,7 +1330,7 @@
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "image": "",
     "requires_image": false,
-    "explanation_ar": "Where is the bag?",
+    "explanation_ar": "الترتيب الصحيح لسؤال: Where is the bag? كلمة السؤال أولًا.",
     "words": [
       "the bag",
       "Where",
@@ -1343,7 +1345,8 @@
       "is",
       "the bag",
       "?"
-    ]
+    ],
+    "explanation_en": "A question starts with the question word: Where is the bag?"
   },
   {
     "grade": "P2",
@@ -1367,7 +1370,7 @@
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "image": "",
     "requires_image": false,
-    "explanation_ar": "Who cooks dinner at night?",
+    "explanation_ar": "الترتيب الصحيح: Who cooks dinner at night? كلمة Who أولًا.",
     "words": [
       "at night",
       "cooks",
@@ -1384,7 +1387,8 @@
       "dinner",
       "at night",
       "?"
-    ]
+    ],
+    "explanation_en": "The question word Who comes first: Who cooks dinner at night?"
   },
   {
     "grade": "P2",
@@ -1408,14 +1412,15 @@
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "image": "",
     "requires_image": false,
-    "explanation_ar": "Who washes the dishes?",
+    "explanation_ar": "الجملة بتبدأ بحرف كبير وتنتهي بعلامة استفهام لأنها سؤال: Who washes the dishes?",
     "accept": [
       "Who washes the dishes?"
     ],
     "case_sensitive": true,
     "punctuation_sensitive": true,
     "strict_case": true,
-    "strict_punctuation": true
+    "strict_punctuation": true,
+    "explanation_en": "A question starts with a capital letter and ends with a question mark."
   },
   {
     "grade": "P2",
@@ -1439,14 +1444,15 @@
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "image": "",
     "requires_image": false,
-    "explanation_ar": "They sit in the garden.",
+    "explanation_ar": "الجملة بتبدأ بحرف كبير وتنتهي بنقطة: They sit in the garden.",
     "accept": [
       "They sit in the garden."
     ],
     "case_sensitive": true,
     "punctuation_sensitive": true,
     "strict_case": true,
-    "strict_punctuation": true
+    "strict_punctuation": true,
+    "explanation_en": "A statement starts with a capital letter and ends with a full stop."
   },
   {
     "grade": "P2",
@@ -1470,14 +1476,15 @@
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "image": "",
     "requires_image": false,
-    "explanation_ar": "This is a lamp.",
+    "explanation_ar": "حرف كبير في أول الجملة ونقطة في الآخر: This is a lamp.",
     "accept": [
       "This is a lamp."
     ],
     "case_sensitive": true,
     "punctuation_sensitive": true,
     "strict_case": true,
-    "strict_punctuation": true
+    "strict_punctuation": true,
+    "explanation_en": "Capital letter at the start and a full stop at the end: This is a lamp."
   },
   {
     "grade": "P2",
@@ -1501,14 +1508,15 @@
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "image": "",
     "requires_image": false,
-    "explanation_ar": "This is my brother.",
+    "explanation_ar": "حرف كبير ونقطة: This is my brother.",
     "accept": [
       "This is my brother."
     ],
     "case_sensitive": true,
     "punctuation_sensitive": true,
     "strict_case": true,
-    "strict_punctuation": true
+    "strict_punctuation": true,
+    "explanation_en": "Capital letter and full stop: This is my brother."
   },
   {
     "grade": "P2",
@@ -1532,7 +1540,7 @@
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "image": "",
     "requires_image": false,
-    "explanation_ar": "mother / help / clean",
+    "explanation_ar": "الكلمات mother وhelp وclean بتكمل النص بالترتيب.",
     "word_bank": [
       "clean",
       "help",
@@ -1563,7 +1571,8 @@
           "clean"
         ]
       }
-    ]
+    ],
+    "explanation_en": "The words mother, help and clean complete the text in order."
   },
   {
     "grade": "P2",
@@ -1587,7 +1596,7 @@
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "image": "",
     "requires_image": false,
-    "explanation_ar": "washes / kitchen / dinner",
+    "explanation_ar": "الكلمات washes وkitchen وdinner بتكمل النص بالترتيب.",
     "word_bank": [
       "kitchen",
       "washes",
@@ -1618,7 +1627,8 @@
           "dinner"
         ]
       }
-    ]
+    ],
+    "explanation_en": "The words washes, kitchen and dinner complete the text in order."
   },
   {
     "grade": "P2",
@@ -1636,7 +1646,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "lamp",
+    "explanation_ar": "الصورة بتوضح أباجورة: lamp.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson1 Inside My Home",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -1656,7 +1666,8 @@
         270,
         1129
       ]
-    }
+    },
+    "explanation_en": "The picture shows a lamp."
   },
   {
     "grade": "P2",
@@ -1674,7 +1685,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "living room",
+    "explanation_ar": "الصورة بتوضح غرفة المعيشة: living room.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson1 Inside My Home",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -1694,7 +1705,8 @@
         464,
         1125
       ]
-    }
+    },
+    "explanation_en": "The picture shows a living room."
   },
   {
     "grade": "P2",
@@ -1712,7 +1724,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "bathroom",
+    "explanation_ar": "الصورة بتوضح حمام: bathroom.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson1 Inside My Home",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -1732,7 +1744,8 @@
         651,
         1125
       ]
-    }
+    },
+    "explanation_en": "The picture shows a bathroom."
   },
   {
     "grade": "P2",
@@ -1750,7 +1763,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "plate",
+    "explanation_ar": "الصورة بتوضح طبق: plate.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson1 Inside My Home",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -1770,7 +1783,8 @@
         832,
         1126
       ]
-    }
+    },
+    "explanation_en": "The picture shows a plate."
   },
   {
     "grade": "P2",
@@ -1788,7 +1802,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "bed",
+    "explanation_ar": "الصورة بتوضح سرير: bed.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson1 Inside My Home",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -1808,7 +1822,8 @@
         252,
         294
       ]
-    }
+    },
+    "explanation_en": "The picture shows a bed."
   },
   {
     "grade": "P2",
@@ -1826,7 +1841,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "door",
+    "explanation_ar": "الصورة بتوضح باب: door.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson1 Inside My Home",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -1846,7 +1861,8 @@
         407,
         308
       ]
-    }
+    },
+    "explanation_en": "The picture shows a door."
   },
   {
     "grade": "P2",
@@ -1864,7 +1880,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "window",
+    "explanation_ar": "الصورة بتوضح شباك: window.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson1 Inside My Home",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -1884,7 +1900,8 @@
         654,
         310
       ]
-    }
+    },
+    "explanation_en": "The picture shows a window."
   },
   {
     "grade": "P2",
@@ -1902,7 +1919,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "chair",
+    "explanation_ar": "الصورة بتوضح كرسي: chair.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson1 Inside My Home",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -1922,7 +1939,8 @@
         821,
         310
       ]
-    }
+    },
+    "explanation_en": "The picture shows a chair."
   },
   {
     "grade": "P2",
@@ -1940,7 +1958,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "table",
+    "explanation_ar": "منضدة بالإنجليزي table.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson2 What's in My Home?",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -1959,7 +1977,8 @@
         191,
         282
       ]
-    }
+    },
+    "explanation_en": "Table is the English word for منضدة."
   },
   {
     "grade": "P2",
@@ -1977,7 +1996,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "bed",
+    "explanation_ar": "سرير بالإنجليزي bed.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson2 What's in My Home?",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -1996,7 +2015,8 @@
         192,
         400
       ]
-    }
+    },
+    "explanation_en": "Bed is the English word for سرير."
   },
   {
     "grade": "P2",
@@ -2014,7 +2034,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "kitchen",
+    "explanation_ar": "مطبخ بالإنجليزي kitchen.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson2 What's in My Home?",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -2033,7 +2053,8 @@
         190,
         488
       ]
-    }
+    },
+    "explanation_en": "Kitchen is the English word for مطبخ."
   },
   {
     "grade": "P2",
@@ -2051,7 +2072,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "chair",
+    "explanation_ar": "كرسي بالإنجليزي chair.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson2 What's in My Home?",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -2070,7 +2091,8 @@
         167,
         598
       ]
-    }
+    },
+    "explanation_en": "Chair is the English word for كرسي."
   },
   {
     "grade": "P2",
@@ -2088,7 +2110,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "door",
+    "explanation_ar": "باب بالإنجليزي door.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson2 What's in My Home?",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -2107,7 +2129,8 @@
         181,
         737
       ]
-    }
+    },
+    "explanation_en": "Door is the English word for باب."
   },
   {
     "grade": "P2",
@@ -2125,7 +2148,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "bedroom",
+    "explanation_ar": "غرفة النوم بالإنجليزي bedroom.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson2 What's in My Home?",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -2144,7 +2167,8 @@
         193,
         837
       ]
-    }
+    },
+    "explanation_en": "Bedroom is the English word for غرفة النوم."
   },
   {
     "grade": "P2",
@@ -2162,7 +2186,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "watch",
+    "explanation_ar": "يشاهد بالإنجليزي watch.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson4 Actions at Home",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -2181,7 +2205,8 @@
         193,
         952
       ]
-    }
+    },
+    "explanation_en": "Watch is the English word for يشاهد."
   },
   {
     "grade": "P2",
@@ -2199,7 +2224,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "window",
+    "explanation_ar": "نافذة بالإنجليزي window.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson2 What's in My Home?",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -2218,7 +2243,8 @@
         803,
         280
       ]
-    }
+    },
+    "explanation_en": "Window is the English word for نافذة."
   },
   {
     "grade": "P2",
@@ -2236,7 +2262,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "hall",
+    "explanation_ar": "صالة بالإنجليزي hall.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson2 What's in My Home?",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -2255,7 +2281,8 @@
         804,
         388
       ]
-    }
+    },
+    "explanation_en": "Hall is the English word for صالة."
   },
   {
     "grade": "P2",
@@ -2273,7 +2300,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "lamp",
+    "explanation_ar": "أباجورة بالإنجليزي lamp.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson2 What's in My Home?",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -2292,7 +2319,8 @@
         813,
         512
       ]
-    }
+    },
+    "explanation_en": "Lamp is the English word for أباجورة."
   },
   {
     "grade": "P2",
@@ -2310,7 +2338,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "cup",
+    "explanation_ar": "فنجان بالإنجليزي cup.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson2 What's in My Home?",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -2329,7 +2357,8 @@
         803,
         605
       ]
-    }
+    },
+    "explanation_en": "Cup is the English word for فنجان."
   },
   {
     "grade": "P2",
@@ -2347,7 +2376,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "plate",
+    "explanation_ar": "طبق بالإنجليزي plate.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson2 What's in My Home?",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -2366,7 +2395,8 @@
         817,
         706
       ]
-    }
+    },
+    "explanation_en": "Plate is the English word for طبق."
   },
   {
     "grade": "P2",
@@ -2384,7 +2414,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "sit",
+    "explanation_ar": "يجلس بالإنجليزي sit.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson4 Actions at Home",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -2403,7 +2433,8 @@
         825,
         816
       ]
-    }
+    },
+    "explanation_en": "Sit is the English word for يجلس."
   },
   {
     "grade": "P2",
@@ -2421,7 +2452,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "My cat sits on the chair.",
+    "explanation_ar": "الترتيب الصحيح: My cat sits on the chair. الفاعل ثم الفعل ثم المكان.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson4 Actions at Home",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -2440,7 +2471,8 @@
     ],
     "accept": [
       "My cat sits on the chair."
-    ]
+    ],
+    "explanation_en": "The order is subject, verb, place: My cat sits on the chair."
   },
   {
     "grade": "P2",
@@ -2458,7 +2490,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "eat / cooks / help",
+    "explanation_ar": "الكلمات eat وcooks وhelp بتكمل النص بالترتيب.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson4 Actions at Home",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -2488,7 +2520,8 @@
           "help"
         ]
       }
-    ]
+    ],
+    "explanation_en": "The words eat, cooks and help complete the text in order."
   },
   {
     "grade": "P2",
@@ -2506,7 +2539,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "cook",
+    "explanation_ar": "حروف c-o-o-k بترتب كلمة cook (يطبخ).",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson4 Actions at Home",
       "status": "Official lesson mapping by assessed skill, not automatic mixed-review allocation"
@@ -2531,7 +2564,8 @@
         824,
         198
       ]
-    }
+    },
+    "explanation_en": "The letters make the word cook."
   },
   {
     "id": "moasser-p2-u5-l1-p152-match-2",
@@ -2549,7 +2583,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "dining room",
+    "explanation_ar": "الصورة بتوضح غرفة السفرة: dining room.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson1 Inside My Home",
       "status": "Actual official lesson skill corroborated: room/object vocabulary recognition. Mixed source page placement alone is not the mapping authority."
@@ -2563,7 +2597,8 @@
     "source_item_number": 2,
     "image": "p2-lessons-assets/img/moasser-p2-u5-l1-p152-match-2.jpg",
     "requires_image": true,
-    "alt": "Original exercise picture"
+    "alt": "Original exercise picture",
+    "explanation_en": "The picture shows a dining room."
   },
   {
     "id": "moasser-p2-u5-l2-p152-reading-1",
@@ -2581,7 +2616,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "False",
+    "explanation_ar": "False: النص بيقول إن غرفة المعيشة جميلة (nice)، مش وحشة.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson2 What's in My Home?",
       "status": "Actual official lesson skill corroborated: reading room descriptions. Mixed source page placement alone is not the mapping authority."
@@ -2597,7 +2632,8 @@
     "source_item_number": 1,
     "image": "",
     "requires_image": false,
-    "alt": ""
+    "alt": "",
+    "explanation_en": "False: the passage says the living room is nice, not bad."
   },
   {
     "id": "moasser-p2-u5-l2-p152-reading-2",
@@ -2615,7 +2651,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "True",
+    "explanation_ar": "True: النص بيقول فيه أباجورة في غرفة المعيشة.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson2 What's in My Home?",
       "status": "Actual official lesson skill corroborated: reading room descriptions. Mixed source page placement alone is not the mapping authority."
@@ -2631,7 +2667,8 @@
     "source_item_number": 2,
     "image": "",
     "requires_image": false,
-    "alt": ""
+    "alt": "",
+    "explanation_en": "True: the passage says there is a lamp in the living room."
   },
   {
     "id": "moasser-p2-u5-l3-p156-look-complete-1",
@@ -2649,7 +2686,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "bedroom",
+    "explanation_ar": "الكلمة bedroom هي اللي بتكمل: My favorite room is the bedroom.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson3 My Favorite Room",
       "status": "Actual official lesson skill corroborated: favorite-room language. Mixed source page placement alone is not the mapping authority."
@@ -2661,7 +2698,8 @@
     ],
     "image": "p2-lessons-assets/img/moasser-p2-u5-l3-p156-look-complete-1.jpg",
     "requires_image": true,
-    "alt": "Original exercise picture"
+    "alt": "Original exercise picture",
+    "explanation_en": "Bedroom completes the sentence: My favorite room is the bedroom."
   },
   {
     "id": "moasser-p2-u5-l4-p164-reorder-2",
@@ -2679,7 +2717,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "What do you do at home?",
+    "explanation_ar": "الترتيب الصحيح: What do you do at home? كلمة السؤال أولًا.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson4 Actions at Home",
       "status": "Actual official lesson skill corroborated: home-action reading/writing and sh phonics. Mixed source page placement alone is not the mapping authority."
@@ -2709,7 +2747,8 @@
     ],
     "image": "",
     "requires_image": false,
-    "alt": ""
+    "alt": "",
+    "explanation_en": "The question word comes first: What do you do at home?"
   },
   {
     "id": "moasser-p2-u5-l4-p171-reading-1",
@@ -2727,7 +2766,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "True",
+    "explanation_ar": "True: النص بيقول إن نسمة وأميرة بيساعدوا أمهم يوم الجمعة.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson4 Actions at Home",
       "status": "Actual official lesson skill corroborated: home-action reading/writing and sh phonics. Mixed source page placement alone is not the mapping authority."
@@ -2743,7 +2782,8 @@
     "source_item_number": 1,
     "image": "",
     "requires_image": false,
-    "alt": ""
+    "alt": "",
+    "explanation_en": "True: the passage says Nesma and Amira help their mom on Friday."
   },
   {
     "id": "moasser-p2-u5-l4-p171-reading-2",
@@ -2761,7 +2801,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "False",
+    "explanation_ar": "False: نسمة هي اللي بتغسل الأطباق وأميرة بتطبخ.",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson4 Actions at Home",
       "status": "Actual official lesson skill corroborated: home-action reading/writing and sh phonics. Mixed source page placement alone is not the mapping authority."
@@ -2777,7 +2817,8 @@
     "source_item_number": 2,
     "image": "",
     "requires_image": false,
-    "alt": ""
+    "alt": "",
+    "explanation_en": "False: Nesma washes the dishes and Amira cooks dinner."
   },
   {
     "grade": "P2",
@@ -2794,7 +2835,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "sheep",
+    "explanation_ar": "الصورة بتوضح خروف: sheep.",
     "mapping": {
       "status": "Actual official lesson skill corroborated: home-action reading/writing and sh phonics. Mixed source page placement alone is not the mapping authority."
     },
@@ -2804,7 +2845,8 @@
     "image": "p2-lessons-assets/img/moasser-p2-u5-l4-p161-picture-write-1.jpg",
     "requires_image": true,
     "alt": "Original exercise picture",
-    "lesson_title": "Actions at Home"
+    "lesson_title": "Actions at Home",
+    "explanation_en": "The picture shows a sheep."
   },
   {
     "grade": "P2",
@@ -2821,7 +2863,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "dish",
+    "explanation_ar": "الصورة بتوضح طبق: dish.",
     "mapping": {
       "status": "Actual official lesson skill corroborated: home-action reading/writing and sh phonics. Mixed source page placement alone is not the mapping authority."
     },
@@ -2831,7 +2873,8 @@
     "image": "p2-lessons-assets/img/moasser-p2-u5-l4-p161-picture-write-2.jpg",
     "requires_image": true,
     "alt": "Original exercise picture",
-    "lesson_title": "Actions at Home"
+    "lesson_title": "Actions at Home",
+    "explanation_en": "The picture shows a dish."
   },
   {
     "grade": "P2",
@@ -2848,7 +2891,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "fish",
+    "explanation_ar": "الصورة بتوضح سمكة: fish.",
     "mapping": {
       "status": "Actual official lesson skill corroborated: home-action reading/writing and sh phonics. Mixed source page placement alone is not the mapping authority."
     },
@@ -2858,7 +2901,8 @@
     "image": "p2-lessons-assets/img/moasser-p2-u5-l4-p161-picture-write-3.jpg",
     "requires_image": true,
     "alt": "Original exercise picture",
-    "lesson_title": "Actions at Home"
+    "lesson_title": "Actions at Home",
+    "explanation_en": "The picture shows a fish."
   },
   {
     "grade": "P2",
@@ -2875,7 +2919,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "sp",
+    "explanation_ar": "الحروف الناقصة sp بتكمل كلمة ship (سفينة).",
     "mapping": {
       "status": "Actual official lesson skill corroborated: home-action reading/writing and sh phonics. Mixed source page placement alone is not the mapping authority."
     },
@@ -2886,7 +2930,8 @@
     "image": "p2-lessons-assets/img/moasser-p2-u5-l4-p161-missing-letters-2.jpg",
     "requires_image": true,
     "alt": "Original exercise picture",
-    "lesson_title": "Actions at Home"
+    "lesson_title": "Actions at Home",
+    "explanation_en": "The missing letters sp make the word ship."
   },
   {
     "grade": "P2",
@@ -2903,7 +2948,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "o",
+    "explanation_ar": "الحرف الناقص o بيكمل كلمة shop (محل).",
     "mapping": {
       "status": "Actual official lesson skill corroborated: home-action reading/writing and sh phonics. Mixed source page placement alone is not the mapping authority."
     },
@@ -2914,7 +2959,8 @@
     "image": "p2-lessons-assets/img/moasser-p2-u5-l4-p161-missing-letters-3.jpg",
     "requires_image": true,
     "alt": "Original exercise picture",
-    "lesson_title": "Actions at Home"
+    "lesson_title": "Actions at Home",
+    "explanation_en": "The missing letter o makes the word shop."
   },
   {
     "grade": "P2",
@@ -2931,7 +2977,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "False",
+    "explanation_ar": "False: الصورة مش سمكة، دي طبق (dish).",
     "mapping": {
       "status": "Actual official lesson skill corroborated: home-action reading/writing and sh phonics. Mixed source page placement alone is not the mapping authority."
     },
@@ -2942,7 +2988,8 @@
     "image": "p2-lessons-assets/img/moasser-p2-u5-l4-p164-picture-tf-1.jpg",
     "requires_image": true,
     "alt": "Original exercise picture",
-    "lesson_title": "Actions at Home"
+    "lesson_title": "Actions at Home",
+    "explanation_en": "False: the picture shows a dish, not a fish."
   },
   {
     "grade": "P2",
@@ -2959,7 +3006,7 @@
     "source_change": "Original printed question and cues retained in interactive form",
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
-    "explanation_ar": "True",
+    "explanation_ar": "True: الصورة بتوضح طبق (dish).",
     "mapping": {
       "status": "Actual official lesson skill corroborated: home-action reading/writing and sh phonics. Mixed source page placement alone is not the mapping authority."
     },
@@ -2970,7 +3017,8 @@
     "image": "p2-lessons-assets/img/moasser-p2-u5-l4-p164-picture-tf-2.jpg",
     "requires_image": true,
     "alt": "Original exercise picture",
-    "lesson_title": "Actions at Home"
+    "lesson_title": "Actions at Home",
+    "explanation_en": "True: the picture shows a dish."
   },
   {
     "grade": "P2",
@@ -2988,7 +3036,7 @@
     "review_status": "Source pixels checked; semantic and lesson review complete for this release",
     "qa_status": "All correct responses and empty/wrong controls tested, 2026-11-23",
     "audio": false,
-    "explanation_ar": "brush",
+    "explanation_ar": "الحروف بترتب كلمة brush (فرشاة).",
     "mapping": {
       "ministry_lesson": "Unit5 Lesson4 Actions at Home",
       "status": "Official U5 printed p79 establishes brush among sh-phonics targets; Moasser printed p161 maps sh phonics to U5 L4. Question is original GEM p166, not an official-page reproduction.",
@@ -3015,7 +3063,8 @@
         365,
         183
       ]
-    }
+    },
+    "explanation_en": "The letters make the word brush."
   },
   {
     "id": "orig-p2-u5l1-01",

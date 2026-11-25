@@ -348,7 +348,7 @@
     "source_ref": "GEM English 2027 P2 Term 1, Drive file 1KAAizXuUNzNpHUH15Rou1WCjVQ8It492, viewer PDF p206 (printed p206, offset 0), General Practice on Unit (3), exercise 4 bank_fill, item 1",
     "type": "dialogue",
     "prompt": "Complete the numbered blanks using the word bank.",
-    "explanation_ar": "1) I draw a picture. 2) I play with my friends. 3) I write in my notebook.",
+    "explanation_ar": "الإجابات: 1) picture 2) friends 3) write. الجمل: بأرسم صورة، بألعب مع أصحابي، بكتب في كراستي.",
     "source_change": "3 blanks kept as one item with full word box",
     "key_status": "teacher-derived from picture/grammar, no printed key; not publisher-validated",
     "audio": false,
@@ -390,7 +390,8 @@
           "write"
         ]
       }
-    ]
+    ],
+    "explanation_en": "Answers: 1) picture 2) friends 3) write. I draw a picture, I play with my friends, I write in my notebook."
   },
   {
     "grade": "P2",
@@ -748,7 +749,7 @@
     "type": "reorder",
     "prompt": "Put the words in order.",
     "answer": "I read a story.",
-    "explanation_ar": "I read a story.",
+    "explanation_ar": "الترتيب الصحيح: I read a story. الفاعل ثم الفعل ثم المفعول.",
     "source_change": "none",
     "key_status": "teacher-derived from picture/grammar, no printed key; not publisher-validated",
     "audio": false,
@@ -770,7 +771,8 @@
     ],
     "accept": [
       "I read a story."
-    ]
+    ],
+    "explanation_en": "The order is subject, verb, object: I read a story."
   },
   {
     "grade": "P2",
@@ -782,7 +784,7 @@
     "type": "reorder",
     "prompt": "Put the words in order.",
     "answer": "I play with my friends.",
-    "explanation_ar": "I play with my friends.",
+    "explanation_ar": "الترتيب الصحيح: I play with my friends.",
     "source_change": "none",
     "key_status": "teacher-derived from picture/grammar, no printed key; not publisher-validated",
     "audio": false,
@@ -804,7 +806,8 @@
     ],
     "accept": [
       "I play with my friends."
-    ]
+    ],
+    "explanation_en": "The order is subject, verb, then with + noun: I play with my friends."
   },
   {
     "grade": "P2",

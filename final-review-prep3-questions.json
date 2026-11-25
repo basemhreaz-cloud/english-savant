@@ -21,7 +21,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "mirror"
+     "answer": "mirror",
+     "explanation_ar": "mirror يعني مراية، بنبص فيها قبل ما نخرج.",
+     "explanation_en": "A mirror is what you look into before going out."
     },
     {
      "item_id": "Prep3:s0:i1",
@@ -35,7 +37,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "shy"
+     "answer": "shy",
+     "explanation_ar": "عكس outgoing (اجتماعي) هو shy يعني خجول.",
+     "explanation_en": "The opposite of outgoing is shy."
     },
     {
      "item_id": "Prep3:s0:i2",
@@ -49,7 +53,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "in"
+     "answer": "in",
+     "explanation_ar": "in the front row يعني في الصف الأمامي.",
+     "explanation_en": "In the front row is the phrase."
     },
     {
      "item_id": "Prep3:s0:i3",
@@ -63,7 +69,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "hasn't been corrected"
+     "answer": "hasn't been corrected",
+     "explanation_ar": "الواجب بيتصحح، فنستخدم المبني للمجهول: hasn't been corrected.",
+     "explanation_en": "The homework receives the action, so we use the passive: hasn't been corrected."
     },
     {
      "item_id": "Prep3:s0:i4",
@@ -77,7 +85,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "discovery"
+     "answer": "discovery",
+     "explanation_ar": "Self discovery يعني اكتشاف الذات.",
+     "explanation_en": "Self discovery means learning who you are."
     },
     {
      "item_id": "Prep3:s0:i5",
@@ -91,7 +101,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "shape"
+     "answer": "shape",
+     "explanation_ar": "beliefs تشكّل شخصيتي: shape.",
+     "explanation_en": "Beliefs shape my character."
     },
     {
      "item_id": "Prep3:s0:i6",
@@ -105,7 +117,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "adjusting"
+     "answer": "adjusting",
+     "explanation_ar": "adjusting his clothes يعني بيظبّط هدومه قدام المراية.",
+     "explanation_en": "Adjusting means fixing his clothes."
     },
     {
      "item_id": "Prep3:s0:i7",
@@ -119,7 +133,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "im"
+     "answer": "im",
+     "explanation_ar": "عكس patient هو impatient بالبادئة im.",
+     "explanation_en": "Impatient takes the prefix im."
     },
     {
      "item_id": "Prep3:s0:i8",
@@ -133,7 +149,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "depressed"
+     "answer": "depressed",
+     "explanation_ar": "عكس delighted هو depressed.",
+     "explanation_en": "The opposite of delighted is depressed."
     },
     {
      "item_id": "Prep3:s0:i9",
@@ -146,7 +164,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "make"
+     "answer": "make",
+     "explanation_ar": "make a change يعني يعمل تغيير.",
+     "explanation_en": "Make a change is the phrase."
     },
     {
      "item_id": "Prep3:s0:i10",
@@ -160,7 +180,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "communication"
+     "answer": "communication",
+     "explanation_ar": "communication يعني التواصل، مفتاح العلاقات.",
+     "explanation_en": "Good communication is the key to relationships."
     },
     {
      "item_id": "Prep3:s0:i11",
@@ -174,7 +196,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "resolve"
+     "answer": "resolve",
+     "explanation_ar": "resolve problems يعني نحل المشاكل.",
+     "explanation_en": "Resolve means solve."
     },
     {
      "item_id": "Prep3:s0:i12",
@@ -188,7 +212,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Distant"
+     "answer": "Distant",
+     "explanation_ar": "Distant يعني بعيد عاطفيا أو جسديا.",
+     "explanation_en": "Distant means not close."
     },
     {
      "item_id": "Prep3:s0:i13",
@@ -202,7 +228,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "prefix"
+     "answer": "prefix",
+     "explanation_ar": "in بادئة prefix بتتحط في أول الكلمة.",
+     "explanation_en": "A prefix goes at the start of a word."
     },
     {
      "item_id": "Prep3:s0:i14",
@@ -220,7 +248,9 @@
      "accept": [
       "gained",
       "earned"
-     ]
+     ],
+     "explanation_ar": "gained fame يعني اكتسب الشهرة.",
+     "explanation_en": "Gained fame is the phrase."
     },
     {
      "item_id": "Prep3:s0:i15",
@@ -234,7 +264,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "take"
+     "answer": "take",
+     "explanation_ar": "take responsibility يعني يتحمل المسؤولية.",
+     "explanation_en": "Take responsibility is the phrase."
     },
     {
      "item_id": "Prep3:s0:i16",
@@ -248,7 +280,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "instant"
+     "answer": "instant",
+     "explanation_ar": "instant message يعني رسالة فورية.",
+     "explanation_en": "An instant message arrives at once."
     },
     {
      "item_id": "Prep3:s0:i17",
@@ -262,7 +296,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "connection"
+     "answer": "connection",
+     "explanation_ar": "internet connection يعني اتصال الإنترنت.",
+     "explanation_en": "Internet connection is the phrase."
     },
     {
      "item_id": "Prep3:s0:i18",
@@ -276,7 +312,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "initiative"
+     "answer": "initiative",
+     "explanation_ar": "initiative يعني مبادرة لما بدأ المشروع لوحده.",
+     "explanation_en": "Initiative means starting something by yourself."
     },
     {
      "item_id": "Prep3:s0:i19",
@@ -290,7 +328,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "donation"
+     "answer": "donation",
+     "explanation_ar": "donation يعني تبرع للأسر الفقيرة.",
+     "explanation_en": "A donation is money or help given to charity."
     },
     {
      "item_id": "Prep3:s0:i20",
@@ -304,7 +344,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "disappointed"
+     "answer": "disappointed",
+     "explanation_ar": "فشلت في الامتحان فحست بـ disappointed.",
+     "explanation_en": "Failing makes her disappointed."
     },
     {
      "item_id": "Prep3:s0:i21",
@@ -318,7 +360,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "climate"
+     "answer": "climate",
+     "explanation_ar": "climate يعني مناخ مصر الدافي المشمس.",
+     "explanation_en": "Climate means the usual weather."
     },
     {
      "item_id": "Prep3:s0:i22",
@@ -332,7 +376,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "recognize"
+     "answer": "recognize",
+     "explanation_ar": "recognize يعني تعرّف على صاحبتي.",
+     "explanation_en": "Recognize means know who someone is."
     },
     {
      "item_id": "Prep3:s0:i23",
@@ -346,7 +392,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "powerful"
+     "answer": "powerful",
+     "explanation_ar": "العاصفة powerful يعني قوية ودمرت بيوت.",
+     "explanation_en": "A powerful storm destroys houses."
     },
     {
      "item_id": "Prep3:s0:i24",
@@ -360,7 +408,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "make"
+     "answer": "make",
+     "explanation_ar": "make decisions يعني ياخد قرارات.",
+     "explanation_en": "Make decisions is the phrase."
     },
     {
      "item_id": "Prep3:s0:i25",
@@ -374,7 +424,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "dis"
+     "answer": "dis",
+     "explanation_ar": "عكس abled هو disabled بالبادئة dis.",
+     "explanation_en": "The prefix dis gives disabled."
     },
     {
      "item_id": "Prep3:s0:i26",
@@ -388,7 +440,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "the same"
+     "answer": "the same",
+     "explanation_ar": "AI والروبوتات مش the same يعني مش نفس الحاجة.",
+     "explanation_en": "They are different, so not the same."
     },
     {
      "item_id": "Prep3:s0:i27",
@@ -402,7 +456,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "normal"
+     "answer": "normal",
+     "explanation_ar": "عكس abnormal هو normal.",
+     "explanation_en": "The opposite of abnormal is normal."
     },
     {
      "item_id": "Prep3:s0:i28",
@@ -416,7 +472,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "friendly"
+     "answer": "friendly",
+     "explanation_ar": "مرادف kind هو friendly.",
+     "explanation_en": "A synonym of kind is friendly."
     },
     {
      "item_id": "Prep3:s0:i29",
@@ -430,7 +488,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "synonyms"
+     "answer": "synonyms",
+     "explanation_ar": "creative وimaginative مترادفتين synonyms.",
+     "explanation_en": "Creative and imaginative are synonyms."
     },
     {
      "item_id": "Prep3:s0:i30",
@@ -444,7 +504,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "clever"
+     "answer": "clever",
+     "explanation_ar": "clever يعني ذكي بيفكر بحرص.",
+     "explanation_en": "Clever means smart and careful."
     },
     {
      "item_id": "Prep3:s0:i31",
@@ -458,7 +520,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "useful"
+     "answer": "useful",
+     "explanation_ar": "useful يعني مفيد لأن القراءة بتزود المعرفة.",
+     "explanation_en": "Reading is useful because it gives knowledge."
     },
     {
      "item_id": "Prep3:s0:i32",
@@ -472,7 +536,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "spend"
+     "answer": "spend",
+     "explanation_ar": "spend time يعني نقضي وقت، ومينفعش نضيعه في الألعاب.",
+     "explanation_en": "We spend time; we should not spend too much on games."
     },
     {
      "item_id": "Prep3:s0:i33",
@@ -486,7 +552,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "balance"
+     "answer": "balance",
+     "explanation_ar": "balance يعني توازن بين المذاكرة والراحة.",
+     "explanation_en": "Balance between study and rest."
     },
     {
      "item_id": "Prep3:s0:i34",
@@ -500,7 +568,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "develop"
+     "answer": "develop",
+     "explanation_ar": "develop medicines يعني يطوّروا أدوية.",
+     "explanation_en": "Develop means create and improve."
     },
     {
      "item_id": "Prep3:s0:i35",
@@ -514,7 +584,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "weak"
+     "answer": "weak",
+     "explanation_ar": "weak يعني ضعيف مش قادر يشيل الوزن.",
+     "explanation_en": "Weak means not strong."
     },
     {
      "item_id": "Prep3:s0:i36",
@@ -528,7 +600,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "On"
+     "answer": "On",
+     "explanation_ar": "On the other hand يعني من ناحية تانية.",
+     "explanation_en": "On the other hand is the phrase."
     },
     {
      "item_id": "Prep3:s0:i37",
@@ -542,7 +616,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "modern"
+     "answer": "modern",
+     "explanation_ar": "modern world يعني عالم حديث.",
+     "explanation_en": "Modern means up to date."
     },
     {
      "item_id": "Prep3:s0:i38",
@@ -556,7 +632,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "focus"
+     "answer": "focus",
+     "explanation_ar": "focus يعني يركّز، والشاشات بتشتت.",
+     "explanation_en": "Screens make it harder to focus."
     },
     {
      "item_id": "Prep3:s0:i39",
@@ -570,7 +648,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "-ed"
+     "answer": "-ed",
+     "explanation_ar": "excited صفة بتنتهي بـ -ed للإحساس.",
+     "explanation_en": "-ed adjectives describe feelings: excited."
     },
     {
      "item_id": "Prep3:s0:i40",
@@ -584,7 +664,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "on"
+     "answer": "on",
+     "explanation_ar": "working on projects يعني بتشتغل على مشاريع.",
+     "explanation_en": "Work on is the phrase."
     },
     {
      "item_id": "Prep3:s0:i41",
@@ -598,7 +680,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "was having"
+     "answer": "was having",
+     "explanation_ar": "حدث طويل في الماضي قطعه صوت: was having.",
+     "explanation_en": "A long past action interrupted: was having."
     },
     {
      "item_id": "Prep3:s0:i42",
@@ -612,7 +696,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "mustn't"
+     "answer": "mustn't",
+     "explanation_ar": "mustn't يعني ممنوع نرمي زبالة في البحر.",
+     "explanation_en": "Mustn't means it is forbidden."
     },
     {
      "item_id": "Prep3:s0:i43",
@@ -626,7 +712,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "boring"
+     "answer": "boring",
+     "explanation_ar": "عكس interesting هو boring.",
+     "explanation_en": "The opposite of interesting is boring."
     },
     {
      "item_id": "Prep3:s0:i44",
@@ -640,7 +728,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "explore"
+     "answer": "explore",
+     "explanation_ar": "explore space يعني يستكشفوا الفضا.",
+     "explanation_en": "Explore means discover."
     },
     {
      "item_id": "Prep3:s0:i45",
@@ -654,7 +744,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "backpack"
+     "answer": "backpack",
+     "explanation_ar": "backpack يعني شنطة ضهر كبيرة.",
+     "explanation_en": "A backpack carries books and a laptop."
     },
     {
      "item_id": "Prep3:s0:i46",
@@ -668,7 +760,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "attractive"
+     "answer": "attractive",
+     "explanation_ar": "attractive يعني جذاب بتصميمه الحديث.",
+     "explanation_en": "Attractive means pleasing to look at."
     },
     {
      "item_id": "Prep3:s0:i47",
@@ -682,7 +776,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "ability"
+     "answer": "ability",
+     "explanation_ar": "ability يعني قدرة يتعلم.",
+     "explanation_en": "Ability means being able to do something."
     },
     {
      "item_id": "Prep3:s0:i48",
@@ -696,7 +792,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "planned"
+     "answer": "planned",
+     "explanation_ar": "planned a trip يعني خطط لرحلة.",
+     "explanation_en": "Planned fits arranging a trip."
     },
     {
      "item_id": "Prep3:s0:i49",
@@ -710,7 +808,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "noun"
+     "answer": "noun",
+     "explanation_ar": "الإضافة ity بتحوّل الصفة لاسم: creativity.",
+     "explanation_en": "The suffix ity makes a noun: creativity."
     },
     {
      "item_id": "Prep3:s0:i50",
@@ -724,7 +824,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "solutions"
+     "answer": "solutions",
+     "explanation_ar": "solutions يعني حلول للمشكلة.",
+     "explanation_en": "We think of solutions to solve a problem."
     },
     {
      "item_id": "Prep3:s0:i51",
@@ -738,7 +840,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "-ing"
+     "answer": "-ing",
+     "explanation_ar": "understanding صفة بتنتهي بـ -ing.",
+     "explanation_en": "The adjective is understanding."
     },
     {
      "item_id": "Prep3:s0:i52",
@@ -752,7 +856,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "beautiful"
+     "answer": "beautiful",
+     "explanation_ar": "attractive يعني beautiful جميل.",
+     "explanation_en": "Attractive means beautiful."
     },
     {
      "item_id": "Prep3:s0:i53",
@@ -766,7 +872,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "agriculture"
+     "answer": "agriculture",
+     "explanation_ar": "agriculture يعني زراعة.",
+     "explanation_en": "Farmers work in agriculture."
     },
     {
      "item_id": "Prep3:s0:i54",
@@ -780,7 +888,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "quit"
+     "answer": "quit",
+     "explanation_ar": "quit يعني يسيب الشغل.",
+     "explanation_en": "Quit means leave a job."
     },
     {
      "item_id": "Prep3:s0:i55",
@@ -794,7 +904,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "dedicated"
+     "answer": "dedicated",
+     "explanation_ar": "dedicated يعني مخلصة لدراستها.",
+     "explanation_en": "Dedicated means committed."
     },
     {
      "item_id": "Prep3:s0:i56",
@@ -808,7 +920,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "creative"
+     "answer": "creative",
+     "explanation_ar": "creative يعني مبدع بأفكار جديدة.",
+     "explanation_en": "Creative means new ideas."
     },
     {
      "item_id": "Prep3:s0:i57",
@@ -822,7 +936,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "practical"
+     "answer": "practical",
+     "explanation_ar": "practical يعني عملي بأدوات بسيطة.",
+     "explanation_en": "Practical means useful in real life."
     },
     {
      "item_id": "Prep3:s0:i58",
@@ -836,7 +952,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "explain"
+     "answer": "explain",
+     "explanation_ar": "explain يعني يشرح المصطلحات.",
+     "explanation_en": "Explain terms so others understand."
     },
     {
      "item_id": "Prep3:s0:i59",
@@ -850,7 +968,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "view"
+     "answer": "view",
+     "explanation_ar": "sea view يعني منظر البحر.",
+     "explanation_en": "View means what you can see."
     },
     {
      "item_id": "Prep3:s0:i60",
@@ -864,7 +984,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "useful"
+     "answer": "useful",
+     "explanation_ar": "useful ways يعني طرق مفيدة.",
+     "explanation_en": "Useful ways are helpful ways."
     },
     {
      "item_id": "Prep3:s0:i61",
@@ -878,7 +1000,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Don't"
+     "answer": "Don't",
+     "explanation_ar": "Don't open the window لأن الجو برد.",
+     "explanation_en": "Don't gives a negative order because it is cold."
     },
     {
      "item_id": "Prep3:s0:i62",
@@ -892,7 +1016,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "try"
+     "answer": "try",
+     "explanation_ar": "Never + فعل مصدر: try.",
+     "explanation_en": "Never + base verb: try."
     },
     {
      "item_id": "Prep3:s0:i63",
@@ -906,7 +1032,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Empathy"
+     "answer": "Empathy",
+     "explanation_ar": "Empathy يعني التعاطف.",
+     "explanation_en": "Empathy is understanding someone else's feelings."
     },
     {
      "item_id": "Prep3:s0:i64",
@@ -920,7 +1048,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "various"
+     "answer": "various",
+     "explanation_ar": "various يعني متنوعة.",
+     "explanation_en": "Various means many different."
     },
     {
      "item_id": "Prep3:s0:i65",
@@ -934,7 +1064,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "ly"
+     "answer": "ly",
+     "explanation_ar": "الإضافة ly بتحوّل critical لظرف: critically.",
+     "explanation_en": "The suffix ly makes an adverb."
     },
     {
      "item_id": "Prep3:s0:i66",
@@ -948,7 +1080,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "debate"
+     "answer": "debate",
+     "explanation_ar": "debate يعني مناظرة، وهو بيثبت إنه صح.",
+     "explanation_en": "A debate is when people argue their views."
     },
     {
      "item_id": "Prep3:s0:i67",
@@ -962,7 +1096,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "moral"
+     "answer": "moral",
+     "explanation_ar": "moral يعني العبرة من القصة.",
+     "explanation_en": "A moral is the lesson of a story."
     },
     {
      "item_id": "Prep3:s0:i68",
@@ -976,7 +1112,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "honestly"
+     "answer": "honestly",
+     "explanation_ar": "honestly ظرف بعد spoke.",
+     "explanation_en": "After spoke we need an adverb: honestly."
     },
     {
      "item_id": "Prep3:s0:i69",
@@ -990,7 +1128,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "unfair"
+     "answer": "unfair",
+     "explanation_ar": "unfair يعني ظلم تلوم طالب واحد.",
+     "explanation_en": "It is unfair to blame one student."
     },
     {
      "item_id": "Prep3:s0:i70",
@@ -1004,7 +1144,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "stuck"
+     "answer": "stuck",
+     "explanation_ar": "stuck in traffic يعني علق في الزحمة.",
+     "explanation_en": "Stuck means could not move."
     },
     {
      "item_id": "Prep3:s0:i71",
@@ -1018,7 +1160,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "discussion"
+     "answer": "discussion",
+     "explanation_ar": "discussion يعني نقاش.",
+     "explanation_en": "A discussion is a talk about a topic."
     },
     {
      "item_id": "Prep3:s0:i72",
@@ -1032,7 +1176,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "recommendations"
+     "answer": "recommendations",
+     "explanation_ar": "recommendations يعني نصايح.",
+     "explanation_en": "Recommendations are advice."
     },
     {
      "item_id": "Prep3:s0:i73",
@@ -1046,7 +1192,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "confident"
+     "answer": "confident",
+     "explanation_ar": "confident يعني واثقة ومرتاحة.",
+     "explanation_en": "Confident goes with relaxed."
     },
     {
      "item_id": "Prep3:s0:i74",
@@ -1060,7 +1208,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "angry"
+     "answer": "angry",
+     "explanation_ar": "angry يعني زعلان لأخوه كسر لعبته.",
+     "explanation_en": "He became angry."
     },
     {
      "item_id": "Prep3:s0:i75",
@@ -1074,7 +1224,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "plants"
+     "answer": "plants",
+     "explanation_ar": "plants يعني نباتات بتدّي هوا نضيف.",
+     "explanation_en": "Plants give fresh air."
     },
     {
      "item_id": "Prep3:s0:i76",
@@ -1088,7 +1240,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "benches"
+     "answer": "benches",
+     "explanation_ar": "benches يعني دكك للجلوس.",
+     "explanation_en": "Benches are seats in a park."
     },
     {
      "item_id": "Prep3:s0:i77",
@@ -1102,7 +1256,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "spaces"
+     "answer": "spaces",
+     "explanation_ar": "open spaces يعني مساحات مفتوحة.",
+     "explanation_en": "Open spaces is the phrase."
     },
     {
      "item_id": "Prep3:s0:i78",
@@ -1116,7 +1272,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "growth"
+     "answer": "growth",
+     "explanation_ar": "growth يعني نمو الجسم.",
+     "explanation_en": "Healthy growth of the body."
     },
     {
      "item_id": "Prep3:s0:i79",
@@ -1130,7 +1288,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "she had to apply"
+     "answer": "she had to apply",
+     "explanation_ar": "الكلام غير مباشر في الماضي: why she had to apply.",
+     "explanation_en": "Reported question: why she had to apply (statement order, past)."
     },
     {
      "item_id": "Prep3:s0:i80",
@@ -1144,7 +1304,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "said"
+     "answer": "said",
+     "explanation_ar": "said that يعني قالت إنها محتاجة.",
+     "explanation_en": "Said that + clause."
     },
     {
      "item_id": "Prep3:s0:i81",
@@ -1158,7 +1320,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "agriculture"
+     "answer": "agriculture",
+     "explanation_ar": "agriculture يعني زراعة.",
+     "explanation_en": "Farmers work in agriculture."
     },
     {
      "item_id": "Prep3:s0:i82",
@@ -1172,7 +1336,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "quit"
+     "answer": "quit",
+     "explanation_ar": "quit يعني يسيب الشغل.",
+     "explanation_en": "Quit means leave a job."
     },
     {
      "item_id": "Prep3:s0:i83",
@@ -1186,7 +1352,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Don't"
+     "answer": "Don't",
+     "explanation_ar": "Don't hesitate يعني متتردّدش.",
+     "explanation_en": "Don't hesitate is a negative order."
     },
     {
      "item_id": "Prep3:s0:i84",
@@ -1200,7 +1368,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "Save"
+     "answer": "Save",
+     "explanation_ar": "Save + اسم: أمر بالفعل المصدر.",
+     "explanation_en": "An order uses the base verb: Save."
     },
     {
      "item_id": "Prep3:s0:i85",
@@ -1214,7 +1384,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "proud"
+     "answer": "proud",
+     "explanation_ar": "proud of يعني فخورين بماضيهم.",
+     "explanation_en": "Proud of their past."
     },
     {
      "item_id": "Prep3:s0:i86",
@@ -1228,7 +1400,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "checked",
-     "answer": "eco-friendly"
+     "answer": "eco-friendly",
+     "explanation_ar": "eco-friendly يعني صديقة للبيئة.",
+     "explanation_en": "Solar energy is eco-friendly."
     }
    ]
   },
@@ -1275,7 +1449,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s1:i1",
@@ -1325,7 +1501,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s1:i2",
@@ -1365,7 +1543,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s1:i3",
@@ -1405,7 +1585,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s1:i4",
@@ -1445,7 +1627,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s1:i5",
@@ -1485,7 +1669,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s1:i6",
@@ -1528,7 +1714,9 @@
      "review_status": "partially_held",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s1:i7",
@@ -1578,7 +1766,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s1:i8",
@@ -1618,7 +1808,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s1:i9",
@@ -1660,7 +1852,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s1:i10",
@@ -1702,7 +1896,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s1:i11",
@@ -1742,7 +1938,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s1:i12",
@@ -1782,7 +1980,9 @@
      "review_status": "model_answer",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+     "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     }
    ]
   },
@@ -1808,7 +2008,9 @@
       "confidence",
       "abilities",
       "strengths"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) resilience | 2) confidence | 3) abilities | 4) strengths",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) resilience | 2) confidence | 3) abilities | 4) strengths"
     },
     {
      "item_id": "Prep3:s2:i1",
@@ -1822,7 +2024,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s2:i2",
@@ -1842,7 +2046,9 @@
       "climate",
       "system",
       "kinds"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) plan | 2) climate | 3) system | 4) kinds",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) plan | 2) climate | 3) system | 4) kinds"
     },
     {
      "item_id": "Prep3:s2:i3",
@@ -1861,7 +2067,9 @@
       "must",
       "activities",
       "balance"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) screens | 2) must | 3) activities | 4) balance",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) screens | 2) must | 3) activities | 4) balance"
     },
     {
      "item_id": "Prep3:s2:i4",
@@ -1880,7 +2088,9 @@
       "tired",
       "affect",
       "balance"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) spend | 2) tired | 3) affect | 4) balance",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) spend | 2) tired | 3) affect | 4) balance"
     },
     {
      "item_id": "Prep3:s2:i5",
@@ -1899,7 +2109,9 @@
       "smart",
       "develop",
       "waste"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) control | 2) smart | 3) develop | 4) waste",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) control | 2) smart | 3) develop | 4) waste"
     },
     {
      "item_id": "Prep3:s2:i6",
@@ -1922,7 +2134,9 @@
       "connected",
       "protect",
       "citizens"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) important | 2) culture | 3) museums | 4) connected | 5) protect | 6) citizens",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) important | 2) culture | 3) museums | 4) connected | 5) protect | 6) citizens"
     },
     {
      "item_id": "Prep3:s2:i7",
@@ -1942,7 +2156,9 @@
       "solution",
       "characters",
       "critically"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) empathy | 2) solution | 3) characters | 4) critically",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) empathy | 2) solution | 3) characters | 4) critically"
     },
     {
      "item_id": "Prep3:s2:i8",
@@ -1961,7 +2177,9 @@
       "confused",
       "understand",
       "confident"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) challenge | 2) confused | 3) understand | 4) confident",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) challenge | 2) confused | 3) understand | 4) confident"
     },
     {
      "item_id": "Prep3:s2:i9",
@@ -1981,7 +2199,9 @@
       "adventure",
       "entertain",
       "spark"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) told | 2) adventure | 3) entertain | 4) spark",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) told | 2) adventure | 3) entertain | 4) spark"
     },
     {
      "item_id": "Prep3:s2:i10",
@@ -2000,7 +2220,9 @@
       "make sense",
       "perfect",
       "process"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) come up with | 2) make sense | 3) perfect | 4) process",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) come up with | 2) make sense | 3) perfect | 4) process"
     },
     {
      "item_id": "Prep3:s2:i11",
@@ -2019,7 +2241,9 @@
       "unfair",
       "practical",
       "confident"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) honest | 2) unfair | 3) practical | 4) confident",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) honest | 2) unfair | 3) practical | 4) confident"
     },
     {
      "item_id": "Prep3:s2:i12",
@@ -2038,7 +2262,9 @@
       "characters",
       "setting",
       "moral"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) interesting | 2) characters | 3) setting | 4) moral",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) interesting | 2) characters | 3) setting | 4) moral"
     },
     {
      "item_id": "Prep3:s2:i13",
@@ -2057,7 +2283,9 @@
       "stream",
       "bridge",
       "across"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) hungry | 2) stream | 3) bridge | 4) across",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) hungry | 2) stream | 3) bridge | 4) across"
     },
     {
      "item_id": "Prep3:s2:i14",
@@ -2076,7 +2304,9 @@
       "enjoy",
       "points",
       "conflicts"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) powerful | 2) enjoy | 3) points | 4) conflicts",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) powerful | 2) enjoy | 3) points | 4) conflicts"
     }
    ]
   },
@@ -2107,7 +2337,9 @@
       "responded",
       "aware",
       "conflicts"
-     ]
+     ],
+     "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) sparked | 2) responded | 3) aware | 4) conflicts",
+     "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) sparked | 2) responded | 3) aware | 4) conflicts"
     }
    ]
   },
@@ -2127,7 +2359,9 @@
       "hasn't arrived",
       "has not arrived"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (arrive) مش مناسبة لمعنى الجملة. الكلمة الصح هي hasn't arrived علشان الجملة تبقى منطقية وصحيحة: She (arrive) home yet.",
+     "explanation_en": "The word in brackets (arrive) does not fit the meaning of the sentence. The correct word is hasn't arrived, which makes the sentence true and logical: She (arrive) home yet."
     },
     {
      "item_id": "Prep3:s4:i1",
@@ -2139,7 +2373,9 @@
      "accept": [
       "have been tidied"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (tidy) مش مناسبة لمعنى الجملة. الكلمة الصح هي have been tidied علشان الجملة تبقى منطقية وصحيحة: The rooms (tidy) by Malak already.",
+     "explanation_en": "The word in brackets (tidy) does not fit the meaning of the sentence. The correct word is have been tidied, which makes the sentence true and logical: The rooms (tidy) by Malak already."
     },
     {
      "item_id": "Prep3:s4:i2",
@@ -2151,7 +2387,9 @@
      "accept": [
       "Have"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (Has) مش مناسبة لمعنى الجملة. الكلمة الصح هي Have علشان الجملة تبقى منطقية وصحيحة: (Has) you ever swum in the river?",
+     "explanation_en": "The word in brackets (Has) does not fit the meaning of the sentence. The correct word is Have, which makes the sentence true and logical: (Has) you ever swum in the river?"
     },
     {
      "item_id": "Prep3:s4:i3",
@@ -2163,7 +2401,9 @@
      "accept": [
       "have been cut"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (cut) مش مناسبة لمعنى الجملة. الكلمة الصح هي have been cut علشان الجملة تبقى منطقية وصحيحة: The trees (cut) lately.",
+     "explanation_en": "The word in brackets (cut) does not fit the meaning of the sentence. The correct word is have been cut, which makes the sentence true and logical: The trees (cut) lately."
     },
     {
      "item_id": "Prep3:s4:i4",
@@ -2175,7 +2415,9 @@
      "accept": [
       "confident"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: confident. الجملة: You should be (confide) of your abilities.",
+     "explanation_en": "After the helper verb we use the base verb with no s or ed: confident. The sentence is: You should be (confide) of your abilities."
     },
     {
      "item_id": "Prep3:s4:i5",
@@ -2187,7 +2429,9 @@
      "accept": [
       "Kindness"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (kind) مش بالشكل الصح هنا. الشكل الصح هو Kindness. الجملة: (kind) is a good value with all people.",
+     "explanation_en": "The word in brackets (kind) is not in the right form here. The correct form is Kindness. The sentence is: (kind) is a good value with all people."
     },
     {
      "item_id": "Prep3:s4:i6",
@@ -2199,7 +2443,9 @@
      "accept": [
       "strength"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (strong) مش بالشكل الصح هنا. الشكل الصح هو strength. الجملة: He showed us that being different is his (strong).",
+     "explanation_en": "The word in brackets (strong) is not in the right form here. The correct form is strength. The sentence is: He showed us that being different is his (strong)."
     },
     {
      "item_id": "Prep3:s4:i7",
@@ -2211,7 +2457,9 @@
      "accept": [
       "clapped"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (clap) مش بالشكل الصح هنا. الشكل الصح هو clapped. الجملة: When she finished, the class (clap).",
+     "explanation_en": "The word in brackets (clap) is not in the right form here. The correct form is clapped. The sentence is: When she finished, the class (clap)."
     },
     {
      "item_id": "Prep3:s4:i8",
@@ -2223,7 +2471,9 @@
      "accept": [
       "has broken"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (break) مش مناسبة لمعنى الجملة. الكلمة الصح هي has broken علشان الجملة تبقى منطقية وصحيحة: My sister (break) her phone again!",
+     "explanation_en": "The word in brackets (break) does not fit the meaning of the sentence. The correct word is has broken, which makes the sentence true and logical: My sister (break) her phone again!"
     },
     {
      "item_id": "Prep3:s4:i9",
@@ -2236,7 +2486,9 @@
       "haven't seen",
       "have not seen"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (not see) مش مناسبة لمعنى الجملة. الكلمة الصح هي haven't seen علشان الجملة تبقى منطقية وصحيحة: I (not see) that movie yet.",
+     "explanation_en": "The word in brackets (not see) does not fit the meaning of the sentence. The correct word is haven't seen, which makes the sentence true and logical: I (not see) that movie yet."
     },
     {
      "item_id": "Prep3:s4:i10",
@@ -2248,7 +2500,9 @@
      "accept": [
       "have read"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (read) مش مناسبة لمعنى الجملة. الكلمة الصح هي have read علشان الجملة تبقى منطقية وصحيحة: We (read) three chapters already.",
+     "explanation_en": "The word in brackets (read) does not fit the meaning of the sentence. The correct word is have read, which makes the sentence true and logical: We (read) three chapters already."
     },
     {
      "item_id": "Prep3:s4:i11",
@@ -2266,7 +2520,9 @@
       "Have - eaten",
       "have eaten"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (Has) مش مناسبة لمعنى الجملة. الكلمة الصح هي Have / eaten علشان الجملة تبقى منطقية وصحيحة: (Has) you ever Have / eaten falafel?",
+     "explanation_en": "The word in brackets (Has) does not fit the meaning of the sentence. The correct word is Have / eaten, which makes the sentence true and logical: (Has) you ever Have / eaten falafel?"
     },
     {
      "item_id": "Prep3:s4:i12",
@@ -2278,7 +2534,9 @@
      "accept": [
       "has studied"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الجملة بتتكلم عن الماضي، فالفعل بيكون في الماضي: has studied. الجملة: She (study) English since she was a child.",
+     "explanation_en": "The sentence is about the past, so the verb is in the past tense: has studied. The sentence is: She (study) English since she was a child."
     },
     {
      "item_id": "Prep3:s4:i13",
@@ -2290,7 +2548,9 @@
      "accept": [
       "have"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (are) مش مناسبة لمعنى الجملة. الكلمة الصح هي have علشان الجملة تبقى منطقية وصحيحة: They (are) gone to the market.",
+     "explanation_en": "The word in brackets (are) does not fit the meaning of the sentence. The correct word is have, which makes the sentence true and logical: They (are) gone to the market."
     },
     {
      "item_id": "Prep3:s4:i14",
@@ -2302,7 +2562,9 @@
      "accept": [
       "never"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (already) مش مناسبة لمعنى الجملة. الكلمة الصح هي never علشان الجملة تبقى منطقية وصحيحة: I've (already) been to Europe. I wish I could.",
+     "explanation_en": "The word in brackets (already) does not fit the meaning of the sentence. The correct word is never, which makes the sentence true and logical: I've (already) been to Europe. I wish I could."
     },
     {
      "item_id": "Prep3:s4:i15",
@@ -2314,7 +2576,9 @@
      "accept": [
       "has been encouraged"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (has encouraged) مش بالشكل الصح هنا. الشكل الصح هو has been encouraged. الجملة: Manar (has encouraged) by her family.",
+     "explanation_en": "The word in brackets (has encouraged) is not in the right form here. The correct form is has been encouraged. The sentence is: Manar (has encouraged) by her family."
     },
     {
      "item_id": "Prep3:s4:i16",
@@ -2329,7 +2593,9 @@
       "'ve just eaten",
       "'ve eaten"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (eat) مش مناسبة لمعنى الجملة. الكلمة الصح هي have just eaten علشان الجملة تبقى منطقية وصحيحة: We just (eat) fruits.",
+     "explanation_en": "The word in brackets (eat) does not fit the meaning of the sentence. The correct word is have just eaten, which makes the sentence true and logical: We just (eat) fruits."
     },
     {
      "item_id": "Prep3:s4:i17",
@@ -2341,7 +2607,9 @@
      "accept": [
       "ridden"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (ride) مش بالشكل الصح هنا. الشكل الصح هو ridden. الجملة: Ahmed has (ride) the bike already.",
+     "explanation_en": "The word in brackets (ride) is not in the right form here. The correct form is ridden. The sentence is: Ahmed has (ride) the bike already."
     },
     {
      "item_id": "Prep3:s4:i18",
@@ -2354,7 +2622,9 @@
       "Have you tidied",
       "Have"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (Did) مش مناسبة لمعنى الجملة. الكلمة الصح هي Have you tidied علشان الجملة تبقى منطقية وصحيحة: (Did) you tidied the room yet?",
+     "explanation_en": "The word in brackets (Did) does not fit the meaning of the sentence. The correct word is Have you tidied, which makes the sentence true and logical: (Did) you tidied the room yet?"
     },
     {
      "item_id": "Prep3:s4:i19",
@@ -2366,7 +2636,9 @@
      "accept": [
       "have"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (do) مش مناسبة لمعنى الجملة. الكلمة الصح هي have علشان الجملة تبقى منطقية وصحيحة: Where (do) you been?",
+     "explanation_en": "The word in brackets (do) does not fit the meaning of the sentence. The correct word is have, which makes the sentence true and logical: Where (do) you been?"
     },
     {
      "item_id": "Prep3:s4:i20",
@@ -2378,7 +2650,9 @@
      "accept": [
       "won"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (win) مش مناسبة لمعنى الجملة. الكلمة الصح هي won علشان الجملة تبقى منطقية وصحيحة: She has (win) the prize for poetry.",
+     "explanation_en": "The word in brackets (win) does not fit the meaning of the sentence. The correct word is won, which makes the sentence true and logical: She has (win) the prize for poetry."
     },
     {
      "item_id": "Prep3:s4:i21",
@@ -2390,7 +2664,9 @@
      "accept": [
       "yet"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (for) مش مناسبة لمعنى الجملة. الكلمة الصح هي yet علشان الجملة تبقى منطقية وصحيحة: Ibrahim hasn't finished the homework (for) .",
+     "explanation_en": "The word in brackets (for) does not fit the meaning of the sentence. The correct word is yet, which makes the sentence true and logical: Ibrahim hasn't finished the homework (for) ."
     },
     {
      "item_id": "Prep3:s4:i22",
@@ -2402,7 +2678,9 @@
      "accept": [
       "have"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (are) مش مناسبة لمعنى الجملة. الكلمة الصح هي have علشان الجملة تبقى منطقية وصحيحة: Mazen and Islam (are) painted the pictures.",
+     "explanation_en": "The word in brackets (are) does not fit the meaning of the sentence. The correct word is have, which makes the sentence true and logical: Mazen and Islam (are) painted the pictures."
     },
     {
      "item_id": "Prep3:s4:i23",
@@ -2414,7 +2692,9 @@
      "accept": [
       "for"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (just) مش مناسبة لمعنى الجملة. الكلمة الصح هي for علشان الجملة تبقى منطقية وصحيحة: Soheir has lived in Cairo (just) ten years.",
+     "explanation_en": "The word in brackets (just) does not fit the meaning of the sentence. The correct word is for, which makes the sentence true and logical: Soheir has lived in Cairo (just) ten years."
     },
     {
      "item_id": "Prep3:s4:i24",
@@ -2426,7 +2706,9 @@
      "accept": [
       "had revised"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (revise) مش مناسبة لمعنى الجملة. الكلمة الصح هي had revised علشان الجملة تبقى منطقية وصحيحة: If he (revise) well, he would have got high marks.",
+     "explanation_en": "The word in brackets (revise) does not fit the meaning of the sentence. The correct word is had revised, which makes the sentence true and logical: If he (revise) well, he would have got high marks."
     },
     {
      "item_id": "Prep3:s4:i25",
@@ -2439,7 +2721,9 @@
       "would have won",
       "would've won"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (win) مش مناسبة لمعنى الجملة. الكلمة الصح هي would have won علشان الجملة تبقى منطقية وصحيحة: They (win) if they had played well.",
+     "explanation_en": "The word in brackets (win) does not fit the meaning of the sentence. The correct word is would have won, which makes the sentence true and logical: They (win) if they had played well."
     },
     {
      "item_id": "Prep3:s4:i26",
@@ -2451,7 +2735,9 @@
      "accept": [
       "had sold"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (sell) مش مناسبة لمعنى الجملة. الكلمة الصح هي had sold علشان الجملة تبقى منطقية وصحيحة: If Asmaa (sell) her house, she would have got much money.",
+     "explanation_en": "The word in brackets (sell) does not fit the meaning of the sentence. The correct word is had sold, which makes the sentence true and logical: If Asmaa (sell) her house, she would have got much money."
     },
     {
      "item_id": "Prep3:s4:i27",
@@ -2470,7 +2756,9 @@
       "would've traveled",
       "would've travelled"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الجملة بتتكلم عن الماضي، فالفعل بيكون في الماضي: would have traveled. الجملة: Reem (traveled) if she had had enough time.",
+     "explanation_en": "The sentence is about the past, so the verb is in the past tense: would have traveled. The sentence is: Reem (traveled) if she had had enough time."
     },
     {
      "item_id": "Prep3:s4:i28",
@@ -2478,7 +2766,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s4:i29",
@@ -2486,7 +2776,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s4:i30",
@@ -2494,7 +2786,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s4:i31",
@@ -2502,7 +2796,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s4:i32",
@@ -2514,7 +2810,9 @@
      "accept": [
       "had studied"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (study) مش مناسبة لمعنى الجملة. الكلمة الصح هي had studied علشان الجملة تبقى منطقية وصحيحة: If Amr (study) hard, he would have succeeded.",
+     "explanation_en": "The word in brackets (study) does not fit the meaning of the sentence. The correct word is had studied, which makes the sentence true and logical: If Amr (study) hard, he would have succeeded."
     },
     {
      "item_id": "Prep3:s4:i33",
@@ -2526,7 +2824,9 @@
      "accept": [
       "had rained"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الجملة بتتكلم عن الماضي، فالفعل بيكون في الماضي: had rained. الجملة: If it (rain) heavily yesterday, I wouldn't have travelled.",
+     "explanation_en": "The sentence is about the past, so the verb is in the past tense: had rained. The sentence is: If it (rain) heavily yesterday, I wouldn't have travelled."
     },
     {
      "item_id": "Prep3:s4:i34",
@@ -2541,7 +2841,9 @@
       "might have played",
       "would've played"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الجملة بتتكلم عن الماضي، فالفعل بيكون في الماضي: would have played. الجملة: If he had trained well, he (play) the match.",
+     "explanation_en": "The sentence is about the past, so the verb is in the past tense: would have played. The sentence is: If he had trained well, he (play) the match."
     },
     {
      "item_id": "Prep3:s4:i35",
@@ -2557,7 +2859,9 @@
       "'ll go",
       "am going to go"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (go) مش مناسبة لمعنى الجملة. الكلمة الصح هي will go علشان الجملة تبقى منطقية وصحيحة: We (go) to London the next summer.",
+     "explanation_en": "The word in brackets (go) does not fit the meaning of the sentence. The correct word is will go, which makes the sentence true and logical: We (go) to London the next summer."
     },
     {
      "item_id": "Prep3:s4:i36",
@@ -2570,7 +2874,9 @@
       "will study",
       "is going to study"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (study) مش مناسبة لمعنى الجملة. الكلمة الصح هي will study علشان الجملة تبقى منطقية وصحيحة: I think my brother (study) engineering next year.",
+     "explanation_en": "The word in brackets (study) does not fit the meaning of the sentence. The correct word is will study, which makes the sentence true and logical: I think my brother (study) engineering next year."
     },
     {
      "item_id": "Prep3:s4:i37",
@@ -2583,7 +2889,9 @@
       "Will",
       "Can"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (Can) مش مناسبة لمعنى الجملة. الكلمة الصح هي Will علشان الجملة تبقى منطقية وصحيحة: (Can) the house be decorated next month?",
+     "explanation_en": "The word in brackets (Can) does not fit the meaning of the sentence. The correct word is Will, which makes the sentence true and logical: (Can) the house be decorated next month?"
     },
     {
      "item_id": "Prep3:s4:i38",
@@ -2595,7 +2903,9 @@
      "accept": [
       "will be explained"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (will explain) مش بالشكل الصح هنا. الشكل الصح هو will be explained. الجملة: The English lesson (will explain) tomorrow.",
+     "explanation_en": "The word in brackets (will explain) is not in the right form here. The correct form is will be explained. The sentence is: The English lesson (will explain) tomorrow."
     },
     {
      "item_id": "Prep3:s4:i39",
@@ -2608,7 +2918,9 @@
       "will be canceled",
       "will be cancelled"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (will cancel) مش بالشكل الصح هنا. الشكل الصح هو will be canceled. الجملة: The match (will cancel) if it rains.",
+     "explanation_en": "The word in brackets (will cancel) is not in the right form here. The correct form is will be canceled. The sentence is: The match (will cancel) if it rains."
     },
     {
      "item_id": "Prep3:s4:i40",
@@ -2621,7 +2933,9 @@
       "will be",
       "is going to be"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (be) مش مناسبة لمعنى الجملة. الكلمة الصح هي will be علشان الجملة تبقى منطقية وصحيحة: My sister is studying medicine. She (be) a doctor.",
+     "explanation_en": "The word in brackets (be) does not fit the meaning of the sentence. The correct word is will be, which makes the sentence true and logical: My sister is studying medicine. She (be) a doctor."
     },
     {
      "item_id": "Prep3:s4:i41",
@@ -2635,7 +2949,9 @@
       "may",
       "might"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (can) مش مناسبة لمعنى الجملة. الكلمة الصح هي will علشان الجملة تبقى منطقية وصحيحة: My mother (can) probably do the shopping tomorrow.",
+     "explanation_en": "The word in brackets (can) does not fit the meaning of the sentence. The correct word is will, which makes the sentence true and logical: My mother (can) probably do the shopping tomorrow."
     },
     {
      "item_id": "Prep3:s4:i42",
@@ -2649,7 +2965,9 @@
       "is going to win",
       "'s going to win"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (win) مش مناسبة لمعنى الجملة. الكلمة الصح هي will win علشان الجملة تبقى منطقية وصحيحة: I expect that Ibrahim (win) the match.",
+     "explanation_en": "The word in brackets (win) does not fit the meaning of the sentence. The correct word is will win, which makes the sentence true and logical: I expect that Ibrahim (win) the match."
     },
     {
      "item_id": "Prep3:s4:i43",
@@ -2664,7 +2982,9 @@
       "might",
       "could"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (should) مش مناسبة لمعنى الجملة. الكلمة الصح هي will علشان الجملة تبقى منطقية وصحيحة: Perhaps Mariam (should) visit us next Saturday.",
+     "explanation_en": "The word in brackets (should) does not fit the meaning of the sentence. The correct word is will, which makes the sentence true and logical: Perhaps Mariam (should) visit us next Saturday."
     },
     {
      "item_id": "Prep3:s4:i44",
@@ -2679,7 +2999,9 @@
       "must not",
       "should not"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: shouldn't. الجملة: We (should) make noise in the classroom.",
+     "explanation_en": "After the helper verb we use the base verb with no s or ed: shouldn't. The sentence is: We (should) make noise in the classroom."
     },
     {
      "item_id": "Prep3:s4:i45",
@@ -2691,7 +3013,9 @@
      "accept": [
       "obey"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: obey. الجملة: You should (obeyed) your teachers.",
+     "explanation_en": "After the helper verb we use the base verb with no s or ed: obey. The sentence is: You should (obeyed) your teachers."
     },
     {
      "item_id": "Prep3:s4:i46",
@@ -2703,7 +3027,9 @@
      "accept": [
       "be"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (to be) مش مناسبة لمعنى الجملة. الكلمة الصح هي be علشان الجملة تبقى منطقية وصحيحة: We mustn't (to be) unkind and unfair to others.",
+     "explanation_en": "The word in brackets (to be) does not fit the meaning of the sentence. The correct word is be, which makes the sentence true and logical: We mustn't (to be) unkind and unfair to others."
     },
     {
      "item_id": "Prep3:s4:i47",
@@ -2715,7 +3041,9 @@
      "accept": [
       "healthy"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (health) مش بالشكل الصح هنا. الشكل الصح هو healthy. الجملة: Good habits make our minds and bodies (health).",
+     "explanation_en": "The word in brackets (health) is not in the right form here. The correct form is healthy. The sentence is: Good habits make our minds and bodies (health)."
     },
     {
      "item_id": "Prep3:s4:i48",
@@ -2731,7 +3059,9 @@
       "has to",
       "need to"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (mustn't) مش بالشكل الصح هنا. الشكل الصح هو must. الجملة: Students (mustn't) come to school on time.",
+     "explanation_en": "The word in brackets (mustn't) is not in the right form here. The correct form is must. The sentence is: Students (mustn't) come to school on time."
     },
     {
      "item_id": "Prep3:s4:i49",
@@ -2743,7 +3073,9 @@
      "accept": [
       "changing"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "always وusually وevery... بتدل على عادة، فنستخدم المضارع البسيط (changing). الجملة: The weather in Egypt is always (change), especially during spring.",
+     "explanation_en": "Always, usually, every and similar words show a habit, so we use the present simple (changing). The sentence is: The weather in Egypt is always (change), especially during spring."
     },
     {
      "item_id": "Prep3:s4:i50",
@@ -2755,7 +3087,9 @@
      "accept": [
       "planning"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (plan) مش بالشكل الصح هنا. الشكل الصح هو planning. الجملة: We are (plan) to go to Alexandria next weekend if the weather is good.",
+     "explanation_en": "The word in brackets (plan) is not in the right form here. The correct form is planning. The sentence is: We are (plan) to go to Alexandria next weekend if the weather is good."
     },
     {
      "item_id": "Prep3:s4:i51",
@@ -2767,7 +3101,9 @@
      "accept": [
       "distraction"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: distraction. الجملة: Using phones during lessons can be a big (distract) for students.",
+     "explanation_en": "After the helper verb we use the base verb with no s or ed: distraction. The sentence is: Using phones during lessons can be a big (distract) for students."
     },
     {
      "item_id": "Prep3:s4:i52",
@@ -2779,7 +3115,9 @@
      "accept": [
       "excited"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الجملة بتتكلم عن الماضي، فالفعل بيكون في الماضي: excited. الجملة: Students were (exciting) to hear about the school trip to Aswan.",
+     "explanation_en": "The sentence is about the past, so the verb is in the past tense: excited. The sentence is: Students were (exciting) to hear about the school trip to Aswan."
     },
     {
      "item_id": "Prep3:s4:i53",
@@ -2791,7 +3129,9 @@
      "accept": [
       "was watching"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (watch) مش مناسبة لمعنى الجملة. الكلمة الصح هي was watching علشان الجملة تبقى منطقية وصحيحة: As I (watch) T V., the light went out.",
+     "explanation_en": "The word in brackets (watch) does not fit the meaning of the sentence. The correct word is was watching, which makes the sentence true and logical: As I (watch) T V., the light went out."
     },
     {
      "item_id": "Prep3:s4:i54",
@@ -2803,7 +3143,9 @@
      "accept": [
       "rang"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (ringing) مش مناسبة لمعنى الجملة. الكلمة الصح هي rang علشان الجملة تبقى منطقية وصحيحة: While I was charging the battery, my phone (ringing).",
+     "explanation_en": "The word in brackets (ringing) does not fit the meaning of the sentence. The correct word is rang, which makes the sentence true and logical: While I was charging the battery, my phone (ringing)."
     },
     {
      "item_id": "Prep3:s4:i55",
@@ -2818,7 +3160,9 @@
       "must not",
       "should not"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "mustn't معناها ممنوع، والجملة بتتكلم عن شيء ممنوع في الفصل. الجملة: You (must) tell your personal information to everyone.",
+     "explanation_en": "Mustn't means it is not allowed, and the sentence is about a rule. The sentence is: You (must) tell your personal information to everyone."
     },
     {
      "item_id": "Prep3:s4:i56",
@@ -2833,7 +3177,9 @@
       "Would",
       "Will"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (Should) مش مناسبة لمعنى الجملة. الكلمة الصح هي Can علشان الجملة تبقى منطقية وصحيحة: (Should) you give me a hand, please?",
+     "explanation_en": "The word in brackets (Should) does not fit the meaning of the sentence. The correct word is Can, which makes the sentence true and logical: (Should) you give me a hand, please?"
     },
     {
      "item_id": "Prep3:s4:i57",
@@ -2845,7 +3191,9 @@
      "accept": [
       "do"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: do. الجملة: He should (done) his homework.",
+     "explanation_en": "After the helper verb we use the base verb with no s or ed: do. The sentence is: He should (done) his homework."
     },
     {
      "item_id": "Prep3:s4:i58",
@@ -2857,7 +3205,9 @@
      "accept": [
       "Close"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (Closes) مش بالشكل الصح هنا. الشكل الصح هو Close. الجملة: (Closes) the window well before leaving the flat.",
+     "explanation_en": "The word in brackets (Closes) is not in the right form here. The correct form is Close. The sentence is: (Closes) the window well before leaving the flat."
     },
     {
      "item_id": "Prep3:s4:i59",
@@ -2869,7 +3219,9 @@
      "accept": [
       "eat"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (ate) مش مناسبة لمعنى الجملة. الكلمة الصح هي eat علشان الجملة تبقى منطقية وصحيحة: Don't (ate) while the teacher is explaining.",
+     "explanation_en": "The word in brackets (ate) does not fit the meaning of the sentence. The correct word is eat, which makes the sentence true and logical: Don't (ate) while the teacher is explaining."
     },
     {
      "item_id": "Prep3:s4:i60",
@@ -2885,7 +3237,9 @@
       "Afterwards",
       "Later"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (First) مش مناسبة لمعنى الجملة. الكلمة الصح هي Then علشان الجملة تبقى منطقية وصحيحة: He prepared his bag. (First), he went to school.",
+     "explanation_en": "The word in brackets (First) does not fit the meaning of the sentence. The correct word is Then, which makes the sentence true and logical: He prepared his bag. (First), he went to school."
     },
     {
      "item_id": "Prep3:s4:i61",
@@ -2897,7 +3251,9 @@
      "accept": [
       "come"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "always وusually وevery... بتدل على عادة، فنستخدم المضارع البسيط (come). الجملة: Never (comes) late for school.",
+     "explanation_en": "Always, usually, every and similar words show a habit, so we use the present simple (come). The sentence is: Never (comes) late for school."
     },
     {
      "item_id": "Prep3:s4:i62",
@@ -2911,7 +3267,9 @@
       "First of all",
       "Firstly"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (Then) مش مناسبة لمعنى الجملة. الكلمة الصح هي First علشان الجملة تبقى منطقية وصحيحة: (Then), brainstorm the ideas. Next, test the prototypes.",
+     "explanation_en": "The word in brackets (Then) does not fit the meaning of the sentence. The correct word is First, which makes the sentence true and logical: (Then), brainstorm the ideas. Next, test the prototypes."
     },
     {
      "item_id": "Prep3:s4:i63",
@@ -2923,7 +3281,9 @@
      "accept": [
       "close"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (to close) مش مناسبة لمعنى الجملة. الكلمة الصح هي close علشان الجملة تبقى منطقية وصحيحة: Please, (to close) the window.",
+     "explanation_en": "The word in brackets (to close) does not fit the meaning of the sentence. The correct word is close, which makes the sentence true and logical: Please, (to close) the window."
     },
     {
      "item_id": "Prep3:s4:i64",
@@ -2937,7 +3297,9 @@
       "don't ever",
       "do not ever"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (ever) مش مناسبة لمعنى الجملة. الكلمة الصح هي never علشان الجملة تبقى منطقية وصحيحة: Pepper makes me feel sick. Please, (ever) offer me any.",
+     "explanation_en": "The word in brackets (ever) does not fit the meaning of the sentence. The correct word is never, which makes the sentence true and logical: Pepper makes me feel sick. Please, (ever) offer me any."
     },
     {
      "item_id": "Prep3:s4:i65",
@@ -2949,7 +3311,9 @@
      "accept": [
       "listen"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (listened) مش بالشكل الصح هنا. الشكل الصح هو listen. الجملة: Adham, (listened) to me carefully.",
+     "explanation_en": "The word in brackets (listened) is not in the right form here. The correct form is listen. The sentence is: Adham, (listened) to me carefully."
     },
     {
      "item_id": "Prep3:s4:i66",
@@ -2963,7 +3327,9 @@
       "First of all",
       "Firstly"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (Finally) مش مناسبة لمعنى الجملة. الكلمة الصح هي First علشان الجملة تبقى منطقية وصحيحة: (Finally), We should write an introduction. We should start with it.",
+     "explanation_en": "The word in brackets (Finally) does not fit the meaning of the sentence. The correct word is First, which makes the sentence true and logical: (Finally), We should write an introduction. We should start with it."
     },
     {
      "item_id": "Prep3:s4:i67",
@@ -2975,7 +3341,9 @@
      "accept": [
       "map"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (mop) مش مناسبة لمعنى الجملة. الكلمة الصح هي map علشان الجملة تبقى منطقية وصحيحة: The tourists used a (mop) to find the way to the museum.",
+     "explanation_en": "The word in brackets (mop) does not fit the meaning of the sentence. The correct word is map, which makes the sentence true and logical: The tourists used a (mop) to find the way to the museum."
     },
     {
      "item_id": "Prep3:s4:i68",
@@ -2983,7 +3351,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+     "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s4:i69",
@@ -2995,7 +3365,9 @@
      "accept": [
       "break"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (broke) مش مناسبة لمعنى الجملة. الكلمة الصح هي break علشان الجملة تبقى منطقية وصحيحة: Careless drivers sometimes (broke) the traffic rules.",
+     "explanation_en": "The word in brackets (broke) does not fit the meaning of the sentence. The correct word is break, which makes the sentence true and logical: Careless drivers sometimes (broke) the traffic rules."
     },
     {
      "item_id": "Prep3:s4:i70",
@@ -3007,7 +3379,9 @@
      "accept": [
       "learn"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: learn. الجملة: Students can easily (learnt) English if they practice every day.",
+     "explanation_en": "After the helper verb we use the base verb with no s or ed: learn. The sentence is: Students can easily (learnt) English if they practice every day."
     },
     {
      "item_id": "Prep3:s4:i71",
@@ -3019,7 +3393,9 @@
      "accept": [
       "solutions"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (solute) مش بالشكل الصح هنا. الشكل الصح هو solutions. الجملة: Scientists are searching for new (solute) to reduce air pollution.",
+     "explanation_en": "The word in brackets (solute) is not in the right form here. The correct form is solutions. The sentence is: Scientists are searching for new (solute) to reduce air pollution."
     },
     {
      "item_id": "Prep3:s4:i72",
@@ -3031,7 +3407,9 @@
      "accept": [
       "break"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (broke) مش مناسبة لمعنى الجملة. الكلمة الصح هي break علشان الجملة تبقى منطقية وصحيحة: After studying for three hours, the class needed a short (broke).",
+     "explanation_en": "The word in brackets (broke) does not fit the meaning of the sentence. The correct word is break, which makes the sentence true and logical: After studying for three hours, the class needed a short (broke)."
     },
     {
      "item_id": "Prep3:s4:i73",
@@ -3043,7 +3421,9 @@
      "accept": [
       "designing"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (designed) مش بالشكل الصح هنا. الشكل الصح هو designing. الجملة: The engineer is busy (designed) a new bridge across the river.",
+     "explanation_en": "The word in brackets (designed) is not in the right form here. The correct form is designing. The sentence is: The engineer is busy (designed) a new bridge across the river."
     },
     {
      "item_id": "Prep3:s4:i74",
@@ -3055,7 +3435,9 @@
      "accept": [
       "be"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: be. الجملة: Don't (being) afraid of cats. They're cute.",
+     "explanation_en": "After the helper verb we use the base verb with no s or ed: be. The sentence is: Don't (being) afraid of cats. They're cute."
     },
     {
      "item_id": "Prep3:s4:i75",
@@ -3067,7 +3449,9 @@
      "accept": [
       "came"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "yesterday وago بتدل على الماضي، فنستخدم الماضي البسيط (came). الجملة: She (come) up with a good idea for the project yesterday.",
+     "explanation_en": "Yesterday and ago show the past, so we use the past simple (came). The sentence is: She (come) up with a good idea for the project yesterday."
     },
     {
      "item_id": "Prep3:s4:i76",
@@ -3079,7 +3463,9 @@
      "accept": [
       "make"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: make. الجملة: His explanation doesn't (makes) sense to the teacher.",
+     "explanation_en": "After the helper verb we use the base verb with no s or ed: make. The sentence is: His explanation doesn't (makes) sense to the teacher."
     },
     {
      "item_id": "Prep3:s4:i77",
@@ -3091,7 +3477,9 @@
      "accept": [
       "perfect"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: perfect. الجملة: Nobody is (perfects), but we should always try our best.",
+     "explanation_en": "After the helper verb we use the base verb with no s or ed: perfect. The sentence is: Nobody is (perfects), but we should always try our best."
     },
     {
      "item_id": "Prep3:s4:i78",
@@ -3103,7 +3491,9 @@
      "accept": [
       "process"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (processed) مش بالشكل الصح هنا. الشكل الصح هو process. الجملة: Learning English is a long (processed) that needs patience and practice.",
+     "explanation_en": "The word in brackets (processed) is not in the right form here. The correct form is process. The sentence is: Learning English is a long (processed) that needs patience and practice."
     },
     {
      "item_id": "Prep3:s4:i79",
@@ -3115,7 +3505,9 @@
      "accept": [
       "him"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (he) مش مناسبة لمعنى الجملة. الكلمة الصح هي him علشان الجملة تبقى منطقية وصحيحة: Ahmed told me that someone disagreed with (he)",
+     "explanation_en": "The word in brackets (he) does not fit the meaning of the sentence. The correct word is him, which makes the sentence true and logical: Ahmed told me that someone disagreed with (he)"
     },
     {
      "item_id": "Prep3:s4:i80",
@@ -3127,7 +3519,9 @@
      "accept": [
       "said"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (say) مش مناسبة لمعنى الجملة. الكلمة الصح هي said علشان الجملة تبقى منطقية وصحيحة: Adham (say) it was an interesting story.",
+     "explanation_en": "The word in brackets (say) does not fit the meaning of the sentence. The correct word is said, which makes the sentence true and logical: Adham (say) it was an interesting story."
     },
     {
      "item_id": "Prep3:s4:i81",
@@ -3139,7 +3533,9 @@
      "accept": [
       "her"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (my) مش مناسبة لمعنى الجملة. الكلمة الصح هي her علشان الجملة تبقى منطقية وصحيحة: Hend said that she would visit (my) grandparents.",
+     "explanation_en": "The word in brackets (my) does not fit the meaning of the sentence. The correct word is her, which makes the sentence true and logical: Hend said that she would visit (my) grandparents."
     },
     {
      "item_id": "Prep3:s4:i82",
@@ -3151,7 +3547,9 @@
      "accept": [
       "told"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (tell) مش مناسبة لمعنى الجملة. الكلمة الصح هي told علشان الجملة تبقى منطقية وصحيحة: Hassan (tell) them that he'd buy a new mobile the following week.",
+     "explanation_en": "The word in brackets (tell) does not fit the meaning of the sentence. The correct word is told, which makes the sentence true and logical: Hassan (tell) them that he'd buy a new mobile the following week."
     },
     {
      "item_id": "Prep3:s4:i83",
@@ -3163,7 +3561,9 @@
      "accept": [
       "would"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (will) مش مناسبة لمعنى الجملة. الكلمة الصح هي would علشان الجملة تبقى منطقية وصحيحة: Mona said that she (will) go to the party the following day",
+     "explanation_en": "The word in brackets (will) does not fit the meaning of the sentence. The correct word is would, which makes the sentence true and logical: Mona said that she (will) go to the party the following day"
     },
     {
      "item_id": "Prep3:s4:i84",
@@ -3175,7 +3575,9 @@
      "accept": [
       "improve"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (prove) مش مناسبة لمعنى الجملة. الكلمة الصح هي improve علشان الجملة تبقى منطقية وصحيحة: Many experts believe that technology can (prove) education.",
+     "explanation_en": "The word in brackets (prove) does not fit the meaning of the sentence. The correct word is improve, which makes the sentence true and logical: Many experts believe that technology can (prove) education."
     },
     {
      "item_id": "Prep3:s4:i85",
@@ -3187,7 +3589,9 @@
      "accept": [
       "honestly"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (honesty) مش بالشكل الصح هنا. الشكل الصح هو honestly. الجملة: She spoke very (honesty) during the interview about her past experiences.",
+     "explanation_en": "The word in brackets (honesty) is not in the right form here. The correct form is honestly. The sentence is: She spoke very (honesty) during the interview about her past experiences."
     },
     {
      "item_id": "Prep3:s4:i86",
@@ -3199,7 +3603,9 @@
      "accept": [
       "unfair"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين صح زي ما هي ومفيش تغيير مطلوب. الجملة: It is (unfair) to judge people before knowing them well.",
+     "explanation_en": "The word in brackets is already correct, so it stays the same. The sentence is: It is (unfair) to judge people before knowing them well."
     },
     {
      "item_id": "Prep3:s4:i87",
@@ -3211,7 +3617,9 @@
      "accept": [
       "stuck"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (stocked) مش مناسبة لمعنى الجملة. الكلمة الصح هي stuck علشان الجملة تبقى منطقية وصحيحة: The car was (stocked) in the mud after the heavy rain.",
+     "explanation_en": "The word in brackets (stocked) does not fit the meaning of the sentence. The correct word is stuck, which makes the sentence true and logical: The car was (stocked) in the mud after the heavy rain."
     },
     {
      "item_id": "Prep3:s4:i88",
@@ -3223,7 +3631,9 @@
      "accept": [
       "discussion"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (deposit) مش مناسبة لمعنى الجملة. الكلمة الصح هي discussion علشان الجملة تبقى منطقية وصحيحة: The students had a long (deposit) about technology in education.",
+     "explanation_en": "The word in brackets (deposit) does not fit the meaning of the sentence. The correct word is discussion, which makes the sentence true and logical: The students had a long (deposit) about technology in education."
     },
     {
      "item_id": "Prep3:s4:i89",
@@ -3235,7 +3645,9 @@
      "accept": [
       "recommendations"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (recommends) مش بالشكل الصح هنا. الشكل الصح هو recommendations. الجملة: The doctor gave me several (recommends) for living a healthier life.",
+     "explanation_en": "The word in brackets (recommends) is not in the right form here. The correct form is recommendations. The sentence is: The doctor gave me several (recommends) for living a healthier life."
     },
     {
      "item_id": "Prep3:s4:i90",
@@ -3247,7 +3659,9 @@
      "accept": [
       "confident"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة بين القوسين (confidence) مش بالشكل الصح هنا. الشكل الصح هو confident. الجملة: She felt very (confidence) before giving her speech on stage.",
+     "explanation_en": "The word in brackets (confidence) is not in the right form here. The correct form is confident. The sentence is: She felt very (confidence) before giving her speech on stage."
     },
     {
      "item_id": "Prep3:s4:i91",
@@ -3259,7 +3673,9 @@
      "accept": [
       "guide"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (A good leader should always……. (guidance) مش مناسبة لمعنى الجملة. الكلمة الصح هي guide علشان الجملة تبقى منطقية وصحيحة: (A good leader should always……. (guidance) people with fairness and kindness.)",
+     "explanation_en": "The word in brackets (A good leader should always……. (guidance) does not fit the meaning of the sentence. The correct word is guide, which makes the sentence true and logical: (A good leader should always……. (guidance) people with fairness and kindness.)"
     },
     {
      "item_id": "Prep3:s4:i92",
@@ -3271,7 +3687,9 @@
      "accept": [
       "changes"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (Climate changes bring many……… (charges) مش مناسبة لمعنى الجملة. الكلمة الصح هي changes علشان الجملة تبقى منطقية وصحيحة: (Climate changes bring many……… (charges) to our communities.)",
+     "explanation_en": "The word in brackets (Climate changes bring many……… (charges) does not fit the meaning of the sentence. The correct word is changes, which makes the sentence true and logical: (Climate changes bring many……… (charges) to our communities.)"
     },
     {
      "item_id": "Prep3:s4:i93",
@@ -3283,7 +3701,9 @@
      "accept": [
       "communities"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (Strong………… (common) مش مناسبة لمعنى الجملة. الكلمة الصح هي communities علشان الجملة تبقى منطقية وصحيحة: (Strong………… (common) are built when people help and support one another.)",
+     "explanation_en": "The word in brackets (Strong………… (common) does not fit the meaning of the sentence. The correct word is communities, which makes the sentence true and logical: (Strong………… (common) are built when people help and support one another.)"
     },
     {
      "item_id": "Prep3:s4:i94",
@@ -3295,7 +3715,9 @@
      "accept": [
       "is tidying"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "now أو at the moment بتدل على حاجة بتحصل دلوقتي، فنستخدم الحاضر المستمر: be + فعل-ing (is tidying). الجملة: (Hassan ………(tidy) the room at the moment.)",
+     "explanation_en": "Now or at the moment shows an action happening now, so we use the present continuous: be + verb-ing (is tidying). The sentence is: (Hassan ………(tidy) the room at the moment.)"
     },
     {
      "item_id": "Prep3:s4:i95",
@@ -3308,7 +3730,9 @@
       "managers",
       "management"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (The ………… (manage) مش مناسبة لمعنى الجملة. الكلمة الصح هي managers علشان الجملة تبقى منطقية وصحيحة: (The ………… (manage) decide to start a new project for students.)",
+     "explanation_en": "The word in brackets (The ………… (manage) does not fit the meaning of the sentence. The correct word is managers, which makes the sentence true and logical: (The ………… (manage) decide to start a new project for students.)"
     },
     {
      "item_id": "Prep3:s4:i96",
@@ -3320,7 +3744,9 @@
      "accept": [
       "quickly"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (She reads………… (quick) مش مناسبة لمعنى الجملة. الكلمة الصح هي quickly علشان الجملة تبقى منطقية وصحيحة: (She reads………… (quick) to finish on time.)",
+     "explanation_en": "The word in brackets (She reads………… (quick) does not fit the meaning of the sentence. The correct word is quickly, which makes the sentence true and logical: (She reads………… (quick) to finish on time.)"
     },
     {
      "item_id": "Prep3:s4:i97",
@@ -3332,7 +3758,9 @@
      "accept": [
       "successful"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (Her dream is to become a………… (success) مش مناسبة لمعنى الجملة. الكلمة الصح هي successful علشان الجملة تبقى منطقية وصحيحة: (Her dream is to become a………… (success) engineer.)",
+     "explanation_en": "The word in brackets (Her dream is to become a………… (success) does not fit the meaning of the sentence. The correct word is successful, which makes the sentence true and logical: (Her dream is to become a………… (success) engineer.)"
     },
     {
      "item_id": "Prep3:s4:i98",
@@ -3344,7 +3772,9 @@
      "accept": [
       "believe"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (You must always ………… (belief) مش مناسبة لمعنى الجملة. الكلمة الصح هي believe علشان الجملة تبقى منطقية وصحيحة: (You must always ………… (belief) in yourself to achieve your dreams.)",
+     "explanation_en": "The word in brackets (You must always ………… (belief) does not fit the meaning of the sentence. The correct word is believe, which makes the sentence true and logical: (You must always ………… (belief) in yourself to achieve your dreams.)"
     },
     {
      "item_id": "Prep3:s4:i99",
@@ -3356,7 +3786,9 @@
      "accept": [
       "for"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (She has made some food ………(to) مش مناسبة لمعنى الجملة. الكلمة الصح هي for علشان الجملة تبقى منطقية وصحيحة: (She has made some food ………(to) her kids.)",
+     "explanation_en": "The word in brackets (She has made some food ………(to) does not fit the meaning of the sentence. The correct word is for, which makes the sentence true and logical: (She has made some food ………(to) her kids.)"
     },
     {
      "item_id": "Prep3:s4:i100",
@@ -3368,7 +3800,9 @@
      "accept": [
       "by"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (Most people have never travelled ………… (at) مش مناسبة لمعنى الجملة. الكلمة الصح هي by علشان الجملة تبقى منطقية وصحيحة: (Most people have never travelled ………… (at) plane.)",
+     "explanation_en": "The word in brackets (Most people have never travelled ………… (at) does not fit the meaning of the sentence. The correct word is by, which makes the sentence true and logical: (Most people have never travelled ………… (at) plane.)"
     },
     {
      "item_id": "Prep3:s4:i101",
@@ -3380,7 +3814,9 @@
      "accept": [
       "has gone"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (Mohamed …………… (go) مش مناسبة لمعنى الجملة. الكلمة الصح هي has gone علشان الجملة تبقى منطقية وصحيحة: (Mohamed …………… (go) to school. He hasn't come back yet.)",
+     "explanation_en": "The word in brackets (Mohamed …………… (go) does not fit the meaning of the sentence. The correct word is has gone, which makes the sentence true and logical: (Mohamed …………… (go) to school. He hasn't come back yet.)"
     },
     {
      "item_id": "Prep3:s4:i102",
@@ -3392,7 +3828,9 @@
      "accept": [
       "swim"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (I have learned to …………… (swims) مش مناسبة لمعنى الجملة. الكلمة الصح هي swim علشان الجملة تبقى منطقية وصحيحة: (I have learned to …………… (swims).)",
+     "explanation_en": "The word in brackets (I have learned to …………… (swims) does not fit the meaning of the sentence. The correct word is swim, which makes the sentence true and logical: (I have learned to …………… (swims).)"
     },
     {
      "item_id": "Prep3:s4:i103",
@@ -3404,7 +3842,9 @@
      "accept": [
       "noticed"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (The teacher has already ………… (notice) مش مناسبة لمعنى الجملة. الكلمة الصح هي noticed علشان الجملة تبقى منطقية وصحيحة: (The teacher has already ………… (notice) the improvement in your work.)",
+     "explanation_en": "The word in brackets (The teacher has already ………… (notice) does not fit the meaning of the sentence. The correct word is noticed, which makes the sentence true and logical: (The teacher has already ………… (notice) the improvement in your work.)"
     },
     {
      "item_id": "Prep3:s4:i104",
@@ -3416,7 +3856,9 @@
      "accept": [
       "had been"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (If students ………… (be) مش مناسبة لمعنى الجملة. الكلمة الصح هي had been علشان الجملة تبقى منطقية وصحيحة: (If students ………… (be) more respectful, classroom management would have been easier.)",
+     "explanation_en": "The word in brackets (If students ………… (be) does not fit the meaning of the sentence. The correct word is had been, which makes the sentence true and logical: (If students ………… (be) more respectful, classroom management would have been easier.)"
     },
     {
      "item_id": "Prep3:s4:i105",
@@ -3428,7 +3870,9 @@
      "accept": [
       "stressed"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "الكلمة اللي بين القوسين (Many students feel ………… (stress) مش مناسبة لمعنى الجملة. الكلمة الصح هي stressed علشان الجملة تبقى منطقية وصحيحة: (Many students feel ………… (stress) during exam periods.)",
+     "explanation_en": "The word in brackets (Many students feel ………… (stress) does not fit the meaning of the sentence. The correct word is stressed, which makes the sentence true and logical: (Many students feel ………… (stress) during exam periods.)"
     }
    ]
   },
@@ -3448,7 +3892,9 @@
       "She has already eaten ice cream.",
       "She has eaten ice cream already."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "present perfect: have/has + التصريف الثالث، مع already وyet وjust وfor. الإجابة: She has already eaten ice cream.",
+     "explanation_en": "Present perfect: have or has + past participle, with already, yet, just or for. Answer: She has already eaten ice cream."
     },
     {
      "item_id": "Prep3:s5:i1",
@@ -3463,7 +3909,9 @@
       "We've not played football yet.",
       "We'ven't played football yet."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "present perfect: have/has + التصريف الثالث، مع already وyet وjust وfor. الإجابة: We haven't played football yet.",
+     "explanation_en": "Present perfect: have or has + past participle, with already, yet, just or for. Answer: We haven't played football yet."
     },
     {
      "item_id": "Prep3:s5:i2",
@@ -3476,7 +3924,9 @@
       "She has just arrived.",
       "She 's just arrived."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "present perfect: have/has + التصريف الثالث، مع already وyet وjust وfor. الإجابة: She has just arrived.",
+     "explanation_en": "Present perfect: have or has + past participle, with already, yet, just or for. Answer: She has just arrived."
     },
     {
      "item_id": "Prep3:s5:i3",
@@ -3491,7 +3941,9 @@
       "Yossif hasn't swum in the sea for one year.",
       "Yossif has not swum in the sea for one year."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "present perfect: have/has + التصريف الثالث، مع already وyet وjust وfor. الإجابة: Yossif hasn't swum in the sea for a year.",
+     "explanation_en": "Present perfect: have or has + past participle, with already, yet, just or for. Answer: Yossif hasn't swum in the sea for a year."
     },
     {
      "item_id": "Prep3:s5:i4",
@@ -3503,7 +3955,9 @@
      "accept": [
       "How often do you go to the club?"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "سؤال present perfect: كلمة السؤال + have/has + الفاعل + التصريف الثالث. الإجابة: How often do you go to the club?",
+     "explanation_en": "Present perfect question: question word + have or has + subject + past participle. Answer: How often do you go to the club?"
     },
     {
      "item_id": "Prep3:s5:i5",
@@ -3520,7 +3974,9 @@
       "No one is as tall as Asmaa in the class.",
       "No one is taller than Asmaa."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "المقارنة: -er + than للمعنى نفسه. الإجابة: No one in the class is taller than Asmaa.",
+     "explanation_en": "Comparison: -er + than keeps the same meaning. Answer: No one in the class is taller than Asmaa."
     },
     {
      "item_id": "Prep3:s5:i6",
@@ -3534,7 +3990,9 @@
       "Fatima is not as old as Hager.",
       "Fatima isn't as old as Hager."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "المقارنة: -er + than للمعنى نفسه. الإجابة: Fatima is younger than Hager.",
+     "explanation_en": "Comparison: -er + than keeps the same meaning. Answer: Fatima is younger than Hager."
     },
     {
      "item_id": "Prep3:s5:i7",
@@ -3547,7 +4005,9 @@
       "They have already read the story.",
       "They have read the story already."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "present perfect: have/has + التصريف الثالث، مع already وyet وjust وfor. الإجابة: They have already read the story.",
+     "explanation_en": "Present perfect: have or has + past participle, with already, yet, just or for. Answer: They have already read the story."
     },
     {
      "item_id": "Prep3:s5:i8",
@@ -3559,7 +4019,9 @@
      "accept": [
       "What have they played?"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "سؤال present perfect: كلمة السؤال + have/has + الفاعل + التصريف الثالث. الإجابة: What have they played?",
+     "explanation_en": "Present perfect question: question word + have or has + subject + past participle. Answer: What have they played?"
     },
     {
      "item_id": "Prep3:s5:i9",
@@ -3571,7 +4033,9 @@
      "accept": [
       "How long has Hassan trained?"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "سؤال present perfect: كلمة السؤال + have/has + الفاعل + التصريف الثالث. الإجابة: How long has Hassan trained?",
+     "explanation_en": "Present perfect question: question word + have or has + subject + past participle. Answer: How long has Hassan trained?"
     },
     {
      "item_id": "Prep3:s5:i10",
@@ -3584,7 +4048,9 @@
       "Where has Yossif traveled?",
       "Where has Yossif travelled?"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "سؤال present perfect: كلمة السؤال + have/has + الفاعل + التصريف الثالث. الإجابة: Where has Yossif traveled?",
+     "explanation_en": "Present perfect question: question word + have or has + subject + past participle. Answer: Where has Yossif traveled?"
     },
     {
      "item_id": "Prep3:s5:i11",
@@ -3596,7 +4062,9 @@
      "accept": [
       "Who has won the first prize?"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "سؤال present perfect: كلمة السؤال + have/has + الفاعل + التصريف الثالث. الإجابة: Who has won the first prize?",
+     "explanation_en": "Present perfect question: question word + have or has + subject + past participle. Answer: Who has won the first prize?"
     },
     {
      "item_id": "Prep3:s5:i12",
@@ -3608,7 +4076,9 @@
      "accept": [
       "Sama never does exercises."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "never بتيجي قبل الفعل ومعاها مضارع مثبت. الإجابة: Sama never does exercises.",
+     "explanation_en": "Never goes before the verb with a positive verb form. Answer: Sama never does exercises."
     },
     {
      "item_id": "Prep3:s5:i13",
@@ -3620,7 +4090,9 @@
      "accept": [
       "Have you cleaned the flat yet?"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "present perfect: have/has + التصريف الثالث، مع already وyet وjust وfor. الإجابة: Have you cleaned the flat yet?",
+     "explanation_en": "Present perfect: have or has + past participle, with already, yet, just or for. Answer: Have you cleaned the flat yet?"
     },
     {
      "item_id": "Prep3:s5:i14",
@@ -3633,7 +4105,9 @@
       "Have you already tidied the flat?",
       "Have you tidied the flat already?"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "present perfect: have/has + التصريف الثالث، مع already وyet وjust وfor. الإجابة: Have you already tidied the flat?",
+     "explanation_en": "Present perfect: have or has + past participle, with already, yet, just or for. Answer: Have you already tidied the flat?"
     },
     {
      "item_id": "Prep3:s5:i15",
@@ -3645,7 +4119,9 @@
      "accept": [
       "What has Sameh drunk?"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "سؤال present perfect: كلمة السؤال + have/has + الفاعل + التصريف الثالث. الإجابة: What has Sameh drunk?",
+     "explanation_en": "Present perfect question: question word + have or has + subject + past participle. Answer: What has Sameh drunk?"
     },
     {
      "item_id": "Prep3:s5:i16",
@@ -3660,7 +4136,9 @@
       "I would've gone out if Huda had phoned.",
       "If Huda had phoned, I would've gone out."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "if النوع الثالث للماضي: If + had + التصريف الثالث، would have + التصريف الثالث. الإجابة: If Huda had phoned, I would have gone out.",
+     "explanation_en": "Third conditional: If + had + past participle, would have + past participle. Answer: If Huda had phoned, I would have gone out."
     },
     {
      "item_id": "Prep3:s5:i17",
@@ -3675,7 +4153,9 @@
       "Amr would not have lost if he had trained hard.",
       "If Amr had trained hard, he would not have lost."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "if النوع الثالث للماضي: If + had + التصريف الثالث، would have + التصريف الثالث. الإجابة: If Amr had trained hard, he wouldn't have lost.",
+     "explanation_en": "Third conditional: If + had + past participle, would have + past participle. Answer: If Amr had trained hard, he wouldn't have lost."
     },
     {
      "item_id": "Prep3:s5:i18",
@@ -3702,7 +4182,9 @@
       "Salma's mother would not have been angry if she hadn't been late.",
       "Salma's mother wouldn't have been angry if she had not been late."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "if النوع الثالث للماضي: If + had + التصريف الثالث، would have + التصريف الثالث. الإجابة: If Salma hadn't been late, her mother wouldn't have been angry.",
+     "explanation_en": "Third conditional: If + had + past participle, would have + past participle. Answer: If Salma hadn't been late, her mother wouldn't have been angry."
     },
     {
      "item_id": "Prep3:s5:i19",
@@ -3725,7 +4207,9 @@
       "She would not have joined the first team if Hana hadn't been clever.",
       "She wouldn't have joined the first team if Hana had not been clever."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "if النوع الثالث للماضي: If + had + التصريف الثالث، would have + التصريف الثالث. الإجابة: If Hana hadn't been clever, she wouldn't have joined the first team.",
+     "explanation_en": "Third conditional: If + had + past participle, would have + past participle. Answer: If Hana hadn't been clever, she wouldn't have joined the first team."
     },
     {
      "item_id": "Prep3:s5:i20",
@@ -3738,7 +4222,9 @@
       "The flat will be cleaned by Shahd.",
       "The flat will be cleaned."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "مبني للمجهول مع will: will be + التصريف الثالث (by + الفاعل). الإجابة: The flat will be cleaned by Shahd.",
+     "explanation_en": "Passive with will: will be + past participle (by + doer). Answer: The flat will be cleaned by Shahd."
     },
     {
      "item_id": "Prep3:s5:i21",
@@ -3751,7 +4237,9 @@
       "The sentences will be finished by Renad.",
       "The sentences will be finished."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "مبني للمجهول مع will: will be + التصريف الثالث (by + الفاعل). الإجابة: The sentences will be finished by Renad.",
+     "explanation_en": "Passive with will: will be + past participle (by + doer). Answer: The sentences will be finished by Renad."
     },
     {
      "item_id": "Prep3:s5:i22",
@@ -3766,7 +4254,9 @@
       "The giraffe won't be seen.",
       "The giraffe will not be seen."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "مبني للمجهول مع will: will be + التصريف الثالث (by + الفاعل). الإجابة: The giraffe won't be seen by Asmaa.",
+     "explanation_en": "Passive with will: will be + past participle (by + doer). Answer: The giraffe won't be seen by Asmaa."
     },
     {
      "item_id": "Prep3:s5:i23",
@@ -3783,7 +4273,9 @@
       "Next Friday the match will be watched.",
       "Next Friday, the match will be watched."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "مبني للمجهول مع will: will be + التصريف الثالث (by + الفاعل). الإجابة: The match will be watched next Friday.",
+     "explanation_en": "Passive with will: will be + past participle (by + doer). Answer: The match will be watched next Friday."
     },
     {
      "item_id": "Prep3:s5:i24",
@@ -3797,7 +4289,9 @@
       "The flat will be painted by him soon.",
       "The flat will be painted soon by him."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "مبني للمجهول مع will: will be + التصريف الثالث (by + الفاعل). الإجابة: The flat will be painted soon.",
+     "explanation_en": "Passive with will: will be + past participle (by + doer). Answer: The flat will be painted soon."
     },
     {
      "item_id": "Prep3:s5:i25",
@@ -3810,7 +4304,9 @@
       "The report will be prepared by Adham.",
       "The report will be prepared."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "مبني للمجهول مع will: will be + التصريف الثالث (by + الفاعل). الإجابة: The report will be prepared by Adham.",
+     "explanation_en": "Passive with will: will be + past participle (by + doer). Answer: The report will be prepared by Adham."
     },
     {
      "item_id": "Prep3:s5:i26",
@@ -3825,7 +4321,9 @@
       "Fish will be caught in the river.",
       "Fish will be caught by Ahmed."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "مبني للمجهول مع will: will be + التصريف الثالث (by + الفاعل). الإجابة: Fish will be caught in the river by Ahmed.",
+     "explanation_en": "Passive with will: will be + past participle (by + doer). Answer: Fish will be caught in the river by Ahmed."
     },
     {
      "item_id": "Prep3:s5:i27",
@@ -3840,7 +4338,9 @@
       "Malak won't be visited.",
       "Malak will not be visited."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "مبني للمجهول مع will: will be + التصريف الثالث (by + الفاعل). الإجابة: Malak won't be visited by Sara.",
+     "explanation_en": "Passive with will: will be + past participle (by + doer). Answer: Malak won't be visited by Sara."
     },
     {
      "item_id": "Prep3:s5:i28",
@@ -3853,7 +4353,9 @@
       "You must respect your friends.",
       "We must respect our friends."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "must/should/mustn't + فعل مصدر بدل العبارة الطويلة. الإجابة: You must respect your friends.",
+     "explanation_en": "Use must, should or mustn't + base verb instead of the long phrase. Answer: You must respect your friends."
     },
     {
      "item_id": "Prep3:s5:i29",
@@ -3870,7 +4372,9 @@
       "Although he's fast he lost the race.",
       "He lost the race although he's fast."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "although بتربط جملتين متعاكستين: although + جملة، جملة. الإجابة: Although he is fast, he lost the race.",
+     "explanation_en": "although joins two contrasting ideas: although + clause, clause. Answer: Although he is fast, he lost the race."
     },
     {
      "item_id": "Prep3:s5:i30",
@@ -3883,7 +4387,9 @@
       "You should sleep early.",
       "We should sleep early."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "must/should/mustn't + فعل مصدر بدل العبارة الطويلة. الإجابة: You should sleep early.",
+     "explanation_en": "Use must, should or mustn't + base verb instead of the long phrase. Answer: You should sleep early."
     },
     {
      "item_id": "Prep3:s5:i31",
@@ -3898,7 +4404,9 @@
       "We must not park here.",
       "You must not park here."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "must/should/mustn't + فعل مصدر بدل العبارة الطويلة. الإجابة: You mustn't park here.",
+     "explanation_en": "Use must, should or mustn't + base verb instead of the long phrase. Answer: You mustn't park here."
     },
     {
      "item_id": "Prep3:s5:i32",
@@ -3912,7 +4420,9 @@
       "Although she got up late she caught the train.",
       "She caught the train although she got up late."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "although بتربط جملتين متعاكستين: although + جملة، جملة. الإجابة: Although she got up late, she caught the train.",
+     "explanation_en": "although joins two contrasting ideas: although + clause, clause. Answer: Although she got up late, she caught the train."
     },
     {
      "item_id": "Prep3:s5:i33",
@@ -3927,7 +4437,9 @@
       "We must take our passport with us.",
       "You must take your passports with you."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "must/should/mustn't + فعل مصدر بدل العبارة الطويلة. الإجابة: You must take your passport with you.",
+     "explanation_en": "Use must, should or mustn't + base verb instead of the long phrase. Answer: You must take your passport with you."
     },
     {
      "item_id": "Prep3:s5:i34",
@@ -3940,7 +4452,9 @@
       "You should read the novel.",
       "We should read the novel."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "must/should/mustn't + فعل مصدر بدل العبارة الطويلة. الإجابة: You should read the novel.",
+     "explanation_en": "Use must, should or mustn't + base verb instead of the long phrase. Answer: You should read the novel."
     },
     {
      "item_id": "Prep3:s5:i35",
@@ -3955,7 +4469,9 @@
       "While I do not like tennis, I watch it on TV.",
       "While I do not like tennis I watch it on TV."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "while بتربط جملتين متعاكستين: while + جملة، جملة. الإجابة: While I don't like tennis, I watch it on TV.",
+     "explanation_en": "while joins two contrasting ideas: while + clause, clause. Answer: While I don't like tennis, I watch it on TV."
     }
    ]
   },
@@ -3974,7 +4490,9 @@
      "accept": [
       "The test will be corrected by the teacher."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "بعد will بنحتاج be + التصريف الثالث: will be corrected. الإجابة: The test will be corrected by the teacher.",
+     "explanation_en": "After will in the passive we need be + past participle. Answer: The test will be corrected by the teacher."
     },
     {
      "item_id": "Prep3:s6:i1",
@@ -3986,7 +4504,9 @@
      "accept": [
       "The letter will be sent next week."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "be + التصريف الثالث: sent مش send. الإجابة: The letter will be sent next week.",
+     "explanation_en": "After be we use the past participle: sent. Answer: The letter will be sent next week."
     },
     {
      "item_id": "Prep3:s6:i2",
@@ -3998,7 +4518,9 @@
      "accept": [
       "The report will be prepared by the manager."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "will be + التصريف الثالث: prepared. الإجابة: The report will be prepared by the manager.",
+     "explanation_en": "Passive: will be + past participle: prepared. Answer: The report will be prepared by the manager."
     },
     {
      "item_id": "Prep3:s6:i3",
@@ -4010,7 +4532,9 @@
      "accept": [
       "The homework will be delivered next Monday."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "المبني للمجهول ناقصه be: will be delivered. الإجابة: The homework will be delivered next Monday.",
+     "explanation_en": "The passive needs be: will be delivered. Answer: The homework will be delivered next Monday."
     },
     {
      "item_id": "Prep3:s6:i4",
@@ -4024,7 +4548,9 @@
       "When it rained, we went outside.",
       "We went outside when it rained."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "while مع حدث طويل: it was raining. الإجابة: While it was raining, we went outside.",
+     "explanation_en": "While goes with a long action: it was raining. Answer: While it was raining, we went outside."
     },
     {
      "item_id": "Prep3:s6:i5",
@@ -4037,7 +4563,9 @@
       "I was watching a movie when it rained.",
       "I watched a movie while it was raining."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "when مع الحدث القصير، والمشاهدة هي الطويلة: was watching. الإجابة: I was watching a movie when it rained.",
+     "explanation_en": "The long action is watching: was watching. Answer: I was watching a movie when it rained."
     },
     {
      "item_id": "Prep3:s6:i6",
@@ -4049,7 +4577,9 @@
      "accept": [
       "What does success mean to you?"
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "success مفرد، فنستخدم does. الإجابة: What does success mean to you?",
+     "explanation_en": "Success is singular, so we use does. Answer: What does success mean to you?"
     },
     {
      "item_id": "Prep3:s6:i7",
@@ -4061,7 +4591,9 @@
      "accept": [
       "Young people are the future of Egypt."
      ],
-     "strict_case": false
+     "strict_case": false,
+     "explanation_ar": "people جمع، فنستخدم are. الإجابة: Young people are the future of Egypt.",
+     "explanation_en": "People is plural, so we use are. Answer: Young people are the future of Egypt."
     }
    ]
   },
@@ -4076,7 +4608,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i1",
@@ -4084,7 +4618,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i2",
@@ -4092,7 +4628,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i3",
@@ -4100,7 +4638,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i4",
@@ -4108,7 +4648,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i5",
@@ -4116,7 +4658,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i6",
@@ -4124,7 +4668,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i7",
@@ -4132,7 +4678,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i8",
@@ -4140,7 +4688,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i9",
@@ -4148,7 +4698,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i10",
@@ -4156,7 +4708,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i11",
@@ -4164,7 +4718,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i12",
@@ -4172,7 +4728,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i13",
@@ -4180,7 +4738,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i14",
@@ -4188,7 +4748,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i15",
@@ -4196,7 +4758,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i16",
@@ -4204,7 +4768,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i17",
@@ -4212,7 +4778,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i18",
@@ -4220,7 +4788,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i19",
@@ -4228,7 +4798,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i20",
@@ -4236,7 +4808,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i21",
@@ -4244,7 +4818,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i22",
@@ -4252,7 +4828,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i23",
@@ -4260,7 +4838,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i24",
@@ -4268,7 +4848,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i25",
@@ -4276,7 +4858,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i26",
@@ -4284,7 +4868,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i27",
@@ -4292,7 +4878,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i28",
@@ -4300,7 +4888,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i29",
@@ -4308,7 +4898,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i30",
@@ -4316,7 +4908,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i31",
@@ -4324,7 +4918,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i32",
@@ -4332,7 +4928,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i33",
@@ -4340,7 +4938,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i34",
@@ -4348,7 +4948,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i35",
@@ -4356,7 +4958,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i36",
@@ -4364,7 +4968,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i37",
@@ -4372,7 +4978,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i38",
@@ -4380,7 +4988,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s7:i39",
@@ -4388,7 +4998,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة."
+     "grading_reason": "الحوار إجاباته حرة وتُراجع مع المدرس، فقد تصح عدة إجابات مناسبة.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     }
    ]
   },
@@ -4403,7 +5015,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i1",
@@ -4411,7 +5025,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i2",
@@ -4419,7 +5035,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i3",
@@ -4427,7 +5045,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i4",
@@ -4435,7 +5055,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i5",
@@ -4443,7 +5065,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i6",
@@ -4451,7 +5075,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i7",
@@ -4459,7 +5085,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i8",
@@ -4467,7 +5095,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i9",
@@ -4475,7 +5105,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i10",
@@ -4483,7 +5115,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i11",
@@ -4491,7 +5125,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i12",
@@ -4499,7 +5135,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i13",
@@ -4507,7 +5145,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i14",
@@ -4515,7 +5155,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i15",
@@ -4523,7 +5165,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i16",
@@ -4531,7 +5175,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i17",
@@ -4539,7 +5185,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i18",
@@ -4547,7 +5195,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i19",
@@ -4555,7 +5205,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i20",
@@ -4563,7 +5215,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i21",
@@ -4571,7 +5225,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i22",
@@ -4579,7 +5235,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i23",
@@ -4587,7 +5245,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i24",
@@ -4595,7 +5255,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i25",
@@ -4603,7 +5265,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i26",
@@ -4611,7 +5275,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i27",
@@ -4619,7 +5285,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i28",
@@ -4627,7 +5295,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i29",
@@ -4635,7 +5305,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i30",
@@ -4643,7 +5315,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i31",
@@ -4651,7 +5325,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i32",
@@ -4659,7 +5335,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i33",
@@ -4667,7 +5345,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i34",
@@ -4675,7 +5355,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i35",
@@ -4683,7 +5365,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i36",
@@ -4691,7 +5375,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i37",
@@ -4699,7 +5385,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i38",
@@ -4707,7 +5395,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i39",
@@ -4715,7 +5405,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال مفتوح وإجابته شخصية، فمفيش إجابة واحدة صح. اكتب جملة صحيحة من عندك وراجعها مع المدرس.",
+     "explanation_en": "This is an open question with a personal answer, so there is no single correct answer. Write a correct sentence of your own and check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i40",
@@ -4723,7 +5415,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i41",
@@ -4731,7 +5425,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i42",
@@ -4739,7 +5435,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i43",
@@ -4747,7 +5445,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i44",
@@ -4755,7 +5455,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i45",
@@ -4763,7 +5465,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i46",
@@ -4771,7 +5475,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s8:i47",
@@ -4779,7 +5485,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     }
    ]
   },
@@ -4794,7 +5502,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s9:i1",
@@ -4802,7 +5512,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s9:i2",
@@ -4810,7 +5522,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     },
     {
      "item_id": "Prep3:s9:i3",
@@ -4818,7 +5532,9 @@
      "review_status": "ambiguous_held",
      "held": true,
      "grading_mode": "teacher",
-     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة."
+     "grading_reason": "نص القصة غير موجود في الكتيب المطبوع، يراجعه المدرس ولا يدخل في الدرجة.",
+     "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+     "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
     }
    ]
   },
@@ -4835,7 +5551,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i1",
@@ -4845,7 +5563,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i2",
@@ -4855,7 +5575,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i3",
@@ -4865,7 +5587,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i4",
@@ -4875,7 +5599,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i5",
@@ -4885,7 +5611,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i6",
@@ -4895,7 +5623,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i7",
@@ -4905,7 +5635,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i8",
@@ -4915,7 +5647,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i9",
@@ -4925,7 +5659,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i10",
@@ -4935,7 +5671,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i11",
@@ -4945,7 +5683,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i12",
@@ -4955,7 +5695,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i13",
@@ -4965,7 +5707,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i14",
@@ -4975,7 +5719,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i15",
@@ -4985,7 +5731,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i16",
@@ -4995,7 +5743,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i17",
@@ -5005,7 +5755,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i18",
@@ -5015,7 +5767,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i19",
@@ -5025,7 +5779,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i20",
@@ -5035,7 +5791,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i21",
@@ -5045,7 +5803,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i22",
@@ -5055,7 +5815,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i23",
@@ -5065,7 +5827,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i24",
@@ -5075,7 +5839,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i25",
@@ -5085,7 +5851,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i26",
@@ -5095,7 +5863,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i27",
@@ -5105,7 +5875,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i28",
@@ -5115,7 +5887,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     },
     {
      "item_id": "Prep3:s10:i29",
@@ -5125,7 +5899,9 @@
      "review_status": "open_ended",
      "held": false,
      "grading_mode": "teacher",
-     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+     "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+     "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+     "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
     }
    ]
   }

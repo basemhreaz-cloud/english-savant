@@ -625,13 +625,14 @@
       "in the cage"
     ],
     "answer": "in the tree",
-    "explanation_ar": "The monkey is in the tree!",
+    "explanation_ar": "في الحوار ليلى بتقول إن القرد (monkey) في الشجرة: in the tree.",
     "passage": "Omar: Look! What's this?\nLeila: It's a lion!\nOmar: How many lions can you see?\nLeila: I can see 2 lions!\nOmar: How many legs does a tiger have?\nLeila: A tiger has 4 legs.\nOmar: Where is the monkey?\nLeila: The monkey is in the tree!\nOmar: I see an elephant and a giraffe too!\nLeila: And look! There is a snake on the ground!\nBoth: We love the jungle!",
     "answer_kind": "closed",
     "image_optional": [
       "monkey"
     ],
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "In the dialogue Leila says the monkey is in the tree."
   },
   {
     "grade": "P1",

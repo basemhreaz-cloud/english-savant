@@ -229,7 +229,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "sound"
+          "answer": "sound",
+          "explanation_ar": "Goha مدفعش فلوس، دفع صوت فلوسه، لأن صاحب المطعم قاله لازم تدفع تمن الريحة. sound هو الاختيار في القصة.",
+          "explanation_en": "In the story Goha paid with the sound of his coins, because the owner said he had to pay for the smell."
         },
         {
           "item_id": "P4:s0:i14",
@@ -323,7 +325,9 @@
           "review_status": "ambiguous_held",
           "held": true,
           "grading_mode": "teacher",
-          "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+          "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s0:i20",
@@ -417,7 +421,9 @@
           "review_status": "ambiguous_held",
           "held": true,
           "grading_mode": "teacher",
-          "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+          "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s0:i26",
@@ -431,7 +437,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "move"
+          "answer": "move",
+          "explanation_ar": "Cars جمع، فنستخدم الفعل المصدر move من غير s.",
+          "explanation_en": "Cars is plural, so we use the base verb move with no s."
         },
         {
           "item_id": "P4:s0:i27",
@@ -445,7 +453,9 @@
           "review_status": "source_reviewed",
           "held": false,
           "grading_mode": "checked",
-          "answer": "sugar cane"
+          "answer": "sugar cane",
+          "explanation_ar": "حسب الكتاب، في صعيد مصر المزارعين بيزرعوا sugar cane يعني قصب السكر.",
+          "explanation_en": "According to the textbook, farmers in Upper Egypt grow sugar cane."
         },
         {
           "item_id": "P4:s0:i28",
@@ -459,7 +469,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "galabeyas"
+          "answer": "galabeyas",
+          "explanation_ar": "حسب الدرس، الرجالة في الصعيد بيلبسوا galabeyas يعني جلاليب.",
+          "explanation_en": "In the lesson, men in Upper Egypt wear galabeyas."
         },
         {
           "item_id": "P4:s0:i29",
@@ -473,7 +485,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "train station"
+          "answer": "train station",
+          "explanation_ar": "بنركب القطر من train station يعني محطة القطر.",
+          "explanation_en": "We take a train from the train station."
         },
         {
           "item_id": "P4:s0:i30",
@@ -487,7 +501,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "stories"
+          "answer": "stories",
+          "explanation_ar": "الأم بتحكي stories يعني حكايات عن عيلتها.",
+          "explanation_en": "A mother tells stories about her family."
         },
         {
           "item_id": "P4:s0:i31",
@@ -501,7 +517,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "Walk"
+          "answer": "Walk",
+          "explanation_ar": "Walk to school معناها امشي للمدرسة، وده بيقلل تلوث الهوا لأن العربيات بتتوقف.",
+          "explanation_en": "Walk to school is a way to stop air pollution because fewer cars are used."
         },
         {
           "item_id": "P4:s0:i32",
@@ -515,7 +533,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "bigger"
+          "answer": "bigger",
+          "explanation_ar": "Elephants أكبر من القرود، فهي محتاجة مساحة bigger يعني أكبر. بعد need spaces than بنستخدم المقارنة.",
+          "explanation_en": "Elephants are bigger than monkeys, so they need bigger spaces. The sentence has than, so we use the comparative."
         },
         {
           "item_id": "P4:s0:i33",
@@ -529,7 +549,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "taller"
+          "answer": "taller",
+          "explanation_ar": "الزرافة طويلة، فمحتاجة شجر taller يعني أطول. بعد than بنستخدم المقارنة.",
+          "explanation_en": "Giraffes are tall, so they need taller trees. The sentence has than, so we use the comparative."
         },
         {
           "item_id": "P4:s0:i34",
@@ -543,7 +565,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "zebra"
+          "answer": "zebra",
+          "explanation_ar": "الحيوان الأبيض والأسود هو zebra يعني الحمار الوحشي.",
+          "explanation_en": "The black and white animal is the zebra."
         },
         {
           "item_id": "P4:s0:i35",
@@ -557,7 +581,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "climbing"
+          "answer": "climbing",
+          "explanation_ar": "بعد good at بنستخدم الفعل + ing: climbing.",
+          "explanation_en": "After good at we use verb + ing: climbing."
         },
         {
           "item_id": "P4:s0:i36",
@@ -571,7 +597,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "bigger"
+          "answer": "bigger",
+          "explanation_ar": "في الجملة than، فنستخدم المقارنة bigger.",
+          "explanation_en": "The sentence has than, so we use the comparative: bigger."
         },
         {
           "item_id": "P4:s0:i37",
@@ -585,7 +613,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "shorter"
+          "answer": "shorter",
+          "explanation_ar": "في الجملة than، فنستخدم المقارنة shorter.",
+          "explanation_en": "The sentence has than, so we use the comparative: shorter."
         },
         {
           "item_id": "P4:s0:i38",
@@ -599,7 +629,9 @@
           "review_status": "source_reviewed",
           "held": false,
           "grading_mode": "checked",
-          "answer": "daily"
+          "answer": "daily",
+          "explanation_ar": "حسب الكتاب، الحيوانات الأليفة محتاجة رعاية daily يعني كل يوم.",
+          "explanation_en": "According to the textbook, pets need care daily, which means every day."
         },
         {
           "item_id": "P4:s0:i39",
@@ -613,7 +645,9 @@
           "review_status": "reviewed",
           "held": false,
           "grading_mode": "checked",
-          "answer": "pretended"
+          "answer": "pretended",
+          "explanation_ar": "القصة حصلت في الماضي، فنستخدم pretended (ماضي pretend) مع to be sick.",
+          "explanation_en": "The story is in the past, so we use pretended (past of pretend)."
         },
         {
           "item_id": "P4:s0:i40",
@@ -627,7 +661,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "footprints"
+          "answer": "footprints",
+          "explanation_ar": "الثعلب الذكي شاف footprints يعني آثار أقدام في اتجاه واحد، وده اللي كشف الخدعة.",
+          "explanation_en": "The clever fox saw one-way footprints, which showed the trick."
         },
         {
           "item_id": "P4:s0:i41",
@@ -641,7 +677,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "leaves"
+          "answer": "leaves",
+          "explanation_ar": "الزرافة بتاكل leaves يعني ورق شجر أخضر.",
+          "explanation_en": "Giraffes eat green leaves."
         },
         {
           "item_id": "P4:s0:i42",
@@ -655,7 +693,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "vet"
+          "answer": "vet",
+          "explanation_ar": "vet هو دكتور بيعالج الحيوانات المريضة.",
+          "explanation_en": "A vet is a doctor who takes care of sick animals."
         },
         {
           "item_id": "P4:s0:i43",
@@ -669,7 +709,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "healthier"
+          "answer": "healthier",
+          "explanation_ar": "في الجملة than، فنستخدم المقارنة healthier.",
+          "explanation_en": "The sentence has than, so we use the comparative: healthier."
         },
         {
           "item_id": "P4:s0:i44",
@@ -683,7 +725,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "faster"
+          "answer": "faster",
+          "explanation_ar": "في الجملة than، فنستخدم المقارنة faster.",
+          "explanation_en": "The sentence has than, so we use the comparative: faster."
         },
         {
           "item_id": "P4:s0:i45",
@@ -697,7 +741,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "Nile"
+          "answer": "Nile",
+          "explanation_ar": "the Nile هو نهر النيل، أطول نهر في مصر.",
+          "explanation_en": "The Nile is a very long river in Egypt."
         },
         {
           "item_id": "P4:s0:i46",
@@ -711,7 +757,9 @@
           "review_status": "reviewed",
           "held": false,
           "grading_mode": "checked",
-          "answer": "camels"
+          "answer": "camels",
+          "explanation_ar": "حسب نص المرشد السياحي، السياح بيركبوا camels يعني جمال جنب الأهرامات.",
+          "explanation_en": "According to the tour-guide text, tourists ride camels near the Pyramids."
         },
         {
           "item_id": "P4:s0:i47",
@@ -725,7 +773,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "bazaar"
+          "answer": "bazaar",
+          "explanation_ar": "بنشتري الهدايا من bazaar يعني السوق.",
+          "explanation_en": "People buy gifts from the bazaar."
         },
         {
           "item_id": "P4:s0:i48",
@@ -739,7 +789,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "oasis"
+          "answer": "oasis",
+          "explanation_ar": "oasis هي مكان فيه ميه وشجر في الصحرا.",
+          "explanation_en": "An oasis is a place with water and trees in the desert."
         },
         {
           "item_id": "P4:s0:i49",
@@ -753,7 +805,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "Tower"
+          "answer": "Tower",
+          "explanation_ar": "من Cairo Tower يعني برج القاهرة تقدر تبص على القاهرة من فوق.",
+          "explanation_en": "From the Cairo Tower you can look down at Cairo."
         },
         {
           "item_id": "P4:s0:i50",
@@ -767,7 +821,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "in"
+          "answer": "in",
+          "explanation_ar": "in معناها جوه، والوردة بتنمو جوه الإصيص.",
+          "explanation_en": "In means inside; the flower grows in the pot."
         },
         {
           "item_id": "P4:s0:i51",
@@ -781,7 +837,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "between"
+          "answer": "between",
+          "explanation_ar": "between معناها بين اتنين، والبنك بين مكتب البريد والمدرسة.",
+          "explanation_en": "Between is used for something in the middle of two places: the bank is between the post office and the school."
         },
         {
           "item_id": "P4:s0:i52",
@@ -795,7 +853,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "on"
+          "answer": "on",
+          "explanation_ar": "on معناها على السطح، والصورة متعلقة على الحيطة.",
+          "explanation_en": "On means touching a surface: the picture is on the wall."
         },
         {
           "item_id": "P4:s0:i53",
@@ -809,7 +869,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "billion"
+          "answer": "billion",
+          "explanation_ar": "1,000,000,000 بنقرأها one billion يعني مليار.",
+          "explanation_en": "1,000,000,000 is read one billion."
         },
         {
           "item_id": "P4:s0:i54",
@@ -823,7 +885,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "thousand"
+          "answer": "thousand",
+          "explanation_ar": "560,000 بنقرأها five hundred and sixty thousand يعني ألف.",
+          "explanation_en": "560,000 is read five hundred and sixty thousand."
         },
         {
           "item_id": "P4:s0:i55",
@@ -837,7 +901,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "South Sinai"
+          "answer": "South Sinai",
+          "explanation_ar": "St. Catherine Mountain موجود في South Sinai يعني جنوب سيناء.",
+          "explanation_en": "St. Catherine Mountain is in South Sinai."
         },
         {
           "item_id": "P4:s0:i56",
@@ -851,7 +917,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "dates"
+          "answer": "dates",
+          "explanation_ar": "واحة سيوة مشهورة بـ dates يعني بلح حلو.",
+          "explanation_en": "Siwa Oasis is famous for sweet dates."
         },
         {
           "item_id": "P4:s0:i57",
@@ -865,7 +933,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "take"
+          "answer": "take",
+          "explanation_ar": "بنقول take photos يعني نصوّر.",
+          "explanation_en": "The collocation is take photos."
         },
         {
           "item_id": "P4:s0:i58",
@@ -879,7 +949,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "firefighter"
+          "answer": "firefighter",
+          "explanation_ar": "firefighter هو اللي بيطفي الحرايق وبينقذ الناس.",
+          "explanation_en": "A firefighter stops fires and saves people."
         },
         {
           "item_id": "P4:s0:i59",
@@ -893,7 +965,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "engineer"
+          "answer": "engineer",
+          "explanation_ar": "engineer هو اللي بيصمم المباني الجديدة.",
+          "explanation_en": "An engineer designs new buildings."
         },
         {
           "item_id": "P4:s0:i60",
@@ -907,7 +981,9 @@
           "review_status": "reviewed",
           "held": false,
           "grading_mode": "checked",
-          "answer": "hospital"
+          "answer": "hospital",
+          "explanation_ar": "الدكتور بيشتغل في hospital يعني مستشفى.",
+          "explanation_en": "A doctor works in a hospital."
         },
         {
           "item_id": "P4:s0:i61",
@@ -921,7 +997,9 @@
           "review_status": "reviewed",
           "held": false,
           "grading_mode": "checked",
-          "answer": "sick"
+          "answer": "sick",
+          "explanation_ar": "حسب نص الدكتورة، Sara بتساعد sick people يعني الناس المرضى.",
+          "explanation_en": "According to the doctor text, Sara helps sick people."
         },
         {
           "item_id": "P4:s0:i62",
@@ -935,7 +1013,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "tallest"
+          "answer": "tallest",
+          "explanation_ar": "قبل the بنستخدم صيغة التفضيل: tallest.",
+          "explanation_en": "After the we use the superlative: tallest."
         },
         {
           "item_id": "P4:s0:i63",
@@ -949,7 +1029,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "biggest"
+          "answer": "biggest",
+          "explanation_ar": "قبل the بنستخدم صيغة التفضيل: biggest.",
+          "explanation_en": "After the we use the superlative: biggest."
         },
         {
           "item_id": "P4:s0:i64",
@@ -963,7 +1045,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "hottest"
+          "answer": "hottest",
+          "explanation_ar": "قبل the بنستخدم صيغة التفضيل: hottest.",
+          "explanation_en": "After the we use the superlative: hottest."
         },
         {
           "item_id": "P4:s0:i65",
@@ -977,7 +1061,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "wisest"
+          "answer": "wisest",
+          "explanation_ar": "قبل the بنستخدم صيغة التفضيل: wisest.",
+          "explanation_en": "After the we use the superlative: wisest."
         },
         {
           "item_id": "P4:s0:i66",
@@ -991,7 +1077,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "photographer"
+          "answer": "photographer",
+          "explanation_ar": "wildlife photographer هو مصور الحياة البرية اللي بيحب التصوير.",
+          "explanation_en": "A wildlife photographer takes pictures of wild animals."
         },
         {
           "item_id": "P4:s0:i67",
@@ -1005,7 +1093,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "helps"
+          "answer": "helps",
+          "explanation_ar": "mentor فاعل مفرد في المضارع البسيط، فنستخدم helps بـ s.",
+          "explanation_en": "Mentor is singular in the present simple, so we use helps with s."
         },
         {
           "item_id": "P4:s0:i68",
@@ -1019,7 +1109,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "voices"
+          "answer": "voices",
+          "explanation_ar": "Voice-over actors بيعملوا voices يعني أصوات للكرتون.",
+          "explanation_en": "Voice-over actors make voices for cartoons."
         },
         {
           "item_id": "P4:s0:i69",
@@ -1033,7 +1125,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "carpenter"
+          "answer": "carpenter",
+          "explanation_ar": "carpenter هو النجار، وده اللي بيبني بيوت قوية حسب الجملة.",
+          "explanation_en": "A carpenter builds strong things; the sentence says Sami built strong houses."
         },
         {
           "item_id": "P4:s0:i70",
@@ -1047,7 +1141,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "blue"
+          "answer": "blue",
+          "explanation_ar": "في القصة Wanda كانت دايما بتلبس نفس الفستان blue يعني الأزرق.",
+          "explanation_en": "In the story Wanda always wore the same blue dress."
         },
         {
           "item_id": "P4:s0:i71",
@@ -1061,7 +1157,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "hundred"
+          "answer": "hundred",
+          "explanation_ar": "Wanda قالت إن عندها hundred يعني مية فستان في الدولاب.",
+          "explanation_en": "Wanda said she had a hundred dresses in her closet."
         },
         {
           "item_id": "P4:s0:i72",
@@ -1075,7 +1173,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "moved"
+          "answer": "moved",
+          "explanation_ar": "في القصة Wanda moved يعني انتقلت للمدينة الكبيرة مع عيلتها.",
+          "explanation_en": "In the story Wanda moved to the big city with her family."
         },
         {
           "item_id": "P4:s0:i73",
@@ -1089,7 +1189,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "Wanda"
+          "answer": "Wanda",
+          "explanation_ar": "اللي كسبت مسابقة الرسم هي Wanda حسب القصة.",
+          "explanation_en": "According to the story, Wanda won the drawing competition."
         },
         {
           "item_id": "P4:s0:i74",
@@ -1103,7 +1205,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "checked",
-          "answer": "letter"
+          "answer": "letter",
+          "explanation_ar": "Peggy وMaddie كتبوا letter يعني جواب لـ Wanda.",
+          "explanation_en": "Peggy and Maddie wrote a letter to Wanda."
         },
         {
           "item_id": "P4:s0:i75",
@@ -1116,7 +1220,9 @@
           ],
           "review_status": "ambiguous_held",
           "held": true,
-          "grading_mode": "teacher"
+          "grading_mode": "teacher",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s0:i76",
@@ -1129,7 +1235,9 @@
           ],
           "review_status": "ambiguous_held",
           "held": true,
-          "grading_mode": "teacher"
+          "grading_mode": "teacher",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         }
       ]
     },
@@ -1157,7 +1265,9 @@
             "tongue",
             "hands",
             "senses"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) ears | 2) smell | 3) tongue | 4) hands | 5) senses",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) ears | 2) smell | 3) tongue | 4) hands | 5) senses"
         },
         {
           "item_id": "P4:s1:i1",
@@ -1178,7 +1288,9 @@
             "helps",
             "watches",
             "routines"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) brushes | 2) breakfast | 3) helps | 4) watches | 5) routines",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) brushes | 2) breakfast | 3) helps | 4) watches | 5) routines"
         },
         {
           "item_id": "P4:s1:i2",
@@ -1199,7 +1311,9 @@
             "owner",
             "coins",
             "money"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) smelled | 2) restaurant | 3) owner | 4) coins | 5) money",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) smelled | 2) restaurant | 3) owner | 4) coins | 5) money"
         },
         {
           "item_id": "P4:s1:i3",
@@ -1220,7 +1334,9 @@
             "studies",
             "plays",
             "help"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) wakes | 2) vitamins | 3) studies | 4) plays | 5) help",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) wakes | 2) vitamins | 3) studies | 4) plays | 5) help"
         },
         {
           "item_id": "P4:s1:i4",
@@ -1241,7 +1357,9 @@
             "food",
             "milk",
             "energy"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) fruit | 2) vegetables | 3) food | 4) milk | 5) energy",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) fruit | 2) vegetables | 3) food | 4) milk | 5) energy"
         },
         {
           "item_id": "P4:s1:i5",
@@ -1262,7 +1380,9 @@
             "colorful",
             "sugar cane",
             "kind"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) Upper | 2) galabeyas | 3) colorful | 4) sugar cane | 5) kind",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) Upper | 2) galabeyas | 3) colorful | 4) sugar cane | 5) kind"
         },
         {
           "item_id": "P4:s1:i6",
@@ -1283,7 +1403,9 @@
             "near",
             "buses",
             "cars"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) problems | 2) move | 3) near | 4) buses | 5) cars",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) problems | 2) move | 3) near | 4) buses | 5) cars"
         },
         {
           "item_id": "P4:s1:i7",
@@ -1304,7 +1426,9 @@
             "collect",
             "plant",
             "happy"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) volunteer | 2) clean | 3) collect | 4) plant | 5) happy",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) volunteer | 2) clean | 3) collect | 4) plant | 5) happy"
         },
         {
           "item_id": "P4:s1:i8",
@@ -1325,7 +1449,9 @@
             "cave",
             "footprints",
             "learn"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) hunt | 2) pretended | 3) cave | 4) footprints | 5) learn",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) hunt | 2) pretended | 3) cave | 4) footprints | 5) learn"
         },
         {
           "item_id": "P4:s1:i9",
@@ -1346,7 +1472,9 @@
             "pictures",
             "ride",
             "camel"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) guide | 2) Pyramids | 3) pictures | 4) ride | 5) camel",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) guide | 2) Pyramids | 3) pictures | 4) ride | 5) camel"
         },
         {
           "item_id": "P4:s1:i10",
@@ -1367,7 +1495,9 @@
             "colorful",
             "top",
             "monastery"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) famous | 2) climb | 3) colorful | 4) top | 5) monastery",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) famous | 2) climb | 3) colorful | 4) top | 5) monastery"
         },
         {
           "item_id": "P4:s1:i11",
@@ -1388,7 +1518,9 @@
             "protective",
             "alarm",
             "danger"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) truck | 2) helmet | 3) protective | 4) alarm | 5) danger",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) truck | 2) helmet | 3) protective | 4) alarm | 5) danger"
         },
         {
           "item_id": "P4:s1:i12",
@@ -1409,7 +1541,9 @@
             "care",
             "patients",
             "hospital"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) doctor | 2) white | 3) care | 4) patients | 5) hospital",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) doctor | 2) white | 3) care | 4) patients | 5) hospital"
         },
         {
           "item_id": "P4:s1:i13",
@@ -1430,7 +1564,9 @@
             "trees",
             "help",
             "school"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) clean | 2) recycle | 3) trees | 4) help | 5) school",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) clean | 2) recycle | 3) trees | 4) help | 5) school"
         },
         {
           "item_id": "P4:s1:i14",
@@ -1451,7 +1587,9 @@
             "won",
             "drawing",
             "letter"
-          ]
+          ],
+          "explanation_ar": "اقرا النص كله الأول، وكل كلمة من الصندوق بتناسب معنى وقواعد الفراغ بتاعها. الإجابات: 1) dresses | 2) moved | 3) won | 4) drawing | 5) letter",
+          "explanation_en": "Read the whole text first. Each word from the box fits the meaning and grammar of its gap. Answers: 1) dresses | 2) moved | 3) won | 4) drawing | 5) letter"
         }
       ]
     },
@@ -1498,7 +1636,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s2:i1",
@@ -1538,7 +1678,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s2:i2",
@@ -1578,7 +1720,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s2:i3",
@@ -1618,7 +1762,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s2:i4",
@@ -1658,7 +1804,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s2:i5",
@@ -1698,7 +1846,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s2:i6",
@@ -1738,7 +1888,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s2:i7",
@@ -1778,7 +1930,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s2:i8",
@@ -1818,7 +1972,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s2:i9",
@@ -1858,7 +2014,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s2:i10",
@@ -1898,7 +2056,9 @@
           "review_status": "model_answer",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة."
+          "grading_reason": "الأسئلة المكتوبة تُراجع مع المدرس. أسئلة الاختيار من متعدد لها إجابة محددة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         }
       ]
     },
@@ -1916,7 +2076,9 @@
           "answer": "takes",
           "accept": [
             "takes"
-          ]
+          ],
+          "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: takes.",
+          "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: takes."
         },
         {
           "item_id": "P4:s3:i1",
@@ -1927,7 +2089,9 @@
           "answer": "watch",
           "accept": [
             "watch"
-          ]
+          ],
+          "explanation_ar": "الكلمة اللي بين القوسين صح زي ما هي ومفيش تغيير مطلوب. الجملة: My brother and I watch TV in the evening.",
+          "explanation_en": "The word in brackets is already correct, so it stays the same. The sentence is: My brother and I watch TV in the evening."
         },
         {
           "item_id": "P4:s3:i2",
@@ -1938,7 +2102,9 @@
           "answer": "studies",
           "accept": [
             "studies"
-          ]
+          ],
+          "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: studies.",
+          "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: studies."
         },
         {
           "item_id": "P4:s3:i3",
@@ -1949,7 +2115,9 @@
           "answer": "reads",
           "accept": [
             "reads"
-          ]
+          ],
+          "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: reads.",
+          "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: reads."
         },
         {
           "item_id": "P4:s3:i4",
@@ -1960,7 +2128,9 @@
           "answer": "cleans",
           "accept": [
             "cleans"
-          ]
+          ],
+          "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: cleans.",
+          "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: cleans."
         },
         {
           "item_id": "P4:s3:i5",
@@ -1971,7 +2141,9 @@
           "answer": "helps",
           "accept": [
             "helps"
-          ]
+          ],
+          "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: helps.",
+          "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: helps."
         },
         {
           "item_id": "P4:s3:i6",
@@ -1982,7 +2154,9 @@
           "answer": "writes",
           "accept": [
             "writes"
-          ]
+          ],
+          "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: writes.",
+          "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: writes."
         },
         {
           "item_id": "P4:s3:i7",
@@ -1993,7 +2167,9 @@
           "answer": "washes",
           "accept": [
             "washes"
-          ]
+          ],
+          "explanation_ar": "المضارع البسيط مع he/she/it/اسم مفرد بنزود s أو es للفعل: washes.",
+          "explanation_en": "In the present simple with he/she/it or a singular name we add s or es to the verb: washes."
         },
         {
           "item_id": "P4:s3:i8",
@@ -2005,7 +2181,9 @@
           "accept": [
             "doesn't eat",
             "does not eat"
-          ]
+          ],
+          "explanation_ar": "النفي: doesn't + الفعل المصدر (eat) من غير s أو ed. الجملة: Ahmed doesn't eat unhealthy food.",
+          "explanation_en": "Negative: doesn't + base verb (eat), with no s or ed. The sentence is: Ahmed doesn't eat unhealthy food."
         },
         {
           "item_id": "P4:s3:i9",
@@ -2016,7 +2194,9 @@
           "answer": "put",
           "accept": [
             "put"
-          ]
+          ],
+          "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: put. الجملة: We don't put trash in bins.",
+          "explanation_en": "After the helper verb we use the base verb with no s or ed: put. The sentence is: We don't put trash in bins."
         },
         {
           "item_id": "P4:s3:i10",
@@ -2027,7 +2207,9 @@
           "answer": "play",
           "accept": [
             "play"
-          ]
+          ],
+          "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: play. الجملة: He doesn't play in the street.",
+          "explanation_en": "After the helper verb we use the base verb with no s or ed: play. The sentence is: He doesn't play in the street."
         },
         {
           "item_id": "P4:s3:i11",
@@ -2039,7 +2221,9 @@
           "accept": [
             "don't feed",
             "do not feed"
-          ]
+          ],
+          "explanation_ar": "النفي: don't + الفعل المصدر (feed) من غير s أو ed. الجملة: The farmers don't feed the animals in the morning.",
+          "explanation_en": "Negative: don't + base verb (feed), with no s or ed. The sentence is: The farmers don't feed the animals in the morning."
         },
         {
           "item_id": "P4:s3:i12",
@@ -2051,7 +2235,9 @@
           "accept": [
             "don't move",
             "do not move"
-          ]
+          ],
+          "explanation_ar": "النفي: don't + الفعل المصدر (move) من غير s أو ed. الجملة: Cars don't move quickly in the morning.",
+          "explanation_en": "Negative: don't + base verb (move), with no s or ed. The sentence is: Cars don't move quickly in the morning."
         },
         {
           "item_id": "P4:s3:i13",
@@ -2063,7 +2249,9 @@
           "accept": [
             "doesn't appear",
             "does not appear"
-          ]
+          ],
+          "explanation_ar": "النفي: doesn't + الفعل المصدر (appear) من غير s أو ed. الجملة: The sun doesn't appear at night.",
+          "explanation_en": "Negative: doesn't + base verb (appear), with no s or ed. The sentence is: The sun doesn't appear at night."
         },
         {
           "item_id": "P4:s3:i14",
@@ -2075,7 +2263,9 @@
           "accept": [
             "doesn't",
             "does not"
-          ]
+          ],
+          "explanation_ar": "النفي في الجملة بيكون بـ doesn't حسب الفاعل والزمن (doesn't مع he/she/it، don't مع الباقي، didn't في الماضي). الجملة: She doesn't read Arabic well.",
+          "explanation_en": "The negative uses doesn't to match the subject and tense (doesn't with he/she/it, don't with the others, didn't for the past). The sentence is: She doesn't read Arabic well."
         },
         {
           "item_id": "P4:s3:i15",
@@ -2086,7 +2276,9 @@
           "answer": "have",
           "accept": [
             "have"
-          ]
+          ],
+          "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: have. الجملة: No, she doesn't have any books.",
+          "explanation_en": "After the helper verb we use the base verb with no s or ed: have. The sentence is: No, she doesn't have any books."
         },
         {
           "item_id": "P4:s3:i16",
@@ -2098,7 +2290,9 @@
           "accept": [
             "don't like",
             "do not like"
-          ]
+          ],
+          "explanation_ar": "النفي: don't + الفعل المصدر (like) من غير s أو ed. الجملة: I don't like loud sounds.",
+          "explanation_en": "Negative: don't + base verb (like), with no s or ed. The sentence is: I don't like loud sounds."
         },
         {
           "item_id": "P4:s3:i17",
@@ -2109,7 +2303,9 @@
           "answer": "read",
           "accept": [
             "read"
-          ]
+          ],
+          "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: read. الجملة: Hany doesn't read English well.",
+          "explanation_en": "After the helper verb we use the base verb with no s or ed: read. The sentence is: Hany doesn't read English well."
         },
         {
           "item_id": "P4:s3:i18",
@@ -2120,7 +2316,9 @@
           "answer": "Does",
           "accept": [
             "Does"
-          ]
+          ],
+          "explanation_ar": "السؤال بيبدأ بـ Does: Does مع he/she/it، Do مع I/you/we/they، Did في الماضي. الجملة: Does Heba like ice cream?",
+          "explanation_en": "The question starts with Does: Does with he/she/it, Do with I/you/we/they, Did for the past. The sentence is: Does Heba like ice cream?"
         },
         {
           "item_id": "P4:s3:i19",
@@ -2131,7 +2329,9 @@
           "answer": "Does",
           "accept": [
             "Does"
-          ]
+          ],
+          "explanation_ar": "السؤال بيبدأ بـ Does: Does مع he/she/it، Do مع I/you/we/they، Did في الماضي. الجملة: Does Adam walk to school on foot?",
+          "explanation_en": "The question starts with Does: Does with he/she/it, Do with I/you/we/they, Did for the past. The sentence is: Does Adam walk to school on foot?"
         },
         {
           "item_id": "P4:s3:i20",
@@ -2142,7 +2342,9 @@
           "answer": "Do",
           "accept": [
             "Do"
-          ]
+          ],
+          "explanation_ar": "السؤال بيبدأ بـ Do: Does مع he/she/it، Do مع I/you/we/they، Did في الماضي. الجملة: Do you play football every Friday?",
+          "explanation_en": "The question starts with Do: Does with he/she/it, Do with I/you/we/they, Did for the past. The sentence is: Do you play football every Friday?"
         },
         {
           "item_id": "P4:s3:i21",
@@ -2153,7 +2355,9 @@
           "answer": "Does",
           "accept": [
             "Does"
-          ]
+          ],
+          "explanation_ar": "السؤال بيبدأ بـ Does: Does مع he/she/it، Do مع I/you/we/they، Did في الماضي. الجملة: Does Ramy study English every day?",
+          "explanation_en": "The question starts with Does: Does with he/she/it, Do with I/you/we/they, Did for the past. The sentence is: Does Ramy study English every day?"
         },
         {
           "item_id": "P4:s3:i22",
@@ -2164,7 +2368,9 @@
           "answer": "get",
           "accept": [
             "get"
-          ]
+          ],
+          "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: get. الجملة: Do you get up late?",
+          "explanation_en": "After the helper verb we use the base verb with no s or ed: get. The sentence is: Do you get up late?"
         },
         {
           "item_id": "P4:s3:i23",
@@ -2175,7 +2381,9 @@
           "answer": "Do",
           "accept": [
             "Do"
-          ]
+          ],
+          "explanation_ar": "السؤال بيبدأ بـ Do: Does مع he/she/it، Do مع I/you/we/they، Did في الماضي. الجملة: Do they play in the park?",
+          "explanation_en": "The question starts with Do: Does with he/she/it, Do with I/you/we/they, Did for the past. The sentence is: Do they play in the park?"
         },
         {
           "item_id": "P4:s3:i24",
@@ -2186,7 +2394,9 @@
           "answer": "study",
           "accept": [
             "study"
-          ]
+          ],
+          "explanation_ar": "بعد الفعل المساعد بنستخدم الفعل المصدر من غير s أو ed: study. الجملة: Do you study Arabic every day?",
+          "explanation_en": "After the helper verb we use the base verb with no s or ed: study. The sentence is: Do you study Arabic every day?"
         },
         {
           "item_id": "P4:s3:i25",
@@ -2197,7 +2407,9 @@
           "answer": "Does",
           "accept": [
             "Does"
-          ]
+          ],
+          "explanation_ar": "السؤال بيبدأ بـ Does: Does مع he/she/it، Do مع I/you/we/they، Did في الماضي. الجملة: Does Sally like ice cream?",
+          "explanation_en": "The question starts with Does: Does with he/she/it, Do with I/you/we/they, Did for the past. The sentence is: Does Sally like ice cream?"
         },
         {
           "item_id": "P4:s3:i26",
@@ -2208,7 +2420,9 @@
           "answer": "bigger",
           "accept": [
             "bigger"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة bigger.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is bigger."
         },
         {
           "item_id": "P4:s3:i27",
@@ -2219,7 +2433,9 @@
           "answer": "colder",
           "accept": [
             "colder"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة colder.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is colder."
         },
         {
           "item_id": "P4:s3:i28",
@@ -2230,7 +2446,9 @@
           "answer": "taller",
           "accept": [
             "taller"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة taller.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is taller."
         },
         {
           "item_id": "P4:s3:i29",
@@ -2241,7 +2459,9 @@
           "answer": "lazier",
           "accept": [
             "lazier"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة lazier.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is lazier."
         },
         {
           "item_id": "P4:s3:i30",
@@ -2252,7 +2472,9 @@
           "answer": "heavier",
           "accept": [
             "heavier"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة heavier.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is heavier."
         },
         {
           "item_id": "P4:s3:i31",
@@ -2263,7 +2485,9 @@
           "answer": "easier",
           "accept": [
             "easier"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة easier.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is easier."
         },
         {
           "item_id": "P4:s3:i32",
@@ -2274,7 +2498,9 @@
           "answer": "than",
           "accept": [
             "than"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بنقول taller than مش then.",
+          "explanation_en": "In comparisons we write than, not then."
         },
         {
           "item_id": "P4:s3:i33",
@@ -2285,7 +2511,9 @@
           "answer": "lazier",
           "accept": [
             "lazier"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة lazier.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is lazier."
         },
         {
           "item_id": "P4:s3:i34",
@@ -2296,7 +2524,9 @@
           "answer": "healthier",
           "accept": [
             "healthier"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة healthier.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is healthier."
         },
         {
           "item_id": "P4:s3:i35",
@@ -2307,7 +2537,9 @@
           "answer": "prettier",
           "accept": [
             "prettier"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة prettier.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is prettier."
         },
         {
           "item_id": "P4:s3:i36",
@@ -2318,7 +2550,9 @@
           "answer": "faster",
           "accept": [
             "faster"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة faster.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is faster."
         },
         {
           "item_id": "P4:s3:i37",
@@ -2329,7 +2563,9 @@
           "answer": "stronger",
           "accept": [
             "stronger"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة stronger.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is stronger."
         },
         {
           "item_id": "P4:s3:i38",
@@ -2340,7 +2576,9 @@
           "answer": "thinner",
           "accept": [
             "thinner"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة thinner.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is thinner."
         },
         {
           "item_id": "P4:s3:i39",
@@ -2351,7 +2589,9 @@
           "answer": "shorter",
           "accept": [
             "shorter"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة shorter.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is shorter."
         },
         {
           "item_id": "P4:s3:i40",
@@ -2362,7 +2602,9 @@
           "answer": "faster",
           "accept": [
             "faster"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة faster.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is faster."
         },
         {
           "item_id": "P4:s3:i41",
@@ -2373,7 +2615,9 @@
           "answer": "prettier",
           "accept": [
             "prettier"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة prettier.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is prettier."
         },
         {
           "item_id": "P4:s3:i42",
@@ -2384,7 +2628,9 @@
           "answer": "lazier",
           "accept": [
             "lazier"
-          ]
+          ],
+          "explanation_ar": "في المقارنة بين اتنين بنزود er للصفة القصيرة (وy بتتحول لـ i) وبعدها than، ومش بنستخدم more معاها. الإجابة lazier.",
+          "explanation_en": "To compare two things we add er to a short adjective (y changes to i), followed by than; we do not use more with it. The answer is lazier."
         },
         {
           "item_id": "P4:s3:i43",
@@ -2395,7 +2641,9 @@
           "answer": "greatest",
           "accept": [
             "greatest"
-          ]
+          ],
+          "explanation_ar": "بعد the بنستخدم صيغة التفضيل: صفة + est (وy بتتحول لـ i). الإجابة greatest.",
+          "explanation_en": "After the we use the superlative: adjective + est (y changes to i). The answer is greatest."
         },
         {
           "item_id": "P4:s3:i44",
@@ -2406,7 +2654,9 @@
           "answer": "heaviest",
           "accept": [
             "heaviest"
-          ]
+          ],
+          "explanation_ar": "بعد the بنستخدم صيغة التفضيل: صفة + est (وy بتتحول لـ i). الإجابة heaviest.",
+          "explanation_en": "After the we use the superlative: adjective + est (y changes to i). The answer is heaviest."
         },
         {
           "item_id": "P4:s3:i45",
@@ -2417,7 +2667,9 @@
           "answer": "bravest",
           "accept": [
             "bravest"
-          ]
+          ],
+          "explanation_ar": "بعد the بنستخدم صيغة التفضيل: صفة + est (وy بتتحول لـ i). الإجابة bravest.",
+          "explanation_en": "After the we use the superlative: adjective + est (y changes to i). The answer is bravest."
         },
         {
           "item_id": "P4:s3:i46",
@@ -2428,7 +2680,9 @@
           "answer": "longest",
           "accept": [
             "longest"
-          ]
+          ],
+          "explanation_ar": "بعد the بنستخدم صيغة التفضيل: صفة + est (وy بتتحول لـ i). الإجابة longest.",
+          "explanation_en": "After the we use the superlative: adjective + est (y changes to i). The answer is longest."
         },
         {
           "item_id": "P4:s3:i47",
@@ -2439,7 +2693,9 @@
           "answer": "tallest",
           "accept": [
             "tallest"
-          ]
+          ],
+          "explanation_ar": "بعد the بنستخدم صيغة التفضيل: صفة + est (وy بتتحول لـ i). الإجابة tallest.",
+          "explanation_en": "After the we use the superlative: adjective + est (y changes to i). The answer is tallest."
         },
         {
           "item_id": "P4:s3:i48",
@@ -2450,7 +2706,9 @@
           "answer": "strongest",
           "accept": [
             "strongest"
-          ]
+          ],
+          "explanation_ar": "بعد the بنستخدم صيغة التفضيل: صفة + est (وy بتتحول لـ i). الإجابة strongest.",
+          "explanation_en": "After the we use the superlative: adjective + est (y changes to i). The answer is strongest."
         },
         {
           "item_id": "P4:s3:i49",
@@ -2461,7 +2719,9 @@
           "answer": "tallest",
           "accept": [
             "tallest"
-          ]
+          ],
+          "explanation_ar": "بعد the بنستخدم صيغة التفضيل: صفة + est (وy بتتحول لـ i). الإجابة tallest.",
+          "explanation_en": "After the we use the superlative: adjective + est (y changes to i). The answer is tallest."
         },
         {
           "item_id": "P4:s3:i50",
@@ -2472,7 +2732,9 @@
           "answer": "funniest",
           "accept": [
             "funniest"
-          ]
+          ],
+          "explanation_ar": "بعد the بنستخدم صيغة التفضيل: صفة + est (وy بتتحول لـ i). الإجابة funniest.",
+          "explanation_en": "After the we use the superlative: adjective + est (y changes to i). The answer is funniest."
         },
         {
           "item_id": "P4:s3:i51",
@@ -2483,7 +2745,9 @@
           "answer": "cleanest",
           "accept": [
             "cleanest"
-          ]
+          ],
+          "explanation_ar": "بعد the بنستخدم صيغة التفضيل: صفة + est (وy بتتحول لـ i). الإجابة cleanest.",
+          "explanation_en": "After the we use the superlative: adjective + est (y changes to i). The answer is cleanest."
         },
         {
           "item_id": "P4:s3:i52",
@@ -2494,7 +2758,9 @@
           "answer": "best",
           "accept": [
             "best"
-          ]
+          ],
+          "explanation_ar": "good صفة شاذة، والتفضيل بتاعها best: the best.",
+          "explanation_en": "Good is irregular. Its superlative is best: the best."
         },
         {
           "item_id": "P4:s3:i53",
@@ -2505,7 +2771,9 @@
           "answer": "in",
           "accept": [
             "in"
-          ]
+          ],
+          "explanation_ar": "الكلمة اللي بين القوسين (on) مش مناسبة لمعنى الجملة. الكلمة الصح هي in علشان الجملة تبقى منطقية وصحيحة: The flower is growing in the pot.",
+          "explanation_en": "The word in brackets (on) does not fit the meaning of the sentence. The correct word is in, which makes the sentence true and logical: The flower is growing in the pot."
         },
         {
           "item_id": "P4:s3:i54",
@@ -2513,7 +2781,9 @@
           "review_status": "ambiguous_held",
           "held": true,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+          "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s3:i55",
@@ -2521,7 +2791,9 @@
           "review_status": "ambiguous_held",
           "held": true,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+          "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s3:i56",
@@ -2532,7 +2804,9 @@
           "answer": "on",
           "accept": [
             "on"
-          ]
+          ],
+          "explanation_ar": "الكلمة اللي بين القوسين (under) مش مناسبة لمعنى الجملة. الكلمة الصح هي on علشان الجملة تبقى منطقية وصحيحة: The picture is on the wall.",
+          "explanation_en": "The word in brackets (under) does not fit the meaning of the sentence. The correct word is on, which makes the sentence true and logical: The picture is on the wall."
         },
         {
           "item_id": "P4:s3:i57",
@@ -2540,7 +2814,9 @@
           "review_status": "ambiguous_held",
           "held": true,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+          "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s3:i58",
@@ -2548,7 +2824,9 @@
           "review_status": "ambiguous_held",
           "held": true,
           "grading_mode": "teacher",
-          "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+          "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s3:i59",
@@ -2556,7 +2834,9 @@
           "review_status": "ambiguous_held",
           "held": true,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+          "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s3:i60",
@@ -2567,7 +2847,9 @@
           "answer": "illegal",
           "accept": [
             "illegal"
-          ]
+          ],
+          "explanation_ar": "بنحط البادئة il قبل الكلمة علشان نعكس المعنى: legal ← illegal.",
+          "explanation_en": "We add the prefix il to give the opposite meaning: legal becomes illegal."
         },
         {
           "item_id": "P4:s3:i61",
@@ -2575,7 +2857,9 @@
           "review_status": "ambiguous_held",
           "held": true,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس."
+          "grading_reason": "السؤال غير واضح من المصدر، يراجعه المدرس.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s3:i62",
@@ -2586,7 +2870,9 @@
           "answer": "irregular",
           "accept": [
             "irregular"
-          ]
+          ],
+          "explanation_ar": "بنحط البادئة ir قبل الكلمة علشان نعكس المعنى: regular ← irregular.",
+          "explanation_en": "We add the prefix ir to give the opposite meaning: regular becomes irregular."
         },
         {
           "item_id": "P4:s3:i63",
@@ -2597,7 +2883,9 @@
           "answer": "irresponsible",
           "accept": [
             "irresponsible"
-          ]
+          ],
+          "explanation_ar": "بنحط البادئة ir قبل الكلمة علشان نعكس المعنى: responsible ← irresponsible.",
+          "explanation_en": "We add the prefix ir to give the opposite meaning: responsible becomes irresponsible."
         },
         {
           "item_id": "P4:s3:i64",
@@ -2605,7 +2893,9 @@
           "review_status": "ambiguous_held",
           "held": true,
           "grading_mode": "teacher",
-          "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة."
+          "grading_reason": "السياق لا يحدد إجابة واحدة مؤكدة. يُراجع مع المدرس ولا يدخل في الدرجة.",
+          "explanation_ar": "مفيش إجابة واحدة مؤكدة للسؤال ده، فراجعه مع المدرس.",
+          "explanation_en": "This item has no single confirmed answer, so check it with your teacher."
         },
         {
           "item_id": "P4:s3:i65",
@@ -2616,7 +2906,9 @@
           "answer": "unhealthy",
           "accept": [
             "unhealthy"
-          ]
+          ],
+          "explanation_ar": "بنحط البادئة un قبل الكلمة علشان نعكس المعنى: healthy ← unhealthy.",
+          "explanation_en": "We add the prefix un to give the opposite meaning: healthy becomes unhealthy."
         },
         {
           "item_id": "P4:s3:i66",
@@ -2627,7 +2919,9 @@
           "answer": "unsafe",
           "accept": [
             "unsafe"
-          ]
+          ],
+          "explanation_ar": "بنحط البادئة un قبل الكلمة علشان نعكس المعنى: safe ← unsafe.",
+          "explanation_en": "We add the prefix un to give the opposite meaning: safe becomes unsafe."
         }
       ]
     },
@@ -2644,7 +2938,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "Rana is a beautiful girl."
+          "answer": "Rana is a beautiful girl.",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Rana is a beautiful girl.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Rana is a beautiful girl."
         },
         {
           "item_id": "P4:s4:i1",
@@ -2654,7 +2950,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "Do you like healthy food?"
+          "answer": "Do you like healthy food?",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Do you like healthy food?",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Do you like healthy food?"
         },
         {
           "item_id": "P4:s4:i2",
@@ -2664,7 +2962,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "This is my father."
+          "answer": "This is my father.",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): This is my father.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): This is my father."
         },
         {
           "item_id": "P4:s4:i3",
@@ -2674,7 +2974,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "Does Ahmed like cats?"
+          "answer": "Does Ahmed like cats?",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Does Ahmed like cats?",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Does Ahmed like cats?"
         },
         {
           "item_id": "P4:s4:i4",
@@ -2684,7 +2986,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "Hana walks to school every day."
+          "answer": "Hana walks to school every day.",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Hana walks to school every day.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Hana walks to school every day."
         },
         {
           "item_id": "P4:s4:i5",
@@ -2694,7 +2998,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "How old are you?"
+          "answer": "How old are you?",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): How old are you?",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): How old are you?"
         },
         {
           "item_id": "P4:s4:i6",
@@ -2704,7 +3010,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "I'm a student in grade four."
+          "answer": "I'm a student in grade four.",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): I'm a student in grade four.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): I'm a student in grade four."
         },
         {
           "item_id": "P4:s4:i7",
@@ -2714,7 +3022,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "Let's share this food."
+          "answer": "Let's share this food.",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Let's share this food.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Let's share this food."
         },
         {
           "item_id": "P4:s4:i8",
@@ -2724,7 +3034,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "Hala is a student."
+          "answer": "Hala is a student.",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Hala is a student.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Hala is a student."
         },
         {
           "item_id": "P4:s4:i9",
@@ -2734,7 +3046,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "Are you happy?"
+          "answer": "Are you happy?",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Are you happy?",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Are you happy?"
         },
         {
           "item_id": "P4:s4:i10",
@@ -2744,7 +3058,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "Sami was a skilled carpenter."
+          "answer": "Sami was a skilled carpenter.",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Sami was a skilled carpenter.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Sami was a skilled carpenter."
         },
         {
           "item_id": "P4:s4:i11",
@@ -2754,7 +3070,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "August is the hottest month of the year."
+          "answer": "August is the hottest month of the year.",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): August is the hottest month of the year.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): August is the hottest month of the year."
         },
         {
           "item_id": "P4:s4:i12",
@@ -2764,7 +3082,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "Where is the fire station?"
+          "answer": "Where is the fire station?",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Where is the fire station?",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Where is the fire station?"
         },
         {
           "item_id": "P4:s4:i13",
@@ -2774,7 +3094,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "My bag is very heavy."
+          "answer": "My bag is very heavy.",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): My bag is very heavy.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): My bag is very heavy."
         },
         {
           "item_id": "P4:s4:i14",
@@ -2784,7 +3106,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "The Nile is a very long river."
+          "answer": "The Nile is a very long river.",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): The Nile is a very long river.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): The Nile is a very long river."
         },
         {
           "item_id": "P4:s4:i15",
@@ -2794,7 +3118,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "Tourists ride camels near the Pyramids."
+          "answer": "Tourists ride camels near the Pyramids.",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Tourists ride camels near the Pyramids.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Tourists ride camels near the Pyramids."
         },
         {
           "item_id": "P4:s4:i16",
@@ -2808,7 +3134,9 @@
           "accept": [
             "St. Catherine Mountain is in Egypt.",
             "St Catherine Mountain is in Egypt."
-          ]
+          ],
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): St. Catherine Mountain is in Egypt.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): St. Catherine Mountain is in Egypt."
         },
         {
           "item_id": "P4:s4:i17",
@@ -2818,7 +3146,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "We went to Siwa Oasis last Friday."
+          "answer": "We went to Siwa Oasis last Friday.",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): We went to Siwa Oasis last Friday.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): We went to Siwa Oasis last Friday."
         },
         {
           "item_id": "P4:s4:i18",
@@ -2828,7 +3158,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "Habiba is a good girl."
+          "answer": "Habiba is a good girl.",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Habiba is a good girl.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Habiba is a good girl."
         },
         {
           "item_id": "P4:s4:i19",
@@ -2838,7 +3170,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "Why does Sama like her job?"
+          "answer": "Why does Sama like her job?",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Why does Sama like her job?",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Why does Sama like her job?"
         },
         {
           "item_id": "P4:s4:i20",
@@ -2848,7 +3182,9 @@
           "grading_mode": "checked",
           "strict_case": true,
           "strict_punctuation": true,
-          "answer": "Wanda has a hundred dresses in her closet."
+          "answer": "Wanda has a hundred dresses in her closet.",
+          "explanation_ar": "ابدأ الجملة بحرف كبير وانهيها بعلامة الترقيم المناسبة (نقطة للجملة العادية، علامة استفهام للسؤال): Wanda has a hundred dresses in her closet.",
+          "explanation_en": "Start with a capital letter and end with the right mark (full stop for a statement, question mark for a question): Wanda has a hundred dresses in her closet."
         }
       ]
     },
@@ -2869,7 +3205,9 @@
           "review_status": "open_ended",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+          "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+          "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
         },
         {
           "item_id": "P4:s5:i1",
@@ -2883,7 +3221,9 @@
           "review_status": "open_ended",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+          "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+          "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
         },
         {
           "item_id": "P4:s5:i2",
@@ -2897,7 +3237,9 @@
           "review_status": "open_ended",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+          "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+          "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
         },
         {
           "item_id": "P4:s5:i3",
@@ -2911,7 +3253,9 @@
           "review_status": "open_ended",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+          "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+          "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
         },
         {
           "item_id": "P4:s5:i4",
@@ -2925,7 +3269,9 @@
           "review_status": "open_ended",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+          "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+          "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
         },
         {
           "item_id": "P4:s5:i5",
@@ -2939,7 +3285,9 @@
           "review_status": "open_ended",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+          "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+          "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
         },
         {
           "item_id": "P4:s5:i6",
@@ -2953,7 +3301,9 @@
           "review_status": "open_ended",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+          "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+          "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
         },
         {
           "item_id": "P4:s5:i7",
@@ -2967,7 +3317,9 @@
           "review_status": "open_ended",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+          "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+          "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
         },
         {
           "item_id": "P4:s5:i8",
@@ -2981,7 +3333,9 @@
           "review_status": "open_ended",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+          "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+          "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
         },
         {
           "item_id": "P4:s5:i9",
@@ -2995,7 +3349,9 @@
           "review_status": "open_ended",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+          "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+          "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
         },
         {
           "item_id": "P4:s5:i10",
@@ -3009,7 +3365,9 @@
           "review_status": "open_ended",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+          "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+          "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
         },
         {
           "item_id": "P4:s5:i11",
@@ -3023,7 +3381,9 @@
           "review_status": "open_ended",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+          "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+          "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
         },
         {
           "item_id": "P4:s5:i12",
@@ -3037,7 +3397,9 @@
           "review_status": "open_ended",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+          "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+          "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
         },
         {
           "item_id": "P4:s5:i13",
@@ -3051,7 +3413,9 @@
           "review_status": "open_ended",
           "held": false,
           "grading_mode": "teacher",
-          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس."
+          "grading_reason": "السؤال مفتوح وله إجابات شخصية كثيرة. راجعه مع المدرس.",
+          "explanation_ar": "ده سؤال كتابة مفتوح. استخدم الكلمات المرشدة في جمل بسيطة صحيحة وراجع الفقرة مع المدرس.",
+          "explanation_en": "This is an open writing task. Use the guiding words in simple correct sentences and check your paragraph with your teacher."
         }
       ]
     }

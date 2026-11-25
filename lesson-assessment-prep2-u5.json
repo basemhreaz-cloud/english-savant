@@ -2350,14 +2350,15 @@
     "source_ref": "Ministry Prep 2 Term 1 Student Book 2025/2026 (English_Prp2_Tr1.pdf), page 76, Comparatives and Superlatives tip",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "more + adjective + than.",
+    "explanation_ar": "مع الصفات الطويلة بنقارن بين اتنين بـ more + صفة + than.",
     "review_status": "Source PDF and teacher-derived key reviewed against the printed Ministry student book; engine contract checks passed (ids, keys, token contracts)",
     "options": [
       "more",
       "most",
       "much",
       "many"
-    ]
+    ],
+    "explanation_en": "With long adjectives we compare two things with more + adjective + than."
   },
   {
     "id": "orig-prep2-u5l2-14",
@@ -2377,14 +2378,15 @@
     "source_ref": "Ministry Prep 2 Term 1 Student Book 2025/2026 (English_Prp2_Tr1.pdf), page 76, Comparatives and Superlatives tip",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "the most + adjective.",
+    "explanation_ar": "مع الصفات الطويلة بنعبر عن الأفضل في مجموعة بـ the most + صفة.",
     "review_status": "Source PDF and teacher-derived key reviewed against the printed Ministry student book; engine contract checks passed (ids, keys, token contracts)",
     "options": [
       "most",
       "more",
       "much",
       "very"
-    ]
+    ],
+    "explanation_en": "With long adjectives we use the most + adjective for the best of a group."
   },
   {
     "id": "orig-prep2-u5l2-15",
@@ -2488,14 +2490,15 @@
     "source_ref": "Ministry Prep 2 Term 1 Student Book 2025/2026 (English_Prp2_Tr1.pdf), page 76, Language in Use Ex7",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "more impressive than.",
+    "explanation_ar": "الجملة فيها than (مقارنة)، فنستخدم more impressive.",
     "review_status": "Source PDF and teacher-derived key reviewed against the printed Ministry student book; engine contract checks passed (ids, keys, token contracts)",
     "options": [
       "more",
       "the most",
       "most",
       "much"
-    ]
+    ],
+    "explanation_en": "The sentence has than, so it is a comparison: more impressive than."
   },
   {
     "id": "orig-prep2-u5l2-19",

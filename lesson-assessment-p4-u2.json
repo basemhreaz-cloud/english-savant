@@ -3118,13 +3118,14 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 33, Tip: prefixes dis-, il-, ir-",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "appear + dis = disappear.",
+    "explanation_ar": "البادئة dis- بتعمل عكس الفعل: appear → disappear.",
     "review_status": "Source PDF pixels and teacher-derived key reviewed; interactive QA pending",
     "options": [
       "disappear",
       "irappear",
       "illappear"
-    ]
+    ],
+    "explanation_en": "The prefix dis- makes the opposite: appear becomes disappear."
   },
   {
     "id": "orig-p4-u2l3-33",
@@ -3144,13 +3145,14 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 33, Tip: prefixes dis-, il-, ir-",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "honest + dis = dishonest.",
+    "explanation_ar": "البادئة dis- بتعمل عكس honest: dishonest.",
     "review_status": "Source PDF pixels and teacher-derived key reviewed; interactive QA pending",
     "options": [
       "dishonest",
       "irhonest",
       "ilhonest"
-    ]
+    ],
+    "explanation_en": "The prefix dis- makes the opposite of honest: dishonest."
   },
   {
     "id": "orig-p4-u2l3-34",
@@ -3170,13 +3172,14 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 33, Tip: prefixes dis-, il-, ir-",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "legal + il = illegal.",
+    "explanation_ar": "البادئة il- قبل الحرف l: legal → illegal.",
     "review_status": "Source PDF pixels and teacher-derived key reviewed; interactive QA pending",
     "options": [
       "illegal",
       "dislegal",
       "irlegal"
-    ]
+    ],
+    "explanation_en": "The prefix il- goes before words starting with l: legal becomes illegal."
   },
   {
     "id": "orig-p4-u2l3-35",
@@ -3196,13 +3199,14 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 33, Tip: prefixes dis-, il-, ir-",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "responsible + ir = irresponsible.",
+    "explanation_ar": "البادئة ir- قبل الحرف r: responsible → irresponsible.",
     "review_status": "Source PDF pixels and teacher-derived key reviewed; interactive QA pending",
     "options": [
       "irresponsible",
       "disresponsible",
       "illresponsible"
-    ]
+    ],
+    "explanation_en": "The prefix ir- goes before words starting with r: responsible becomes irresponsible."
   },
   {
     "id": "orig-p4-u2l3-36",
@@ -3222,13 +3226,14 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 33, Tip: prefixes dis-, il-, ir-",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "logical + il = illogical.",
+    "explanation_ar": "البادئة il- قبل الحرف l: logical → illogical.",
     "review_status": "Source PDF pixels and teacher-derived key reviewed; interactive QA pending",
     "options": [
       "illogical",
       "dislogical",
       "irlogical"
-    ]
+    ],
+    "explanation_en": "The prefix il- goes before l: logical becomes illogical."
   },
   {
     "id": "orig-p4-u2l3-37",
@@ -3248,13 +3253,14 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 33, Tip: prefixes dis-, il-, ir-",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "relevant + ir = irrelevant.",
+    "explanation_ar": "البادئة ir- قبل الحرف r: relevant → irrelevant.",
     "review_status": "Source PDF pixels and teacher-derived key reviewed; interactive QA pending",
     "options": [
       "irrelevant",
       "dislevant",
       "illrelevant"
-    ]
+    ],
+    "explanation_en": "The prefix ir- goes before r: relevant becomes irrelevant."
   },
   {
     "id": "orig-p4-u2l3-38",
@@ -3355,11 +3361,12 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 33, Ex7 Read and complete using prefixes",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "legal + il = illegal.",
+    "explanation_ar": "عكس legal هو illegal (غير قانوني) بإضافة il-.",
     "review_status": "Source PDF pixels and teacher-derived key reviewed; interactive QA pending",
     "accept": [
       "illegal"
-    ]
+    ],
+    "explanation_en": "The opposite of legal is illegal (add il-)."
   },
   {
     "id": "orig-p4-u2l3-42",
@@ -3404,11 +3411,12 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 33, Ex7 Read and complete using prefixes",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "regular + ir = irregular.",
+    "explanation_ar": "عكس regular هو irregular (add ir-): فعل see له ماضي شاذ.",
     "review_status": "Source PDF pixels and teacher-derived key reviewed; interactive QA pending",
     "accept": [
       "irregular"
-    ]
+    ],
+    "explanation_en": "The opposite of regular is irregular (add ir-)."
   },
   {
     "id": "orig-p4-u2l3-44",
@@ -3428,11 +3436,12 @@
     "source_ref": "Ministry Primary 4 Term 1 Student Book 2026-27 (English_Prim4_Tr1.pdf), PDF page 33, Ex7 Read and complete using prefixes",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "responsible + ir = irresponsible.",
+    "explanation_ar": "الفصل وحش لذلك الطلاب irresponsible (غير مسؤولين).",
     "review_status": "Source PDF pixels and teacher-derived key reviewed; interactive QA pending",
     "accept": [
       "irresponsible"
-    ]
+    ],
+    "explanation_en": "The classroom is dirty, so the students are irresponsible (add ir- to responsible)."
   },
   {
     "id": "orig-p4-u2l4-01",
