@@ -18,8 +18,12 @@
   function esAnswerContent(value) {
     return esAnswerText(value).toLowerCase().replace(/[’‘]/g, "'").replace(/[.,!?؟،;:]/g, " ").trim().replace(/\s+/g, " ");
   }
+  function esContr(s) {
+    return String(s).replace(/[\u2018\u2019]/g, "'").replace(/\b(it|that|what|he|she|there|here|who|where|how)'s\b/gi, "$1 is").replace(/\bi'm\b/gi, "i am").replace(/\b(you|we|they)'re\b/gi, "$1 are").replace(/\b(i|you|we|they)'ve\b/gi, "$1 have").replace(/\b(i|you|he|she|it|we|they)'ll\b/gi, "$1 will").replace(/\blet's\b/gi, "let us").replace(/\b(is|are|was|were|do|does|did|have|has|had|would|should|could|must)n't\b/gi, "$1 not").replace(/\b(can't|cannot)\b/gi, "can not").replace(/\bwon't\b/gi, "will not");
+  }
   const root = document.querySelector("#lesson-assessment"), unit = Number(root.dataset.unit || 1), grade = root.dataset.grade || "P1", available = (root.dataset.availableLessons || "1,2,3,4").split(",").map(Number);
-  const norm = (x) => esAnswerText(x).normalize("NFKC").replace(/[’‘]/g, "'").trim().toLowerCase().replace(/\s+/g, " ").replace(/\s+([.!?,])/g, "$1").replace(/[.!?،]+$/, "");
+  const norm0 = (x) => esAnswerText(x).normalize("NFKC").replace(/[’‘]/g, "'").trim().toLowerCase().replace(/\s+/g, " ").replace(/\s+([.!?,])/g, "$1").replace(/[.!?،]+$/, "");
+  const norm = (x) => norm0(esContr(x));
   const match = (a, b, q) => {
     const clean = (x) => String(x).normalize("NFKC").replace(/[’‘]/g, "'").trim().replace(/\s+/g, " ").replace(/\s+([.!?,])/g, "$1");
     if (q.strict_punctuation || q.strict_case) {

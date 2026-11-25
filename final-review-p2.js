@@ -37,6 +37,9 @@
   function esAnswerContent(value) {
     return esAnswerText(value).toLowerCase().replace(/[’‘]/g, "'").replace(/[.,!?؟،;:]/g, " ").trim().replace(/\s+/g, " ");
   }
+  function esContr(s) {
+    return String(s).replace(/[\u2018\u2019]/g, "'").replace(/\b(it|that|what|he|she|there|here|who|where|how)'s\b/gi, "$1 is").replace(/\bi'm\b/gi, "i am").replace(/\b(you|we|they)'re\b/gi, "$1 are").replace(/\b(i|you|we|they)'ve\b/gi, "$1 have").replace(/\b(i|you|he|she|it|we|they)'ll\b/gi, "$1 will").replace(/\blet's\b/gi, "let us").replace(/\b(is|are|was|were|do|does|did|have|has|had|would|should|could|must)n't\b/gi, "$1 not").replace(/\b(can't|cannot)\b/gi, "can not").replace(/\bwon't\b/gi, "will not");
+  }
   const host = document.querySelector("#final-review-practice");
   if (!host) return;
   const KEY = "es-final-review-p2-v1";
@@ -168,7 +171,7 @@
   }
   function addVerification0(c, q, s) {
     var _a, _b;
-    if (!q.answerability_hold && !q.listening_excluded && s.type !== "punctuate" && c.querySelector("textarea,input:not([type=radio]):not([type=checkbox])")) (_b = window.ESWrittenAI) == null ? void 0 : _b.attach(c, { question: q.text || q.title || s.instruction, passage: q.passage, alternatives: ((_a = answerKeys[q.item_id]) == null ? void 0 : _a.accepted_answers) || [], answer: () => Array.from(c.querySelectorAll("textarea,input:not([type=radio]):not([type=checkbox])")).map((x) => x.value).join(" ") });
+    if (!q.answerability_hold && !q.listening_excluded && s.type !== "punctuate" && c.querySelector("textarea,input:not([type=radio]):not([type=checkbox])")) (_b = window.ESWrittenAI) == null ? void 0 : _b.attach(c, { ...(s.type === "piclines" && !/unscramble|reorder|rearrange|punctuate|correct|rewrite|complete|circle|count/i.test(s.instruction || "") && !/\(|_{2}|\.{4}|…|[–—-]/.test(String(q.text || "")) ? { onCount: () => { if (typeof active === "undefined" || !active) return false; feed.dataset.state = "correct"; uiText(feed, "اتحسبت صحيحة بعد مراجعة الذكاء الاصطناعي. / Counted correct after AI review."); return true; }, onUncount: () => { feed.textContent = ""; delete feed.dataset.state; } } : {}), question: q.text || q.title || s.instruction, passage: q.passage, alternatives: ((_a = answerKeys[q.item_id]) == null ? void 0 : _a.accepted_answers) || [], answer: () => Array.from(c.querySelectorAll("textarea,input:not([type=radio]):not([type=checkbox])")).map((x) => x.value).join(" ") });
     if (q.answerability_hold || q.listening_excluded) return c;
     const k = answerKeys[q.item_id], active = k && ["verified", "partial"].includes(k.status), actions = e("div", void 0, "final-verify-actions"), b = e("button", active ? "\u062A\u062D\u0642\u0642 / Verify" : "\u0631\u0627\u062C\u0639 \u0645\u0639 \u0627\u0644\u0645\u062F\u0631\u0633 / Teacher review", "q-check final-verify"), feed = e("p", void 0, "final-feedback");
     b.type = "button";
@@ -197,7 +200,7 @@
         if (f.status === "hold" || !answers.length) return { hold: true };
         if (!String(v).trim()) return { empty: true };
         const punctuation = s.instruction.startsWith("Punctuate"), normalize = (x) => {
-          let t = (punctuation ? String(x) : esAnswerText(x)).normalize("NFKC").replace(/[’‘]/g, "'").trim().replace(/\s+/g, " ").replace(/\s+([.!?,;:])/g, "$1");
+          let t = (punctuation ? String(x) : esContr(esAnswerText(x))).normalize("NFKC").replace(/[’‘]/g, "'").trim().replace(/\s+/g, " ").replace(/\s+([.!?,;:])/g, "$1");
           if (!punctuation) t = t.toLowerCase().replace(/[.!?]+$/, "");
           if (s.instruction.includes("True or")) t = { t: "true", f: "false" }[t] || t;
           return t;

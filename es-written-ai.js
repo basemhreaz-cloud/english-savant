@@ -68,6 +68,37 @@
           status.append(ul);
         }
         status.append(el("p", "اقتراح وليس حكمًا نهائيًا. لو إجابتك مختلفة وصحيحة، راجع مدرسك."));
+        if (d.verdict === "correct" && typeof context.onCount === "function") {
+          const wrap = el("p"), cb = el("button", "احسبها صحيحة", "q-check"), note = el("span");
+          cb.type = "button";
+          note.style.cssText = "display:block;margin-top:6px";
+          wrap.append(cb, note);
+          status.append(wrap);
+          const undo = (ev) => {
+            if (ev && ev.target && ev.target.closest && ev.target.closest(".es-ai-review")) return;
+            if (card.dataset.aiCounted === "true") {
+              delete card.dataset.aiCounted;
+              if (context.onUncount) context.onUncount();
+            }
+            wrap.remove();
+            card.removeEventListener("input", undo);
+            card.removeEventListener("change", undo);
+          };
+          cb.onclick = () => {
+            if (card.dataset.aiCounted === "true") return;
+            card.dataset.aiCounted = "true";
+            if (context.onCount() === false) {
+              delete card.dataset.aiCounted;
+              note.textContent = "السؤال ده مش بيتحسب في الدرجة.";
+              return;
+            }
+            cb.disabled = true;
+            cb.textContent = "اتحسبت صحيحة";
+            note.textContent = "اتحسبت بعد مراجعة الذكاء الاصطناعي وبضغطتك. لو غيّرت إجابتك هتتلغي.";
+          };
+          card.addEventListener("input", undo);
+          card.addEventListener("change", undo);
+        }
       } catch {
         status.textContent = "تعذرت المراجعة الأونلاين. لم تُحسب الإجابة خطأ، جرّب لاحقًا أو راجع مدرسك.";
       } finally {

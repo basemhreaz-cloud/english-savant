@@ -8,13 +8,16 @@
   function esAnswerContent(value) {
     return esAnswerText(value).toLowerCase().replace(/[’‘]/g, "'").replace(/[.,!?؟،;:]/g, " ").trim().replace(/\s+/g, " ");
   }
+  function esContr(s) {
+    return String(s).replace(/[\u2018\u2019]/g, "'").replace(/\b(it|that|what|he|she|there|here|who|where|how)'s\b/gi, "$1 is").replace(/\bi'm\b/gi, "i am").replace(/\b(you|we|they)'re\b/gi, "$1 are").replace(/\b(i|you|we|they)'ve\b/gi, "$1 have").replace(/\b(i|you|he|she|it|we|they)'ll\b/gi, "$1 will").replace(/\blet's\b/gi, "let us").replace(/\b(is|are|was|were|do|does|did|have|has|had|would|should|could|must)n't\b/gi, "$1 not").replace(/\b(can't|cannot)\b/gi, "can not").replace(/\bwon't\b/gi, "will not");
+  }
   const root = document.querySelector("[data-es-bank]");
   if (!root) return;
   const gradeLabels = { p1: "الصف الأول الابتدائي", p2: "الصف التاني الابتدائي", p3: "الصف التالت الابتدائي", p4: "الصف الرابع الابتدائي", p5: "الصف الخامس الابتدائي", p6: "الصف السادس الابتدائي", m1: "الصف الأول الإعدادي", m2: "الصف التاني الإعدادي", m3: "الصف التالت الإعدادي" };
   const labels = { CORRECT: "اكتب الصيغة الصحيحة", MCQ: "اختار الإجابة", COMPLETE: "أكمل من الكلمات", LETTER: "الحرف الناقص", LETTERS: "رتب الحروف", REORDER: "رتب الكلمات", MATCH: "صل المعنى", WRITE: "اكتب بنفسك", COPY: "انسخ الجملة", READ: "اقرأ وجاوب", PUNCT: "الحروف الكبيرة والترقيم" };
   const instructions = { CORRECT: "اكتب الصيغة الصحيحة للجزء الموجود بين القوسين فقط.", MCQ: "اختار إجابة واحدة.", COMPLETE: "اكتب الكلمة المناسبة من الصندوق.", LETTER: "اكتب الحرف الناقص بس.", LETTERS: "اكتب الكلمة بعد ترتيب حروفها.", REORDER: "دوس على الكلمات بالترتيب. هنظبط الحرف الأول وعلامة النهاية. تقدر ترجع آخر كلمة أو تبدأ من جديد.", MATCH: "وصل الكلمة أو الجملة بالمعنى المناسب: اختار المعنى.", WRITE: "اكتب إجابتك، وبعدها قارن بالنموذج. الكتابة الحرة محتاجة مراجعة بشرية.", COPY: "انسخ الجملة زي ما هي، بالحروف الكبيرة وعلامات الترقيم.", READ: "اقرأ القطعة الأول. الإجابة موجودة في النص.", PUNCT: "اكتب الجملة تاني بالحروف الكبيرة وعلامات الترقيم المناسبة." };
   const h = (s) => String(s != null ? s : "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
-  const $ = (s) => root.querySelector(s), ar = (n) => n.toLocaleString("ar-EG"), norm = (s) => esAnswerText(s).normalize("NFKC").replace(/[‘’]/g, "'").trim().replace(/\s+/g, " ").toLowerCase(), copyNorm = (s) => String(s).normalize("NFKC").trim().replace(/\s+/g, " ");
+  const $ = (s) => root.querySelector(s), ar = (n) => n.toLocaleString("ar-EG"), norm0 = (s) => esAnswerText(s).normalize("NFKC").replace(/[‘’]/g, "'").trim().replace(/\s+/g, " ").toLowerCase(), norm = (s) => norm0(esContr(s)), copyNorm = (s) => String(s).normalize("NFKC").trim().replace(/\s+/g, " ");
   let data, at = 0, filter = "all", progress = {}, orders = {}, key = "", chosen = null, words = [], saving = true;
   function correctNorm(s) {
     return norm(s).replace(/\bdoesn't\b/g, "does not").replace(/\bdon't\b/g, "do not").replace(/\bdidn't\b/g, "did not").replace(/\bisn't\b/g, "is not").replace(/\baren't\b/g, "are not").replace(/\bwasn't\b/g, "was not").replace(/\bweren't\b/g, "were not").replace(/\bwon't\b/g, "will not").replace(/\bcan't\b/g, "cannot").replace(/\bmustn't\b/g, "must not").replace(/\bshouldn't\b/g, "should not");

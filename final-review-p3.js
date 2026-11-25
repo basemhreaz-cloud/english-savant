@@ -18,6 +18,9 @@
   function esAnswerContent(value) {
     return esAnswerText(value).toLowerCase().replace(/[’‘]/g, "'").replace(/[.,!?؟،;:]/g, " ").trim().replace(/\s+/g, " ");
   }
+  function esContr(s) {
+    return String(s).replace(/[\u2018\u2019]/g, "'").replace(/\b(it|that|what|he|she|there|here|who|where|how)'s\b/gi, "$1 is").replace(/\bi'm\b/gi, "i am").replace(/\b(you|we|they)'re\b/gi, "$1 are").replace(/\b(i|you|we|they)'ve\b/gi, "$1 have").replace(/\b(i|you|he|she|it|we|they)'ll\b/gi, "$1 will").replace(/\blet's\b/gi, "let us").replace(/\b(is|are|was|were|do|does|did|have|has|had|would|should|could|must)n't\b/gi, "$1 not").replace(/\b(can't|cannot)\b/gi, "can not").replace(/\bwon't\b/gi, "will not");
+  }
   const host = document.querySelector("#final-review-practice");
   if (!host) return;
   let saved = {};
@@ -86,7 +89,7 @@
     wrap.append(row, result, clear, field(id + ":typed"));
     return wrap;
   }
-  const norm = (v) => esAnswerText(v).toLowerCase().replace(/[’]/g, "'").replace(/[^a-z0-9\s]/g, " ").replace(/\s+/g, " ").trim();
+  const norm = (v) => esContr(esAnswerText(v)).toLowerCase().replace(/[’]/g, "'").replace(/[^a-z0-9\s]/g, " ").replace(/\s+/g, " ").trim();
   const concepts = {
     "P3:s1:i0": [["tala"], ["help|helps|helping", "homework"], ["helpful|helpul", "funny"]],
     "P3:s1:i2": [["sunday"], ["camels|camel", "horses|horse"]],
@@ -107,7 +110,7 @@
   }
   function addGrading(c, q, s) {
     var _a;
-    if (!q.held && !q.options && s.section_index !== 8 && c.querySelector("input,textarea")) (_a = window.ESWrittenAI) == null ? void 0 : _a.attach(c, { question: q.text || q.question || q.title || s.instruction, passage: q.passage, alternatives: Array.isArray(q.answer) ? q.answer : [q.answer].filter((x) => typeof x === "string"), answer: () => Array.from(c.querySelectorAll("textarea,input:not([type=checkbox])")).map((x) => x.value).join(" ") });
+    if (!q.held && !q.options && s.section_index !== 8 && c.querySelector("input,textarea")) (_a = window.ESWrittenAI) == null ? void 0 : _a.attach(c, { ...(AI_MEANING.indexOf(s.type) > -1 && !/unscramble|reorder|rearrange|punctuate|correct|rewrite|complete|circle|count/i.test(s.instruction || "") && !/\(|_{2}|\.{4}|…|[–—-]/.test(String(q.text || q.question || "")) && !q.held && q.grading_mode === "checked" ? { onCount: () => aiCount(c), onUncount: () => aiUncount(c) } : {}), question: q.text || q.question || q.title || s.instruction, passage: q.passage, alternatives: Array.isArray(q.answer) ? q.answer : [q.answer].filter((x) => typeof x === "string"), answer: () => Array.from(c.querySelectorAll("textarea,input:not([type=checkbox])")).map((x) => x.value).join(" ") });
     if (q.grading_mode !== "checked") {
       if (!q.held) c.append(e("p", q.grading_reason, "final-note"));
       return;
@@ -173,6 +176,22 @@
     };
     c.append(button, feedback);
   }
+  const AI_MEANING = ["qlines", "piclines", "passage_write", "reading"];
+  function aiCount(c) {
+    if (!c.querySelector(".final-grade-result")) return false;
+    if ([...c.querySelectorAll("textarea,input:not([type=checkbox]):not([type=radio])")].some((x) => !x.closest(".es-ai-review") && !x.value.trim())) return false;
+    const f = c.querySelector(".final-grade-result");
+    c.dataset.grade = "correct";
+    if (f) f.textContent = "اتحسبت صحيحة بعد مراجعة الذكاء الاصطناعي ✓";
+    updateScore();
+    return true;
+  }
+  function aiUncount(c) {
+    const f = c.querySelector(".final-grade-result");
+    delete c.dataset.grade;
+    if (f) f.textContent = "عدّلت إجابتك. دوس تحقق مرة تانية.";
+    updateScore();
+  }
   function updateScore() {
     const cards = [...document.querySelectorAll(".final-question")];
     let score = document.querySelector(".final-score");
@@ -182,6 +201,7 @@
     }
     const correct = cards.filter((c) => c.dataset.grade === "correct").length, wrong = cards.filter((c) => c.dataset.grade === "incorrect").length, review = cards.filter((c) => c.dataset.grade === "review").length;
     score.textContent = "نتيجة القسم الحالي: " + correct + " صحيحة من " + (correct + wrong) + " مصححة · " + review + " تحتاج مراجعة. المهام المفتوحة والأسئلة غير المؤكدة لا تدخل في الدرجة.";
+    { const ai = cards.filter((x) => x.dataset.aiCounted === "true").length; if (ai) score.textContent += " · منها " + ai + " اتحسبت صحيحة بعد مراجعة الذكاء الاصطناعي."; }
   }
   function item(q, s, i) {
     const c = e("article", void 0, "glass final-question");

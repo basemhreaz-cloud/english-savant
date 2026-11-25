@@ -17,6 +17,9 @@
   function esAnswerContent(value) {
     return esAnswerText(value).toLowerCase().replace(/[’‘]/g, "'").replace(/[.,!?؟،;:]/g, " ").trim().replace(/\s+/g, " ");
   }
+  function esContr(s) {
+    return String(s).replace(/[\u2018\u2019]/g, "'").replace(/\b(it|that|what|he|she|there|here|who|where|how)'s\b/gi, "$1 is").replace(/\bi'm\b/gi, "i am").replace(/\b(you|we|they)'re\b/gi, "$1 are").replace(/\b(i|you|we|they)'ve\b/gi, "$1 have").replace(/\b(i|you|he|she|it|we|they)'ll\b/gi, "$1 will").replace(/\blet's\b/gi, "let us").replace(/\b(is|are|was|were|do|does|did|have|has|had|would|should|could|must)n't\b/gi, "$1 not").replace(/\b(can't|cannot)\b/gi, "can not").replace(/\bwon't\b/gi, "will not");
+  }
   const quizLayout = document.createElement("style");
   quizLayout.textContent = `
 #quiz-body .q-opts{display:grid;grid-template-columns:minmax(0,1fr);gap:8px;align-items:stretch;justify-items:stretch}
@@ -49,7 +52,7 @@
     });
   }
   function norm(t) {
-    return esAnswerText(t).trim().toLowerCase().replace(/\s+/g, " ").replace(/[.?!،]+$/, "");
+    return esAnswerText(esContr(t)).trim().toLowerCase().replace(/\s+/g, " ").replace(/[.?!،]+$/, "");
   }
   var total = 0, done = 0, score = 0, progress = {}, progressKey = "es-grade-quiz-v1-" + gs, restoring = false;
   function persist() {

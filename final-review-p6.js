@@ -18,6 +18,9 @@
   function esAnswerContent(value) {
     return esAnswerText(value).toLowerCase().replace(/[’‘]/g, "'").replace(/[.,!?؟،;:]/g, " ").trim().replace(/\s+/g, " ");
   }
+  function esContr(s) {
+    return String(s).replace(/[\u2018\u2019]/g, "'").replace(/\b(it|that|what|he|she|there|here|who|where|how)'s\b/gi, "$1 is").replace(/\bi'm\b/gi, "i am").replace(/\b(you|we|they)'re\b/gi, "$1 are").replace(/\b(i|you|we|they)'ve\b/gi, "$1 have").replace(/\b(i|you|he|she|it|we|they)'ll\b/gi, "$1 will").replace(/\blet's\b/gi, "let us").replace(/\b(is|are|was|were|do|does|did|have|has|had|would|should|could|must)n't\b/gi, "$1 not").replace(/\b(can't|cannot)\b/gi, "can not").replace(/\bwon't\b/gi, "will not");
+  }
   const host = document.querySelector("#final-review-practice");
   if (!host) return;
   const KEY = "es-p6-final-v1";
@@ -39,7 +42,7 @@
     } catch {
     }
   };
-  const norm = (v) => esAnswerText(v).toLowerCase().replace(/[’‘]/g, "'").replace(/[^a-z0-9\s]/g, " ").replace(/\s+/g, " ").trim();
+  const norm = (v) => esContr(esAnswerText(v)).toLowerCase().replace(/[’‘]/g, "'").replace(/[^a-z0-9\s]/g, " ").replace(/\s+/g, " ").trim();
   const strict = (v) => String(v).trim().replace(/[’‘]/g, "'").replace(/\s+/g, " ");
   function field(id, long = false, label = "إجابتك / Your response") {
     const wrap = e("label", label, "final-field"), n = e(long ? "textarea" : "input");
@@ -66,6 +69,22 @@
     });
     return f;
   }
+  const AI_MEANING = ["qlines", "piclines", "passage_write", "reading"];
+  function aiCount(c) {
+    if (c.dataset.gradable !== "true") return false;
+    if ([...c.querySelectorAll("textarea,input:not([type=checkbox]):not([type=radio])")].some((x) => !x.closest(".es-ai-review") && !x.value.trim())) return false;
+    const f = c.querySelector(".final-grade-result");
+    c.dataset.grade = "correct";
+    if (f) f.textContent = "اتحسبت صحيحة بعد مراجعة الذكاء الاصطناعي ✓";
+    updateScore();
+    return true;
+  }
+  function aiUncount(c) {
+    const f = c.querySelector(".final-grade-result");
+    delete c.dataset.grade;
+    if (f) f.textContent = "عدّلت إجابتك. دوس تحقق مرة تانية.";
+    updateScore();
+  }
   function updateScore() {
     let out = host.querySelector(".final-score");
     if (!out) {
@@ -74,6 +93,7 @@
     }
     const cards = [...host.querySelectorAll("[data-gradable]")], correct = cards.filter((c) => c.dataset.grade === "correct").length, wrong = cards.filter((c) => c.dataset.grade === "incorrect").length;
     out.textContent = "نتيجة القسم الحالي: " + correct + " صحيحة من " + (correct + wrong) + " مصححة · " + cards.length + " سؤالًا أو مجموعة قابلة للتصحيح. الأسئلة الموقوفة والكتابة لا تدخل في الدرجة.";
+    { const ai = cards.filter((x) => x.dataset.aiCounted === "true").length; if (ai) out.textContent += " · منها " + ai + " اتحسبت صحيحة بعد مراجعة الذكاء الاصطناعي."; }
   }
   function grading(c, q, type) {
     if (q.held || q.grading_mode !== "checked") return;
@@ -146,7 +166,7 @@
     } else if (q.options) c.append(choices(q.item_id, q.options));
     else if (Array.isArray(q.answer)) q.answer.forEach((a, k) => c.append(field(q.item_id + ":" + k, false, "الفراغ " + (k + 1) + " / Blank " + (k + 1))));
     else c.append(field(q.item_id, ["paragraphs", "qlines"].includes(s.type)));
-    if (!q.options && !q.held && s.type !== "punctuate") (_a = window.ESWrittenAI) == null ? void 0 : _a.attach(c, { question: q.question || q.text || q.title || s.instruction, passage: q.passage, alternatives: q.accept || [q.answer].filter((x) => typeof x === "string"), answer: () => Array.from(c.querySelectorAll("input:not([type=checkbox]),textarea")).map((x) => x.value).join(" ") });
+    if (!q.options && !q.held && s.type !== "punctuate") (_a = window.ESWrittenAI) == null ? void 0 : _a.attach(c, { ...(AI_MEANING.indexOf(s.type) > -1 && !/unscramble|reorder|rearrange|punctuate|correct|rewrite|complete|circle|count/i.test(s.instruction || "") && !/\(|_{2}|\.{4}|…|[–—-]/.test(String(q.text || q.question || "")) && !q.held && q.grading_mode === "checked" ? { onCount: () => aiCount(c), onUncount: () => aiUncount(c) } : {}), question: q.question || q.text || q.title || s.instruction, passage: q.passage, alternatives: q.accept || [q.answer].filter((x) => typeof x === "string"), answer: () => Array.from(c.querySelectorAll("input:not([type=checkbox]),textarea")).map((x) => x.value).join(" ") });
     if (s.type === "paragraphs") {
       c.append(e("p", (q.min_words ? "اكتب على الأقل " + q.min_words + " كلمة. " : "") + q.grading_reason, "final-note"));
       const count = e("p", "", "final-word-count"), input = c.querySelector("textarea");
