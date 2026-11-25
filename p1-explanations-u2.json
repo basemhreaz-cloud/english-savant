@@ -26,14 +26,18 @@
             "Hana: And look at the sky! It's blue.",
             "Maya: The butterfly is flying near the tree!"
           ],
-          "source_page": "26"
+          "source_page": "26",
+          "title_en": "Read the conversation",
+          "body_en": "Maya and Hana are in the garden. Read the sentences one at a time."
         },
         {
           "id": "u2e1-2",
           "kind": "gloss",
           "title_ar": "يعني إيه؟",
           "body_ar": "grass = حشيش. flower = زهرة. sky = سما. tree = شجرة. butterfly = فراشة. bird = عصفور. green = أخضر. red = أحمر. blue = أزرق.",
-          "source_page": "27"
+          "source_page": "27",
+          "title_en": "Word meanings",
+          "body_en": "Learn these garden words: grass, flower, sky, tree, butterfly and bird. Learn these colors: green, red and blue."
         },
         {
           "id": "u2e1-3",
@@ -45,7 +49,9 @@
           ],
           "image": "p1-lessons-assets/img/kg-grass.png",
           "check_ref": "p1-u2-l1-obj01",
-          "source_page": "27"
+          "source_page": "27",
+          "title_en": "grass",
+          "body_en": "Learn the word grass. Look at the picture: this is green grass."
         },
         {
           "id": "u2e1-4",
@@ -57,7 +63,9 @@
           ],
           "image": "p1-lessons-assets/img/flower.png",
           "check_ref": "p1-u2-l1-img01",
-          "source_page": "27"
+          "source_page": "27",
+          "title_en": "flower",
+          "body_en": "Learn the word flower."
         },
         {
           "id": "u2e1-5",
@@ -69,7 +77,9 @@
           ],
           "image": "p1-lessons-assets/img/obj-sky.png",
           "check_ref": "p1-u2-l1-obj03",
-          "source_page": "27"
+          "source_page": "27",
+          "title_en": "sky",
+          "body_en": "Learn the word sky."
         },
         {
           "id": "u2e1-6",
@@ -81,7 +91,9 @@
           ],
           "image": "p1-lessons-assets/img/tree.png",
           "check_ref": "p1-u2-l1-img02",
-          "source_page": "27"
+          "source_page": "27",
+          "title_en": "tree",
+          "body_en": "Learn the word tree."
         },
         {
           "id": "u2e1-7",
@@ -92,7 +104,9 @@
             "butterfly"
           ],
           "check_ref": "p1-u2-l1-05",
-          "source_page": "27"
+          "source_page": "27",
+          "title_en": "butterfly",
+          "body_en": "Learn the word butterfly. It is flying beside the tree."
         },
         {
           "id": "u2e1-8",
@@ -103,7 +117,9 @@
             "bird"
           ],
           "check_ref": "p1-u2-l1-06",
-          "source_page": "27"
+          "source_page": "27",
+          "title_en": "bird",
+          "body_en": "Learn the word bird. The bird is on the tree."
         },
         {
           "id": "u2e1-9",
@@ -117,7 +133,9 @@
             "The sun is yellow."
           ],
           "check_ref": "p1-u2-l1-11",
-          "source_page": "27"
+          "source_page": "27",
+          "title_en": "The ___ is ___.",
+          "body_en": "Describe the color of something like this: The grass is green. The sky is blue. The flower is red. The sun is yellow."
         },
         {
           "id": "u2e1-10",
@@ -128,7 +146,9 @@
             "I can see a bird."
           ],
           "check_ref": "p1-u2-l1-15",
-          "source_page": "27"
+          "source_page": "27",
+          "title_en": "I can see a ...",
+          "body_en": "When you see something, say: I can see a bird."
         },
         {
           "id": "u2e1-11",
@@ -140,21 +160,27 @@
             "This is a butterfly."
           ],
           "check_ref": "p1-u2-l1-16",
-          "source_page": "27"
+          "source_page": "27",
+          "title_en": "What's this?",
+          "body_en": "Ask What's this? to find out what something is. Answer: This is a butterfly."
         },
         {
           "id": "u2e1-12",
           "kind": "check",
           "title_ar": "جرّب: اللون",
           "body_ar": "اختار الإجابة الصح.",
-          "check_ref": "p1-u2-l1-12"
+          "check_ref": "p1-u2-l1-12",
+          "title_en": "Try it: colors",
+          "body_en": "Choose the correct answer."
         },
         {
           "id": "u2e1-13",
           "kind": "check",
           "title_ar": "رتّب الكلمات",
           "body_ar": "رتّب الكلمات عشان تعمل جملة.",
-          "check_ref": "p1-u2-l1-24"
+          "check_ref": "p1-u2-l1-24",
+          "title_en": "Put the words in order",
+          "body_en": "Put the words in order to make a sentence."
         },
         {
           "id": "u2e1-14",
@@ -162,15 +188,20 @@
           "title_ar": "كمّل المحادثة",
           "body_ar": "كمّل المحادثة بنفسك.",
           "check_ref": "p1-u2-l1-31",
-          "source_page": "26-29"
+          "source_page": "26-29",
+          "title_en": "Complete the conversation",
+          "body_en": "Complete the conversation yourself."
         },
         {
           "id": "u2e1-15",
           "kind": "recap",
           "title_ar": "افتكر",
-          "body_ar": "grass أخضر، sky أزرق، flower أحمر، sun أصفر. I can see a ... وWhat's this? This is a ..."
+          "body_ar": "grass أخضر، sky أزرق، flower أحمر، sun أصفر. I can see a ... وWhat's this? This is a ...",
+          "title_en": "Remember",
+          "body_en": "The grass is green, the sky is blue, the flower is red and the sun is yellow. I can see a ... What's this? This is a ..."
         }
-      ]
+      ],
+      "goal_en": "Today we will read about the garden and learn the names and colors of things in it."
     },
     {
       "grade": "P1",
@@ -189,7 +220,9 @@
           "en": [
             "sun, star, spoon, snake, spider"
           ],
-          "source_page": "30"
+          "source_page": "30",
+          "title_en": "The letter S",
+          "body_en": "A letter has a name and a sound. Read the lesson words and find the letter at the beginning. This explanation is written; pronunciation audio will be added after review."
         },
         {
           "id": "u2e2-2",
@@ -201,7 +234,9 @@
           ],
           "image": "p1-lessons-assets/img/sun.png",
           "check_ref": "p1-u2-l2-img02",
-          "source_page": "30"
+          "source_page": "30",
+          "title_en": "sun",
+          "body_en": "Learn the word sun. It begins with s."
         },
         {
           "id": "u2e2-3",
@@ -213,7 +248,9 @@
           ],
           "image": "p1-lessons-assets/img/star.png",
           "check_ref": "p1-u2-l2-img01",
-          "source_page": "30"
+          "source_page": "30",
+          "title_en": "star",
+          "body_en": "Learn the word star. It begins with s."
         },
         {
           "id": "u2e2-4",
@@ -225,7 +262,9 @@
           ],
           "image": "p1-lessons-assets/img/obj-spoon.png",
           "check_ref": "p1-u2-l2-obj01",
-          "source_page": "30"
+          "source_page": "30",
+          "title_en": "spoon",
+          "body_en": "Learn the word spoon. It begins with s."
         },
         {
           "id": "u2e2-5",
@@ -236,7 +275,9 @@
             "snake"
           ],
           "check_ref": "p1-u2-l2-21",
-          "source_page": "30"
+          "source_page": "30",
+          "title_en": "snake",
+          "body_en": "Learn the word snake. It begins with s."
         },
         {
           "id": "u2e2-6",
@@ -247,7 +288,9 @@
             "spider"
           ],
           "check_ref": "p1-u2-l2-22",
-          "source_page": "30"
+          "source_page": "30",
+          "title_en": "spider",
+          "body_en": "Learn the word spider. It begins with s."
         },
         {
           "id": "u2e2-7",
@@ -258,7 +301,9 @@
             "Ss"
           ],
           "check_ref": "p1-u2-l2-08",
-          "source_page": "30-33"
+          "source_page": "30-33",
+          "title_en": "The letter shape",
+          "body_en": "The capital letter is S and the small letter is s. Trace them in your book and follow the arrows."
         },
         {
           "id": "u2e2-8",
@@ -266,7 +311,9 @@
           "title_ar": "أول حرف",
           "body_ar": "اختار الحرف اللي بتبدأ بيه الكلمة.",
           "check_ref": "p1-u2-l2-10",
-          "source_page": "33"
+          "source_page": "33",
+          "title_en": "The first letter",
+          "body_en": "Choose the letter that the word begins with."
         },
         {
           "id": "u2e2-9",
@@ -274,7 +321,9 @@
           "title_ar": "اللي مش بيبدأ بـ s",
           "body_ar": "اختار الكلمة اللي مش بتبدأ بحرف s.",
           "check_ref": "p1-u2-l2-14",
-          "source_page": "32"
+          "source_page": "32",
+          "title_en": "The word that does not begin with s",
+          "body_en": "Choose the word that does not begin with s."
         },
         {
           "id": "u2e2-10",
@@ -282,15 +331,20 @@
           "title_ar": "رتّب الحروف",
           "body_ar": "رتّب الحروف وكوّن الكلمة.",
           "check_ref": "p1-u2-l2-31",
-          "source_page": "33"
+          "source_page": "33",
+          "title_en": "Put the letters in order",
+          "body_en": "Put the letters in order to make the word."
         },
         {
           "id": "u2e2-11",
           "kind": "recap",
           "title_ar": "افتكر",
-          "body_ar": "sun، star، spoon، snake، spider كلهم بيبدأوا بـ s."
+          "body_ar": "sun، star، spoon، snake، spider كلهم بيبدأوا بـ s.",
+          "title_en": "Remember",
+          "body_en": "sun, star, spoon, snake and spider all begin with s."
         }
-      ]
+      ],
+      "goal_en": "Today we will learn the letter S, its sound and words that begin with it."
     },
     {
       "grade": "P1",
@@ -311,7 +365,9 @@
           ],
           "image": "p1-lessons-assets/img/color-red.png",
           "check_ref": "p1-u2-l3-img05",
-          "source_page": "34"
+          "source_page": "34",
+          "title_en": "red",
+          "body_en": "Learn the color red."
         },
         {
           "id": "u2e3-2",
@@ -323,7 +379,9 @@
           ],
           "image": "p1-lessons-assets/img/color-blue.png",
           "check_ref": "p1-u2-l3-img06",
-          "source_page": "34"
+          "source_page": "34",
+          "title_en": "blue",
+          "body_en": "Learn the color blue."
         },
         {
           "id": "u2e3-3",
@@ -335,7 +393,9 @@
           ],
           "image": "p1-lessons-assets/img/color-yellow.png",
           "check_ref": "p1-u2-l3-img07",
-          "source_page": "34"
+          "source_page": "34",
+          "title_en": "yellow",
+          "body_en": "Learn the color yellow."
         },
         {
           "id": "u2e3-4",
@@ -347,7 +407,9 @@
           ],
           "image": "p1-lessons-assets/img/color-green.png",
           "check_ref": "p1-u2-l3-img08",
-          "source_page": "34"
+          "source_page": "34",
+          "title_en": "green",
+          "body_en": "Learn the color green."
         },
         {
           "id": "u2e3-5",
@@ -361,7 +423,9 @@
             "The flower is red."
           ],
           "check_ref": "p1-u2-l3-09",
-          "source_page": "34"
+          "source_page": "34",
+          "title_en": "The ___ is ___.",
+          "body_en": "The grass is green. The sky is blue. The sun is yellow. The flower is red."
         },
         {
           "id": "u2e3-6",
@@ -373,7 +437,9 @@
           ],
           "image": "p1-lessons-assets/img/shape-circle-red.png",
           "check_ref": "p1-u2-l3-img01",
-          "source_page": "36"
+          "source_page": "36",
+          "title_en": "circle",
+          "body_en": "A circle has no sides."
         },
         {
           "id": "u2e3-7",
@@ -385,7 +451,9 @@
           ],
           "image": "p1-lessons-assets/img/shape-square-blue.png",
           "check_ref": "p1-u2-l3-img02",
-          "source_page": "36"
+          "source_page": "36",
+          "title_en": "square",
+          "body_en": "Learn the shape square."
         },
         {
           "id": "u2e3-8",
@@ -397,7 +465,9 @@
           ],
           "image": "p1-lessons-assets/img/shape-triangle-yellow.png",
           "check_ref": "p1-u2-l3-img03",
-          "source_page": "36"
+          "source_page": "36",
+          "title_en": "triangle",
+          "body_en": "A triangle has 3 sides."
         },
         {
           "id": "u2e3-9",
@@ -409,7 +479,9 @@
           ],
           "image": "p1-lessons-assets/img/shape-rectangle-green.png",
           "check_ref": "p1-u2-l3-img04",
-          "source_page": "36"
+          "source_page": "36",
+          "title_en": "rectangle",
+          "body_en": "A rectangle has 4 sides."
         },
         {
           "id": "u2e3-10",
@@ -421,7 +493,9 @@
             "This is a circle."
           ],
           "check_ref": "p1-u2-l3-17",
-          "source_page": "36"
+          "source_page": "36",
+          "title_en": "What shape is this?",
+          "body_en": "Ask What shape is this? to find out the shape. Answer: This is a circle."
         },
         {
           "id": "u2e3-11",
@@ -433,7 +507,9 @@
             "The square is blue."
           ],
           "check_ref": "p1-u2-l3-18",
-          "source_page": "36"
+          "source_page": "36",
+          "title_en": "What color is the square?",
+          "body_en": "Ask What color is the square? to find out its color. Answer: The square is blue."
         },
         {
           "id": "u2e3-12",
@@ -445,14 +521,18 @@
             "The rectangle has 4 sides."
           ],
           "check_ref": "p1-u2-l3-13",
-          "source_page": "36"
+          "source_page": "36",
+          "title_en": "sides",
+          "body_en": "The triangle has 3 sides. The rectangle has 4 sides."
         },
         {
           "id": "u2e3-13",
           "kind": "check",
           "title_ar": "رتّب الكلمات",
           "body_ar": "رتّب الكلمات عشان تعمل جملة.",
-          "check_ref": "p1-u2-l3-27"
+          "check_ref": "p1-u2-l3-27",
+          "title_en": "Put the words in order",
+          "body_en": "Put the words in order to make a sentence."
         },
         {
           "id": "u2e3-14",
@@ -460,15 +540,20 @@
           "title_ar": "كمّل المحادثة",
           "body_ar": "كمّل المحادثة بنفسك.",
           "check_ref": "p1-u2-l3-32",
-          "source_page": "34-37"
+          "source_page": "34-37",
+          "title_en": "Complete the conversation",
+          "body_en": "Complete the conversation yourself."
         },
         {
           "id": "u2e3-15",
           "kind": "recap",
           "title_ar": "افتكر",
-          "body_ar": "ألوان: red، blue، yellow، green. أشكال: circle، square، triangle، rectangle."
+          "body_ar": "ألوان: red، blue، yellow، green. أشكال: circle، square، triangle، rectangle.",
+          "title_en": "Remember",
+          "body_en": "Colors: red, blue, yellow and green. Shapes: circle, square, triangle and rectangle."
         }
-      ]
+      ],
+      "goal_en": "Today we will learn colors and shapes, and describe them in sentences."
     },
     {
       "grade": "P1",
@@ -487,7 +572,9 @@
           "en": [
             "ant, axe, arrow, apple"
           ],
-          "source_page": "38"
+          "source_page": "38",
+          "title_en": "The letter A",
+          "body_en": "A letter has a name and a sound. Read the lesson words and find the letter at the beginning. This explanation is written; pronunciation audio will be added after review."
         },
         {
           "id": "u2e4-2",
@@ -499,7 +586,9 @@
           ],
           "image": "p1-lessons-assets/img/kg-ant.png",
           "check_ref": "p1-u2-l4-kg01",
-          "source_page": "38"
+          "source_page": "38",
+          "title_en": "ant",
+          "body_en": "Learn the word ant. It begins with a."
         },
         {
           "id": "u2e4-3",
@@ -511,7 +600,9 @@
           ],
           "image": "p1-lessons-assets/img/obj-axe.png",
           "check_ref": "p1-u2-l4-obj01",
-          "source_page": "38"
+          "source_page": "38",
+          "title_en": "axe",
+          "body_en": "Learn the word axe. It begins with a."
         },
         {
           "id": "u2e4-4",
@@ -523,7 +614,9 @@
           ],
           "image": "p1-lessons-assets/img/obj-arrow.png",
           "check_ref": "p1-u2-l4-obj03",
-          "source_page": "38"
+          "source_page": "38",
+          "title_en": "arrow",
+          "body_en": "Learn the word arrow. It begins with a."
         },
         {
           "id": "u2e4-5",
@@ -535,7 +628,9 @@
           ],
           "image": "p1-lessons-assets/img/apple.png",
           "check_ref": "p1-u2-l4-img01",
-          "source_page": "38"
+          "source_page": "38",
+          "title_en": "apple",
+          "body_en": "Learn the word apple. It begins with a."
         },
         {
           "id": "u2e4-6",
@@ -546,7 +641,9 @@
             "Aa"
           ],
           "check_ref": "p1-u2-l4-08",
-          "source_page": "38-40"
+          "source_page": "38-40",
+          "title_en": "The letter shape",
+          "body_en": "The capital letter is A and the small letter is a. Trace them in your book and follow the arrows."
         },
         {
           "id": "u2e4-7",
@@ -554,7 +651,9 @@
           "title_ar": "أول حرف",
           "body_ar": "اختار الحرف اللي بتبدأ بيه الكلمة.",
           "check_ref": "p1-u2-l4-10",
-          "source_page": "41"
+          "source_page": "41",
+          "title_en": "The first letter",
+          "body_en": "Choose the letter that the word begins with."
         },
         {
           "id": "u2e4-8",
@@ -562,7 +661,9 @@
           "title_ar": "اللي مش بيبدأ بـ a",
           "body_ar": "اختار الكلمة اللي مش بتبدأ بحرف a.",
           "check_ref": "p1-u2-l4-14",
-          "source_page": "41"
+          "source_page": "41",
+          "title_en": "The word that does not begin with a",
+          "body_en": "Choose the word that does not begin with a."
         },
         {
           "id": "u2e4-9",
@@ -570,15 +671,20 @@
           "title_ar": "رتّب الحروف",
           "body_ar": "رتّب الحروف وكوّن الكلمة.",
           "check_ref": "p1-u2-l4-32",
-          "source_page": "41"
+          "source_page": "41",
+          "title_en": "Put the letters in order",
+          "body_en": "Put the letters in order to make the word."
         },
         {
           "id": "u2e4-10",
           "kind": "recap",
           "title_ar": "افتكر",
-          "body_ar": "ant، axe، arrow، apple كلهم بيبدأوا بـ a."
+          "body_ar": "ant، axe، arrow، apple كلهم بيبدأوا بـ a.",
+          "title_en": "Remember",
+          "body_en": "ant, axe, arrow and apple all begin with a."
         }
-      ]
+      ],
+      "goal_en": "Today we will learn the letter A, its short sound and words that begin with it."
     }
   ]
 }

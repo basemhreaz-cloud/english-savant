@@ -127,7 +127,8 @@
       "butterfly"
     ],
     "requires_image": false,
-    "explanation_en": "butterfly is a فراشة that flies."
+    "explanation_en": "A butterfly is an insect that flies.",
+    "prompt_en": "What is the Arabic meaning of 'butterfly'?"
   },
   {
     "grade": "P1",
@@ -153,7 +154,8 @@
       "bird"
     ],
     "requires_image": false,
-    "explanation_en": "bird means عصفور."
+    "explanation_en": "Learn the word bird.",
+    "prompt_en": "What is the Arabic meaning of 'bird'?"
   },
   {
     "grade": "P1",
@@ -275,7 +277,7 @@
       "grass"
     ],
     "requires_image": false,
-    "explanation_en": "الحشيش لونه أخضر."
+    "explanation_en": "The grass is green."
   },
   {
     "grade": "P1",
@@ -379,7 +381,7 @@
       "bird"
     ],
     "requires_image": false,
-    "explanation_en": "I can see means أنا شايف, followed by the name of what you see."
+    "explanation_en": "Say I can see, followed by the name of what you see."
   },
   {
     "grade": "P1",
@@ -405,7 +407,7 @@
       "butterfly"
     ],
     "requires_image": false,
-    "explanation_en": "We answer What's this? with This is + الاسم."
+    "explanation_en": "Answer What's this? with This is, followed by the name of the thing."
   },
   {
     "grade": "P1",
@@ -611,7 +613,7 @@
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The sentence: The grass is green."
+    "explanation_en": "The sentence is: The grass is green."
   },
   {
     "grade": "P1",
@@ -875,7 +877,7 @@
     "answer_kind": "blanks_text",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Each blank has its own slot. 1: green (الحشيش). 2: see. 3: any color for the flower (red or yellow or pink...). 4: sky (السما is blue). 5: tree."
+    "explanation_en": "Each blank has its own box. 1: green, for grass. 2: see. 3: any color for the flower, such as red, yellow or pink. 4: sky, because the sky is blue. 5: tree."
   },
   {
     "grade": "P1",
@@ -1067,7 +1069,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The small s and the capital S."
+    "explanation_en": "The small letter is s and the capital letter is S."
   },
   {
     "grade": "P1",
@@ -1117,7 +1119,7 @@
       "snake"
     ],
     "requires_image": false,
-    "explanation_en": "snake starts with the letter s."
+    "explanation_en": "Snake begins with s."
   },
   {
     "grade": "P1",
@@ -1219,7 +1221,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "tiger starts with t."
+    "explanation_en": "Tiger begins with t."
   },
   {
     "grade": "P1",
@@ -1393,7 +1395,8 @@
       "snake"
     ],
     "requires_image": false,
-    "explanation_en": "«snake» means ثعبان."
+    "explanation_en": "Learn the word snake.",
+    "prompt_en": "What is the Arabic meaning of 'snake'?"
   },
   {
     "grade": "P1",
@@ -1419,7 +1422,8 @@
       "spider"
     ],
     "requires_image": false,
-    "explanation_en": "spider means عنكبوت."
+    "explanation_en": "Learn the word spider.",
+    "prompt_en": "What is the Arabic meaning of 'spider'?"
   },
   {
     "grade": "P1",
@@ -1636,7 +1640,7 @@
     "requires_image": true,
     "image": "p1-lessons-assets/img/sun.png",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: s-u-n."
+    "explanation_en": "Put the letters in order: s-u-n."
   },
   {
     "grade": "P1",
@@ -1996,7 +2000,7 @@
       "triangle"
     ],
     "requires_image": false,
-    "explanation_en": "A triangle has 3 sides. tri means three."
+    "explanation_en": "A triangle has 3 sides. Tri means three."
   },
   {
     "grade": "P1",
@@ -2096,7 +2100,7 @@
       "circle"
     ],
     "requires_image": false,
-    "explanation_en": "We answer with This is + اسم الشكل."
+    "explanation_en": "Answer with This is, followed by the name of the shape."
   },
   {
     "grade": "P1",
@@ -2122,7 +2126,7 @@
       "square"
     ],
     "requires_image": false,
-    "explanation_en": "The question is about the color, so the answer names the color blue."
+    "explanation_en": "The question asks about color, so the answer names the color blue."
   },
   {
     "grade": "P1",
@@ -2353,7 +2357,7 @@
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The sentence: The square is blue."
+    "explanation_en": "The sentence is: The square is blue."
   },
   {
     "grade": "P1",
@@ -2559,7 +2563,7 @@
     "answer_kind": "blanks_text",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Each blank has its own slot. 1: shape (شكل). 2: a correct shape name. 3: color (لون). 4: a correct color. 5: the triangle has 3 sides (3 or three)."
+    "explanation_en": "Each blank has its own box. 1: shape. 2: a correct shape name. 3: color. 4: a correct color. 5: a triangle has 3 sides, so write 3 or three."
   },
   {
     "grade": "P1",
@@ -2751,7 +2755,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The small a and the capital A."
+    "explanation_en": "The small letter is a and the capital letter is A."
   },
   {
     "grade": "P1",
@@ -2801,7 +2805,7 @@
       "apple"
     ],
     "requires_image": false,
-    "explanation_en": "apple starts with the letter a وبعده p."
+    "explanation_en": "Apple begins with a, followed by p."
   },
   {
     "grade": "P1",
@@ -2903,7 +2907,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "sun starts with s."
+    "explanation_en": "Sun begins with s."
   },
   {
     "grade": "P1",
@@ -3342,7 +3346,7 @@
     "requires_image": true,
     "image": "p1-lessons-assets/img/kg-ant.png",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: a-n-t."
+    "explanation_en": "Put the letters in order: a-n-t."
   },
   {
     "grade": "P1",
@@ -3428,7 +3432,7 @@
     "alt": "a pink flower",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is زهرة. The word in English: flower."
+    "explanation_en": "The picture shows a flower."
   },
   {
     "grade": "P1",
@@ -3454,7 +3458,7 @@
     "alt": "a tree with green leaves",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is شجرة. The word in English: tree."
+    "explanation_en": "The picture shows a tree."
   },
   {
     "grade": "P1",
@@ -3480,7 +3484,7 @@
     "alt": "a yellow star",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "النجمة star starts with the letter s."
+    "explanation_en": "Star begins with s."
   },
   {
     "grade": "P1",
@@ -3506,7 +3510,7 @@
     "alt": "a yellow sun with rays",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "الشمس sun starts with the letter s."
+    "explanation_en": "Sun begins with s."
   },
   {
     "grade": "P1",
@@ -3532,7 +3536,7 @@
     "alt": "a red apple",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "التفاحة apple starts with the letter a."
+    "explanation_en": "Apple begins with a."
   },
   {
     "grade": "P1",
@@ -3558,7 +3562,7 @@
     "alt": "a red circle",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This shape is دايرة, in English: circle."
+    "explanation_en": "The shape is a circle."
   },
   {
     "grade": "P1",
@@ -3584,7 +3588,7 @@
     "alt": "a blue square",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This shape is مربع, in English: square."
+    "explanation_en": "The shape is a square."
   },
   {
     "grade": "P1",
@@ -3610,7 +3614,7 @@
     "alt": "a yellow triangle",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This shape is مثلث, in English: triangle."
+    "explanation_en": "The shape is a triangle."
   },
   {
     "grade": "P1",
@@ -3636,7 +3640,7 @@
     "alt": "a green rectangle",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This shape is مستطيل, in English: rectangle."
+    "explanation_en": "The shape is a rectangle."
   },
   {
     "grade": "P1",
@@ -3662,7 +3666,7 @@
     "alt": "a red square swatch",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This color is أحمر, in English: red."
+    "explanation_en": "The color is red."
   },
   {
     "grade": "P1",
@@ -3688,7 +3692,7 @@
     "alt": "a blue square swatch",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This color is أزرق, in English: blue."
+    "explanation_en": "The color is blue."
   },
   {
     "grade": "P1",
@@ -3714,7 +3718,7 @@
     "alt": "a yellow square swatch",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This color is أصفر, in English: yellow."
+    "explanation_en": "The color is yellow."
   },
   {
     "grade": "P1",
@@ -3740,7 +3744,7 @@
     "alt": "a green square swatch",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This color is أخضر, in English: green."
+    "explanation_en": "The color is green."
   },
   {
     "grade": "P1",
@@ -3870,7 +3874,7 @@
     "alt": "a picture of a spoon",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is معلقة. The word in English: spoon."
+    "explanation_en": "The picture shows a spoon."
   },
   {
     "grade": "P1",
@@ -3922,7 +3926,7 @@
     "alt": "a picture of a axe",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is فأس. The word in English: axe."
+    "explanation_en": "The picture shows an axe."
   },
   {
     "grade": "P1",
@@ -3974,7 +3978,7 @@
     "alt": "a picture of a arrow",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is سهم. The word in English: arrow."
+    "explanation_en": "The picture shows an arrow."
   },
   {
     "grade": "P1",
@@ -4026,7 +4030,7 @@
     "alt": "a picture of a grass",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is عشب. The word in English: grass."
+    "explanation_en": "The picture shows grass."
   },
   {
     "grade": "P1",
@@ -4078,7 +4082,7 @@
     "alt": "a picture of a sky",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is سما. The word in English: sky."
+    "explanation_en": "The picture shows the sky."
   },
   {
     "grade": "P1",
@@ -4130,7 +4134,7 @@
     "alt": "picture: ant",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is نملة. The word in English: ant."
+    "explanation_en": "The picture shows an ant."
   },
   {
     "grade": "P1",
