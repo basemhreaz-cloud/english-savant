@@ -48,17 +48,6 @@
       "soon": false
     },
     {
-      "id": "p2-u1-lesson",
-      "grade": "p2",
-      "title": "Unit 1: Let's Get Started!",
-      "part": "فيديو شرح الوحدة الأولى",
-      "duration": "6:55",
-      "youtube": "",
-      "soon": false,
-      "mp4": "videos/ES_P2_T1_U1.mp4",
-      "media_version": "a125b86382c9"
-    },
-    {
       "id": "sa-g1-u1-lesson",
       "grade": "sa-g1",
       "title": "We Can 1 · Unit 1: My Friends",
@@ -751,6 +740,17 @@
       "mp4": "videos/ES_PP2_T1_U2.mp4",
       "poster": "videos/ES_PP2_T1_U2.jpg",
       "media_version": "0c4209cd75d6",
+      "soon": false
+    },
+    {
+      "id": "p2-u1-lesson",
+      "grade": "p2",
+      "title": "Unit 1: Let's Get Started!",
+      "part": "فيديو شرح الوحدة الأولى",
+      "duration": "12:36",
+      "mp4": "videos/ES_P2_T1_U1.mp4",
+      "poster": "videos/ES_P2_T1_U1.jpg",
+      "media_version": "545e1a4f8e36",
       "soon": false
     }
   ]
