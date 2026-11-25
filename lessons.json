@@ -59,16 +59,6 @@
       "media_version": "a125b86382c9"
     },
     {
-      "id": "p3-u1-lesson",
-      "grade": "p3",
-      "title": "Unit 1: Let's Learn Together!",
-      "part": "فيديو شرح الوحدة الأولى",
-      "duration": "9:12",
-      "youtube": "",
-      "soon": false,
-      "mp4": "videos/ES_P3_T1_U1.mp4"
-    },
-    {
       "id": "p4-u1-lesson",
       "grade": "p4",
       "title": "Unit 1: The Five Senses",
@@ -715,6 +705,17 @@
       "mp4": "videos/ES_PP2_T1_U4.mp4",
       "poster": "videos/ES_PP2_T1_U4.jpg",
       "media_version": "3a75129c7546",
+      "soon": false
+    },
+    {
+      "id": "p3-u1-lesson",
+      "grade": "p3",
+      "title": "Unit 1: Let's Learn Together!",
+      "part": "فيديو شرح الوحدة الأولى",
+      "duration": "28:15",
+      "mp4": "videos/ES_P3_T1_U1.mp4",
+      "poster": "videos/ES_P3_T1_U1.jpg",
+      "media_version": "66536ff27a24",
       "soon": false
     }
   ]
