@@ -16,11 +16,11 @@ try:
  (O/'webview.txt').write_bytes(adb('shell','dumpsys','webviewupdate'))
  for apk in ['android-ci/current-test-signed.apk','android-ci/matrix-audit.apk']:print(adb('install','-r',apk).decode())
  (O/'installed-package.txt').write_bytes(adb('shell','dumpsys','package','eg.englishsavant.app'))
- sizes=[(360,800),(411,891)] if device=='phone' else [(800,1280),(1200,1920)]
+ sizes=[(1080,2400)] if device=='phone' else [(1536,2048)]
  for width,height in sizes:
   for rotation in [0,1]:
    label=f'api{api}-{device}-{width}x{height}-rotation{rotation}';p=O/label;p.mkdir()
-   adb('shell','am','force-stop','eg.englishsavant.app');adb('shell','settings','put','system','accelerometer_rotation','0');adb('shell','settings','put','system','user_rotation',str(rotation));adb('shell','wm','size',f'{width}x{height}');adb('shell','wm','density','160');time.sleep(2);adb('shell','rm','-rf','/data/data/eg.englishsavant.app/files/matrix',check=False)
+   adb('shell','am','force-stop','eg.englishsavant.app');adb('shell','settings','put','system','accelerometer_rotation','0');adb('shell','settings','put','system','user_rotation',str(rotation));adb('shell','wm','size','reset');adb('shell','wm','density','reset');time.sleep(2);adb('shell','rm','-rf','/data/data/eg.englishsavant.app/files/matrix',check=False)
    output=adb('shell','am','instrument','-w','-e','width',str(width),'-e','height',str(height),'-e','rotation',str(rotation),'eg.englishsavant.matrix/.MatrixAudit',timeout=600,check=False)
    (p/'instrument.txt').write_bytes(output)
    print(output.decode(errors='replace')[-1500:],flush=True)
@@ -30,7 +30,8 @@ try:
    (p/'window.txt').write_bytes(adb('shell','dumpsys','window'))
    print(label, len(list(p.rglob('*.png'))),'screenshots',flush=True)
 finally:
- (O/'logcat.txt').write_bytes(adb('logcat','-d','-t','1500',check=False)[-1000000:])
+ (O/'logcat.txt').write_bytes(adb('logcat','-d',check=False)[-6000000:])
+ (O/'eszoom.txt').write_bytes(adb('logcat','-d','-s','ESZOOM:V','*:S',check=False))
  adb('shell','wm','size','reset',check=False);adb('shell','wm','density','reset',check=False);adb('shell','settings','put','system','font_scale','1.0',check=False)
  # Do not retain huge unreviewable payloads.
  total=sum(p.stat().st_size for p in O.rglob('*') if p.is_file());print('Evidence bytes',total);assert total<200*1024*1024
