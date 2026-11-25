@@ -79,7 +79,7 @@
       ids.add(q.id);
       if (q.grade !== "P1" || q.unit !== unit || ![1, 2, 3, 4].includes(q.lesson) || !q.source_ref || !q.prompt || !q.explanation_ar) throw Error("Invalid context " + q.id);
       if (q.requires_image && !q.image) throw Error("Required image missing " + q.id);
-      if (q.image && !/^(?:p1-lessons-assets\/img\/[a-z0-9-]+|images\/words\/(?:nurse|panda))\.png$/.test(q.image)) throw Error("Invalid image " + q.id);
+      if (q.image && !/^p1-lessons-assets\/img\/[a-z0-9-]+\.png$/.test(q.image) && !["images/words/bird.jpg", "images/words/boy.jpg", "images/words/fixed-duck.png", "images/words/fixed-fish.png", "images/words/goat.jpg", "images/words/lion.png", "images/words/nurse.png", "images/words/octopus.png", "images/words/panda.png"].includes(q.image)) throw Error("Invalid image " + q.id);
       if (q.type === "dialogue") {
         const marks = (_a = q.dialogue) == null ? void 0 : _a.flatMap((t) => [...t.text.matchAll(/\{(\d+)\}/g)].map((m) => +m[1]));
         if (!(marks == null ? void 0 : marks.length) || !((_b = q.blanks) == null ? void 0 : _b.length) || q.blanks.length !== marks.length || q.blanks.some((b) => {

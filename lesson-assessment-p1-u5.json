@@ -49,7 +49,8 @@
       "duck"
     ],
     "requires_image": false,
-    "explanation_en": "«duck» means بطة."
+    "explanation_en": "Learn the word duck.",
+    "prompt_en": "What is the Arabic meaning of 'duck'?"
   },
   {
     "grade": "P1",
@@ -75,7 +76,8 @@
       "horse"
     ],
     "requires_image": false,
-    "explanation_en": "«horse» means حصان."
+    "explanation_en": "Learn the word horse.",
+    "prompt_en": "What is the Arabic meaning of 'horse'?"
   },
   {
     "grade": "P1",
@@ -101,7 +103,8 @@
       "chicken"
     ],
     "requires_image": false,
-    "explanation_en": "«chicken» means فرخة."
+    "explanation_en": "Learn the word chicken.",
+    "prompt_en": "What is the Arabic meaning of 'chicken'?"
   },
   {
     "grade": "P1",
@@ -227,7 +230,7 @@
       "cow"
     ],
     "requires_image": false,
-    "explanation_en": "The cow is big: big."
+    "explanation_en": "The cow is big."
   },
   {
     "grade": "P1",
@@ -691,7 +694,7 @@
       "The cow is big."
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
-    "explanation_en": "The sentence: The cow is big."
+    "explanation_en": "The sentence is: The cow is big."
   },
   {
     "grade": "P1",
@@ -964,7 +967,7 @@
     "answer_kind": "blanks_text",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Each blank has a slot. 1: cow. 2: big. 3: small. 4: animals."
+    "explanation_en": "Each blank has its own box. 1: cow. 2: big. 3: small. 4: animals."
   },
   {
     "grade": "P1",
@@ -1188,7 +1191,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The capital M and the small m."
+    "explanation_en": "The capital letter is M and the small letter is m."
   },
   {
     "grade": "P1",
@@ -1438,7 +1441,7 @@
     ],
     "image": "p1-lessons-assets/img/obj-moon.png",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: m-o-o-n"
+    "explanation_en": "Put the letters in order: m-o-o-n."
   },
   {
     "grade": "P1",
@@ -1694,7 +1697,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The capital G and the small g."
+    "explanation_en": "The capital letter is G and the small letter is g."
   },
   {
     "grade": "P1",
@@ -1770,7 +1773,8 @@
       "goat"
     ],
     "requires_image": false,
-    "explanation_en": "«goat» means معزة."
+    "explanation_en": "Learn the word goat.",
+    "prompt_en": "What is the Arabic meaning of 'goat'?"
   },
   {
     "grade": "P1",
@@ -1946,7 +1950,7 @@
     ],
     "image": "p1-lessons-assets/img/obj-grapes.png",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: g-r-a-p-e-s"
+    "explanation_en": "Put the letters in order: g-r-a-p-e-s."
   },
   {
     "grade": "P1",
@@ -2000,7 +2004,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "goat starts with g."
+    "explanation_en": "Goat begins with g."
   },
   {
     "grade": "P1",
@@ -2096,7 +2100,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "After 6 comes 7."
+    "explanation_en": "7 comes after 6."
   },
   {
     "grade": "P1",
@@ -2569,7 +2573,7 @@
       "I can see 6 ducks."
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
-    "explanation_en": "The sentence: I can see 6 ducks."
+    "explanation_en": "The sentence is: I can see 6 ducks."
   },
   {
     "grade": "P1",
@@ -2710,7 +2714,8 @@
     "passage": null,
     "answer_kind": "text_key",
     "image_optional": null,
-    "requires_image": false
+    "requires_image": false,
+    "explanation_en": "6, 7, 8, 9, 10."
   },
   {
     "grade": "P1",
@@ -2775,7 +2780,7 @@
     "answer_kind": "blanks_text",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Each blank has a slot. 1: horses. 2: ducks. 3: 9."
+    "explanation_en": "Each blank has its own box. 1: horses. 2: ducks. 3: 9."
   },
   {
     "grade": "P1",
@@ -2999,7 +3004,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The capital O and the small o."
+    "explanation_en": "The capital letter is O and the small letter is o."
   },
   {
     "grade": "P1",
@@ -3049,7 +3054,8 @@
       "octopus"
     ],
     "requires_image": false,
-    "explanation_en": "«octopus» means أخطبوط."
+    "explanation_en": "Learn the word octopus.",
+    "prompt_en": "What is the Arabic meaning of 'octopus'?"
   },
   {
     "grade": "P1",
@@ -3075,7 +3081,8 @@
       "on"
     ],
     "requires_image": false,
-    "explanation_en": "«on» means على / فوق."
+    "explanation_en": "On means on top of or above.",
+    "prompt_en": "What is the Arabic meaning of 'on'?"
   },
   {
     "grade": "P1",
@@ -3476,7 +3483,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The capital F and the small f."
+    "explanation_en": "The capital letter is F and the small letter is f."
   },
   {
     "grade": "P1",
@@ -3526,7 +3533,8 @@
       "fish"
     ],
     "requires_image": false,
-    "explanation_en": "«fish» means سمكة."
+    "explanation_en": "Learn the word fish.",
+    "prompt_en": "What is the Arabic meaning of 'fish'?"
   },
   {
     "grade": "P1",
@@ -3756,7 +3764,7 @@
     ],
     "image": "p1-lessons-assets/img/obj-fork.png",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: f-o-r-k"
+    "explanation_en": "Put the letters in order: f-o-r-k."
   },
   {
     "grade": "P1",
@@ -3804,7 +3812,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "frog starts with f."
+    "explanation_en": "Frog begins with f."
   },
   {
     "grade": "P1",
@@ -3878,7 +3886,7 @@
     "alt": "6 red apples",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "Count the apples one by one: the answer is 6."
+    "explanation_en": "Count the apples one at a time: the answer is 6."
   },
   {
     "grade": "P1",
@@ -3904,7 +3912,7 @@
     "alt": "7 yellow stars",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "Count the stars one by one: the answer is 7."
+    "explanation_en": "Count the stars one at a time: the answer is 7."
   },
   {
     "grade": "P1",
@@ -3930,7 +3938,7 @@
     "alt": "8 books",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "Count the books one by one: the answer is 8."
+    "explanation_en": "Count the books one at a time: the answer is 8."
   },
   {
     "grade": "P1",
@@ -3956,7 +3964,7 @@
     "alt": "9 red bags",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "Count the bags one by one: the answer is 9."
+    "explanation_en": "Count the bags one at a time: the answer is 9."
   },
   {
     "grade": "P1",
@@ -3982,7 +3990,7 @@
     "alt": "10 pink flowers",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "Count the flowers one by one: the answer is 10."
+    "explanation_en": "Count the flowers one at a time: the answer is 10."
   },
   {
     "grade": "P1",
@@ -4060,7 +4068,7 @@
     "alt": "a picture of a moon",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is قمر. The word in English: moon."
+    "explanation_en": "The picture shows the moon."
   },
   {
     "grade": "P1",
@@ -4112,7 +4120,7 @@
     "alt": "a picture of a milk",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is لبن. The word in English: milk."
+    "explanation_en": "The picture shows milk."
   },
   {
     "grade": "P1",
@@ -4164,7 +4172,7 @@
     "alt": "a picture of a mango",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is مانجو. The word in English: mango."
+    "explanation_en": "The picture shows a mango."
   },
   {
     "grade": "P1",
@@ -4216,7 +4224,7 @@
     "alt": "a picture of a grapes",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is عنب. The word in English: grapes."
+    "explanation_en": "The picture shows grapes."
   },
   {
     "grade": "P1",
@@ -4268,7 +4276,7 @@
     "alt": "a picture of a guitar",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is جيتار. The word in English: guitar."
+    "explanation_en": "The picture shows a guitar."
   },
   {
     "grade": "P1",
@@ -4320,7 +4328,7 @@
     "alt": "a picture of a gloves",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is جوانتي. The word in English: gloves."
+    "explanation_en": "The picture shows gloves."
   },
   {
     "grade": "P1",
@@ -4372,7 +4380,7 @@
     "alt": "a picture of a olive",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is زيتون. The word in English: olive."
+    "explanation_en": "The picture shows an olive."
   },
   {
     "grade": "P1",
@@ -4424,7 +4432,7 @@
     "alt": "a picture of a fan",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is مروحة. The word in English: fan."
+    "explanation_en": "The picture shows a fan."
   },
   {
     "grade": "P1",
@@ -4476,7 +4484,7 @@
     "alt": "a picture of a fork",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is شوكة. The word in English: fork."
+    "explanation_en": "The picture shows a fork."
   },
   {
     "grade": "P1",
@@ -4528,7 +4536,7 @@
     "alt": "picture: cow",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is بقرة. The word in English: cow."
+    "explanation_en": "The picture shows a cow."
   },
   {
     "grade": "P1",
@@ -4554,7 +4562,7 @@
     "alt": "picture: monkey",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is قرد. The word in English: monkey."
+    "explanation_en": "The picture shows a monkey."
   },
   {
     "grade": "P1",

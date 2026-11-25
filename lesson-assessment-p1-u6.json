@@ -24,7 +24,8 @@
       "lion"
     ],
     "requires_image": false,
-    "explanation_en": "lion means أسد."
+    "explanation_en": "Learn the word lion.",
+    "prompt_en": "What is the Arabic meaning of 'lion'?"
   },
   {
     "grade": "P1",
@@ -286,7 +287,7 @@
       "monkey"
     ],
     "requires_image": false,
-    "explanation_en": "The monkey is in the tree: in the tree."
+    "explanation_en": "The monkey is in the tree."
   },
   {
     "grade": "P1",
@@ -654,7 +655,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Leila says I can see 2 lions!"
+    "explanation_en": "Leila says: I can see 2 lions!"
   },
   {
     "grade": "P1",
@@ -734,7 +735,7 @@
       "The monkey is in the tree."
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
-    "explanation_en": "The sentence: The monkey is in the tree."
+    "explanation_en": "The sentence is: The monkey is in the tree."
   },
   {
     "grade": "P1",
@@ -980,7 +981,7 @@
     "answer_kind": "blanks_text",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Each blank has its own slot. 1: lion. 2: 2. 3: 4. 4: in."
+    "explanation_en": "Each blank has its own box. 1: lion. 2: 2. 3: 4. 4: in."
   },
   {
     "grade": "P1",
@@ -1076,7 +1077,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The word ball starts with the letter Bb. The other words start with different letters."
+    "explanation_en": "Ball begins with Bb. The other words begin with different letters."
   },
   {
     "grade": "P1",
@@ -1204,7 +1205,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The capital B and the small b."
+    "explanation_en": "The capital letter is B and the small letter is b."
   },
   {
     "grade": "P1",
@@ -1280,7 +1281,8 @@
       "boy"
     ],
     "requires_image": false,
-    "explanation_en": "boy means ولد."
+    "explanation_en": "Learn the word boy.",
+    "prompt_en": "What is the Arabic meaning of 'boy'?"
   },
   {
     "grade": "P1",
@@ -1454,7 +1456,7 @@
     ],
     "image": "images/words/bird.jpg",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: b-i-r-d"
+    "explanation_en": "Put the letters in order: b-i-r-d."
   },
   {
     "grade": "P1",
@@ -1708,7 +1710,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The capital L and the small l."
+    "explanation_en": "The capital letter is L and the small letter is l."
   },
   {
     "grade": "P1",
@@ -1811,7 +1813,8 @@
       "lion"
     ],
     "requires_image": false,
-    "explanation_en": "lion means أسد."
+    "explanation_en": "Learn the word lion.",
+    "prompt_en": "What is the Arabic meaning of 'lion'?"
   },
   {
     "grade": "P1",
@@ -1959,7 +1962,7 @@
     ],
     "image": "p1-lessons-assets/img/obj-lamp.png",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: l-a-m-p."
+    "explanation_en": "Put the letters in order: l-a-m-p."
   },
   {
     "grade": "P1",
@@ -2038,7 +2041,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "lamp starts with l."
+    "explanation_en": "Lamp begins with l."
   },
   {
     "grade": "P1",
@@ -2340,7 +2343,7 @@
       "dog"
     ],
     "requires_image": false,
-    "explanation_en": "The dog is on the couch: on the couch."
+    "explanation_en": "The dog is on the couch."
   },
   {
     "grade": "P1",
@@ -2785,7 +2788,7 @@
       "The bird is in the cage."
     ],
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
-    "explanation_en": "The sentence: The bird is in the cage."
+    "explanation_en": "The sentence is: The bird is in the cage."
   },
   {
     "grade": "P1",
@@ -3073,7 +3076,7 @@
     "answer_kind": "blanks_text",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Each blank has its own slot. 1: on (على رجلي). 2: on (على الكنبة). 3: in (في القفص). 4: under (تحت الترابيزة)."
+    "explanation_en": "Each blank has its own box. 1: on, as in on my legs. 2: on, as in on the couch. 3: in, as in in the cage. 4: under, as in under the table."
   },
   {
     "grade": "P1",
@@ -3169,7 +3172,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The word under starts with the letter Uu. The other words start with different letters."
+    "explanation_en": "Under begins with Uu. The other words begin with different letters."
   },
   {
     "grade": "P1",
@@ -3297,7 +3300,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Capital U and small u."
+    "explanation_en": "The capital letter is U and the small letter is u."
   },
   {
     "grade": "P1",
@@ -3347,7 +3350,8 @@
       "up"
     ],
     "requires_image": false,
-    "explanation_en": "up means لفوق."
+    "explanation_en": "Up means towards a higher place.",
+    "prompt_en": "What is the Arabic meaning of 'up'?"
   },
   {
     "grade": "P1",
@@ -3645,7 +3649,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The word jellyfish starts with the letter Jj. The other words start with different letters."
+    "explanation_en": "Jellyfish begins with Jj. The other words begin with different letters."
   },
   {
     "grade": "P1",
@@ -3773,7 +3777,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Capital J and small j."
+    "explanation_en": "The capital letter is J and the small letter is j."
   },
   {
     "grade": "P1",
@@ -4022,7 +4026,7 @@
     ],
     "image": "p1-lessons-assets/img/obj-jam.png",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: j-a-m."
+    "explanation_en": "Put the letters in order: j-a-m."
   },
   {
     "grade": "P1",
@@ -4102,7 +4106,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "jacket starts with j."
+    "explanation_en": "Jacket begins with j."
   },
   {
     "grade": "P1",
@@ -4176,7 +4180,7 @@
     "alt": "a blue ball on a wooden table",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The ball is on the table: on."
+    "explanation_en": "The ball is on the table."
   },
   {
     "grade": "P1",
@@ -4202,7 +4206,7 @@
     "alt": "a blue ball under a wooden table",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The ball is under the table: under."
+    "explanation_en": "The ball is under the table."
   },
   {
     "grade": "P1",
@@ -4228,7 +4232,7 @@
     "alt": "a blue ball inside a brown box",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The ball is inside the box: in."
+    "explanation_en": "The ball is in the box."
   },
   {
     "grade": "P1",
@@ -4254,7 +4258,7 @@
     "alt": "a picture of a banana",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows موزة. The word in English is banana."
+    "explanation_en": "The picture shows a banana."
   },
   {
     "grade": "P1",
@@ -4306,7 +4310,7 @@
     "alt": "a picture of a leaf",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows ورقة شجر. The word in English is leaf."
+    "explanation_en": "The picture shows a leaf."
   },
   {
     "grade": "P1",
@@ -4358,7 +4362,7 @@
     "alt": "a picture of a lamp",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows أباجورة. The word in English is lamp."
+    "explanation_en": "The picture shows a lamp."
   },
   {
     "grade": "P1",
@@ -4410,7 +4414,7 @@
     "alt": "a picture of a lemon",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows ليمون. The word in English is lemon."
+    "explanation_en": "The picture shows a lemon."
   },
   {
     "grade": "P1",
@@ -4462,7 +4466,7 @@
     "alt": "a picture of a umbrella",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows شمسية. The word in English is umbrella."
+    "explanation_en": "The picture shows an umbrella."
   },
   {
     "grade": "P1",
@@ -4514,7 +4518,7 @@
     "alt": "a picture of a jam",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows مربى. The word in English is jam."
+    "explanation_en": "The picture shows jam."
   },
   {
     "grade": "P1",
@@ -4566,7 +4570,7 @@
     "alt": "a picture of a jar",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows برطمان. The word in English is jar."
+    "explanation_en": "The picture shows a jar."
   },
   {
     "grade": "P1",
@@ -4618,7 +4622,7 @@
     "alt": "a picture of a jacket",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows جاكت. The word in English is jacket."
+    "explanation_en": "The picture shows a jacket."
   },
   {
     "grade": "P1",
@@ -4670,7 +4674,7 @@
     "alt": "a picture of a cage",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows قفص. The word in English is cage."
+    "explanation_en": "The picture shows a cage."
   },
   {
     "grade": "P1",
@@ -4774,7 +4778,7 @@
     "alt": "picture: cat",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is قطة. The word in English: cat."
+    "explanation_en": "The picture shows a cat."
   },
   {
     "grade": "P1",
@@ -4800,7 +4804,7 @@
     "alt": "picture: turtle",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows سلحفاة. The word in English is turtle."
+    "explanation_en": "The picture shows a turtle."
   },
   {
     "grade": "P1",
@@ -4826,7 +4830,7 @@
     "alt": "picture: elephant",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is فيل. The word in English: elephant."
+    "explanation_en": "The picture shows an elephant."
   },
   {
     "grade": "P1",
@@ -4852,7 +4856,7 @@
     "alt": "picture: monkey",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is قرد. The word in English: monkey."
+    "explanation_en": "The picture shows a monkey."
   },
   {
     "grade": "P1",
@@ -4878,7 +4882,7 @@
     "alt": "an orange striped tiger",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture shows نمر: tiger."
+    "explanation_en": "The picture shows a tiger."
   },
   {
     "grade": "P1",
