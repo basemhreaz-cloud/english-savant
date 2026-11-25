@@ -25,14 +25,18 @@
             "Maya: Do you want to shake hands?",
             "Maya: Goodbye, Hana!"
           ],
-          "source_page": "8"
+          "source_page": "8",
+          "title_en": "Read the conversation",
+          "body_en": "Maya and Hana are meeting for the first time. Read the sentences one at a time."
         },
         {
           "id": "e1-2",
           "kind": "gloss",
           "title_ar": "يعني إيه؟",
           "body_ar": "Hello = أهلاً. What's your name? = اسمك إيه؟ My name is Maya = اسمي Maya. Nice to meet you = أنا مبسوط إني قابلتك. Goodbye = مع السلامة.",
-          "source_page": "8-9"
+          "source_page": "8-9",
+          "title_en": "What does it mean?",
+          "body_en": "Hello is a greeting. What's your name? asks someone to tell you their name. My name is Maya tells someone your name. Nice to meet you means you are happy to meet someone. Goodbye is what you say when you leave."
         },
         {
           "id": "e1-3",
@@ -43,7 +47,9 @@
             "Hello!"
           ],
           "check_ref": "p1-u1-l1-01",
-          "source_page": "9"
+          "source_page": "9",
+          "title_en": "Hello",
+          "body_en": "We say Hello when we meet someone. Read: Hello!"
         },
         {
           "id": "e1-4",
@@ -54,7 +60,9 @@
             "Goodbye!"
           ],
           "check_ref": "p1-u1-l1-02",
-          "source_page": "9"
+          "source_page": "9",
+          "title_en": "Goodbye",
+          "body_en": "We say Goodbye when we leave someone. Read: Goodbye!"
         },
         {
           "id": "e1-5",
@@ -66,7 +74,9 @@
           ],
           "image": "p1-lessons-assets/img/handshake.png",
           "check_ref": "p1-u1-l1-hs01",
-          "source_page": "9"
+          "source_page": "9",
+          "title_en": "shake hands",
+          "body_en": "To shake hands is to hold another person's hand as a greeting. Look at the picture: the two hands are holding each other."
         },
         {
           "id": "e1-6",
@@ -78,7 +88,9 @@
           ],
           "image": "p1-lessons-assets/img/kg-play.png",
           "check_ref": "p1-u1-l1-pl01",
-          "source_page": "9"
+          "source_page": "9",
+          "title_en": "play",
+          "body_en": "Play means doing something for fun. Look at the two boys playing with blocks together."
         },
         {
           "id": "e1-7",
@@ -90,7 +102,9 @@
             "My name is Hana."
           ],
           "check_ref": "p1-u1-l1-11",
-          "source_page": "9"
+          "source_page": "9",
+          "title_en": "What's your name?",
+          "body_en": "When someone asks What's your name?, answer My name is ... and add your name. For example: My name is Hana."
         },
         {
           "id": "e1-8",
@@ -103,21 +117,27 @@
             "We are friends."
           ],
           "check_ref": "p1-u1-l1-15",
-          "source_page": "9"
+          "source_page": "9",
+          "title_en": "is / am / are",
+          "body_en": "I am Hana. My name is Maya. We are friends. Use am with I, is with name, and are with we."
         },
         {
           "id": "e1-9",
           "kind": "check",
           "title_ar": "جرّب بنفسك",
           "body_ar": "اختار الإجابة الصح.",
-          "check_ref": "p1-u1-l1-12"
+          "check_ref": "p1-u1-l1-12",
+          "title_en": "Try it yourself",
+          "body_en": "Choose the correct answer."
         },
         {
           "id": "e1-10",
           "kind": "check",
           "title_ar": "رتّب الكلمات",
           "body_ar": "رتّب الكلمات عشان تعمل جملة صح.",
-          "check_ref": "p1-u1-l1-25"
+          "check_ref": "p1-u1-l1-25",
+          "title_en": "Put the words in order",
+          "body_en": "Put the words in order to make a correct sentence."
         },
         {
           "id": "e1-11",
@@ -125,15 +145,20 @@
           "title_ar": "كمّل المحادثة",
           "body_ar": "كمّل المحادثة الصغيرة بنفسك.",
           "check_ref": "p1-u1-l1-30",
-          "source_page": "8-9"
+          "source_page": "8-9",
+          "title_en": "Complete the conversation",
+          "body_en": "Complete the short conversation yourself."
         },
         {
           "id": "e1-12",
           "kind": "recap",
           "title_ar": "افتكر",
-          "body_ar": "Hello للسلام. Goodbye للوداع. My name is ... لاسمك. shake hands نسلّم. We are friends!"
+          "body_ar": "Hello للسلام. Goodbye للوداع. My name is ... لاسمك. shake hands نسلّم. We are friends!",
+          "title_en": "Remember",
+          "body_en": "Say Hello when you meet someone and Goodbye when you leave. Use My name is ... to tell someone your name. Shake hands is a greeting. We are friends!"
         }
-      ]
+      ],
+      "goal_en": "Today we will learn to greet each other in English: say hello, say our names and say goodbye to a friend."
     },
     {
       "grade": "P1",
@@ -152,7 +177,9 @@
           "en": [
             "tiger, tomato, table, tree, teacher"
           ],
-          "source_page": "12"
+          "source_page": "12",
+          "title_en": "The letter T",
+          "body_en": "A letter has a name and a sound. Read the lesson words and find the letter at the beginning. This explanation is written; pronunciation audio will be added after review."
         },
         {
           "id": "e2-2",
@@ -164,7 +191,9 @@
           ],
           "image": "p1-lessons-assets/img/tiger.png",
           "check_ref": "p1-u1-l2-tg01",
-          "source_page": "12"
+          "source_page": "12",
+          "title_en": "tiger",
+          "body_en": "Learn the word tiger. It begins with t. Look at the picture."
         },
         {
           "id": "e2-3",
@@ -176,7 +205,9 @@
           ],
           "image": "p1-lessons-assets/img/obj-tomato.png",
           "check_ref": "p1-u1-l2-obj01",
-          "source_page": "12"
+          "source_page": "12",
+          "title_en": "tomato",
+          "body_en": "Learn the word tomato. It begins with t."
         },
         {
           "id": "e2-4",
@@ -188,7 +219,9 @@
           ],
           "image": "p1-lessons-assets/img/obj-table.png",
           "check_ref": "p1-u1-l2-20",
-          "source_page": "12"
+          "source_page": "12",
+          "title_en": "table",
+          "body_en": "Learn the word table. It begins with t."
         },
         {
           "id": "e2-5",
@@ -200,7 +233,9 @@
           ],
           "image": "p1-lessons-assets/img/tree.png",
           "check_ref": "p1-u1-l2-21",
-          "source_page": "12"
+          "source_page": "12",
+          "title_en": "tree",
+          "body_en": "Learn the word tree. It begins with t."
         },
         {
           "id": "e2-6",
@@ -211,7 +246,9 @@
             "teacher"
           ],
           "check_ref": "p1-u1-l2-22",
-          "source_page": "12-13"
+          "source_page": "12-13",
+          "title_en": "teacher",
+          "body_en": "Learn the word teacher. It begins with t. Look at the picture on pages 12-13 of your book."
         },
         {
           "id": "e2-7",
@@ -222,7 +259,9 @@
             "Tt"
           ],
           "check_ref": "p1-u1-l2-08",
-          "source_page": "12-16"
+          "source_page": "12-16",
+          "title_en": "The letter shape",
+          "body_en": "The capital letter is T and the small letter is t. Trace the dotted letters on pages 13 and 14 of your book. Follow the arrows to see where to start."
         },
         {
           "id": "e2-8",
@@ -230,7 +269,9 @@
           "title_ar": "أول حرف",
           "body_ar": "اختار الحرف اللي بتبدأ بيه الكلمة.",
           "check_ref": "p1-u1-l2-10",
-          "source_page": "15"
+          "source_page": "15",
+          "title_en": "The first letter",
+          "body_en": "Choose the letter that the word begins with."
         },
         {
           "id": "e2-9",
@@ -238,29 +279,38 @@
           "title_ar": "شوف الصورة",
           "body_ar": "بص على الصورة واختار أول حرف.",
           "check_ref": "p1-u1-l2-tg02",
-          "source_page": "15"
+          "source_page": "15",
+          "title_en": "Look at the picture",
+          "body_en": "Look at the picture and choose the first letter."
         },
         {
           "id": "e2-10",
           "kind": "check",
           "title_ar": "اللي مش بيبدأ بـ t",
           "body_ar": "اختار الكلمة اللي مش بتبدأ بحرف t.",
-          "check_ref": "p1-u1-l2-14"
+          "check_ref": "p1-u1-l2-14",
+          "title_en": "The word that does not begin with t",
+          "body_en": "Choose the word that does not begin with t."
         },
         {
           "id": "e2-11",
           "kind": "check",
           "title_ar": "رتّب الحروف",
           "body_ar": "رتّب الحروف وكوّن الكلمة.",
-          "check_ref": "p1-u1-l2-29"
+          "check_ref": "p1-u1-l2-29",
+          "title_en": "Put the letters in order",
+          "body_en": "Put the letters in order to make the word."
         },
         {
           "id": "e2-12",
           "kind": "recap",
           "title_ar": "افتكر",
-          "body_ar": "t: tiger، tomato، table، tree، teacher كلهم بيبدأوا بـ t."
+          "body_ar": "t: tiger، tomato، table، tree، teacher كلهم بيبدأوا بـ t.",
+          "title_en": "Remember",
+          "body_en": "Tiger, tomato, table, tree and teacher all begin with t."
         }
-      ]
+      ],
+      "goal_en": "Today we will learn the letter T: its sound, its shape and words that begin with it."
     },
     {
       "grade": "P1",
@@ -281,7 +331,9 @@
           ],
           "image": "p1-lessons-assets/img/book.png",
           "check_ref": "p1-u1-l3-img02",
-          "source_page": "17"
+          "source_page": "17",
+          "title_en": "book",
+          "body_en": "You read a book."
         },
         {
           "id": "e3-2",
@@ -293,7 +345,9 @@
           ],
           "image": "p1-lessons-assets/img/bag.png",
           "check_ref": "p1-u1-l3-img03",
-          "source_page": "17"
+          "source_page": "17",
+          "title_en": "bag",
+          "body_en": "We put our books in a bag."
         },
         {
           "id": "e3-3",
@@ -305,7 +359,9 @@
           ],
           "image": "p1-lessons-assets/img/pencil.png",
           "check_ref": "p1-u1-l3-img01",
-          "source_page": "17"
+          "source_page": "17",
+          "title_en": "pencil",
+          "body_en": "We write with a pencil."
         },
         {
           "id": "e3-4",
@@ -317,7 +373,9 @@
           ],
           "image": "p1-lessons-assets/img/chair.png",
           "check_ref": "p1-u1-l3-img04",
-          "source_page": "17"
+          "source_page": "17",
+          "title_en": "chair",
+          "body_en": "We sit on a chair."
         },
         {
           "id": "e3-5",
@@ -329,7 +387,9 @@
           ],
           "image": "p1-lessons-assets/img/desk.png",
           "check_ref": "p1-u1-l3-img05",
-          "source_page": "17"
+          "source_page": "17",
+          "title_en": "desk",
+          "body_en": "We write on a desk."
         },
         {
           "id": "e3-6",
@@ -341,7 +401,9 @@
           ],
           "image": "p1-lessons-assets/img/board.png",
           "check_ref": "p1-u1-l3-img06",
-          "source_page": "17"
+          "source_page": "17",
+          "title_en": "board",
+          "body_en": "The teacher writes on the board."
         },
         {
           "id": "e3-7",
@@ -352,7 +414,9 @@
             "teacher"
           ],
           "check_ref": "p1-u1-l3-07",
-          "source_page": "17"
+          "source_page": "17",
+          "title_en": "teacher",
+          "body_en": "The teacher is the person who gives the instructions."
         },
         {
           "id": "e3-8",
@@ -364,7 +428,9 @@
           ],
           "image": "p1-lessons-assets/img/stand.png",
           "check_ref": "p1-u1-l3-stand01",
-          "source_page": "18"
+          "source_page": "18",
+          "title_en": "Stand up.",
+          "body_en": "When the teacher says Stand up, get up onto your feet."
         },
         {
           "id": "e3-9",
@@ -376,7 +442,9 @@
           ],
           "image": "p1-lessons-assets/img/sit.png",
           "check_ref": "p1-u1-l3-sit01",
-          "source_page": "18"
+          "source_page": "18",
+          "title_en": "Sit down.",
+          "body_en": "When the teacher says Sit down, take a seat."
         },
         {
           "id": "e3-10",
@@ -388,7 +456,9 @@
           ],
           "image": "p1-lessons-assets/img/open-book-seq.png",
           "check_ref": "p1-u1-l3-opn01",
-          "source_page": "18"
+          "source_page": "18",
+          "title_en": "Open your book.",
+          "body_en": "Open your book means to take your closed book and open it. Look at pictures 1 and 2."
         },
         {
           "id": "e3-11",
@@ -401,14 +471,18 @@
             "Open your book."
           ],
           "check_ref": "p1-u1-l3-25",
-          "source_page": "18"
+          "source_page": "18",
+          "title_en": "Giving instructions",
+          "body_en": "To ask someone to do something, begin with the verb: Stand up. Sit down. Open your book."
         },
         {
           "id": "e3-12",
           "kind": "check",
           "title_ar": "جرّب بنفسك",
           "body_ar": "اختار الصح.",
-          "check_ref": "p1-u1-l3-16"
+          "check_ref": "p1-u1-l3-16",
+          "title_en": "Try it yourself",
+          "body_en": "Choose the correct answer."
         },
         {
           "id": "e3-13",
@@ -416,7 +490,9 @@
           "title_ar": "اللي مش في الفصل",
           "body_ar": "اختار اللي مش بتلاقيه في الفصل.",
           "check_ref": "p1-u1-l3-19",
-          "source_page": "19"
+          "source_page": "19",
+          "title_en": "What is not in the classroom?",
+          "body_en": "Choose the thing you do not find in the classroom."
         },
         {
           "id": "e3-14",
@@ -424,15 +500,20 @@
           "title_ar": "كمّل المحادثة",
           "body_ar": "كمّل المحادثة الصغيرة.",
           "check_ref": "p1-u1-l3-30",
-          "source_page": "20"
+          "source_page": "20",
+          "title_en": "Complete the conversation",
+          "body_en": "Complete the short conversation."
         },
         {
           "id": "e3-15",
           "kind": "recap",
           "title_ar": "افتكر",
-          "body_ar": "book، bag، pencil، chair، desk، board، teacher. وأوامر: Stand up. Sit down. Open your book."
+          "body_ar": "book، bag، pencil، chair، desk، board، teacher. وأوامر: Stand up. Sit down. Open your book.",
+          "title_en": "Remember",
+          "body_en": "Book, bag, pencil, chair, desk, board and teacher. Instructions: Stand up. Sit down. Open your book."
         }
-      ]
+      ],
+      "goal_en": "Today we will learn about classroom things and the instructions a teacher gives."
     },
     {
       "grade": "P1",
@@ -451,7 +532,9 @@
           "en": [
             "in, ill, insect, ink"
           ],
-          "source_page": "21"
+          "source_page": "21",
+          "title_en": "The letter I",
+          "body_en": "A letter has a name and a sound. Read the lesson words and find the letter at the beginning. This explanation is written; pronunciation audio will be added after review."
         },
         {
           "id": "e4-2",
@@ -463,7 +546,9 @@
           ],
           "image": "p1-lessons-assets/img/ball-in-box.png",
           "check_ref": "p1-u1-l4-22",
-          "source_page": "21"
+          "source_page": "21",
+          "title_en": "in",
+          "body_en": "In means inside. Look at the picture: the ball is in the box. The word in begins with i."
         },
         {
           "id": "e4-3",
@@ -475,7 +560,9 @@
           ],
           "image": "p1-lessons-assets/img/ill.png",
           "check_ref": "p1-u1-l4-ill01",
-          "source_page": "21"
+          "source_page": "21",
+          "title_en": "ill",
+          "body_en": "Ill means not well. Look at the boy: he looks unwell. The word ill begins with i."
         },
         {
           "id": "e4-4",
@@ -487,7 +574,9 @@
           ],
           "image": "p1-lessons-assets/img/kg-ant.png",
           "check_ref": "p1-u1-l4-ins01",
-          "source_page": "21"
+          "source_page": "21",
+          "title_en": "insect",
+          "body_en": "Look at the picture: this is an ant. An ant is a type of insect. The word insect begins with i."
         },
         {
           "id": "e4-5",
@@ -499,7 +588,9 @@
           ],
           "image": "p1-lessons-assets/img/kg-ink.png",
           "check_ref": "p1-u1-l4-obj01",
-          "source_page": "21"
+          "source_page": "21",
+          "title_en": "ink",
+          "body_en": "Learn the word ink. It begins with i."
         },
         {
           "id": "e4-6",
@@ -510,7 +601,9 @@
             "Ii"
           ],
           "check_ref": "p1-u1-l4-08",
-          "source_page": "22-24"
+          "source_page": "22-24",
+          "title_en": "The letter shape",
+          "body_en": "The capital letter is I and the small letter is i. Trace the dotted letters on pages 22 and 24 of your book. Follow the arrows."
         },
         {
           "id": "e4-7",
@@ -522,7 +615,9 @@
             "insect → i"
           ],
           "check_ref": "p1-u1-l4-15",
-          "source_page": "24"
+          "source_page": "24",
+          "title_en": "T or I?",
+          "body_en": "Tiger begins with t, and insect begins with i. The two letters are different: t and i. Look at the first letter in the word."
         },
         {
           "id": "e4-8",
@@ -530,7 +625,9 @@
           "title_ar": "أول حرف",
           "body_ar": "اختار الحرف اللي بتبدأ بيه الكلمة.",
           "check_ref": "p1-u1-l4-10",
-          "source_page": "24"
+          "source_page": "24",
+          "title_en": "The first letter",
+          "body_en": "Choose the letter that the word begins with."
         },
         {
           "id": "e4-9",
@@ -538,29 +635,38 @@
           "title_ar": "شوف الصورة",
           "body_ar": "بص على الصورة واختار أول حرف.",
           "check_ref": "p1-u1-l4-ill02",
-          "source_page": "23-24"
+          "source_page": "23-24",
+          "title_en": "Look at the picture",
+          "body_en": "Look at the picture and choose the first letter."
         },
         {
           "id": "e4-10",
           "kind": "check",
           "title_ar": "اللي مش بيبدأ بـ i",
           "body_ar": "اختار الكلمة اللي مش بتبدأ بحرف i.",
-          "check_ref": "p1-u1-l4-13"
+          "check_ref": "p1-u1-l4-13",
+          "title_en": "The word that does not begin with i",
+          "body_en": "Choose the word that does not begin with i."
         },
         {
           "id": "e4-11",
           "kind": "check",
           "title_ar": "رتّب الحروف",
           "body_ar": "رتّب الحروف وكوّن الكلمة.",
-          "check_ref": "p1-u1-l4-30"
+          "check_ref": "p1-u1-l4-30",
+          "title_en": "Put the letters in order",
+          "body_en": "Put the letters in order to make the word."
         },
         {
           "id": "e4-12",
           "kind": "recap",
           "title_ar": "افتكر",
-          "body_ar": "in، ill، insect، ink كلهم بيبدأوا بـ i. وtiger بتبدأ بـ t."
+          "body_ar": "in، ill، insect، ink كلهم بيبدأوا بـ i. وtiger بتبدأ بـ t.",
+          "title_en": "Remember",
+          "body_en": "In, ill, insect and ink all begin with i. Tiger begins with t."
         }
-      ]
+      ],
+      "goal_en": "Today we will learn the letter I: its short sound, its shape and words that begin with it."
     }
   ]
 }

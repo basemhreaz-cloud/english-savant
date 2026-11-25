@@ -21,7 +21,8 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "We say Hello when we meet someone, meaning أهلاً or مرحباً."
+    "explanation_en": "We say Hello when we meet someone. It means a greeting.",
+    "prompt_en": "What is the Arabic meaning of 'Hello'?"
   },
   {
     "grade": "P1",
@@ -45,7 +46,8 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "We say Goodbye when we leave someone."
+    "explanation_en": "We say Goodbye when we leave someone.",
+    "prompt_en": "What is the Arabic meaning of 'Goodbye'?"
   },
   {
     "grade": "P1",
@@ -267,7 +269,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The reply to the name question starts with My name is, then your name."
+    "explanation_en": "To answer a question about your name, say My name is, then your name."
   },
   {
     "grade": "P1",
@@ -291,7 +293,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "When someone says Nice to meet you, we reply Nice to meet you, too, meaning me too."
+    "explanation_en": "When someone says Nice to meet you, reply Nice to meet you, too."
   },
   {
     "grade": "P1",
@@ -363,7 +365,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "We say My name is with the name."
+    "explanation_en": "We say My name is before a name."
   },
   {
     "grade": "P1",
@@ -620,7 +622,7 @@
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The sentence starts with My name is and then the name."
+    "explanation_en": "The sentence begins with My name is, followed by the name."
   },
   {
     "grade": "P1",
@@ -807,7 +809,7 @@
     "answer_kind": "blanks_text",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The whole conversation is one question and each blank has a box. 1: Hello. 2: My name. 3: meet you. 4: shake hands. 5: Goodbye so we can leave."
+    "explanation_en": "The whole conversation is one question, with a box for each blank. 1: Hello. 2: My name. 3: meet you. 4: shake hands. 5: Goodbye, because we are leaving."
   },
   {
     "grade": "P1",
@@ -999,7 +1001,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The capital letter T and the small letter t."
+    "explanation_en": "The capital letter is T and the small letter is t."
   },
   {
     "grade": "P1",
@@ -1049,7 +1051,7 @@
       "tiger"
     ],
     "requires_image": false,
-    "explanation_en": "tiger starts with the letter t."
+    "explanation_en": "Tiger begins with t."
   },
   {
     "grade": "P1",
@@ -1151,7 +1153,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "sun starts with the letter s, not t."
+    "explanation_en": "Sun begins with s, not t."
   },
   {
     "grade": "P1",
@@ -1301,7 +1303,8 @@
       "table"
     ],
     "requires_image": false,
-    "explanation_en": "table means ترابيزة."
+    "explanation_en": "Table means a piece of furniture you put things on.",
+    "prompt_en": "What is the Arabic meaning of 'table'?"
   },
   {
     "grade": "P1",
@@ -1327,7 +1330,8 @@
       "tree"
     ],
     "requires_image": false,
-    "explanation_en": "«tree» means شجرة."
+    "explanation_en": "Tree means a plant with a trunk and branches.",
+    "prompt_en": "What is the Arabic meaning of 'tree'?"
   },
   {
     "grade": "P1",
@@ -1353,7 +1357,8 @@
       "teacher"
     ],
     "requires_image": false,
-    "explanation_en": "A teacher is the one who teaches us at school."
+    "explanation_en": "A teacher is the person who teaches us at school.",
+    "prompt_en": "What is the Arabic meaning of 'teacher'?"
   },
   {
     "grade": "P1",
@@ -1524,7 +1529,7 @@
     "requires_image": true,
     "image": "p1-lessons-assets/img/obj-table.png",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: t-a-b-l-e makes table."
+    "explanation_en": "Put the letters in order: t-a-b-l-e makes table."
   },
   {
     "grade": "P1",
@@ -1736,7 +1741,8 @@
       "teacher"
     ],
     "requires_image": false,
-    "explanation_en": "teacher is the one who explains the lesson to us."
+    "explanation_en": "A teacher is the person who explains the lesson.",
+    "prompt_en": "What is the Arabic meaning of 'teacher'?"
   },
   {
     "grade": "P1",
@@ -1963,7 +1969,7 @@
       "teacher"
     ],
     "requires_image": false,
-    "explanation_en": "stand up means to stand."
+    "explanation_en": "Stand up means to get up onto your feet."
   },
   {
     "grade": "P1",
@@ -2037,7 +2043,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The tiger is not in the classroom."
+    "explanation_en": "A tiger is not in the classroom."
   },
   {
     "grade": "P1",
@@ -2188,7 +2194,7 @@
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The command starts with Stand then up."
+    "explanation_en": "The instruction begins with Stand, then up."
   },
   {
     "grade": "P1",
@@ -2370,7 +2376,7 @@
     "answer_kind": "blanks_text",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Each blank has its own box. 1: Stand up (قف). 2: Sit down (اقعد). 3: Open your book. 4: ننادي على المدرس بـ teacher."
+    "explanation_en": "Each blank has its own box. 1: Stand up. 2: Sit down. 3: Open your book. 4: We address the teacher as teacher."
   },
   {
     "grade": "P1",
@@ -2562,7 +2568,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The small i has a dot above it."
+    "explanation_en": "The small letter is i, with a dot above it."
   },
   {
     "grade": "P1",
@@ -2612,7 +2618,7 @@
       "ink"
     ],
     "requires_image": false,
-    "explanation_en": "ink starts with the letter i."
+    "explanation_en": "Ink begins with i."
   },
   {
     "grade": "P1",
@@ -2688,7 +2694,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "tiger starts with the letter t."
+    "explanation_en": "Tiger begins with t."
   },
   {
     "grade": "P1",
@@ -2736,7 +2742,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "tree starts with t. The others start with i."
+    "explanation_en": "Tree begins with t. The other words begin with i."
   },
   {
     "grade": "P1",
@@ -2912,7 +2918,8 @@
       "in"
     ],
     "requires_image": false,
-    "explanation_en": "in means في أو جوه."
+    "explanation_en": "In means inside.",
+    "prompt_en": "What is the Arabic meaning of 'in'?"
   },
   {
     "grade": "P1",
@@ -3185,7 +3192,7 @@
     "alt": "a yellow pencil",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This picture shows قلم رصاص. The English word is pencil."
+    "explanation_en": "The picture shows a pencil."
   },
   {
     "grade": "P1",
@@ -3211,7 +3218,7 @@
     "alt": "a closed blue book",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This picture shows كتاب. The English word is book."
+    "explanation_en": "The picture shows a book."
   },
   {
     "grade": "P1",
@@ -3237,7 +3244,7 @@
     "alt": "a red school bag",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This picture shows شنطة. The English word is bag."
+    "explanation_en": "The picture shows a bag."
   },
   {
     "grade": "P1",
@@ -3263,7 +3270,7 @@
     "alt": "a wooden chair",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This picture shows كرسي. The English word is chair."
+    "explanation_en": "The picture shows a chair."
   },
   {
     "grade": "P1",
@@ -3289,7 +3296,7 @@
     "alt": "a wooden desk",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This picture shows مكتب (تختة). The English word is desk."
+    "explanation_en": "The picture shows a desk."
   },
   {
     "grade": "P1",
@@ -3315,7 +3322,7 @@
     "alt": "a green classroom board",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This picture shows سبورة. The English word is board."
+    "explanation_en": "The picture shows a board."
   },
   {
     "grade": "P1",
@@ -3341,7 +3348,7 @@
     "alt": "a picture of a tomato",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This picture shows طماطم. The English word is tomato."
+    "explanation_en": "The picture shows a tomato."
   },
   {
     "grade": "P1",
@@ -3393,7 +3400,7 @@
     "alt": "a picture of a ink",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This picture shows حبر. The English word is ink."
+    "explanation_en": "The picture shows ink."
   },
   {
     "grade": "P1",
@@ -3445,7 +3452,7 @@
     "alt": "two hands clasped in a handshake",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The hands are holding each other: we shake hands."
+    "explanation_en": "The two hands are holding each other: they shake hands."
   },
   {
     "grade": "P1",
@@ -3497,7 +3504,7 @@
     "alt": "an orange striped tiger",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This picture shows نمر. The English word is tiger."
+    "explanation_en": "The picture shows a tiger."
   },
   {
     "grade": "P1",
@@ -3523,7 +3530,7 @@
     "alt": "an orange striped tiger",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "tiger starts with the letter t."
+    "explanation_en": "Tiger begins with t."
   },
   {
     "grade": "P1",
@@ -3549,7 +3556,7 @@
     "alt": "two children sitting and playing with blocks",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The two boys are playing with blocks: play."
+    "explanation_en": "The two children are playing with blocks: they play."
   },
   {
     "grade": "P1",
@@ -3575,7 +3582,7 @@
     "alt": "a boy coughing and looking unwell",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The boy looks tired: ill means مريض."
+    "explanation_en": "The boy looks unwell: ill means not well."
   },
   {
     "grade": "P1",
@@ -3601,7 +3608,7 @@
     "alt": "a boy coughing and looking unwell",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "ill starts with the letter i, and its sound is short, like in in and ink."
+    "explanation_en": "Ill begins with i. It has a short sound, like in and ink."
   },
   {
     "grade": "P1",
@@ -3627,7 +3634,7 @@
     "alt": "a girl sitting on a chair",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The girl is sitting on the chair: sit down means اقعد."
+    "explanation_en": "The girl is sitting on a chair: sit down means to take a seat."
   },
   {
     "grade": "P1",
@@ -3653,7 +3660,7 @@
     "alt": "a boy and a girl standing",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The two boys are standing on their feet: stand up means قف."
+    "explanation_en": "The two children are on their feet: stand up means to get up onto your feet."
   },
   {
     "grade": "P1",
@@ -3679,7 +3686,7 @@
     "alt": "an insect",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "This picture shows an insect: insect."
+    "explanation_en": "The picture shows an insect."
   },
   {
     "grade": "P1",
@@ -3731,7 +3738,7 @@
     "alt": "a closed red book, then an open book",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The book was closed and then it opened: open your book means افتح كتابك."
+    "explanation_en": "The book was closed and then opened: open your book means to take your closed book and open it."
   },
   {
     "grade": "P1",

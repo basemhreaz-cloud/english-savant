@@ -1,5 +1,24 @@
-/* Small WebView 66 API fallbacks, loaded before this script uses them. */
-(function(){if(!Array.prototype.flatMap)Object.defineProperty(Array.prototype,'flatMap',{configurable:true,writable:true,value:function(fn,ctx){return this.reduce(function(out,v,i,a){return out.concat(fn.call(ctx,v,i,a))},[])}});if(!String.prototype.matchAll)Object.defineProperty(String.prototype,'matchAll',{configurable:true,writable:true,value:function(p){var f=p.flags||'';if(f.indexOf('g')<0)f+='g';var r=new RegExp(p.source,f),a=[],m;while((m=r.exec(String(this)))){a.push(m);if(!m[0])r.lastIndex++}return a}});if(typeof Element!=='undefined'&&!Element.prototype.replaceChildren)Object.defineProperty(Element.prototype,'replaceChildren',{configurable:true,writable:true,value:function(){while(this.firstChild)this.removeChild(this.firstChild);for(var i=0;i<arguments.length;i++)this.append(arguments[i])}})})();
+(function() {
+  if (!Array.prototype.flatMap) Object.defineProperty(Array.prototype, "flatMap", { configurable: true, writable: true, value: function(fn, ctx) {
+    return this.reduce(function(out, v, i, a) {
+      return out.concat(fn.call(ctx, v, i, a));
+    }, []);
+  } });
+  if (!String.prototype.matchAll) Object.defineProperty(String.prototype, "matchAll", { configurable: true, writable: true, value: function(p) {
+    var f = p.flags || "";
+    if (f.indexOf("g") < 0) f += "g";
+    var r = new RegExp(p.source, f), a = [], m;
+    while (m = r.exec(String(this))) {
+      a.push(m);
+      if (!m[0]) r.lastIndex++;
+    }
+    return a;
+  } });
+  if (typeof Element !== "undefined" && !Element.prototype.replaceChildren) Object.defineProperty(Element.prototype, "replaceChildren", { configurable: true, writable: true, value: function() {
+    while (this.firstChild) this.removeChild(this.firstChild);
+    for (var i = 0; i < arguments.length; i++) this.append(arguments[i]);
+  } });
+})();
 (function() {
   if (typeof Element !== "undefined" && !Element.prototype.replaceChildren) {
     Object.defineProperty(Element.prototype, "replaceChildren", { configurable: true, writable: true, value: function() {
@@ -25,6 +44,19 @@
     const e = document.createElement(tag);
     if (cls) e.className = cls;
     if (text !== void 0) e.textContent = text;
+    const pairs = { "\u0623\u062D\u0633\u0646\u062A \u2705 \u0625\u062C\u0627\u0628\u0629 \u0635\u062D\u064A\u062D\u0629": "Well done. Correct answer \u2705", "\u0631\u0627\u062C\u0639 \u0627\u0644\u0625\u062C\u0627\u0628\u0629 \u274C": "Check your answer \u274C", "\u062C\u0627\u0648\u0628 \u0639\u0644\u0649 \u0643\u0644 \u0627\u0644\u0641\u0631\u0627\u063A\u0627\u062A \u0623\u0648 \u0631\u062A\u0651\u0628 \u0643\u0644 \u0627\u0644\u0643\u0644\u0645\u0627\u062A \u0648\u0627\u0644\u062D\u0631\u0648\u0641 \u0627\u0644\u0623\u0648\u0644.": "Answer every blank or put all the words and letters in order first." };
+    if (pairs[text]) {
+      e.dataset.p1Ar = text;
+      e.dataset.p1En = pairs[text];
+      e.setAttribute("data-no-interface-translation", "");
+      e.textContent = document.documentElement.lang === "en" ? pairs[text] : text;
+    }
+    if (text === "\u062D\u0627\u0648\u0644 \u062A\u0627\u0646\u064A") {
+      e.dataset.p1Ar = text;
+      e.dataset.p1En = "Try again";
+      e.setAttribute("data-no-interface-translation", "");
+      e.textContent = document.documentElement.lang === "en" ? "Try again" : text;
+    }
     return e;
   };
   function optionOrder(q) {
@@ -72,15 +104,18 @@
     }
     return items2;
   }
+  document.addEventListener("es:interface-language", () => {
+    root.querySelectorAll("[data-p1-ar]").forEach((e) => e.textContent = document.documentElement.lang === "en" ? e.dataset.p1En : e.dataset.p1Ar);
+  });
   window.P1AssessmentValidate = validate;
   let items = [], lesson = 0, index = 0, answers = /* @__PURE__ */ new Map();
   function reveal() {
     root.scrollIntoView({ block: "start", behavior: "instant" });
   }
   function menu() {
-    root.replaceChildren(node("h2", null, "اختار الدرس"));
+    root.replaceChildren(node("h2", null, "\u0627\u062E\u062A\u0627\u0631 \u0627\u0644\u062F\u0631\u0633"));
     for (let l = 1; l <= 4; l++) {
-      const qs = items.filter((q) => q.lesson === l), b = node("button", "lesson-choice", "الدرس " + l + " · " + qs[0].lesson_title + " · " + qs.length + " سؤال");
+      const qs = items.filter((q) => q.lesson === l), b = node("button", "lesson-choice", "\u0627\u0644\u062F\u0631\u0633 " + l + " \xB7 " + qs[0].lesson_title + " \xB7 " + qs.length + " \u0633\u0624\u0627\u0644");
       b.onclick = () => {
         lesson = l;
         index = 0;
@@ -95,9 +130,9 @@
     const list = items.filter((q2) => q2.lesson === lesson), q = list[index], saved = answers.get(q.id);
     window.__P1 = { unit, lesson, index, item: q };
     root.replaceChildren();
-    const back = node("button", "q-check", "رجوع للدروس");
+    const back = node("button", "q-check", "\u0631\u062C\u0648\u0639 \u0644\u0644\u062F\u0631\u0648\u0633");
     back.onclick = menu;
-    root.append(back, node("h2", null, q.lesson_title), node("p", "lesson-position", "سؤال " + (index + 1) + " من " + list.length));
+    root.append(back, node("h2", null, q.lesson_title), node("p", "lesson-position", "\u0633\u0624\u0627\u0644 " + (index + 1) + " \u0645\u0646 " + list.length));
     const card = node("article", "q-card");
     card.dataset.itemId = q.id;
     if (q.passage) {
@@ -106,6 +141,12 @@
       card.append(p);
     }
     const prompt = node("h3", "q-text", q.prompt);
+    if (q.prompt_en) {
+      prompt.dataset.p1Ar = q.prompt;
+      prompt.dataset.p1En = q.prompt_en;
+      prompt.setAttribute("data-no-interface-translation", "");
+      prompt.textContent = document.documentElement.lang === "en" ? q.prompt_en : q.prompt;
+    }
     prompt.dir = "auto";
     card.append(prompt);
     if (q.image) {
@@ -156,7 +197,7 @@
         tokenButtons.push(b);
         bank.append(b);
       });
-      const undo = node("button", "q-check token-undo", "ارجع خطوة");
+      const undo = node("button", "q-check token-undo", "\u0627\u0631\u062C\u0639 \u062E\u0637\u0648\u0629");
       undo.type = "button";
       undo.onclick = () => {
         tokens.pop();
@@ -181,11 +222,11 @@
       controls.append(input);
       inputs = [input];
     }
-    const check = node("button", "q-check", "تحقق"), feed = node("div", "q-feed");
+    const check = node("button", "q-check", "\u062A\u062D\u0642\u0642"), feed = node("div", "q-feed");
     feed.setAttribute("aria-live", "polite");
     card.append(check, feed);
     root.append(card);
-    const nav = node("div", "lesson-nav"), prev = node("button", "q-check", "السؤال السابق"), next = node("button", "q-check", index === list.length - 1 ? "نتيجة الدرس" : "السؤال التالي");
+    const nav = node("div", "lesson-nav"), prev = node("button", "q-check", "\u0627\u0644\u0633\u0624\u0627\u0644 \u0627\u0644\u0633\u0627\u0628\u0642"), next = node("button", "q-check", index === list.length - 1 ? "\u0646\u062A\u064A\u062C\u0629 \u0627\u0644\u062F\u0631\u0633" : "\u0627\u0644\u0633\u0624\u0627\u0644 \u0627\u0644\u062A\u0627\u0644\u064A");
     prev.disabled = index === 0;
     next.disabled = !saved;
     prev.onclick = () => {
@@ -207,17 +248,17 @@
       check.disabled = true;
       controls.querySelectorAll("button,input").forEach((e) => e.disabled = true);
       feed.className = "q-feed " + (r.ok ? "ok" : "no");
-      feed.replaceChildren(node("p", null, r.ok ? "أحسنت ✅ إجابة صحيحة" : "راجع الإجابة ❌"));
+      feed.replaceChildren(node("p", null, r.ok ? "\u0623\u062D\u0633\u0646\u062A \u2705 \u0625\u062C\u0627\u0628\u0629 \u0635\u062D\u064A\u062D\u0629" : "\u0631\u0627\u062C\u0639 \u0627\u0644\u0625\u062C\u0627\u0628\u0629 \u274C"));
       if (r.fields) r.fields.forEach((ok, i) => {
         inputs[i].classList.add(ok ? "ok" : "no");
-        if (!ok) feed.append(node("p", null, "فراغ " + q.blanks[i].n + ": " + q.blanks[i].accept[0]));
+        if (!ok) feed.append(node("p", null, "\u0641\u0631\u0627\u063A " + q.blanks[i].n + ": " + q.blanks[i].accept[0]));
       });
-      else if (!r.ok) feed.append(node("p", null, "الإجابة الصحيحة: " + q.answer));
+      else if (!r.ok) feed.append(node("p", null, "\u0627\u0644\u0625\u062C\u0627\u0628\u0629 \u0627\u0644\u0635\u062D\u064A\u062D\u0629: " + q.answer));
       const state = node("span", "q-state");
       state.setAttribute("aria-hidden", "true");
       feed.append(state);
       if (animate) requestAnimationFrame(() => {
-        if (state.isConnected) state.textContent = r.ok ? "✅" : "❌";
+        if (state.isConnected) state.textContent = r.ok ? "\u2705" : "\u274C";
       });
       const exp = node("p", "answer-explanation", q.explanation_ar);
       exp.dir = "auto";
@@ -228,7 +269,7 @@
     check.onclick = () => {
       const isToken = ["reorder", "unscramble"].includes(q.type), source = q.type === "reorder" ? q.words : q.letters;
       if (inputs.some((i) => !i.value.trim()) || (isToken ? tokens.length !== source.length : !inputs.length && selected === void 0)) {
-        feed.textContent = "جاوب على كل الفراغات أو رتّب كل الكلمات والحروف الأول.";
+        feed.textContent = "\u062C\u0627\u0648\u0628 \u0639\u0644\u0649 \u0643\u0644 \u0627\u0644\u0641\u0631\u0627\u063A\u0627\u062A \u0623\u0648 \u0631\u062A\u0651\u0628 \u0643\u0644 \u0627\u0644\u0643\u0644\u0645\u0627\u062A \u0648\u0627\u0644\u062D\u0631\u0648\u0641 \u0627\u0644\u0623\u0648\u0644.";
         return;
       }
       let ok, fields;
@@ -254,11 +295,11 @@
     }
   }
   function finish(list) {
-    root.replaceChildren(node("h2", null, "نتيجة الدرس"), node("p", "lesson-score", list.filter((q) => {
+    root.replaceChildren(node("h2", null, "\u0646\u062A\u064A\u062C\u0629 \u0627\u0644\u062F\u0631\u0633"), node("p", "lesson-score", list.filter((q) => {
       var _a;
       return (_a = answers.get(q.id)) == null ? void 0 : _a.ok;
     }).length + " / " + list.length));
-    const again = node("button", "q-check", "حاول الدرس تاني"), back = node("button", "q-check", "رجوع للدروس");
+    const again = node("button", "q-check", "\u062D\u0627\u0648\u0644 \u0627\u0644\u062F\u0631\u0633 \u062A\u0627\u0646\u064A"), back = node("button", "q-check", "\u0631\u062C\u0648\u0639 \u0644\u0644\u062F\u0631\u0648\u0633");
     again.onclick = () => {
       list.forEach((q) => answers.delete(q.id));
       index = 0;
@@ -267,7 +308,7 @@
     back.onclick = menu;
     root.append(again, back);
   }
-  fetch("lesson-assessment-p1-u" + unit + ".json", { cache: "no-store" }).then((r) => {
+  fetch("lesson-assessment-p1-u" + unit + ".json?v=20261125-en222", { cache: "no-store" }).then((r) => {
     if (!r.ok) throw Error("Bank unavailable");
     return r.json();
   }).then((data) => {
@@ -279,11 +320,11 @@
     render();
     document.querySelector(".lesson-nav").remove();
     root.querySelector(":scope>button").remove();
-    const retry = node("button", "q-check check-retry", "حاول تاني");
+    const retry = node("button", "q-check check-retry", "\u062D\u0627\u0648\u0644 \u062A\u0627\u0646\u064A");
     retry.onclick = () => location.reload();
     root.append(retry);
   }).catch((e) => {
-    root.replaceChildren(node("p", "lesson-error", "التقييم ده لسه في المراجعة، ومش متاح للحل دلوقتي."));
+    root.replaceChildren(node("p", "lesson-error", "\u0627\u0644\u062A\u0642\u064A\u064A\u0645 \u062F\u0647 \u0644\u0633\u0647 \u0641\u064A \u0627\u0644\u0645\u0631\u0627\u062C\u0639\u0629\u060C \u0648\u0645\u0634 \u0645\u062A\u0627\u062D \u0644\u0644\u062D\u0644 \u062F\u0644\u0648\u0642\u062A\u064A."));
     console.error(e);
   });
 })();
