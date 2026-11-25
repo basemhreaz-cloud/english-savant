@@ -1,8 +1,8 @@
-name: Isolated Android 2.1.8 PDF viewer matrix
+name: Isolated Android 2.1.9 PDF viewer matrix
 on:
   workflow_dispatch:
   push:
-    branches: [android-218-pdf-test-once]
+    branches: [android-219-pdf-test-once]
 permissions:
   contents: read
 concurrency:
@@ -26,8 +26,8 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          cat android-ci/apk218.part* > /tmp/current-original.apk
-          echo '170d7a78c2c336a30a86f70842649b85997179267367570b5c04984472e73784  /tmp/current-original.apk' | sha256sum -c -
+          cat android-ci/apk219.part* > /tmp/current-original.apk
+          echo 'b907f842a097218cc038c5312b83d393941cb1afd40634bccbaa1efc2bcf2129  /tmp/current-original.apk' | sha256sum -c -
           "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" 'platforms;android-34' 'build-tools;34.0.0'
           BT="$ANDROID_HOME/build-tools/34.0.0"
           mkdir -p /tmp/matrix-classes /tmp/matrix-dex
@@ -51,7 +51,7 @@ jobs:
             before={n:hashlib.sha256(a.read(n)).hexdigest() for n in a.namelist() if not n.startswith('META-INF/')}
             after={n:hashlib.sha256(b.read(n)).hexdigest() for n in b.namelist() if not n.startswith('META-INF/')}
             assert before==after,'Test resign changed resources or code'
-          open('android-evidence/test-apk-provenance.json','w').write(json.dumps({'original_sha256':'170d7a78c2c336a30a86f70842649b85997179267367570b5c04984472e73784','test_only_resigned':True,'code_and_resources_unchanged':True},indent=2))
+          open('android-evidence/test-apk-provenance.json','w').write(json.dumps({'original_sha256':'b907f842a097218cc038c5312b83d393941cb1afd40634bccbaa1efc2bcf2129','test_only_resigned':True,'code_and_resources_unchanged':True},indent=2))
           PY
           rm /tmp/matrix.jks
       - name: Enable KVM
