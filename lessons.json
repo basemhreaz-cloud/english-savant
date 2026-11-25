@@ -378,16 +378,6 @@
       "mp4": "videos/ES_P3_T1_U2.mp4"
     },
     {
-      "id": "p3-u3-lesson",
-      "grade": "p3",
-      "title": "Unit 3: New Adventures",
-      "part": "فيديو شرح الوحدة الثالثة",
-      "duration": "21:52",
-      "youtube": "",
-      "soon": false,
-      "mp4": "videos/ES_P3_T1_U3.mp4"
-    },
-    {
       "id": "p3-u4-lesson",
       "grade": "p3",
       "title": "Unit 4: Let's Tell Stories!",
@@ -738,6 +728,17 @@
       "mp4": "videos/ES_PP3_T1_U4.mp4",
       "poster": "videos/ES_PP3_T1_U4.jpg",
       "media_version": "a2ae62afcae2",
+      "soon": false
+    },
+    {
+      "id": "p3-u3-lesson",
+      "grade": "p3",
+      "title": "Unit 3: New Adventures",
+      "part": "فيديو شرح الوحدة الثالثة",
+      "duration": "17:02",
+      "mp4": "videos/ES_P3_T1_U3.mp4",
+      "poster": "videos/ES_P3_T1_U3.jpg",
+      "media_version": "4dc60059a838",
       "soon": false
     }
   ]
