@@ -17957,7 +17957,7 @@
     "lesson_title": "Review 2",
     "type": "mcq",
     "prompt": "You ___ turn off your phone during exams.",
-    "answer": "mustn't",
+    "answer": "must",
     "audio": false,
     "requires_image": false,
     "image": "",
@@ -17966,14 +17966,14 @@
     "source_ref": "Ministry Preparatory 3 Term 1 Student Book 2025/2026 (English_Prp3_Tr1.pdf), printed page 100, Ex7 item 5",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "mustn't معناها ممنوع (منع).",
+    "explanation_ar": "must معناها لازم: لازم تقفل التليفون وقت الامتحان.",
     "review_status": "Source PDF and teacher-derived key reviewed; automated structure checks pending site QA",
     "options": [
       "can",
       "mustn't",
       "must"
     ],
-    "explanation_en": "Mustn't expresses prohibition. Note: the answer key says mustn't, but the sentence meaning should be reviewed by a teacher."
+    "explanation_en": "Must expresses a rule or obligation: you must turn off your phone during exams."
   },
   {
     "id": "orig-prep3-u6l7-51",
@@ -17984,7 +17984,7 @@
     "lesson_title": "Review 2",
     "type": "typein",
     "prompt": "You ___ turn off your phone during exams.",
-    "answer": "mustn't",
+    "answer": "must",
     "audio": false,
     "requires_image": false,
     "image": "",
@@ -17993,13 +17993,13 @@
     "source_ref": "Ministry Preparatory 3 Term 1 Student Book 2025/2026 (English_Prp3_Tr1.pdf), printed page 100, Ex7 item 5",
     "source_change": "new question built on the printed content",
     "key_status": "teacher-derived from printed content; not answer-book certified",
-    "explanation_ar": "mustn't معناها ممنوع (منع).",
+    "explanation_ar": "must معناها لازم: لازم تقفل التليفون وقت الامتحان.",
     "review_status": "Source PDF and teacher-derived key reviewed; automated structure checks pending site QA",
     "accept": [
-      "mustn't",
-      "Mustn't"
+      "must",
+      "Must"
     ],
-    "explanation_en": "Mustn't expresses prohibition. Note: the answer key says mustn't, but the sentence meaning should be reviewed by a teacher."
+    "explanation_en": "Must expresses a rule or obligation: you must turn off your phone during exams."
   },
   {
     "id": "orig-prep3-u6l7-52",
