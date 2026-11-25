@@ -27,7 +27,7 @@ jobs:
         run: |
           set -euo pipefail
           cat android-ci/apk218.part* > /tmp/current-original.apk
-          echo 'aae213146e9fc45931c768c115e6214f01967d1e8cb1d82c598e75e971321875  /tmp/current-original.apk' | sha256sum -c -
+          echo '170d7a78c2c336a30a86f70842649b85997179267367570b5c04984472e73784  /tmp/current-original.apk' | sha256sum -c -
           "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" 'platforms;android-34' 'build-tools;34.0.0'
           BT="$ANDROID_HOME/build-tools/34.0.0"
           mkdir -p /tmp/matrix-classes /tmp/matrix-dex
@@ -51,7 +51,7 @@ jobs:
             before={n:hashlib.sha256(a.read(n)).hexdigest() for n in a.namelist() if not n.startswith('META-INF/')}
             after={n:hashlib.sha256(b.read(n)).hexdigest() for n in b.namelist() if not n.startswith('META-INF/')}
             assert before==after,'Test resign changed resources or code'
-          open('android-evidence/test-apk-provenance.json','w').write(json.dumps({'original_sha256':'aae213146e9fc45931c768c115e6214f01967d1e8cb1d82c598e75e971321875','test_only_resigned':True,'code_and_resources_unchanged':True},indent=2))
+          open('android-evidence/test-apk-provenance.json','w').write(json.dumps({'original_sha256':'170d7a78c2c336a30a86f70842649b85997179267367570b5c04984472e73784','test_only_resigned':True,'code_and_resources_unchanged':True},indent=2))
           PY
           rm /tmp/matrix.jks
       - name: Enable KVM
