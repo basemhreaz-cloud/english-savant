@@ -1,23 +1,94 @@
-/* Content loading hints. Never cover or delay usable content. */
-(()=>{'use strict';
-const selector='#stations,#teach,#lesson-assessment,#quiz-body,#lesson-content,#k2-content,[id^=u][id$=p] #content';
-const seen=new WeakSet(),active=new Set();
-function shape(kind){const e=document.createElement('div');e.className='es-skeleton';e.setAttribute('aria-hidden','true');e.innerHTML='<div class="es-brand-wait"><img src="assets/adults-logo.webp" width="48" height="48" alt=""><span></span></div><span class="es-skeleton-line"></span><span class="es-skeleton-line"></span><span class="es-skeleton-line"></span>'+(kind==='media'?'<span class="es-skeleton-media"></span>':'<div class="es-skeleton-grid"><span class="es-skeleton-card"></span><span class="es-skeleton-card"></span></div>');return e}
-function loading(el){const nodes=[...el.childNodes].filter(n=>!n.classList?.contains('es-skeleton'));if(!nodes.length)return true;return nodes.every(n=>n.nodeType===3?!n.textContent.trim():n.nodeType===1&&n.classList.contains('lesson-empty')&&/بنحض|بنجه|جاري.*تحميل|Loading/i.test(n.textContent))||/^(بنحضّر|بنجهّز|جاري تحميل|Loading)[^.!؟]*[….]*$/i.test(el.textContent.trim())}
-function clear(el){const sk=[...el.children].find(c=>c.classList.contains('es-skeleton'));if(sk)sk.remove();el.removeAttribute('aria-busy');active.delete(el)}
-function scan(){document.querySelectorAll('main img:not(.es-image-pending)').forEach(im=>{if(im.complete)return;im.classList.add('es-image-pending');const done=()=>im.classList.remove('es-image-pending');im.addEventListener('load',done,{once:true});im.addEventListener('error',done,{once:true})});for(const el of active)if(!el.isConnected||!loading(el))clear(el);document.querySelectorAll(selector).forEach(el=>{if(seen.has(el)||!loading(el)||!el.getClientRects().length)return;seen.add(el);el.append(shape(el.id==='teach'?'media':'cards'));el.setAttribute('aria-busy','true');active.add(el);setTimeout(()=>clear(el),20000)})}
-let queued=false;const observer=new MutationObserver(()=>{if(queued)return;queued=true;queueMicrotask(()=>{queued=false;scan()})});observer.observe(document.documentElement,{childList:true,subtree:true});
-function ready(){document.querySelectorAll('.es-skeleton-initial').forEach(e=>e.remove());scan()}
-if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',ready,{once:true});else ready();
-window.addEventListener('error',()=>active.forEach(clear),{once:true});window.addEventListener('pagehide',()=>observer.disconnect(),{once:true});
+/* Small WebView 66 API fallbacks, loaded before this script uses them. */
+(function(){if(!Array.prototype.flatMap)Object.defineProperty(Array.prototype,'flatMap',{configurable:true,writable:true,value:function(fn,ctx){return this.reduce(function(out,v,i,a){return out.concat(fn.call(ctx,v,i,a))},[])}});if(!String.prototype.matchAll)Object.defineProperty(String.prototype,'matchAll',{configurable:true,writable:true,value:function(p){var f=p.flags||'';if(f.indexOf('g')<0)f+='g';var r=new RegExp(p.source,f),a=[],m;while((m=r.exec(String(this)))){a.push(m);if(!m[0])r.lastIndex++}return a}});if(typeof Element!=='undefined'&&!Element.prototype.replaceChildren)Object.defineProperty(Element.prototype,'replaceChildren',{configurable:true,writable:true,value:function(){while(this.firstChild)this.removeChild(this.firstChild);for(var i=0;i<arguments.length;i++)this.append(arguments[i])}})})();
+(() => {
+  "use strict";
+  const selector = "#stations,#teach,#lesson-assessment,#quiz-body,#lesson-content,#k2-content,[id^=u][id$=p] #content";
+  const seen = /* @__PURE__ */ new WeakSet(), active = /* @__PURE__ */ new Set();
+  function shape(kind) {
+    const e = document.createElement("div");
+    e.className = "es-skeleton";
+    e.setAttribute("aria-hidden", "true");
+    e.innerHTML = '<div class="es-brand-wait"><img src="assets/adults-logo.webp" width="48" height="48" alt=""><span></span></div><span class="es-skeleton-line"></span><span class="es-skeleton-line"></span><span class="es-skeleton-line"></span>' + (kind === "media" ? '<span class="es-skeleton-media"></span>' : '<div class="es-skeleton-grid"><span class="es-skeleton-card"></span><span class="es-skeleton-card"></span></div>');
+    return e;
+  }
+  function loading(el) {
+    const nodes = [...el.childNodes].filter((n) => {
+      var _a;
+      return !((_a = n.classList) == null ? void 0 : _a.contains("es-skeleton"));
+    });
+    if (!nodes.length) return true;
+    return nodes.every((n) => n.nodeType === 3 ? !n.textContent.trim() : n.nodeType === 1 && n.classList.contains("lesson-empty") && /بنحض|بنجه|جاري.*تحميل|Loading/i.test(n.textContent)) || /^(بنحضّر|بنجهّز|جاري تحميل|Loading)[^.!؟]*[….]*$/i.test(el.textContent.trim());
+  }
+  function clear(el) {
+    const sk = [...el.children].find((c) => c.classList.contains("es-skeleton"));
+    if (sk) sk.remove();
+    el.removeAttribute("aria-busy");
+    active.delete(el);
+  }
+  function scan() {
+    document.querySelectorAll("main img:not(.es-image-pending)").forEach((im) => {
+      if (im.complete) return;
+      im.classList.add("es-image-pending");
+      const done = () => im.classList.remove("es-image-pending");
+      im.addEventListener("load", done, { once: true });
+      im.addEventListener("error", done, { once: true });
+    });
+    for (const el of active) if (!el.isConnected || !loading(el)) clear(el);
+    document.querySelectorAll(selector).forEach((el) => {
+      if (seen.has(el) || !loading(el) || !el.getClientRects().length) return;
+      seen.add(el);
+      el.append(shape(el.id === "teach" ? "media" : "cards"));
+      el.setAttribute("aria-busy", "true");
+      active.add(el);
+      setTimeout(() => clear(el), 2e4);
+    });
+  }
+  let queued = false;
+  const observer = new MutationObserver(() => {
+    if (queued) return;
+    queued = true;
+    queueMicrotask(() => {
+      queued = false;
+      scan();
+    });
+  });
+  observer.observe(document.documentElement, { childList: true, subtree: true });
+  function ready() {
+    document.querySelectorAll(".es-skeleton-initial").forEach((e) => e.remove());
+    scan();
+  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", ready, { once: true });
+  else ready();
+  window.addEventListener("error", () => active.forEach(clear), { once: true });
+  window.addEventListener("pagehide", () => observer.disconnect(), { once: true });
 })();
-
-/* Show the rounded island indicator only while content is loading. */
-(()=>{'use strict';
-let pending=0,frame=0;const originalFetch=window.fetch;
-function sync(){frame=0;const loading=document.readyState!=='complete'||pending>0||!!document.querySelector('.es-skeleton,.es-skeleton-initial,main img.es-image-pending,[aria-busy="true"]');document.querySelectorAll('.header').forEach(h=>{if(!h.querySelector('.es-loading-ring'))h.insertAdjacentHTML('beforeend','<svg class="es-loading-ring" viewBox="0 0 132 44" preserveAspectRatio="none" aria-hidden="true"><rect x=".8" y=".8" width="130.4" height="42.4" rx="21.2" pathLength="100"/></svg>');h.classList.toggle('es-loading-active',loading)})}
-function queue(){if(!frame)frame=requestAnimationFrame(sync)}
-if(originalFetch)window.fetch=function(){pending++;queue();return originalFetch.apply(this,arguments).finally(()=>{pending--;queue()})};
-new MutationObserver(queue).observe(document.documentElement,{childList:true,subtree:true,attributes:true,attributeFilter:['aria-busy']});
-window.addEventListener('load',queue);document.addEventListener('DOMContentLoaded',queue);document.addEventListener('load',queue,true);document.addEventListener('error',queue,true);queue();
+(() => {
+  "use strict";
+  let pending = 0, frame = 0;
+  const originalFetch = window.fetch;
+  function sync() {
+    frame = 0;
+    const loading = document.readyState !== "complete" || pending > 0 || !!document.querySelector('.es-skeleton,.es-skeleton-initial,main img.es-image-pending,[aria-busy="true"]');
+    document.querySelectorAll(".header").forEach((h) => {
+      if (!h.querySelector(".es-loading-ring")) h.insertAdjacentHTML("beforeend", '<svg class="es-loading-ring" viewBox="0 0 132 44" preserveAspectRatio="none" aria-hidden="true"><rect x=".8" y=".8" width="130.4" height="42.4" rx="21.2" pathLength="100"/></svg>');
+      h.classList.toggle("es-loading-active", loading);
+    });
+  }
+  function queue() {
+    if (!frame) frame = requestAnimationFrame(sync);
+  }
+  if (originalFetch) window.fetch = function() {
+    pending++;
+    queue();
+    return originalFetch.apply(this, arguments).finally(() => {
+      pending--;
+      queue();
+    });
+  };
+  new MutationObserver(queue).observe(document.documentElement, { childList: true, subtree: true, attributes: true, attributeFilter: ["aria-busy"] });
+  window.addEventListener("load", queue);
+  document.addEventListener("DOMContentLoaded", queue);
+  document.addEventListener("load", queue, true);
+  document.addEventListener("error", queue, true);
+  queue();
 })();

@@ -1,40 +1,237 @@
-(function(){'use strict';/* Decorative emoji do not change an ordinary written answer. Never used for COPY/form checks. */
-function esAnswerText(value){return String(value).replace(/[0-9#*]\uFE0F?\u20E3/g,' ').replace(/[\u{1F000}-\u{1FAFF}\u2600-\u27BF\u{1F1E6}-\u{1F1FF}]/gu,' ').replace(/[\u200D\uFE0E\uFE0F]/g,'').normalize('NFKC');}
-function esAnswerContent(value){return esAnswerText(value).toLowerCase().replace(/[’‘]/g,"'").replace(/[.,!?؟،;:]/g,' ').trim().replace(/\s+/g,' ');}
-
-const root=document.querySelector('[data-es-bank]');if(!root)return;
-const labels={MCQ:'اختار الإجابة',COMPLETE:'أكمل من الكلمات',LETTER:'الحرف الناقص',LETTERS:'رتب الحروف',REORDER:'رتب الكلمات',MATCH:'صل المعنى',WRITE:'اكتب بنفسك',COPY:'انسخ الجملة',READ:'اقرأ وجاوب',PUNCT:'الحروف الكبيرة والترقيم'};
-const instructions={MCQ:'اختار إجابة واحدة.',COMPLETE:'اكتب الكلمة المناسبة من الصندوق.',LETTER:'اكتب الحرف الناقص بس.',LETTERS:'اكتب الكلمة بعد ترتيب حروفها.',REORDER:'دوس على الكلمات بالترتيب. هنظبط الحرف الأول وعلامة النهاية. تقدر ترجع آخر كلمة أو تبدأ من جديد.',MATCH:'وصل الكلمة أو الجملة بالمعنى المناسب: اختار المعنى.',WRITE:'اكتب إجابتك، وبعدها قارن بالنموذج. الكتابة الحرة محتاجة مراجعة بشرية.',COPY:'انسخ الجملة زي ما هي، بالحروف الكبيرة وعلامات الترقيم.',READ:'اقرأ القطعة الأول. الإجابة موجودة في النص.',PUNCT:'اكتب الجملة تاني بالحروف الكبيرة وعلامات الترقيم المناسبة.'};
-const h=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const $=s=>root.querySelector(s),ar=n=>n.toLocaleString('ar-EG'),norm=s=>esAnswerText(s).normalize('NFKC').replace(/[‘’]/g,"'").trim().replace(/\s+/g,' ').toLowerCase(),copyNorm=s=>String(s).normalize('NFKC').trim().replace(/\s+/g,' ');
-let data,at=0,filter='all',progress={},orders={},key='',chosen=null,words=[],saving=true;
-function feedbackFx(ok,card){document.querySelectorAll('.esfx-big,.esfx-bit,.esfx-wash').forEach(el=>{el.getAnimations?.().forEach(a=>a.cancel());el.remove()});window.__esFxTest?.(ok,card)}
-function list(){return data.questions.filter(q=>filter==='all'||q.type===filter)}
-function save(){try{localStorage.setItem(key,JSON.stringify({version:data.version,progress,at,filter}))}catch{saving=false;$('.esb-save-note').textContent='المتصفح مش بيسمح بحفظ التقدم. تقدر تكمل هنا عادي.'}}
-function stats(){const qs=data.questions,done=qs.filter(q=>progress[q.id]?.done).length,correct=qs.filter(q=>q.grading==='closed'&&progress[q.id]?.correct).length,closed=qs.filter(q=>q.grading==='closed').length,review=qs.filter(q=>q.grading==='model_review'&&progress[q.id]?.done).length;
- $('.esb-stats').textContent='راجعت '+ar(done)+' من '+ar(qs.length)+' سؤال · إجابات مغلقة صحيحة: '+ar(correct)+' من '+ar(closed)+' · إجابات راجعتها مع النموذج: '+ar(review);$('.esb-meter span').style.width=(done/qs.length*100)+'%';$('.esb-meter').setAttribute('aria-valuenow',done);$('.esb-grid').innerHTML=qs.map(q=>'<button class="esb-jump" data-jump="'+q.id+'" data-done="'+!!progress[q.id]?.done+'" aria-current="'+(q.id===list()[at]?.id)+'" aria-label="سؤال '+q.id+(progress[q.id]?.done?'، اتراجع':'')+'">'+ar(q.id)+'</button>').join('');
- $('.esb-grid').querySelectorAll('button').forEach(b=>b.onclick=()=>{filter='all';$('.esb-select').value='all';at=data.questions.findIndex(q=>q.id===+b.dataset.jump);render(true)});
-}
-function remember(value){const q=list()[at];progress[q.id]={...(progress[q.id]||{}),value,done:false,correct:false};save();stats()}
-function tokens(q){return q.prompt.split(/\s+[–—]\s+/).map(x=>x.replace(/[.?!]+$/g,''))}function ordered(q){let s=words.map(i=>tokens(q)[i]).join(' ');if(s)s=s[0].toUpperCase()+s.slice(1);if(words.length===tokens(q).length)s+=q.answer.match(/[.?!]$/)?.[0]||'.';return s}function selection(){const q=list()[at];return q.type==='REORDER'?ordered(q):$('.esb-input')?.value??chosen}
-function render(scroll=false){const qs=list();at=Math.max(0,Math.min(at,qs.length-1));const q=qs[at],p=progress[q.id]||{};chosen=Number.isInteger(p.value)?p.value:null;words=Array.isArray(p.value)?p.value:[];
- const card=$('.esb-card');card.dataset.qid=q.id;card.dataset.type=q.type;card.innerHTML='<p class="esb-count">السؤال '+ar(q.id)+' من '+ar(data.questions.length)+(filter==='all'?'':' · '+ar(at+1)+' من '+ar(qs.length)+' في النوع ده')+'</p><span class="esb-chip">'+h(labels[q.type])+'</span><p class="esb-note">'+h(instructions[q.type])+'</p>'+(q.passage?'<p class="esb-passage-label">القطعة المرتبطة بالسؤال</p><div class="esb-passage" dir="ltr">'+h(q.passage)+'</div>':'')+(q.wordbox?'<div class="esb-box" aria-label="الكلمات المتاحة">'+q.wordbox.map(w=>'<span>'+h(w)+'</span>').join('')+'</div>':'')+'<h2 class="esb-prompt" dir="auto">'+h(q.prompt)+'</h2><div class="esb-answer"></div><div class="esb-actions"><button class="esb-primary esb-check">'+(q.grading==='model_review'?'شوف النموذج وقارن':'راجع إجابتي')+'</button></div><div class="esb-feedback" role="status" aria-live="polite" hidden></div>';
- const answer=$('.esb-answer');
- if(q.options){if(!orders[q.id])orders[q.id]=q.options.map((v,i)=>i).sort(()=>Math.random()-.5);answer.innerHTML='<div class="esb-options" role="group" aria-label="الإجابات">'+orders[q.id].map((i,n)=>'<button class="esb-option" data-choice="'+i+'" aria-pressed="'+(chosen===i)+'" dir="auto"><span class="esb-letter">'+String.fromCharCode(65+n)+'</span><bdi>'+h(q.options[i])+'</bdi></button>').join('')+'</div>';answer.querySelectorAll('button').forEach(b=>b.onclick=()=>{chosen=+b.dataset.choice;answer.querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));remember(chosen);$('.esb-feedback').hidden=true});
- }else if(q.type==='REORDER'){
- const parts=tokens(q);answer.innerHTML='<div class="esb-reorder-answer" dir="ltr" aria-label="ترتيبك الحالي"></div><div class="esb-reorder" aria-label="الكلمات"></div><div class="esb-actions"><button class="esb-secondary esb-undo">رجّع آخر كلمة</button><button class="esb-secondary esb-clear">ابدأ الترتيب تاني</button></div>';
- const redraw=()=>{$('.esb-reorder-answer').textContent=ordered(q);$('.esb-reorder').innerHTML=parts.map((w,i)=>'<button class="esb-token" data-word="'+i+'" '+(words.includes(i)?'disabled':'')+'>'+h(w)+'</button>').join('');$('.esb-reorder').querySelectorAll('button').forEach(b=>b.onclick=()=>{words.push(+b.dataset.word);remember([...words]);redraw()});$('.esb-feedback').hidden=true};$('.esb-undo').onclick=()=>{words.pop();remember([...words]);redraw()};$('.esb-clear').onclick=()=>{words=[];remember([]);redraw()};redraw();
- }else{const multi=['WRITE','PUNCT'].includes(q.type)||(q.type==='READ');answer.innerHTML='<label class="esb-entry-label" for="esb-entry">'+(q.type==='LETTER'?'الحرف الناقص':'إجابتك')+'</label>'+(multi?'<textarea id="esb-entry" class="esb-input" rows="4" dir="ltr" spellcheck="false"></textarea>':'<input id="esb-entry" class="esb-input" dir="ltr" autocomplete="off" spellcheck="false"/>')+(q.min_words?'<p class="esb-note">اكتب ٣ جمل و١٥ كلمة على الأقل باستخدام الكلمات المساعدة.</p><p class="esb-wordcount"></p>':'');$('.esb-input').value=typeof p.value==='string'?p.value:'';const count=()=>{if(q.min_words){const n=($('.esb-input').value.match(/[A-Za-z]+(?:['’][A-Za-z]+)*/g)||[]).length;$('.esb-wordcount').textContent='عدد الكلمات: '+ar(n)+' · ده عدّ للكلمات، مش تصحيح لغوي.'}};$('.esb-input').oninput=()=>{remember($('.esb-input').value);$('.esb-feedback').hidden=true;count()};count();}
- if(['WRITE','READ','CORRECT'].includes(q.type)&&!q.options)window.ESWrittenAI?.attach(card,{question:q.prompt,passage:q.passage,alternatives:q.models||[q.answer],answer:()=>$('.esb-input')?.value});$('.esb-check').onclick=check;$('.esb-prev').disabled=at===0;$('.esb-next').disabled=at===qs.length-1;stats();save();if(scroll)card.scrollIntoView({block:'start',behavior:'instant'});
-}
-function check(){const q=list()[at],value=selection(),feed=$('.esb-feedback');if(value===null||value===undefined||(typeof value==='string'&&!value.trim())||(q.type==='REORDER'&&!words.length)){feed.className='esb-feedback';feed.hidden=false;feed.textContent='جرّب تكتب أو تختار إجابتك الأول.';return}
- let ok=false;const models=q.models||[q.answer];if(q.grading==='model_review'){
- const exact=models.some(m=>norm(value)===norm(m));progress[q.id]={value:q.type==='REORDER'?[...words]:value,done:true,reviewed:true};feed.className='esb-feedback';feed.innerHTML=(exact?'✓ إجابتك مطابقة للنموذج.':'نموذج إجابة صحيح. صياغتك ممكن تختلف وتكون صحيحة برضه.')+'<div class="esb-model" dir="ltr">'+models.map(h).join('\n')+'</div><p class="esb-note">'+(q.type==='PUNCT'?'راجع بداية الجملة والأسماء وعلامة النهاية. فيه ترقيم صحيح ممكن يختلف حسب المعنى.':'قارن المعنى والقواعد. لو مش متأكد، اعرض إجابتك على مدرسك.')+'</p><p class="esb-note">السؤال ده للمراجعة، مش محسوب كتصحيح آلي صح أو غلط.</p>';if(exact)feedbackFx(true,$('.esb-card'));
- }else{ok=q.options?value===q.answer_index:q.type==='COPY'?copyNorm(value)===copyNorm(q.answer):norm(value)===norm(q.answer);progress[q.id]={value,done:true,correct:ok};feed.className='esb-feedback '+(ok?'good':'bad');feed.innerHTML=ok?'✓ أحسنت! إجابتك صح.':'جرّب تاني. '+(q.type==='COPY'?'راجع كل الحروف وعلامات الترقيم مع الجملة الأصلية.':'الإجابة الصحيحة:')+(q.type==='COPY'?'':'<div class="esb-model" dir="auto">'+h(q.options?q.options[q.answer_index]:q.answer)+'</div>');feedbackFx(ok,$('.esb-card'));}
- if(typeof q.explanation_ar==='string'&&q.explanation_ar.trim())feed.innerHTML+='<div class="esb-explanation" dir="rtl"><strong>شرح الفكرة</strong><p>'+h(q.explanation_ar)+'</p></div>';const exp=feed.querySelector('.esb-explanation p');if(exp)window.ESInterface?.bindExplanation(exp,q);feed.hidden=false;save();stats();}
-async function init(){try{const file=root.dataset.esBank;if(!/^es-bank-p[23]-u[1-6]\.json$/.test(file))throw Error('Invalid lesson');const r=await fetch(file+'?v='+(root.dataset.bankVersion||'20261124-explanation185'));if(!r.ok)throw Error('No data');data=await r.json();if(!Array.isArray(data.questions)||data.questions.length<1||data.questions.some(q=>!labels[q.type]))throw Error('Invalid data');key='es-practice-'+data.grade+'-u'+data.id;try{const s=JSON.parse(localStorage.getItem(key)||'null');if(s?.version===data.version){progress=s.progress||{};at=+s.at||0;filter=s.filter||'all'}}catch{}if(!['all',...data.questions.map(q=>q.type)].includes(filter))filter='all';
- root.innerHTML='<a class="grade-back" href="extra-assessments-'+h(data.grade)+'.html">← رجوع لتقييماتنا</a><p class="esb-note">تقييماتنا · '+(data.grade==='p2'?'الصف التاني الابتدائي':'الصف التالت الابتدائي')+' · الوحدة '+ar(data.id)+'</p><h1 dir="auto">'+h(data.title)+'</h1><p class="esb-lead">'+ar(data.questions.length)+' سؤالًا من أنواع مختلفة. اقرأ وجرب، وبعدها راجع الإجابة. دي تدريبات أصلية للمراجعة، مش ورقة امتحان وزارة.</p><div class="esb-strip"><label class="esb-filter">نوع السؤال <select class="esb-select"><option value="all">كل الأسئلة</option>'+[...new Set(data.questions.map(q=>q.type))].map(t=>'<option value="'+t+'">'+h(labels[t])+'</option>').join('')+'</select></label></div><p class="esb-stats" aria-live="polite"></p><div class="esb-meter" role="progressbar" aria-label="الأسئلة اللي راجعتها" aria-valuemin="0" aria-valuemax="'+data.questions.length+'"><span></span></div><article class="esb-card"></article><div class="esb-nav"><button class="esb-secondary esb-prev">السابق</button><button class="esb-primary esb-next">التالي ←</button></div><details class="esb-map"><summary>اختار رقم سؤال</summary><div class="esb-grid"></div></details><p class="esb-note esb-save-note">تقدمك محفوظ على الجهاز ده بس، ومش بيتبعت لحد. الكتابة الحرة لها نموذج، مش درجة آلية.</p><button class="esb-reset">امسح تقدمي في الوحدة دي</button>';
- $('.esb-select').value=filter;$('.esb-select').onchange=e=>{filter=e.target.value;at=0;render(true)};$('.esb-prev').onclick=()=>{at--;render(true)};$('.esb-next').onclick=()=>{at++;render(true)};$('.esb-reset').onclick=()=>{if(confirm('تمسح إجاباتك المحفوظة للوحدة دي؟')){progress={};at=0;filter='all';$('.esb-select').value=filter;render()}};render();
- }catch(e){root.innerHTML='<h1>الأسئلة مش متاحة دلوقتي</h1><p>جرّب تحميل الصفحة تاني لما الاتصال يرجع.</p><button class="esb-primary" onclick="location.reload()">حاول تاني</button>'}}
-init();
+/* Small WebView 66 API fallbacks, loaded before this script uses them. */
+(function(){if(!Array.prototype.flatMap)Object.defineProperty(Array.prototype,'flatMap',{configurable:true,writable:true,value:function(fn,ctx){return this.reduce(function(out,v,i,a){return out.concat(fn.call(ctx,v,i,a))},[])}});if(!String.prototype.matchAll)Object.defineProperty(String.prototype,'matchAll',{configurable:true,writable:true,value:function(p){var f=p.flags||'';if(f.indexOf('g')<0)f+='g';var r=new RegExp(p.source,f),a=[],m;while((m=r.exec(String(this)))){a.push(m);if(!m[0])r.lastIndex++}return a}});if(typeof Element!=='undefined'&&!Element.prototype.replaceChildren)Object.defineProperty(Element.prototype,'replaceChildren',{configurable:true,writable:true,value:function(){while(this.firstChild)this.removeChild(this.firstChild);for(var i=0;i<arguments.length;i++)this.append(arguments[i])}})})();
+(function() {
+  "use strict";
+  function esAnswerText(value) {
+    return String(value).replace(/[0-9#*]\uFE0F?\u20E3/g, " ").replace(/[\u{1F000}-\u{1FAFF}\u2600-\u27BF\u{1F1E6}-\u{1F1FF}]/gu, " ").replace(/[\u200D\uFE0E\uFE0F]/g, "").normalize("NFKC");
+  }
+  function esAnswerContent(value) {
+    return esAnswerText(value).toLowerCase().replace(/[’‘]/g, "'").replace(/[.,!?؟،;:]/g, " ").trim().replace(/\s+/g, " ");
+  }
+  const root = document.querySelector("[data-es-bank]");
+  if (!root) return;
+  const labels = { MCQ: "اختار الإجابة", COMPLETE: "أكمل من الكلمات", LETTER: "الحرف الناقص", LETTERS: "رتب الحروف", REORDER: "رتب الكلمات", MATCH: "صل المعنى", WRITE: "اكتب بنفسك", COPY: "انسخ الجملة", READ: "اقرأ وجاوب", PUNCT: "الحروف الكبيرة والترقيم" };
+  const instructions = { MCQ: "اختار إجابة واحدة.", COMPLETE: "اكتب الكلمة المناسبة من الصندوق.", LETTER: "اكتب الحرف الناقص بس.", LETTERS: "اكتب الكلمة بعد ترتيب حروفها.", REORDER: "دوس على الكلمات بالترتيب. هنظبط الحرف الأول وعلامة النهاية. تقدر ترجع آخر كلمة أو تبدأ من جديد.", MATCH: "وصل الكلمة أو الجملة بالمعنى المناسب: اختار المعنى.", WRITE: "اكتب إجابتك، وبعدها قارن بالنموذج. الكتابة الحرة محتاجة مراجعة بشرية.", COPY: "انسخ الجملة زي ما هي، بالحروف الكبيرة وعلامات الترقيم.", READ: "اقرأ القطعة الأول. الإجابة موجودة في النص.", PUNCT: "اكتب الجملة تاني بالحروف الكبيرة وعلامات الترقيم المناسبة." };
+  const h = (s) => String(s != null ? s : "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+  const $ = (s) => root.querySelector(s), ar = (n) => n.toLocaleString("ar-EG"), norm = (s) => esAnswerText(s).normalize("NFKC").replace(/[‘’]/g, "'").trim().replace(/\s+/g, " ").toLowerCase(), copyNorm = (s) => String(s).normalize("NFKC").trim().replace(/\s+/g, " ");
+  let data, at = 0, filter = "all", progress = {}, orders = {}, key = "", chosen = null, words = [], saving = true;
+  function feedbackFx(ok, card) {
+    var _a;
+    document.querySelectorAll(".esfx-big,.esfx-bit,.esfx-wash").forEach((el) => {
+      var _a2;
+      (_a2 = el.getAnimations) == null ? void 0 : _a2.call(el).forEach((a) => a.cancel());
+      el.remove();
+    });
+    (_a = window.__esFxTest) == null ? void 0 : _a.call(window, ok, card);
+  }
+  function list() {
+    return data.questions.filter((q) => filter === "all" || q.type === filter);
+  }
+  function save() {
+    try {
+      localStorage.setItem(key, JSON.stringify({ version: data.version, progress, at, filter }));
+    } catch {
+      saving = false;
+      $(".esb-save-note").textContent = "المتصفح مش بيسمح بحفظ التقدم. تقدر تكمل هنا عادي.";
+    }
+  }
+  function stats() {
+    const qs = data.questions, done = qs.filter((q) => {
+      var _a;
+      return (_a = progress[q.id]) == null ? void 0 : _a.done;
+    }).length, correct = qs.filter((q) => {
+      var _a;
+      return q.grading === "closed" && ((_a = progress[q.id]) == null ? void 0 : _a.correct);
+    }).length, closed = qs.filter((q) => q.grading === "closed").length, review = qs.filter((q) => {
+      var _a;
+      return q.grading === "model_review" && ((_a = progress[q.id]) == null ? void 0 : _a.done);
+    }).length;
+    $(".esb-stats").textContent = "راجعت " + ar(done) + " من " + ar(qs.length) + " سؤال · إجابات مغلقة صحيحة: " + ar(correct) + " من " + ar(closed) + " · إجابات راجعتها مع النموذج: " + ar(review);
+    $(".esb-meter span").style.width = done / qs.length * 100 + "%";
+    $(".esb-meter").setAttribute("aria-valuenow", done);
+    $(".esb-grid").innerHTML = qs.map((q) => {
+      var _a, _b, _c;
+      return '<button class="esb-jump" data-jump="' + q.id + '" data-done="' + !!((_a = progress[q.id]) == null ? void 0 : _a.done) + '" aria-current="' + (q.id === ((_b = list()[at]) == null ? void 0 : _b.id)) + '" aria-label="سؤال ' + q.id + (((_c = progress[q.id]) == null ? void 0 : _c.done) ? "، اتراجع" : "") + '">' + ar(q.id) + "</button>";
+    }).join("");
+    $(".esb-grid").querySelectorAll("button").forEach((b) => b.onclick = () => {
+      filter = "all";
+      $(".esb-select").value = "all";
+      at = data.questions.findIndex((q) => q.id === +b.dataset.jump);
+      render(true);
+    });
+  }
+  function remember(value) {
+    const q = list()[at];
+    progress[q.id] = { ...progress[q.id] || {}, value, done: false, correct: false };
+    save();
+    stats();
+  }
+  function tokens(q) {
+    return q.prompt.split(/\s+[–—]\s+/).map((x) => x.replace(/[.?!]+$/g, ""));
+  }
+  function ordered(q) {
+    var _a;
+    let s = words.map((i) => tokens(q)[i]).join(" ");
+    if (s) s = s[0].toUpperCase() + s.slice(1);
+    if (words.length === tokens(q).length) s += ((_a = q.answer.match(/[.?!]$/)) == null ? void 0 : _a[0]) || ".";
+    return s;
+  }
+  function selection() {
+    var _a, _b;
+    const q = list()[at];
+    return q.type === "REORDER" ? ordered(q) : (_b = (_a = $(".esb-input")) == null ? void 0 : _a.value) != null ? _b : chosen;
+  }
+  function render(scroll = false) {
+    var _a;
+    const qs = list();
+    at = Math.max(0, Math.min(at, qs.length - 1));
+    const q = qs[at], p = progress[q.id] || {};
+    chosen = Number.isInteger(p.value) ? p.value : null;
+    words = Array.isArray(p.value) ? p.value : [];
+    const card = $(".esb-card");
+    card.dataset.qid = q.id;
+    card.dataset.type = q.type;
+    card.innerHTML = '<p class="esb-count">السؤال ' + ar(q.id) + " من " + ar(data.questions.length) + (filter === "all" ? "" : " · " + ar(at + 1) + " من " + ar(qs.length) + " في النوع ده") + '</p><span class="esb-chip">' + h(labels[q.type]) + '</span><p class="esb-note">' + h(instructions[q.type]) + "</p>" + (q.passage ? '<p class="esb-passage-label">القطعة المرتبطة بالسؤال</p><div class="esb-passage" dir="ltr">' + h(q.passage) + "</div>" : "") + (q.wordbox ? '<div class="esb-box" aria-label="الكلمات المتاحة">' + q.wordbox.map((w) => "<span>" + h(w) + "</span>").join("") + "</div>" : "") + '<h2 class="esb-prompt" dir="auto">' + h(q.prompt) + '</h2><div class="esb-answer"></div><div class="esb-actions"><button class="esb-primary esb-check">' + (q.grading === "model_review" ? "شوف النموذج وقارن" : "راجع إجابتي") + '</button></div><div class="esb-feedback" role="status" aria-live="polite" hidden></div>';
+    const answer = $(".esb-answer");
+    if (q.options) {
+      if (!orders[q.id]) orders[q.id] = q.options.map((v, i) => i).sort(() => Math.random() - 0.5);
+      answer.innerHTML = '<div class="esb-options" role="group" aria-label="الإجابات">' + orders[q.id].map((i, n) => '<button class="esb-option" data-choice="' + i + '" aria-pressed="' + (chosen === i) + '" dir="auto"><span class="esb-letter">' + String.fromCharCode(65 + n) + "</span><bdi>" + h(q.options[i]) + "</bdi></button>").join("") + "</div>";
+      answer.querySelectorAll("button").forEach((b) => b.onclick = () => {
+        chosen = +b.dataset.choice;
+        answer.querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+        remember(chosen);
+        $(".esb-feedback").hidden = true;
+      });
+    } else if (q.type === "REORDER") {
+      const parts = tokens(q);
+      answer.innerHTML = '<div class="esb-reorder-answer" dir="ltr" aria-label="ترتيبك الحالي"></div><div class="esb-reorder" aria-label="الكلمات"></div><div class="esb-actions"><button class="esb-secondary esb-undo">رجّع آخر كلمة</button><button class="esb-secondary esb-clear">ابدأ الترتيب تاني</button></div>';
+      const redraw = () => {
+        $(".esb-reorder-answer").textContent = ordered(q);
+        $(".esb-reorder").innerHTML = parts.map((w, i) => '<button class="esb-token" data-word="' + i + '" ' + (words.includes(i) ? "disabled" : "") + ">" + h(w) + "</button>").join("");
+        $(".esb-reorder").querySelectorAll("button").forEach((b) => b.onclick = () => {
+          words.push(+b.dataset.word);
+          remember([...words]);
+          redraw();
+        });
+        $(".esb-feedback").hidden = true;
+      };
+      $(".esb-undo").onclick = () => {
+        words.pop();
+        remember([...words]);
+        redraw();
+      };
+      $(".esb-clear").onclick = () => {
+        words = [];
+        remember([]);
+        redraw();
+      };
+      redraw();
+    } else {
+      const multi = ["WRITE", "PUNCT"].includes(q.type) || q.type === "READ";
+      answer.innerHTML = '<label class="esb-entry-label" for="esb-entry">' + (q.type === "LETTER" ? "الحرف الناقص" : "إجابتك") + "</label>" + (multi ? '<textarea id="esb-entry" class="esb-input" rows="4" dir="ltr" spellcheck="false"></textarea>' : '<input id="esb-entry" class="esb-input" dir="ltr" autocomplete="off" spellcheck="false"/>') + (q.min_words ? '<p class="esb-note">اكتب ٣ جمل و١٥ كلمة على الأقل باستخدام الكلمات المساعدة.</p><p class="esb-wordcount"></p>' : "");
+      $(".esb-input").value = typeof p.value === "string" ? p.value : "";
+      const count = () => {
+        if (q.min_words) {
+          const n = ($(".esb-input").value.match(/[A-Za-z]+(?:['’][A-Za-z]+)*/g) || []).length;
+          $(".esb-wordcount").textContent = "عدد الكلمات: " + ar(n) + " · ده عدّ للكلمات، مش تصحيح لغوي.";
+        }
+      };
+      $(".esb-input").oninput = () => {
+        remember($(".esb-input").value);
+        $(".esb-feedback").hidden = true;
+        count();
+      };
+      count();
+    }
+    if (["WRITE", "READ", "CORRECT"].includes(q.type) && !q.options) (_a = window.ESWrittenAI) == null ? void 0 : _a.attach(card, { question: q.prompt, passage: q.passage, alternatives: q.models || [q.answer], answer: () => {
+      var _a2;
+      return (_a2 = $(".esb-input")) == null ? void 0 : _a2.value;
+    } });
+    $(".esb-check").onclick = check;
+    $(".esb-prev").disabled = at === 0;
+    $(".esb-next").disabled = at === qs.length - 1;
+    stats();
+    save();
+    if (scroll) card.scrollIntoView({ block: "start", behavior: "instant" });
+  }
+  function check() {
+    var _a;
+    const q = list()[at], value = selection(), feed = $(".esb-feedback");
+    if (value === null || value === void 0 || typeof value === "string" && !value.trim() || q.type === "REORDER" && !words.length) {
+      feed.className = "esb-feedback";
+      feed.hidden = false;
+      feed.textContent = "جرّب تكتب أو تختار إجابتك الأول.";
+      return;
+    }
+    let ok = false;
+    const models = q.models || [q.answer];
+    if (q.grading === "model_review") {
+      const exact = models.some((m) => norm(value) === norm(m));
+      progress[q.id] = { value: q.type === "REORDER" ? [...words] : value, done: true, reviewed: true };
+      feed.className = "esb-feedback";
+      feed.innerHTML = (exact ? "✓ إجابتك مطابقة للنموذج." : "نموذج إجابة صحيح. صياغتك ممكن تختلف وتكون صحيحة برضه.") + '<div class="esb-model" dir="ltr">' + models.map(h).join("\n") + '</div><p class="esb-note">' + (q.type === "PUNCT" ? "راجع بداية الجملة والأسماء وعلامة النهاية. فيه ترقيم صحيح ممكن يختلف حسب المعنى." : "قارن المعنى والقواعد. لو مش متأكد، اعرض إجابتك على مدرسك.") + '</p><p class="esb-note">السؤال ده للمراجعة، مش محسوب كتصحيح آلي صح أو غلط.</p>';
+      if (exact) feedbackFx(true, $(".esb-card"));
+    } else {
+      ok = q.options ? value === q.answer_index : q.type === "COPY" ? copyNorm(value) === copyNorm(q.answer) : norm(value) === norm(q.answer);
+      progress[q.id] = { value, done: true, correct: ok };
+      feed.className = "esb-feedback " + (ok ? "good" : "bad");
+      feed.innerHTML = ok ? "✓ أحسنت! إجابتك صح." : "جرّب تاني. " + (q.type === "COPY" ? "راجع كل الحروف وعلامات الترقيم مع الجملة الأصلية." : "الإجابة الصحيحة:") + (q.type === "COPY" ? "" : '<div class="esb-model" dir="auto">' + h(q.options ? q.options[q.answer_index] : q.answer) + "</div>");
+      feedbackFx(ok, $(".esb-card"));
+    }
+    if (typeof q.explanation_ar === "string" && q.explanation_ar.trim()) feed.innerHTML += '<div class="esb-explanation" dir="rtl"><strong>شرح الفكرة</strong><p>' + h(q.explanation_ar) + "</p></div>";
+    const exp = feed.querySelector(".esb-explanation p");
+    if (exp) (_a = window.ESInterface) == null ? void 0 : _a.bindExplanation(exp, q);
+    feed.hidden = false;
+    save();
+    stats();
+  }
+  async function init() {
+    try {
+      const file = root.dataset.esBank;
+      if (!/^es-bank-p[23]-u[1-6]\.json$/.test(file)) throw Error("Invalid lesson");
+      const r = await fetch(file + "?v=" + (root.dataset.bankVersion || "20261124-explanation185"));
+      if (!r.ok) throw Error("No data");
+      data = await r.json();
+      if (!Array.isArray(data.questions) || data.questions.length < 1 || data.questions.some((q) => !labels[q.type])) throw Error("Invalid data");
+      key = "es-practice-" + data.grade + "-u" + data.id;
+      try {
+        const s = JSON.parse(localStorage.getItem(key) || "null");
+        if ((s == null ? void 0 : s.version) === data.version) {
+          progress = s.progress || {};
+          at = +s.at || 0;
+          filter = s.filter || "all";
+        }
+      } catch {
+      }
+      if (!["all", ...data.questions.map((q) => q.type)].includes(filter)) filter = "all";
+      root.innerHTML = '<a class="grade-back" href="extra-assessments-' + h(data.grade) + '.html">← رجوع لتقييماتنا</a><p class="esb-note">تقييماتنا · ' + (data.grade === "p2" ? "الصف التاني الابتدائي" : "الصف التالت الابتدائي") + " · الوحدة " + ar(data.id) + '</p><h1 dir="auto">' + h(data.title) + '</h1><p class="esb-lead">' + ar(data.questions.length) + ' سؤالًا من أنواع مختلفة. اقرأ وجرب، وبعدها راجع الإجابة. دي تدريبات أصلية للمراجعة، مش ورقة امتحان وزارة.</p><div class="esb-strip"><label class="esb-filter">نوع السؤال <select class="esb-select"><option value="all">كل الأسئلة</option>' + [...new Set(data.questions.map((q) => q.type))].map((t) => '<option value="' + t + '">' + h(labels[t]) + "</option>").join("") + '</select></label></div><p class="esb-stats" aria-live="polite"></p><div class="esb-meter" role="progressbar" aria-label="الأسئلة اللي راجعتها" aria-valuemin="0" aria-valuemax="' + data.questions.length + '"><span></span></div><article class="esb-card"></article><div class="esb-nav"><button class="esb-secondary esb-prev">السابق</button><button class="esb-primary esb-next">التالي ←</button></div><details class="esb-map"><summary>اختار رقم سؤال</summary><div class="esb-grid"></div></details><p class="esb-note esb-save-note">تقدمك محفوظ على الجهاز ده بس، ومش بيتبعت لحد. الكتابة الحرة لها نموذج، مش درجة آلية.</p><button class="esb-reset">امسح تقدمي في الوحدة دي</button>';
+      $(".esb-select").value = filter;
+      $(".esb-select").onchange = (e) => {
+        filter = e.target.value;
+        at = 0;
+        render(true);
+      };
+      $(".esb-prev").onclick = () => {
+        at--;
+        render(true);
+      };
+      $(".esb-next").onclick = () => {
+        at++;
+        render(true);
+      };
+      $(".esb-reset").onclick = () => {
+        if (confirm("تمسح إجاباتك المحفوظة للوحدة دي؟")) {
+          progress = {};
+          at = 0;
+          filter = "all";
+          $(".esb-select").value = filter;
+          render();
+        }
+      };
+      render();
+    } catch (e) {
+      root.innerHTML = '<h1>الأسئلة مش متاحة دلوقتي</h1><p>جرّب تحميل الصفحة تاني لما الاتصال يرجع.</p><button class="esb-primary" onclick="location.reload()">حاول تاني</button>';
+    }
+  }
+  init();
 })();

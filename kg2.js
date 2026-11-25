@@ -1,23 +1,261 @@
-'use strict';
-(()=>{const $=s=>document.querySelector(s),content=$('#k2-content'),status=$('#k2-audio-status'),player=new Audio();player.preload='none';let data,index=0,traceIndex=0,found=new Set(),activeButton=null,request=0;const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));let finishAudio=null;const asset=name=>'assets/kg2/u1/'+name+'?v=20261122c';
-function stop(){request++;player.pause();player.removeAttribute('src');player.load();if(finishAudio){finishAudio(null);finishAudio=null;}if(activeButton)activeButton.classList.remove('is-speaking');activeButton=null;document.querySelectorAll('#k2-content video').forEach(v=>v.pause());status.textContent='';}
-async function speak(id,button){const ids=Array.isArray(id)?id:data.picture_meanings?.[id]?[data.picture_meanings[id],id]:[id];stop();if(ids.some(key=>!data.audio[key])){status.textContent='الصوت ده لسه بيتراجع.';return false;}const mine=request;activeButton=button||null;if(button)button.classList.add('is-speaking');for(const key of ids){if(mine!==request)return null;status.textContent='الصوت بيحمّل…';const ok=await new Promise(resolve=>{let done=false;const finish=value=>{if(done)return;done=true;player.onended=player.onerror=null;if(finishAudio===finish)finishAudio=null;resolve(value);};finishAudio=finish;player.onended=()=>finish(true);player.onerror=()=>finish(false);player.src=data.audio[key]+'?v='+data.version;player.play().then(()=>{if(mine===request)status.textContent='اسمع وردّد براحتك.';}).catch(()=>finish(false));});if(mine!==request)return null;if(ok!==true){if(button)button.classList.remove('is-speaking');activeButton=null;status.textContent='الصوت ما فتحش. اضغط تاني.';return false;}}if(mine===request){if(button)button.classList.remove('is-speaking');activeButton=null;status.textContent='اضغط تاني لو تحب تسمعها كمان مرة.';}return true;}
-function pictureName(image){const m=/act([0-9]+)/.exec(image);return m?'act'+m[1]+'.webp':image;}
-function audioButton(id,text,cls=''){return `<button type="button" class="k2-listen ${cls}" data-audio="${escape(id)}">${escape(text)}</button>`}
-function hints(ids,text,en){return `<p class="k2-help">${escape(text)}</p><div class="k2-instructions">${[].concat(ids).map((id,i)=>audioButton(id,ids.length>1&&i===1?'اسمع التوضيح':'اسمع المطلوب بالعربي')).join('')}${en?audioButton(en,'اسمع المطلوب بالإنجليزي'):''}</div>`}
-function pictureCard(image,text,audio,small=false){return `<button type="button" class="k2-picture ${small?'is-small':''}" data-audio="${escape(audio)}" aria-label="اسمع: ${escape(text)}"><img src="${asset(image)}" alt="${escape(text)}" width="500" height="500" loading="lazy"><span lang="en" dir="ltr">${escape(text)}</span><small>عربي الأول، وبعده إنجليزي</small></button>`}
-const storyMarkup=(a,image,escape,lineButton,seqButton)=>`<div class="k2-instructions">${seqButton(a.panels.flatMap(p=>p.lines.map(l=>l.audio)),'اسمع القصة كلها بالترتيب')}</div><div class="k2-story">${a.panels.map((p,i)=>`<section class="k2-story-card" aria-label="المشهد ${i+1}"><h3>المشهد ${i+1}</h3><img src="${image(p.image)}" alt="${escape(p.alt)}" width="600" height="450" loading="lazy">${p.lines.map(l=>`<div class="k2-story-line"><b>${escape(l.speaker_ar)}</b><p class="k2-story-ar">${escape(l.meaning_ar)}</p><p class="k2-story-en" dir="ltr" lang="en">${escape(l.text)}</p>${lineButton(l.audio,'اسمع الجملة بالإنجليزي')}</div>`).join('')}<div class="k2-instructions">${seqButton(p.lines.map(l=>l.audio),'اسمع المشهد بالترتيب')}</div></section>`).join('')}</div><p class="k2-note-held">${escape(a.adaptation_note)}</p>`;
-function render(){stop();traceIndex=0;found=new Set();const a=data.activities[index];$('#k2-title').textContent=a.title_ar;$('#k2-picker').value=String(index);$('#k2-count').textContent=`${index+1} من ${data.activities.length}`;$('#k2-prev').disabled=index===0;$('#k2-next').disabled=index===data.activities.length-1;if(location.hash!=='#'+a.id)location.hash=a.id;let body='';
- if(a.kind==='story'){body=hints(a.instr,a.help)+storyMarkup(a,asset,escape,audioButton,(ids,label)=>`<button type="button" class="k2-listen" data-seq="${escape(ids.join(' '))}">${escape(label)}</button>`)}
- if(a.kind==='tap-to-hear'){body=hints('ar-i-tap',a.parent_text_ar,'en-i-act')+`<div class="k2-pictures">${a.words.map(w=>pictureCard(pictureName(w.image),w.word,w.audio)).join('')}</div>`}
- if(a.kind==='say-it'){body=hints(a.instruction_audio_ar,a.parent_text_ar)+`<div class="k2-pictures">${a.lines.map(l=>l.image?pictureCard(pictureName(l.image),l.text,l.audio):`<div class="k2-sentence-text"><p lang="en" dir="ltr">${escape(l.text)}</p>${audioButton(l.audio,'اسمع الجملة')}<p>قولوا الجملة سوا وجرّبوا القفز في مكان آمن. صورة القفز الجماعي لسه مش متاحة.</p></div>`).join('')}</div>`}
- if(a.kind==='trace-letters'||a.kind==='trace-numbers'){body=hints(a.instruction_audio_ar,'شوف الحركة، وبعدها اتتبّع بإصبعك من نقطة البداية. تدريب حر من غير درجات.',a.kind==='trace-numbers'?'en-i-count':'en-i-trace');if(a.kind==='trace-numbers')body+=`<div class="k2-pictures k2-count-pictures">${[1,2].map(n=>pictureCard('count'+n+'.webp',String(n),'en-n-'+n,true)).join('')}</div>`;body+=`<div class="k2-trace-tabs" aria-label="نختار ما نتتبعه">${a.items.map((x,i)=>`<button type="button" data-trace="${i}" aria-pressed="${i===0}"><span dir="ltr">${escape(x.glyph)}</span></button>`).join('')}</div><div id="k2-trace-area"></div>`;if(a.kind==='trace-letters')body+=`<h3>اسمع كلمة مع الحرف</h3><p>بنسمع كلمات كاملة، مش أصوات حروف منفصلة.</p><div class="k2-word-row">${pictureCard('act5.webp','jump','en-word-jump',true)}${pictureCard('act4.webp','kick','en-word-kick',true)}${pictureCard('count1.webp','kite','en-word-kite',true)}${pictureCard('juice.webp','juice','en-word-juice',true)}</div>`}
- if(a.kind==='song'){body=hints('ar-i-song','اسمعوا كلمات أغنية الحركات وقلّدوها مع بعض في مكان آمن.','en-i-act')+`<div class="k2-song" lang="en" dir="ltr">${a.text.map(t=>`<p>${escape(t)}</p>`).join('')}</div>`+audioButton('en-song','اسمع كلمات الأغنية')}
- if(a.kind==='manners-talk'){body=hints('ar-i-turns','اسمعوا الجمل واتكلموا: إزاي نلعب سوا بلطف وأمان؟ الشخص الكبير يساعد الطفل بموقف بسيط من يومه.')+`<div class="k2-values">${data.values.map(v=>`<article><p lang="en" dir="ltr">${escape(v.text)}</p>${audioButton(v.audio,'اسمع الجملة')}</article>`).join('')}</div><p>اسأل طفلك: نعمل إيه وإحنا مستنيين دورنا؟ ونقول إيه لصاحبنا؟ ونلعب إزاي بأمان؟</p>`}
- if(a.kind==='kite-hunt'){body=hints('ar-i-point','دوّر على كل طائرة مكتوب عليها K و k واضغط عليها. هنسمع كلمة kite مع كل ضغطة.','en-i-kite')+`<p class="k2-hunt-count" id="k2-hunt-count" role="status">لقينا 0 من 6</p><div class="k2-hunt">${data.hunt.map(x=>`<button type="button" class="k2-kite" data-kite="${escape(x.id)}" aria-label="طائرة ورقية عليها ${escape(x.letter)}" aria-pressed="false"><img src="${asset(x.id+'.webp')}" alt="طائرة ورقية عليها ${escape(x.letter)}" width="124" height="330" loading="lazy"><span class="k2-found" aria-hidden="true"></span></button>`).join('')}</div><button type="button" class="k2-reset">نلعب من الأول</button><p class="k2-help">مش سباق. لو ضغطت طائرة مختلفة، اسمع الكلمة وكمّل البحث براحتك.</p>`}
- content.innerHTML=body;if(a.kind.startsWith('trace'))drawTrace();}
-function drawTrace(){const a=data.activities[index],t=a.items[traceIndex],name=t.animation.replace('.mp4','-final.png');$('#k2-trace-area').innerHTML=`<div class="k2-trace-layout"><section><h3>شوف اتجاه الحركة: <span dir="ltr">${escape(t.glyph)}</span></h3><video class="k2-animation" controls playsinline preload="none" poster="${asset(t.poster||name)}" src="${asset(t.animation)}" aria-label="اتجاه تتبع ${escape(t.glyph)}"></video><button type="button" class="k2-trace-play">شغّل حركة التتبع</button></section><section><h3>دلوقتي جرّب بإصبعك</h3><div class="k2-canvas-wrap"><img src="${asset(t.poster||name)}" alt="دليل ترتيب تتبع ${escape(t.glyph)}" width="500" height="600"><canvas id="k2-canvas" width="500" height="600" aria-label="مساحة تتبع حر بالإصبع أو الفأرة" role="img"></canvas></div><button type="button" class="k2-clear">امسح وجرب تاني</button><p class="k2-help">حرّك إصبعك فوق الدليل. مفيش تصحيح آلي أو تقييم لخطك.</p></section></div>`;const canvas=$('#k2-canvas'),ctx=canvas.getContext('2d');let drawing=false;ctx.strokeStyle='#315d4b';ctx.lineWidth=16;ctx.lineCap='round';ctx.lineJoin='round';const point=e=>{const r=canvas.getBoundingClientRect();return [(e.clientX-r.left)*500/r.width,(e.clientY-r.top)*600/r.height]};canvas.addEventListener('pointerdown',e=>{e.preventDefault();drawing=true;canvas.setPointerCapture(e.pointerId);const [x,y]=point(e);ctx.beginPath();ctx.moveTo(x,y);ctx.lineTo(x+.1,y+.1);ctx.stroke();canvas.dataset.drawn='true'});canvas.addEventListener('pointermove',e=>{if(!drawing)return;e.preventDefault();const [x,y]=point(e);ctx.lineTo(x,y);ctx.stroke()});const end=()=>{drawing=false;ctx.closePath()};canvas.addEventListener('pointerup',end);canvas.addEventListener('pointercancel',end)}
-content.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.seq){speak(b.dataset.seq.split(' '),b);return}if(b.dataset.audio){speak(b.dataset.audio,b);return}if(b.dataset.trace!==undefined){stop();traceIndex=+b.dataset.trace;content.querySelectorAll('[data-trace]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));drawTrace();return}if(b.classList.contains('k2-trace-play')){const v=$('.k2-animation');stop();v.currentTime=0;v.play().catch(()=>status.textContent='الحركة ما حمّلتش. تأكد من الاتصال واضغط تاني.');return}if(b.classList.contains('k2-clear')){const c=$('#k2-canvas');c.getContext('2d').clearRect(0,0,500,600);delete c.dataset.drawn;return}if(b.dataset.kite){const item=data.hunt.find(x=>x.id===b.dataset.kite);speak('en-word-kite',b);if(item.is_target){found.add(item.id);b.classList.add('is-found');b.setAttribute('aria-pressed','true');b.querySelector('.k2-found').textContent='✓';$('#k2-hunt-count').textContent=found.size===6?'لقينا الست طائرات! نقدر نلعب تاني.':`لقينا ${found.size} من 6`;}return}if(b.classList.contains('k2-reset')){found.clear();content.querySelectorAll('[data-kite]').forEach(x=>{x.classList.remove('is-found');x.setAttribute('aria-pressed','false');x.querySelector('.k2-found').textContent=''});$('#k2-hunt-count').textContent='لقينا 0 من 6'}});
-$('#k2-prev').addEventListener('click',()=>{if(index>0){index--;render()}});$('#k2-next').addEventListener('click',()=>{if(index<data.activities.length-1){index++;render()}});$('#k2-picker').addEventListener('change',e=>{index=+e.target.value;render()});window.addEventListener('hashchange',()=>{if(!data)return;const n=data.activities.findIndex(a=>'#'+a.id===location.hash);if(n>=0&&n!==index){index=n;render()}});window.addEventListener('pagehide',stop);
-fetch('kg2-u1.json?v=20261122-story1').then(r=>{if(!r.ok)throw Error('Data unavailable');return r.json()}).then(d=>{data=d;const unit=new URLSearchParams(location.search).get('unit');if(unit&&unit!==d.unit.id){$('#k2-title').textContent='الجزء ده لسه قريبًا';content.innerHTML='<p>المتاح هنا جزء من الوحدة الأولى بس. ارجع لخريطة KG2 علشان تختار الجزء المتاح.</p>';$('.k2-nav').hidden=true;$('#k2-picker').hidden=true;return}$('#k2-picker').innerHTML=d.activities.map((a,i)=>`<option value="${i}">${i+1} · ${escape(a.title_ar)}</option>`).join('');const h=d.activities.findIndex(a=>'#'+a.id===location.hash);if(h>=0)index=h;render()}).catch(()=>{$('#k2-title').textContent='النشاط ما حمّلش';content.innerHTML='<p>اتأكد من الاتصال وحدّث الصفحة. باقي الموقع شغّال من روابط التنقل فوق.</p>'});
+/* Small WebView 66 API fallbacks, loaded before this script uses them. */
+(function(){if(!Array.prototype.flatMap)Object.defineProperty(Array.prototype,'flatMap',{configurable:true,writable:true,value:function(fn,ctx){return this.reduce(function(out,v,i,a){return out.concat(fn.call(ctx,v,i,a))},[])}});if(!String.prototype.matchAll)Object.defineProperty(String.prototype,'matchAll',{configurable:true,writable:true,value:function(p){var f=p.flags||'';if(f.indexOf('g')<0)f+='g';var r=new RegExp(p.source,f),a=[],m;while((m=r.exec(String(this)))){a.push(m);if(!m[0])r.lastIndex++}return a}});if(typeof Element!=='undefined'&&!Element.prototype.replaceChildren)Object.defineProperty(Element.prototype,'replaceChildren',{configurable:true,writable:true,value:function(){while(this.firstChild)this.removeChild(this.firstChild);for(var i=0;i<arguments.length;i++)this.append(arguments[i])}})})();
+"use strict";
+(() => {
+  const $ = (s) => document.querySelector(s), content = $("#k2-content"), status = $("#k2-audio-status"), player = new Audio();
+  player.preload = "none";
+  let data, index = 0, traceIndex = 0, found = /* @__PURE__ */ new Set(), activeButton = null, request = 0;
+  const escape = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+  let finishAudio = null;
+  const asset = (name) => "assets/kg2/u1/" + name + "?v=20261122c";
+  function stop() {
+    request++;
+    player.pause();
+    player.removeAttribute("src");
+    player.load();
+    if (finishAudio) {
+      finishAudio(null);
+      finishAudio = null;
+    }
+    if (activeButton) activeButton.classList.remove("is-speaking");
+    activeButton = null;
+    document.querySelectorAll("#k2-content video").forEach((v) => v.pause());
+    status.textContent = "";
+  }
+  async function speak(id, button) {
+    var _a;
+    const ids = Array.isArray(id) ? id : ((_a = data.picture_meanings) == null ? void 0 : _a[id]) ? [data.picture_meanings[id], id] : [id];
+    stop();
+    if (ids.some((key) => !data.audio[key])) {
+      status.textContent = "الصوت ده لسه بيتراجع.";
+      return false;
+    }
+    const mine = request;
+    activeButton = button || null;
+    if (button) button.classList.add("is-speaking");
+    for (const key of ids) {
+      if (mine !== request) return null;
+      status.textContent = "الصوت بيحمّل…";
+      const ok = await new Promise((resolve) => {
+        let done = false;
+        const finish = (value) => {
+          if (done) return;
+          done = true;
+          player.onended = player.onerror = null;
+          if (finishAudio === finish) finishAudio = null;
+          resolve(value);
+        };
+        finishAudio = finish;
+        player.onended = () => finish(true);
+        player.onerror = () => finish(false);
+        player.src = data.audio[key] + "?v=" + data.version;
+        player.play().then(() => {
+          if (mine === request) status.textContent = "اسمع وردّد براحتك.";
+        }).catch(() => finish(false));
+      });
+      if (mine !== request) return null;
+      if (ok !== true) {
+        if (button) button.classList.remove("is-speaking");
+        activeButton = null;
+        status.textContent = "الصوت ما فتحش. اضغط تاني.";
+        return false;
+      }
+    }
+    if (mine === request) {
+      if (button) button.classList.remove("is-speaking");
+      activeButton = null;
+      status.textContent = "اضغط تاني لو تحب تسمعها كمان مرة.";
+    }
+    return true;
+  }
+  function pictureName(image) {
+    const m = /act([0-9]+)/.exec(image);
+    return m ? "act" + m[1] + ".webp" : image;
+  }
+  function audioButton(id, text, cls = "") {
+    return `<button type="button" class="k2-listen ${cls}" data-audio="${escape(id)}">${escape(text)}</button>`;
+  }
+  function hints(ids, text, en) {
+    return `<p class="k2-help">${escape(text)}</p><div class="k2-instructions">${[].concat(ids).map((id, i) => audioButton(id, ids.length > 1 && i === 1 ? "اسمع التوضيح" : "اسمع المطلوب بالعربي")).join("")}${en ? audioButton(en, "اسمع المطلوب بالإنجليزي") : ""}</div>`;
+  }
+  function pictureCard(image, text, audio, small = false) {
+    return `<button type="button" class="k2-picture ${small ? "is-small" : ""}" data-audio="${escape(audio)}" aria-label="اسمع: ${escape(text)}"><img src="${asset(image)}" alt="${escape(text)}" width="500" height="500" loading="lazy"><span lang="en" dir="ltr">${escape(text)}</span><small>عربي الأول، وبعده إنجليزي</small></button>`;
+  }
+  const storyMarkup = (a, image, escape2, lineButton, seqButton) => `<div class="k2-instructions">${seqButton(a.panels.flatMap((p) => p.lines.map((l) => l.audio)), "اسمع القصة كلها بالترتيب")}</div><div class="k2-story">${a.panels.map((p, i) => `<section class="k2-story-card" aria-label="المشهد ${i + 1}"><h3>المشهد ${i + 1}</h3><img src="${image(p.image)}" alt="${escape2(p.alt)}" width="600" height="450" loading="lazy">${p.lines.map((l) => `<div class="k2-story-line"><b>${escape2(l.speaker_ar)}</b><p class="k2-story-ar">${escape2(l.meaning_ar)}</p><p class="k2-story-en" dir="ltr" lang="en">${escape2(l.text)}</p>${lineButton(l.audio, "اسمع الجملة بالإنجليزي")}</div>`).join("")}<div class="k2-instructions">${seqButton(p.lines.map((l) => l.audio), "اسمع المشهد بالترتيب")}</div></section>`).join("")}</div><p class="k2-note-held">${escape2(a.adaptation_note)}</p>`;
+  function render() {
+    stop();
+    traceIndex = 0;
+    found = /* @__PURE__ */ new Set();
+    const a = data.activities[index];
+    $("#k2-title").textContent = a.title_ar;
+    $("#k2-picker").value = String(index);
+    $("#k2-count").textContent = `${index + 1} من ${data.activities.length}`;
+    $("#k2-prev").disabled = index === 0;
+    $("#k2-next").disabled = index === data.activities.length - 1;
+    if (location.hash !== "#" + a.id) location.hash = a.id;
+    let body = "";
+    if (a.kind === "story") {
+      body = hints(a.instr, a.help) + storyMarkup(a, asset, escape, audioButton, (ids, label) => `<button type="button" class="k2-listen" data-seq="${escape(ids.join(" "))}">${escape(label)}</button>`);
+    }
+    if (a.kind === "tap-to-hear") {
+      body = hints("ar-i-tap", a.parent_text_ar, "en-i-act") + `<div class="k2-pictures">${a.words.map((w) => pictureCard(pictureName(w.image), w.word, w.audio)).join("")}</div>`;
+    }
+    if (a.kind === "say-it") {
+      body = hints(a.instruction_audio_ar, a.parent_text_ar) + `<div class="k2-pictures">${a.lines.map((l) => l.image ? pictureCard(pictureName(l.image), l.text, l.audio) : `<div class="k2-sentence-text"><p lang="en" dir="ltr">${escape(l.text)}</p>${audioButton(l.audio, "اسمع الجملة")}<p>قولوا الجملة سوا وجرّبوا القفز في مكان آمن. صورة القفز الجماعي لسه مش متاحة.</p></div>`).join("")}</div>`;
+    }
+    if (a.kind === "trace-letters" || a.kind === "trace-numbers") {
+      body = hints(a.instruction_audio_ar, "شوف الحركة، وبعدها اتتبّع بإصبعك من نقطة البداية. تدريب حر من غير درجات.", a.kind === "trace-numbers" ? "en-i-count" : "en-i-trace");
+      if (a.kind === "trace-numbers") body += `<div class="k2-pictures k2-count-pictures">${[1, 2].map((n) => pictureCard("count" + n + ".webp", String(n), "en-n-" + n, true)).join("")}</div>`;
+      body += `<div class="k2-trace-tabs" aria-label="نختار ما نتتبعه">${a.items.map((x, i) => `<button type="button" data-trace="${i}" aria-pressed="${i === 0}"><span dir="ltr">${escape(x.glyph)}</span></button>`).join("")}</div><div id="k2-trace-area"></div>`;
+      if (a.kind === "trace-letters") body += `<h3>اسمع كلمة مع الحرف</h3><p>بنسمع كلمات كاملة، مش أصوات حروف منفصلة.</p><div class="k2-word-row">${pictureCard("act5.webp", "jump", "en-word-jump", true)}${pictureCard("act4.webp", "kick", "en-word-kick", true)}${pictureCard("count1.webp", "kite", "en-word-kite", true)}${pictureCard("juice.webp", "juice", "en-word-juice", true)}</div>`;
+    }
+    if (a.kind === "song") {
+      body = hints("ar-i-song", "اسمعوا كلمات أغنية الحركات وقلّدوها مع بعض في مكان آمن.", "en-i-act") + `<div class="k2-song" lang="en" dir="ltr">${a.text.map((t) => `<p>${escape(t)}</p>`).join("")}</div>` + audioButton("en-song", "اسمع كلمات الأغنية");
+    }
+    if (a.kind === "manners-talk") {
+      body = hints("ar-i-turns", "اسمعوا الجمل واتكلموا: إزاي نلعب سوا بلطف وأمان؟ الشخص الكبير يساعد الطفل بموقف بسيط من يومه.") + `<div class="k2-values">${data.values.map((v) => `<article><p lang="en" dir="ltr">${escape(v.text)}</p>${audioButton(v.audio, "اسمع الجملة")}</article>`).join("")}</div><p>اسأل طفلك: نعمل إيه وإحنا مستنيين دورنا؟ ونقول إيه لصاحبنا؟ ونلعب إزاي بأمان؟</p>`;
+    }
+    if (a.kind === "kite-hunt") {
+      body = hints("ar-i-point", "دوّر على كل طائرة مكتوب عليها K و k واضغط عليها. هنسمع كلمة kite مع كل ضغطة.", "en-i-kite") + `<p class="k2-hunt-count" id="k2-hunt-count" role="status">لقينا 0 من 6</p><div class="k2-hunt">${data.hunt.map((x) => `<button type="button" class="k2-kite" data-kite="${escape(x.id)}" aria-label="طائرة ورقية عليها ${escape(x.letter)}" aria-pressed="false"><img src="${asset(x.id + ".webp")}" alt="طائرة ورقية عليها ${escape(x.letter)}" width="124" height="330" loading="lazy"><span class="k2-found" aria-hidden="true"></span></button>`).join("")}</div><button type="button" class="k2-reset">نلعب من الأول</button><p class="k2-help">مش سباق. لو ضغطت طائرة مختلفة، اسمع الكلمة وكمّل البحث براحتك.</p>`;
+    }
+    content.innerHTML = body;
+    if (a.kind.startsWith("trace")) drawTrace();
+  }
+  function drawTrace() {
+    const a = data.activities[index], t = a.items[traceIndex], name = t.animation.replace(".mp4", "-final.png");
+    $("#k2-trace-area").innerHTML = `<div class="k2-trace-layout"><section><h3>شوف اتجاه الحركة: <span dir="ltr">${escape(t.glyph)}</span></h3><video class="k2-animation" controls playsinline preload="none" poster="${asset(t.poster || name)}" src="${asset(t.animation)}" aria-label="اتجاه تتبع ${escape(t.glyph)}"></video><button type="button" class="k2-trace-play">شغّل حركة التتبع</button></section><section><h3>دلوقتي جرّب بإصبعك</h3><div class="k2-canvas-wrap"><img src="${asset(t.poster || name)}" alt="دليل ترتيب تتبع ${escape(t.glyph)}" width="500" height="600"><canvas id="k2-canvas" width="500" height="600" aria-label="مساحة تتبع حر بالإصبع أو الفأرة" role="img"></canvas></div><button type="button" class="k2-clear">امسح وجرب تاني</button><p class="k2-help">حرّك إصبعك فوق الدليل. مفيش تصحيح آلي أو تقييم لخطك.</p></section></div>`;
+    const canvas = $("#k2-canvas"), ctx = canvas.getContext("2d");
+    let drawing = false;
+    ctx.strokeStyle = "#315d4b";
+    ctx.lineWidth = 16;
+    ctx.lineCap = "round";
+    ctx.lineJoin = "round";
+    const point = (e) => {
+      const r = canvas.getBoundingClientRect();
+      return [(e.clientX - r.left) * 500 / r.width, (e.clientY - r.top) * 600 / r.height];
+    };
+    canvas.addEventListener("pointerdown", (e) => {
+      e.preventDefault();
+      drawing = true;
+      canvas.setPointerCapture(e.pointerId);
+      const [x, y] = point(e);
+      ctx.beginPath();
+      ctx.moveTo(x, y);
+      ctx.lineTo(x + 0.1, y + 0.1);
+      ctx.stroke();
+      canvas.dataset.drawn = "true";
+    });
+    canvas.addEventListener("pointermove", (e) => {
+      if (!drawing) return;
+      e.preventDefault();
+      const [x, y] = point(e);
+      ctx.lineTo(x, y);
+      ctx.stroke();
+    });
+    const end = () => {
+      drawing = false;
+      ctx.closePath();
+    };
+    canvas.addEventListener("pointerup", end);
+    canvas.addEventListener("pointercancel", end);
+  }
+  content.addEventListener("click", (e) => {
+    const b = e.target.closest("button");
+    if (!b) return;
+    if (b.dataset.seq) {
+      speak(b.dataset.seq.split(" "), b);
+      return;
+    }
+    if (b.dataset.audio) {
+      speak(b.dataset.audio, b);
+      return;
+    }
+    if (b.dataset.trace !== void 0) {
+      stop();
+      traceIndex = +b.dataset.trace;
+      content.querySelectorAll("[data-trace]").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+      drawTrace();
+      return;
+    }
+    if (b.classList.contains("k2-trace-play")) {
+      const v = $(".k2-animation");
+      stop();
+      v.currentTime = 0;
+      v.play().catch(() => status.textContent = "الحركة ما حمّلتش. تأكد من الاتصال واضغط تاني.");
+      return;
+    }
+    if (b.classList.contains("k2-clear")) {
+      const c = $("#k2-canvas");
+      c.getContext("2d").clearRect(0, 0, 500, 600);
+      delete c.dataset.drawn;
+      return;
+    }
+    if (b.dataset.kite) {
+      const item = data.hunt.find((x) => x.id === b.dataset.kite);
+      speak("en-word-kite", b);
+      if (item.is_target) {
+        found.add(item.id);
+        b.classList.add("is-found");
+        b.setAttribute("aria-pressed", "true");
+        b.querySelector(".k2-found").textContent = "✓";
+        $("#k2-hunt-count").textContent = found.size === 6 ? "لقينا الست طائرات! نقدر نلعب تاني." : `لقينا ${found.size} من 6`;
+      }
+      return;
+    }
+    if (b.classList.contains("k2-reset")) {
+      found.clear();
+      content.querySelectorAll("[data-kite]").forEach((x) => {
+        x.classList.remove("is-found");
+        x.setAttribute("aria-pressed", "false");
+        x.querySelector(".k2-found").textContent = "";
+      });
+      $("#k2-hunt-count").textContent = "لقينا 0 من 6";
+    }
+  });
+  $("#k2-prev").addEventListener("click", () => {
+    if (index > 0) {
+      index--;
+      render();
+    }
+  });
+  $("#k2-next").addEventListener("click", () => {
+    if (index < data.activities.length - 1) {
+      index++;
+      render();
+    }
+  });
+  $("#k2-picker").addEventListener("change", (e) => {
+    index = +e.target.value;
+    render();
+  });
+  window.addEventListener("hashchange", () => {
+    if (!data) return;
+    const n = data.activities.findIndex((a) => "#" + a.id === location.hash);
+    if (n >= 0 && n !== index) {
+      index = n;
+      render();
+    }
+  });
+  window.addEventListener("pagehide", stop);
+  fetch("kg2-u1.json?v=20261122-story1").then((r) => {
+    if (!r.ok) throw Error("Data unavailable");
+    return r.json();
+  }).then((d) => {
+    data = d;
+    const unit = new URLSearchParams(location.search).get("unit");
+    if (unit && unit !== d.unit.id) {
+      $("#k2-title").textContent = "الجزء ده لسه قريبًا";
+      content.innerHTML = "<p>المتاح هنا جزء من الوحدة الأولى بس. ارجع لخريطة KG2 علشان تختار الجزء المتاح.</p>";
+      $(".k2-nav").hidden = true;
+      $("#k2-picker").hidden = true;
+      return;
+    }
+    $("#k2-picker").innerHTML = d.activities.map((a, i) => `<option value="${i}">${i + 1} · ${escape(a.title_ar)}</option>`).join("");
+    const h = d.activities.findIndex((a) => "#" + a.id === location.hash);
+    if (h >= 0) index = h;
+    render();
+  }).catch(() => {
+    $("#k2-title").textContent = "النشاط ما حمّلش";
+    content.innerHTML = "<p>اتأكد من الاتصال وحدّث الصفحة. باقي الموقع شغّال من روابط التنقل فوق.</p>";
+  });
 })();

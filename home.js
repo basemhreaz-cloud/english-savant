@@ -1,128 +1,587 @@
-/* WebView 83: keep standalone scripts safe before native replaceChildren support. */
-(function(){if(typeof Element!=='undefined'&&!Element.prototype.replaceChildren){Object.defineProperty(Element.prototype,'replaceChildren',{configurable:true,writable:true,value:function(){var fragment=this.ownerDocument.createDocumentFragment();for(var i=0;i<arguments.length;i++)fragment.append(arguments[i]);while(this.firstChild)this.removeChild(this.firstChild);this.appendChild(fragment);}});}})();
-'use strict';
-const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
-const store={get(k,f){try{return JSON.parse(localStorage.getItem(k))??f}catch{return f}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v));return true}catch{return false}}};
-function toast(t){const e=$('.toast');e.textContent=t;e.classList.add('show');clearTimeout(window.toastTimer);window.toastTimer=setTimeout(()=>e.classList.remove('show'),4000)}
-const theme=store.get('es-theme','light');document.body.classList.toggle('dark',theme==='dark');$('.theme')?.addEventListener('click',()=>{document.body.classList.toggle('dark');store.set('es-theme',document.body.classList.contains('dark')?'dark':'light')});
-$('.menu-toggle')?.addEventListener('click',e=>{const open=$('#nav').classList.toggle('open');e.currentTarget.setAttribute('aria-expanded',String(open));e.currentTarget.setAttribute('aria-label',open?'إغلاق القائمة':'فتح القائمة')});
-$$('[data-filter]').forEach(b=>b.addEventListener('click',()=>{$$('[data-filter]').forEach(x=>x.classList.toggle('active',x===b));$$('[data-stage]').forEach(x=>x.hidden=b.dataset.filter!=='all'&&x.dataset.stage!==b.dataset.filter)}));
-function speak(text,lang='en-GB'){if(!('speechSynthesis'in window)){toast('النطق غير متاح في هذا المتصفح.');return}speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang=lang;u.rate=.85;u.onerror=()=>toast('تعذّر تشغيل الصوت على هذا الجهاز.');speechSynthesis.speak(u)}
-const lessons={present:{title:'المضارع البسيط · Present Simple',rule:'نستخدمه للعادات والحقائق. مع I / you / we / they نستخدم الفعل في صورته الأساسية. مع he / she / it نضيف غالبًا s أو es.',example:'I play football every Friday.\nShe plays football every Friday.',note:'في النفي نستخدم do not أو does not، وبعد does not يرجع الفعل لصورته الأساسية: She does not play. جرّب تكتب جملة عن عادة يومية.'},past:{title:'الماضي البسيط · Past Simple',rule:'نستخدمه لفعل انتهى في الماضي. الأفعال المنتظمة تأخذ غالبًا ed، وفيه أفعال غير منتظمة نحفظ صورتها مثل go → went.',example:'I visited my friend yesterday.\nWe went to school last Sunday.',note:'بعد did أو did not نستخدم الفعل الأساسي: Did you visit? / I did not go. جرّب تحكي عن حاجة عملتها امبارح.'},articles:{title:'أدوات التعريف · a / an / the',rule:'نستخدم a أو an قبل الاسم المفرد المعدود غير المحدد. الاختيار يعتمد على الصوت: a قبل صوت ساكن، وan قبل صوت متحرك. نستخدم the لما يكون الاسم محددًا أو معروفًا.',example:'a book · an apple · an hour\nI have a book. The book is interesting.',note:'لاحظ an hour لأن h لا تُنطق، وa university لأن البداية صوت /y/. جرّب تختار الأداة لكلمة orange.'},plural:{title:'المفرد والجمع · Singular & Plural',rule:'أغلب الأسماء تجمع بإضافة s، وبعض النهايات مثل ch وsh تأخذ es. توجد صيغ غير منتظمة مثل child → children.',example:'book → books\nbox → boxes\nchild → children',note:'لو الاسم ينتهي بحرف ساكن ثم y، غالبًا تتغير y إلى ies: baby → babies. لكن boy → boys. جرّب تجمع كلمة city.'}};
-let currentLesson='';
-$$('.lesson').forEach(b=>b.addEventListener('click',()=>{const l=lessons[b.dataset.lesson];currentLesson=l.title+'. '+l.rule+' '+l.note;const out=$('#lesson-output');out.replaceChildren();const h=document.createElement('h2');h.textContent=l.title;const p=document.createElement('p');p.textContent=l.rule;const ex=document.createElement('div');ex.className='example';ex.style.whiteSpace='pre-line';ex.textContent=l.example;const note=document.createElement('p');note.textContent=l.note;out.append(h,p,ex,note);$$('.lesson').forEach(x=>x.classList.toggle('active',x===b))}));
-$('#read-lesson')?.addEventListener('click',()=>currentLesson?speak(currentLesson,'ar-EG'):toast('اختار درسًا أولًا.'));
-$('#reset-lesson')?.addEventListener('click',()=>{if('speechSynthesis'in window)speechSynthesis.cancel();location.reload()});
-const phrases=[['Good morning.','صباح الخير.','تُقال للتحية في الصباح.'],['How are you?','كيف حالك؟','سؤال عن الحال. الرد مثل: I am fine, thank you.'],['My name is Basem.','اسمي باسم.','استخدم My name is ثم اسمك لتقديم نفسك.'],['I am learning English.','أنا أتعلّم الإنجليزية.','المضارع المستمر يصف نشاطًا جاريًا في هذه الفترة.'],['Could you help me, please?','هل يمكنك مساعدتي من فضلك؟','صيغة مهذّبة لطلب المساعدة.'],['Thank you very much.','شكرًا جزيلًا لك.','للتعبير عن الامتنان.'],['Where is the school?','أين المدرسة؟','Where للسؤال عن المكان.'],['I do not understand.','أنا لا أفهم.','يمكنك بعدها طلب التوضيح: Could you explain, please?'],['Please speak slowly.','من فضلك تكلّم ببطء.','طلب مهذّب يساعدك أثناء التعلّم.'],['See you tomorrow.','أراك غدًا.','عبارة وداع عندما تتوقّع مقابلة الشخص في اليوم التالي.']];
-function fillPhrases(){const select=$('#phrase-select');if(!select)return;const reverse=$('#translation-direction').value==='ar';select.replaceChildren();phrases.forEach((p,i)=>{const o=document.createElement('option');o.value=i;o.textContent=p[reverse?1:0];select.append(o)});showPhrase()}
-function showPhrase(){const p=phrases[Number($('#phrase-select').value)],reverse=$('#translation-direction').value==='ar',out=$('#translation-output');out.replaceChildren();const ex=document.createElement('div');ex.className='example';ex.dir=reverse?'rtl':'ltr';ex.style.textAlign=reverse?'right':'left';ex.textContent=p[reverse?1:0];const h=document.createElement('h2');h.textContent=p[reverse?0:1];h.dir=reverse?'ltr':'rtl';const note=document.createElement('p');note.textContent=p[2];out.append(ex,h,note)}
-if($('#phrase-select')){fillPhrases();$('#translation-direction').addEventListener('change',fillPhrases);$('#phrase-select').addEventListener('change',showPhrase);$('#speak-translation').addEventListener('click',()=>speak(phrases[Number($('#phrase-select').value)][0]));$('#copy-translation').addEventListener('click',async()=>{const p=phrases[Number($('#phrase-select').value)];try{await navigator.clipboard.writeText(p[0]+'\n'+p[1]);toast('تم نسخ العبارة ومعناها.')}catch{toast('النسخ غير متاح. تقدر تحدد النص وتنسخه يدويًا.')}})}
-// A small, original practice bank. No AI calls, no claims of curriculum accreditation.
-const bank=[];
-function add(level,topic,q,answer,wrong,explain){bank.push({level,topic,q,answer,wrong,explain})}
-const rows={
-foundation:[
-['grammar','I ___ happy.','am',['is','are'],'مع I نستخدم am.'],['grammar','She ___ a teacher.','is',['am','are'],'مع she نستخدم is.'],['grammar','They ___ friends.','are',['is','am'],'مع they نستخدم are.'],['grammar','This is ___ apple.','an',['a','two'],'apple تبدأ بصوت متحرك، فنستخدم an.'],['grammar','I have two ___.','cats',['cat','a cat'],'بعد two نستخدم جمع الاسم: cats.'],['grammar','He ___ a boy.','is',['are','am'],'مع he نستخدم is.'],
-['vocabulary','The colour of grass is ___.','green',['red','blue'],'العشب غالبًا لونه أخضر: green.'],['vocabulary','A cat says ___.','meow',['woof','moo'],'صوت القطة: meow.'],['vocabulary','One, two, ___.','three',['five','four'],'العدد الذي يلي two هو three.'],['vocabulary','We see with our ___.','eyes',['ears','feet'],'نرى بأعيننا: eyes.'],['vocabulary','The opposite of big is ___.','small',['long','tall'],'عكس big هو small.'],['vocabulary','We write with a ___.','pen',['shoe','cup'],'نكتب بالقلم: pen.']],
-primary:[
-['grammar','She ___ to school every day.','goes',['go','going'],'في المضارع البسيط مع she، نستخدم goes.'],['grammar','They ___ football now.','are playing',['play','plays'],'now تدل على حدث جارٍ: are + verb-ing.'],['grammar','I ___ my homework yesterday.','did',['do','does'],'yesterday للماضي، وماضي do هو did.'],['grammar','There ___ two books on the desk.','are',['is','am'],'two books جمع، فنستخدم are.'],['grammar','He does not ___ coffee.','like',['likes','liking'],'بعد does not نستخدم الفعل الأساسي.'],['grammar','This is ___ orange.','an',['a','two'],'orange تبدأ بصوت متحرك، لذلك نستخدم an.'],
-['vocabulary','A doctor works in a ___.','hospital',['school','bakery'],'الطبيب يعمل في مستشفى: hospital.'],['vocabulary','The opposite of early is ___.','late',['fast','short'],'عكس early هو late.'],['vocabulary','We borrow books from a ___.','library',['kitchen','bank'],'نستعير الكتب من المكتبة: library.'],['vocabulary','A person who teaches is a ___.','teacher',['farmer','driver'],'من يعلّم الطلاب هو teacher.'],['vocabulary','Monday comes after ___.','Sunday',['Tuesday','Friday'],'في ترتيب أيام الأسبوع، Monday يلي Sunday.'],['vocabulary','We eat breakfast in the ___.','morning',['evening','night'],'breakfast هي وجبة الإفطار في الصباح.']],
-prep:[
-['grammar','If I study hard, I ___ the exam.','will pass',['passed','would pass'],'الشرط الأول: If + present simple ثم will + فعل أساسي.'],['grammar','English ___ in many countries.','is spoken',['speaks','is speaking'],'مبني للمجهول في المضارع: is + past participle.'],['grammar','She has lived here ___ 2020.','since',['for','during'],'since مع نقطة بداية، وfor مع مدة زمنية.'],['grammar','He is interested in ___ books.','reading',['read','reads'],'بعد حرف الجر in نستخدم اسمًا أو verb-ing.'],['grammar','This is the boy ___ won the prize.','who',['which','where'],'who ضمير وصل يشير إلى شخص.'],['grammar','By the time I arrived, the film ___.','had started',['starts','has started'],'حدث بدأ قبل حدث آخر في الماضي: past perfect.'],
-['vocabulary','A person who never gives up is ___.','determined',['careless','lazy'],'determined تعني مصمّمًا على تحقيق هدفه.'],['vocabulary','The word ancient means ___.','very old',['very new','very fast'],'ancient تعني قديمًا جدًا أو عتيقًا.'],['vocabulary','We should ___ the environment.','protect',['destroy','waste'],'protect تعني يحمي، وهي المناسبة هنا.'],['vocabulary','The opposite of generous is ___.','mean',['kind','helpful'],'mean هنا تعني بخيلًا، عكس generous.'],['vocabulary','A synonym of happy is ___.','glad',['sad','angry'],'glad وhappy متقاربتان في المعنى.'],['vocabulary','To improve means to become ___.','better',['worse','smaller'],'improve تعني يتحسّن أو يصبح أفضل.']],
-adult:[
-['grammar','My name ___ Ali.','is',['are','am'],'مع المفرد my name نستخدم is.'],['grammar','I ___ from Egypt.','am',['is','are'],'نستخدم I am للتعريف بأنفسنا.'],['grammar','___ you speak English?','Do',['Does','Is'],'السؤال في المضارع البسيط مع you يبدأ بـ Do.'],['grammar','I would like ___ water, please.','some',['a','an'],'water غير معدود، وsome مناسبة لطلب كمية منه.'],['grammar','She ___ in Cairo.','lives',['live','living'],'مع she في المضارع البسيط نضيف s للفعل.'],['grammar','We ___ at work yesterday.','were',['are','was'],'ماضي be مع we هو were.'],
-['vocabulary','We say ___ when someone helps us.','thank you',['goodbye','good night'],'نستخدم thank you لشكر من يساعدنا.'],['vocabulary','The opposite of expensive is ___.','cheap',['large','new'],'cheap عكس expensive من حيث السعر.'],['vocabulary','A place to buy medicine is a ___.','pharmacy',['library','station'],'نشتري الدواء من pharmacy، أي صيدلية.'],['vocabulary','The meal in the morning is ___.','breakfast',['dinner','lunch'],'breakfast تعني الإفطار.'],['vocabulary','To ask the price, say: How ___ is it?','much',['many','long'],'How much للسؤال عن السعر.'],['vocabulary','You show your ___ at the airport.','passport',['menu','receipt'],'passport هو جواز السفر.']]};
-Object.entries(rows).forEach(([level,rs])=>rs.forEach(r=>add(level,...r)));
-function shuffle(a){a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
-function norm(s){return String(s).toLowerCase().replace(/[.,!?؟،]/g,'').trim().replace(/\s+/g,' ')}
-let active=[],deadline=0,tick=null,graded=false,currentLevel='';
-function el(tag,text,cls){const x=document.createElement(tag);if(text!==undefined)x.textContent=text;if(cls)x.className=cls;return x}
-$('#exam-form')?.addEventListener('submit',e=>{e.preventDefault();clearInterval(tick);graded=false;currentLevel=$('#exam-level').value;const topic=$('#exam-topic').value,type=$('#exam-type').value;const source=shuffle(bank.filter(x=>x.level===currentLevel&&(topic==='mixed'||x.topic===topic))).slice(0,Number($('#exam-count').value));active=source.map((q,i)=>{const t=type==='mixed'?['mcq','tf','complete','correct'][i%4]:type;let question=q.q,answer=q.answer,options=shuffle([q.answer,...q.wrong]);if(t==='tf'){const truth=Math.random()>.5;question=q.q.replace('___',truth?q.answer:q.wrong[0]);answer=truth?'True':'False';options=['True','False']}if(t==='correct'){question='Correct the sentence: '+q.q.replace('___',q.wrong[0]);answer=q.q.replace('___',q.answer)}return{...q,type:t,question,answer,options}});const container=$('#questions');container.replaceChildren();active.forEach((q,i)=>{const f=el('fieldset',undefined,'question'),legend=el('legend',`السؤال ${i+1} من ${active.length}`),p=el('p',q.question,'question-text');f.append(legend,p);if(q.type==='mcq'||q.type==='tf'){const opts=el('div',undefined,'options');q.options.forEach((o,j)=>{const l=el('label'),input=el('input');input.type='radio';input.name='q'+i;input.value=o;input.id=`q${i}-${j}`;l.append(input,el('span',o));opts.append(l)});f.append(opts)}else{const input=el('input');input.type='text';input.name='q'+i;input.autocomplete='off';input.spellcheck=false;input.setAttribute('aria-label',`إجابة السؤال ${i+1}`);input.placeholder=q.type==='correct'?'Write the correct full sentence':'Write the missing word';f.append(input)}container.append(f)});$('#exam-active').hidden=false;$('#exam-result').hidden=true;$('#exam-setup').hidden=true;const mins=Number($('#exam-timer').value);deadline=mins?Date.now()+mins*60000:0;const timer=$('#timer');timer.textContent=mins?'':'بدون مؤقّت';if(mins){const update=()=>{const secs=Math.max(0,Math.ceil((deadline-Date.now())/1000));timer.textContent=Math.floor(secs/60)+':'+String(secs%60).padStart(2,'0');if(!secs)grade(true)};update();tick=setInterval(update,1000)}$('#exam-active').scrollIntoView({block:'start'})});
-$('#answers-form')?.addEventListener('submit',e=>{e.preventDefault();grade(false)});
-function grade(timed){if(graded)return;const form=$('#answers-form'),data=new FormData(form);const missing=active.findIndex((q,i)=>!String(data.get('q'+i)||'').trim());if(missing>=0&&!timed&&!confirm('فيه أسئلة لسه من غير إجابة. تصحّح دلوقتي؟'))return;graded=true;clearInterval(tick);const checks=active.map((q,i)=>({q,value:String(data.get('q'+i)||''),correct:norm(data.get('q'+i)||'')===norm(q.answer)}));const score=checks.filter(x=>x.correct).length,percent=Math.round(score/active.length*100),out=$('#exam-result');out.replaceChildren();out.append(el('span','نتيجة التدريب','eyebrow'),el('h2',timed?'انتهى الوقت. خلّينا نراجع.':'المحاولة خلصت. التعلّم لسه مكمل.'),el('div',`${score} / ${active.length}`,'score'),el('p',`${percent}% · ${percent>=80?'بداية قوية. راجع أسباب الإجابات عشان تثبّت الفهم.':'كل خطأ فرصة للفهم. راجع الشرح وجرّب مرة تانية.'}`));checks.forEach(({q,value,correct},i)=>{const d=el('div',undefined,'review-item');d.append(el('span',`${i+1} · ${correct?'إجابة صحيحة ✓':'نراجعها سوا'}`,'badge'),el('b',q.question),el('p','إجابتك: '+(value||'لم تجب'),'answer-value'),el('p','Correct answer: '+q.answer,'answer-value'),el('p',q.explain));out.append(d)});const actions=el('div',undefined,'actions'),retry=el('button','تدريب جديد ↖','button');retry.type='button';retry.addEventListener('click',()=>{$('#exam-setup').hidden=false;$('#exam-active').hidden=true;out.hidden=true;$('#exam-setup').scrollIntoView()});const results=el('a','سجل تدريباتي','button secondary');results.href='results.html';actions.append(retry,results);out.append(actions);out.hidden=false;$('#exam-active').hidden=true;const history=store.get('es-history',[]);history.unshift({at:new Date().toISOString(),score,total:active.length,level:currentLevel});if(!store.set('es-history',history.slice(0,20)))toast('نتيجتك ظاهرة الآن، لكن الحفظ المحلي غير متاح.');out.scrollIntoView({block:'start'})}
-function history(){const out=$('#history');if(!out)return;const data=store.get('es-history',[]);out.replaceChildren();if(!data.length){out.append(el('p','لسه مفيش محاولات محفوظة. ابدأ أول تدريب.'));const a=el('a','ابدأ التدريب ↖','text-link');a.href='exam-generator.html';out.append(a);return}data.forEach(r=>{const d=el('div',undefined,'history-row');d.append(el('span',new Date(r.at).toLocaleDateString('ar-EG')),el('b',`${r.score} / ${r.total}`));out.append(d)})}history();$('#clear-history')?.addEventListener('click',()=>{if(confirm('تمسح سجل التدريبات من هذا المتصفح؟')){store.set('es-history',[]);history();toast('تم مسح سجل التدريب.')}});
-
-(() => {
-  const header = document.querySelector('.header');
-  if (!header) return;
-  const labels = {"index.html": "الرئيسية", "learn.html": "ابدأ التعلّم", "grades.html": "مناهج مصر", "saudi.html": "مناهج السعودية", "adults.html": "اتعلم بنفسك", "booklets.html": "الكتب والمراجعات", "tools.html": "الأدوات"};
-  const page = location.pathname.split('/').pop() || 'index.html';
-  const label = labels[page] || document.title.split(' | ')[0];
-  const slot = document.createElement('div'); slot.className = 'header-slot';
-  header.before(slot); slot.append(header);
-  const toggle = document.createElement('button');
-  toggle.type = 'button'; toggle.className = 'island-toggle';
-  toggle.setAttribute('aria-controls','island-panel'); toggle.setAttribute('aria-expanded','false');
-  const mark = document.createElement('span'); mark.className = 'island-mark'; mark.textContent = '✦'; mark.setAttribute('aria-hidden','true');
-  const caption = document.createElement('span'); caption.textContent = label;
-  const menu = document.createElement('span'); menu.textContent = '☰'; menu.setAttribute('aria-hidden','true');
-  toggle.append(mark,caption,menu); header.append(toggle);
-  const panel = document.createElement('nav'); panel.id = 'island-panel'; panel.className = 'island-panel'; panel.setAttribute('aria-label','وصول سريع'); panel.hidden = true;
-  Object.entries(labels).filter(([file])=>!['404.html','privacy.html'].includes(file)).forEach(([file,text])=>{const a=document.createElement('a');a.href=file;a.textContent=text;if(file===page)a.setAttribute('aria-current','page');panel.append(a)});
-  const top = document.createElement('button');top.type='button';top.textContent='العودة للأعلى ↑';top.addEventListener('click',()=>{close();window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'})});panel.append(top);header.append(panel);
-  const progress = document.createElement('div');progress.className='reading-progress';progress.setAttribute('aria-hidden','true');header.append(progress);
-  let open=false,scheduled=false;
-  const setOpen = value => {open=value;header.classList.toggle('island-open',open);toggle.setAttribute('aria-expanded',String(open));toggle.setAttribute('aria-label',`${open?'إغلاق':'فتح'} التنقل السريع: ${label}`);panel.hidden=!open};
-  const close = () => setOpen(false);
-  toggle.addEventListener('click',()=>setOpen(!open));
-  panel.addEventListener('click',e=>{if(e.target.closest('a'))close()});
-  document.addEventListener('click',e=>{if(open&&!header.contains(e.target))close()});
-  document.addEventListener('keydown',e=>{if(e.key==='Escape'&&open){close();toggle.focus()}});
-  function update(){scheduled=false;header.classList.toggle('island-compact',scrollY>100);const max=document.documentElement.scrollHeight-innerHeight;progress.style.transform=`scaleX(${max>0?Math.max(0,Math.min(1,scrollY/max)):0})`;if(scrollY<20&&open)close()}
-  window.addEventListener('scroll',()=>{if(!scheduled){scheduled=true;requestAnimationFrame(update)}},{passive:true});
-  close();update();
-  if(page!=='index.html'&&page!=='404.html'){
-    const crumb=document.createElement('nav');crumb.className='breadcrumbs wrap';crumb.setAttribute('aria-label','مسار الصفحة');const a=document.createElement('a');a.href='index.html';a.textContent='الرئيسية';crumb.append(a);const add=(href,text)=>{const sep=document.createElement('span');sep.textContent=' / ';const link=document.createElement('a');link.href=href;link.textContent=text;crumb.append(sep,link)};const gradeNames={"m3": "الصف التالت الإعدادي", "p2": "الصف التاني الابتدائي", "sa-g1": "الصف الأول الابتدائي — المنهج السعودي (We Can 1)", "p5": "الصف الخامس الابتدائي", "p3": "الصف التالت الابتدائي", "m1": "الصف الأول الإعدادي", "p4": "الصف الرابع الابتدائي", "p1": "الصف الأول الابتدائي", "m2": "الصف التاني الإعدادي", "p6": "الصف السادس الابتدائي"};let match=page.match(/(?:unit|explain|assess)-sa-g(\d+)/);if(match){add('saudi.html','مناهج السعودية');add('sa-g'+match[1]+'.html',gradeNames['sa-g'+match[1]]||('الصف '+match[1]))}else if(/^sa-g\d+/.test(page)){add('saudi.html','مناهج السعودية')}else{match=page.match(/(?:unit|explain|assess)-([pm]\d)-/);if(match){add('grades.html','مناهج مصر');add('grade-'+match[1]+'.html',gradeNames[match[1]]||'صفحة الصف')}else if(/^grade-[pm]\d/.test(page)){add('grades.html','مناهج مصر')}}const s=document.createElement('span');s.textContent=' / '+label;crumb.append(s);document.querySelector('main')?.prepend(crumb);
-  }
-  if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&matchMedia('(hover: hover)').matches){
-    document.querySelectorAll('.glass').forEach(el=>{el.addEventListener('pointermove',e=>{const r=el.getBoundingClientRect();el.style.setProperty('--shine-x',`${(e.clientX-r.left)/r.width*100}%`);el.style.setProperty('--shine-y',`${(e.clientY-r.top)/r.height*100}%`)},{passive:true})});
+/* Small WebView 66 API fallbacks, loaded before this script uses them. */
+(function(){if(!Array.prototype.flatMap)Object.defineProperty(Array.prototype,'flatMap',{configurable:true,writable:true,value:function(fn,ctx){return this.reduce(function(out,v,i,a){return out.concat(fn.call(ctx,v,i,a))},[])}});if(!String.prototype.matchAll)Object.defineProperty(String.prototype,'matchAll',{configurable:true,writable:true,value:function(p){var f=p.flags||'';if(f.indexOf('g')<0)f+='g';var r=new RegExp(p.source,f),a=[],m;while((m=r.exec(String(this)))){a.push(m);if(!m[0])r.lastIndex++}return a}});if(typeof Element!=='undefined'&&!Element.prototype.replaceChildren)Object.defineProperty(Element.prototype,'replaceChildren',{configurable:true,writable:true,value:function(){while(this.firstChild)this.removeChild(this.firstChild);for(var i=0;i<arguments.length;i++)this.append(arguments[i])}})})();
+var _a, _b, _c, _d, _e, _f, _g;
+(function() {
+  if (typeof Element !== "undefined" && !Element.prototype.replaceChildren) {
+    Object.defineProperty(Element.prototype, "replaceChildren", { configurable: true, writable: true, value: function() {
+      var fragment = this.ownerDocument.createDocumentFragment();
+      for (var i = 0; i < arguments.length; i++) fragment.append(arguments[i]);
+      while (this.firstChild) this.removeChild(this.firstChild);
+      this.appendChild(fragment);
+    } });
   }
 })();
-
-(() => {
- const roots=[...document.querySelectorAll('[data-honor-board]')];if(!roots.length)return;
- const norm=s=>String(s||'').replace(/[أإآ]/g,'ا').replace(/ة/g,'ه').replace(/ى/g,'ي').replace(/ڤ/g,'ف').replace(/[\u064B-\u065F\u0670ـ]/g,'').replace(/[^\u0621-\u064A\s]/g,' ').replace(/\s+/g,' ').trim();
- const common=new Set(['يوسف','محمد','معاذ','سارة','احمد','جنى','نور','اسماء'].map(norm));
- const stop=new Set(['درجة','درجه','درجتي','نتيجة','نتيجه','نتيجتي','الطالب','الطالبة','الطالبه','هو','هي','كام','كم','لو','سمحت','ممكن','عايز','عايزه','عاوز','اعرف','من','فضلك','اسم','اسمي','الاسم','السلام','عليكم','ورحمه','الله','وبركاته','انا','ما','هيه','ايه','اي','ابحث','عن','قولي','قول','لى','لي','ارجوك','بس','بكام','عايزة'].map(norm));
- const node=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!==undefined)e.textContent=text;return e};
- const contains=(a,b)=>(' '+a+' ').includes(' '+b+' ');
- fetch('honor-board.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(data=>{
-  const rows=Array.isArray(data.entries)?data.entries.filter(e=>e&&typeof e.displayName==='string'&&e.displayName.trim()&&typeof e.exam==='string'&&typeof e.stage==='string'&&Number.isFinite(e.score)&&Number.isFinite(e.total)&&e.total>0&&e.score>=0&&e.score<=e.total).slice(0,300):[];
-  roots.forEach(root=>{
-   const preview=['preview','top3'].includes(root.dataset.honorBoard);const list=root.querySelector('[data-honor-list]');const status=root.querySelector('[data-honor-status]');const input=root.querySelector('[data-honor-search]');const select=root.querySelector('[data-honor-stage]');
-   if(select)[...new Set(rows.map(e=>e.stage))].forEach(stage=>{const o=node('option','',stage);o.value=stage;select.append(o)});
-   function render(){
-    list.replaceChildren();
-    if(preview){
-     const stages=[...new Set(rows.map(e=>e.stage))];const top3=root.dataset.honorBoard==='top3';status.textContent=rows.length?(top3?'أعلى 3 طلاب في كل صف، ومعاهم أي حد متعادل عند درجة الطالب التالت.':'أعلى نتيجة في كل صف. ولو فيه تعادل، الأسماء بتظهر سوا.'):'لوحة الشرف جاهزة. الأسماء بتتضاف بعد اعتمادها.';
-     list.classList.add('honor-stage-list');
-     if(!rows.length){const box=node('div','glass empty-state');box.append(node('span','tool-icon','☆'),node('h3','','النجاح الجاي يستحق مكانه هنا.'));list.append(box)}
-     stages.forEach(stage=>{const group=rows.filter(e=>e.stage===stage);const sorted=[...group].sort((a,b)=>b.score/b.total-a.score/a.total);const cutoff=sorted[Math.min(top3?2:0,sorted.length-1)].score/sorted[Math.min(top3?2:0,sorted.length-1)].total;const top=sorted.filter(e=>e.score/e.total>=cutoff);const card=node('article','glass honor-stage-row');const content=node('div','honor-stage-content');const names=node('div','honor-names');top.forEach(e=>names.append(node('h3','',e.displayName)));content.append(node('p','honor-stage-label',stage),names);card.append(content,node('span','honor-stage-star','☆'));list.append(card)});return;
-    }
-    const raw=norm(input?.value);const tokens=raw.split(' ').filter(t=>t&&!stop.has(t));let term=tokens.join(' ');
-    const stageRows=rows.filter(e=>!select?.value||e.stage===select.value);
-    let reply='اكتب اسمك، واختار الصف لو فيه تشابه أسماء.';
-    if(raw){
-     let matches=stageRows.filter(e=>norm(e.displayName)===term);
-     if(!matches.length&&term)matches=stageRows.filter(e=>contains(norm(e.displayName),term));
-     if(matches.length===1&&!(tokens.length===1&&common.has(term)))reply=`درجة ${matches[0].displayName} هي ${matches[0].score} من ${matches[0].total} ✅`;
-     else if(matches.length>1||tokens.length===1&&common.has(term))reply=tokens.length<3?'ممكن الاسم التاني أو الثلاثي؟':'ممكن تحدد الصف؟';
-     else reply='مش لاقي الاسم ده، ممكن تكتبه أوضح أو تقولي الصف؟';
-    }
-    const box=node('div','glass empty-state lookup-reply');box.append(node('p','honor-score',reply));list.append(box);status.textContent='هتظهر درجة طالب واحد بس، من غير ترتيب أو مقارنة.';
-   }
-   input?.addEventListener('input',render);select?.addEventListener('change',render);render();
+"use strict";
+const $ = (s) => document.querySelector(s), $$ = (s) => [...document.querySelectorAll(s)];
+const store = { get(k, f) {
+  var _a2;
+  try {
+    return (_a2 = JSON.parse(localStorage.getItem(k))) != null ? _a2 : f;
+  } catch {
+    return f;
+  }
+}, set(k, v) {
+  try {
+    localStorage.setItem(k, JSON.stringify(v));
+    return true;
+  } catch {
+    return false;
+  }
+} };
+function toast(t) {
+  const e = $(".toast");
+  e.textContent = t;
+  e.classList.add("show");
+  clearTimeout(window.toastTimer);
+  window.toastTimer = setTimeout(() => e.classList.remove("show"), 4e3);
+}
+const theme = store.get("es-theme", "light");
+document.body.classList.toggle("dark", theme === "dark");
+(_a = $(".theme")) == null ? void 0 : _a.addEventListener("click", () => {
+  document.body.classList.toggle("dark");
+  store.set("es-theme", document.body.classList.contains("dark") ? "dark" : "light");
+});
+(_b = $(".menu-toggle")) == null ? void 0 : _b.addEventListener("click", (e) => {
+  const open = $("#nav").classList.toggle("open");
+  e.currentTarget.setAttribute("aria-expanded", String(open));
+  e.currentTarget.setAttribute("aria-label", open ? "إغلاق القائمة" : "فتح القائمة");
+});
+$$("[data-filter]").forEach((b) => b.addEventListener("click", () => {
+  $$("[data-filter]").forEach((x) => x.classList.toggle("active", x === b));
+  $$("[data-stage]").forEach((x) => x.hidden = b.dataset.filter !== "all" && x.dataset.stage !== b.dataset.filter);
+}));
+function speak(text, lang = "en-GB") {
+  if (!("speechSynthesis" in window)) {
+    toast("النطق غير متاح في هذا المتصفح.");
+    return;
+  }
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = lang;
+  u.rate = 0.85;
+  u.onerror = () => toast("تعذّر تشغيل الصوت على هذا الجهاز.");
+  speechSynthesis.speak(u);
+}
+const lessons = { present: { title: "المضارع البسيط · Present Simple", rule: "نستخدمه للعادات والحقائق. مع I / you / we / they نستخدم الفعل في صورته الأساسية. مع he / she / it نضيف غالبًا s أو es.", example: "I play football every Friday.\nShe plays football every Friday.", note: "في النفي نستخدم do not أو does not، وبعد does not يرجع الفعل لصورته الأساسية: She does not play. جرّب تكتب جملة عن عادة يومية." }, past: { title: "الماضي البسيط · Past Simple", rule: "نستخدمه لفعل انتهى في الماضي. الأفعال المنتظمة تأخذ غالبًا ed، وفيه أفعال غير منتظمة نحفظ صورتها مثل go → went.", example: "I visited my friend yesterday.\nWe went to school last Sunday.", note: "بعد did أو did not نستخدم الفعل الأساسي: Did you visit? / I did not go. جرّب تحكي عن حاجة عملتها امبارح." }, articles: { title: "أدوات التعريف · a / an / the", rule: "نستخدم a أو an قبل الاسم المفرد المعدود غير المحدد. الاختيار يعتمد على الصوت: a قبل صوت ساكن، وan قبل صوت متحرك. نستخدم the لما يكون الاسم محددًا أو معروفًا.", example: "a book · an apple · an hour\nI have a book. The book is interesting.", note: "لاحظ an hour لأن h لا تُنطق، وa university لأن البداية صوت /y/. جرّب تختار الأداة لكلمة orange." }, plural: { title: "المفرد والجمع · Singular & Plural", rule: "أغلب الأسماء تجمع بإضافة s، وبعض النهايات مثل ch وsh تأخذ es. توجد صيغ غير منتظمة مثل child → children.", example: "book → books\nbox → boxes\nchild → children", note: "لو الاسم ينتهي بحرف ساكن ثم y، غالبًا تتغير y إلى ies: baby → babies. لكن boy → boys. جرّب تجمع كلمة city." } };
+let currentLesson = "";
+$$(".lesson").forEach((b) => b.addEventListener("click", () => {
+  const l = lessons[b.dataset.lesson];
+  currentLesson = l.title + ". " + l.rule + " " + l.note;
+  const out = $("#lesson-output");
+  out.replaceChildren();
+  const h = document.createElement("h2");
+  h.textContent = l.title;
+  const p = document.createElement("p");
+  p.textContent = l.rule;
+  const ex = document.createElement("div");
+  ex.className = "example";
+  ex.style.whiteSpace = "pre-line";
+  ex.textContent = l.example;
+  const note = document.createElement("p");
+  note.textContent = l.note;
+  out.append(h, p, ex, note);
+  $$(".lesson").forEach((x) => x.classList.toggle("active", x === b));
+}));
+(_c = $("#read-lesson")) == null ? void 0 : _c.addEventListener("click", () => currentLesson ? speak(currentLesson, "ar-EG") : toast("اختار درسًا أولًا."));
+(_d = $("#reset-lesson")) == null ? void 0 : _d.addEventListener("click", () => {
+  if ("speechSynthesis" in window) speechSynthesis.cancel();
+  location.reload();
+});
+const phrases = [["Good morning.", "صباح الخير.", "تُقال للتحية في الصباح."], ["How are you?", "كيف حالك؟", "سؤال عن الحال. الرد مثل: I am fine, thank you."], ["My name is Basem.", "اسمي باسم.", "استخدم My name is ثم اسمك لتقديم نفسك."], ["I am learning English.", "أنا أتعلّم الإنجليزية.", "المضارع المستمر يصف نشاطًا جاريًا في هذه الفترة."], ["Could you help me, please?", "هل يمكنك مساعدتي من فضلك؟", "صيغة مهذّبة لطلب المساعدة."], ["Thank you very much.", "شكرًا جزيلًا لك.", "للتعبير عن الامتنان."], ["Where is the school?", "أين المدرسة؟", "Where للسؤال عن المكان."], ["I do not understand.", "أنا لا أفهم.", "يمكنك بعدها طلب التوضيح: Could you explain, please?"], ["Please speak slowly.", "من فضلك تكلّم ببطء.", "طلب مهذّب يساعدك أثناء التعلّم."], ["See you tomorrow.", "أراك غدًا.", "عبارة وداع عندما تتوقّع مقابلة الشخص في اليوم التالي."]];
+function fillPhrases() {
+  const select = $("#phrase-select");
+  if (!select) return;
+  const reverse = $("#translation-direction").value === "ar";
+  select.replaceChildren();
+  phrases.forEach((p, i) => {
+    const o = document.createElement("option");
+    o.value = i;
+    o.textContent = p[reverse ? 1 : 0];
+    select.append(o);
   });
- }).catch(()=>roots.forEach(root=>{root.querySelector('[data-honor-status]').textContent='اللوحة مش راضية تفتح. جرّب تحدّث الصفحة.'}));
+  showPhrase();
+}
+function showPhrase() {
+  const p = phrases[Number($("#phrase-select").value)], reverse = $("#translation-direction").value === "ar", out = $("#translation-output");
+  out.replaceChildren();
+  const ex = document.createElement("div");
+  ex.className = "example";
+  ex.dir = reverse ? "rtl" : "ltr";
+  ex.style.textAlign = reverse ? "right" : "left";
+  ex.textContent = p[reverse ? 1 : 0];
+  const h = document.createElement("h2");
+  h.textContent = p[reverse ? 0 : 1];
+  h.dir = reverse ? "ltr" : "rtl";
+  const note = document.createElement("p");
+  note.textContent = p[2];
+  out.append(ex, h, note);
+}
+if ($("#phrase-select")) {
+  fillPhrases();
+  $("#translation-direction").addEventListener("change", fillPhrases);
+  $("#phrase-select").addEventListener("change", showPhrase);
+  $("#speak-translation").addEventListener("click", () => speak(phrases[Number($("#phrase-select").value)][0]));
+  $("#copy-translation").addEventListener("click", async () => {
+    const p = phrases[Number($("#phrase-select").value)];
+    try {
+      await navigator.clipboard.writeText(p[0] + "\n" + p[1]);
+      toast("تم نسخ العبارة ومعناها.");
+    } catch {
+      toast("النسخ غير متاح. تقدر تحدد النص وتنسخه يدويًا.");
+    }
+  });
+}
+const bank = [];
+function add(level, topic, q, answer, wrong, explain) {
+  bank.push({ level, topic, q, answer, wrong, explain });
+}
+const rows = {
+  foundation: [
+    ["grammar", "I ___ happy.", "am", ["is", "are"], "مع I نستخدم am."],
+    ["grammar", "She ___ a teacher.", "is", ["am", "are"], "مع she نستخدم is."],
+    ["grammar", "They ___ friends.", "are", ["is", "am"], "مع they نستخدم are."],
+    ["grammar", "This is ___ apple.", "an", ["a", "two"], "apple تبدأ بصوت متحرك، فنستخدم an."],
+    ["grammar", "I have two ___.", "cats", ["cat", "a cat"], "بعد two نستخدم جمع الاسم: cats."],
+    ["grammar", "He ___ a boy.", "is", ["are", "am"], "مع he نستخدم is."],
+    ["vocabulary", "The colour of grass is ___.", "green", ["red", "blue"], "العشب غالبًا لونه أخضر: green."],
+    ["vocabulary", "A cat says ___.", "meow", ["woof", "moo"], "صوت القطة: meow."],
+    ["vocabulary", "One, two, ___.", "three", ["five", "four"], "العدد الذي يلي two هو three."],
+    ["vocabulary", "We see with our ___.", "eyes", ["ears", "feet"], "نرى بأعيننا: eyes."],
+    ["vocabulary", "The opposite of big is ___.", "small", ["long", "tall"], "عكس big هو small."],
+    ["vocabulary", "We write with a ___.", "pen", ["shoe", "cup"], "نكتب بالقلم: pen."]
+  ],
+  primary: [
+    ["grammar", "She ___ to school every day.", "goes", ["go", "going"], "في المضارع البسيط مع she، نستخدم goes."],
+    ["grammar", "They ___ football now.", "are playing", ["play", "plays"], "now تدل على حدث جارٍ: are + verb-ing."],
+    ["grammar", "I ___ my homework yesterday.", "did", ["do", "does"], "yesterday للماضي، وماضي do هو did."],
+    ["grammar", "There ___ two books on the desk.", "are", ["is", "am"], "two books جمع، فنستخدم are."],
+    ["grammar", "He does not ___ coffee.", "like", ["likes", "liking"], "بعد does not نستخدم الفعل الأساسي."],
+    ["grammar", "This is ___ orange.", "an", ["a", "two"], "orange تبدأ بصوت متحرك، لذلك نستخدم an."],
+    ["vocabulary", "A doctor works in a ___.", "hospital", ["school", "bakery"], "الطبيب يعمل في مستشفى: hospital."],
+    ["vocabulary", "The opposite of early is ___.", "late", ["fast", "short"], "عكس early هو late."],
+    ["vocabulary", "We borrow books from a ___.", "library", ["kitchen", "bank"], "نستعير الكتب من المكتبة: library."],
+    ["vocabulary", "A person who teaches is a ___.", "teacher", ["farmer", "driver"], "من يعلّم الطلاب هو teacher."],
+    ["vocabulary", "Monday comes after ___.", "Sunday", ["Tuesday", "Friday"], "في ترتيب أيام الأسبوع، Monday يلي Sunday."],
+    ["vocabulary", "We eat breakfast in the ___.", "morning", ["evening", "night"], "breakfast هي وجبة الإفطار في الصباح."]
+  ],
+  prep: [
+    ["grammar", "If I study hard, I ___ the exam.", "will pass", ["passed", "would pass"], "الشرط الأول: If + present simple ثم will + فعل أساسي."],
+    ["grammar", "English ___ in many countries.", "is spoken", ["speaks", "is speaking"], "مبني للمجهول في المضارع: is + past participle."],
+    ["grammar", "She has lived here ___ 2020.", "since", ["for", "during"], "since مع نقطة بداية، وfor مع مدة زمنية."],
+    ["grammar", "He is interested in ___ books.", "reading", ["read", "reads"], "بعد حرف الجر in نستخدم اسمًا أو verb-ing."],
+    ["grammar", "This is the boy ___ won the prize.", "who", ["which", "where"], "who ضمير وصل يشير إلى شخص."],
+    ["grammar", "By the time I arrived, the film ___.", "had started", ["starts", "has started"], "حدث بدأ قبل حدث آخر في الماضي: past perfect."],
+    ["vocabulary", "A person who never gives up is ___.", "determined", ["careless", "lazy"], "determined تعني مصمّمًا على تحقيق هدفه."],
+    ["vocabulary", "The word ancient means ___.", "very old", ["very new", "very fast"], "ancient تعني قديمًا جدًا أو عتيقًا."],
+    ["vocabulary", "We should ___ the environment.", "protect", ["destroy", "waste"], "protect تعني يحمي، وهي المناسبة هنا."],
+    ["vocabulary", "The opposite of generous is ___.", "mean", ["kind", "helpful"], "mean هنا تعني بخيلًا، عكس generous."],
+    ["vocabulary", "A synonym of happy is ___.", "glad", ["sad", "angry"], "glad وhappy متقاربتان في المعنى."],
+    ["vocabulary", "To improve means to become ___.", "better", ["worse", "smaller"], "improve تعني يتحسّن أو يصبح أفضل."]
+  ],
+  adult: [
+    ["grammar", "My name ___ Ali.", "is", ["are", "am"], "مع المفرد my name نستخدم is."],
+    ["grammar", "I ___ from Egypt.", "am", ["is", "are"], "نستخدم I am للتعريف بأنفسنا."],
+    ["grammar", "___ you speak English?", "Do", ["Does", "Is"], "السؤال في المضارع البسيط مع you يبدأ بـ Do."],
+    ["grammar", "I would like ___ water, please.", "some", ["a", "an"], "water غير معدود، وsome مناسبة لطلب كمية منه."],
+    ["grammar", "She ___ in Cairo.", "lives", ["live", "living"], "مع she في المضارع البسيط نضيف s للفعل."],
+    ["grammar", "We ___ at work yesterday.", "were", ["are", "was"], "ماضي be مع we هو were."],
+    ["vocabulary", "We say ___ when someone helps us.", "thank you", ["goodbye", "good night"], "نستخدم thank you لشكر من يساعدنا."],
+    ["vocabulary", "The opposite of expensive is ___.", "cheap", ["large", "new"], "cheap عكس expensive من حيث السعر."],
+    ["vocabulary", "A place to buy medicine is a ___.", "pharmacy", ["library", "station"], "نشتري الدواء من pharmacy، أي صيدلية."],
+    ["vocabulary", "The meal in the morning is ___.", "breakfast", ["dinner", "lunch"], "breakfast تعني الإفطار."],
+    ["vocabulary", "To ask the price, say: How ___ is it?", "much", ["many", "long"], "How much للسؤال عن السعر."],
+    ["vocabulary", "You show your ___ at the airport.", "passport", ["menu", "receipt"], "passport هو جواز السفر."]
+  ]
+};
+Object.entries(rows).forEach(([level, rs]) => rs.forEach((r) => add(level, ...r)));
+function shuffle(a) {
+  a = [...a];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+function norm(s) {
+  return String(s).toLowerCase().replace(/[.,!?؟،]/g, "").trim().replace(/\s+/g, " ");
+}
+let active = [], deadline = 0, tick = null, graded = false, currentLevel = "";
+function el(tag, text, cls) {
+  const x = document.createElement(tag);
+  if (text !== void 0) x.textContent = text;
+  if (cls) x.className = cls;
+  return x;
+}
+(_e = $("#exam-form")) == null ? void 0 : _e.addEventListener("submit", (e) => {
+  e.preventDefault();
+  clearInterval(tick);
+  graded = false;
+  currentLevel = $("#exam-level").value;
+  const topic = $("#exam-topic").value, type = $("#exam-type").value;
+  const source = shuffle(bank.filter((x) => x.level === currentLevel && (topic === "mixed" || x.topic === topic))).slice(0, Number($("#exam-count").value));
+  active = source.map((q, i) => {
+    const t = type === "mixed" ? ["mcq", "tf", "complete", "correct"][i % 4] : type;
+    let question = q.q, answer = q.answer, options = shuffle([q.answer, ...q.wrong]);
+    if (t === "tf") {
+      const truth = Math.random() > 0.5;
+      question = q.q.replace("___", truth ? q.answer : q.wrong[0]);
+      answer = truth ? "True" : "False";
+      options = ["True", "False"];
+    }
+    if (t === "correct") {
+      question = "Correct the sentence: " + q.q.replace("___", q.wrong[0]);
+      answer = q.q.replace("___", q.answer);
+    }
+    return { ...q, type: t, question, answer, options };
+  });
+  const container = $("#questions");
+  container.replaceChildren();
+  active.forEach((q, i) => {
+    const f = el("fieldset", void 0, "question"), legend = el("legend", `السؤال ${i + 1} من ${active.length}`), p = el("p", q.question, "question-text");
+    f.append(legend, p);
+    if (q.type === "mcq" || q.type === "tf") {
+      const opts = el("div", void 0, "options");
+      q.options.forEach((o, j) => {
+        const l = el("label"), input = el("input");
+        input.type = "radio";
+        input.name = "q" + i;
+        input.value = o;
+        input.id = `q${i}-${j}`;
+        l.append(input, el("span", o));
+        opts.append(l);
+      });
+      f.append(opts);
+    } else {
+      const input = el("input");
+      input.type = "text";
+      input.name = "q" + i;
+      input.autocomplete = "off";
+      input.spellcheck = false;
+      input.setAttribute("aria-label", `إجابة السؤال ${i + 1}`);
+      input.placeholder = q.type === "correct" ? "Write the correct full sentence" : "Write the missing word";
+      f.append(input);
+    }
+    container.append(f);
+  });
+  $("#exam-active").hidden = false;
+  $("#exam-result").hidden = true;
+  $("#exam-setup").hidden = true;
+  const mins = Number($("#exam-timer").value);
+  deadline = mins ? Date.now() + mins * 6e4 : 0;
+  const timer = $("#timer");
+  timer.textContent = mins ? "" : "بدون مؤقّت";
+  if (mins) {
+    const update = () => {
+      const secs = Math.max(0, Math.ceil((deadline - Date.now()) / 1e3));
+      timer.textContent = Math.floor(secs / 60) + ":" + String(secs % 60).padStart(2, "0");
+      if (!secs) grade(true);
+    };
+    update();
+    tick = setInterval(update, 1e3);
+  }
+  $("#exam-active").scrollIntoView({ block: "start" });
+});
+(_f = $("#answers-form")) == null ? void 0 : _f.addEventListener("submit", (e) => {
+  e.preventDefault();
+  grade(false);
+});
+function grade(timed) {
+  if (graded) return;
+  const form = $("#answers-form"), data = new FormData(form);
+  const missing = active.findIndex((q, i) => !String(data.get("q" + i) || "").trim());
+  if (missing >= 0 && !timed && !confirm("فيه أسئلة لسه من غير إجابة. تصحّح دلوقتي؟")) return;
+  graded = true;
+  clearInterval(tick);
+  const checks = active.map((q, i) => ({ q, value: String(data.get("q" + i) || ""), correct: norm(data.get("q" + i) || "") === norm(q.answer) }));
+  const score = checks.filter((x) => x.correct).length, percent = Math.round(score / active.length * 100), out = $("#exam-result");
+  out.replaceChildren();
+  out.append(el("span", "نتيجة التدريب", "eyebrow"), el("h2", timed ? "انتهى الوقت. خلّينا نراجع." : "المحاولة خلصت. التعلّم لسه مكمل."), el("div", `${score} / ${active.length}`, "score"), el("p", `${percent}% · ${percent >= 80 ? "بداية قوية. راجع أسباب الإجابات عشان تثبّت الفهم." : "كل خطأ فرصة للفهم. راجع الشرح وجرّب مرة تانية."}`));
+  checks.forEach(({ q, value, correct }, i) => {
+    const d = el("div", void 0, "review-item");
+    d.append(el("span", `${i + 1} · ${correct ? "إجابة صحيحة ✓" : "نراجعها سوا"}`, "badge"), el("b", q.question), el("p", "إجابتك: " + (value || "لم تجب"), "answer-value"), el("p", "Correct answer: " + q.answer, "answer-value"), el("p", q.explain));
+    out.append(d);
+  });
+  const actions = el("div", void 0, "actions"), retry = el("button", "تدريب جديد ↖", "button");
+  retry.type = "button";
+  retry.addEventListener("click", () => {
+    $("#exam-setup").hidden = false;
+    $("#exam-active").hidden = true;
+    out.hidden = true;
+    $("#exam-setup").scrollIntoView();
+  });
+  const results = el("a", "سجل تدريباتي", "button secondary");
+  results.href = "results.html";
+  actions.append(retry, results);
+  out.append(actions);
+  out.hidden = false;
+  $("#exam-active").hidden = true;
+  const history2 = store.get("es-history", []);
+  history2.unshift({ at: (/* @__PURE__ */ new Date()).toISOString(), score, total: active.length, level: currentLevel });
+  if (!store.set("es-history", history2.slice(0, 20))) toast("نتيجتك ظاهرة الآن، لكن الحفظ المحلي غير متاح.");
+  out.scrollIntoView({ block: "start" });
+}
+function history() {
+  const out = $("#history");
+  if (!out) return;
+  const data = store.get("es-history", []);
+  out.replaceChildren();
+  if (!data.length) {
+    out.append(el("p", "لسه مفيش محاولات محفوظة. ابدأ أول تدريب."));
+    const a = el("a", "ابدأ التدريب ↖", "text-link");
+    a.href = "exam-generator.html";
+    out.append(a);
+    return;
+  }
+  data.forEach((r) => {
+    const d = el("div", void 0, "history-row");
+    d.append(el("span", new Date(r.at).toLocaleDateString("ar-EG")), el("b", `${r.score} / ${r.total}`));
+    out.append(d);
+  });
+}
+history();
+(_g = $("#clear-history")) == null ? void 0 : _g.addEventListener("click", () => {
+  if (confirm("تمسح سجل التدريبات من هذا المتصفح؟")) {
+    store.set("es-history", []);
+    history();
+    toast("تم مسح سجل التدريب.");
+  }
+});
+(() => {
+  var _a2;
+  const header = document.querySelector(".header");
+  if (!header) return;
+  const labels = { "index.html": "الرئيسية", "learn.html": "ابدأ التعلّم", "grades.html": "مناهج مصر", "saudi.html": "مناهج السعودية", "adults.html": "اتعلم بنفسك", "booklets.html": "الكتب والمراجعات", "tools.html": "الأدوات" };
+  const page = location.pathname.split("/").pop() || "index.html";
+  const label = labels[page] || document.title.split(" | ")[0];
+  const slot = document.createElement("div");
+  slot.className = "header-slot";
+  header.before(slot);
+  slot.append(header);
+  const toggle = document.createElement("button");
+  toggle.type = "button";
+  toggle.className = "island-toggle";
+  toggle.setAttribute("aria-controls", "island-panel");
+  toggle.setAttribute("aria-expanded", "false");
+  const mark = document.createElement("span");
+  mark.className = "island-mark";
+  mark.textContent = "✦";
+  mark.setAttribute("aria-hidden", "true");
+  const caption = document.createElement("span");
+  caption.textContent = label;
+  const menu = document.createElement("span");
+  menu.textContent = "☰";
+  menu.setAttribute("aria-hidden", "true");
+  toggle.append(mark, caption, menu);
+  header.append(toggle);
+  const panel = document.createElement("nav");
+  panel.id = "island-panel";
+  panel.className = "island-panel";
+  panel.setAttribute("aria-label", "وصول سريع");
+  panel.hidden = true;
+  Object.entries(labels).filter(([file]) => !["404.html", "privacy.html"].includes(file)).forEach(([file, text]) => {
+    const a = document.createElement("a");
+    a.href = file;
+    a.textContent = text;
+    if (file === page) a.setAttribute("aria-current", "page");
+    panel.append(a);
+  });
+  const top = document.createElement("button");
+  top.type = "button";
+  top.textContent = "العودة للأعلى ↑";
+  top.addEventListener("click", () => {
+    close();
+    window.scrollTo({ top: 0, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth" });
+  });
+  panel.append(top);
+  header.append(panel);
+  const progress = document.createElement("div");
+  progress.className = "reading-progress";
+  progress.setAttribute("aria-hidden", "true");
+  header.append(progress);
+  let open = false, scheduled = false;
+  const setOpen = (value) => {
+    open = value;
+    header.classList.toggle("island-open", open);
+    toggle.setAttribute("aria-expanded", String(open));
+    toggle.setAttribute("aria-label", `${open ? "إغلاق" : "فتح"} التنقل السريع: ${label}`);
+    panel.hidden = !open;
+  };
+  const close = () => setOpen(false);
+  toggle.addEventListener("click", () => setOpen(!open));
+  panel.addEventListener("click", (e) => {
+    if (e.target.closest("a")) close();
+  });
+  document.addEventListener("click", (e) => {
+    if (open && !header.contains(e.target)) close();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && open) {
+      close();
+      toggle.focus();
+    }
+  });
+  function update() {
+    scheduled = false;
+    header.classList.toggle("island-compact", scrollY > 100);
+    const max = document.documentElement.scrollHeight - innerHeight;
+    progress.style.transform = `scaleX(${max > 0 ? Math.max(0, Math.min(1, scrollY / max)) : 0})`;
+    if (scrollY < 20 && open) close();
+  }
+  window.addEventListener("scroll", () => {
+    if (!scheduled) {
+      scheduled = true;
+      requestAnimationFrame(update);
+    }
+  }, { passive: true });
+  close();
+  update();
+  if (page !== "index.html" && page !== "404.html") {
+    const crumb = document.createElement("nav");
+    crumb.className = "breadcrumbs wrap";
+    crumb.setAttribute("aria-label", "مسار الصفحة");
+    const a = document.createElement("a");
+    a.href = "index.html";
+    a.textContent = "الرئيسية";
+    crumb.append(a);
+    const add2 = (href, text) => {
+      const sep = document.createElement("span");
+      sep.textContent = " / ";
+      const link = document.createElement("a");
+      link.href = href;
+      link.textContent = text;
+      crumb.append(sep, link);
+    };
+    const gradeNames = { "m3": "الصف التالت الإعدادي", "p2": "الصف التاني الابتدائي", "sa-g1": "الصف الأول الابتدائي — المنهج السعودي (We Can 1)", "p5": "الصف الخامس الابتدائي", "p3": "الصف التالت الابتدائي", "m1": "الصف الأول الإعدادي", "p4": "الصف الرابع الابتدائي", "p1": "الصف الأول الابتدائي", "m2": "الصف التاني الإعدادي", "p6": "الصف السادس الابتدائي" };
+    let match = page.match(/(?:unit|explain|assess)-sa-g(\d+)/);
+    if (match) {
+      add2("saudi.html", "مناهج السعودية");
+      add2("sa-g" + match[1] + ".html", gradeNames["sa-g" + match[1]] || "الصف " + match[1]);
+    } else if (/^sa-g\d+/.test(page)) {
+      add2("saudi.html", "مناهج السعودية");
+    } else {
+      match = page.match(/(?:unit|explain|assess)-([pm]\d)-/);
+      if (match) {
+        add2("grades.html", "مناهج مصر");
+        add2("grade-" + match[1] + ".html", gradeNames[match[1]] || "صفحة الصف");
+      } else if (/^grade-[pm]\d/.test(page)) {
+        add2("grades.html", "مناهج مصر");
+      }
+    }
+    const s = document.createElement("span");
+    s.textContent = " / " + label;
+    crumb.append(s);
+    (_a2 = document.querySelector("main")) == null ? void 0 : _a2.prepend(crumb);
+  }
+  if (!matchMedia("(prefers-reduced-motion: reduce)").matches && matchMedia("(hover: hover)").matches) {
+    document.querySelectorAll(".glass").forEach((el2) => {
+      el2.addEventListener("pointermove", (e) => {
+        const r = el2.getBoundingClientRect();
+        el2.style.setProperty("--shine-x", `${(e.clientX - r.left) / r.width * 100}%`);
+        el2.style.setProperty("--shine-y", `${(e.clientY - r.top) / r.height * 100}%`);
+      }, { passive: true });
+    });
+  }
 })();
-
-;(function(){
-if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches)return;
-if(!('IntersectionObserver' in window))return;
-var els=document.querySelectorAll('.page-intro,.hero-copy,.hero-art,.section,.stage-card,.resource-card,.tool-card,.feature-panel,.cta');
-if(!els.length)return;
-els.forEach(function(el,i){el.classList.add('reveal');el.style.transitionDelay=(Math.min(i%6,5)*60)+'ms';});
-var io=new IntersectionObserver(function(entries){entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -40px 0px'});
-els.forEach(function(el){io.observe(el);});
+(() => {
+  const roots = [...document.querySelectorAll("[data-honor-board]")];
+  if (!roots.length) return;
+  const norm2 = (s) => String(s || "").replace(/[أإآ]/g, "ا").replace(/ة/g, "ه").replace(/ى/g, "ي").replace(/ڤ/g, "ف").replace(/[\u064B-\u065F\u0670ـ]/g, "").replace(/[^\u0621-\u064A\s]/g, " ").replace(/\s+/g, " ").trim();
+  const common = new Set(["يوسف", "محمد", "معاذ", "سارة", "احمد", "جنى", "نور", "اسماء"].map(norm2));
+  const stop = new Set(["درجة", "درجه", "درجتي", "نتيجة", "نتيجه", "نتيجتي", "الطالب", "الطالبة", "الطالبه", "هو", "هي", "كام", "كم", "لو", "سمحت", "ممكن", "عايز", "عايزه", "عاوز", "اعرف", "من", "فضلك", "اسم", "اسمي", "الاسم", "السلام", "عليكم", "ورحمه", "الله", "وبركاته", "انا", "ما", "هيه", "ايه", "اي", "ابحث", "عن", "قولي", "قول", "لى", "لي", "ارجوك", "بس", "بكام", "عايزة"].map(norm2));
+  const node = (tag, cls, text) => {
+    const e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text !== void 0) e.textContent = text;
+    return e;
+  };
+  const contains = (a, b) => (" " + a + " ").includes(" " + b + " ");
+  fetch("honor-board.json", { cache: "no-cache" }).then((r) => {
+    if (!r.ok) throw Error();
+    return r.json();
+  }).then((data) => {
+    const rows2 = Array.isArray(data.entries) ? data.entries.filter((e) => e && typeof e.displayName === "string" && e.displayName.trim() && typeof e.exam === "string" && typeof e.stage === "string" && Number.isFinite(e.score) && Number.isFinite(e.total) && e.total > 0 && e.score >= 0 && e.score <= e.total).slice(0, 300) : [];
+    roots.forEach((root) => {
+      const preview = ["preview", "top3"].includes(root.dataset.honorBoard);
+      const list = root.querySelector("[data-honor-list]");
+      const status = root.querySelector("[data-honor-status]");
+      const input = root.querySelector("[data-honor-search]");
+      const select = root.querySelector("[data-honor-stage]");
+      if (select) [...new Set(rows2.map((e) => e.stage))].forEach((stage) => {
+        const o = node("option", "", stage);
+        o.value = stage;
+        select.append(o);
+      });
+      function render() {
+        list.replaceChildren();
+        if (preview) {
+          const stages = [...new Set(rows2.map((e) => e.stage))];
+          const top3 = root.dataset.honorBoard === "top3";
+          status.textContent = rows2.length ? top3 ? "أعلى 3 طلاب في كل صف، ومعاهم أي حد متعادل عند درجة الطالب التالت." : "أعلى نتيجة في كل صف. ولو فيه تعادل، الأسماء بتظهر سوا." : "لوحة الشرف جاهزة. الأسماء بتتضاف بعد اعتمادها.";
+          list.classList.add("honor-stage-list");
+          if (!rows2.length) {
+            const box2 = node("div", "glass empty-state");
+            box2.append(node("span", "tool-icon", "☆"), node("h3", "", "النجاح الجاي يستحق مكانه هنا."));
+            list.append(box2);
+          }
+          stages.forEach((stage) => {
+            const group = rows2.filter((e) => e.stage === stage);
+            const sorted = [...group].sort((a, b) => b.score / b.total - a.score / a.total);
+            const cutoff = sorted[Math.min(top3 ? 2 : 0, sorted.length - 1)].score / sorted[Math.min(top3 ? 2 : 0, sorted.length - 1)].total;
+            const top = sorted.filter((e) => e.score / e.total >= cutoff);
+            const card = node("article", "glass honor-stage-row");
+            const content = node("div", "honor-stage-content");
+            const names = node("div", "honor-names");
+            top.forEach((e) => names.append(node("h3", "", e.displayName)));
+            content.append(node("p", "honor-stage-label", stage), names);
+            card.append(content, node("span", "honor-stage-star", "☆"));
+            list.append(card);
+          });
+          return;
+        }
+        const raw = norm2(input == null ? void 0 : input.value);
+        const tokens = raw.split(" ").filter((t) => t && !stop.has(t));
+        let term = tokens.join(" ");
+        const stageRows = rows2.filter((e) => !(select == null ? void 0 : select.value) || e.stage === select.value);
+        let reply = "اكتب اسمك، واختار الصف لو فيه تشابه أسماء.";
+        if (raw) {
+          let matches = stageRows.filter((e) => norm2(e.displayName) === term);
+          if (!matches.length && term) matches = stageRows.filter((e) => contains(norm2(e.displayName), term));
+          if (matches.length === 1 && !(tokens.length === 1 && common.has(term))) reply = `درجة ${matches[0].displayName} هي ${matches[0].score} من ${matches[0].total} ✅`;
+          else if (matches.length > 1 || tokens.length === 1 && common.has(term)) reply = tokens.length < 3 ? "ممكن الاسم التاني أو الثلاثي؟" : "ممكن تحدد الصف؟";
+          else reply = "مش لاقي الاسم ده، ممكن تكتبه أوضح أو تقولي الصف؟";
+        }
+        const box = node("div", "glass empty-state lookup-reply");
+        box.append(node("p", "honor-score", reply));
+        list.append(box);
+        status.textContent = "هتظهر درجة طالب واحد بس، من غير ترتيب أو مقارنة.";
+      }
+      input == null ? void 0 : input.addEventListener("input", render);
+      select == null ? void 0 : select.addEventListener("change", render);
+      render();
+    });
+  }).catch(() => roots.forEach((root) => {
+    root.querySelector("[data-honor-status]").textContent = "اللوحة مش راضية تفتح. جرّب تحدّث الصفحة.";
+  }));
+})();
+;
+(function() {
+  if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  if (!("IntersectionObserver" in window)) return;
+  var els = document.querySelectorAll(".page-intro,.hero-copy,.hero-art,.section,.stage-card,.resource-card,.tool-card,.feature-panel,.cta");
+  if (!els.length) return;
+  els.forEach(function(el2, i) {
+    el2.classList.add("reveal");
+    el2.style.transitionDelay = Math.min(i % 6, 5) * 60 + "ms";
+  });
+  var io = new IntersectionObserver(function(entries) {
+    entries.forEach(function(e) {
+      if (e.isIntersecting) {
+        e.target.classList.add("in");
+        io.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.12, rootMargin: "0px 0px -40px 0px" });
+  els.forEach(function(el2) {
+    io.observe(el2);
+  });
 })();
