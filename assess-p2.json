@@ -5694,22 +5694,6 @@
             },
             {
               "type": "typein",
-              "q": "Where do you sleep? (المقصود: غرفة النوم. اكتب اسم الغرفة فقط)",
-              "answer": [
-                "in the bedroom",
-                "bedroom"
-              ]
-            },
-            {
-              "type": "typein",
-              "q": "Where do you brush your teeth? (المقصود: الحمّام. اكتب اسم الغرفة فقط)",
-              "answer": [
-                "in the bathroom",
-                "bathroom"
-              ]
-            },
-            {
-              "type": "typein",
               "q": "Where do you cook? (المقصود: المطبخ. اكتب اسم الغرفة فقط)",
               "answer": [
                 "in the kitchen",
@@ -5749,20 +5733,6 @@
               "q": "We watch TV in the ___. (المقصود: غرفة المعيشة)",
               "answer": [
                 "living room"
-              ]
-            },
-            {
-              "type": "typein",
-              "q": "The ball is ___ the box. (بجوار)",
-              "answer": [
-                "next to"
-              ]
-            },
-            {
-              "type": "typein",
-              "q": "The ball is ___ the box. (داخل)",
-              "answer": [
-                "in"
               ]
             },
             {

@@ -2484,14 +2484,6 @@
        "answer": [
         "canals"
        ]
-      },
-      {
-       "type": "typein",
-       "label": "form",
-       "q": "Yesterday, I (go) to the park with my friends.",
-       "answer": [
-        "went"
-       ]
       }
      ]
     },
@@ -4288,14 +4280,6 @@
        "passage": "Words in the box: Gold - non-renewable - iron - under the earth - wisely\n\nDeep ____, we discover valuable mineral resources. ____ is used for beautiful jewelry, while diamond is even more valuable. Copper helps carry electricity, and ____ is super strong for buildings. Since these minerals are ____ and take millions of years to form, we must use them ____ and avoid waste."
       },
       {
-       "type": "typein",
-       "q": "Since these minerals are ___ and take millions of years to form, we must use them … and avoid waste.",
-       "answer": [
-        "non-renewable"
-       ],
-       "passage": "Words in the box: Gold - non-renewable - iron - under the earth - wisely\n\nDeep ____, we discover valuable mineral resources. ____ is used for beautiful jewelry, while diamond is even more valuable. Copper helps carry electricity, and ____ is super strong for buildings. Since these minerals are ____ and take millions of years to form, we must use them ____ and avoid waste."
-      },
-      {
        "type": "mcq",
        "label": "cloze",
        "q": "Since these minerals are … and take millions of years to form, we must use them ___ and avoid waste.",
@@ -5053,14 +5037,6 @@
       {
        "type": "typein",
        "label": "form",
-       "q": "What (do) the Ancient Egyptians do when the river flooded?",
-       "answer": [
-        "did"
-       ]
-      },
-      {
-       "type": "typein",
-       "label": "form",
        "q": "We (doesn't) have modern machines in Ancient Egypt.",
        "answer": [
         "didn't"
@@ -5392,18 +5368,6 @@
         "stomach"
        ],
        "answer": 2
-      },
-      {
-       "type": "mcq",
-       "label": "choose",
-       "q": "A long time without rain is called a __",
-       "options": [
-        "wildfire",
-        "drought",
-        "thunderstorm",
-        "flood"
-       ],
-       "answer": 1
       },
       {
        "type": "mcq",

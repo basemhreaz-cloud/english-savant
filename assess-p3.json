@@ -1075,13 +1075,6 @@
       },
       {
        "type": "typein",
-       "q": "my father is a teacher",
-       "answer": [
-        "My father is a teacher."
-       ]
-      },
-      {
-       "type": "typein",
        "q": "my sister is a doctor",
        "answer": [
         "My sister is a doctor."
@@ -2270,16 +2263,6 @@
       },
       {
        "type": "typein",
-       "q": "How did the children feel when they saw the snake?",
-       "answer": [
-        "they felt very scared",
-        "scared",
-        "very scared"
-       ],
-       "passage": "Sara is a kind girl. Yesterday, her friend helped her when she needed help. Later, the children saw a snake in the garden, and they felt very scared. Sara lives in a new house in the city. When she fell while playing, she felt scared too."
-      },
-      {
-       "type": "typein",
        "q": "Where does Sara live?",
        "answer": [
         "in a new house in the city",
@@ -3401,20 +3384,6 @@
         "the",
         "street."
        ]
-      },
-      {
-       "type": "typein",
-       "q": "they are proud to help",
-       "answer": [
-        "They are proud to help."
-       ]
-      },
-      {
-       "type": "typein",
-       "q": "who scored the goal",
-       "answer": [
-        "Who scored the goal?"
-       ]
       }
      ]
     },
@@ -3481,13 +3450,6 @@
        "q": "mona is showing that practice brings success",
        "answer": [
         "Mona is showing that practice brings success."
-       ]
-      },
-      {
-       "type": "typein",
-       "q": "how did the team feel after the goal",
-       "answer": [
-        "How did the team feel after the goal?"
        ]
       }
      ]
@@ -3568,13 +3530,6 @@
        "q": "he smiled on race day",
        "answer": [
         "He smiled on race day."
-       ]
-      },
-      {
-       "type": "typein",
-       "q": "he is scoring a goal",
-       "answer": [
-        "He is scoring a goal."
        ]
       }
      ]
@@ -3670,20 +3625,6 @@
         "on",
         "race",
         "day."
-       ]
-      },
-      {
-       "type": "typein",
-       "q": "they are proud to help",
-       "answer": [
-        "They are proud to help."
-       ]
-      },
-      {
-       "type": "typein",
-       "q": "who scored the goal",
-       "answer": [
-        "Who scored the goal?"
        ]
       }
      ]
@@ -4168,23 +4109,9 @@
       },
       {
        "type": "typein",
-       "q": "they play football after school",
-       "answer": [
-        "They play football after school."
-       ]
-      },
-      {
-       "type": "typein",
        "q": "what is your name",
        "answer": [
         "What is your name?"
-       ]
-      },
-      {
-       "type": "typein",
-       "q": "where do you live",
-       "answer": [
-        "Where do you live?"
        ]
       },
       {
@@ -4334,29 +4261,11 @@
       },
       {
        "type": "typein",
-       "q": "Sara fell and ……… her knee.",
-       "answer": [
-        "hurt"
-       ],
-       "passage": "Yesterday, my friend went to the garden. Omar scored a goal and felt very proud. First, they wake up in the morning and get ready for school. Sara fell and hurt her knee while playing."
-      },
-      {
-       "type": "typein",
        "q": "What did Omar score yesterday?",
        "answer": [
         "a goal",
         "he scored a goal",
         "goal"
-       ],
-       "passage": "Yesterday, my friend went to the garden. Omar scored a goal and felt very proud. First, they wake up in the morning and get ready for school. Sara fell and hurt her knee while playing."
-      },
-      {
-       "type": "typein",
-       "q": "What happened to Sara while playing?",
-       "answer": [
-        "she fell and hurt her knee",
-        "she fell",
-        "fell and hurt her knee"
        ],
        "passage": "Yesterday, my friend went to the garden. Omar scored a goal and felt very proud. First, they wake up in the morning and get ready for school. Sara fell and hurt her knee while playing."
       },
@@ -4949,16 +4858,6 @@
       },
       {
        "type": "typein",
-       "q": "When was Omar felt happy?",
-       "answer": [
-        "when his team won the game",
-        "when his team won",
-        "after he scored a goal"
-       ],
-       "passage": "Omar was nervous before his first football match. When the match started, he was worried about making mistakes. But after he scored a goal, Omar felt proud of himself. He was happy when his team won the game."
-      },
-      {
-       "type": "typein",
        "q": "When does Zyad wake up?",
        "answer": [
         "at 6 a.m.",
@@ -5367,20 +5266,6 @@
       },
       {
        "type": "typein",
-       "q": "I do my homework …. help my mom in the kitchen.",
-       "answer": [
-        "and"
-       ]
-      },
-      {
-       "type": "typein",
-       "q": "Yesterday, they ……… tennis after school.",
-       "answer": [
-        "played"
-       ]
-      },
-      {
-       "type": "typein",
        "q": "They ……… football after school.",
        "answer": [
         "play"
@@ -5504,13 +5389,6 @@
        "q": "salma wants to help their neighborhood",
        "answer": [
         "Salma wants to help their neighborhood."
-       ]
-      },
-      {
-       "type": "typein",
-       "q": "first, they clean the street",
-       "answer": [
-        "First, they clean the street."
        ]
       }
      ]

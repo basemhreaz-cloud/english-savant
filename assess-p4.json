@@ -2027,22 +2027,6 @@
        "answer": [
         "bigger"
        ]
-      },
-      {
-       "type": "typein",
-       "label": "form",
-       "q": "(Do) Ramy study English every day?",
-       "answer": [
-        "Does"
-       ]
-      },
-      {
-       "type": "typein",
-       "label": "form",
-       "q": "Ali (write) his homework in the evening.",
-       "answer": [
-        "writes"
-       ]
       }
      ]
     },
@@ -2276,57 +2260,9 @@
       {
        "type": "typein",
        "label": "form",
-       "q": "Hana is taller (then) Rana.",
-       "answer": [
-        "than"
-       ]
-      },
-      {
-       "type": "typein",
-       "label": "form",
-       "q": "Ahmed isn't (tall) than Ali.",
-       "answer": [
-        "taller"
-       ]
-      },
-      {
-       "type": "typein",
-       "label": "form",
-       "q": "Bears are (lazy) than monkeys.",
-       "answer": [
-        "lazier"
-       ]
-      },
-      {
-       "type": "typein",
-       "label": "form",
-       "q": "Fruit is (healthy) than sweets.",
-       "answer": [
-        "healthier"
-       ]
-      },
-      {
-       "type": "typein",
-       "label": "form",
        "q": "Ola is (pretty) than Dina.",
        "answer": [
         "prettier"
-       ]
-      },
-      {
-       "type": "typein",
-       "label": "form",
-       "q": "(Does) you like ice-cream?",
-       "answer": [
-        "Do"
-       ]
-      },
-      {
-       "type": "typein",
-       "label": "form",
-       "q": "The plane is (fast) than the train.",
-       "answer": [
-        "faster"
        ]
       },
       {
@@ -4281,18 +4217,6 @@
       {
        "type": "mcq",
        "label": "choose",
-       "q": "__ annoyed Wanda.",
-       "options": [
-        "Peggy",
-        "Wanda's mother",
-        "Miss Mason",
-        "Wanda's dad"
-       ],
-       "answer": 0
-      },
-      {
-       "type": "mcq",
-       "label": "choose",
        "q": "Wanda was a __ girl and sat in the front of the class.",
        "options": [
         "quiet",
@@ -4494,17 +4418,6 @@
         "Miss Mason"
        ],
        "answer": 0
-      },
-      {
-       "type": "mcq",
-       "label": "choose",
-       "q": "Who said: \"I will choose one boy and one girl as winners\".",
-       "options": [
-        "Peggy and Maddie",
-        "Miss Mason",
-        "Wanda"
-       ],
-       "answer": 1
       },
       {
        "type": "typein",
