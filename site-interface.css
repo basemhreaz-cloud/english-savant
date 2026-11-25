@@ -438,3 +438,7 @@ html:root:root:root body header.es-force-mobile-nav nav.open{display:flex!import
 html:root:root:root body header.es-force-mobile-nav nav.open a{white-space:normal!important;overflow-wrap:anywhere}
 /* A section divider is a straight line, not a rounded control. */
 html:root:root:root:root:root:root:root:root:root body .workspace-head{border-radius:0!important}
+
+/* Balanced headings and tidy paragraph endings. No size or spacing change. */
+h1,h2,h3,h4,h5,h6{text-wrap:balance}
+p,li,figcaption,blockquote{text-wrap:pretty}
