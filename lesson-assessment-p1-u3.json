@@ -75,7 +75,8 @@
       "parents"
     ],
     "requires_image": false,
-    "explanation_en": "parents means الأب والأم together."
+    "explanation_en": "Your father and mother together are your parents.",
+    "prompt_en": "What is the Arabic meaning of 'parents'?"
   },
   {
     "grade": "P1",
@@ -101,7 +102,8 @@
       "brother"
     ],
     "requires_image": false,
-    "explanation_en": "brother means الأخ."
+    "explanation_en": "Learn the word brother.",
+    "prompt_en": "What is the Arabic meaning of 'brother'?"
   },
   {
     "grade": "P1",
@@ -299,7 +301,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "الأب = father."
+    "explanation_en": "Your dad is your father."
   },
   {
     "grade": "P1",
@@ -376,7 +378,7 @@
       "mother"
     ],
     "requires_image": false,
-    "explanation_en": "A mother's mother is the grandmother: grandmother."
+    "explanation_en": "Your mother's mother is your grandmother."
   },
   {
     "grade": "P1",
@@ -426,7 +428,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "With 2 we say the plural sisters with s."
+    "explanation_en": "Use the plural sisters with s after 2."
   },
   {
     "grade": "P1",
@@ -498,7 +500,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "desk means مكتب."
+    "explanation_en": "A desk is a piece of furniture, not a family member."
   },
   {
     "grade": "P1",
@@ -729,7 +731,7 @@
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The sentence: This is my father."
+    "explanation_en": "The sentence is: This is my father."
   },
   {
     "grade": "P1",
@@ -942,7 +944,7 @@
     "answer_kind": "blanks_text",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Each blank has its own slot. 1: Who (ده مين). 2: father. 3: brothers (إخوة). 4: 1 or one. 5: sisters."
+    "explanation_en": "Each blank has its own box. 1: Who, as in Who is this? 2: father. 3: brothers. 4: 1 or one. 5: sisters."
   },
   {
     "grade": "P1",
@@ -1090,7 +1092,7 @@
       "nose"
     ],
     "requires_image": false,
-    "explanation_en": "nose starts with the letter n."
+    "explanation_en": "Nose begins with n."
   },
   {
     "grade": "P1",
@@ -1166,7 +1168,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The capital N and the small n."
+    "explanation_en": "The capital letter is N and the small letter is n."
   },
   {
     "grade": "P1",
@@ -1242,7 +1244,8 @@
       "nurse"
     ],
     "requires_image": false,
-    "explanation_en": "nurse means ممرضة."
+    "explanation_en": "Learn the word nurse.",
+    "prompt_en": "What is the Arabic meaning of 'nurse'?"
   },
   {
     "grade": "P1",
@@ -1268,7 +1271,8 @@
       "nail"
     ],
     "requires_image": false,
-    "explanation_en": "nail means ظفر."
+    "explanation_en": "Learn the word nail.",
+    "prompt_en": "What is the Arabic meaning of 'nail'?"
   },
   {
     "grade": "P1",
@@ -1416,7 +1420,7 @@
     "requires_image": true,
     "image": "p1-lessons-assets/img/kg-nose.png",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: n-o-s-e."
+    "explanation_en": "Put the letters in order: n-o-s-e."
   },
   {
     "grade": "P1",
@@ -1595,7 +1599,7 @@
       "pizza"
     ],
     "requires_image": false,
-    "explanation_en": "pizza starts with the letter p."
+    "explanation_en": "Pizza begins with p."
   },
   {
     "grade": "P1",
@@ -1671,7 +1675,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The capital P and the small p."
+    "explanation_en": "The capital letter is P and the small letter is p."
   },
   {
     "grade": "P1",
@@ -1747,7 +1751,8 @@
       "panda"
     ],
     "requires_image": false,
-    "explanation_en": "panda means باندا."
+    "explanation_en": "Learn the word panda.",
+    "prompt_en": "What is the Arabic meaning of 'panda'?"
   },
   {
     "grade": "P1",
@@ -1773,7 +1778,8 @@
       "pencil"
     ],
     "requires_image": false,
-    "explanation_en": "pencil means قلم رصاص."
+    "explanation_en": "Learn the word pencil.",
+    "prompt_en": "What is the Arabic meaning of 'pencil'?"
   },
   {
     "grade": "P1",
@@ -2049,7 +2055,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "parrot starts with p."
+    "explanation_en": "Parrot begins with p."
   },
   {
     "grade": "P1",
@@ -2469,7 +2475,7 @@
       "books"
     ],
     "requires_image": false,
-    "explanation_en": "With more than one we say There are."
+    "explanation_en": "Use There are with more than one."
   },
   {
     "grade": "P1",
@@ -2545,7 +2551,7 @@
       "books"
     ],
     "requires_image": false,
-    "explanation_en": "We say There are with numbers bigger than 1."
+    "explanation_en": "Use There are with numbers greater than 1."
   },
   {
     "grade": "P1",
@@ -2728,7 +2734,7 @@
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The sentence: There are 3 books."
+    "explanation_en": "The sentence is: There are 3 books."
   },
   {
     "grade": "P1",
@@ -2802,7 +2808,7 @@
     "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The sentence: I see 5 birds."
+    "explanation_en": "The sentence is: I see 5 birds."
   },
   {
     "grade": "P1",
@@ -2951,7 +2957,7 @@
     "answer_kind": "blanks_text",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "Each blank has its own slot. 1: How (How many). 2: 3 or three. 3: count (يعدّ). 4: 4 or four. 5: 1 or one."
+    "explanation_en": "Each blank has its own box. 1: How, as in How many. 2: 3 or three. 3: count. 4: 4 or four. 5: 1 or one."
   },
   {
     "grade": "P1",
@@ -3099,7 +3105,7 @@
       "hat"
     ],
     "requires_image": false,
-    "explanation_en": "hat starts with the letter h."
+    "explanation_en": "Hat begins with h."
   },
   {
     "grade": "P1",
@@ -3175,7 +3181,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The capital H and the small h."
+    "explanation_en": "The capital letter is H and the small letter is h."
   },
   {
     "grade": "P1",
@@ -3678,7 +3684,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "The capital D and the small d."
+    "explanation_en": "The capital letter is D and the small letter is d."
   },
   {
     "grade": "P1",
@@ -3780,7 +3786,8 @@
       "doll"
     ],
     "requires_image": false,
-    "explanation_en": "doll means عروسة."
+    "explanation_en": "Learn the word doll.",
+    "prompt_en": "What is the Arabic meaning of 'doll'?"
   },
   {
     "grade": "P1",
@@ -3927,7 +3934,7 @@
     "requires_image": true,
     "image": "p1-lessons-assets/img/kg-dog.png",
     "alt": "Picture clue for the word",
-    "explanation_en": "Order the letters: d-o-g."
+    "explanation_en": "Put the letters in order: d-o-g."
   },
   {
     "grade": "P1",
@@ -4005,7 +4012,7 @@
     "answer_kind": "closed",
     "image_optional": null,
     "requires_image": false,
-    "explanation_en": "hat starts with h."
+    "explanation_en": "Hat begins with h."
   },
   {
     "grade": "P1",
@@ -4081,7 +4088,7 @@
     "alt": "5 red apples",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "Count the apples one by one: the answer is 5."
+    "explanation_en": "Count the apples one at a time: the answer is 5."
   },
   {
     "grade": "P1",
@@ -4107,7 +4114,7 @@
     "alt": "4 yellow stars",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "Count the stars one by one: the answer is 4."
+    "explanation_en": "Count the stars one at a time: the answer is 4."
   },
   {
     "grade": "P1",
@@ -4211,7 +4218,7 @@
     "alt": "4 books",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "Count the books one by one: the answer is 4."
+    "explanation_en": "Count the books one at a time: the answer is 4."
   },
   {
     "grade": "P1",
@@ -4341,7 +4348,7 @@
     "alt": "a picture of a hat",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is قبعة. The word in English: hat."
+    "explanation_en": "The picture shows a hat."
   },
   {
     "grade": "P1",
@@ -4393,7 +4400,7 @@
     "alt": "a picture of a door",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is باب. The word in English: door."
+    "explanation_en": "The picture shows a door."
   },
   {
     "grade": "P1",
@@ -4445,7 +4452,7 @@
     "alt": "a picture of a drum",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is طبلة. The word in English: drum."
+    "explanation_en": "The picture shows a drum."
   },
   {
     "grade": "P1",
@@ -4497,7 +4504,7 @@
     "alt": "a picture of a house",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is بيت. The word in English: house."
+    "explanation_en": "The picture shows a house."
   },
   {
     "grade": "P1",
@@ -4549,7 +4556,7 @@
     "alt": "a picture of a pizza",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is بيتزا. The word in English: pizza."
+    "explanation_en": "The picture shows a pizza."
   },
   {
     "grade": "P1",
@@ -4601,7 +4608,7 @@
     "alt": "picture: dog",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is كلب. The word in English: dog."
+    "explanation_en": "The picture shows a dog."
   },
   {
     "grade": "P1",
@@ -4627,7 +4634,7 @@
     "alt": "picture: nose",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is أنف. The word in English: nose."
+    "explanation_en": "The picture shows a nose."
   },
   {
     "grade": "P1",
@@ -4653,7 +4660,7 @@
     "alt": "picture: hair",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is شعر. The word in English: hair."
+    "explanation_en": "The picture shows hair."
   },
   {
     "grade": "P1",
@@ -4679,7 +4686,7 @@
     "alt": "picture: hands",
     "requires_image": true,
     "image_optional": null,
-    "explanation_en": "The picture is إيدين. The word in English: hands."
+    "explanation_en": "The picture shows hands."
   },
   {
     "grade": "P1",
