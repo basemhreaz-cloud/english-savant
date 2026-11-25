@@ -79,16 +79,6 @@
       "mp4": "videos/ES_SA_G1_U2.mp4"
     },
     {
-      "id": "p6-u1-lesson",
-      "grade": "p6",
-      "title": "Unit 1: Amazing Places in Egypt",
-      "part": "فيديو شرح الوحدة الأولى",
-      "duration": "7:59",
-      "youtube": "",
-      "soon": false,
-      "mp4": "videos/ES_P6_T1_U1.mp4"
-    },
-    {
       "id": "m2-u1",
       "grade": "m2",
       "title": "Meet Gen Alpha",
@@ -750,6 +740,17 @@
       "mp4": "videos/ES_P5_T1_U1.mp4",
       "poster": "videos/ES_P5_T1_U1.jpg",
       "media_version": "1f610a3cbc4c",
+      "soon": false
+    },
+    {
+      "id": "p6-u1-lesson",
+      "grade": "p6",
+      "title": "Unit 1: Amazing Places in Egypt",
+      "part": "فيديو شرح الوحدة الأولى",
+      "duration": "28:39",
+      "mp4": "videos/ES_P6_T1_U1.mp4",
+      "poster": "videos/ES_P6_T1_U1.jpg",
+      "media_version": "262b8b018ce1",
       "soon": false
     }
   ]
