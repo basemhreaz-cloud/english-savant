@@ -1,8 +1,8 @@
-name: Isolated Android 2.1.12 targeted harness retry
+name: Isolated Android 2.1.13 header and menu matrix
 on:
   workflow_dispatch:
   push:
-    branches: [android-2112-menu-retry-once]
+    branches: [android-2113-native-test-once]
 permissions:
   contents: read
 concurrency:
@@ -14,11 +14,8 @@ jobs:
       fail-fast: false
       max-parallel: 4
       matrix:
-        include:
-          - api: 28
-            device: tablet
-          - api: 34
-            device: phone
+        api: [28, 34]
+        device: [phone, tablet]
     runs-on: ubuntu-latest
     timeout-minutes: 55
     steps:
@@ -29,8 +26,8 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          cat android-ci/apk2112.part* > /tmp/current-original.apk
-          echo '798388011b15c0755ee7e2f9b48fc4347c8c14fd6e90811f810c3197f111fc30  /tmp/current-original.apk' | sha256sum -c -
+          cat android-ci/apk2113.part* > /tmp/current-original.apk
+          echo 'e081979e529abaa40cb0a7fd953dfc57d875db0c2d17bd5ec7a34a543433e58e  /tmp/current-original.apk' | sha256sum -c -
           "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" 'platforms;android-34' 'build-tools;34.0.0'
           BT="$ANDROID_HOME/build-tools/34.0.0"
           mkdir -p /tmp/matrix-classes /tmp/matrix-dex
@@ -54,7 +51,7 @@ jobs:
             before={n:hashlib.sha256(a.read(n)).hexdigest() for n in a.namelist() if not n.startswith('META-INF/')}
             after={n:hashlib.sha256(b.read(n)).hexdigest() for n in b.namelist() if not n.startswith('META-INF/')}
             assert before==after,'Test resign changed resources or code'
-          open('android-evidence/test-apk-provenance.json','w').write(json.dumps({'original_sha256':'798388011b15c0755ee7e2f9b48fc4347c8c14fd6e90811f810c3197f111fc30','test_only_resigned':True,'code_and_resources_unchanged':True},indent=2))
+          open('android-evidence/test-apk-provenance.json','w').write(json.dumps({'original_sha256':'e081979e529abaa40cb0a7fd953dfc57d875db0c2d17bd5ec7a34a543433e58e','test_only_resigned':True,'code_and_resources_unchanged':True},indent=2))
           PY
           rm /tmp/matrix.jks
       - name: Enable KVM

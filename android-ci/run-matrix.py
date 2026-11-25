@@ -27,6 +27,7 @@ try:
    (p/'unconditional-emulator-screen.png').write_bytes(adb('exec-out','screencap','-p'))
    adb('pull','/data/data/eg.englishsavant.app/files/matrix',str(p))
    assert not list(p.rglob('harness-error.txt')), 'Harness failed, inspect artifact'
+   assert len(list(p.rglob('header-state-*.json')))==4, 'Missing header states'
    assert len(list(p.rglob('menu-state-*.json')))==4, 'Missing menu states'
    assert len(list(p.rglob('search-state-*.json')))==4, 'Missing search states'
    (p/'display.txt').write_bytes(adb('shell','dumpsys','display'))
