@@ -18,10 +18,10 @@ try:
  (O/'installed-package.txt').write_bytes(adb('shell','dumpsys','package','eg.englishsavant.app'))
  sizes=[(360,800),(411,891)] if device=='phone' else [(800,1280),(1200,1920)]
  for width,height in sizes:
-  for rotation in [0,1]:
-   label=f'api{api}-{device}-{width}x{height}-rotation{rotation}';p=O/label;p.mkdir()
+  for rotation,lang in [(0,"ar"),(0,"en"),(1,"ar"),(1,"en")]:
+   label=f'api{api}-{device}-{width}x{height}-rotation{rotation}-{lang}';p=O/label;p.mkdir()
    adb('shell','am','force-stop','eg.englishsavant.app');adb('shell','settings','put','system','accelerometer_rotation','0');adb('shell','settings','put','system','user_rotation',str(rotation));adb('shell','wm','size',f'{width}x{height}');adb('shell','wm','density','160');time.sleep(2);adb('shell','rm','-rf','/data/data/eg.englishsavant.app/files/matrix',check=False)
-   output=adb('shell','am','instrument','-w','-e','width',str(width),'-e','height',str(height),'-e','rotation',str(rotation),'eg.englishsavant.matrix/.MatrixAudit',timeout=600,check=False)
+   output=adb('shell','am','instrument','-w','-e','width',str(width),'-e','height',str(height),'-e','rotation',str(rotation),'-e','language',lang,'eg.englishsavant.matrix/.MatrixAudit',timeout=600,check=False)
    (p/'instrument.txt').write_bytes(output)
    print(output.decode(errors='replace')[-1500:],flush=True)
    (p/'unconditional-emulator-screen.png').write_bytes(adb('exec-out','screencap','-p'))
@@ -29,6 +29,8 @@ try:
    (p/'display.txt').write_bytes(adb('shell','dumpsys','display'))
    (p/'window.txt').write_bytes(adb('shell','dumpsys','window'))
    print(label, len(list(p.rglob('*.png'))),'screenshots',flush=True)
+   assert (p/'matrix'/f'pdf-page2-{lang}.png').exists(), 'Missing page2 screenshot'
+   assert b'Process crashed' not in output, 'Instrumentation crash'
 finally:
  (O/'logcat.txt').write_bytes(adb('logcat','-d','-t','1500',check=False)[-1000000:])
  adb('shell','wm','size','reset',check=False);adb('shell','wm','density','reset',check=False);adb('shell','settings','put','system','font_scale','1.0',check=False)
