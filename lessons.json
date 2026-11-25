@@ -251,16 +251,6 @@
       "description": "شرح بالمصري لحيوانات الغابة والحيوانات الأليفة والعد ووصف الحيوانات وin وon وunder، مع تدريب كتابة Bb وLl وUu وJj."
     },
     {
-      "id": "p3-u2-lesson",
-      "grade": "p3",
-      "title": "Unit 2: My Family and I",
-      "part": "فيديو شرح الوحدة الثانية",
-      "duration": "11:58",
-      "youtube": "",
-      "soon": false,
-      "mp4": "videos/ES_P3_T1_U2.mp4"
-    },
-    {
       "id": "p3-u4-lesson",
       "grade": "p3",
       "title": "Unit 4: Let's Tell Stories!",
@@ -765,6 +755,17 @@
       "mp4": "videos/ES_P5_T1_U6.mp4",
       "poster": "videos/ES_P5_T1_U6.jpg",
       "media_version": "adf1de6fedc1",
+      "soon": false
+    },
+    {
+      "id": "p3-u2-lesson",
+      "grade": "p3",
+      "title": "Unit 2: My Family and I",
+      "part": "فيديو شرح الوحدة الثانية",
+      "duration": "18:56",
+      "mp4": "videos/ES_P3_T1_U2.mp4",
+      "poster": "videos/ES_P3_T1_U2.jpg",
+      "media_version": "b9b6c2c3a614",
       "soon": false
     }
   ]
