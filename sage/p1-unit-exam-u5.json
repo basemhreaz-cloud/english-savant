@@ -1,0 +1,1045 @@
+[
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 1,
+    "lesson_title": "Welcome to the Farm",
+    "id": "p1-u5-l1-01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 1, pdf p.85-88",
+    "type": "mcq",
+    "prompt": "'cow' يعني إيه؟",
+    "options": [
+      "بقرة",
+      "بطة",
+      "حصان",
+      "فرخة"
+    ],
+    "answer": "بقرة",
+    "explanation_ar": "cow بقرة.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "cow"
+    ],
+    "requires_image": false,
+    "explanation_en": "«cow» means بقرة."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 1,
+    "lesson_title": "Welcome to the Farm",
+    "id": "p1-u5-l1-02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 1, pdf p.85-88",
+    "type": "mcq",
+    "prompt": "'duck' يعني إيه؟",
+    "options": [
+      "بطة",
+      "بقرة",
+      "فرخة",
+      "حصان"
+    ],
+    "answer": "بطة",
+    "explanation_ar": "duck بطة.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "duck"
+    ],
+    "requires_image": false,
+    "explanation_en": "«duck» means بطة."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 1,
+    "lesson_title": "Welcome to the Farm",
+    "id": "p1-u5-l1-kg01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 1, pdf p.85-88 (reused approved original art)",
+    "type": "mcq",
+    "prompt": "What animal is this?",
+    "passage": null,
+    "options": [
+      "fish",
+      "cow",
+      "lion",
+      "dog"
+    ],
+    "answer": "cow",
+    "answer_kind": "closed",
+    "explanation_ar": "الصورة دي بقرة. الكلمة بالإنجليزي cow.",
+    "image": "p1-lessons-assets/img/kg-cow.png",
+    "alt": "picture: cow",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "The picture is بقرة. The word in English: cow."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 1,
+    "lesson_title": "Welcome to the Farm",
+    "id": "p1-u5-l1-09",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 1, pdf p.85-88",
+    "type": "mcq",
+    "prompt": "Read, then choose. The cow is ____.",
+    "options": [
+      "big",
+      "small",
+      "short",
+      "thin"
+    ],
+    "answer": "big",
+    "explanation_ar": "البقرة كبيرة: big.",
+    "passage": "Ziad: The cow is big. The duck is small.",
+    "answer_kind": "closed",
+    "image_optional": [
+      "cow"
+    ],
+    "requires_image": false,
+    "explanation_en": "The cow is big: big."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 1,
+    "lesson_title": "Welcome to the Farm",
+    "id": "p1-u5-l1-10",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 1, pdf p.85-88",
+    "type": "mcq",
+    "prompt": "Read, then choose. The duck is ____.",
+    "options": [
+      "small",
+      "big",
+      "tall",
+      "long"
+    ],
+    "answer": "small",
+    "explanation_ar": "البطة صغيرة: small.",
+    "passage": "Ziad: The cow is big. The duck is small.",
+    "answer_kind": "closed",
+    "image_optional": [
+      "duck"
+    ],
+    "requires_image": false,
+    "explanation_en": "The duck is small: small."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 1,
+    "lesson_title": "Welcome to the Farm",
+    "id": "p1-u5-l1-22",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 1, pdf p.85-88",
+    "type": "tf",
+    "prompt": "Ziad says the cow is big.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "في المحادثة: The cow is big.",
+    "passage": "Noor: Look at the cow!\nZiad: Wow! The cow is big!\nNoor: And look at the duck!\nZiad: The duck is small.\nNoor: Do you see the horse?\nZiad: Yes! The horse is big, too.\nNoor: What about the chicken?\nZiad: The chicken is small.\nNoor: I love farm animals!",
+    "answer_kind": "closed",
+    "image_optional": [
+      "cow"
+    ],
+    "requires_image": false,
+    "explanation_en": "In the dialogue: The cow is big."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 1,
+    "lesson_title": "Welcome to the Farm",
+    "id": "p1-u5-l1-23",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 1, pdf p.85-88",
+    "type": "tf",
+    "prompt": "The horse is small.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "في المحادثة: The horse is big, too.",
+    "passage": "Noor: Look at the cow!\nZiad: Wow! The cow is big!\nNoor: And look at the duck!\nZiad: The duck is small.\nNoor: Do you see the horse?\nZiad: Yes! The horse is big, too.\nNoor: What about the chicken?\nZiad: The chicken is small.\nNoor: I love farm animals!",
+    "answer_kind": "closed",
+    "image_optional": [
+      "horse"
+    ],
+    "requires_image": false,
+    "explanation_en": "In the dialogue: The horse is big, too."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 1,
+    "lesson_title": "Welcome to the Farm",
+    "id": "p1-u5-l1-16",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 1, pdf p.85-88",
+    "type": "mcq",
+    "prompt": "The cow gives us ____.",
+    "options": [
+      "milk",
+      "eggs",
+      "honey",
+      "juice"
+    ],
+    "answer": "milk",
+    "explanation_ar": "البقرة بتدينا لبن: milk.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "cow"
+    ],
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/kg-cow.png",
+    "alt": "a cow",
+    "explanation_en": "The cow gives us milk: milk."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 1,
+    "lesson_title": "Welcome to the Farm",
+    "id": "p1-u5-l1-32",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 1, pdf p.85-88",
+    "type": "typein",
+    "prompt": "Write the missing letter: _ ow\nالكلمة معناها: بقرة",
+    "options": null,
+    "answer": "c",
+    "accept": [
+      "c",
+      "C"
+    ],
+    "explanation_ar": "الكلمة cow: c-o-w.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "hint_ar": "بقرة",
+    "image": "p1-lessons-assets/img/kg-cow.png",
+    "alt": "a cow",
+    "explanation_en": "The word cow: c-o-w"
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 1,
+    "lesson_title": "Welcome to the Farm",
+    "id": "p1-u5-l1-35",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 1, pdf p.85-88",
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write in each blank.",
+    "dialogue": [
+      {
+        "speaker": "Noor",
+        "text": "Look at the {1}!"
+      },
+      {
+        "speaker": "Ziad",
+        "text": "Wow! The cow is {2}!"
+      },
+      {
+        "speaker": "Noor",
+        "text": "And look at the duck!"
+      },
+      {
+        "speaker": "Ziad",
+        "text": "The duck is {3}."
+      },
+      {
+        "speaker": "Noor",
+        "text": "Do you see the horse?"
+      },
+      {
+        "speaker": "Ziad",
+        "text": "Yes! The horse is big, too. I love farm {4}!"
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "cow"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "big"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "small"
+        ]
+      },
+      {
+        "n": 4,
+        "accept": [
+          "animals"
+        ]
+      }
+    ],
+    "options": null,
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: cow. 2: big. 3: small. 4: animals.",
+    "passage": null,
+    "answer_kind": "blanks_text",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "Each blank has a slot. 1: cow. 2: big. 3: small. 4: animals."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 2,
+    "lesson_title": "Phonics (Mm, Gg)",
+    "id": "p1-u5-l2-obj02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 2, pdf p.89-93 (original image item)",
+    "type": "mcq",
+    "prompt": "What letter does this word start with?",
+    "passage": null,
+    "options": [
+      "p",
+      "t",
+      "m",
+      "i"
+    ],
+    "answer": "m",
+    "answer_kind": "closed",
+    "explanation_ar": "moon بتبدأ بحرف m.",
+    "image": "p1-lessons-assets/img/obj-moon.png",
+    "alt": "a picture of a moon",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "moon starts with the letter m."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 2,
+    "lesson_title": "Phonics (Mm, Gg)",
+    "id": "p1-u5-l2-11",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 2, pdf p.89-93",
+    "type": "mcq",
+    "prompt": "'moon' يعني إيه؟",
+    "options": [
+      "قمر",
+      "فأر",
+      "عنب",
+      "قرد"
+    ],
+    "answer": "قمر",
+    "explanation_ar": "moon معناها قمر.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "moon"
+    ],
+    "requires_image": false,
+    "explanation_en": "«moon» means قمر."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 2,
+    "lesson_title": "Phonics (Mm, Gg)",
+    "id": "p1-u5-l2-15",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 2, pdf p.89-93",
+    "type": "tf",
+    "prompt": "'monkey' starts with m.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "monkey بتبدأ بحرف m.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "monkey"
+    ],
+    "requires_image": false,
+    "explanation_en": "monkey starts with the letter m."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 2,
+    "lesson_title": "Phonics (Mm, Gg)",
+    "id": "p1-u5-l2-19",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 2, pdf p.89-93",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to make a word.",
+    "options": null,
+    "answer": "moon",
+    "explanation_ar": "رتّب الحروف: m-o-o-n.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "letters": [
+      "n",
+      "m",
+      "o",
+      "o"
+    ],
+    "accept": [
+      "moon"
+    ],
+    "image": "p1-lessons-assets/img/obj-moon.png",
+    "alt": "the moon",
+    "explanation_en": "Order the letters: m-o-o-n"
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 2,
+    "lesson_title": "Phonics (Mm, Gg)",
+    "id": "p1-u5-l2-obj08",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 2, pdf p.89-93 (reused approved original art)",
+    "type": "mcq",
+    "prompt": "What letter does this word start with?",
+    "passage": null,
+    "options": [
+      "f",
+      "m",
+      "c",
+      "g"
+    ],
+    "answer": "g",
+    "answer_kind": "closed",
+    "explanation_ar": "grapes بتبدأ بحرف g.",
+    "image": "p1-lessons-assets/img/kg-grapes.png",
+    "alt": "a picture of a grapes",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "grapes starts with the letter g."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 2,
+    "lesson_title": "Phonics (Mm, Gg)",
+    "id": "p1-u5-l2-31",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 2, pdf p.89-93",
+    "type": "mcq",
+    "prompt": "'grapes' يعني إيه؟",
+    "options": [
+      "عنب",
+      "فأر",
+      "لبن",
+      "معزة"
+    ],
+    "answer": "عنب",
+    "explanation_ar": "grapes معناها عنب.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "grapes"
+    ],
+    "requires_image": false,
+    "explanation_en": "«grapes» means عنب."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 2,
+    "lesson_title": "Phonics (Mm, Gg)",
+    "id": "p1-u5-l2-16",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 2, pdf p.89-93",
+    "type": "tf",
+    "prompt": "'grapes' starts with m.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "grapes بتبدأ بحرف مختلف عن M.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "grapes"
+    ],
+    "requires_image": false,
+    "explanation_en": "grapes starts with a different letter from M."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 2,
+    "lesson_title": "Phonics (Mm, Gg)",
+    "id": "p1-u5-l2-39",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 2, pdf p.89-93",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to make a word.",
+    "options": null,
+    "answer": "grapes",
+    "explanation_ar": "رتّب الحروف: g-r-a-p-e-s.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "letters": [
+      "a",
+      "s",
+      "e",
+      "r",
+      "g",
+      "p"
+    ],
+    "accept": [
+      "grapes"
+    ],
+    "image": "p1-lessons-assets/img/kg-grapes.png",
+    "alt": "grapes",
+    "explanation_en": "Order the letters: g-r-a-p-e-s"
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 2,
+    "lesson_title": "Phonics (Mm, Gg)",
+    "id": "p1-u5-l2-42",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 2, pdf p.89-93",
+    "type": "mcq",
+    "prompt": "Which word starts with g, not m?",
+    "options": [
+      "goat",
+      "milk",
+      "mango",
+      "mouse"
+    ],
+    "answer": "goat",
+    "explanation_ar": "goat بتبدأ بـ g.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "goat starts with g."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 3,
+    "lesson_title": "Numbers From 6 to 10",
+    "id": "p1-u5-l3-img07",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 3, pdf p.94-97 (original image item)",
+    "type": "mcq",
+    "prompt": "Look! There ____ 6 stars.",
+    "passage": null,
+    "options": [
+      "are",
+      "is",
+      "am",
+      "be"
+    ],
+    "answer": "are",
+    "answer_kind": "closed",
+    "explanation_ar": "6 نجوم يعني كذا واحد: بنقول There are.",
+    "image": "p1-lessons-assets/img/count-stars-6.png",
+    "alt": "6 yellow stars",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "«6 نجوم» means كذا واحد: بنقول There are."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 3,
+    "lesson_title": "Numbers From 6 to 10",
+    "id": "p1-u5-l3-img01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 3, pdf p.94-97 (original image item)",
+    "type": "mcq",
+    "prompt": "Count the apples. How many apples are there?",
+    "passage": null,
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "6",
+    "answer_kind": "closed",
+    "explanation_ar": "عدّ الـ apples واحد واحد: الإجابة 6.",
+    "image": "p1-lessons-assets/img/count-apples-6.png",
+    "alt": "6 red apples",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "Count the apples one by one: the answer is 6."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 3,
+    "lesson_title": "Numbers From 6 to 10",
+    "id": "p1-u5-l3-01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 3, pdf p.94-97",
+    "type": "mcq",
+    "prompt": "Count with me: 1, 2, 3, 4, 5, ___",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "answer": "6",
+    "explanation_ar": "بعد 5 ييجي 6.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "After 5 comes 6."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 3,
+    "lesson_title": "Numbers From 6 to 10",
+    "id": "p1-u5-l3-02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 3, pdf p.94-97",
+    "type": "mcq",
+    "prompt": "Count with me: 6, 7, ___",
+    "options": [
+      "8",
+      "9",
+      "5",
+      "10"
+    ],
+    "answer": "8",
+    "explanation_ar": "بعد 7 ييجي 8.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "After 7 comes 8."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 3,
+    "lesson_title": "Numbers From 6 to 10",
+    "id": "p1-u5-l3-16",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 3, pdf p.94-97",
+    "type": "tf",
+    "prompt": "Tamer can see 7 horses.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "في المحادثة: I can see 7 horses!",
+    "passage": "Sara: Hi, Tamer!\nTamer: Hi, Sara!\nSara: How many horses can you see?\nTamer: I can see 7 horses!\nSara: Let's count the ducks.\nTamer: Okay! 1, 2, 3, 4, 5, 6, 7, 8, and 9\nSara: There are 9 ducks!\nTamer: That's a lot of animals!\nSara: Counting farm animals is fun.",
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "In the dialogue: I can see 7 horses!"
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 3,
+    "lesson_title": "Numbers From 6 to 10",
+    "id": "p1-u5-l3-17",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 3, pdf p.94-97",
+    "type": "tf",
+    "prompt": "Sara counts 8 ducks.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "البط 9 مش 8: There are 9 ducks!",
+    "passage": "Sara: Hi, Tamer!\nTamer: Hi, Sara!\nSara: How many horses can you see?\nTamer: I can see 7 horses!\nSara: Let's count the ducks.\nTamer: Okay! 1, 2, 3, 4, 5, 6, 7, 8, and 9\nSara: There are 9 ducks!\nTamer: That's a lot of animals!\nSara: Counting farm animals is fun.",
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "The ducks are 9, not 8: There are 9 ducks!"
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 3,
+    "lesson_title": "Numbers From 6 to 10",
+    "id": "p1-u5-l3-24",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 3, pdf p.94-97",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "I can see 10 stars.",
+    "explanation_ar": "الجملة: I can see 10 stars.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "words": [
+      "10",
+      "I",
+      "can",
+      "stars",
+      ".",
+      "see"
+    ],
+    "answer_tokens": [
+      "I",
+      "can",
+      "see",
+      "10",
+      "stars",
+      "."
+    ],
+    "accept": [
+      "I can see 10 stars."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "image": "p1-lessons-assets/img/count-stars-10.png",
+    "alt": "ten stars",
+    "explanation_en": "The sentence: I can see 10 stars."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 3,
+    "lesson_title": "Numbers From 6 to 10",
+    "id": "p1-u5-l3-26",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 3, pdf p.94-97",
+    "type": "typein",
+    "prompt": "Write the number that comes after 7:",
+    "options": null,
+    "answer": "8",
+    "accept": [
+      "8"
+    ],
+    "explanation_ar": "بعد 7 ييجي 8.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "After 7 comes 8."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 3,
+    "lesson_title": "Numbers From 6 to 10",
+    "id": "p1-u5-l3-29",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 3, pdf p.94-97",
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write in each blank.",
+    "dialogue": [
+      {
+        "speaker": "Sara",
+        "text": "How many {1} can you see?"
+      },
+      {
+        "speaker": "Tamer",
+        "text": "I can see 7 horses!"
+      },
+      {
+        "speaker": "Sara",
+        "text": "Let's count the {2}."
+      },
+      {
+        "speaker": "Tamer",
+        "text": "Okay! 1, 2, 3, 4, 5, 6, 7, 8, and 9"
+      },
+      {
+        "speaker": "Sara",
+        "text": "There are {3} ducks!"
+      },
+      {
+        "speaker": "Tamer",
+        "text": "That's a lot of animals!"
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "horses"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "ducks"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "9"
+        ]
+      }
+    ],
+    "options": null,
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: horses. 2: ducks. 3: 9.",
+    "passage": null,
+    "answer_kind": "blanks_text",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "Each blank has a slot. 1: horses. 2: ducks. 3: 9."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 4,
+    "lesson_title": "Phonics (Oo, Ff)",
+    "id": "p1-u5-l4-obj02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 4, pdf p.98-102 (original image item)",
+    "type": "mcq",
+    "prompt": "What letter does this word start with?",
+    "passage": null,
+    "options": [
+      "o",
+      "k",
+      "p",
+      "h"
+    ],
+    "answer": "o",
+    "answer_kind": "closed",
+    "explanation_ar": "olive بتبدأ بحرف o.",
+    "image": "p1-lessons-assets/img/obj-olive.png",
+    "alt": "a picture of a olive",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "olive starts with the letter o."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 4,
+    "lesson_title": "Phonics (Oo, Ff)",
+    "id": "p1-u5-l4-11",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 4, pdf p.98-102",
+    "type": "mcq",
+    "prompt": "'octopus' يعني إيه؟",
+    "options": [
+      "أخطبوط",
+      "زيتون",
+      "شوكة",
+      "سمكة"
+    ],
+    "answer": "أخطبوط",
+    "explanation_ar": "octopus معناها أخطبوط.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "octopus"
+    ],
+    "requires_image": false,
+    "explanation_en": "«octopus» means أخطبوط."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 4,
+    "lesson_title": "Phonics (Oo, Ff)",
+    "id": "p1-u5-l4-15",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 4, pdf p.98-102",
+    "type": "tf",
+    "prompt": "'on' starts with o.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "on بتبدأ بحرف o.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "on"
+    ],
+    "requires_image": false,
+    "explanation_en": "on starts with the letter o."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 4,
+    "lesson_title": "Phonics (Oo, Ff)",
+    "id": "p1-u5-l4-17",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 4, pdf p.98-102",
+    "type": "typein",
+    "prompt": "Write the first letter: _ ctopus\nالكلمة معناها: أخطبوط",
+    "options": null,
+    "answer": "o",
+    "accept": [
+      "o",
+      "O"
+    ],
+    "explanation_ar": "الحرف الأول من octopus هو o.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": false,
+    "hint_ar": "أخطبوط",
+    "explanation_en": "The first letter of octopus is o."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 4,
+    "lesson_title": "Phonics (Oo, Ff)",
+    "id": "p1-u5-l4-obj04",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 4, pdf p.98-102 (original image item)",
+    "type": "mcq",
+    "prompt": "What letter does this word start with?",
+    "passage": null,
+    "options": [
+      "f",
+      "t",
+      "s",
+      "i"
+    ],
+    "answer": "f",
+    "answer_kind": "closed",
+    "explanation_ar": "fan بتبدأ بحرف f.",
+    "image": "p1-lessons-assets/img/obj-fan.png",
+    "alt": "a picture of a fan",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "fan starts with the letter f."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 4,
+    "lesson_title": "Phonics (Oo, Ff)",
+    "id": "p1-u5-l4-30",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 4, pdf p.98-102",
+    "type": "mcq",
+    "prompt": "'fish' يعني إيه؟",
+    "options": [
+      "سمكة",
+      "زيتون",
+      "شوكة",
+      "ضفدعة"
+    ],
+    "answer": "سمكة",
+    "explanation_ar": "fish معناها سمكة.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "fish"
+    ],
+    "requires_image": false,
+    "explanation_en": "«fish» means سمكة."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 4,
+    "lesson_title": "Phonics (Oo, Ff)",
+    "id": "p1-u5-l4-16",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 4, pdf p.98-102",
+    "type": "tf",
+    "prompt": "'fish' starts with o.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "fish بتبدأ بحرف مختلف عن O.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "fish"
+    ],
+    "requires_image": false,
+    "explanation_en": "fish starts with a different letter from O."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 4,
+    "lesson_title": "Phonics (Oo, Ff)",
+    "id": "p1-u5-l4-39",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 4, pdf p.98-102",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to make a word.",
+    "options": null,
+    "answer": "fork",
+    "explanation_ar": "رتّب الحروف: f-o-r-k.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "letters": [
+      "o",
+      "k",
+      "r",
+      "f"
+    ],
+    "accept": [
+      "fork"
+    ],
+    "image": "p1-lessons-assets/img/obj-fork.png",
+    "alt": "a fork",
+    "explanation_en": "Order the letters: f-o-r-k"
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 5,
+    "lesson": 4,
+    "lesson_title": "Phonics (Oo, Ff)",
+    "id": "p1-u5-l4-41",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 5 Lesson 4, pdf p.98-102",
+    "type": "mcq",
+    "prompt": "Which word starts with f, not o?",
+    "options": [
+      "frog",
+      "olive",
+      "ostrich",
+      "on"
+    ],
+    "answer": "frog",
+    "explanation_ar": "frog بتبدأ بـ f.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "frog starts with f."
+  }
+]

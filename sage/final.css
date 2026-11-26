@@ -1,0 +1,32 @@
+/* final review + exam family: extras from ds.css tokens only */
+.fin-back{margin-block:var(--ds-s2)}
+.fin-pick{max-inline-size:640px}
+.fin-cap{display:block;font-weight:600;color:var(--ds-muted);margin-block-end:var(--ds-s1)}
+.fin-field{display:block}.fin-field .q-input{width:100%}
+textarea.q-input{min-height:96px;resize:vertical;padding:var(--ds-s3)}
+.fin-choices{border:0;padding:0;margin:0;display:grid;gap:var(--ds-s2)}
+.fin-opt{cursor:pointer}.fin-opt input{inline-size:20px;block-size:20px;accent-color:var(--ds-acc);flex:none}
+.fin-q .final-picture{display:block;max-inline-size:min(100%,240px);max-block-size:160px;object-fit:contain;background:#fff;border-radius:var(--ds-r-sm);margin-inline:auto}
+.final-image-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:var(--ds-s2)}.final-image-grid figure{margin:0;text-align:center}.final-image-grid .final-picture{inline-size:100%;block-size:96px}
+.final-number-options{display:flex;flex-wrap:wrap;gap:var(--ds-s2)}.final-number-options button[aria-pressed=true]{background:var(--ds-acc);color:var(--ds-on-acc,#fff);border-color:var(--ds-acc)}
+.final-match{border:0;padding:0;margin:var(--ds-s3) 0}
+.final-wordbank{font-weight:600;color:var(--ds-acc);overflow-wrap:anywhere}
+.fin-audio{inline-size:100%}
+.fin-nav{justify-content:space-between;gap:var(--ds-s2);flex-wrap:wrap}.fin-nav .ds-btn{flex:1 1 140px}
+.fin-expl-btn{inline-size:100%;justify-content:space-between}.fin-expl .final-explanation-text{margin:var(--ds-s2) 0 0;line-height:1.9}
+.fin-credits{margin-top:var(--ds-s4)}.fin-credits summary{min-block-size:44px;display:flex;align-items:center;cursor:pointer;font-weight:600}
+.final-score{font-weight:600}
+.final-section-items>h2,.fin-q h2{grid-column:1/-1}
+.fin-q.is-ok .final-grade-result,.fin-q .final-grade-result:empty{margin:0}
+.final-grade-result{display:none;align-items:center;gap:var(--ds-s2);flex-wrap:wrap}.final-grade-result:not(:empty){display:flex}
+.final-feedback{display:none}
+@media (min-width:700px){.sa-body>.fin-q:has(.q-passage),.sa-body>.fin-q:has(textarea){grid-column:1/-1}}
+textarea.q-input,.fin-field .q-input{padding:var(--ds-s3) var(--ds-s4)!important;line-height:1.5}
+
+.ds-sr{inset-inline-start:0!important;inset-block-start:auto}
+textarea.q-input{min-height:72px;padding:20px var(--ds-s4)!important}
+@media (max-width:767px){.fin-sticky{position:sticky;inset-block-start:60px;z-index:5;background:var(--ds-bg0,#e8eedd);padding:var(--ds-s2) 0}.fin-sticky .fin-prog,.fin-sticky>p{margin:0 0 var(--ds-s2)}}
+label.fin-field{display:flex;flex-direction:column;gap:var(--ds-s2);background:transparent;border:0;box-shadow:none;padding:0;min-height:0;backdrop-filter:none}
+.fin-field .fin-cap{font-weight:600;color:var(--ds-ink)}
+.fin-field .q-input{background:var(--ds-field);border:1px solid var(--ds-edge);border-radius:var(--ds-r-sm,12px);min-height:48px}
+.fin-pick{position:relative;overflow:hidden}

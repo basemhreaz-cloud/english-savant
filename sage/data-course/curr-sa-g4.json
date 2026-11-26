@@ -1,0 +1,1475 @@
+{
+ "grade": "sa-g4",
+ "gradeName": "الصف رابع الابتدائي — المنهج السعودي (Top Goal 1)",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Family Events",
+   "pages": [
+    10,
+    21
+   ],
+   "lessons": [],
+   "vocab": [
+    "aunt",
+    "uncle",
+    "cousin",
+    "daughter",
+    "son",
+    "granddaughter",
+    "grandson",
+    "parent",
+    "helpful",
+    "kind",
+    "lazy",
+    "chatty"
+   ],
+   "sentences": [
+    "My aunt is helpful.",
+    "How often do you walk?",
+    "I always feed the cat.",
+    "He never forgets his bag.",
+    "Whose bag is this?",
+    "The blue bag is ours.",
+    "That coat was hers."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ntau",
+       "answer": [
+        "aunt"
+       ],
+       "hint": "عمة أو خالة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "unlec",
+       "answer": [
+        "uncle"
+       ],
+       "hint": "عم أو خال"
+      },
+      {
+       "type": "unscramble",
+       "letters": "cniuso",
+       "answer": [
+        "cousin"
+       ],
+       "hint": "ابن أو ابنة العم أو الخال"
+      },
+      {
+       "type": "unscramble",
+       "letters": "hrgdtaue",
+       "answer": [
+        "daughter"
+       ],
+       "hint": "ابنة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nos",
+       "answer": [
+        "son"
+       ],
+       "hint": "ابن"
+      },
+      {
+       "type": "unscramble",
+       "letters": "dragnson",
+       "answer": [
+        "grandson"
+       ],
+       "hint": "حفيد"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: حفيد",
+       "options": [
+        "kind",
+        "grandson",
+        "aunt"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: متعاون",
+       "options": [
+        "granddaughter",
+        "grandson",
+        "helpful"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: ابن",
+       "options": [
+        "son",
+        "daughter",
+        "chatty"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: أحد الوالدين",
+       "options": [
+        "granddaughter",
+        "daughter",
+        "parent"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "helpful.",
+        "is",
+        "aunt",
+        "My"
+       ],
+       "answer": [
+        "My",
+        "aunt",
+        "is",
+        "helpful."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "often",
+        "you",
+        "walk?",
+        "How",
+        "do"
+       ],
+       "answer": [
+        "How",
+        "often",
+        "do",
+        "you",
+        "walk?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "I",
+        "cat.",
+        "always",
+        "feed"
+       ],
+       "answer": [
+        "I",
+        "always",
+        "feed",
+        "the",
+        "cat."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "bag.",
+        "never",
+        "He",
+        "forgets",
+        "his"
+       ],
+       "answer": [
+        "He",
+        "never",
+        "forgets",
+        "his",
+        "bag."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: الحقيبة الزرقاء ملكنا.",
+       "options": [
+        "That coat was hers.",
+        "I always feed the cat.",
+        "The blue bag is ours."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا أطعم القطة دائمًا.",
+       "options": [
+        "He never forgets his bag.",
+        "My aunt is helpful.",
+        "I always feed the cat."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هو لا ينسى حقيبته أبدًا.",
+       "options": [
+        "The blue bag is ours.",
+        "I always feed the cat.",
+        "He never forgets his bag."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: عمتي متعاونة.",
+       "options": [
+        "That coat was hers.",
+        "Whose bag is this?",
+        "My aunt is helpful."
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اقرأ الجملة واختار الإجابة الصح",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "How ___ do you walk in the park?",
+       "options": [
+        "old",
+        "often",
+        "many"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "I ___ forget to feed my cat. I do it every day.",
+       "options": [
+        "never",
+        "often",
+        "always"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "She ___ helps her mother.",
+       "options": [
+        "usually",
+        "is usually",
+        "usually is"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "He is ___ kind.",
+       "options": [
+        "always",
+        "ever",
+        "every"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "This bag is ___.",
+       "options": [
+        "she",
+        "her",
+        "hers"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "___ coat was that?",
+       "options": [
+        "Whose",
+        "Who",
+        "Where"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "They own the house. It is ___.",
+       "options": [
+        "their",
+        "them",
+        "theirs"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "My mother has a sister. She is my ___.",
+       "options": [
+        "uncle",
+        "aunt",
+        "son"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "أفراد العائلة والصفات",
+     "text": "aunt تعني عمة أو خالة، وuncle عم أو خال. cousin قد يكون ولدًا أو بنتًا. نصف الشخص بـ kind أو helpful، ونضع الصفة بعد is: My aunt is helpful."
+    },
+    {
+     "title": "السؤال عن التكرار",
+     "text": "How often? تعني كم مرة أو ما مدى تكرار الفعل؟ نستخدم always للدائم، وusually للغالب، وsometimes للأحيان، وrarely للنادر، وnever لما لا يحدث."
+    },
+    {
+     "title": "مكان ظرف التكرار",
+     "text": "عادةً يأتي ظرف التكرار قبل الفعل الأساسي: I always walk. ومع فعل be يأتي بعده: He is always kind. لا نضيف نفيًا آخر إلى never."
+    },
+    {
+     "title": "ضمائر الملكية وwhose",
+     "text": "Whose تسأل عن المالك. نقول This bag is mine أو It is hers. الضمائر mine وyours وhis وhers وours وtheirs تقف دون اسم بعدها. أما my وher فتأتيان قبل الاسم."
+    }
+   ],
+   "meanings": {
+    "aunt": "عمة أو خالة",
+    "uncle": "عم أو خال",
+    "cousin": "ابن أو ابنة العم أو الخال",
+    "daughter": "ابنة",
+    "son": "ابن",
+    "granddaughter": "حفيدة",
+    "grandson": "حفيد",
+    "parent": "أحد الوالدين",
+    "helpful": "متعاون",
+    "kind": "طيب",
+    "lazy": "كسول",
+    "chatty": "كثير الكلام"
+   },
+   "sentenceMeanings": {
+    "My aunt is helpful.": "عمتي متعاونة.",
+    "How often do you walk?": "كم مرة تمشي؟",
+    "I always feed the cat.": "أنا أطعم القطة دائمًا.",
+    "He never forgets his bag.": "هو لا ينسى حقيبته أبدًا.",
+    "Whose bag is this?": "لمن هذه الحقيبة؟",
+    "The blue bag is ours.": "الحقيبة الزرقاء ملكنا.",
+    "That coat was hers.": "ذلك المعطف كان ملكها."
+   }
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "Chores",
+   "pages": [
+    22,
+    33
+   ],
+   "lessons": [],
+   "vocab": [
+    "make the bed",
+    "sweep the floor",
+    "wash the dishes",
+    "cut the grass",
+    "clear the table",
+    "take out the trash",
+    "get dressed",
+    "catch the bus",
+    "broom",
+    "bucket",
+    "dustpan",
+    "leaf"
+   ],
+   "sentences": [
+    "I make my bed every day.",
+    "She is sweeping the floor now.",
+    "What are you doing?",
+    "Can you wash the dishes?",
+    "Can I help you?",
+    "He gets dressed at seven.",
+    "They are taking out the trash."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "mboro",
+       "answer": [
+        "broom"
+       ],
+       "hint": "مكنسة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "kbutec",
+       "answer": [
+        "bucket"
+       ],
+       "hint": "دلو"
+      },
+      {
+       "type": "unscramble",
+       "letters": "naudstp",
+       "answer": [
+        "dustpan"
+       ],
+       "hint": "جاروف قمامة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "efla",
+       "answer": [
+        "leaf"
+       ],
+       "hint": "ورقة شجر"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يخرج القمامة",
+       "options": [
+        "make the bed",
+        "take out the trash",
+        "catch the bus"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: جاروف قمامة",
+       "options": [
+        "leaf",
+        "dustpan",
+        "broom"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يرفع الأطباق عن المائدة",
+       "options": [
+        "clear the table",
+        "catch the bus",
+        "bucket"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يرتدي ملابسه",
+       "options": [
+        "leaf",
+        "get dressed",
+        "bucket"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "bed",
+        "every",
+        "day.",
+        "make",
+        "my",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "make",
+        "my",
+        "bed",
+        "every",
+        "day."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "now.",
+        "She",
+        "sweeping",
+        "the",
+        "is",
+        "floor"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "sweeping",
+        "the",
+        "floor",
+        "now."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "doing?",
+        "you",
+        "are",
+        "What"
+       ],
+       "answer": [
+        "What",
+        "are",
+        "you",
+        "doing?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "wash",
+        "dishes?",
+        "you",
+        "Can"
+       ],
+       "answer": [
+        "Can",
+        "you",
+        "wash",
+        "the",
+        "dishes?"
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هو يرتدي ملابسه في السابعة.",
+       "options": [
+        "She is sweeping the floor now.",
+        "They are taking out the trash.",
+        "He gets dressed at seven."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: ماذا تفعل الآن؟",
+       "options": [
+        "Can you wash the dishes?",
+        "What are you doing?",
+        "I make my bed every day."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هم يخرجون القمامة الآن.",
+       "options": [
+        "They are taking out the trash.",
+        "She is sweeping the floor now.",
+        "Can I help you?"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هل أستطيع مساعدتك؟",
+       "options": [
+        "He gets dressed at seven.",
+        "I make my bed every day.",
+        "Can I help you?"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اقرأ الجملة واختار الإجابة الصح",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "I ___ my bed every morning.",
+       "options": [
+        "makes",
+        "make",
+        "am making"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "Look! She ___ the floor.",
+       "options": [
+        "is sweeping",
+        "sweeps",
+        "sweep"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "Can you ___ the dishes?",
+       "options": [
+        "wash",
+        "washes",
+        "washing"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "He ___ dressed at seven every day.",
+       "options": [
+        "gets",
+        "get",
+        "is get"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "What ___ you doing now?",
+       "options": [
+        "are",
+        "does",
+        "do"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "Can I ___ you?",
+       "options": [
+        "to help",
+        "help",
+        "helping"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "She ___ taking out the trash now.",
+       "options": [
+        "are",
+        "does",
+        "is"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "The plural of leaf is ___.",
+       "options": [
+        "leaves",
+        "leafs",
+        "leafes"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "عادة أم حدث الآن؟",
+     "text": "نستخدم المضارع البسيط للعادة: I make my bed every day. ومع now نستخدم am أو is أو are ثم فعل ing: She is sweeping the floor now."
+    },
+    {
+     "title": "الفعل مع he وshe",
+     "text": "في المضارع البسيط نضيف s أو es: He gets dressed. أما في المضارع المستمر فلا نضيف s للفعل، بل He is getting dressed."
+    },
+    {
+     "title": "الطلب بـ can",
+     "text": "Can you wash the dishes? طلب مهذب من شخص آخر. يأتي بعد can الفعل الأصلي دون to ودون s."
+    },
+    {
+     "title": "عرض المساعدة",
+     "text": "Can I help you? عرض للمساعدة. يمكن الرد Yes, please أو No, thank you. انتبه: clear the table تعني رفع الأطباق، أما set the table فتعني تجهيز المائدة."
+    }
+   ],
+   "meanings": {
+    "make the bed": "يرتب السرير",
+    "sweep the floor": "يكنس الأرض",
+    "wash the dishes": "يغسل الأطباق",
+    "cut the grass": "يقص العشب",
+    "clear the table": "يرفع الأطباق عن المائدة",
+    "take out the trash": "يخرج القمامة",
+    "get dressed": "يرتدي ملابسه",
+    "catch the bus": "يلحق بالحافلة",
+    "broom": "مكنسة",
+    "bucket": "دلو",
+    "dustpan": "جاروف قمامة",
+    "leaf": "ورقة شجر"
+   },
+   "sentenceMeanings": {
+    "I make my bed every day.": "أنا أرتب سريري كل يوم.",
+    "She is sweeping the floor now.": "هي تكنس الأرض الآن.",
+    "What are you doing?": "ماذا تفعل الآن؟",
+    "Can you wash the dishes?": "هل يمكنك غسل الأطباق؟",
+    "Can I help you?": "هل أستطيع مساعدتك؟",
+    "He gets dressed at seven.": "هو يرتدي ملابسه في السابعة.",
+    "They are taking out the trash.": "هم يخرجون القمامة الآن."
+   }
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "Stories",
+   "pages": [
+    34,
+    45
+   ],
+   "lessons": [],
+   "vocab": [
+    "carry",
+    "climb",
+    "cry",
+    "laugh",
+    "shout",
+    "wait",
+    "invite",
+    "plant",
+    "water",
+    "stop",
+    "drop",
+    "fix"
+   ],
+   "sentences": [
+    "He climbed the tree.",
+    "They planted a tree.",
+    "She did not cry.",
+    "Did you water the flowers?",
+    "Yes, I did.",
+    "We waited for the bus.",
+    "He stopped at the gate."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "rrcay",
+       "answer": [
+        "carry"
+       ],
+       "hint": "يحمل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "lcbmi",
+       "answer": [
+        "climb"
+       ],
+       "hint": "يتسلق"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ycr",
+       "answer": [
+        "cry"
+       ],
+       "hint": "يبكي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "lgahu",
+       "answer": [
+        "laugh"
+       ],
+       "hint": "يضحك"
+      },
+      {
+       "type": "unscramble",
+       "letters": "osthu",
+       "answer": [
+        "shout"
+       ],
+       "hint": "يصيح"
+      },
+      {
+       "type": "unscramble",
+       "letters": "itwa",
+       "answer": [
+        "wait"
+       ],
+       "hint": "ينتظر"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يسقي",
+       "options": [
+        "water",
+        "climb",
+        "carry"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يزرع",
+       "options": [
+        "cry",
+        "drop",
+        "plant"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يضحك",
+       "options": [
+        "carry",
+        "wait",
+        "laugh"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يتوقف",
+       "options": [
+        "invite",
+        "stop",
+        "laugh"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "He",
+        "tree.",
+        "climbed",
+        "the"
+       ],
+       "answer": [
+        "He",
+        "climbed",
+        "the",
+        "tree."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "They",
+        "tree.",
+        "planted"
+       ],
+       "answer": [
+        "They",
+        "planted",
+        "a",
+        "tree."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "did",
+        "cry.",
+        "not",
+        "She"
+       ],
+       "answer": [
+        "She",
+        "did",
+        "not",
+        "cry."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "you",
+        "flowers?",
+        "water",
+        "Did"
+       ],
+       "answer": [
+        "Did",
+        "you",
+        "water",
+        "the",
+        "flowers?"
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: نحن انتظرنا الحافلة.",
+       "options": [
+        "She did not cry.",
+        "We waited for the bus.",
+        "Yes, I did."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هل سقيت الزهور؟",
+       "options": [
+        "They planted a tree.",
+        "Did you water the flowers?",
+        "She did not cry."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هم زرعوا شجرة.",
+       "options": [
+        "He stopped at the gate.",
+        "They planted a tree.",
+        "Did you water the flowers?"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هو توقف عند البوابة.",
+       "options": [
+        "He climbed the tree.",
+        "They planted a tree.",
+        "He stopped at the gate."
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اقرأ الجملة واختار الإجابة الصح",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Yesterday, he ___ the tree.",
+       "options": [
+        "climbs",
+        "climb",
+        "climbed"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "She did not ___.",
+       "options": [
+        "cried",
+        "crying",
+        "cry"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "Did you ___ the flowers?",
+       "options": [
+        "water",
+        "waters",
+        "watered"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "The past of stop is ___.",
+       "options": [
+        "stops",
+        "stoped",
+        "stopped"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "The past of carry is ___.",
+       "options": [
+        "carried",
+        "carryed",
+        "carrys"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "Did she laugh? No, she ___.",
+       "options": [
+        "is not",
+        "did not",
+        "does not"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "They ___ me to the party yesterday.",
+       "options": [
+        "invite",
+        "invited",
+        "invites"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "He ___ for the bus yesterday.",
+       "options": [
+        "waited",
+        "wait",
+        "waiting"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "حكاية في الماضي",
+     "text": "للأحداث المنتهية نستخدم الماضي. مع كثير من الأفعال نضيف ed: climb تصبح climbed، وwait تصبح waited. يمكن أن تدل yesterday على الماضي."
+    },
+    {
+     "title": "قواعد كتابة ed",
+     "text": "إذا انتهى الفعل بـ e نضيف d مثل invite → invited. إذا انتهى بحرف ساكن ثم y نحول y إلى ied مثل cry → cried. وفي stop نضاعف p: stopped."
+    },
+    {
+     "title": "نفي الماضي",
+     "text": "نستخدم did not أو didn’t ثم الفعل الأصلي: She did not cry، وليس did not cried. النفي لا يحتاج تغييرًا حسب الفاعل."
+    },
+    {
+     "title": "سؤال الماضي",
+     "text": "نقدم Did ثم الفاعل ثم الفعل الأصلي: Did you water the flowers? يكون الرد Yes, I did أو No, I did not. لا نضيف ed بعد did."
+    }
+   ],
+   "meanings": {
+    "carry": "يحمل",
+    "climb": "يتسلق",
+    "cry": "يبكي",
+    "laugh": "يضحك",
+    "shout": "يصيح",
+    "wait": "ينتظر",
+    "invite": "يدعو",
+    "plant": "يزرع",
+    "water": "يسقي",
+    "stop": "يتوقف",
+    "drop": "يسقط شيئًا",
+    "fix": "يصلح"
+   },
+   "sentenceMeanings": {
+    "He climbed the tree.": "هو تسلق الشجرة.",
+    "They planted a tree.": "هم زرعوا شجرة.",
+    "She did not cry.": "هي لم تبكِ.",
+    "Did you water the flowers?": "هل سقيت الزهور؟",
+    "Yes, I did.": "نعم، فعلت.",
+    "We waited for the bus.": "نحن انتظرنا الحافلة.",
+    "He stopped at the gate.": "هو توقف عند البوابة."
+   }
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "After-School Fun",
+   "pages": [
+    46,
+    57
+   ],
+   "lessons": [],
+   "vocab": [
+    "go shopping",
+    "take photos",
+    "make a model",
+    "play board games",
+    "hide",
+    "inside",
+    "outside",
+    "quickly",
+    "slowly",
+    "carefully",
+    "quietly",
+    "loudly"
+   ],
+   "sentences": [
+    "I went shopping yesterday.",
+    "She took some photos.",
+    "We made a model.",
+    "He walked slowly.",
+    "I stayed home because I was tired.",
+    "I was tired, so I rested.",
+    "I read a book and wrote a story."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "hdei",
+       "answer": [
+        "hide"
+       ],
+       "hint": "يختبئ"
+      },
+      {
+       "type": "unscramble",
+       "letters": "dsneii",
+       "answer": [
+        "inside"
+       ],
+       "hint": "في الداخل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "euidtso",
+       "answer": [
+        "outside"
+       ],
+       "hint": "في الخارج"
+      },
+      {
+       "type": "unscramble",
+       "letters": "qlkycui",
+       "answer": [
+        "quickly"
+       ],
+       "hint": "بسرعة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "llswyo",
+       "answer": [
+        "slowly"
+       ],
+       "hint": "ببطء"
+      },
+      {
+       "type": "unscramble",
+       "letters": "lyfelcrua",
+       "answer": [
+        "carefully"
+       ],
+       "hint": "بحذر"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: بصوت مرتفع",
+       "options": [
+        "play board games",
+        "make a model",
+        "loudly"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يذهب للتسوق",
+       "options": [
+        "slowly",
+        "play board games",
+        "go shopping"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يختبئ",
+       "options": [
+        "hide",
+        "play board games",
+        "take photos"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: في الداخل",
+       "options": [
+        "inside",
+        "loudly",
+        "slowly"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "went",
+        "shopping",
+        "I",
+        "yesterday."
+       ],
+       "answer": [
+        "I",
+        "went",
+        "shopping",
+        "yesterday."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "She",
+        "took",
+        "photos.",
+        "some"
+       ],
+       "answer": [
+        "She",
+        "took",
+        "some",
+        "photos."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "made",
+        "We",
+        "model.",
+        "a"
+       ],
+       "answer": [
+        "We",
+        "made",
+        "a",
+        "model."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "walked",
+        "slowly.",
+        "He"
+       ],
+       "answer": [
+        "He",
+        "walked",
+        "slowly."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: بقيت بالمنزل لأنني كنت متعبًا.",
+       "options": [
+        "I stayed home because I was tired.",
+        "We made a model.",
+        "She took some photos."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: نحن صنعنا نموذجًا.",
+       "options": [
+        "We made a model.",
+        "I stayed home because I was tired.",
+        "She took some photos."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هو مشى ببطء.",
+       "options": [
+        "He walked slowly.",
+        "I stayed home because I was tired.",
+        "We made a model."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هي التقطت بعض الصور.",
+       "options": [
+        "I read a book and wrote a story.",
+        "I was tired, so I rested.",
+        "She took some photos."
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اقرأ الجملة واختار الإجابة الصح",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Yesterday, I ___ shopping.",
+       "options": [
+        "goes",
+        "go",
+        "went"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "She ___ some photos yesterday.",
+       "options": [
+        "take",
+        "takes",
+        "took"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "Did you ___ a model?",
+       "options": [
+        "made",
+        "make",
+        "making"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "He did not ___ TV.",
+       "options": [
+        "watching",
+        "watch",
+        "watched"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "I stayed home ___ I was tired.",
+       "options": [
+        "but",
+        "because",
+        "so"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "I was tired, ___ I rested.",
+       "options": [
+        "when",
+        "because",
+        "so"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "A snail moves ___.",
+       "options": [
+        "slow",
+        "slower",
+        "slowly"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "We ___ a movie yesterday.",
+       "options": [
+        "see",
+        "sees",
+        "saw"
+       ],
+       "answer": 2
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "أفعال الماضي غير المنتظمة",
+     "text": "ليس كل ماضٍ ينتهي بـ ed. go تصبح went، وtake تصبح took، وmake تصبح made، وsee تصبح saw، وwrite تصبح wrote. احفظ الفعل مع مثال قصير."
+    },
+    {
+     "title": "السؤال والنفي يظلان كما هما",
+     "text": "حتى مع الفعل غير المنتظم نستخدم أصله بعد did: Did you go shopping? وI did not go shopping. لا نقول did you went."
+    },
+    {
+     "title": "وصف طريقة الفعل",
+     "text": "نستخدم quickly لوصف السرعة، وslowly للبطء، وcarefully للحذر. الظرف يصف كيف حدث الفعل، مثل He walked slowly."
+    },
+    {
+     "title": "الربط بين الأفكار",
+     "text": "and للإضافة، وbut للتضاد، وbecause لذكر السبب، وso للنتيجة، وwhen لربط حدث بوقته. I was tired, so I rested فيها النتيجة بعد so."
+    }
+   ],
+   "meanings": {
+    "go shopping": "يذهب للتسوق",
+    "take photos": "يلتقط صورًا",
+    "make a model": "يصنع نموذجًا",
+    "play board games": "يلعب ألعاب الطاولة",
+    "hide": "يختبئ",
+    "inside": "في الداخل",
+    "outside": "في الخارج",
+    "quickly": "بسرعة",
+    "slowly": "ببطء",
+    "carefully": "بحذر",
+    "quietly": "بهدوء",
+    "loudly": "بصوت مرتفع"
+   },
+   "sentenceMeanings": {
+    "I went shopping yesterday.": "أنا ذهبت للتسوق أمس.",
+    "She took some photos.": "هي التقطت بعض الصور.",
+    "We made a model.": "نحن صنعنا نموذجًا.",
+    "He walked slowly.": "هو مشى ببطء.",
+    "I stayed home because I was tired.": "بقيت بالمنزل لأنني كنت متعبًا.",
+    "I was tired, so I rested.": "كنت متعبًا، لذلك استرحت.",
+    "I read a book and wrote a story.": "قرأت كتابًا وكتبت قصة."
+   }
+  }
+ ],
+ "source": {
+  "url": "https://files.shawahid.sa/books/1448-GE-PE-K04-SM1-ENMG.pdf",
+  "title": "Top Goal 1, Part 1, Units 1-4",
+  "note": "Independent Shawahid mirror of publisher textbook. Original Arabic explanations and exercises; no textbook page reproductions."
+ }
+}

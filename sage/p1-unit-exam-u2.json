@@ -1,0 +1,1072 @@
+[
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 1,
+    "lesson_title": "In the Garden",
+    "id": "p1-u2-l1-01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 1, pdf p.26-29",
+    "type": "mcq",
+    "prompt": "'grass' يعني إيه؟",
+    "options": [
+      "حشيش",
+      "سما",
+      "شجرة",
+      "فراشة"
+    ],
+    "answer": "حشيش",
+    "explanation_ar": "grass هو الحشيش الأخضر في الجنينة.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "grass"
+    ],
+    "requires_image": false,
+    "explanation_en": "grass is the green الحشيش in the garden."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 1,
+    "lesson_title": "In the Garden",
+    "id": "p1-u2-l1-02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 1, pdf p.26-29",
+    "type": "mcq",
+    "prompt": "'flower' يعني إيه؟",
+    "options": [
+      "زهرة",
+      "عصفور",
+      "سما",
+      "شجرة"
+    ],
+    "answer": "زهرة",
+    "explanation_ar": "flower زهرة.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "flower"
+    ],
+    "requires_image": false,
+    "explanation_en": "flower means زهرة."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 1,
+    "lesson_title": "In the Garden",
+    "id": "p1-u2-l1-img02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 1, pdf p.26-29 (original image item)",
+    "type": "mcq",
+    "prompt": "What is this?",
+    "passage": null,
+    "options": [
+      "flower",
+      "grass",
+      "tree",
+      "bird"
+    ],
+    "answer": "tree",
+    "answer_kind": "closed",
+    "explanation_ar": "الصورة دي شجرة. الكلمة بالإنجليزي tree.",
+    "image": "p1-lessons-assets/img/tree.png",
+    "alt": "a tree with green leaves",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "The picture is شجرة. The word in English: tree."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 1,
+    "lesson_title": "In the Garden",
+    "id": "p1-u2-l1-obj03",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 1, pdf p.26-29 (original image item)",
+    "type": "mcq",
+    "prompt": "What is this?",
+    "passage": null,
+    "options": [
+      "sky",
+      "cake",
+      "drum",
+      "gloves"
+    ],
+    "answer": "sky",
+    "answer_kind": "closed",
+    "explanation_ar": "الصورة دي سما. الكلمة بالإنجليزي sky.",
+    "image": "p1-lessons-assets/img/obj-sky.png",
+    "alt": "a picture of a sky",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "The picture is سما. The word in English: sky."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 1,
+    "lesson_title": "In the Garden",
+    "id": "p1-u2-l1-07",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 1, pdf p.26-29",
+    "type": "mcq",
+    "prompt": "إزاي تقول 'سما' بالإنجليزي؟",
+    "options": [
+      "sky",
+      "grass",
+      "tree",
+      "bird"
+    ],
+    "answer": "sky",
+    "explanation_ar": "السما = sky.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "السما = sky."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 1,
+    "lesson_title": "In the Garden",
+    "id": "p1-u2-l1-08",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 1, pdf p.26-29",
+    "type": "mcq",
+    "prompt": "إزاي تقول 'فراشة' بالإنجليزي؟",
+    "options": [
+      "butterfly",
+      "bird",
+      "flower",
+      "grass"
+    ],
+    "answer": "butterfly",
+    "explanation_ar": "فراشة = butterfly.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "فراشة = butterfly."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 1,
+    "lesson_title": "In the Garden",
+    "id": "p1-u2-l1-19",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 1, pdf p.26-29",
+    "type": "tf",
+    "prompt": "The grass is green.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "الحشيش أخضر.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "grass"
+    ],
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/kg-grass.png",
+    "alt": "green grass",
+    "explanation_en": "The grass is green."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 1,
+    "lesson_title": "In the Garden",
+    "id": "p1-u2-l1-20",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 1, pdf p.26-29",
+    "type": "tf",
+    "prompt": "The sky is yellow.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "السما زرقا مش صفرا.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "sky"
+    ],
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/obj-sky.png",
+    "alt": "a blue sky with clouds",
+    "explanation_en": "The sky is blue, not yellow."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 1,
+    "lesson_title": "In the Garden",
+    "id": "p1-u2-l1-24",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 1, pdf p.26-29",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "The grass is green.",
+    "explanation_ar": "الجملة: The grass is green.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "words": [
+      "grass",
+      ".",
+      "The",
+      "green",
+      "is"
+    ],
+    "answer_tokens": [
+      "The",
+      "grass",
+      "is",
+      "green",
+      "."
+    ],
+    "accept": [
+      "The grass is green."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "image_optional": null,
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/kg-grass.png",
+    "alt": "green grass",
+    "explanation_en": "The sentence: The grass is green."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 1,
+    "lesson_title": "In the Garden",
+    "id": "p1-u2-l1-28",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 1, pdf p.26-29",
+    "type": "typein",
+    "prompt": "Write the missing letter: fl _ wer\nالكلمة معناها: زهرة",
+    "options": null,
+    "answer": "o",
+    "accept": [
+      "o",
+      "O"
+    ],
+    "explanation_ar": "الكلمة flower: f-l-o-w-e-r.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "hint_ar": "زهرة",
+    "image": "p1-lessons-assets/img/flower.png",
+    "alt": "a flower",
+    "explanation_en": "The word flower: f-l-o-w-e-r."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 1,
+    "lesson_title": "In the Garden",
+    "id": "p1-u2-l1-31",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 1, pdf p.26-29",
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write in each blank.",
+    "dialogue": [
+      {
+        "speaker": "Maya",
+        "text": "Look! The grass is {1}."
+      },
+      {
+        "speaker": "Hana",
+        "text": "I can {2} a flower."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Yes, the flower is {3}."
+      },
+      {
+        "speaker": "Hana",
+        "text": "And look at the {4}! It's blue."
+      },
+      {
+        "speaker": "Maya",
+        "text": "I can see a {5}."
+      },
+      {
+        "speaker": "Hana",
+        "text": "Me too! Oh, look! A butterfly!"
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "green"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "see"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "red",
+          "yellow",
+          "pink",
+          "blue",
+          "purple",
+          "orange"
+        ]
+      },
+      {
+        "n": 4,
+        "accept": [
+          "sky"
+        ]
+      },
+      {
+        "n": 5,
+        "accept": [
+          "tree"
+        ]
+      }
+    ],
+    "options": null,
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: green (الحشيش). 2: see. 3: أي لون للزهرة (red أو yellow أو pink...). 4: sky (السما زرقا). 5: tree.",
+    "passage": null,
+    "answer_kind": "blanks_text",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "Each blank has its own slot. 1: green (الحشيش). 2: see. 3: any color for the flower (red or yellow or pink...). 4: sky (السما is blue). 5: tree."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 2,
+    "lesson_title": "Phonics (Ss)",
+    "id": "p1-u2-l2-img01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 2, pdf p.30-33 (original image item)",
+    "type": "mcq",
+    "prompt": "What letter does this word start with?",
+    "passage": null,
+    "options": [
+      "s",
+      "t",
+      "a",
+      "i"
+    ],
+    "answer": "s",
+    "answer_kind": "closed",
+    "explanation_ar": "النجمة star بتبدأ بحرف s.",
+    "image": "p1-lessons-assets/img/star.png",
+    "alt": "a yellow star",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "النجمة star starts with the letter s."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 2,
+    "lesson_title": "Phonics (Ss)",
+    "id": "p1-u2-l2-obj01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 2, pdf p.30-33 (original image item)",
+    "type": "mcq",
+    "prompt": "What is this?",
+    "passage": null,
+    "options": [
+      "axe",
+      "spoon",
+      "fork",
+      "drum"
+    ],
+    "answer": "spoon",
+    "answer_kind": "closed",
+    "explanation_ar": "الصورة دي معلقة. الكلمة بالإنجليزي spoon.",
+    "image": "p1-lessons-assets/img/obj-spoon.png",
+    "alt": "a picture of a spoon",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "The picture is معلقة. The word in English: spoon."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 2,
+    "lesson_title": "Phonics (Ss)",
+    "id": "p1-u2-l2-19",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 2, pdf p.30-33",
+    "type": "mcq",
+    "prompt": "'sun' يعني إيه؟",
+    "options": [
+      "شمس",
+      "نجمة",
+      "تعبان",
+      "عنكبوت"
+    ],
+    "answer": "شمس",
+    "explanation_ar": "sun الشمس.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "sun"
+    ],
+    "requires_image": false,
+    "explanation_en": "sun means الشمس."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 2,
+    "lesson_title": "Phonics (Ss)",
+    "id": "p1-u2-l2-25",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 2, pdf p.30-33",
+    "type": "tf",
+    "prompt": "'star' starts with t.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "star بتبدأ بـ s.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "star"
+    ],
+    "requires_image": false,
+    "explanation_en": "star starts with s."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 2,
+    "lesson_title": "Phonics (Ss)",
+    "id": "p1-u2-l2-31",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 2, pdf p.30-33",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to make a word.",
+    "options": null,
+    "answer": "sun",
+    "explanation_ar": "رتّب الحروف: s-u-n.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "letters": [
+      "n",
+      "s",
+      "u"
+    ],
+    "accept": [
+      "sun"
+    ],
+    "image_optional": null,
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/sun.png",
+    "alt": "the sun",
+    "explanation_en": "Order the letters: s-u-n."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 2,
+    "lesson_title": "Phonics (Ss)",
+    "id": "p1-u2-l2-27",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 2, pdf p.30-33",
+    "type": "typein",
+    "prompt": "Write the first letter: _ un\nالكلمة معناها: شمس",
+    "options": null,
+    "answer": "s",
+    "accept": [
+      "s",
+      "S"
+    ],
+    "explanation_ar": "الحرف الأول من sun هو s.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "hint_ar": "شمس",
+    "image": "p1-lessons-assets/img/sun.png",
+    "alt": "the sun",
+    "explanation_en": "The first letter of sun is s."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 2,
+    "lesson_title": "Phonics (Ss)",
+    "id": "p1-u2-l2-14",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 2, pdf p.30-33",
+    "type": "mcq",
+    "prompt": "Which word does NOT start with s?",
+    "options": [
+      "tiger",
+      "sun",
+      "star",
+      "snake"
+    ],
+    "answer": "tiger",
+    "explanation_ar": "tiger بتبدأ بـ t.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "tiger starts with t."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 3,
+    "lesson_title": "Shapes and Colors",
+    "id": "p1-u2-l3-01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 3, pdf p.34-37",
+    "type": "mcq",
+    "prompt": "'green' يعني إيه؟",
+    "options": [
+      "أخضر",
+      "أزرق",
+      "أحمر",
+      "أصفر"
+    ],
+    "answer": "أخضر",
+    "explanation_ar": "green أخضر زي الحشيش.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "green means أخضر, like grass."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 3,
+    "lesson_title": "Shapes and Colors",
+    "id": "p1-u2-l3-02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 3, pdf p.34-37",
+    "type": "mcq",
+    "prompt": "'blue' يعني إيه؟",
+    "options": [
+      "أزرق",
+      "أخضر",
+      "أحمر",
+      "أصفر"
+    ],
+    "answer": "أزرق",
+    "explanation_ar": "blue أزرق زي السما.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "blue means أزرق, like the sky."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 3,
+    "lesson_title": "Shapes and Colors",
+    "id": "p1-u2-l3-img01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 3, pdf p.34-37 (original image item)",
+    "type": "mcq",
+    "prompt": "What shape is this?",
+    "passage": null,
+    "options": [
+      "circle",
+      "rectangle",
+      "triangle",
+      "square"
+    ],
+    "answer": "circle",
+    "answer_kind": "closed",
+    "explanation_ar": "الشكل ده دايرة بالإنجليزي circle.",
+    "image": "p1-lessons-assets/img/shape-circle-red.png",
+    "alt": "a red circle",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "This shape is دايرة, in English: circle."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 3,
+    "lesson_title": "Shapes and Colors",
+    "id": "p1-u2-l3-img09",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 3, pdf p.34-37 (original image item)",
+    "type": "mcq",
+    "prompt": "How many sides does this shape have?",
+    "passage": null,
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": "3",
+    "answer_kind": "closed",
+    "explanation_ar": "المثلث ليه 3 أضلاع.",
+    "image": "p1-lessons-assets/img/shape-triangle-red.png",
+    "alt": "a red triangle",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "A triangle has 3 sides."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 3,
+    "lesson_title": "Shapes and Colors",
+    "id": "p1-u2-l3-09",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 3, pdf p.34-37",
+    "type": "mcq",
+    "prompt": "The sun is ____.",
+    "options": [
+      "yellow",
+      "blue",
+      "green",
+      "red"
+    ],
+    "answer": "yellow",
+    "explanation_ar": "الشمس صفرا.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "sun"
+    ],
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/sun.png",
+    "alt": "a yellow sun",
+    "explanation_en": "The sun is yellow."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 3,
+    "lesson_title": "Shapes and Colors",
+    "id": "p1-u2-l3-12",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 3, pdf p.34-37",
+    "type": "mcq",
+    "prompt": "A tomato is ____.",
+    "options": [
+      "red",
+      "green",
+      "blue",
+      "yellow"
+    ],
+    "answer": "red",
+    "explanation_ar": "الطماطم لونها أحمر: red.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "flower"
+    ],
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/obj-tomato.png",
+    "alt": "a red tomato",
+    "explanation_en": "Tomatoes are red: red."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 3,
+    "lesson_title": "Shapes and Colors",
+    "id": "p1-u2-l3-23",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 3, pdf p.34-37",
+    "type": "tf",
+    "prompt": "The triangle has 3 sides.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "المثلث ليه 3 أضلاع.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "triangle"
+    ],
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/shape-triangle-yellow.png",
+    "alt": "a triangle",
+    "explanation_en": "A triangle has 3 sides."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 3,
+    "lesson_title": "Shapes and Colors",
+    "id": "p1-u2-l3-24",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 3, pdf p.34-37",
+    "type": "tf",
+    "prompt": "The rectangle has 3 sides.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "المستطيل ليه 4 أضلاع.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "rectangle"
+    ],
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/shape-rectangle-blue.png",
+    "alt": "a rectangle",
+    "explanation_en": "A rectangle has 4 sides."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 3,
+    "lesson_title": "Shapes and Colors",
+    "id": "p1-u2-l3-27",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 3, pdf p.34-37",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "The square is blue.",
+    "explanation_ar": "الجملة: The square is blue.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "words": [
+      "square",
+      "is",
+      "blue",
+      ".",
+      "The"
+    ],
+    "answer_tokens": [
+      "The",
+      "square",
+      "is",
+      "blue",
+      "."
+    ],
+    "accept": [
+      "The square is blue."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "image_optional": null,
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/shape-square-blue.png",
+    "alt": "a blue square",
+    "explanation_en": "The sentence: The square is blue."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 3,
+    "lesson_title": "Shapes and Colors",
+    "id": "p1-u2-l3-30",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 3, pdf p.34-37",
+    "type": "typein",
+    "prompt": "Write the missing letter: re _\nالكلمة معناها: أحمر (لون)",
+    "options": null,
+    "answer": "d",
+    "accept": [
+      "d",
+      "D"
+    ],
+    "explanation_ar": "الكلمة red: r-e-d.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "hint_ar": "أحمر (لون)",
+    "image": "p1-lessons-assets/img/color-red.png",
+    "alt": "the color red",
+    "explanation_en": "The word red: r-e-d."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 3,
+    "lesson_title": "Shapes and Colors",
+    "id": "p1-u2-l3-32",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 3, pdf p.34-37",
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write in each blank.",
+    "dialogue": [
+      {
+        "speaker": "Teacher",
+        "text": "What {1} is this?"
+      },
+      {
+        "speaker": "Student",
+        "text": "This is a {2}."
+      },
+      {
+        "speaker": "Teacher",
+        "text": "What {3} is the square?"
+      },
+      {
+        "speaker": "Student",
+        "text": "The square is {4}."
+      },
+      {
+        "speaker": "Teacher",
+        "text": "Look at the triangle. Tell me about it."
+      },
+      {
+        "speaker": "Student",
+        "text": "The triangle has {5} sides."
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "shape"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "circle",
+          "square",
+          "triangle",
+          "rectangle"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "color"
+        ]
+      },
+      {
+        "n": 4,
+        "accept": [
+          "blue",
+          "red",
+          "yellow",
+          "green"
+        ]
+      },
+      {
+        "n": 5,
+        "accept": [
+          "3",
+          "three"
+        ]
+      }
+    ],
+    "options": null,
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: shape (شكل). 2: اسم شكل صحيح. 3: color (لون). 4: لون صحيح. 5: المثلث ليه 3 أضلاع (3 أو three).",
+    "passage": null,
+    "answer_kind": "blanks_text",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "Each blank has its own slot. 1: shape (شكل). 2: a correct shape name. 3: color (لون). 4: a correct color. 5: the triangle has 3 sides (3 or three)."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 4,
+    "lesson_title": "Phonics (Aa)",
+    "id": "p1-u2-l4-img01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 4, pdf p.38-41 (original image item)",
+    "type": "mcq",
+    "prompt": "What letter does this word start with?",
+    "passage": null,
+    "options": [
+      "a",
+      "s",
+      "t",
+      "i"
+    ],
+    "answer": "a",
+    "answer_kind": "closed",
+    "explanation_ar": "التفاحة apple بتبدأ بحرف a.",
+    "image": "p1-lessons-assets/img/apple.png",
+    "alt": "a red apple",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "التفاحة apple starts with the letter a."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 4,
+    "lesson_title": "Phonics (Aa)",
+    "id": "p1-u2-l4-obj01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 4, pdf p.38-41 (original image item)",
+    "type": "mcq",
+    "prompt": "What is this?",
+    "passage": null,
+    "options": [
+      "egg",
+      "axe",
+      "jacket",
+      "leaf"
+    ],
+    "answer": "axe",
+    "answer_kind": "closed",
+    "explanation_ar": "الصورة دي فأس. الكلمة بالإنجليزي axe.",
+    "image": "p1-lessons-assets/img/obj-axe.png",
+    "alt": "a picture of a axe",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "The picture is فأس. The word in English: axe."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 4,
+    "lesson_title": "Phonics (Aa)",
+    "id": "p1-u2-l4-21",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 4, pdf p.38-41",
+    "type": "mcq",
+    "prompt": "'ant' يعني إيه؟",
+    "options": [
+      "نملة",
+      "عنكبوت",
+      "ثعبان",
+      "نجمة"
+    ],
+    "answer": "نملة",
+    "explanation_ar": "ant نملة صغيرة.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "ant"
+    ],
+    "requires_image": false,
+    "explanation_en": "ant is a small نملة."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 4,
+    "lesson_title": "Phonics (Aa)",
+    "id": "p1-u2-l4-26",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 4, pdf p.38-41",
+    "type": "tf",
+    "prompt": "'apple' starts with s.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "apple بتبدأ بـ a.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "apple"
+    ],
+    "requires_image": false,
+    "explanation_en": "apple starts with a."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 4,
+    "lesson_title": "Phonics (Aa)",
+    "id": "p1-u2-l4-32",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 4, pdf p.38-41",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to make a word.",
+    "options": null,
+    "answer": "ant",
+    "explanation_ar": "رتّب الحروف: a-n-t.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "letters": [
+      "t",
+      "a",
+      "n"
+    ],
+    "accept": [
+      "ant"
+    ],
+    "image_optional": null,
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/kg-ant.png",
+    "alt": "an ant",
+    "explanation_en": "Order the letters: a-n-t."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 4,
+    "lesson_title": "Phonics (Aa)",
+    "id": "p1-u2-l4-28",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 4, pdf p.38-41",
+    "type": "typein",
+    "prompt": "Write the first letter: _ nt\nالكلمة معناها: نملة",
+    "options": null,
+    "answer": "a",
+    "accept": [
+      "a",
+      "A"
+    ],
+    "explanation_ar": "الحرف الأول من ant هو a.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "hint_ar": "نملة",
+    "image": "p1-lessons-assets/img/kg-ant.png",
+    "alt": "an ant",
+    "explanation_en": "The first letter of ant is a."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 2,
+    "lesson": 4,
+    "lesson_title": "Phonics (Aa)",
+    "id": "p1-u2-l4-14",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 2 Lesson 4, pdf p.38-41",
+    "type": "mcq",
+    "prompt": "Which word does NOT start with a?",
+    "options": [
+      "sun",
+      "ant",
+      "axe",
+      "arrow"
+    ],
+    "answer": "sun",
+    "explanation_ar": "sun بتبدأ بـ s.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "sun starts with s."
+  }
+]

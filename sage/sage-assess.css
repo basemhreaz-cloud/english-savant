@@ -1,0 +1,56 @@
+/* Assessments family: only layout glue on top of ds.css tokens. */
+.sa-open svg,.sa-fbline svg,.sa-backbtn svg{width:20px;height:20px;flex:none;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+html[dir=rtl] .sa-backbtn svg,html[dir=rtl] .sa-open svg{transform:scaleX(-1)}
+.sa-h2{margin-top:var(--ds-s5);font-size:var(--ds-t-h2);line-height:1.35}
+.sa-grid{margin-top:var(--ds-s4)}
+.sa-card,.sa-entry,.sa-panel{display:flex;flex-direction:column;align-items:flex-start;gap:var(--ds-s2)}
+.sa-card>*+*,.sa-entry>*+*,.sa-panel>*+*{margin-top:0}
+.sa-card .ds-btn,.sa-panel .ds-btn{margin-top:auto;width:100%}
+.sa-card h3,.sa-entry h3{font-size:var(--ds-t-lg);line-height:1.4;margin:var(--ds-s1) 0 0}
+.sa-card .ds-sub,.sa-entry .ds-sub,.sa-panel .ds-sub{margin-top:0}
+.sa-entry{min-height:168px;color:inherit}
+.sa-entry .ds-tile{margin-bottom:var(--ds-s2)}
+.sa-open{margin-top:auto;display:inline-flex;align-items:center;gap:var(--ds-s2);font-weight:700;font-size:var(--ds-t-sm);color:var(--ds-acc);min-height:44px}
+.sa-panel{margin-top:var(--ds-s4)}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+/* lessons */
+.sa-lesson{width:100%;text-align:start;font:inherit;color:inherit;cursor:pointer}
+.sa-lesson .tx b{font-family:var(--ds-font)}
+.sa-root{margin-top:var(--ds-s3)}
+.sa-head{display:flex;flex-direction:column;gap:var(--ds-s2);margin-bottom:var(--ds-s4)}
+.sa-head .sa-h2{margin:var(--ds-s3) 0 0}
+.sa-backbtn{align-self:flex-start}
+.sa-q{margin-bottom:var(--ds-s4);max-width:820px}
+.sa-prompt{font-size:var(--ds-t-lg);line-height:1.7;margin:0}
+.sa-controls{margin-top:var(--ds-s4);display:flex;flex-direction:column;gap:var(--ds-s3)}
+.sa-controls .ds-opts{margin-top:0}
+.sa-img{display:block;max-width:min(100%,300px);max-height:240px;object-fit:contain;margin:var(--ds-s3) auto;border-radius:var(--ds-r-md);background:#fff;padding:var(--ds-s2)}
+.sa-pic{width:100%;height:110px;object-fit:contain;border-radius:var(--ds-r-sm);background:#fff}
+.sa-result{min-height:56px;display:flex;align-items:center;padding:var(--ds-s3) var(--ds-s4);border:1.5px dashed var(--ds-muted);border-radius:var(--ds-r-md);background:var(--ds-glass2);margin:0;font-size:var(--ds-t-lg);overflow-wrap:anywhere}
+.sa-bank{display:flex;flex-wrap:wrap;gap:var(--ds-s2)}
+.sa-token:disabled{opacity:.35}
+.sa-undo{align-self:flex-start}
+.sa-turn{display:flex;flex-wrap:wrap;align-items:center;gap:var(--ds-s2);line-height:1.9}
+.sa-inline{display:inline-flex;width:min(180px,100%);min-height:44px}
+.ds-field.ok{border-color:var(--ds-ok)}.ds-field.bad{border-color:var(--ds-bad)}
+.sa-check{margin-top:var(--ds-s4)}
+.sa-feed{margin-top:var(--ds-s3)}
+.sa-fbline{margin:0}
+.sa-feed .ds-feedback p+p{margin-top:var(--ds-s2)}
+.sa-exp{margin-top:var(--ds-s3);padding:var(--ds-s3) var(--ds-s4);border-radius:var(--ds-r-md);background:var(--ds-glass2);color:var(--ds-ink);line-height:1.9}
+.sa-nav{justify-content:space-between;margin-top:var(--ds-s5)}
+.sa-score{text-align:center;display:flex;flex-direction:column;align-items:center;max-width:520px;margin-inline:auto}
+.sa-score .ds-progress{width:100%}
+.sa-score .ds-row{justify-content:center}
+.sa-lesson .tx{text-align:start}
+.sa-q,.sa-head,#sa-top{scroll-margin-top:calc(var(--ds-top) + var(--ds-s4))}
+.sa-opts-odd,.ds-opts.sa-odd{grid-template-columns:minmax(0,1fr)}
+.sa-check[hidden]{display:none}
+.sa-root .ds-progress>i{min-width:var(--ds-s2)}
+@media(min-width:768px){.sa-q .ds-opts{grid-template-columns:repeat(2,minmax(0,1fr))}.sa-q .ds-opts.sa-odd{grid-template-columns:minmax(0,1fr)}}
+.sa-root{scroll-margin-top:calc(var(--ds-top) + var(--ds-s4))}
+.ds-app p:not(.ds-sub),.sa-panel p{max-width:68ch}
+.ds-page>.ds-sub{max-width:68ch}
+/* v5.8: old-site lesson-count lists (character parity with old es-lesson-counts) */
+ul.es-lesson-counts{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:4px;color:var(--ds-muted);font-size:var(--ds-t-sm);line-height:1.55;max-inline-size:75ch}
+.sa-panel ul.es-lesson-counts{margin-top:0}

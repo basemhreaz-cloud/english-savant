@@ -1,0 +1,1442 @@
+{
+ "grade": "m1",
+ "gradeName": "الصف الأول الإعدادي",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Life in a Digital World",
+   "pages": [
+    13,
+    26
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "A Day in My Digital Life"
+    },
+    {
+     "n": 2,
+     "title": "How We Use Technology"
+    },
+    {
+     "n": 3,
+     "title": "Digital Devices"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Magic Classroom - Chapter One 'The First Challenge'"
+    },
+    {
+     "n": 5,
+     "title": "An Email to a Friend"
+    },
+    {
+     "n": 6,
+     "title": "Team-Project Roundtable"
+    }
+   ],
+   "vocab": [
+    "digital",
+    "ebooks",
+    "laptop",
+    "tablet",
+    "download",
+    "night",
+    "mode",
+    "smartboard",
+    "website",
+    "online"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Adverbs of frequency with the Present Simple tense",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "قصة الوحدة: The Magic Classroom - Chapter One 'The First Challenge'",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "hecsra",
+       "answer": [
+        "search"
+       ],
+       "hint": "يبحث"
+      },
+      {
+       "type": "unscramble",
+       "letters": "leonni",
+       "answer": [
+        "online"
+       ],
+       "hint": "عبر الإنترنت"
+      },
+      {
+       "type": "unscramble",
+       "letters": "oirucus",
+       "answer": [
+        "curious"
+       ],
+       "hint": "فضولي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "dalndwoo",
+       "answer": [
+        "download"
+       ],
+       "hint": "تنزيل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "feeruhcl",
+       "answer": [
+        "cheerful"
+       ],
+       "hint": "مبتهج"
+      },
+      {
+       "type": "unscramble",
+       "letters": "dbosrmrata",
+       "answer": [
+        "smartboard"
+       ],
+       "hint": "سبورة ذكية"
+      }
+     ]
+    },
+    {
+     "id": "missing",
+     "title": "الحرف الناقص",
+     "sub": "اكتب الحرف الناقص وكمّل كلمة الوحدة",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ode",
+       "answer": [
+        "m"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_creen",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_mail",
+       "answer": [
+        "e"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ight",
+       "answer": [
+        "n"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ablet",
+       "answer": [
+        "t"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_nnouncement",
+       "answer": [
+        "a"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "build",
+     "title": "تكوين الكلمات",
+     "sub": "رتّب الحروف وكوّن الكلمة المركبة زي درس Word-building",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "rmatbosrad",
+       "answer": [
+        "smartboard"
+       ],
+       "hint": "سبورة ذكية"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eabrkoyd",
+       "answer": [
+        "keyboard"
+       ],
+       "hint": "لوحة مفاتيح"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rokmohwe",
+       "answer": [
+        "homework"
+       ],
+       "hint": "واجب منزلي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "crloowsohk",
+       "answer": [
+        "schoolwork"
+       ],
+       "hint": "عمل مدرسي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "iocdtnbroea",
+       "answer": [
+        "noticeboard"
+       ],
+       "hint": "لوحة إعلانات"
+      }
+     ]
+    },
+    {
+     "id": "order",
+     "title": "ظروف التكرار",
+     "sub": "رتّبها من الأكثر للأقل تكرارًا، زي جدول الكتاب",
+     "questions": [
+      {
+       "type": "reorder",
+       "label": "order",
+       "words": [
+        "rarely",
+        "sometimes",
+        "always",
+        "never",
+        "often",
+        "usually"
+       ],
+       "answer": [
+        "always",
+        "usually",
+        "often",
+        "sometimes",
+        "rarely",
+        "never"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "Learning to Learn",
+   "pages": [
+    27,
+    40
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "My Learning Journey"
+    },
+    {
+     "n": 2,
+     "title": "Learning Challenges and Solutions"
+    },
+    {
+     "n": 3,
+     "title": "Benefits of Learning Together"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Magic Classroom - Chapter Two 'The Power Of Unity'"
+    },
+    {
+     "n": 5,
+     "title": "My Learning Plan"
+    },
+    {
+     "n": 6,
+     "title": "Team-Project Roundtable"
+    }
+   ],
+   "vocab": [
+    "visual",
+    "auditory",
+    "kinesthetic",
+    "explanations",
+    "experiments",
+    "mind",
+    "map",
+    "benefits",
+    "communicate",
+    "leadership"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: The Present Continuous tense; Can / Can't (for ability)",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "قصة الوحدة: The Magic Classroom - Chapter Two 'The Power Of Unity'",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "besnvilii",
+       "answer": [
+        "invisible"
+       ],
+       "hint": "غير مرئي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "brhtea",
+       "answer": [
+        "breath"
+       ],
+       "hint": "نَفَس"
+      },
+      {
+       "type": "unscramble",
+       "letters": "neseetpirmx",
+       "answer": [
+        "experiments"
+       ],
+       "hint": "تجارب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "reeexpneic",
+       "answer": [
+        "experience"
+       ],
+       "hint": "خبرة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "todiuyar",
+       "answer": [
+        "auditory"
+       ],
+       "hint": "سمعي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "apm",
+       "answer": [
+        "map"
+       ],
+       "hint": "خريطة"
+      }
+     ]
+    },
+    {
+     "id": "missing",
+     "title": "الحرف الناقص",
+     "sub": "اكتب الحرف الناقص وكمّل كلمة الوحدة",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ind",
+       "answer": [
+        "m"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ommunicate",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_xplanations",
+       "answer": [
+        "e"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_mbition",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_esitated",
+       "answer": [
+        "h"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_eadership",
+       "answer": [
+        "l"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "Role Models",
+   "pages": [
+    41,
+    54
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "An Egyptian Hero"
+    },
+    {
+     "n": 2,
+     "title": "Heroes and Role Models"
+    },
+    {
+     "n": 3,
+     "title": "A Great Egyptian Thinker Dr. Gamal Hemdan"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Magic Classroom - Chapter Three 'The Greatest Lessons'"
+    },
+    {
+     "n": 5,
+     "title": "A Hero Who Made a Difference 'Dr Mohamed Ghoniem'"
+    },
+    {
+     "n": 6,
+     "title": "Team-Project Roundtable"
+    }
+   ],
+   "vocab": [
+    "hero",
+    "inspire",
+    "brave",
+    "kind",
+    "determined",
+    "caring",
+    "role",
+    "model",
+    "community",
+    "achievement"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: The Past Simple tense (regular and irregular)",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "قصة الوحدة: The Magic Classroom - Chapter Three 'The Greatest Lessons'",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "tbsrinpyoiisel",
+       "answer": [
+        "responsibility"
+       ],
+       "hint": "مسؤولية"
+      },
+      {
+       "type": "unscramble",
+       "letters": "iiuysortc",
+       "answer": [
+        "curiosity"
+       ],
+       "hint": "فضول"
+      },
+      {
+       "type": "unscramble",
+       "letters": "erho",
+       "answer": [
+        "hero"
+       ],
+       "hint": "بطل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rearohepgg",
+       "answer": [
+        "geographer"
+       ],
+       "hint": "جغرافي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "iamcnheevet",
+       "answer": [
+        "achievement"
+       ],
+       "hint": "إنجاز"
+      },
+      {
+       "type": "unscramble",
+       "letters": "einkssdn",
+       "answer": [
+        "kindness"
+       ],
+       "hint": "لطف"
+      }
+     ]
+    },
+    {
+     "id": "missing",
+     "title": "الحرف الناقص",
+     "sub": "اكتب الحرف الناقص وكمّل كلمة الوحدة",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ind",
+       "answer": [
+        "k"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ombined",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_aring",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ommunity",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_rinned",
+       "answer": [
+        "g"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_espect",
+       "answer": [
+        "r"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Smart Choices",
+   "pages": [
+    59,
+    72
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Think Before You Choose"
+    },
+    {
+     "n": 2,
+     "title": "Decisions and Consequences"
+    },
+    {
+     "n": 3,
+     "title": "An Interview with an Athlete ('A Wise Decision')"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Dream Team - Chapter One 'Never Give Up'"
+    },
+    {
+     "n": 5,
+     "title": "Asking for and Giving Advice"
+    },
+    {
+     "n": 6,
+     "title": "Team-Project Roundtable"
+    }
+   ],
+   "vocab": [
+    "decision",
+    "fair",
+    "proud",
+    "improve",
+    "promise",
+    "choice",
+    "face",
+    "positive",
+    "negative",
+    "responsible"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: First conditional; Should / shouldn't (for advice)",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "قصة الوحدة: The Dream Team - Chapter One 'Never Give Up'",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "iodnerg",
+       "answer": [
+        "ignored"
+       ],
+       "hint": "تجاهل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eeqsunsccone",
+       "answer": [
+        "consequences"
+       ],
+       "hint": "عواقب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "meatdoniernit",
+       "answer": [
+        "determination"
+       ],
+       "hint": "عزيمة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "pistveoi",
+       "answer": [
+        "positive"
+       ],
+       "hint": "إيجابي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "swie",
+       "answer": [
+        "wise"
+       ],
+       "hint": "حكيم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tnyhsoe",
+       "answer": [
+        "honesty"
+       ],
+       "hint": "أمانة"
+      }
+     ]
+    },
+    {
+     "id": "missing",
+     "title": "الحرف الناقص",
+     "sub": "اكتب الحرف الناقص وكمّل كلمة الوحدة",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ecover",
+       "answer": [
+        "r"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_hoice",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_roblem",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_reate",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_isk",
+       "answer": [
+        "r"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_mprove",
+       "answer": [
+        "i"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "Future Dreams",
+   "pages": [
+    73,
+    86
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Discover Your Future!"
+    },
+    {
+     "n": 2,
+     "title": "An Interview with a Scientist"
+    },
+    {
+     "n": 3,
+     "title": "My Plan for a Future Career"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Dream Team - Chapter Two 'Does Lily feel shy now?'"
+    },
+    {
+     "n": 5,
+     "title": "My Dream Job!"
+    },
+    {
+     "n": 6,
+     "title": "Team-Project Roundtable"
+    }
+   ],
+   "vocab": [
+    "ambition",
+    "develop",
+    "opportunities",
+    "plan",
+    "path",
+    "passion",
+    "skill",
+    "profession",
+    "explore",
+    "dream"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: (Be) + going to (future plans, intentions, predictions with evidence)",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "قصة الوحدة: The Dream Team - Chapter Two 'Does Lily feel shy now?'",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "unueiq",
+       "answer": [
+        "unique"
+       ],
+       "hint": "فريد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "sotrinaipa",
+       "answer": [
+        "aspiration"
+       ],
+       "hint": "طموح"
+      },
+      {
+       "type": "unscramble",
+       "letters": "felpytcer",
+       "answer": [
+        "perfectly"
+       ],
+       "hint": "بإتقان"
+      },
+      {
+       "type": "unscramble",
+       "letters": "hys",
+       "answer": [
+        "shy"
+       ],
+       "hint": "خجول"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ssfoorneip",
+       "answer": [
+        "profession"
+       ],
+       "hint": "مهنة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "echveai",
+       "answer": [
+        "achieve"
+       ],
+       "hint": "يحقّق"
+      }
+     ]
+    },
+    {
+     "id": "missing",
+     "title": "الحرف الناقص",
+     "sub": "اكتب الحرف الناقص وكمّل كلمة الوحدة",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_assion",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ath",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_mbition",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_uccess",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ducation",
+       "answer": [
+        "e"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_alent",
+       "answer": [
+        "t"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "Global Citizens",
+   "pages": [
+    87,
+    100
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Being a Global Citizen"
+    },
+    {
+     "n": 2,
+     "title": "Global Citizen Talk"
+    },
+    {
+     "n": 3,
+     "title": "Ocean Circle"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Dream Team - Chapter Three 'A Team of Tomorrow'"
+    },
+    {
+     "n": 5,
+     "title": "Let's Make a Difference"
+    },
+    {
+     "n": 6,
+     "title": "Team-Project Roundtable"
+    }
+   ],
+   "vocab": [
+    "global",
+    "citizen",
+    "community",
+    "rule",
+    "improve",
+    "fair",
+    "respect",
+    "encourage",
+    "volunteer",
+    "environment"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Must / mustn't; a review of tenses (present simple, present continuous, past simple)",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "قصة الوحدة: The Dream Team - Chapter Three 'A Team of Tomorrow'",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "hrtsgi",
+       "answer": [
+        "rights"
+       ],
+       "hint": "حقوق"
+      },
+      {
+       "type": "unscramble",
+       "letters": "macpti",
+       "answer": [
+        "impact"
+       ],
+       "hint": "تأثير"
+      },
+      {
+       "type": "unscramble",
+       "letters": "aegnrd",
+       "answer": [
+        "danger"
+       ],
+       "hint": "خطر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "obllga",
+       "answer": [
+        "global"
+       ],
+       "hint": "عالمي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tecrpot",
+       "answer": [
+        "protect"
+       ],
+       "hint": "يحمي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "sbareleu",
+       "answer": [
+        "reusable"
+       ],
+       "hint": "قابل لإعادة الاستخدام"
+      }
+     ]
+    },
+    {
+     "id": "missing",
+     "title": "الحرف الناقص",
+     "sub": "اكتب الحرف الناقص وكمّل كلمة الوحدة",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_esponsibility",
+       "answer": [
+        "r"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ulture",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ommunity",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_uties",
+       "answer": [
+        "d"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_air",
+       "answer": [
+        "f"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_itizen",
+       "answer": [
+        "c"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r1",
+   "num": "مراجعة الوحدات ١-٣",
+   "title": "مراجعة الوحدات ١-٣",
+   "pages": [
+    55,
+    58
+   ],
+   "review": true,
+   "vocab": [
+    "digital",
+    "ebooks",
+    "laptop",
+    "tablet",
+    "visual",
+    "auditory",
+    "kinesthetic",
+    "explanations",
+    "hero",
+    "inspire",
+    "brave",
+    "kind"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Adverbs of frequency with the Present Simple tense",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: The Present Continuous tense; Can / Can't (for ability)",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: The Past Simple tense (regular and irregular)",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة شاملة",
+     "sub": "أسئلة متنوعة من الوحدات",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "besnvilii",
+       "answer": [
+        "invisible"
+       ],
+       "hint": "غير مرئي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "hecsra",
+       "answer": [
+        "search"
+       ],
+       "hint": "يبحث"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tbsrinpyoiisel",
+       "answer": [
+        "responsibility"
+       ],
+       "hint": "مسؤولية"
+      },
+      {
+       "type": "unscramble",
+       "letters": "iiuysortc",
+       "answer": [
+        "curiosity"
+       ],
+       "hint": "فضول"
+      },
+      {
+       "type": "reorder",
+       "label": "order",
+       "words": [
+        "rarely",
+        "sometimes",
+        "always",
+        "never",
+        "often",
+        "usually"
+       ],
+       "answer": [
+        "always",
+        "usually",
+        "often",
+        "sometimes",
+        "rarely",
+        "never"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "brhtea",
+       "answer": [
+        "breath"
+       ],
+       "hint": "نَفَس"
+      },
+      {
+       "type": "unscramble",
+       "letters": "leonni",
+       "answer": [
+        "online"
+       ],
+       "hint": "عبر الإنترنت"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eabrkoyd",
+       "answer": [
+        "keyboard"
+       ],
+       "hint": "لوحة مفاتيح"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ombined",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ommunicate",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "rmatbosrad",
+       "answer": [
+        "smartboard"
+       ],
+       "hint": "سبورة ذكية"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ind",
+       "answer": [
+        "m"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ind",
+       "answer": [
+        "k"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ode",
+       "answer": [
+        "m"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_creen",
+       "answer": [
+        "s"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "num": "مراجعة الوحدات ٤-٦",
+   "title": "مراجعة الوحدات ٤-٦",
+   "pages": [
+    101,
+    103
+   ],
+   "review": true,
+   "vocab": [
+    "decision",
+    "fair",
+    "proud",
+    "improve",
+    "ambition",
+    "develop",
+    "opportunities",
+    "plan",
+    "global",
+    "citizen",
+    "community",
+    "rule"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: First conditional; Should / shouldn't (for advice)",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: (Be) + going to (future plans, intentions, predictions with evidence)",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: Must / mustn't; a review of tenses (present simple, present continuous, past simple)",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة شاملة",
+     "sub": "أسئلة متنوعة من الوحدات",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "macpti",
+       "answer": [
+        "impact"
+       ],
+       "hint": "تأثير"
+      },
+      {
+       "type": "unscramble",
+       "letters": "sotrinaipa",
+       "answer": [
+        "aspiration"
+       ],
+       "hint": "طموح"
+      },
+      {
+       "type": "unscramble",
+       "letters": "hrtsgi",
+       "answer": [
+        "rights"
+       ],
+       "hint": "حقوق"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ath",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "iodnerg",
+       "answer": [
+        "ignored"
+       ],
+       "hint": "تجاهل"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_assion",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ecover",
+       "answer": [
+        "r"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "unueiq",
+       "answer": [
+        "unique"
+       ],
+       "hint": "فريد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eeqsunsccone",
+       "answer": [
+        "consequences"
+       ],
+       "hint": "عواقب"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_hoice",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_esponsibility",
+       "answer": [
+        "r"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ulture",
+       "answer": [
+        "c"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

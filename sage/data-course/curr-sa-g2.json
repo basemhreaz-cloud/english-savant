@@ -1,0 +1,1966 @@
+{
+ "grade": "sa-g2",
+ "gradeName": "الصف ثاني الابتدائي — المنهج السعودي (We Can 2)",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Feelings",
+   "pages": [
+    4,
+    11
+   ],
+   "lessons": [],
+   "vocab": [
+    "hungry",
+    "thirsty",
+    "hot",
+    "cold",
+    "sleepy",
+    "scared",
+    "clap",
+    "cap",
+    "clock",
+    "lock"
+   ],
+   "sentences": [
+    "How are you?",
+    "I am fine.",
+    "I am hungry.",
+    "I am thirsty.",
+    "Nice to meet you.",
+    "Clap your hands."
+   ],
+   "phonics": [
+    {
+     "focus": "cl: clap · clock"
+    },
+    {
+     "focus": "l: lock"
+    },
+    {
+     "focus": "c: cap"
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "nyhrgu",
+       "answer": [
+        "hungry"
+       ],
+       "hint": "جائع"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tyhirts",
+       "answer": [
+        "thirsty"
+       ],
+       "hint": "عطشان"
+      },
+      {
+       "type": "unscramble",
+       "letters": "oht",
+       "answer": [
+        "hot"
+       ],
+       "hint": "يشعر بالحر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ocld",
+       "answer": [
+        "cold"
+       ],
+       "hint": "يشعر بالبرد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "sleype",
+       "answer": [
+        "sleepy"
+       ],
+       "hint": "نعسان"
+      },
+      {
+       "type": "unscramble",
+       "letters": "dacser",
+       "answer": [
+        "scared"
+       ],
+       "hint": "خائف"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يشعر بالحر",
+       "options": [
+        "scared",
+        "thirsty",
+        "hot"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: جائع",
+       "options": [
+        "cold",
+        "thirsty",
+        "hungry"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: خائف",
+       "options": [
+        "scared",
+        "hot",
+        "cold"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: قبعة",
+       "options": [
+        "lock",
+        "cap",
+        "thirsty"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "are",
+        "you?",
+        "How"
+       ],
+       "answer": [
+        "How",
+        "are",
+        "you?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "fine.",
+        "am"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "fine."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "am",
+        "hungry.",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "hungry."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "thirsty.",
+        "I",
+        "am"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "thirsty."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا بخير.",
+       "options": [
+        "I am fine.",
+        "I am hungry.",
+        "Nice to meet you."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: كيف حالك؟",
+       "options": [
+        "How are you?",
+        "I am fine.",
+        "I am hungry."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا عطشان.",
+       "options": [
+        "I am hungry.",
+        "I am thirsty.",
+        "Nice to meet you."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا جائع.",
+       "options": [
+        "I am hungry.",
+        "How are you?",
+        "Nice to meet you."
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات والحروف",
+     "sub": "اختر الكلمة المناسبة للصوت",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "'lock' starts with 'cl'.",
+       "answer": false
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'cl'?",
+       "options": [
+        "clap",
+        "lock",
+        "cap"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'cl'?",
+       "options": [
+        "lock",
+        "clock",
+        "cap"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "tf",
+       "q": "'clap' starts with 'cl'.",
+       "answer": true
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'l'?",
+       "options": [
+        "lock",
+        "cap",
+        "clap"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "tf",
+       "q": "'lock' starts with 'l'.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "'clock' starts with 'l'.",
+       "answer": false
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "اختبر فهمك للقاعدة",
+     "sub": "اختار الإجابة التي تكمل المعنى والقواعد",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "I ___ hungry.",
+       "options": [
+        "am",
+        "are",
+        "is"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "___ are you?",
+       "options": [
+        "How",
+        "Who",
+        "Whose"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "It is nice to ___ you.",
+       "options": [
+        "clap",
+        "hungry",
+        "meet"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "I am ___ . I want some water.",
+       "options": [
+        "cold",
+        "thirsty",
+        "sleepy"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "I want to sleep. I am ___.",
+       "options": [
+        "hot",
+        "hungry",
+        "sleepy"
+       ],
+       "answer": 2
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "السؤال عن الحال",
+     "text": "نقول How are you? للسؤال عن الحال. نرد بـ I am fine أو I am great. عند التعارف نقول Nice to meet you، والرد Nice to meet you, too."
+    },
+    {
+     "title": "التعبير عن الشعور",
+     "text": "نستخدم I am ثم صفة: I am hungry تعني أنا جائع، وI am thirsty تعني أنا عطشان. الاختصار I’m يساوي I am."
+    },
+    {
+     "title": "الفرق بين حرف ومجموعة حروف",
+     "text": "cap تبدأ بـ c، أما clap فتبدأ بـ cl. نقول الحرفين معًا في clap وclock، ونراجع فرق المعنى بين cap وclap."
+    }
+   ],
+   "meanings": {
+    "hungry": "جائع",
+    "thirsty": "عطشان",
+    "hot": "يشعر بالحر",
+    "cold": "يشعر بالبرد",
+    "sleepy": "نعسان",
+    "scared": "خائف",
+    "clap": "يصفق",
+    "cap": "قبعة",
+    "clock": "ساعة حائط",
+    "lock": "قفل"
+   },
+   "sentenceMeanings": {
+    "How are you?": "كيف حالك؟",
+    "I am fine.": "أنا بخير.",
+    "I am hungry.": "أنا جائع.",
+    "I am thirsty.": "أنا عطشان.",
+    "Nice to meet you.": "سعدت بلقائك.",
+    "Clap your hands.": "صفق بيديك."
+   }
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "Things We Wear",
+   "pages": [
+    12,
+    19
+   ],
+   "lessons": [],
+   "vocab": [
+    "hat",
+    "jacket",
+    "jeans",
+    "skirt",
+    "shoes",
+    "sweater",
+    "blouse",
+    "sunglasses",
+    "parrot",
+    "panda",
+    "bear",
+    "banana"
+   ],
+   "sentences": [
+    "I like your hat.",
+    "Whose hat is this?",
+    "It is mine.",
+    "It is not mine.",
+    "I am wearing a jacket.",
+    "You are welcome."
+   ],
+   "phonics": [
+    {
+     "focus": "p: parrot · panda"
+    },
+    {
+     "focus": "b: bear · banana"
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ath",
+       "answer": [
+        "hat"
+       ],
+       "hint": "قبعة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "jcetka",
+       "answer": [
+        "jacket"
+       ],
+       "hint": "سترة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nseaj",
+       "answer": [
+        "jeans"
+       ],
+       "hint": "بنطال جينز"
+      },
+      {
+       "type": "unscramble",
+       "letters": "isktr",
+       "answer": [
+        "skirt"
+       ],
+       "hint": "تنورة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "hesso",
+       "answer": [
+        "shoes"
+       ],
+       "hint": "حذاء"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tereaws",
+       "answer": [
+        "sweater"
+       ],
+       "hint": "كنزة"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: موز",
+       "options": [
+        "banana",
+        "bear",
+        "skirt"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: بنطال جينز",
+       "options": [
+        "jacket",
+        "sweater",
+        "jeans"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: سترة",
+       "options": [
+        "jacket",
+        "panda",
+        "hat"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: باندا",
+       "options": [
+        "parrot",
+        "jacket",
+        "panda"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "hat.",
+        "I",
+        "like",
+        "your"
+       ],
+       "answer": [
+        "I",
+        "like",
+        "your",
+        "hat."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Whose",
+        "is",
+        "this?",
+        "hat"
+       ],
+       "answer": [
+        "Whose",
+        "hat",
+        "is",
+        "this?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "mine.",
+        "It"
+       ],
+       "answer": [
+        "It",
+        "is",
+        "mine."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "not",
+        "is",
+        "It",
+        "mine."
+       ],
+       "answer": [
+        "It",
+        "is",
+        "not",
+        "mine."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: تعجبني قبعتك.",
+       "options": [
+        "I like your hat.",
+        "You are welcome.",
+        "I am wearing a jacket."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: إنها ليست ملكي.",
+       "options": [
+        "Whose hat is this?",
+        "It is not mine.",
+        "It is mine."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا أرتدي سترة.",
+       "options": [
+        "I am wearing a jacket.",
+        "It is not mine.",
+        "It is mine."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: إنها ملكي.",
+       "options": [
+        "Whose hat is this?",
+        "You are welcome.",
+        "It is mine."
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات والحروف",
+     "sub": "اختر الكلمة المناسبة للصوت",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "'bear' starts with 'b'.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "'parrot' starts with 'p'.",
+       "answer": true
+      },
+      {
+       "type": "tf",
+       "q": "'bear' starts with 'p'.",
+       "answer": false
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'p'?",
+       "options": [
+        "bear",
+        "banana",
+        "parrot"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "tf",
+       "q": "'parrot' starts with 'b'.",
+       "answer": false
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'b'?",
+       "options": [
+        "bear",
+        "panda",
+        "parrot"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'p'?",
+       "options": [
+        "banana",
+        "bear",
+        "panda"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'b'?",
+       "options": [
+        "parrot",
+        "banana",
+        "panda"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "اختبر فهمك للقاعدة",
+     "sub": "اختار الإجابة التي تكمل المعنى والقواعد",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "I am ___ a jacket.",
+       "options": [
+        "wear",
+        "wears",
+        "wearing"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "Whose hat is this? It is ___.",
+       "options": [
+        "I",
+        "mine",
+        "my"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "I like ___ hat.",
+       "options": [
+        "yours",
+        "your",
+        "you"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "I am wearing ___ hat.",
+       "options": [
+        "an",
+        "a",
+        "two"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "I am wearing blue ___.",
+       "options": [
+        "an jeans",
+        "a jeans",
+        "jeans"
+       ],
+       "answer": 2
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "وصف الملابس",
+     "text": "نستخدم I am wearing للملابس التي نرتديها الآن. مثل I am wearing a jacket. نقول a hat للمفرد، لكن لا نضع a قبل jeans أو shoes لأنهما بصيغة الجمع."
+    },
+    {
+     "title": "السؤال عن المالك",
+     "text": "Whose hat is this? تعني لمن هذه القبعة؟ كلمة mine تعني ملكي، وIt is not mine تعني إنها ليست ملكي."
+    },
+    {
+     "title": "المجاملة والرد",
+     "text": "I like your hat مجاملة معناها تعجبني قبعتك. يكون الرد Thank you، ثم You are welcome. راجع p في parrot وpanda وb في bear وbanana."
+    }
+   ],
+   "meanings": {
+    "hat": "قبعة",
+    "jacket": "سترة",
+    "jeans": "بنطال جينز",
+    "skirt": "تنورة",
+    "shoes": "حذاء",
+    "sweater": "كنزة",
+    "blouse": "بلوزة",
+    "sunglasses": "نظارة شمس",
+    "parrot": "ببغاء",
+    "panda": "باندا",
+    "bear": "دب",
+    "banana": "موز"
+   },
+   "sentenceMeanings": {
+    "I like your hat.": "تعجبني قبعتك.",
+    "Whose hat is this?": "لمن هذه القبعة؟",
+    "It is mine.": "إنها ملكي.",
+    "It is not mine.": "إنها ليست ملكي.",
+    "I am wearing a jacket.": "أنا أرتدي سترة.",
+    "You are welcome.": "على الرحب والسعة."
+   }
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "Things We Do",
+   "pages": [
+    20,
+    27
+   ],
+   "lessons": [],
+   "vocab": [
+    "watching TV",
+    "eating snacks",
+    "doing karate",
+    "doing homework",
+    "playing football",
+    "phone",
+    "photo",
+    "tree",
+    "truck",
+    "dress",
+    "drink"
+   ],
+   "sentences": [
+    "What are you doing?",
+    "I am watching TV.",
+    "I am eating snacks.",
+    "I am doing karate.",
+    "I am playing football.",
+    "Can I speak to Ali?"
+   ],
+   "phonics": [
+    {
+     "focus": "tr: tree · truck"
+    },
+    {
+     "focus": "dr: dress · drink"
+    },
+    {
+     "focus": "ph: phone · photo"
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "hnope",
+       "answer": [
+        "phone"
+       ],
+       "hint": "هاتف"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tohop",
+       "answer": [
+        "photo"
+       ],
+       "hint": "صورة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eetr",
+       "answer": [
+        "tree"
+       ],
+       "hint": "شجرة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tckru",
+       "answer": [
+        "truck"
+       ],
+       "hint": "شاحنة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "resds",
+       "answer": [
+        "dress"
+       ],
+       "hint": "فستان"
+      },
+      {
+       "type": "unscramble",
+       "letters": "dknri",
+       "answer": [
+        "drink"
+       ],
+       "hint": "يشرب"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: فستان",
+       "options": [
+        "dress",
+        "eating snacks",
+        "watching TV"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يؤدي الواجب",
+       "options": [
+        "eating snacks",
+        "playing football",
+        "doing homework"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يشاهد التلفاز",
+       "options": [
+        "tree",
+        "doing karate",
+        "watching TV"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يشرب",
+       "options": [
+        "playing football",
+        "doing karate",
+        "drink"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "are",
+        "doing?",
+        "What",
+        "you"
+       ],
+       "answer": [
+        "What",
+        "are",
+        "you",
+        "doing?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "TV.",
+        "watching",
+        "am",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "watching",
+        "TV."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "eating",
+        "I",
+        "snacks.",
+        "am"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "eating",
+        "snacks."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "doing",
+        "am",
+        "karate.",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "doing",
+        "karate."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: ماذا تفعل الآن؟",
+       "options": [
+        "Can I speak to Ali?",
+        "I am doing karate.",
+        "What are you doing?"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا ألعب كرة القدم.",
+       "options": [
+        "What are you doing?",
+        "I am playing football.",
+        "Can I speak to Ali?"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا أشاهد التلفاز.",
+       "options": [
+        "I am doing karate.",
+        "Can I speak to Ali?",
+        "I am watching TV."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا أمارس الكاراتيه.",
+       "options": [
+        "I am watching TV.",
+        "I am doing karate.",
+        "What are you doing?"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات والحروف",
+     "sub": "اختر الكلمة المناسبة للصوت",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "'tree' starts with 'tr'.",
+       "answer": true
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'dr'?",
+       "options": [
+        "dress",
+        "photo",
+        "tree"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "tf",
+       "q": "'phone' starts with 'tr'.",
+       "answer": false
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'tr'?",
+       "options": [
+        "tree",
+        "dress",
+        "drink"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'dr'?",
+       "options": [
+        "truck",
+        "tree",
+        "drink"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'ph'?",
+       "options": [
+        "truck",
+        "drink",
+        "phone"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "tf",
+       "q": "'tree' starts with 'dr'.",
+       "answer": false
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'ph'?",
+       "options": [
+        "drink",
+        "photo",
+        "truck"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "اختبر فهمك للقاعدة",
+     "sub": "اختار الإجابة التي تكمل المعنى والقواعد",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What ___ you doing?",
+       "options": [
+        "am",
+        "are",
+        "is"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "I am ___ football.",
+       "options": [
+        "plays",
+        "play",
+        "playing"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "Can I speak ___ Ali?",
+       "options": [
+        "in",
+        "on",
+        "to"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "I ___ watching TV.",
+       "options": [
+        "is",
+        "are",
+        "am"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "She is ___ snacks.",
+       "options": [
+        "eat",
+        "eats",
+        "eating"
+       ],
+       "answer": 2
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "حدث يحصل الآن",
+     "text": "نسأل What are you doing? ونرد بـ I am ثم فعل ينتهي بـ ing. مثل I am watching TV. الكلام هنا عن شيء يحدث الآن."
+    },
+    {
+     "title": "تكوين الجملة",
+     "text": "مع I نستخدم am، ومع you نستخدم are. لذلك نقول I am playing وYou are playing، وليس I are playing."
+    },
+    {
+     "title": "مكالمة الهاتف والأصوات",
+     "text": "Can I speak to Ali? للسؤال عن شخص في الهاتف. في phone وphoto تنطق ph بصوت /f/. راجع أيضًا tr في tree وtruck وdr في dress وdrink."
+    }
+   ],
+   "meanings": {
+    "watching TV": "يشاهد التلفاز",
+    "eating snacks": "يأكل وجبة خفيفة",
+    "doing karate": "يمارس الكاراتيه",
+    "doing homework": "يؤدي الواجب",
+    "playing football": "يلعب كرة القدم",
+    "phone": "هاتف",
+    "photo": "صورة",
+    "tree": "شجرة",
+    "truck": "شاحنة",
+    "dress": "فستان",
+    "drink": "يشرب"
+   },
+   "sentenceMeanings": {
+    "What are you doing?": "ماذا تفعل الآن؟",
+    "I am watching TV.": "أنا أشاهد التلفاز.",
+    "I am eating snacks.": "أنا آكل وجبة خفيفة.",
+    "I am doing karate.": "أنا أمارس الكاراتيه.",
+    "I am playing football.": "أنا ألعب كرة القدم.",
+    "Can I speak to Ali?": "هل يمكنني التحدث إلى علي؟"
+   }
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Beautiful Nature",
+   "pages": [
+    28,
+    35
+   ],
+   "lessons": [],
+   "vocab": [
+    "mountains",
+    "flowers",
+    "hills",
+    "stars",
+    "snake",
+    "snow",
+    "long",
+    "short",
+    "beautiful",
+    "ugly",
+    "quiet",
+    "noisy",
+    "strong",
+    "weak",
+    "grass",
+    "glass",
+    "crab",
+    "class"
+   ],
+   "sentences": [
+    "Look at the flowers.",
+    "The snake is long.",
+    "The flower is beautiful.",
+    "The tree is big.",
+    "It is quiet.",
+    "I like the mountains."
+   ],
+   "phonics": [
+    {
+     "focus": "gr: grass"
+    },
+    {
+     "focus": "cr: crab"
+    },
+    {
+     "focus": "gl: glass"
+    },
+    {
+     "focus": "cl: class"
+    },
+    {
+     "focus": "sn: snake · snow"
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "niomtauns",
+       "answer": [
+        "mountains"
+       ],
+       "hint": "جبال"
+      },
+      {
+       "type": "unscramble",
+       "letters": "efslowr",
+       "answer": [
+        "flowers"
+       ],
+       "hint": "زهور"
+      },
+      {
+       "type": "unscramble",
+       "letters": "lsilh",
+       "answer": [
+        "hills"
+       ],
+       "hint": "تلال"
+      },
+      {
+       "type": "unscramble",
+       "letters": "stsra",
+       "answer": [
+        "stars"
+       ],
+       "hint": "نجوم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ksean",
+       "answer": [
+        "snake"
+       ],
+       "hint": "ثعبان"
+      },
+      {
+       "type": "unscramble",
+       "letters": "wsno",
+       "answer": [
+        "snow"
+       ],
+       "hint": "ثلج"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: زهور",
+       "options": [
+        "ugly",
+        "glass",
+        "flowers"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: ثعبان",
+       "options": [
+        "snake",
+        "long",
+        "glass"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: هادئ",
+       "options": [
+        "strong",
+        "stars",
+        "quiet"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: جميل",
+       "options": [
+        "glass",
+        "beautiful",
+        "class"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "Look",
+        "at",
+        "flowers.",
+        "the"
+       ],
+       "answer": [
+        "Look",
+        "at",
+        "the",
+        "flowers."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "long.",
+        "is",
+        "snake",
+        "The"
+       ],
+       "answer": [
+        "The",
+        "snake",
+        "is",
+        "long."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "beautiful.",
+        "The",
+        "is",
+        "flower"
+       ],
+       "answer": [
+        "The",
+        "flower",
+        "is",
+        "beautiful."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "big.",
+        "The",
+        "tree"
+       ],
+       "answer": [
+        "The",
+        "tree",
+        "is",
+        "big."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: الثعبان طويل.",
+       "options": [
+        "Look at the flowers.",
+        "It is quiet.",
+        "The snake is long."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: انظر إلى الزهور.",
+       "options": [
+        "The tree is big.",
+        "I like the mountains.",
+        "Look at the flowers."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا أحب الجبال.",
+       "options": [
+        "Look at the flowers.",
+        "The flower is beautiful.",
+        "I like the mountains."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: الشجرة كبيرة.",
+       "options": [
+        "It is quiet.",
+        "The tree is big.",
+        "Look at the flowers."
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات والحروف",
+     "sub": "اختر الكلمة المناسبة للصوت",
+     "questions": [
+      {
+       "type": "tf",
+       "q": "'crab' starts with 'cl'.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "'grass' starts with 'gl'.",
+       "answer": false
+      },
+      {
+       "type": "tf",
+       "q": "'crab' starts with 'cr'.",
+       "answer": true
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'sn'?",
+       "options": [
+        "crab",
+        "glass",
+        "snow"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'gl'?",
+       "options": [
+        "glass",
+        "grass",
+        "snow"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'gr'?",
+       "options": [
+        "grass",
+        "crab",
+        "glass"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "tf",
+       "q": "'glass' starts with 'gl'.",
+       "answer": true
+      },
+      {
+       "type": "mcq",
+       "q": "Which word starts with 'sn'?",
+       "options": [
+        "crab",
+        "snake",
+        "class"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "اختبر فهمك للقاعدة",
+     "sub": "اختار الإجابة التي تكمل المعنى والقواعد",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "The opposite of long is ___.",
+       "options": [
+        "short",
+        "noisy",
+        "strong"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "The opposite of quiet is ___.",
+       "options": [
+        "noisy",
+        "weak",
+        "beautiful"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "The flower ___ beautiful.",
+       "options": [
+        "am",
+        "are",
+        "is"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "The mountains ___ big.",
+       "options": [
+        "is",
+        "am",
+        "are"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "Look ___ the sky.",
+       "options": [
+        "at",
+        "to",
+        "in"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "وصف الطبيعة",
+     "text": "نستخدم is مع المفرد ثم الصفة: The snake is long. الصفة تأتي بعد is، ولا نضيف لها s إذا وصفنا جمعًا."
+    },
+    {
+     "title": "صفات متضادة",
+     "text": "long عكس short، وbig عكس small، وbeautiful عكس ugly. أما quiet فمعناها هادئ وعكسها noisy، وstrong عكس weak."
+    },
+    {
+     "title": "مجموعات الحروف",
+     "text": "نراجع gr في grass وcr في crab وgl في glass وcl في class. في snake وsnow نسمع sn معًا. اقرأ الكلمة كاملة بعد نطق بدايتها."
+    }
+   ],
+   "meanings": {
+    "mountains": "جبال",
+    "flowers": "زهور",
+    "hills": "تلال",
+    "stars": "نجوم",
+    "snake": "ثعبان",
+    "snow": "ثلج",
+    "long": "طويل",
+    "short": "قصير",
+    "beautiful": "جميل",
+    "ugly": "قبيح",
+    "quiet": "هادئ",
+    "noisy": "صاخب",
+    "strong": "قوي",
+    "weak": "ضعيف",
+    "grass": "عشب",
+    "glass": "زجاج",
+    "crab": "سلطعون",
+    "class": "فصل دراسي"
+   },
+   "sentenceMeanings": {
+    "Look at the flowers.": "انظر إلى الزهور.",
+    "The snake is long.": "الثعبان طويل.",
+    "The flower is beautiful.": "الزهرة جميلة.",
+    "The tree is big.": "الشجرة كبيرة.",
+    "It is quiet.": "إنه هادئ.",
+    "I like the mountains.": "أنا أحب الجبال."
+   }
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "Friends, Actions, Things",
+   "pages": [
+    36,
+    43
+   ],
+   "lessons": [],
+   "vocab": [
+    "laughing",
+    "jumping",
+    "cycling",
+    "walking",
+    "talking",
+    "sweet",
+    "sour",
+    "salty",
+    "tasty",
+    "hot",
+    "cold",
+    "orange juice"
+   ],
+   "sentences": [
+    "He is walking.",
+    "They are cycling.",
+    "She is not playing.",
+    "Are they jumping?",
+    "The lemon is sour.",
+    "The chips are salty.",
+    "Do you want one?",
+    "She has orange juice."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "nilgghau",
+       "answer": [
+        "laughing"
+       ],
+       "hint": "يضحك"
+      },
+      {
+       "type": "unscramble",
+       "letters": "gjimnup",
+       "answer": [
+        "jumping"
+       ],
+       "hint": "يقفز"
+      },
+      {
+       "type": "unscramble",
+       "letters": "lcncygi",
+       "answer": [
+        "cycling"
+       ],
+       "hint": "يركب الدراجة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "anlikgw",
+       "answer": [
+        "walking"
+       ],
+       "hint": "يمشي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "lkganti",
+       "answer": [
+        "talking"
+       ],
+       "hint": "يتحدث"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eeswt",
+       "answer": [
+        "sweet"
+       ],
+       "hint": "حلو المذاق"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: حلو المذاق",
+       "options": [
+        "orange juice",
+        "sweet",
+        "salty"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يقفز",
+       "options": [
+        "jumping",
+        "salty",
+        "laughing"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: بارد",
+       "options": [
+        "sour",
+        "cold",
+        "tasty"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: لذيذ",
+       "options": [
+        "tasty",
+        "talking",
+        "jumping"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "walking.",
+        "He"
+       ],
+       "answer": [
+        "He",
+        "is",
+        "walking."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "cycling.",
+        "are",
+        "They"
+       ],
+       "answer": [
+        "They",
+        "are",
+        "cycling."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "not",
+        "playing.",
+        "is",
+        "She"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "not",
+        "playing."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "jumping?",
+        "they",
+        "Are"
+       ],
+       "answer": [
+        "Are",
+        "they",
+        "jumping?"
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: الليمونة حامضة.",
+       "options": [
+        "The lemon is sour.",
+        "Do you want one?",
+        "The chips are salty."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: رقائق البطاطس مالحة.",
+       "options": [
+        "Do you want one?",
+        "The lemon is sour.",
+        "The chips are salty."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: لديها عصير برتقال.",
+       "options": [
+        "She has orange juice.",
+        "He is walking.",
+        "Are they jumping?"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هل هم يقفزون الآن؟",
+       "options": [
+        "The chips are salty.",
+        "Do you want one?",
+        "Are they jumping?"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "اختبر فهمك للقاعدة",
+     "sub": "اختار الإجابة التي تكمل المعنى والقواعد",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "He ___ walking.",
+       "options": [
+        "is",
+        "are",
+        "am"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "They ___ cycling.",
+       "options": [
+        "is",
+        "are",
+        "am"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "___ they jumping?",
+       "options": [
+        "Are",
+        "Am",
+        "Is"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "She does not ___ apples.",
+       "options": [
+        "having",
+        "has",
+        "have"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "The lemon is ___.",
+       "options": [
+        "salty",
+        "hot",
+        "sour"
+       ],
+       "answer": 2
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "ماذا يفعلون الآن؟",
+     "text": "نستخدم He is أو She is للمفرد، وThey are أو We are للجمع. يأتي بعدها فعل ينتهي بـ ing، مثل They are cycling."
+    },
+    {
+     "title": "النفي والسؤال",
+     "text": "نضيف not بعد is أو are للنفي: She is not playing. وللسؤال نقدم الفعل المساعد: Are they jumping? والرد Yes, they are أو No, they are not."
+    },
+    {
+     "title": "وصف الطعم",
+     "text": "sweet للحلو، وsour للحامض، وsalty للمالح، وtasty للذيذ. نقول The lemon is sour، ومع الجمع The chips are salty."
+    },
+    {
+     "title": "لديه وليس لديه",
+     "text": "She has orange juice تعني لديها عصير برتقال. في النفي نستخدم does not have، مثل She does not have apples. بعد does نستخدم have وليس has."
+    }
+   ],
+   "meanings": {
+    "laughing": "يضحك",
+    "jumping": "يقفز",
+    "cycling": "يركب الدراجة",
+    "walking": "يمشي",
+    "talking": "يتحدث",
+    "sweet": "حلو المذاق",
+    "sour": "حامض",
+    "salty": "مالح",
+    "tasty": "لذيذ",
+    "hot": "ساخن",
+    "cold": "بارد",
+    "orange juice": "عصير البرتقال"
+   },
+   "sentenceMeanings": {
+    "He is walking.": "هو يمشي الآن.",
+    "They are cycling.": "هم يركبون الدراجات الآن.",
+    "She is not playing.": "هي لا تلعب الآن.",
+    "Are they jumping?": "هل هم يقفزون الآن؟",
+    "The lemon is sour.": "الليمونة حامضة.",
+    "The chips are salty.": "رقائق البطاطس مالحة.",
+    "Do you want one?": "هل تريد واحدة؟",
+    "She has orange juice.": "لديها عصير برتقال."
+   }
+  }
+ ],
+ "source": {
+  "url": "https://files.shawahid.sa/books/1448-GE-PE-K02-SM1-ENGLMH-part1.pdf",
+  "title": "We Can 2, Student Book, Part 1",
+  "isbn": "9781398962408",
+  "note": "Publisher textbook inspected through Shawahid, an independent mirror; exercises and Arabic explanations are original."
+ }
+}

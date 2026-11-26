@@ -1,0 +1,1108 @@
+[
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "Head to Toe",
+    "id": "p1-u4-l1-01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 1, pdf p.66-69",
+    "type": "mcq",
+    "prompt": "'head' يعني إيه؟",
+    "options": [
+      "رأس",
+      "عين",
+      "إيد",
+      "رجل"
+    ],
+    "answer": "رأس",
+    "explanation_ar": "head الراس.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "head"
+    ],
+    "requires_image": false,
+    "explanation_en": "head means الراس."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "Head to Toe",
+    "id": "p1-u4-l1-02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 1, pdf p.66-69",
+    "type": "mcq",
+    "prompt": "'eye' يعني إيه؟",
+    "options": [
+      "عين",
+      "ودن",
+      "أنف",
+      "بُق"
+    ],
+    "answer": "عين",
+    "explanation_ar": "eye عين، وعيونين = eyes.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "eye"
+    ],
+    "requires_image": false,
+    "explanation_en": "eye means عين, and two eyes = eyes."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "Head to Toe",
+    "id": "p1-u4-l1-kg02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 1, pdf p.66-69 (reused approved original art)",
+    "type": "mcq",
+    "prompt": "What body part is this?",
+    "passage": null,
+    "options": [
+      "hands",
+      "eyes",
+      "nose",
+      "legs"
+    ],
+    "answer": "eyes",
+    "answer_kind": "closed",
+    "explanation_ar": "الصورة دي عينين. الكلمة بالإنجليزي eyes.",
+    "image": "p1-lessons-assets/img/kg-eyes.png",
+    "alt": "picture: eyes",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "The picture shows عينين. The word in English is eyes."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "Head to Toe",
+    "id": "p1-u4-l1-kg03",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 1, pdf p.66-69 (reused approved original art)",
+    "type": "mcq",
+    "prompt": "Look at the picture. How many eyes can you see?",
+    "passage": null,
+    "options": [
+      "2",
+      "1",
+      "3",
+      "5"
+    ],
+    "answer": "2",
+    "answer_kind": "closed",
+    "explanation_ar": "عينين اتنين: 2.",
+    "image": "p1-lessons-assets/img/kg-eyes.png",
+    "alt": "picture: eyes",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "Two eyes: 2."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "Head to Toe",
+    "id": "p1-u4-l1-13",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 1, pdf p.66-69",
+    "type": "mcq",
+    "prompt": "I have 2 ____.",
+    "options": [
+      "ears",
+      "ear",
+      "mouth",
+      "head"
+    ],
+    "answer": "ears",
+    "explanation_ar": "عندنا ودنين، فنقول 2 ears.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/kg-ears-hl.png",
+    "alt": "ears marked with red circles",
+    "explanation_en": "We have two ears, so we say 2 ears."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "Head to Toe",
+    "id": "p1-u4-l1-14",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 1, pdf p.66-69",
+    "type": "mcq",
+    "prompt": "I have 1 ____.",
+    "options": [
+      "mouth",
+      "eyes",
+      "ears",
+      "legs"
+    ],
+    "answer": "mouth",
+    "explanation_ar": "عندنا بُق واحد: 1 mouth.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/kg-mouth.png",
+    "alt": "a mouth",
+    "explanation_en": "We have one mouth: 1 mouth."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "Head to Toe",
+    "id": "p1-u4-l1-27",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 1, pdf p.66-69",
+    "type": "tf",
+    "prompt": "I have 2 ears.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "عندنا ودنين.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "ears"
+    ],
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/kg-ears-hl.png",
+    "alt": "ears marked with red circles",
+    "explanation_en": "We have two ears."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "Head to Toe",
+    "id": "p1-u4-l1-28",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 1, pdf p.66-69",
+    "type": "tf",
+    "prompt": "I have 3 eyes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "عندنا عينين مش 3.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "eyes"
+    ],
+    "requires_image": true,
+    "image": "p1-lessons-assets/img/kg-eyes.png",
+    "alt": "two eyes",
+    "explanation_en": "We have two eyes, not 3."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "Head to Toe",
+    "id": "p1-u4-l1-30",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 1, pdf p.66-69",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "I have 2 eyes.",
+    "explanation_ar": "الجملة: I have 2 eyes.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "words": [
+      ".",
+      "I",
+      "eyes",
+      "have",
+      "2"
+    ],
+    "answer_tokens": [
+      "I",
+      "have",
+      "2",
+      "eyes",
+      "."
+    ],
+    "accept": [
+      "I have 2 eyes."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "image": "p1-lessons-assets/img/kg-eyes.png",
+    "alt": "two eyes",
+    "explanation_en": "The sentence: I have 2 eyes."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "Head to Toe",
+    "id": "p1-u4-l1-33",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 1, pdf p.66-69",
+    "type": "typein",
+    "prompt": "Write the missing letter: ea _\nالكلمة معناها: ودن",
+    "options": null,
+    "answer": "r",
+    "accept": [
+      "r",
+      "R"
+    ],
+    "explanation_ar": "الكلمة ear: e-a-r.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": false,
+    "hint_ar": "ودن",
+    "explanation_en": "The word ear: e-a-r."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 1,
+    "lesson_title": "Head to Toe",
+    "id": "p1-u4-l1-36",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 1, pdf p.66-69",
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write in each blank.",
+    "dialogue": [
+      {
+        "speaker": "Teacher",
+        "text": "What do you have on your face?"
+      },
+      {
+        "speaker": "Student",
+        "text": "I have 2 {1}. I have 2 ears."
+      },
+      {
+        "speaker": "Teacher",
+        "text": "How many noses?"
+      },
+      {
+        "speaker": "Student",
+        "text": "I have {2} nose. I have 1 {3}."
+      },
+      {
+        "speaker": "Teacher",
+        "text": "And on your legs?"
+      },
+      {
+        "speaker": "Student",
+        "text": "I have 5 {4} on each foot."
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "eyes"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "1",
+          "one"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "mouth"
+        ]
+      },
+      {
+        "n": 4,
+        "accept": [
+          "toes"
+        ]
+      }
+    ],
+    "options": null,
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: eyes. 2: 1 أو one. 3: mouth. 4: toes.",
+    "passage": null,
+    "answer_kind": "blanks_text",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "Each blank has its own box. 1: eyes. 2: 1 أو one. 3: mouth. 4: toes."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "Phonics (Rr, Ee)",
+    "id": "p1-u4-l2-obj04",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 2, pdf p.70-74 (original image item)",
+    "type": "mcq",
+    "prompt": "What letter does this word start with?",
+    "passage": null,
+    "options": [
+      "r",
+      "j",
+      "g",
+      "m"
+    ],
+    "answer": "r",
+    "answer_kind": "closed",
+    "explanation_ar": "ring بتبدأ بحرف r.",
+    "image": "p1-lessons-assets/img/obj-ring.png",
+    "alt": "a picture of a ring",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "ring starts with the letter r."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "Phonics (Rr, Ee)",
+    "id": "p1-u4-l2-11",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 2, pdf p.70-74",
+    "type": "mcq",
+    "prompt": "'rabbit' يعني إيه؟",
+    "options": [
+      "أرنب",
+      "فيل",
+      "صاروخ",
+      "خاتم"
+    ],
+    "answer": "أرنب",
+    "explanation_ar": "rabbit معناها أرنب.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "rabbit"
+    ],
+    "requires_image": false,
+    "explanation_en": "rabbit means أرنب."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "Phonics (Rr, Ee)",
+    "id": "p1-u4-l2-15",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 2, pdf p.70-74",
+    "type": "tf",
+    "prompt": "'red' starts with r.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "red بتبدأ بحرف r.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "red"
+    ],
+    "requires_image": false,
+    "explanation_en": "red starts with the letter r."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "Phonics (Rr, Ee)",
+    "id": "p1-u4-l2-19",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 2, pdf p.70-74",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to make a word.",
+    "options": null,
+    "answer": "rabbit",
+    "explanation_ar": "رتّب الحروف: r-a-b-b-i-t.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "letters": [
+      "r",
+      "b",
+      "t",
+      "i",
+      "a",
+      "b"
+    ],
+    "accept": [
+      "rabbit"
+    ],
+    "image": "p1-lessons-assets/img/kg-rabbit.png",
+    "alt": "a rabbit",
+    "explanation_en": "Order the letters: r-a-b-b-i-t."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "Phonics (Rr, Ee)",
+    "id": "p1-u4-l2-obj02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 2, pdf p.70-74 (reused approved original art)",
+    "type": "mcq",
+    "prompt": "What letter does this word start with?",
+    "passage": null,
+    "options": [
+      "j",
+      "u",
+      "m",
+      "e"
+    ],
+    "answer": "e",
+    "answer_kind": "closed",
+    "explanation_ar": "egg بتبدأ بحرف e.",
+    "image": "p1-lessons-assets/img/kg-egg.png",
+    "alt": "a picture of a egg",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "egg starts with the letter e."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "Phonics (Rr, Ee)",
+    "id": "p1-u4-l2-31",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 2, pdf p.70-74",
+    "type": "mcq",
+    "prompt": "'egg' يعني إيه؟",
+    "options": [
+      "بيضة",
+      "فيل",
+      "باذنجان",
+      "يدخل"
+    ],
+    "answer": "بيضة",
+    "explanation_ar": "egg معناها بيضة.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "egg"
+    ],
+    "requires_image": false,
+    "explanation_en": "egg means بيضة."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "Phonics (Rr, Ee)",
+    "id": "p1-u4-l2-16",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 2, pdf p.70-74",
+    "type": "tf",
+    "prompt": "'egg' starts with r.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "egg بتبدأ بحرف مختلف عن R.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "egg"
+    ],
+    "requires_image": false,
+    "explanation_en": "egg starts with a different letter from R."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "Phonics (Rr, Ee)",
+    "id": "p1-u4-l2-40",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 2, pdf p.70-74",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to make a word.",
+    "options": null,
+    "answer": "elephant",
+    "explanation_ar": "رتّب الحروف: e-l-e-p-h-a-n-t.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "letters": [
+      "e",
+      "p",
+      "t",
+      "e",
+      "l",
+      "n",
+      "a",
+      "h"
+    ],
+    "accept": [
+      "elephant"
+    ],
+    "image": "p1-lessons-assets/img/kg-elephant.png",
+    "alt": "an elephant",
+    "explanation_en": "Order the letters: e-l-e-p-h-a-n-t."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 2,
+    "lesson_title": "Phonics (Rr, Ee)",
+    "id": "p1-u4-l2-41",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 2, pdf p.70-74",
+    "type": "mcq",
+    "prompt": "Which word starts with r, not e?",
+    "options": [
+      "rabbit",
+      "egg",
+      "elbow",
+      "enter"
+    ],
+    "answer": "rabbit",
+    "explanation_ar": "rabbit بتبدأ بـ r.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "rabbit starts with r."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My 5 senses",
+    "id": "p1-u4-l3-01",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 3, pdf p.75-78",
+    "type": "mcq",
+    "prompt": "'see' يعني إيه؟",
+    "options": [
+      "يشوف",
+      "يسمع",
+      "يشم",
+      "يدوق"
+    ],
+    "answer": "يشوف",
+    "explanation_ar": "see يشوف.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "see means يشوف."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My 5 senses",
+    "id": "p1-u4-l3-02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 3, pdf p.75-78",
+    "type": "mcq",
+    "prompt": "'hear' يعني إيه؟",
+    "options": [
+      "يسمع",
+      "يشوف",
+      "يشم",
+      "يلمس"
+    ],
+    "answer": "يسمع",
+    "explanation_ar": "hear يسمع.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "hear means يسمع."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My 5 senses",
+    "id": "p1-u4-l3-06",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 3, pdf p.75-78",
+    "type": "mcq",
+    "prompt": "I can see with my ____.",
+    "options": [
+      "eyes",
+      "ears",
+      "nose",
+      "tongue"
+    ],
+    "answer": "eyes",
+    "explanation_ar": "بنشوف بعيوننا.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "We see with our eyes."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My 5 senses",
+    "id": "p1-u4-l3-07",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 3, pdf p.75-78",
+    "type": "mcq",
+    "prompt": "I can hear with my ____.",
+    "options": [
+      "ears",
+      "eyes",
+      "hands",
+      "nose"
+    ],
+    "answer": "ears",
+    "explanation_ar": "بنسمع بودانّا.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "We hear with our ears."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My 5 senses",
+    "id": "p1-u4-l3-24",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 3, pdf p.75-78",
+    "type": "tf",
+    "prompt": "Omar can see the teacher and the desk.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "في النص Omar بيقول I can see the teacher and the desk.",
+    "passage": "Aly: Hi, Omar!\nOmar: Hi, Aly. Let's talk about our senses.\nAly: Tell me. What can you see?\nOmar: I can see the teacher and the desk.\nAly: Look! A flower!\nOmar: Wow! I can see it with my eyes.\nAly: I can smell it with my nose. It smells nice!\nOmar: I can hear the teacher with my ears.\nAly: I can touch the desk with my hands.\nOmar: I have an apple. I can taste it with my tongue!",
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "In the text Omar says I can see the teacher and the desk."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My 5 senses",
+    "id": "p1-u4-l3-25",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 3, pdf p.75-78",
+    "type": "tf",
+    "prompt": "Aly smells the flower with her ears.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "Aly بتشمها بالأنف مش بالودن: I can smell it with my nose.",
+    "passage": "Aly: Hi, Omar!\nOmar: Hi, Aly. Let's talk about our senses.\nAly: Tell me. What can you see?\nOmar: I can see the teacher and the desk.\nAly: Look! A flower!\nOmar: Wow! I can see it with my eyes.\nAly: I can smell it with my nose. It smells nice!\nOmar: I can hear the teacher with my ears.\nAly: I can touch the desk with my hands.\nOmar: I have an apple. I can taste it with my tongue!",
+    "answer_kind": "closed",
+    "image_optional": [
+      "ears"
+    ],
+    "requires_image": false,
+    "explanation_en": "Aly smells it with the nose, not the ear: I can smell it with my nose."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My 5 senses",
+    "id": "p1-u4-l3-29",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 3, pdf p.75-78",
+    "type": "reorder",
+    "prompt": "Put the words in order to make a sentence.",
+    "options": null,
+    "answer": "I can see with my eyes.",
+    "explanation_ar": "الجملة: I can see with my eyes.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "words": [
+      "my",
+      "with",
+      "eyes",
+      "can",
+      "I",
+      "see",
+      "."
+    ],
+    "answer_tokens": [
+      "I",
+      "can",
+      "see",
+      "with",
+      "my",
+      "eyes",
+      "."
+    ],
+    "accept": [
+      "I can see with my eyes."
+    ],
+    "join_rule": "tokens joined with single spaces, then space before final . or ? removed",
+    "image": "p1-lessons-assets/img/kg-eyes.png",
+    "alt": "eyes",
+    "explanation_en": "The sentence: I can see with my eyes."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My 5 senses",
+    "id": "p1-u4-l3-32",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 3, pdf p.75-78",
+    "type": "typein",
+    "prompt": "Write the missing letter: sme _ l\nالكلمة معناها: يشم",
+    "options": null,
+    "answer": "l",
+    "accept": [
+      "l",
+      "L"
+    ],
+    "explanation_ar": "الكلمة smell فيها حرفين l في الآخر.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": false,
+    "hint_ar": "يشم",
+    "explanation_en": "The word smell has two letters l at the end."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 3,
+    "lesson_title": "My 5 senses",
+    "id": "p1-u4-l3-34",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 3, pdf p.75-78",
+    "type": "dialogue",
+    "prompt": "Complete the conversation. Write in each blank.",
+    "dialogue": [
+      {
+        "speaker": "Aly",
+        "text": "Hi, Omar! Let's talk about our {1}."
+      },
+      {
+        "speaker": "Omar",
+        "text": "I can see the teacher with my {2}."
+      },
+      {
+        "speaker": "Aly",
+        "text": "I can {3} the flower with my nose."
+      },
+      {
+        "speaker": "Omar",
+        "text": "I can {4} the teacher with my ears."
+      },
+      {
+        "speaker": "Aly",
+        "text": "I can touch the desk with my {5}."
+      },
+      {
+        "speaker": "Omar",
+        "text": "I can taste an apple with my tongue!"
+      }
+    ],
+    "blanks": [
+      {
+        "n": 1,
+        "accept": [
+          "senses"
+        ]
+      },
+      {
+        "n": 2,
+        "accept": [
+          "eyes"
+        ]
+      },
+      {
+        "n": 3,
+        "accept": [
+          "smell"
+        ]
+      },
+      {
+        "n": 4,
+        "accept": [
+          "hear"
+        ]
+      },
+      {
+        "n": 5,
+        "accept": [
+          "hands"
+        ]
+      }
+    ],
+    "options": null,
+    "answer": null,
+    "explanation_ar": "كل فراغ له خانة. 1: senses (حواسنا). 2: eyes. 3: smell بالأنف. 4: hear بالودن. 5: hands بالإيدين.",
+    "passage": null,
+    "answer_kind": "blanks_text",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "Each blank has its own box. 1: senses (حواسنا). 2: eyes. 3: smell بالأنف. 4: hear بالودن. 5: hands بالإيدين."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Phonics (Cc, Kk)",
+    "id": "p1-u4-l4-obj02",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 4, pdf p.79-83 (original image item)",
+    "type": "mcq",
+    "prompt": "What letter does this word start with?",
+    "passage": null,
+    "options": [
+      "u",
+      "i",
+      "j",
+      "c"
+    ],
+    "answer": "c",
+    "answer_kind": "closed",
+    "explanation_ar": "cake بتبدأ بحرف c.",
+    "image": "p1-lessons-assets/img/obj-cake.png",
+    "alt": "a picture of a cake",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "cake starts with the letter c."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Phonics (Cc, Kk)",
+    "id": "p1-u4-l4-11",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 4, pdf p.79-83",
+    "type": "mcq",
+    "prompt": "'cat' يعني إيه؟",
+    "options": [
+      "قطة",
+      "مطبخ",
+      "كوب",
+      "طيارة ورق"
+    ],
+    "answer": "قطة",
+    "explanation_ar": "cat معناها قطة.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "cat"
+    ],
+    "requires_image": false,
+    "explanation_en": "cat means قطة."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Phonics (Cc, Kk)",
+    "id": "p1-u4-l4-15",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 4, pdf p.79-83",
+    "type": "tf",
+    "prompt": "'cake' starts with c.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explanation_ar": "cake بتبدأ بحرف c.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "cake"
+    ],
+    "requires_image": false,
+    "explanation_en": "cake starts with the letter c."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Phonics (Cc, Kk)",
+    "id": "p1-u4-l4-19",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 4, pdf p.79-83",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to make a word.",
+    "options": null,
+    "answer": "cat",
+    "explanation_ar": "رتّب الحروف: c-a-t.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "letters": [
+      "t",
+      "c",
+      "a"
+    ],
+    "accept": [
+      "cat"
+    ],
+    "image": "p1-lessons-assets/img/kg-cat.png",
+    "alt": "a cat",
+    "explanation_en": "Order the letters: c-a-t."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Phonics (Cc, Kk)",
+    "id": "p1-u4-l4-obj06",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 4, pdf p.79-83 (original image item)",
+    "type": "mcq",
+    "prompt": "What letter does this word start with?",
+    "passage": null,
+    "options": [
+      "g",
+      "j",
+      "k",
+      "u"
+    ],
+    "answer": "k",
+    "answer_kind": "closed",
+    "explanation_ar": "key بتبدأ بحرف k.",
+    "image": "p1-lessons-assets/img/obj-key.png",
+    "alt": "a picture of a key",
+    "requires_image": true,
+    "image_optional": null,
+    "explanation_en": "key starts with the letter k."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Phonics (Cc, Kk)",
+    "id": "p1-u4-l4-31",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 4, pdf p.79-83",
+    "type": "mcq",
+    "prompt": "'kite' يعني إيه؟",
+    "options": [
+      "طيارة ورق",
+      "كوب",
+      "ملك",
+      "كيكة"
+    ],
+    "answer": "طيارة ورق",
+    "explanation_ar": "kite معناها طيارة ورق.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "kite"
+    ],
+    "requires_image": false,
+    "explanation_en": "kite means طيارة ورق."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Phonics (Cc, Kk)",
+    "id": "p1-u4-l4-16",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 4, pdf p.79-83",
+    "type": "tf",
+    "prompt": "'kite' starts with c.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explanation_ar": "kite بتبدأ بحرف مختلف عن C.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": [
+      "kite"
+    ],
+    "requires_image": false,
+    "explanation_en": "kite starts with a different letter from C."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Phonics (Cc, Kk)",
+    "id": "p1-u4-l4-39",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 4, pdf p.79-83",
+    "type": "unscramble",
+    "prompt": "Put the letters in order to make a word.",
+    "options": null,
+    "answer": "kite",
+    "explanation_ar": "رتّب الحروف: k-i-t-e.",
+    "passage": null,
+    "answer_kind": "text_key",
+    "image_optional": null,
+    "requires_image": true,
+    "letters": [
+      "k",
+      "i",
+      "e",
+      "t"
+    ],
+    "accept": [
+      "kite"
+    ],
+    "image": "p1-lessons-assets/img/kg-kite.png",
+    "alt": "a kite",
+    "explanation_en": "Order the letters: k-i-t-e."
+  },
+  {
+    "grade": "P1",
+    "term": 1,
+    "unit": 4,
+    "lesson": 4,
+    "lesson_title": "Phonics (Cc, Kk)",
+    "id": "p1-u4-l4-41",
+    "source_ref": "Ministry Primary 1 T1 student book, Unit 4 Lesson 4, pdf p.79-83",
+    "type": "mcq",
+    "prompt": "Which word starts with c, not k?",
+    "options": [
+      "cat",
+      "kite",
+      "king",
+      "key"
+    ],
+    "answer": "cat",
+    "explanation_ar": "cat بتبدأ بـ c.",
+    "passage": null,
+    "answer_kind": "closed",
+    "image_optional": null,
+    "requires_image": false,
+    "explanation_en": "cat starts with c."
+  }
+]

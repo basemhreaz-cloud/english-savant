@@ -1,0 +1,1903 @@
+{
+  "grade": "p2",
+  "gradeName": "الصف التاني الابتدائي",
+  "units": [
+    {
+      "id": "u1",
+      "num": 1,
+      "title": "Let's Get Started!",
+      "pages": [
+        5,
+        16
+      ],
+      "lessons": [
+        {
+          "n": 1,
+          "title": "Classroom Greetings"
+        },
+        {
+          "n": 2,
+          "title": "Around the Classroom"
+        },
+        {
+          "n": 3,
+          "title": "Our Classroom Objects"
+        },
+        {
+          "n": 4,
+          "title": "Let's Write Together!"
+        }
+      ],
+      "vocab": [
+        "good",
+        "morning",
+        "goodbye",
+        "please",
+        "thank",
+        "you",
+        "pen",
+        "pencil",
+        "book",
+        "bag"
+      ],
+      "sentences": [],
+      "phonics": [
+        {
+          "focus": "short a /æ/",
+          "cluster": "",
+          "words": [
+            "cat",
+            "hat",
+            "fan",
+            "man",
+            "map",
+            "cap"
+          ]
+        },
+        {
+          "focus": "short e /e/ and short i /ɪ/",
+          "cluster": "",
+          "words": [
+            "pen",
+            "ten",
+            "hen",
+            "zip",
+            "fig",
+            "bin"
+          ]
+        }
+      ],
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "كلمات الوحدة",
+          "sub": "رتّب الحروف واكتب الكلمة الصح",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "osamlrsoc",
+              "answer": [
+                "classroom"
+              ],
+              "hint": "images/words/classroom.jpg"
+            },
+            {
+              "type": "unscramble",
+              "letters": "kobo",
+              "answer": [
+                "book"
+              ],
+              "hint": "images/words/book.jpg"
+            },
+            {
+              "type": "unscramble",
+              "letters": "cteaehr",
+              "answer": [
+                "teacher"
+              ],
+              "hint": "images/words/teacher.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "epn",
+              "answer": [
+                "pen"
+              ],
+              "hint": "images/words/pen.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "haclk",
+              "answer": [
+                "chalk"
+              ],
+              "hint": "images/words/fixed-chalk.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "eskd",
+              "answer": [
+                "desk"
+              ],
+              "hint": "images/words/desk.jpg"
+            }
+          ]
+        },
+        {
+          "id": "phonics",
+          "title": "الأصوات",
+          "sub": "الحرف الناقص والصوت الصح",
+          "questions": [
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_at",
+              "answer": [
+                "c"
+              ],
+              "hint": "قطة"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_en",
+              "answer": [
+                "p"
+              ],
+              "hint": "قلم"
+            },
+            {
+              "type": "mcq",
+              "label": "sound",
+              "q": "Which word has the short a /æ/ sound?",
+              "options": [
+                "fig",
+                "fan",
+                "bin",
+                "pen"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "label": "sound",
+              "q": "Which word has the short e /e/ sound?",
+              "options": [
+                "cap",
+                "man",
+                "fan",
+                "hen"
+              ],
+              "answer": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "num": 2,
+      "title": "Colors, Shapes, and Numbers",
+      "pages": [
+        17,
+        30
+      ],
+      "lessons": [
+        {
+          "n": 1,
+          "title": "Colors and Shapes"
+        },
+        {
+          "n": 2,
+          "title": "Shapes and Colors Around Us"
+        },
+        {
+          "n": 3,
+          "title": "Numbers and Counting"
+        },
+        {
+          "n": 4,
+          "title": "Let's Count Together"
+        }
+      ],
+      "vocab": [
+        "blue",
+        "orange",
+        "green",
+        "red",
+        "yellow",
+        "circle",
+        "square",
+        "triangle",
+        "rectangle",
+        "oval"
+      ],
+      "sentences": [
+        "This is a red circle.",
+        "What color is this?"
+      ],
+      "phonics": [
+        {
+          "focus": "short o /ɒ/ and short u /ʌ/",
+          "cluster": "",
+          "words": [
+            "dog",
+            "box",
+            "fox",
+            "sun",
+            "cup",
+            "bun"
+          ]
+        },
+        {
+          "focus": "long a /eɪ/",
+          "cluster": "",
+          "words": [
+            "cake",
+            "lake",
+            "gate",
+            "cave",
+            "snake",
+            "grapes",
+            "name"
+          ]
+        }
+      ],
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "كلمات الوحدة",
+          "sub": "رتّب الحروف واكتب الكلمة الصح",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "nerge",
+              "answer": [
+                "green"
+              ],
+              "hint": "images/words/sa-color-green.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "reauqs",
+              "answer": [
+                "square"
+              ],
+              "hint": "images/words/p2-square.jpg"
+            },
+            {
+              "type": "unscramble",
+              "letters": "eatlnrgce",
+              "answer": [
+                "rectangle"
+              ],
+              "hint": "▬"
+            },
+            {
+              "type": "unscramble",
+              "letters": "eunrbm",
+              "answer": [
+                "number"
+              ],
+              "hint": "images/words/p2-number.jpg"
+            },
+            {
+              "type": "unscramble",
+              "letters": "avol",
+              "answer": [
+                "oval"
+              ],
+              "hint": "images/words/fixed-oval.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "reccli",
+              "answer": [
+                "circle"
+              ],
+              "hint": "images/words/sa-shape-circle.png"
+            }
+          ]
+        },
+        {
+          "id": "lang",
+          "title": "جمل الوحدة",
+          "sub": "رتّب الكلمات وكوّن الجملة، وأكمل الفراغ",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "This",
+                "a",
+                "red",
+                "circle.",
+                "is"
+              ],
+              "answer": [
+                "This",
+                "is",
+                "a",
+                "red",
+                "circle."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "this?",
+                "What",
+                "is",
+                "color"
+              ],
+              "answer": [
+                "What",
+                "color",
+                "is",
+                "this?"
+              ]
+            },
+            {
+              "type": "mcq",
+              "label": "cloze",
+              "q": "This is a red ___. (المقصود: دائرة)",
+              "options": [
+                "orange",
+                "circle",
+                "blue",
+                "color"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "phonics",
+          "title": "الأصوات",
+          "sub": "الحرف الناقص والصوت الصح",
+          "questions": [
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_og",
+              "answer": [
+                "d"
+              ],
+              "hint": "كلب"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_ox",
+              "answer": [
+                "b"
+              ],
+              "hint": "صندوق"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_ake",
+              "answer": [
+                "c"
+              ],
+              "hint": "كعكة"
+            },
+            {
+              "type": "mcq",
+              "label": "sound",
+              "q": "Which word has the short o /ɒ/ sound?",
+              "options": [
+                "fox",
+                "grapes",
+                "cave",
+                "cake"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "label": "sound",
+              "q": "Which word has the long a /eɪ/ sound?",
+              "options": [
+                "dog",
+                "gate",
+                "fox",
+                "box"
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "num": 3,
+      "title": "Classroom Actions & Routines",
+      "pages": [
+        31,
+        43
+      ],
+      "lessons": [
+        {
+          "n": 1,
+          "title": "Classroom Actions"
+        },
+        {
+          "n": 2,
+          "title": "Let's Talk about Class Routines"
+        },
+        {
+          "n": 3,
+          "title": "All About Our Classroom"
+        },
+        {
+          "n": 4,
+          "title": "Writing About Our Class"
+        }
+      ],
+      "vocab": [
+        "read",
+        "write",
+        "clean",
+        "draw",
+        "sit",
+        "stand",
+        "play",
+        "color",
+        "sing",
+        "open"
+      ],
+      "sentences": [
+        "I read a book.",
+        "What do you do in the classroom?"
+      ],
+      "phonics": [
+        {
+          "focus": "initial consonant sounds",
+          "cluster": "",
+          "words": [
+            "sit",
+            "sun",
+            "clap",
+            "classmate",
+            "draw",
+            "door"
+          ]
+        }
+      ],
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "كلمات الوحدة",
+          "sub": "رتّب الحروف واكتب الكلمة الصح",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "rodo",
+              "answer": [
+                "door"
+              ],
+              "hint": "images/words/door.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "sloce",
+              "answer": [
+                "close"
+              ],
+              "hint": "images/words/close.jpg"
+            },
+            {
+              "type": "unscramble",
+              "letters": "enam",
+              "answer": [
+                "name"
+              ],
+              "hint": "اسم"
+            },
+            {
+              "type": "unscramble",
+              "letters": "sti",
+              "answer": [
+                "sit"
+              ],
+              "hint": "images/words/sit.jpg"
+            },
+            {
+              "type": "unscramble",
+              "letters": "aylp",
+              "answer": [
+                "play"
+              ],
+              "hint": "images/words/play.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "rdea",
+              "answer": [
+                "read"
+              ],
+              "hint": "images/words/read.png"
+            }
+          ]
+        },
+        {
+          "id": "lang",
+          "title": "جمل الوحدة",
+          "sub": "رتّب الكلمات وكوّن الجملة، وأكمل الفراغ",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "I",
+                "read",
+                "book.",
+                "a"
+              ],
+              "answer": [
+                "I",
+                "read",
+                "a",
+                "book."
+              ]
+            },
+            {
+              "type": "mcq",
+              "label": "cloze",
+              "q": "I read a ___.",
+              "options": [
+                "book",
+                "open",
+                "hand",
+                "close"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "phonics",
+          "title": "الأصوات",
+          "sub": "الحرف الناقص والصوت الصح",
+          "questions": [
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_it",
+              "answer": [
+                "s"
+              ],
+              "hint": "اجلس"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_un",
+              "answer": [
+                "s"
+              ],
+              "hint": "شمس"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_lap",
+              "answer": [
+                "c"
+              ],
+              "hint": "صفّق"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_lassmate",
+              "answer": [
+                "c"
+              ],
+              "hint": "زميل في الفصل"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "num": 4,
+      "title": "Everyday Life",
+      "pages": [
+        49,
+        63
+      ],
+      "lessons": [
+        {
+          "n": 1,
+          "title": "My Family"
+        },
+        {
+          "n": 2,
+          "title": "All About Home"
+        },
+        {
+          "n": 3,
+          "title": "My Life at Home"
+        },
+        {
+          "n": 4,
+          "title": "Me and My Family"
+        }
+      ],
+      "vocab": [
+        "father",
+        "dad",
+        "mother",
+        "mom",
+        "sister",
+        "brother",
+        "grandmother",
+        "grandfather",
+        "uncle",
+        "aunt"
+      ],
+      "sentences": [
+        "This is my sister.",
+        "What do you do in the morning?"
+      ],
+      "phonics": [
+        {
+          "focus": "long o and long u",
+          "cluster": "",
+          "words": [
+            "nose",
+            "glue",
+            "rose",
+            "cube"
+          ]
+        },
+        {
+          "focus": "digraph th /θ/",
+          "cluster": "th",
+          "words": [
+            "thin",
+            "thick",
+            "thumb",
+            "thunder",
+            "math",
+            "teeth"
+          ]
+        }
+      ],
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "كلمات الوحدة",
+          "sub": "رتّب الحروف واكتب الكلمة الصح",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "eta",
+              "answer": [
+                "eat"
+              ],
+              "hint": "images/words/eat.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "cldih",
+              "answer": [
+                "child"
+              ],
+              "hint": "images/words/child.jpg"
+            },
+            {
+              "type": "unscramble",
+              "letters": "kawe",
+              "answer": [
+                "wake"
+              ],
+              "hint": "⏰"
+            },
+            {
+              "type": "unscramble",
+              "letters": "unat",
+              "answer": [
+                "aunt"
+              ],
+              "hint": "images/words/aunt.jpg"
+            },
+            {
+              "type": "unscramble",
+              "letters": "terrbho",
+              "answer": [
+                "brother"
+              ],
+              "hint": "images/words/brother.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "ersantp",
+              "answer": [
+                "parents"
+              ],
+              "hint": "images/words/parents.jpg"
+            }
+          ]
+        },
+        {
+          "id": "lang",
+          "title": "جمل الوحدة",
+          "sub": "رتّب الكلمات وكوّن الجملة، وأكمل الفراغ",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "sister.",
+                "my",
+                "This",
+                "is"
+              ],
+              "answer": [
+                "This",
+                "is",
+                "my",
+                "sister."
+              ]
+            },
+            {
+              "type": "mcq",
+              "label": "cloze",
+              "q": "This is my ___. (المقصود: أختي)",
+              "options": [
+                "wash",
+                "aunt",
+                "mom",
+                "sister"
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "id": "phonics",
+          "title": "الأصوات",
+          "sub": "الحرف الناقص والصوت الصح",
+          "questions": [
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_ose",
+              "answer": [
+                "n"
+              ],
+              "hint": "أنف"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_lue",
+              "answer": [
+                "g"
+              ],
+              "hint": "صمغ"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_in",
+              "answer": [
+                "th"
+              ],
+              "hint": "نحيف"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_ick",
+              "answer": [
+                "th"
+              ],
+              "hint": "سميك"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_umb",
+              "answer": [
+                "th"
+              ],
+              "hint": "إبهام"
+            },
+            {
+              "type": "mcq",
+              "label": "sound",
+              "q": "Which word has the long o sound?",
+              "options": [
+                "thunder",
+                "rose",
+                "teeth",
+                "math"
+              ],
+              "answer": 1
+            },
+            {
+              "type": "mcq",
+              "label": "sound",
+              "q": "Which word has the digraph th /θ/ sound?",
+              "options": [
+                "glue",
+                "thumb",
+                "rose",
+                "cube"
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "num": 5,
+      "title": "My Home",
+      "pages": [
+        64,
+        81
+      ],
+      "lessons": [
+        {
+          "n": 1,
+          "title": "Inside My Home"
+        },
+        {
+          "n": 2,
+          "title": "What's in My Home?"
+        },
+        {
+          "n": 3,
+          "title": "My Favorite Room"
+        },
+        {
+          "n": 4,
+          "title": "Actions At Home"
+        },
+        {
+          "n": null,
+          "title": "Phonics Focus: Digraph sh sound"
+        },
+        {
+          "n": null,
+          "title": "Draw and Write + Self-Assessment"
+        }
+      ],
+      "vocab": [
+        "table",
+        "chair",
+        "bed",
+        "door",
+        "window",
+        "lamp",
+        "cup",
+        "plate",
+        "bathroom",
+        "kitchen"
+      ],
+      "sentences": [
+        "Where is the window?",
+        "The lamp is on the table.",
+        "What do you do at home?",
+        "I help my mother clean."
+      ],
+      "phonics": [
+        {
+          "focus": "digraph th /ð/",
+          "cluster": "th",
+          "words": [
+            "mother",
+            "father",
+            "brother",
+            "this",
+            "that"
+          ]
+        },
+        {
+          "focus": "digraph sh /ʃ/",
+          "cluster": "sh",
+          "words": [
+            "sheep",
+            "ship",
+            "shop",
+            "fish",
+            "dish",
+            "brush"
+          ]
+        }
+      ],
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "كلمات الوحدة",
+          "sub": "رتّب الحروف واكتب الكلمة الصح",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "puc",
+              "answer": [
+                "cup"
+              ],
+              "hint": "images/words/cup.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "eard",
+              "answer": [
+                "read"
+              ],
+              "hint": "images/words/read.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "nlcea",
+              "answer": [
+                "clean"
+              ],
+              "hint": "images/words/fixed-clean.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "rdoo",
+              "answer": [
+                "door"
+              ],
+              "hint": "images/words/door.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "bhaomtor",
+              "answer": [
+                "bathroom"
+              ],
+              "hint": "images/words/bathroom.jpg"
+            },
+            {
+              "type": "unscramble",
+              "letters": "wiownd",
+              "answer": [
+                "window"
+              ],
+              "hint": "images/words/window.jpg"
+            }
+          ]
+        },
+        {
+          "id": "lang",
+          "title": "جمل الوحدة",
+          "sub": "رتّب الكلمات وكوّن الجملة، وأكمل الفراغ",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "the",
+                "is",
+                "window?",
+                "Where"
+              ],
+              "answer": [
+                "Where",
+                "is",
+                "the",
+                "window?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "lamp",
+                "table.",
+                "on",
+                "is",
+                "The",
+                "the"
+              ],
+              "answer": [
+                "The",
+                "lamp",
+                "is",
+                "on",
+                "the",
+                "table."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "home?",
+                "at",
+                "do",
+                "you",
+                "do",
+                "What"
+              ],
+              "answer": [
+                "What",
+                "do",
+                "you",
+                "do",
+                "at",
+                "home?"
+              ]
+            },
+            {
+              "type": "mcq",
+              "label": "cloze",
+              "q": "Where is the ___? (المقصود: النافذة)",
+              "options": [
+                "window",
+                "sleep",
+                "door",
+                "living"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "label": "cloze",
+              "q": "The lamp is on the ___. (المقصود: الطاولة)",
+              "options": [
+                "living",
+                "read",
+                "chair",
+                "table"
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "id": "phonics",
+          "title": "الأصوات",
+          "sub": "الحرف الناقص والصوت الصح",
+          "questions": [
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_is",
+              "answer": [
+                "th"
+              ],
+              "hint": "هذا"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_at",
+              "answer": [
+                "th"
+              ],
+              "hint": "ذلك"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_eep",
+              "answer": [
+                "sh"
+              ],
+              "hint": "خروف"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_ip",
+              "answer": [
+                "sh"
+              ],
+              "hint": "سفينة"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_op",
+              "answer": [
+                "sh"
+              ],
+              "hint": "متجر"
+            },
+            {
+              "type": "mcq",
+              "label": "sound",
+              "q": "Which word has the digraph th /ð/ sound?",
+              "options": [
+                "shop",
+                "dish",
+                "sheep",
+                "brother"
+              ],
+              "answer": 3
+            },
+            {
+              "type": "mcq",
+              "label": "sound",
+              "q": "Which word has the digraph sh /ʃ/ sound?",
+              "options": [
+                "that",
+                "brother",
+                "shop",
+                "this"
+              ],
+              "answer": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "num": 6,
+      "title": "Rooms at Home",
+      "pages": [
+        82,
+        92
+      ],
+      "lessons": [
+        {
+          "n": 1,
+          "title": "My Home"
+        },
+        {
+          "n": 2,
+          "title": "Let's Talk About Our Home!"
+        },
+        {
+          "n": 3,
+          "title": "Where Things Are in My House!"
+        },
+        {
+          "n": 4,
+          "title": "I Can Read and Write About My Home!"
+        }
+      ],
+      "vocab": [
+        "kitchen",
+        "living",
+        "room",
+        "bedroom",
+        "bathroom",
+        "dining",
+        "garden",
+        "hall",
+        "balcony"
+      ],
+      "sentences": [
+        "There is a kitchen in my house.",
+        "There are three bedrooms.",
+        "Where do you eat?",
+        "I eat in the kitchen.",
+        "Where is the table?",
+        "It is in the dining room.",
+        "What is in your house?",
+        "There is a bathroom."
+      ],
+      "phonics": [
+        {
+          "focus": "digraph ch /tʃ/",
+          "cluster": "ch",
+          "words": [
+            "cheese",
+            "chicken",
+            "chin",
+            "lunch",
+            "beach"
+          ]
+        }
+      ],
+      "stations": [
+        {
+          "id": "vocab",
+          "title": "كلمات الوحدة",
+          "sub": "رتّب الحروف واكتب الكلمة الصح",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "dorboem",
+              "answer": [
+                "bedroom"
+              ],
+              "hint": "images/words/bedroom.png"
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "room",
+                "dining"
+              ],
+              "answer": [
+                "dining",
+                "room"
+              ],
+              "hint": "غرفة الطعام",
+              "passage": "المعنى المقصود: غرفة الطعام"
+            },
+            {
+              "type": "unscramble",
+              "letters": "allh",
+              "answer": [
+                "hall"
+              ],
+              "hint": "images/words/hall.jpg"
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "room",
+                "living"
+              ],
+              "answer": [
+                "living",
+                "room"
+              ],
+              "hint": "غرفة المعيشة",
+              "passage": "المعنى المقصود: غرفة المعيشة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "regnda",
+              "answer": [
+                "garden"
+              ],
+              "hint": "images/words/fixed-garden-drawing.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "orom",
+              "answer": [
+                "room"
+              ],
+              "hint": "images/words/room.jpg"
+            }
+          ]
+        },
+        {
+          "id": "lang",
+          "title": "جمل الوحدة",
+          "sub": "رتّب الكلمات وكوّن الجملة، وأكمل الفراغ",
+          "questions": [
+            {
+              "type": "reorder",
+              "words": [
+                "bedrooms.",
+                "There",
+                "are",
+                "three"
+              ],
+              "answer": [
+                "There",
+                "are",
+                "three",
+                "bedrooms."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "do",
+                "you",
+                "eat?",
+                "Where"
+              ],
+              "answer": [
+                "Where",
+                "do",
+                "you",
+                "eat?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "I",
+                "eat",
+                "the",
+                "in",
+                "kitchen."
+              ],
+              "answer": [
+                "I",
+                "eat",
+                "in",
+                "the",
+                "kitchen."
+              ]
+            },
+            {
+              "type": "mcq",
+              "label": "cloze",
+              "q": "I eat in the ___. (المقصود: المطبخ)",
+              "options": [
+                "kitchen",
+                "balcony",
+                "hall",
+                "garden"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "mcq",
+              "label": "cloze",
+              "q": "It is in the dining ___.",
+              "options": [
+                "garden",
+                "room",
+                "bathroom",
+                "hall"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "phonics",
+          "title": "الأصوات",
+          "sub": "الحرف الناقص والصوت الصح",
+          "questions": [
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_eese",
+              "answer": [
+                "ch"
+              ],
+              "hint": "images/words/p2-cheese.jpg"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_icken",
+              "answer": [
+                "ch"
+              ],
+              "hint": "دجاجة"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_in",
+              "answer": [
+                "ch"
+              ],
+              "hint": "images/words/p2-chin.jpg"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "lun__",
+              "answer": [
+                "ch"
+              ],
+              "hint": "images/words/p2-lunch.jpg"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "bea__",
+              "answer": [
+                "ch"
+              ],
+              "hint": "images/words/p2-beach.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r1",
+      "num": "مراجعة الوحدات ١-٣",
+      "title": "مراجعة الوحدات ١-٣",
+      "pages": [
+        44,
+        48
+      ],
+      "review": true,
+      "vocab": [
+        "good",
+        "morning",
+        "goodbye",
+        "please",
+        "blue",
+        "orange",
+        "green",
+        "red",
+        "read",
+        "write",
+        "clean",
+        "draw"
+      ],
+      "sentences": [
+        "This is a red circle.",
+        "What color is this?",
+        "I read a book.",
+        "What do you do in the classroom?"
+      ],
+      "phonics": [
+        {
+          "focus": "short a /æ/",
+          "cluster": "",
+          "words": [
+            "cat",
+            "hat",
+            "fan",
+            "man",
+            "map",
+            "cap"
+          ]
+        },
+        {
+          "focus": "short o /ɒ/ and short u /ʌ/",
+          "cluster": "",
+          "words": [
+            "dog",
+            "box",
+            "fox",
+            "sun",
+            "cup",
+            "bun"
+          ]
+        },
+        {
+          "focus": "initial consonant sounds",
+          "cluster": "",
+          "words": [
+            "sit",
+            "sun",
+            "clap",
+            "classmate",
+            "draw",
+            "door"
+          ]
+        }
+      ],
+      "stations": [
+        {
+          "id": "mix",
+          "title": "مراجعة شاملة",
+          "sub": "أسئلة متنوعة من الوحدات",
+          "questions": [
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_un",
+              "answer": [
+                "s"
+              ],
+              "hint": "شمس"
+            },
+            {
+              "type": "mcq",
+              "label": "cloze",
+              "q": "I read a ___.",
+              "options": [
+                "book",
+                "open",
+                "hand",
+                "close"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "unscramble",
+              "letters": "nerge",
+              "answer": [
+                "green"
+              ],
+              "hint": "images/words/sa-color-green.png"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_og",
+              "answer": [
+                "d"
+              ],
+              "hint": "كلب"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_ox",
+              "answer": [
+                "b"
+              ],
+              "hint": "صندوق"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_at",
+              "answer": [
+                "c"
+              ],
+              "hint": "قطة"
+            },
+            {
+              "type": "unscramble",
+              "letters": "osamlrsoc",
+              "answer": [
+                "classroom"
+              ],
+              "hint": "images/words/classroom.jpg"
+            },
+            {
+              "type": "unscramble",
+              "letters": "reauqs",
+              "answer": [
+                "square"
+              ],
+              "hint": "images/words/p2-square.jpg"
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "I",
+                "read",
+                "book.",
+                "a"
+              ],
+              "answer": [
+                "I",
+                "read",
+                "a",
+                "book."
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "this?",
+                "What",
+                "is",
+                "color"
+              ],
+              "answer": [
+                "What",
+                "color",
+                "is",
+                "this?"
+              ]
+            },
+            {
+              "type": "unscramble",
+              "letters": "rodo",
+              "answer": [
+                "door"
+              ],
+              "hint": "images/words/door.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "kobo",
+              "answer": [
+                "book"
+              ],
+              "hint": "images/words/book.jpg"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_it",
+              "answer": [
+                "s"
+              ],
+              "hint": "اجلس"
+            },
+            {
+              "type": "unscramble",
+              "letters": "sloce",
+              "answer": [
+                "close"
+              ],
+              "hint": "images/words/close.jpg"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_en",
+              "answer": [
+                "p"
+              ],
+              "hint": "قلم"
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "This",
+                "a",
+                "red",
+                "circle.",
+                "is"
+              ],
+              "answer": [
+                "This",
+                "is",
+                "a",
+                "red",
+                "circle."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "num": "مراجعة الوحدات ٤-٦",
+      "title": "مراجعة الوحدات ٤-٦",
+      "pages": [
+        93,
+        101
+      ],
+      "review": true,
+      "vocab": [
+        "father",
+        "dad",
+        "mother",
+        "mom",
+        "table",
+        "chair",
+        "bed",
+        "door",
+        "kitchen",
+        "living",
+        "room",
+        "bedroom"
+      ],
+      "sentences": [
+        "This is my sister.",
+        "What do you do in the morning?",
+        "Where is the window?",
+        "The lamp is on the table.",
+        "There is a kitchen in my house.",
+        "There are three bedrooms."
+      ],
+      "phonics": [
+        {
+          "focus": "long o and long u",
+          "cluster": "",
+          "words": [
+            "nose",
+            "glue",
+            "rose",
+            "cube"
+          ]
+        },
+        {
+          "focus": "digraph th /ð/",
+          "cluster": "th",
+          "words": [
+            "mother",
+            "father",
+            "brother",
+            "this",
+            "that"
+          ]
+        },
+        {
+          "focus": "digraph ch /tʃ/",
+          "cluster": "ch",
+          "words": [
+            "cheese",
+            "chicken",
+            "chin",
+            "lunch",
+            "beach"
+          ]
+        }
+      ],
+      "stations": [
+        {
+          "id": "mix",
+          "title": "مراجعة شاملة",
+          "sub": "أسئلة متنوعة من الوحدات",
+          "questions": [
+            {
+              "type": "unscramble",
+              "letters": "eta",
+              "answer": [
+                "eat"
+              ],
+              "hint": "images/words/eat.png"
+            },
+            {
+              "type": "unscramble",
+              "letters": "eard",
+              "answer": [
+                "read"
+              ],
+              "hint": "images/words/read.png"
+            },
+            {
+              "type": "mcq",
+              "label": "cloze",
+              "q": "This is my ___. (المقصود: أختي)",
+              "options": [
+                "wash",
+                "aunt",
+                "mom",
+                "sister"
+              ],
+              "answer": 3
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "sister.",
+                "my",
+                "This",
+                "is"
+              ],
+              "answer": [
+                "This",
+                "is",
+                "my",
+                "sister."
+              ]
+            },
+            {
+              "type": "unscramble",
+              "letters": "puc",
+              "answer": [
+                "cup"
+              ],
+              "hint": "images/words/cup.png"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_is",
+              "answer": [
+                "th"
+              ],
+              "hint": "هذا"
+            },
+            {
+              "type": "unscramble",
+              "letters": "dorboem",
+              "answer": [
+                "bedroom"
+              ],
+              "hint": "images/words/bedroom.png"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_eese",
+              "answer": [
+                "ch"
+              ],
+              "hint": "images/words/p2-cheese.jpg"
+            },
+            {
+              "type": "unscramble",
+              "letters": "cldih",
+              "answer": [
+                "child"
+              ],
+              "hint": "images/words/child.jpg"
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "the",
+                "is",
+                "window?",
+                "Where"
+              ],
+              "answer": [
+                "Where",
+                "is",
+                "the",
+                "window?"
+              ]
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "lamp",
+                "table.",
+                "on",
+                "is",
+                "The",
+                "the"
+              ],
+              "answer": [
+                "The",
+                "lamp",
+                "is",
+                "on",
+                "the",
+                "table."
+              ]
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_ose",
+              "answer": [
+                "n"
+              ],
+              "hint": "أنف"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_icken",
+              "answer": [
+                "ch"
+              ],
+              "hint": "دجاجة"
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "do",
+                "you",
+                "eat?",
+                "Where"
+              ],
+              "answer": [
+                "Where",
+                "do",
+                "you",
+                "eat?"
+              ]
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_at",
+              "answer": [
+                "th"
+              ],
+              "hint": "ذلك"
+            },
+            {
+              "type": "unscramble",
+              "label": "sound",
+              "letters": "_lue",
+              "answer": [
+                "g"
+              ],
+              "hint": "صمغ"
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "room",
+                "dining"
+              ],
+              "answer": [
+                "dining",
+                "room"
+              ],
+              "hint": "غرفة الطعام",
+              "passage": "المعنى المقصود: غرفة الطعام"
+            },
+            {
+              "type": "reorder",
+              "words": [
+                "bedrooms.",
+                "There",
+                "are",
+                "three"
+              ],
+              "answer": [
+                "There",
+                "are",
+                "three",
+                "bedrooms."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

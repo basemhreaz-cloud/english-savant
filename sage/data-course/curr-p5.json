@@ -1,0 +1,1256 @@
+{
+ "grade": "p5",
+ "gradeName": "الصف الخامس الابتدائي",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Food, Nature, and Culture",
+   "pages": [
+    7,
+    24
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Life Along The Nile"
+    },
+    {
+     "n": 2,
+     "title": "Food in the Hot Desert"
+    },
+    {
+     "n": 3,
+     "title": "Story Time: The Giving Tree"
+    },
+    {
+     "n": 4,
+     "title": "Writing: Let's Make a Recipe!"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: A Flyer"
+    }
+   ],
+   "vocab": [
+    "crocodile",
+    "hunt",
+    "water",
+    "weeds",
+    "insects",
+    "trunk",
+    "crown",
+    "care",
+    "selfish",
+    "shade"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Adverbs of frequency (always, usually, often, sometimes, rarely, never)",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "consonant clusters (str-, bl-, pl-, tr-, dr-, cr-)",
+     "cluster": "str",
+     "words": [
+      "strong",
+      "black",
+      "plant",
+      "drink",
+      "crops"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "istnesc",
+       "answer": [
+        "insects"
+       ],
+       "hint": "حشرات"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nrukt",
+       "answer": [
+        "trunk"
+       ],
+       "hint": "جذع/خرطوم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "islfseh",
+       "answer": [
+        "selfish"
+       ],
+       "hint": "أناني"
+      },
+      {
+       "type": "unscramble",
+       "letters": "esiestmmo",
+       "answer": [
+        "sometimes"
+       ],
+       "hint": "أحيانًا"
+      },
+      {
+       "type": "unscramble",
+       "letters": "hbanrc",
+       "answer": [
+        "branch"
+       ],
+       "hint": "فرع"
+      },
+      {
+       "type": "unscramble",
+       "letters": "sedwe",
+       "answer": [
+        "weeds"
+       ],
+       "hint": "أعشاب ضارة"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ong",
+       "answer": [
+        "str"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ack",
+       "answer": [
+        "bl"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ant",
+       "answer": [
+        "pl"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ink",
+       "answer": [
+        "dr"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ops",
+       "answer": [
+        "cr"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "My Healthy Body",
+   "pages": [
+    25,
+    40
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Sports for Better Health"
+    },
+    {
+     "n": 2,
+     "title": "My Habits: Then and Now"
+    },
+    {
+     "n": 3,
+     "title": "Heart and Blood"
+    },
+    {
+     "n": 4,
+     "title": "Writing: Life Savers in Action"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: A Poster"
+    }
+   ],
+   "vocab": [
+    "fit",
+    "mental",
+    "health",
+    "stressed",
+    "lungs",
+    "muscles",
+    "organ",
+    "blood",
+    "vessels",
+    "fist"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Indefinite Articles (a, an); Quantifiers (some, any)",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "one-syllable words (one vowel sound per syllable; Clap It Out)",
+     "cluster": "",
+     "words": [
+      "arm",
+      "jump",
+      "meet",
+      "bread",
+      "leaf",
+      "feed",
+      "pot",
+      "flag"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "lodob",
+       "answer": [
+        "blood"
+       ],
+       "hint": "دم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "seselsv",
+       "answer": [
+        "vessels"
+       ],
+       "hint": "أوعية"
+      },
+      {
+       "type": "unscramble",
+       "letters": "yeogxn",
+       "answer": [
+        "oxygen"
+       ],
+       "hint": "أكسجين"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tmnlea",
+       "answer": [
+        "mental"
+       ],
+       "hint": "ذهني"
+      },
+      {
+       "type": "unscramble",
+       "letters": "slgnu",
+       "answer": [
+        "lungs"
+       ],
+       "hint": "رئتان"
+      },
+      {
+       "type": "unscramble",
+       "letters": "mose",
+       "answer": [
+        "some"
+       ],
+       "hint": "بعض"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_rm",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ump",
+       "answer": [
+        "j"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_eet",
+       "answer": [
+        "m"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_read",
+       "answer": [
+        "b"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "When Nature Changes",
+   "pages": [
+    41,
+    56
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Weather Wonders and Warnings!"
+    },
+    {
+     "n": 2,
+     "title": "Extreme Weather in Ancient Egypt"
+    },
+    {
+     "n": 3,
+     "title": "Story Time: The Two Frogs"
+    },
+    {
+     "n": 4,
+     "title": "Writing: Once Upon My Imagination"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: A Collage"
+    }
+   ],
+   "vocab": [
+    "storm",
+    "flood",
+    "drought",
+    "wildfire",
+    "heatwave",
+    "safely",
+    "peaceful",
+    "leaped",
+    "pond",
+    "well"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Past simple tense: affirmative, negative, and interrogative forms, including Wh- questions",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "vowel digraph (two vowels together, one sound)",
+     "cluster": "",
+     "words": [
+      "leap",
+      "flood",
+      "boat"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "wavaethe",
+       "answer": [
+        "heatwave"
+       ],
+       "hint": "موجة حر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ladeep",
+       "answer": [
+        "leaped"
+       ],
+       "hint": "قفز"
+      },
+      {
+       "type": "unscramble",
+       "letters": "lwle",
+       "answer": [
+        "well"
+       ],
+       "hint": "جيّدًا"
+      },
+      {
+       "type": "unscramble",
+       "letters": "flsyae",
+       "answer": [
+        "safely"
+       ],
+       "hint": "بأمان"
+      },
+      {
+       "type": "unscramble",
+       "letters": "wlriifed",
+       "answer": [
+        "wildfire"
+       ],
+       "hint": "حريق غابات"
+      },
+      {
+       "type": "unscramble",
+       "letters": "thrgudo",
+       "answer": [
+        "drought"
+       ],
+       "hint": "جفاف"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_eap",
+       "answer": [
+        "l"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_lood",
+       "answer": [
+        "f"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_oat",
+       "answer": [
+        "b"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "My Community",
+   "pages": [
+    61,
+    76
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Places in Our Community"
+    },
+    {
+     "n": 2,
+     "title": "Egyptian Villages"
+    },
+    {
+     "n": 3,
+     "title": "Multiply It with Words!"
+    },
+    {
+     "n": 4,
+     "title": "Writing: The New Administrative Capital"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: Research"
+    }
+   ],
+   "vocab": [
+    "restaurant",
+    "coffee",
+    "shop",
+    "bakery",
+    "supermarket",
+    "club",
+    "theme",
+    "park",
+    "field",
+    "cottage"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Prepositions of time (in, on, at) to indicate specific time frames",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "trigraphs (three letters, one sound): dge = /j/, tch = /ch/, igh = /i/",
+     "cluster": "",
+     "words": [
+      "bridge",
+      "match",
+      "right",
+      "flight",
+      "fridge",
+      "watch"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "tomynumci",
+       "answer": [
+        "community"
+       ],
+       "hint": "مجتمع"
+      },
+      {
+       "type": "unscramble",
+       "letters": "fldie",
+       "answer": [
+        "field"
+       ],
+       "hint": "حقل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "offeec",
+       "answer": [
+        "coffee"
+       ],
+       "hint": "قهوة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "traesmuprek",
+       "answer": [
+        "supermarket"
+       ],
+       "hint": "سوبر ماركت"
+      },
+      {
+       "type": "unscramble",
+       "letters": "posh",
+       "answer": [
+        "shop"
+       ],
+       "hint": "متجر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "arbn",
+       "answer": [
+        "barn"
+       ],
+       "hint": "حظيرة"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ridge",
+       "answer": [
+        "b"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_atch",
+       "answer": [
+        "m"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ight",
+       "answer": [
+        "r"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_light",
+       "answer": [
+        "f"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "Our World, Our Resources",
+   "pages": [
+    77,
+    91
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "The Gifts of Nature"
+    },
+    {
+     "n": 2,
+     "title": "Metals and Minerals in Our World"
+    },
+    {
+     "n": 3,
+     "title": "Story Time: 'Just Watch!' - a Story by the Little Digger"
+    },
+    {
+     "n": 4,
+     "title": "Writing: Who Am I?"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: A Poster"
+    }
+   ],
+   "vocab": [
+    "sunlight",
+    "water",
+    "soil",
+    "fossil",
+    "fuel",
+    "minerals",
+    "wind",
+    "natural",
+    "resources",
+    "cotton"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Formation and usage of comparative adjectives",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "prefixes dis- (not), bi- (two), mis- (wrongly); stress on the base word when it has one syllable, often on the prefix when it has two",
+     "cluster": "",
+     "words": [
+      "dislike",
+      "bicycle",
+      "mistake",
+      "misspell",
+      "misplace",
+      "dislikes"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ocgra",
+       "answer": [
+        "cargo"
+       ],
+       "hint": "شحنة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "sosilf",
+       "answer": [
+        "fossil"
+       ],
+       "hint": "أحفورة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "gevi",
+       "answer": [
+        "give"
+       ],
+       "hint": "يعطي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "adol",
+       "answer": [
+        "load"
+       ],
+       "hint": "حِمل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "inwd",
+       "answer": [
+        "wind"
+       ],
+       "hint": "رياح"
+      },
+      {
+       "type": "unscramble",
+       "letters": "hglutins",
+       "answer": [
+        "sunlight"
+       ],
+       "hint": "ضوء الشمس"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_islike",
+       "answer": [
+        "d"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_icycle",
+       "answer": [
+        "b"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_istake",
+       "answer": [
+        "m"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_isspell",
+       "answer": [
+        "m"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "The Talking Earth",
+   "pages": [
+    92,
+    105
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Story Vocabulary and Definitions"
+    },
+    {
+     "n": 2,
+     "title": "The Talking Earth (story)"
+    },
+    {
+     "n": 3,
+     "title": "Characters and Vocabulary Activities"
+    },
+    {
+     "n": 4,
+     "title": "Events and Comprehension"
+    },
+    {
+     "n": 5,
+     "title": "Quick Review"
+    }
+   ],
+   "vocab": [
+    "canoe",
+    "earth",
+    "everglades",
+    "alligator",
+    "owl",
+    "national",
+    "park",
+    "shell",
+    "scientist",
+    "swamp"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Expressive sentence structures and tense reflection (present vs. past) to articulate personal insights and narrative interpretation",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "tctnsiesi",
+       "answer": [
+        "scientist"
+       ],
+       "hint": "عالِم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eserladveg",
+       "answer": [
+        "everglades"
+       ],
+       "hint": "مستنقعات إيفرجليدز"
+      },
+      {
+       "type": "unscramble",
+       "letters": "hoto",
+       "answer": [
+        "hoot"
+       ],
+       "hint": "صوت البومة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "naeco",
+       "answer": [
+        "canoe"
+       ],
+       "hint": "قارب صغير"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tbrie",
+       "answer": [
+        "tribe"
+       ],
+       "hint": "قبيلة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ldrese",
+       "answer": [
+        "elders"
+       ],
+       "hint": "كبار السن"
+      }
+     ]
+    },
+    {
+     "id": "missing",
+     "title": "الحرف الناقص",
+     "sub": "اكتب الحرف الناقص وكمّل كلمة الوحدة",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ild",
+       "answer": [
+        "w"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ack",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_hell",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_wl",
+       "answer": [
+        "o"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_urvive",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_lligator",
+       "answer": [
+        "a"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r1",
+   "num": "مراجعة الوحدات ١-٣",
+   "title": "مراجعة الوحدات ١-٣",
+   "pages": [
+    57,
+    60
+   ],
+   "review": true,
+   "vocab": [
+    "crocodile",
+    "hunt",
+    "water",
+    "weeds",
+    "fit",
+    "mental",
+    "health",
+    "stressed",
+    "storm",
+    "flood",
+    "drought",
+    "wildfire"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Adverbs of frequency (always, usually, often, sometimes, rarely, never)",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: Indefinite Articles (a, an); Quantifiers (some, any)",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: Past simple tense: affirmative, negative, and interrogative forms, including Wh- questions",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة شاملة",
+     "sub": "أسئلة متنوعة من الوحدات",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_eap",
+       "answer": [
+        "l"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ack",
+       "answer": [
+        "bl"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "seselsv",
+       "answer": [
+        "vessels"
+       ],
+       "hint": "أوعية"
+      },
+      {
+       "type": "unscramble",
+       "letters": "istnesc",
+       "answer": [
+        "insects"
+       ],
+       "hint": "حشرات"
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ong",
+       "answer": [
+        "str"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_lood",
+       "answer": [
+        "f"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "wavaethe",
+       "answer": [
+        "heatwave"
+       ],
+       "hint": "موجة حر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ladeep",
+       "answer": [
+        "leaped"
+       ],
+       "hint": "قفز"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nrukt",
+       "answer": [
+        "trunk"
+       ],
+       "hint": "جذع/خرطوم"
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ump",
+       "answer": [
+        "j"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "lodob",
+       "answer": [
+        "blood"
+       ],
+       "hint": "دم"
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_rm",
+       "answer": [
+        "a"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "num": "مراجعة الوحدات ٤-٦",
+   "title": "مراجعة الوحدات ٤-٦",
+   "pages": [
+    106,
+    108
+   ],
+   "review": true,
+   "vocab": [
+    "restaurant",
+    "coffee",
+    "shop",
+    "bakery",
+    "sunlight",
+    "water",
+    "soil",
+    "fossil",
+    "canoe",
+    "earth",
+    "everglades",
+    "alligator"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Prepositions of time (in, on, at) to indicate specific time frames",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: Formation and usage of comparative adjectives",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: Expressive sentence structures and tense reflection (present vs. past) to articulate personal insights and narrative interpretation",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة شاملة",
+     "sub": "أسئلة متنوعة من الوحدات",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_islike",
+       "answer": [
+        "d"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ild",
+       "answer": [
+        "w"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ridge",
+       "answer": [
+        "b"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_icycle",
+       "answer": [
+        "b"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "eserladveg",
+       "answer": [
+        "everglades"
+       ],
+       "hint": "مستنقعات إيفرجليدز"
+      },
+      {
+       "type": "unscramble",
+       "letters": "sosilf",
+       "answer": [
+        "fossil"
+       ],
+       "hint": "أحفورة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tctnsiesi",
+       "answer": [
+        "scientist"
+       ],
+       "hint": "عالِم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tomynumci",
+       "answer": [
+        "community"
+       ],
+       "hint": "مجتمع"
+      },
+      {
+       "type": "unscramble",
+       "letters": "fldie",
+       "answer": [
+        "field"
+       ],
+       "hint": "حقل"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ack",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ocgra",
+       "answer": [
+        "cargo"
+       ],
+       "hint": "شحنة"
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_atch",
+       "answer": [
+        "m"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

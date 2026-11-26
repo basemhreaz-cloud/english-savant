@@ -1,0 +1,37 @@
+/* family css: tokens only (ds.css custom properties). Components missing from the DS are listed in the report. */
+.ex-lead{font-size:var(--ds-t-md);line-height:1.8;max-width:62ch}
+.ex-hcta{align-self:stretch}
+.ex-p{font-size:var(--ds-t-md);line-height:1.85;color:var(--ds-ink);overflow-wrap:anywhere}
+.ex-rows{display:grid;gap:var(--ds-s3);grid-template-columns:minmax(0,1fr)}
+.ex-rows .ds-opt{touch-action:manipulation}
+.ex-lang{display:flex;flex-wrap:wrap;gap:var(--ds-s2)}
+.ex-focus{min-height:44px;padding:0 var(--ds-s4);font-size:var(--ds-t-sm)}
+.ex-grp+.ex-grp{margin-top:var(--ds-s4)}
+.ex-grp .t-focus{display:block;margin-bottom:var(--ds-s2);font-weight:700}
+.ex-chips{padding-block:0}
+.t-word b{font-weight:700;text-decoration:underline;text-underline-offset:3px}
+.ex-actions,.ex-nav{display:grid;gap:var(--ds-s3);grid-template-columns:minmax(0,1fr)}
+.ex-dir svg{width:20px;height:20px}
+[dir=rtl] .ex-dir--n svg{transform:none}[dir=ltr] .ex-dir:not(.ex-dir--n) svg{transform:none}
+[dir=rtl] .ex-dir:not(.ex-dir--n) svg{transform:scaleX(-1)}[dir=ltr] .ex-dir--n svg{transform:none}
+.ex-foot{margin-top:var(--ds-s5);display:grid;gap:var(--ds-s5)}
+.ex-brand{display:flex;flex-direction:column;gap:var(--ds-s1)}.ex-brand b{font-family:var(--ds-font-d);letter-spacing:.05em}.ex-brand small,.ex-brand span{color:var(--ds-muted)}
+.ex-links{gap:var(--ds-s2)}.ex-fl{text-decoration:none}
+.ex-pin{display:none}.ex-copy{color:var(--ds-muted);flex-basis:100%}
+@media (min-width:700px){.ex-rows{grid-template-columns:repeat(2,minmax(0,1fr))}.ex-nav{grid-template-columns:repeat(auto-fit,minmax(200px,1fr))}.ex-foot{grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr)}.ex-foot .ex-links:last-child{grid-column:1/-1}}
+@media (min-width:1024px){.ex-dir{display:inline-flex;align-items:center}}
+@media (max-width:1023px){.ex-split{display:block}.ex-split>.ex-aside{margin-top:var(--ds-s4)}.ex-split>.ex-aside:empty{display:none}}
+
+.ex-lesson{width:100%;text-align:start;cursor:pointer;color:var(--ds-ink);font:inherit}
+.ex-english{display:flex;flex-direction:column;gap:var(--ds-s2);padding:var(--ds-s3) var(--ds-s4);border-radius:var(--ds-r-md);background:var(--ds-soft);color:var(--ds-acc);font-weight:600}
+.ex-img{display:block;width:100%;max-width:520px;height:auto;margin-inline:auto;border-radius:var(--ds-r-md)}
+.ex-nav2{display:grid;gap:var(--ds-s3);grid-template-columns:repeat(2,minmax(0,1fr))}
+.ex-try{align-self:flex-start}
+.ds-hero .ds-back{align-self:flex-start}.ex-lesson .tx{text-align:start}
+.ex-ctrl{display:flex;flex-direction:column;gap:var(--ds-s3)}.ex-turn{display:flex;flex-wrap:wrap;align-items:center;gap:var(--ds-s2);line-height:1.8}
+.ex-in{min-height:var(--ds-tap);padding:0 var(--ds-s3);border-radius:var(--ds-r-sm);border:1px solid var(--ds-edge);background:var(--ds-field);color:var(--ds-ink);font:inherit;min-width:0;flex:1 1 120px}
+.ex-in.ok{border-color:var(--ds-ok);background:var(--ds-ok-bg)}.ex-in.no{border-color:var(--ds-bad);background:var(--ds-bad-bg)}
+.ex-res{min-height:var(--ds-tap);display:flex;align-items:center}.ex-retry{display:none;margin-top:var(--ds-s3)}.ex-feed{margin-top:var(--ds-s3)}
+.ex-feedback svg{width:20px;height:20px}
+.ex-feed:empty,.ex-res:empty{display:none}
+

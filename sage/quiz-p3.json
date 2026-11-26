@@ -1,0 +1,174 @@
+{
+ "grade": "p3",
+ "gradeName": "الصف التالت الابتدائي",
+ "examTitle": "Units 1 & 2 & 3 · General Exercises",
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "The dog is ______ the two chairs.",
+   "options": [
+    "next",
+    "front of",
+    "between"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "mcq",
+   "q": "I have an ______ tomorrow at school.",
+   "options": [
+    "elephant",
+    "exam",
+    "ear"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "mcq",
+   "q": "We love my friend Hoda because she's ______.",
+   "options": [
+    "angry",
+    "kind",
+    "bad"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "mcq",
+   "q": "Haneen ______ the pyramids of Giza.",
+   "options": [
+    "visit",
+    "visits",
+    "visited"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "mcq",
+   "q": "The ______ has many old books.",
+   "options": [
+    "Pyramids of Giza",
+    "Cairo Tower",
+    "Alexandria Library"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "mcq",
+   "q": "Nelly and Farida ______ to the garden yesterday.",
+   "options": [
+    "walk",
+    "walks",
+    "walked"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "cloze",
+   "bank": [
+    "clean",
+    "takes",
+    "kind",
+    "student"
+   ],
+   "segments": [
+    "I'm Samy. I'm a ",
+    " in Primary Three. I love my school. It's big and ",
+    ". My father ",
+    " me to school every day. He is a teacher. The children like my father because he's ",
+    "."
+   ],
+   "answers": [
+    "student",
+    "clean",
+    "takes",
+    "kind"
+   ]
+  },
+  {
+   "type": "unscramble",
+   "letters": "b-y-e-d-o-o-G",
+   "answer": [
+    "Goodbye"
+   ]
+  },
+  {
+   "type": "unscramble",
+   "letters": "e-l-p-h-e-t-n-a",
+   "answer": [
+    "elephant"
+   ]
+  },
+  {
+   "type": "unscramble",
+   "letters": "t-w-i-e-h",
+   "answer": [
+    "white"
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "There are many ______ in my country.",
+   "options": [
+    "clothes",
+    "birthdays",
+    "celebrations"
+   ],
+   "answer": 2,
+   "passage": "There many celebrations in my country. My favorite celebration is 6th of October. I like this celebration because it reminds me how brave the Egyptian soldiers are. I can watch a lot of films on TV about this celebration every year. I like Egyptian soldiers and I want to be a soldier, too."
+  },
+  {
+   "type": "mcq",
+   "q": "I can watch a lot of ______ about this celebration.",
+   "options": [
+    "films",
+    "plants",
+    "fish"
+   ],
+   "answer": 0,
+   "passage": "There many celebrations in my country. My favorite celebration is 6th of October. I like this celebration because it reminds me how brave the Egyptian soldiers are. I can watch a lot of films on TV about this celebration every year. I like Egyptian soldiers and I want to be a soldier, too."
+  },
+  {
+   "type": "reorder",
+   "words": [
+    "go",
+    "to",
+    "school",
+    "I",
+    "a.m.",
+    "at",
+    "8"
+   ],
+   "answer": [
+    "I",
+    "go",
+    "to",
+    "school",
+    "at",
+    "8",
+    "a.m."
+   ]
+  },
+  {
+   "type": "reorder",
+   "words": [
+    "your",
+    "hand",
+    "Raise",
+    "when",
+    "teacher",
+    "asks",
+    "."
+   ],
+   "answer": [
+    "Raise",
+    "your",
+    "hand",
+    "when",
+    "teacher",
+    "asks",
+    "."
+   ]
+  }
+ ]
+}

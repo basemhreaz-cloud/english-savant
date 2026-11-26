@@ -1,0 +1,5399 @@
+{
+ "grade": "p3",
+ "gradeName": "الصف الثالث الابتدائي",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Unit 1: Greetings and Introductions",
+   "pages": "3-11",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Greetings and Introductions"
+    },
+    {
+     "n": 2,
+     "title": "Classroom Rules"
+    },
+    {
+     "n": 3,
+     "title": "Describing People"
+    },
+    {
+     "n": 4,
+     "title": "Daily Routines"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Greetings and Introductions",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 3)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "Nice",
+        "meet",
+        "you!",
+        "to"
+       ],
+       "answer": [
+        "Nice",
+        "to",
+        "meet",
+        "you!"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "name?",
+        "is",
+        "What"
+       ],
+       "answer": [
+        "What",
+        "is",
+        "your",
+        "name?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "name",
+        "is",
+        "Adam.",
+        "My"
+       ],
+       "answer": [
+        "My",
+        "name",
+        "is",
+        "Adam."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "my name is Ali",
+       "answer": [
+        "My name is Ali."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "how are you",
+       "answer": [
+        "How are you?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Classroom Rules",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 4)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "page",
+        "on",
+        "Open",
+        "your",
+        "6.",
+        "book"
+       ],
+       "answer": [
+        "Open",
+        "your",
+        "book",
+        "on",
+        "page",
+        "6."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "May",
+        "bathroom?",
+        "the",
+        "go",
+        "to"
+       ],
+       "answer": [
+        "May",
+        "I",
+        "go",
+        "to",
+        "the",
+        "bathroom?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "hand",
+        "teacher",
+        "asks.",
+        "Raise",
+        "when",
+        "your"
+       ],
+       "answer": [
+        "Raise",
+        "your",
+        "hand",
+        "when",
+        "teacher",
+        "asks."
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "nwhe",
+       "answer": [
+        "when"
+       ],
+       "hint": null
+      },
+      {
+       "type": "unscramble",
+       "letters": "halew",
+       "answer": [
+        "whale"
+       ],
+       "hint": null
+      },
+      {
+       "type": "unscramble",
+       "letters": "hatw",
+       "answer": [
+        "what"
+       ],
+       "hint": null
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Describing People",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 8)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ads",
+       "answer": [
+        "sad"
+       ],
+       "hint": null
+      },
+      {
+       "type": "unscramble",
+       "letters": "fulhlpe",
+       "answer": [
+        "helpful"
+       ],
+       "hint": null
+      },
+      {
+       "type": "unscramble",
+       "letters": "rgnay",
+       "answer": [
+        "angry"
+       ],
+       "hint": null
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "has",
+        "eyes.",
+        "She",
+        "green"
+       ],
+       "answer": [
+        "She",
+        "has",
+        "green",
+        "eyes."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "sister.",
+        "She",
+        "my",
+        "is"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "my",
+        "sister."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "today?",
+        "are",
+        "How",
+        "you"
+       ],
+       "answer": [
+        "How",
+        "are",
+        "you",
+        "today?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "How does Tala help her friends?",
+       "answer": [
+        "She helps her friends doing their homework",
+        "she helps them doing their homework",
+        "helps them doing their homework"
+       ],
+       "passage": "This is my friend Tala. She is very helpul and funny. She always helps her friends doing their homework. She has long black hair and brown eyes. We all like to play and talk with here."
+      },
+      {
+       "type": "typein",
+       "q": "What kind of person is Tala?",
+       "answer": [
+        "She is helpful and funny",
+        "helpful and funny"
+       ],
+       "passage": "This is my friend Tala. She is very helpul and funny. She always helps her friends doing their homework. She has long black hair and brown eyes. We all like to play and talk with here."
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Daily Routines",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 9)",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "Youssef's brother is ......... years old.",
+       "answer": [
+        "6",
+        "six"
+       ],
+       "passage": "My name is Youssef. I eat breakfast and then go to school. My brother is 6 years old. He is tall with brown hair. He wakes up at 7 a.m., eats breakfast at 7:30 and then he likes to play football."
+      },
+      {
+       "type": "typein",
+       "q": "Youssef's brother goes to play ........ after breakfast.",
+       "answer": [
+        "football"
+       ],
+       "passage": "My name is Youssef. I eat breakfast and then go to school. My brother is 6 years old. He is tall with brown hair. He wakes up at 7 a.m., eats breakfast at 7:30 and then he likes to play football."
+      },
+      {
+       "type": "typein",
+       "q": "When does Youssef's brother wake up?",
+       "answer": [
+        "at 7 a.m.",
+        "he wakes up at 7 a.m.",
+        "at 7"
+       ],
+       "passage": "My name is Youssef. I eat breakfast and then go to school. My brother is 6 years old. He is tall with brown hair. He wakes up at 7 a.m., eats breakfast at 7:30 and then he likes to play football."
+      },
+      {
+       "type": "typein",
+       "q": "What color is Youssef's brother's hair?",
+       "answer": [
+        "brown",
+        "his hair is brown",
+        "it is brown"
+       ],
+       "passage": "My name is Youssef. I eat breakfast and then go to school. My brother is 6 years old. He is tall with brown hair. He wakes up at 7 a.m., eats breakfast at 7:30 and then he likes to play football."
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "go",
+        "to",
+        "a.m.",
+        "I",
+        "school",
+        "8",
+        "at"
+       ],
+       "answer": [
+        "I",
+        "go",
+        "to",
+        "school",
+        "at",
+        "8",
+        "a.m."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "my",
+        "bed.",
+        "I",
+        "make"
+       ],
+       "answer": [
+        "I",
+        "make",
+        "my",
+        "bed."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "homework.",
+        "do",
+        "my"
+       ],
+       "answer": [
+        "I",
+        "do",
+        "my",
+        "homework."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waA",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "ص 5-7, 10-11",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "kind",
+        "am",
+        "classmates.",
+        "my",
+        "to"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "kind",
+        "to",
+        "my",
+        "classmates."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "don't",
+        "shout",
+        "in",
+        "I",
+        "class."
+       ],
+       "answer": [
+        "I",
+        "don't",
+        "shout",
+        "in",
+        "class."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Keep",
+        "class",
+        "your",
+        "clean."
+       ],
+       "answer": [
+        "Keep",
+        "your",
+        "class",
+        "clean."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "my name is Lina",
+       "answer": [
+        "My name is Lina."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "they play together",
+       "answer": [
+        "They play together."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waB",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "ص 5-7, 10-11",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "raise",
+        "speak.",
+        "to",
+        "my",
+        "hand",
+        "I"
+       ],
+       "answer": [
+        "I",
+        "raise",
+        "my",
+        "hand",
+        "to",
+        "speak."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "kitchen.",
+        "in",
+        "is",
+        "He",
+        "the"
+       ],
+       "answer": [
+        "He",
+        "is",
+        "in",
+        "the",
+        "kitchen."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "funny.",
+        "and",
+        "short",
+        "friend",
+        "My",
+        "is"
+       ],
+       "answer": [
+        "My",
+        "friend",
+        "is",
+        "short",
+        "and",
+        "funny."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "what time is it",
+       "answer": [
+        "What time is it?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "where are they going",
+       "answer": [
+        "Where are they going?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waC",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "ص 5-7, 10-11",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "bed.",
+        "make",
+        "I",
+        "my"
+       ],
+       "answer": [
+        "I",
+        "make",
+        "my",
+        "bed."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "He",
+        "plays",
+        "park.",
+        "the",
+        "in"
+       ],
+       "answer": [
+        "He",
+        "plays",
+        "in",
+        "the",
+        "park."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "morning.",
+        "the",
+        "in",
+        "brush",
+        "teeth",
+        "I",
+        "my"
+       ],
+       "answer": [
+        "I",
+        "brush",
+        "my",
+        "teeth",
+        "in",
+        "the",
+        "morning."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "what time do you sleep",
+       "answer": [
+        "What time do you sleep?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "my mom is very kind",
+       "answer": [
+        "My mom is very kind."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "Unit 2: Meet My Family",
+   "pages": "12-21",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Meet My Family"
+    },
+    {
+     "n": 2,
+     "title": "Family Traditions and Celebrations"
+    },
+    {
+     "n": 3,
+     "title": "My Family Helps Me Grow"
+    },
+    {
+     "n": 4,
+     "title": "Jobs in My Family"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Meet My Family",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 12)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "sierts",
+       "answer": [
+        "sister"
+       ],
+       "hint": "images/words/sister.png"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ndragtherom",
+       "answer": [
+        "grandmother"
+       ],
+       "hint": "images/words/grandmother.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "clenu",
+       "answer": [
+        "uncle"
+       ],
+       "hint": "images/words/uncle.jpg"
+      },
+      {
+       "type": "typein",
+       "q": "I have a cat. His cat is cute. (صحّح الكلمة التي تحتها خط: His)",
+       "answer": [
+        "Her"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "My grandfather has a farm. Her farm is big. (صحّح الكلمة التي تحتها خط: Her)",
+       "answer": [
+        "His"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "This is Laila. His cap is pink. (صحّح الكلمة التي تحتها خط: His)",
+       "answer": [
+        "Her"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "I'm Mona. I live in a big house with ",
+        " family. I help my friend doing ",
+        " homework. I help my father clean ",
+        " car."
+       ],
+       "answers": [
+        "my",
+        "her",
+        "his"
+       ],
+       "bank": [
+        "my",
+        "his",
+        "her"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Family Traditions and Celebrations",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 13)",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "كمّل الحروف الناقصة: S-a-h-m El N-s-s-i-m-e",
+       "answer": [
+        "sham el nessim",
+        "sham el-nessim",
+        "sham el neseem"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "كمّل الحروف الناقصة: t-h-e-r's-M-o D-y-a",
+       "answer": [
+        "mother's day",
+        "mothers day"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "كمّل الحروف الناقصة: i-E-d Al r-i-t-F",
+       "answer": [
+        "eid al fitr",
+        "eid al-fitr",
+        "eid elfitr"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "My ",
+        " celebration is 6th of",
+        " . It reminds us how ",
+        " are the Egyptian soldiers. It is a very important day in our history. We celebrate it every year with pride and respect."
+       ],
+       "answers": [
+        "favorite",
+        "October",
+        "brave"
+       ],
+       "bank": [
+        "brave",
+        "favorite",
+        "October"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I do well in my math …….. .",
+       "options": [
+        "exit",
+        "exam",
+        "example"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The ……….. of our school is near the garden.",
+       "options": [
+        "example",
+        "exam",
+        "exit"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "I answer one ……….. in the class.",
+       "options": [
+        "example",
+        "exam",
+        "exit"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: My Family Helps Me Grow",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 17,18)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My mother …… us food every day.",
+       "options": [
+        "helps",
+        "takes",
+        "cooks"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My brother …… me do my homework.",
+       "options": [
+        "reads",
+        "helps",
+        "cooks"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My father …… me a story.",
+       "options": [
+        "read",
+        "reads",
+        "cooks"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "unscramble",
+       "letters": "elehpnat",
+       "answer": [
+        "elephant"
+       ],
+       "hint": "images/words/elephant.png"
+      },
+      {
+       "type": "unscramble",
+       "letters": "hpoen",
+       "answer": [
+        "phone"
+       ],
+       "hint": null
+      },
+      {
+       "type": "unscramble",
+       "letters": "tohpo",
+       "answer": [
+        "photo"
+       ],
+       "hint": null
+      },
+      {
+       "type": "typein",
+       "q": "Hamza's ……… plays with him.",
+       "answer": [
+        "brother"
+       ],
+       "passage": "I'm Hamza. I love my family. My father takes me to school. My mother also cooks me lunch. My brother plays with me. I love my family."
+      },
+      {
+       "type": "typein",
+       "q": "Hamza loves his ………….",
+       "answer": [
+        "family"
+       ],
+       "passage": "I'm Hamza. I love my family. My father takes me to school. My mother also cooks me lunch. My brother plays with me. I love my family."
+      },
+      {
+       "type": "typein",
+       "q": "My …… takes me to school.",
+       "answer": [
+        "father"
+       ],
+       "passage": "I'm Hamza. I love my family. My father takes me to school. My mother also cooks me lunch. My brother plays with me. I love my family."
+      },
+      {
+       "type": "typein",
+       "q": "My mother …….. me lunch.",
+       "answer": [
+        "cooks"
+       ],
+       "passage": "I'm Hamza. I love my family. My father takes me to school. My mother also cooks me lunch. My brother plays with me. I love my family."
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Jobs in My Family",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 19)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "He is a teacher. He ……",
+       "options": [
+        "helps patients",
+        "works at school",
+        "bakes cake"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "She is a pilot. She ……",
+       "options": [
+        "travels around the world",
+        "works at school",
+        "bakes bread"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "My mom is a doctor. She ……",
+       "options": [
+        "bakes cake",
+        "works at school",
+        "helps patients"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "is",
+        "aunt",
+        "My",
+        "doctor."
+       ],
+       "answer": [
+        "My",
+        "aunt",
+        "is",
+        "a",
+        "doctor."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "She",
+        "is",
+        "pilot.",
+        "a"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "a",
+        "pilot."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "world.",
+        "travels",
+        "around",
+        "He"
+       ],
+       "answer": [
+        "He",
+        "travels",
+        "around",
+        "the",
+        "world."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "baker",
+        "food.",
+        "delicious",
+        "bakes",
+        "The"
+       ],
+       "answer": [
+        "The",
+        "baker",
+        "bakes",
+        "delicious",
+        "food."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waA",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "ص 14-16, 20-21",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "xite",
+       "answer": [
+        "exit"
+       ],
+       "hint": null
+      },
+      {
+       "type": "unscramble",
+       "letters": "amex",
+       "answer": [
+        "exam"
+       ],
+       "hint": null
+      },
+      {
+       "type": "typein",
+       "q": "my father is a teacher",
+       "answer": [
+        "My father is a teacher."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "they help their mom in the kitchen",
+       "answer": [
+        "They help their mom in the kitchen."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waB",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "ص 14-16, 20-21",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "threobr",
+       "answer": [
+        "brother"
+       ],
+       "hint": "images/words/brother.png"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tehmor",
+       "answer": [
+        "mother"
+       ],
+       "hint": "images/words/mother.jpg"
+      },
+      {
+       "type": "typein",
+       "q": "my father is a pilot",
+       "answer": [
+        "My father is a pilot."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "laila is my friend",
+       "answer": [
+        "Laila is my friend."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waC",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "ص 14-16, 20-21",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "hterfa",
+       "answer": [
+        "father"
+       ],
+       "hint": "images/words/father.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nuat",
+       "answer": [
+        "aunt"
+       ],
+       "hint": "images/words/aunt.jpg"
+      },
+      {
+       "type": "typein",
+       "q": "my sister is a doctor",
+       "answer": [
+        "My sister is a doctor."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "Unit 3: Places Around Me",
+   "pages": "22-36",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Places Around Me"
+    },
+    {
+     "n": 2,
+     "title": "Egypt's Landmarks"
+    },
+    {
+     "n": 3,
+     "title": "Map It Out"
+    },
+    {
+     "n": 4,
+     "title": "A School Trip to the Zoo"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Places Around Me",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 22,23)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "braryil",
+       "answer": [
+        "library"
+       ],
+       "hint": null
+      },
+      {
+       "type": "unscramble",
+       "letters": "ouesh",
+       "answer": [
+        "house"
+       ],
+       "hint": "images/words/house.jpg"
+      },
+      {
+       "type": "typein",
+       "q": "رتّب الحروف: u-p-r-s-e market",
+       "answer": [
+        "super market",
+        "supermarket"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "library.",
+        "the",
+        "to",
+        "He",
+        "went"
+       ],
+       "answer": [
+        "He",
+        "went",
+        "to",
+        "the",
+        "library."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "mom",
+        "went",
+        "shopping.",
+        "My"
+       ],
+       "answer": [
+        "My",
+        "mom",
+        "went",
+        "shopping."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "park.",
+        "at",
+        "He",
+        "played",
+        "the"
+       ],
+       "answer": [
+        "He",
+        "played",
+        "at",
+        "the",
+        "park."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Youssef went to the …….. to read a book.",
+       "answer": [
+        "library"
+       ],
+       "passage": "Youssef left his house early in the morning. First, he went to the library to read a book. Then, he and his mom went shopping at the supermarket. In the afternoon, he played at the park."
+      },
+      {
+       "type": "typein",
+       "q": "In the ……., he played at the park.",
+       "answer": [
+        "afternoon"
+       ],
+       "passage": "Youssef left his house early in the morning. First, he went to the library to read a book. Then, he and his mom went shopping at the supermarket. In the afternoon, he played at the park."
+      },
+      {
+       "type": "typein",
+       "q": "In the morning, he ……… his house early.",
+       "answer": [
+        "left"
+       ],
+       "passage": "Youssef left his house early in the morning. First, he went to the library to read a book. Then, he and his mom went shopping at the supermarket. In the afternoon, he played at the park."
+      },
+      {
+       "type": "typein",
+       "q": "Youssef and his mom went ……….. .",
+       "answer": [
+        "shopping"
+       ],
+       "passage": "Youssef left his house early in the morning. First, he went to the library to read a book. Then, he and his mom went shopping at the supermarket. In the afternoon, he played at the park."
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Egypt's Landmarks",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 24,25)",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "كمّل الحروف الناقصة: The p-r-a-m-y-d-i-s of Giza",
+       "answer": [
+        "pyramids"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "كمّل الحروف الناقصة: Alexandria i- b-r-a-l-r-y",
+       "answer": [
+        "library"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "كمّل الحروف الناقصة: Cairo w-T-o-e-r",
+       "answer": [
+        "tower"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word has a different sound? (أي كلمة صوتها مختلف؟)",
+       "options": [
+        "pull",
+        "buzz",
+        "tell"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word has a different sound? (أي كلمة صوتها مختلف؟)",
+       "options": [
+        "off",
+        "staff",
+        "less"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word has a different sound? (أي كلمة صوتها مختلف؟)",
+       "options": [
+        "fuzz",
+        "jazz",
+        "bell"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "typein",
+       "q": "Ayla visited the …….. with her family and took pictures.",
+       "answer": [
+        "cairo tower",
+        "the cairo tower"
+       ],
+       "passage": "Ayla visited the Cairo Tower with her family. They took pictures and saw the whole city. Then, they traveled to Alexandria. At the Alexandria Library, she read fun books. It was the best holiday she ever had!"
+      },
+      {
+       "type": "typein",
+       "q": "At the Alexandria Library, she …….. fun books.",
+       "answer": [
+        "read"
+       ],
+       "passage": "Ayla visited the Cairo Tower with her family. They took pictures and saw the whole city. Then, they traveled to Alexandria. At the Alexandria Library, she read fun books. It was the best holiday she ever had!"
+      },
+      {
+       "type": "typein",
+       "q": "She read ………. books.",
+       "answer": [
+        "fun"
+       ],
+       "passage": "Ayla visited the Cairo Tower with her family. They took pictures and saw the whole city. Then, they traveled to Alexandria. At the Alexandria Library, she read fun books. It was the best holiday she ever had!"
+      },
+      {
+       "type": "typein",
+       "q": "It is the best …….. ever.",
+       "answer": [
+        "holiday"
+       ],
+       "passage": "Ayla visited the Cairo Tower with her family. They took pictures and saw the whole city. Then, they traveled to Alexandria. At the Alexandria Library, she read fun books. It was the best holiday she ever had!"
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Map It Out",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 31)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Samy was playing in his room when his toy ",
+        " rolled under the couch. He looked for it behind the curtain and in front of the TV, but it was gone. Then, he checked ",
+        "the two chairs and saw it was",
+        " He used a",
+        " to pull it out."
+       ],
+       "answers": [
+        "car",
+        "between",
+        "stuck",
+        "stick"
+       ],
+       "bank": [
+        "stuck",
+        "stick",
+        "between",
+        "car"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: A School Trip to the Zoo",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 32)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "What is the past of \"close\"?",
+       "options": [
+        "played",
+        "liked",
+        "closed",
+        "climbed"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "What is the past of \"climb\"?",
+       "options": [
+        "climbed",
+        "closed",
+        "played",
+        "liked"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "What is the past of \"like\"?",
+       "options": [
+        "climbed",
+        "liked",
+        "closed",
+        "played"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "What is the past of \"play\"?",
+       "options": [
+        "closed",
+        "liked",
+        "climbed",
+        "played"
+       ],
+       "answer": 3
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Noor …… to school two days ago.",
+       "options": [
+        "walking",
+        "walk",
+        "walked"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "They …… the tree yesterday.",
+       "options": [
+        "climbing",
+        "climbs",
+        "climbed"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "The girl …… with her ball last week.",
+       "options": [
+        "playing",
+        "played",
+        "play"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "typein",
+       "q": "When did the students go to the pyramids?",
+       "answer": [
+        "last sunday"
+       ],
+       "passage": "Last Sunday, Grade six students went on a trip to the Pyramids in Giza. They went by bus. At the pyramids, they saw camels and horses. They rode horses and took photos. For lunch, they ate sandwiches and chips. They drank juice and water. Everyone had a good day!"
+      },
+      {
+       "type": "typein",
+       "q": "What animals did they see?",
+       "answer": [
+        "camels and horses",
+        "they saw camels and horses"
+       ],
+       "passage": "Last Sunday, Grade six students went on a trip to the Pyramids in Giza. They went by bus. At the pyramids, they saw camels and horses. They rode horses and took photos. For lunch, they ate sandwiches and chips. They drank juice and water. Everyone had a good day!"
+      }
+     ]
+    },
+    {
+     "id": "waA",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "ص 33-34",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "under",
+        "table.",
+        "is",
+        "cat",
+        "The",
+        "the"
+       ],
+       "answer": [
+        "The",
+        "cat",
+        "is",
+        "under",
+        "the",
+        "table."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Children",
+        "ate",
+        "chips.",
+        "sandwiches",
+        "and"
+       ],
+       "answer": [
+        "Children",
+        "ate",
+        "sandwiches",
+        "and",
+        "chips."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "pounds.",
+        "ticket",
+        "was",
+        "The",
+        "20"
+       ],
+       "answer": [
+        "The",
+        "ticket",
+        "was",
+        "20",
+        "pounds."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "couch.",
+        "TV",
+        "the",
+        "the",
+        "The",
+        "and",
+        "is",
+        "chair",
+        "between"
+       ],
+       "answer": [
+        "The",
+        "TV",
+        "is",
+        "between",
+        "the",
+        "chair",
+        "and",
+        "the",
+        "couch."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "i helped my friend with homework",
+       "answer": [
+        "I helped my friend with homework."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waB",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "ص 33-34",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "yesterday.",
+        "friend",
+        "went",
+        "My",
+        "to",
+        "garden"
+       ],
+       "answer": [
+        "My",
+        "friend",
+        "went",
+        "to",
+        "the",
+        "garden",
+        "yesterday."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "drives",
+        "brother",
+        "car.",
+        "My",
+        "the"
+       ],
+       "answer": [
+        "My",
+        "brother",
+        "drives",
+        "the",
+        "car."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "day.",
+        "his",
+        "every",
+        "teeth",
+        "He",
+        "brushes"
+       ],
+       "answer": [
+        "He",
+        "brushes",
+        "his",
+        "teeth",
+        "every",
+        "day."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "toys.",
+        "My",
+        "her",
+        "sister",
+        "plays",
+        "with"
+       ],
+       "answer": [
+        "My",
+        "sister",
+        "plays",
+        "with",
+        "her",
+        "toys."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "i went to the museum last weekend",
+       "answer": [
+        "I went to the museum last weekend."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waC",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "ص 33-34",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "day.",
+        "had",
+        "Everyone",
+        "a",
+        "good"
+       ],
+       "answer": [
+        "Everyone",
+        "had",
+        "a",
+        "good",
+        "day."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "plants.",
+        "farmers",
+        "grow",
+        "The"
+       ],
+       "answer": [
+        "The",
+        "farmers",
+        "grow",
+        "plants."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "help.",
+        "to",
+        "sister",
+        "His",
+        "came"
+       ],
+       "answer": [
+        "His",
+        "sister",
+        "came",
+        "to",
+        "help."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "they lived in Aswan with their family",
+       "answer": [
+        "They lived in Aswan with their family."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Let's Review units 1, 2, and 3",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 35-36)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "The",
+        "the",
+        "on",
+        "table.",
+        "is",
+        "book"
+       ],
+       "answer": [
+        "The",
+        "book",
+        "is",
+        "on",
+        "the",
+        "table."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "The",
+        "box.",
+        "in",
+        "the",
+        "ball"
+       ],
+       "answer": [
+        "The",
+        "ball",
+        "is",
+        "in",
+        "the",
+        "box."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Ali's father is a ………",
+       "answer": [
+        "pilot",
+        "a pilot"
+       ],
+       "passage": "Ali has a busy life. His father is a pilot. He travels around the world and visits many countries. Ali brushes his teeth every day to stay clean. Yesterday, he played tennis with his friends after school. He was very happy."
+      },
+      {
+       "type": "typein",
+       "q": "Ali ……… his teeth every day.",
+       "answer": [
+        "brushes"
+       ],
+       "passage": "Ali has a busy life. His father is a pilot. He travels around the world and visits many countries. Ali brushes his teeth every day to stay clean. Yesterday, he played tennis with his friends after school. He was very happy."
+      },
+      {
+       "type": "typein",
+       "q": "Yesterday, Ali ……… tennis.",
+       "answer": [
+        "played"
+       ],
+       "passage": "Ali has a busy life. His father is a pilot. He travels around the world and visits many countries. Ali brushes his teeth every day to stay clean. Yesterday, he played tennis with his friends after school. He was very happy."
+      },
+      {
+       "type": "typein",
+       "q": "What does Ali's father do?",
+       "answer": [
+        "he is a pilot",
+        "a pilot",
+        "pilot"
+       ],
+       "passage": "Ali has a busy life. His father is a pilot. He travels around the world and visits many countries. Ali brushes his teeth every day to stay clean. Yesterday, he played tennis with his friends after school. He was very happy."
+      },
+      {
+       "type": "typein",
+       "q": "When did Ali play tennis?",
+       "answer": [
+        "yesterday",
+        "yesterday after school",
+        "he played tennis yesterday"
+       ],
+       "passage": "Ali has a busy life. His father is a pilot. He travels around the world and visits many countries. Ali brushes his teeth every day to stay clean. Yesterday, he played tennis with his friends after school. He was very happy."
+      },
+      {
+       "type": "unscramble",
+       "letters": "heewl",
+       "answer": [
+        "wheel"
+       ],
+       "hint": null
+      },
+      {
+       "type": "unscramble",
+       "letters": "xame",
+       "answer": [
+        "exam"
+       ],
+       "hint": null
+      },
+      {
+       "type": "unscramble",
+       "letters": "ssim",
+       "answer": [
+        "miss"
+       ],
+       "hint": null
+      },
+      {
+       "type": "unscramble",
+       "letters": "udkc",
+       "answer": [
+        "duck"
+       ],
+       "hint": "images/words/fixed-duck.png"
+      },
+      {
+       "type": "unscramble",
+       "letters": "athw",
+       "answer": [
+        "what"
+       ],
+       "hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Unit 4: How We Feel",
+   "pages": "37-42",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "How We Feel"
+    },
+    {
+     "n": 2,
+     "title": "A Helping Hand"
+    },
+    {
+     "n": 3,
+     "title": "A Big Win"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: How We Feel",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 37)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "were",
+        "They",
+        "in",
+        "park.",
+        "playing"
+       ],
+       "answer": [
+        "They",
+        "were",
+        "playing",
+        "in",
+        "the",
+        "park."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "The",
+        "high.",
+        "jumped",
+        "cat"
+       ],
+       "answer": [
+        "The",
+        "cat",
+        "jumped",
+        "high."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "The",
+        "was",
+        "hole",
+        "small."
+       ],
+       "answer": [
+        "The",
+        "hole",
+        "was",
+        "small."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I go shopping with my mom. (صحّح الكلمة التي تحتها خط: go)",
+       "answer": [
+        "went"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "We was happy when we went to the birthday party. (صحّح الكلمة التي تحتها خط: was)",
+       "answer": [
+        "were"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "He pull the dog out angrily. (صحّح الكلمة التي تحتها خط: pull)",
+       "answer": [
+        "pulled"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: A Helping Hand",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 38)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "Sara",
+        "to",
+        "went",
+        "the",
+        "park."
+       ],
+       "answer": [
+        "Sara",
+        "went",
+        "to",
+        "the",
+        "park."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Sara",
+        "her",
+        "hurt",
+        "and",
+        "knee.",
+        "fell"
+       ],
+       "answer": [
+        "Sara",
+        "fell",
+        "and",
+        "hurt",
+        "her",
+        "knee."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "proud.",
+        "and",
+        "They",
+        "felt",
+        "happy"
+       ],
+       "answer": [
+        "They",
+        "felt",
+        "happy",
+        "and",
+        "proud."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "I do my homework …. help my mom in the kitchen.",
+       "answer": [
+        "and"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Yesterday, they ……… tennis after school.",
+       "answer": [
+        "played"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "we went to the supermarket",
+       "answer": [
+        "We went to the supermarket."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "i draw a picture on the board",
+       "answer": [
+        "I draw a picture on the board."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "we can see the elephant at the zoo",
+       "answer": [
+        "We can see the elephant at the zoo."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: A Big Win",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 39)",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Omar was ",
+        " before his first ",
+        " match. When the match started, he was worried about making ",
+        " . After he scored a ",
+        ", Omar felt proud of himself."
+       ],
+       "answers": [
+        "nervous",
+        "football",
+        "mistakes",
+        "goal"
+       ],
+       "bank": [
+        "goal",
+        "nervous",
+        "mistakes",
+        "football"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "scored",
+        "goal.",
+        "a",
+        "Omar"
+       ],
+       "answer": [
+        "Omar",
+        "scored",
+        "a",
+        "goal."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "proud",
+        "himself.",
+        "of",
+        "Omar",
+        "felt"
+       ],
+       "answer": [
+        "Omar",
+        "felt",
+        "proud",
+        "of",
+        "himself."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Omar",
+        "mistakes.",
+        "about",
+        "was",
+        "making",
+        "worried"
+       ],
+       "answer": [
+        "Omar",
+        "was",
+        "worried",
+        "about",
+        "making",
+        "mistakes."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "he was tired because he slept late",
+       "answer": [
+        "He was tired because he slept late."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "eyad was shy when he fell in the garden",
+       "answer": [
+        "Eyad was shy when he fell in the garden."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "he was worried, but he didn't give up",
+       "answer": [
+        "He was worried, but he didn't give up."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waA",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "ص 40-42",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "What do the children do every morning?",
+       "answer": [
+        "they brush their teeth",
+        "brush their teeth"
+       ],
+       "passage": "Every morning, the children brush their teeth to stay clean and healthy. One day, they saw a snake in the garden, and they felt very scared. Sara lives in a new house in the city. Yesterday, she helped her mom in the kitchen."
+      },
+      {
+       "type": "typein",
+       "q": "How did the children feel when they saw the snake?",
+       "answer": [
+        "they felt very scared",
+        "scared",
+        "very scared"
+       ],
+       "passage": "Every morning, the children brush their teeth to stay clean and healthy. One day, they saw a snake in the garden, and they felt very scared. Sara lives in a new house in the city. Yesterday, she helped her mom in the kitchen."
+      },
+      {
+       "type": "typein",
+       "q": "Where does Sara live?",
+       "answer": [
+        "in a new house in the city",
+        "she lives in a new house in the city",
+        "a new house in the city"
+       ],
+       "passage": "Every morning, the children brush their teeth to stay clean and healthy. One day, they saw a snake in the garden, and they felt very scared. Sara lives in a new house in the city. Yesterday, she helped her mom in the kitchen."
+      },
+      {
+       "type": "typein",
+       "q": "Who did Sara help yesterday?",
+       "answer": [
+        "her mom",
+        "she helped her mom",
+        "her mother"
+       ],
+       "passage": "Every morning, the children brush their teeth to stay clean and healthy. One day, they saw a snake in the garden, and they felt very scared. Sara lives in a new house in the city. Yesterday, she helped her mom in the kitchen."
+      },
+      {
+       "type": "typein",
+       "q": "Why do the children brush their teeth every morning?",
+       "answer": [
+        "to stay clean and healthy",
+        "because they want to stay clean and healthy",
+        "stay clean and healthy"
+       ],
+       "passage": "Every morning, the children brush their teeth to stay clean and healthy. One day, they saw a snake in the garden, and they felt very scared. Sara lives in a new house in the city. Yesterday, she helped her mom in the kitchen."
+      },
+      {
+       "type": "typein",
+       "q": "first, they eat their breakfast",
+       "answer": [
+        "First, they eat their breakfast."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waB",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "ص 40-42",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "Where did my friend go yesterday?",
+       "answer": [
+        "to the garden",
+        "the garden",
+        "he went to the garden"
+       ],
+       "passage": "Yesterday, my friend went to the garden. Sara also went to the park yesterday. First, they wake up in the morning and get ready for the day. While playing, Sara fell and ……… her knee."
+      },
+      {
+       "type": "typein",
+       "q": "Where did Sara go yesterday?",
+       "answer": [
+        "to the park",
+        "the park",
+        "she went to the park"
+       ],
+       "passage": "Yesterday, my friend went to the garden. Sara also went to the park yesterday. First, they wake up in the morning and get ready for the day. While playing, Sara fell and ……… her knee."
+      },
+      {
+       "type": "typein",
+       "q": "Sara fell and ……… her knee.",
+       "answer": [
+        "hurt"
+       ],
+       "passage": "Yesterday, my friend went to the garden. Sara also went to the park yesterday. First, they wake up in the morning and get ready for the day. While playing, Sara fell and ……… her knee."
+      },
+      {
+       "type": "typein",
+       "q": "What did Sara do first in the morning?",
+       "answer": [
+        "she woke up",
+        "woke up",
+        "she wakes up in the morning",
+        "wake up"
+       ],
+       "passage": "Yesterday, my friend went to the garden. Sara also went to the park yesterday. First, they wake up in the morning and get ready for the day. While playing, Sara fell and ……… her knee."
+      },
+      {
+       "type": "typein",
+       "q": "What happened to Sara while playing?",
+       "answer": [
+        "she fell and hurt her knee",
+        "she fell",
+        "fell and hurt her knee"
+       ],
+       "passage": "Yesterday, my friend went to the garden. Sara also went to the park yesterday. First, they wake up in the morning and get ready for the day. While playing, Sara fell and ……… her knee."
+      },
+      {
+       "type": "typein",
+       "q": "do they play together",
+       "answer": [
+        "Do they play together?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waC",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "ص 40-42",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "Who helped Sara yesterday?",
+       "answer": [
+        "her friend",
+        "her friend helped her",
+        "sara's friend"
+       ],
+       "passage": "Sara is a kind girl. Yesterday, her friend helped her when she needed help. Later, the children saw a snake in the garden, and they felt very scared. Sara lives in a new house in the city. When she fell while playing, she felt scared too."
+      },
+      {
+       "type": "typein",
+       "q": "Where does Sara live?",
+       "answer": [
+        "in a new house in the city",
+        "she lives in a new house in the city"
+       ],
+       "passage": "Sara is a kind girl. Yesterday, her friend helped her when she needed help. Later, the children saw a snake in the garden, and they felt very scared. Sara lives in a new house in the city. When she fell while playing, she felt scared too."
+      },
+      {
+       "type": "typein",
+       "q": "How did Sara feel when she fell while playing?",
+       "answer": [
+        "she felt scared",
+        "scared",
+        "she felt scared too"
+       ],
+       "passage": "Sara is a kind girl. Yesterday, her friend helped her when she needed help. Later, the children saw a snake in the garden, and they felt very scared. Sara lives in a new house in the city. When she fell while playing, she felt scared too."
+      },
+      {
+       "type": "typein",
+       "q": "What did the children see in the garden?",
+       "answer": [
+        "a snake",
+        "they saw a snake",
+        "snake"
+       ],
+       "passage": "Sara is a kind girl. Yesterday, her friend helped her when she needed help. Later, the children saw a snake in the garden, and they felt very scared. Sara lives in a new house in the city. When she fell while playing, she felt scared too."
+      },
+      {
+       "type": "typein",
+       "q": "one sunny day, they went to the park",
+       "answer": [
+        "One sunny day, they went to the park."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "Unit 5: Teamwork",
+   "pages": "43-52",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Teamwork & Chores"
+    },
+    {
+     "n": 2,
+     "title": "Teamwork at School"
+    },
+    {
+     "n": 3,
+     "title": "Teamwork in Sports"
+    },
+    {
+     "n": 4,
+     "title": "I Help My Community!"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: Teamwork & Chores",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 43)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "arec",
+       "answer": [
+        "care"
+       ],
+       "hint": "رعاية"
+      },
+      {
+       "type": "unscramble",
+       "letters": "arhse",
+       "answer": [
+        "share"
+       ],
+       "hint": null
+      },
+      {
+       "type": "typein",
+       "q": "رتّب الحروف: d-i-y-t up the d-e-b",
+       "answer": [
+        "tidy up the bed"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "clothes.",
+        "Omar",
+        "donates"
+       ],
+       "answer": [
+        "Omar",
+        "donates",
+        "clothes."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "match.",
+        "the",
+        "Omar",
+        "wins",
+        "football"
+       ],
+       "answer": [
+        "Omar",
+        "wins",
+        "the",
+        "football",
+        "match."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "food",
+        "sister.",
+        "her",
+        "Sara",
+        "shares",
+        "with"
+       ],
+       "answer": [
+        "Sara",
+        "shares",
+        "food",
+        "with",
+        "her",
+        "sister."
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Mona and Karim are at home. Their mother asks them to do some ",
+        " . First, they",
+        " up the living room. Then, they clean the table and the floor. Mona and Karim work ",
+        "and share the chores. They are happy to help."
+       ],
+       "answers": [
+        "chores",
+        "tidy",
+        "together"
+       ],
+       "bank": [
+        "together",
+        "home",
+        "chores",
+        "tidy"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: Teamwork at School",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 44)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "Youssef",
+        "idea.",
+        "good",
+        "finds",
+        "a"
+       ],
+       "answer": [
+        "Youssef",
+        "finds",
+        "a",
+        "good",
+        "idea."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "team.",
+        "They",
+        "work",
+        "as"
+       ],
+       "answer": [
+        "They",
+        "work",
+        "as",
+        "a",
+        "team."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "They",
+        "their",
+        "plan",
+        "project."
+       ],
+       "answer": [
+        "They",
+        "plan",
+        "their",
+        "project."
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word has a different sound? (أي كلمة صوتها مختلف؟)",
+       "options": [
+        "giraffe",
+        "gum",
+        "good"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word has a different sound? (أي كلمة صوتها مختلف؟)",
+       "options": [
+        "dog",
+        "gum",
+        "green"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word has a different sound? (أي كلمة صوتها مختلف؟)",
+       "options": [
+        "page",
+        "big",
+        "dog"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Salma and Youssef had a ",
+        "at school. At first, they couldn't agree on what to do. Then, they started to share",
+        " . Salma wrote, and Youssef drew. When Salma felt tired, Youssef ",
+        "her. Finally, they finished the project. Their teacher was happy and said, \"",
+        "!\""
+       ],
+       "answers": [
+        "project",
+        "ideas",
+        "helped",
+        "good job"
+       ],
+       "bank": [
+        "good job",
+        "ideas",
+        "project",
+        "helped"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: Teamwork in Sports",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 49)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "started",
+        "They",
+        "ball.",
+        "the",
+        "pass",
+        "to"
+       ],
+       "answer": [
+        "They",
+        "started",
+        "to",
+        "pass",
+        "the",
+        "ball."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "together.",
+        "They",
+        "won"
+       ],
+       "answer": [
+        "They",
+        "won",
+        "together."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "game",
+        "made",
+        "the",
+        "fun.",
+        "Teamwork"
+       ],
+       "answer": [
+        "Teamwork",
+        "made",
+        "the",
+        "game",
+        "fun."
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word has a different sound? (أي كلمة صوتها مختلف؟)",
+       "options": [
+        "giraffe",
+        "gum",
+        "page"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word has a different sound? (أي كلمة صوتها مختلف؟)",
+       "options": [
+        "huge",
+        "Egypt",
+        "green"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word has a different sound? (أي كلمة صوتها مختلف؟)",
+       "options": [
+        "good",
+        "big",
+        "huge"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Mazen and his friends played ",
+        "at school. At first, they all wanted to score. Then, their ",
+        " said, \"Work as a",
+        "!\" They started to pass the ball and help each other. Mazen passed to Karim, and Karim",
+        " ."
+       ],
+       "answers": [
+        "football match",
+        "coach",
+        "team",
+        "scored"
+       ],
+       "bank": [
+        "scored",
+        "team",
+        "coach",
+        "football match"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: I Help My Community!",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 50)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "wants",
+        "her",
+        "neighborhood.",
+        "help",
+        "Salma",
+        "to"
+       ],
+       "answer": [
+        "Salma",
+        "wants",
+        "to",
+        "help",
+        "her",
+        "neighborhood."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "clothes",
+        "donate",
+        "and",
+        "They",
+        "toys."
+       ],
+       "answer": [
+        "They",
+        "donate",
+        "clothes",
+        "and",
+        "toys."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Teamwork",
+        "the",
+        "makes",
+        "community",
+        "better."
+       ],
+       "answer": [
+        "Teamwork",
+        "makes",
+        "the",
+        "community",
+        "better."
+       ]
+      },
+      {
+       "type": "reorder",
+       "label": "order",
+       "words": [
+        "Then, they plant trees near the school.",
+        "First, the children want to help their neighborhood.",
+        "Finally, they are proud to help."
+       ],
+       "answer": [
+        "First, the children want to help their neighborhood.",
+        "Then, they plant trees near the school.",
+        "Finally, they are proud to help."
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Sara: Hello, Omar. What are you doing?\nOmar: I am helping ",
+        "the park.\nSara: That is great! Can I help too?\nOmar: Yes! Let's work",
+        " .\nSara: We can plant",
+        " .\nOmar: And we can ",
+        "books to the school library."
+       ],
+       "answers": [
+        "clean",
+        "together",
+        "flowers",
+        "donate"
+       ],
+       "bank": [
+        "clean",
+        "together",
+        "donate",
+        "flowers"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waA",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "ص 51-52",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "won",
+        "together.",
+        "They"
+       ],
+       "answer": [
+        "They",
+        "won",
+        "together."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "alone.",
+        "win",
+        "didn't",
+        "They"
+       ],
+       "answer": [
+        "They",
+        "didn't",
+        "win",
+        "alone."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "their",
+        "donate",
+        "Children",
+        "clothes."
+       ],
+       "answer": [
+        "Children",
+        "donate",
+        "their",
+        "clothes."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "They",
+        "score.",
+        "to",
+        "all",
+        "wanted"
+       ],
+       "answer": [
+        "They",
+        "all",
+        "wanted",
+        "to",
+        "score."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "finally, everyone is happy",
+       "answer": [
+        "Finally, everyone is happy."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "who played football at school",
+       "answer": [
+        "Who played football at school?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waB",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "ص 51-52",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Omar and his friends played football at",
+        " . At first, they all wanted to score. Then, their ",
+        "said, \"Work as a",
+        "!\" They started to pass the ball and ",
+        "each other."
+       ],
+       "answers": [
+        "school",
+        "coach",
+        "team",
+        "help"
+       ],
+       "bank": [
+        "school",
+        "help",
+        "coach",
+        "team"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "first, they clean the street",
+       "answer": [
+        "First, they clean the street."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "who scored the goal",
+       "answer": [
+        "Who scored the goal?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waC",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "ص 51-52",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Hady and Salma want to help their",
+        " . Everyone is ",
+        " . Their teacher says, \"Well done!\" ",
+        "makes the community better. Hady and Salma smile. They are ",
+        " to help."
+       ],
+       "answers": [
+        "neighborhood",
+        "happy",
+        "teamwork",
+        "proud"
+       ],
+       "bank": [
+        "teamwork",
+        "neighborhood",
+        "proud",
+        "happy"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "they are proud to help",
+       "answer": [
+        "They are proud to help."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "how did the team feel after the goal",
+       "answer": [
+        "How did the team feel after the goal?"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "Unit 6: My Goal, My Dream",
+   "pages": "53-61",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "My Goal, My Dream"
+    },
+    {
+     "n": 2,
+     "title": "A Day to Remember"
+    },
+    {
+     "n": 3,
+     "title": "I Did It"
+    },
+    {
+     "n": 4,
+     "title": "Helping Others Succeed"
+    }
+   ],
+   "stations": [
+    {
+     "id": "l1",
+     "title": "الدرس ١: My Goal, My Dream",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 53)",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ogla",
+       "answer": [
+        "goal"
+       ],
+       "hint": "images/words/fixed-goal.png"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tsep",
+       "answer": [
+        "step"
+       ],
+       "hint": null
+      },
+      {
+       "type": "unscramble",
+       "letters": "clebeetar",
+       "answer": [
+        "celebrate"
+       ],
+       "hint": null
+      },
+      {
+       "type": "typein",
+       "q": "Youssef is scored a goal. (صحّح الكلمة التي تحتها خط: scored)",
+       "answer": [
+        "scoring"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Children is celebrating. (صحّح الكلمة التي تحتها خط: is)",
+       "answer": [
+        "are"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "They are try to win the match. (صحّح الكلمة التي تحتها خط: try)",
+       "answer": [
+        "trying"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Samer is trying to get better at football. He is training every day. He is ",
+        " the ball and splashing in the mud. Now, he is ",
+        " a match with his friends. He is scoring a ",
+        "and is feeling very ",
+        " ."
+       ],
+       "answers": [
+        "kicking",
+        "playing",
+        "goal",
+        "proud"
+       ],
+       "bank": [
+        "goal",
+        "playing",
+        "kicking",
+        "proud"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "title": "الدرس ٢: A Day to Remember",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 54)",
+     "questions": [
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word has a different sound? (أي كلمة صوتها مختلف؟)",
+       "options": [
+        "spray",
+        "splash",
+        "split"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word has a different sound? (أي كلمة صوتها مختلف؟)",
+       "options": [
+        "spring",
+        "split",
+        "spray"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "choose",
+       "q": "Which word has a different sound? (أي كلمة صوتها مختلف؟)",
+       "options": [
+        "screen",
+        "scream",
+        "string"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Mona is learning how to ride her red ",
+        " . She is pushing her feet on the ",
+        " Now, she is riding around the garden path. She is feeling proud. Mona is showing that practice brings ",
+        " ."
+       ],
+       "answers": [
+        "bike",
+        "pedals",
+        "success"
+       ],
+       "bank": [
+        "bike",
+        "pedals",
+        "success"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l3",
+     "title": "الدرس ٣: I Did It",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 57)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "He",
+        "answered",
+        "questions."
+       ],
+       "answer": [
+        "He",
+        "answered",
+        "the",
+        "questions."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "proud.",
+        "very",
+        "Tamer",
+        "felt"
+       ],
+       "answer": [
+        "Tamer",
+        "felt",
+        "very",
+        "proud."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Tamer",
+        "nervous.",
+        "felt"
+       ],
+       "answer": [
+        "Tamer",
+        "felt",
+        "nervous."
+       ]
+      },
+      {
+       "type": "reorder",
+       "label": "order",
+       "words": [
+        "Then, he answered all the questions.",
+        "Finally, he celebrated with his family.",
+        "First, Tamer studied hard."
+       ],
+       "answer": [
+        "First, Tamer studied hard.",
+        "Then, he answered all the questions.",
+        "Finally, he celebrated with his family."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "who did Tamer celebrate with",
+       "answer": [
+        "Who did Tamer celebrate with?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "they won the race",
+       "answer": [
+        "They won the race."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "l4",
+     "title": "الدرس ٤: Helping Others Succeed",
+     "sub": "أنشطة أداء الصف والواجب من كتاب التقييمات (ص 58)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "a",
+        "runner.",
+        "fast",
+        "Yara"
+       ],
+       "answer": [
+        "Yara",
+        "is",
+        "a",
+        "fast",
+        "runner."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "and",
+        "together",
+        "ran",
+        "won.",
+        "They"
+       ],
+       "answer": [
+        "They",
+        "ran",
+        "together",
+        "and",
+        "won."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "on",
+        "the",
+        "day.",
+        "Yara",
+        "felt",
+        "happy",
+        "race"
+       ],
+       "answer": [
+        "Yara",
+        "felt",
+        "happy",
+        "on",
+        "the",
+        "race",
+        "day."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "they ran every day at the school field",
+       "answer": [
+        "They ran every day at the school field."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waA",
+     "title": "التقييم الأسبوعي (A)",
+     "sub": "ص 55-56, 59-60",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "Mariem",
+        "passing",
+        "exam.",
+        "the",
+        "celebrates"
+       ],
+       "answer": [
+        "Mariem",
+        "celebrates",
+        "passing",
+        "the",
+        "exam."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Karim",
+        "goal.",
+        "has",
+        "a"
+       ],
+       "answer": [
+        "Karim",
+        "has",
+        "a",
+        "goal."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "practices",
+        "Sara",
+        "football."
+       ],
+       "answer": [
+        "Sara",
+        "practices",
+        "football."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "all",
+        "score.",
+        "They",
+        "wanted",
+        "to"
+       ],
+       "answer": [
+        "They",
+        "all",
+        "wanted",
+        "to",
+        "score."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "he is scoring a goal",
+       "answer": [
+        "He is scoring a goal."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "samer is trying to get better at football",
+       "answer": [
+        "Samer is trying to get better at football."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waB",
+     "title": "التقييم الأسبوعي (B)",
+     "sub": "ص 55-56, 59-60",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "Laila",
+        "playing",
+        "outside",
+        "in",
+        "spring."
+       ],
+       "answer": [
+        "Laila",
+        "is",
+        "playing",
+        "outside",
+        "in",
+        "spring."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "playing",
+        "She",
+        "is",
+        "and",
+        "laughing."
+       ],
+       "answer": [
+        "She",
+        "is",
+        "playing",
+        "and",
+        "laughing."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "bumps",
+        "rocks.",
+        "car",
+        "into",
+        "The",
+        "toy",
+        "fast"
+       ],
+       "answer": [
+        "The",
+        "fast",
+        "toy",
+        "car",
+        "bumps",
+        "into",
+        "rocks."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "down",
+        "the",
+        "Yara",
+        "street.",
+        "runs"
+       ],
+       "answer": [
+        "Yara",
+        "runs",
+        "down",
+        "the",
+        "street."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waC",
+     "title": "التقييم الأسبوعي (C)",
+     "sub": "ص 55-56, 59-60",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "how",
+        "learning",
+        "Mona",
+        "to",
+        "is",
+        "ride."
+       ],
+       "answer": [
+        "Mona",
+        "is",
+        "learning",
+        "how",
+        "to",
+        "ride."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "feeling",
+        "proud.",
+        "is",
+        "She"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "feeling",
+        "proud."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "riding",
+        "garden.",
+        "is",
+        "around",
+        "She"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "riding",
+        "around",
+        "the",
+        "garden."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "mona is showing that practice brings success",
+       "answer": [
+        "Mona is showing that practice brings success."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waD",
+     "title": "التقييم الأسبوعي (D)",
+     "sub": "ص 55-56, 59-60",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "Tamer",
+        "proud",
+        "felt",
+        "and",
+        "happy."
+       ],
+       "answer": [
+        "Tamer",
+        "felt",
+        "proud",
+        "and",
+        "happy."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Karim",
+        "answered",
+        "all",
+        "questions.",
+        "the"
+       ],
+       "answer": [
+        "Karim",
+        "answered",
+        "all",
+        "the",
+        "questions."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "party.",
+        "Sara",
+        "the",
+        "celebrated"
+       ],
+       "answer": [
+        "Sara",
+        "celebrated",
+        "the",
+        "party."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "ran",
+        "day.",
+        "every",
+        "They",
+        "together"
+       ],
+       "answer": [
+        "They",
+        "ran",
+        "together",
+        "every",
+        "day."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "he smiled on race day",
+       "answer": [
+        "He smiled on race day."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waE",
+     "title": "التقييم الأسبوعي (E)",
+     "sub": "ص 55-56, 59-60",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "Yara",
+        "is",
+        "fast",
+        "runner."
+       ],
+       "answer": [
+        "Yara",
+        "is",
+        "a",
+        "fast",
+        "runner."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "at",
+        "field",
+        "the",
+        "day.",
+        "every",
+        "She",
+        "practices"
+       ],
+       "answer": [
+        "She",
+        "practices",
+        "at",
+        "the",
+        "field",
+        "every",
+        "day."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "get",
+        "her",
+        "ready",
+        "Yara",
+        "race.",
+        "for",
+        "helped",
+        "the"
+       ],
+       "answer": [
+        "Yara",
+        "helped",
+        "her",
+        "get",
+        "ready",
+        "for",
+        "the",
+        "race."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "felt",
+        "on",
+        "friend",
+        "ran",
+        "well",
+        "race",
+        "day.",
+        "and",
+        "happy",
+        "Her"
+       ],
+       "answer": [
+        "Her",
+        "friend",
+        "ran",
+        "well",
+        "and",
+        "felt",
+        "happy",
+        "on",
+        "race",
+        "day."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "waF",
+     "title": "التقييم الأسبوعي (F)",
+     "sub": "ص 55-56, 59-60",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "for",
+        "Kareem",
+        "his",
+        "studied",
+        "exam."
+       ],
+       "answer": [
+        "Kareem",
+        "studied",
+        "for",
+        "his",
+        "exam."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "made",
+        "She",
+        "plan."
+       ],
+       "answer": [
+        "She",
+        "made",
+        "a",
+        "plan."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "every",
+        "do",
+        "did",
+        "What",
+        "Hady",
+        "day?"
+       ],
+       "answer": [
+        "What",
+        "did",
+        "Hady",
+        "do",
+        "every",
+        "day?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "her friend smiled on race day",
+       "answer": [
+        "Her friend smiled on race day."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "she felt happy and celebrated",
+       "answer": [
+        "She felt happy and celebrated."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "urev",
+     "title": "Let's Review units 4, 5, and 6",
+     "sub": "مراجعة الوحدة من كتاب التقييمات (ص 61)",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "all",
+        "tired",
+        "Amir",
+        "after",
+        "day.",
+        "was",
+        "playing"
+       ],
+       "answer": [
+        "Amir",
+        "was",
+        "tired",
+        "after",
+        "playing",
+        "all",
+        "day."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "on",
+        "She",
+        "was",
+        "go",
+        "to",
+        "trip.",
+        "the",
+        "excited"
+       ],
+       "answer": [
+        "She",
+        "was",
+        "excited",
+        "to",
+        "go",
+        "on",
+        "the",
+        "trip."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Yesterday, Salma playing with her doll. (صحّح الكلمة التي تحتها خط: playing)",
+       "answer": [
+        "was playing"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Hani read a book now. (صحّح الكلمة التي تحتها خط: read)",
+       "answer": [
+        "is reading"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Look, the cat jumping on the chair. (صحّح الكلمة التي تحتها خط: jumping)",
+       "answer": [
+        "is jumping"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "they play football after school",
+       "answer": [
+        "They play football after school."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "where do you live",
+       "answer": [
+        "Where do you live?"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gr1",
+   "title": "المراجعة العامة ١",
+   "pages": "26-30",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "المراجعة العامة ١",
+     "sub": "من كتاب التقييمات (ص 26-30) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "Sara.",
+        "name",
+        "My",
+        "is"
+       ],
+       "answer": [
+        "My",
+        "name",
+        "is",
+        "Sara."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "How",
+        "you",
+        "today?",
+        "are"
+       ],
+       "answer": [
+        "How",
+        "are",
+        "you",
+        "today?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "school",
+        "to",
+        "I",
+        "at",
+        "go",
+        "a.m.",
+        "8"
+       ],
+       "answer": [
+        "I",
+        "go",
+        "to",
+        "school",
+        "at",
+        "8",
+        "a.m."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "sister.",
+        "is",
+        "She",
+        "my"
+       ],
+       "answer": [
+        "She",
+        "is",
+        "my",
+        "sister."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "He",
+        "the",
+        "went",
+        "library.",
+        "to"
+       ],
+       "answer": [
+        "He",
+        "went",
+        "to",
+        "the",
+        "library."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Youssef is a ……… boy.",
+       "answer": [
+        "kind"
+       ],
+       "passage": "Youssef is a kind boy. He wakes up early and goes to school at 8 a.m. He studies well and helps his friends. After school, he does his homework and plays in the park. He loves his family very much and enjoys his day."
+      },
+      {
+       "type": "typein",
+       "q": "He goes to school at ………",
+       "answer": [
+        "8 a.m.",
+        "8 am",
+        "8"
+       ],
+       "passage": "Youssef is a kind boy. He wakes up early and goes to school at 8 a.m. He studies well and helps his friends. After school, he does his homework and plays in the park. He loves his family very much and enjoys his day."
+      },
+      {
+       "type": "typein",
+       "q": "After school, he ………",
+       "answer": [
+        "does his homework and plays in the park",
+        "does his homework",
+        "plays in the park"
+       ],
+       "passage": "Youssef is a kind boy. He wakes up early and goes to school at 8 a.m. He studies well and helps his friends. After school, he does his homework and plays in the park. He loves his family very much and enjoys his day."
+      },
+      {
+       "type": "typein",
+       "q": "What does Youssef do after school?",
+       "answer": [
+        "he does his homework and plays in the park",
+        "does his homework and plays in the park"
+       ],
+       "passage": "Youssef is a kind boy. He wakes up early and goes to school at 8 a.m. He studies well and helps his friends. After school, he does his homework and plays in the park. He loves his family very much and enjoys his day."
+      },
+      {
+       "type": "typein",
+       "q": "Why do people like Youssef?",
+       "answer": [
+        "because he studies well and helps his friends",
+        "he studies well and helps his friends",
+        "because he is kind and helpful"
+       ],
+       "passage": "Youssef is a kind boy. He wakes up early and goes to school at 8 a.m. He studies well and helps his friends. After school, he does his homework and plays in the park. He loves his family very much and enjoys his day."
+      },
+      {
+       "type": "typein",
+       "q": "Laila is a ……… girl.",
+       "answer": [
+        "happy"
+       ],
+       "passage": "Laila is a happy girl. She lives in Egypt with her family. Every morning, she goes to school and studies her lessons. After school, she helps her mother and plays with her friends. She loves reading stories at night."
+      },
+      {
+       "type": "typein",
+       "q": "She lives in ………",
+       "answer": [
+        "egypt"
+       ],
+       "passage": "Laila is a happy girl. She lives in Egypt with her family. Every morning, she goes to school and studies her lessons. After school, she helps her mother and plays with her friends. She loves reading stories at night."
+      },
+      {
+       "type": "typein",
+       "q": "At night, she ………",
+       "answer": [
+        "reads stories",
+        "loves reading stories",
+        "reads stories at night"
+       ],
+       "passage": "Laila is a happy girl. She lives in Egypt with her family. Every morning, she goes to school and studies her lessons. After school, she helps her mother and plays with her friends. She loves reading stories at night."
+      },
+      {
+       "type": "typein",
+       "q": "What does Laila do after school?",
+       "answer": [
+        "she helps her mother and plays with her friends",
+        "helps her mother and plays with her friends"
+       ],
+       "passage": "Laila is a happy girl. She lives in Egypt with her family. Every morning, she goes to school and studies her lessons. After school, she helps her mother and plays with her friends. She loves reading stories at night."
+      },
+      {
+       "type": "typein",
+       "q": "Who does Laila live with?",
+       "answer": [
+        "her family",
+        "she lives with her family",
+        "with her family"
+       ],
+       "passage": "Laila is a happy girl. She lives in Egypt with her family. Every morning, she goes to school and studies her lessons. After school, she helps her mother and plays with her friends. She loves reading stories at night."
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Ali is a good and helpful boy. He goes to school every day at 8 a.m. He studies his lessons well and always ",
+        " his homework. After school, he ",
+        " with his friends in the park."
+       ],
+       "answers": [
+        "does",
+        "plays"
+       ],
+       "bank": [
+        "plays",
+        "does",
+        "eats"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Mona lives in Egypt with her family in a big house. She loves her mother very much and helps ",
+        " at home every day. She is a very ",
+        " girl and everyone likes her."
+       ],
+       "answers": [
+        "her",
+        "kind"
+       ],
+       "bank": [
+        "kind",
+        "her",
+        "run"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Every morning, I wake up early and get dressed for school. I go with my friends and ",
+        " my lessons carefully. I also ",
+        " my teachers and listen to them in class."
+       ],
+       "answers": [
+        "study",
+        "respect"
+       ],
+       "bank": [
+        "study",
+        "play",
+        "respect"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "My father is a teacher. He works at a big school and ",
+        " his students every day. He explains the lessons well. He is very ",
+        " and all the students love him."
+       ],
+       "answers": [
+        "helps",
+        "kind"
+       ],
+       "bank": [
+        "helps",
+        "kind",
+        "runs"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "After school, I go home and do my homework in my room. Then I ",
+        " TV for some time. In the evening, I ",
+        " with my friends and enjoy my day."
+       ],
+       "answers": [
+        "watch",
+        "play"
+       ],
+       "bank": [
+        "watch",
+        "sleep",
+        "play"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "my name is ahmed",
+       "answer": [
+        "My name is Ahmed."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "where are you going",
+       "answer": [
+        "Where are you going?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "my name is salma",
+       "answer": [
+        "My name is Salma."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "i have a brother and a sister",
+       "answer": [
+        "I have a brother and a sister."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "we go to school in the morning",
+       "answer": [
+        "We go to school in the morning."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "my mother cooks delicious food",
+       "answer": [
+        "My mother cooks delicious food."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "what is your name",
+       "answer": [
+        "What is your name?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "how old are you",
+       "answer": [
+        "How old are you?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "when do you go to school",
+       "answer": [
+        "When do you go to school?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "why are you late",
+       "answer": [
+        "Why are you late?"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gr2",
+   "title": "المراجعة العامة ٢",
+   "pages": "45-48",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "المراجعة العامة ٢",
+     "sub": "من كتاب التقييمات (ص 45-48) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Last Monday, Grade three students went on a ",
+        "to the zoo. They ate ",
+        "and chips. They",
+        "juice and water. Everyone had a ",
+        "day!"
+       ],
+       "answers": [
+        "trip",
+        "sandwiches",
+        "drank",
+        "good"
+       ],
+       "bank": [
+        "good",
+        "trip",
+        "drank",
+        "sandwiches"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Adam and Omar were playing in the ",
+        "when they heard a cat cry. Then, they quickly followed the sound, and soon they saw the cat stuck in a",
+        " . Because the hole was ",
+        " . Adam held the fence while Omar carefully",
+        " the cat out."
+       ],
+       "answers": [
+        "park",
+        "fence",
+        "small",
+        "pulled"
+       ],
+       "bank": [
+        "pulled",
+        "fence",
+        "park",
+        "small"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Adam and Omar were ",
+        "in the park when they heard a dog ",
+        " . They saw the dog",
+        " in a fence. Since they worked as a",
+        ", they saved the dog, they felt happy and proud."
+       ],
+       "answers": [
+        "playing",
+        "cry",
+        "stuck",
+        "team"
+       ],
+       "bank": [
+        "team",
+        "playing",
+        "stuck",
+        "cry"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Sara went to the park because she was ",
+        " . She drew a",
+        "with her pencil. She was happy and ",
+        "at her friend. Then she fell and hurt her",
+        " ."
+       ],
+       "answers": [
+        "bored",
+        "picture",
+        "smiled",
+        "knee"
+       ],
+       "bank": [
+        "bored",
+        "knee",
+        "smiled",
+        "picture"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Where did my friend go yesterday?",
+       "answer": [
+        "to the garden",
+        "the garden"
+       ],
+       "passage": "Yesterday, my friend went to the garden. Omar scored a goal and felt very proud. First, they wake up in the morning and get ready for school. Sara fell and hurt her knee while playing."
+      },
+      {
+       "type": "typein",
+       "q": "Omar scored a ……… and felt proud.",
+       "answer": [
+        "goal"
+       ],
+       "passage": "Yesterday, my friend went to the garden. Omar scored a goal and felt very proud. First, they wake up in the morning and get ready for school. Sara fell and hurt her knee while playing."
+      },
+      {
+       "type": "typein",
+       "q": "What did Omar score yesterday?",
+       "answer": [
+        "a goal",
+        "he scored a goal",
+        "goal"
+       ],
+       "passage": "Yesterday, my friend went to the garden. Omar scored a goal and felt very proud. First, they wake up in the morning and get ready for school. Sara fell and hurt her knee while playing."
+      },
+      {
+       "type": "typein",
+       "q": "Where is the cat?",
+       "answer": [
+        "under the table",
+        "the cat is under the table"
+       ],
+       "passage": "The cat is under the table. Children ate sandwiches and chips for lunch. The ticket for the bus was 20 pounds. The TV is between the chair and the couch."
+      },
+      {
+       "type": "typein",
+       "q": "What did the children eat?",
+       "answer": [
+        "sandwiches and chips",
+        "they ate sandwiches and chips"
+       ],
+       "passage": "The cat is under the table. Children ate sandwiches and chips for lunch. The ticket for the bus was 20 pounds. The TV is between the chair and the couch."
+      },
+      {
+       "type": "typein",
+       "q": "How much was the ticket?",
+       "answer": [
+        "20 pounds",
+        "twenty pounds",
+        "20"
+       ],
+       "passage": "The cat is under the table. Children ate sandwiches and chips for lunch. The ticket for the bus was 20 pounds. The TV is between the chair and the couch."
+      },
+      {
+       "type": "typein",
+       "q": "Where is the TV?",
+       "answer": [
+        "between the chair and the couch",
+        "the tv is between the chair and the couch"
+       ],
+       "passage": "The cat is under the table. Children ate sandwiches and chips for lunch. The ticket for the bus was 20 pounds. The TV is between the chair and the couch."
+      },
+      {
+       "type": "typein",
+       "q": "What did the children have for lunch?",
+       "answer": [
+        "sandwiches and chips",
+        "they had sandwiches and chips"
+       ],
+       "passage": "The cat is under the table. Children ate sandwiches and chips for lunch. The ticket for the bus was 20 pounds. The TV is between the chair and the couch."
+      },
+      {
+       "type": "typein",
+       "q": "Who drives the car?",
+       "answer": [
+        "my brother",
+        "the brother",
+        "brother"
+       ],
+       "passage": "My brother drives the car carefully. He was excited when he won the prize. My sister plays with her toys every day in the afternoon. We are happy . I love my brother."
+      },
+      {
+       "type": "typein",
+       "q": "How did he feel when he won the prize?",
+       "answer": [
+        "excited",
+        "he was excited",
+        "he felt excited"
+       ],
+       "passage": "My brother drives the car carefully. He was excited when he won the prize. My sister plays with her toys every day in the afternoon. We are happy . I love my brother."
+      },
+      {
+       "type": "typein",
+       "q": "Who plays with the toys?",
+       "answer": [
+        "my sister",
+        "the sister",
+        "sister"
+       ],
+       "passage": "My brother drives the car carefully. He was excited when he won the prize. My sister plays with her toys every day in the afternoon. We are happy . I love my brother."
+      },
+      {
+       "type": "typein",
+       "q": "How does the brother drive the car?",
+       "answer": [
+        "carefully",
+        "he drives carefully"
+       ],
+       "passage": "My brother drives the car carefully. He was excited when he won the prize. My sister plays with her toys every day in the afternoon. We are happy . I love my brother."
+      },
+      {
+       "type": "typein",
+       "q": "When does the sister play with her toys?",
+       "answer": [
+        "every day in the afternoon",
+        "in the afternoon",
+        "every day"
+       ],
+       "passage": "My brother drives the car carefully. He was excited when he won the prize. My sister plays with her toys every day in the afternoon. We are happy . I love my brother."
+      },
+      {
+       "type": "typein",
+       "q": "Why was Omar nervous?",
+       "answer": [
+        "because it was his first football match",
+        "it was his first football match",
+        "because of his first football match",
+        "before his first football match"
+       ],
+       "passage": "Omar was nervous before his first football match. When the match started, he was worried about making mistakes. But after he scored a goal, Omar felt proud of himself. He was happy when his team won the game."
+      },
+      {
+       "type": "typein",
+       "q": "When was Omar felt happy?",
+       "answer": [
+        "when his team won the game",
+        "when his team won",
+        "after he scored a goal"
+       ],
+       "passage": "Omar was nervous before his first football match. When the match started, he was worried about making mistakes. But after he scored a goal, Omar felt proud of himself. He was happy when his team won the game."
+      },
+      {
+       "type": "typein",
+       "q": "salma had a project at school",
+       "answer": [
+        "Salma had a project at school."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "they didn't go the park",
+       "answer": [
+        "They didn't go the park."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "then they started to share ideas",
+       "answer": [
+        "Then they started to share ideas."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "youssef drew a picture",
+       "answer": [
+        "Youssef drew a picture."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "they showed care and worked well together",
+       "answer": [
+        "They showed care and worked well together."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "ahmed donates clothes",
+       "answer": [
+        "Ahmed donates clothes."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "the boys win the football match",
+       "answer": [
+        "The boys win the football match."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "lina hugs her friend because she cares",
+       "answer": [
+        "Lina hugs her friend because she cares."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "the boys cheer for Omar in his football match",
+       "answer": [
+        "The boys cheer for Omar in his football match."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "sara shares food with her sister",
+       "answer": [
+        "Sara shares food with her sister."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "you should tidy up your bed",
+       "answer": [
+        "You should tidy up your bed."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gr3",
+   "title": "المراجعة العامة ٣",
+   "pages": "62-67",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "المراجعة العامة ٣",
+     "sub": "من كتاب التقييمات (ص 62-67) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "Egyptian.",
+        "am"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "Egyptian."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "friend.",
+        "are",
+        "You",
+        "my"
+       ],
+       "answer": [
+        "You",
+        "are",
+        "my",
+        "friend."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "brown",
+        "have",
+        "eyes.",
+        "They"
+       ],
+       "answer": [
+        "They",
+        "have",
+        "brown",
+        "eyes."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Egypt.",
+        "from",
+        "He",
+        "is"
+       ],
+       "answer": [
+        "He",
+        "is",
+        "from",
+        "Egypt."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "hair.",
+        "I",
+        "brown",
+        "have"
+       ],
+       "answer": [
+        "I",
+        "have",
+        "brown",
+        "hair."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "His",
+        "is",
+        "name",
+        "Ahmed."
+       ],
+       "answer": [
+        "His",
+        "name",
+        "is",
+        "Ahmed."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "My",
+        "kind.",
+        "sister",
+        "is"
+       ],
+       "answer": [
+        "My",
+        "sister",
+        "is",
+        "kind."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "uncle",
+        "police",
+        "officer.",
+        "My",
+        "is",
+        "a"
+       ],
+       "answer": [
+        "My",
+        "uncle",
+        "is",
+        "a",
+        "police",
+        "officer."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "black.",
+        "His",
+        "is",
+        "car"
+       ],
+       "answer": [
+        "His",
+        "car",
+        "is",
+        "black."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "tall.",
+        "cousin",
+        "is",
+        "Her"
+       ],
+       "answer": [
+        "Her",
+        "cousin",
+        "is",
+        "tall."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Giza.",
+        "We",
+        "of",
+        "Pyramids",
+        "visited",
+        "the"
+       ],
+       "answer": [
+        "We",
+        "visited",
+        "the",
+        "Pyramids",
+        "of",
+        "Giza."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Library.",
+        "Alexandria",
+        "I",
+        "read",
+        "at",
+        "books",
+        "the"
+       ],
+       "answer": [
+        "I",
+        "read",
+        "books",
+        "at",
+        "the",
+        "Alexandria",
+        "Library."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "yesterday.",
+        "visited",
+        "the",
+        "They",
+        "Tower",
+        "Cairo"
+       ],
+       "answer": [
+        "They",
+        "visited",
+        "the",
+        "Cairo",
+        "Tower",
+        "yesterday."
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Omar and his friends played ",
+        " match at school. At first, they all wanted to",
+        " . Then, their coach said, \"Work as a",
+        "!\" They started to pass the ball and help each other. Omar passed to Karim, and Karim",
+        ""
+       ],
+       "answers": [
+        "football",
+        "score",
+        "team",
+        "scored"
+       ],
+       "bank": [
+        "scored",
+        "team",
+        "football",
+        "score"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "It is spring. Sara is playing outside. She is ",
+        " water and laughing as it makes a big ",
+        " . She runs down the",
+        ", playing with her ",
+        " car."
+       ],
+       "answers": [
+        "spraying",
+        "splash",
+        "street",
+        "toy"
+       ],
+       "bank": [
+        "toy",
+        "splash",
+        "spraying",
+        "street"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Samer is trying to get better at football. He is training every day. He is ",
+        " the ball and splashing in the",
+        " . Now, he is ",
+        " a match with his friends. He is scoring a ",
+        "and is feeling very proud ."
+       ],
+       "answers": [
+        "kicking",
+        "mud",
+        "playing",
+        "goal"
+       ],
+       "bank": [
+        "goal",
+        "playing",
+        "kicking",
+        "mud"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "On ",
+        " day, Amgad ran ",
+        "and smiled. He felt ",
+        " . Amgad ",
+        "his success with big cheers."
+       ],
+       "answers": [
+        "race",
+        "well",
+        "happy",
+        "celebrated"
+       ],
+       "bank": [
+        "race",
+        "happy",
+        "celebrated",
+        "well"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Omar and his friends played football at",
+        " . At first, they all wanted to score. Then, their ",
+        "said, \"",
+        " as a team!\" They started to pass the ball and ",
+        "each other."
+       ],
+       "answers": [
+        "school",
+        "coach",
+        "work",
+        "help"
+       ],
+       "bank": [
+        "school",
+        "help",
+        "coach",
+        "work"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "This is my new friend Laila. She is very friendly. She always ",
+        "and helps others. She has ",
+        " and big brown eyes. She is also very",
+        " . She can reach the top shelf easily."
+       ],
+       "answers": [
+        "smiles",
+        "curly hair",
+        "tall"
+       ],
+       "bank": [
+        "tall",
+        "curly hair",
+        "smiles"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "I’m Nour. I love my family. My father and mother take me to",
+        " . They also cook  me",
+        " . My brother plays with me. I love my ",
+        " . They help me",
+        " ."
+       ],
+       "answers": [
+        "school",
+        "lunch",
+        "family",
+        "grow"
+       ],
+       "bank": [
+        "school",
+        "lunch",
+        "grow",
+        "family"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Why was Omar nervous?",
+       "answer": [
+        "because it was his first football match",
+        "it was his first football match",
+        "before his first football match"
+       ],
+       "passage": "Omar was nervous before his first football match. When the match started, he was worried about making mistakes. But after he scored a goal, Omar felt proud of himself. He was happy when his team won the game."
+      },
+      {
+       "type": "typein",
+       "q": "When does Zyad wake up?",
+       "answer": [
+        "at 6 a.m.",
+        "6 a.m.",
+        "he wakes up at 6 a.m.",
+        "at 6"
+       ],
+       "passage": "I am Zyad. I wake up at 6 a.m. I brush my teeth and get dressed. After I have breakfast, I go to school. I learn and play with my friends. After school, I go home and do my homework."
+      },
+      {
+       "type": "typein",
+       "q": "When does Zyad go home?",
+       "answer": [
+        "after school",
+        "he goes home after school"
+       ],
+       "passage": "I am Zyad. I wake up at 6 a.m. I brush my teeth and get dressed. After I have breakfast, I go to school. I learn and play with my friends. After school, I go home and do my homework."
+      },
+      {
+       "type": "typein",
+       "q": "Where did Yara go with her friend?",
+       "answer": [
+        "to the garden",
+        "the garden",
+        "she went to the garden"
+       ],
+       "passage": "Yara  went  to the garden with her friend. She played on the swings. Then, she fell and hurt her leg. Her friend helped her."
+      },
+      {
+       "type": "typein",
+       "q": "Ayla helps Youssef with the project. (اكتب الفعل في الماضي: helps)",
+       "answer": [
+        "helped"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "We solve the problem together. (اكتب الفعل في الماضي: solve)",
+       "answer": [
+        "solved"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Youssef finds a good idea. (اكتب الفعل في الماضي: finds)",
+       "answer": [
+        "found"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "They work as a team. (اكتب الفعل في الماضي: work)",
+       "answer": [
+        "worked"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "They plan their project first. (اكتب الفعل في الماضي: plan)",
+       "answer": [
+        "planned"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Noor fixes the pipes. (اكتب الفعل في الماضي: fixes)",
+       "answer": [
+        "fixed"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "They agree on what to do. (اكتب الفعل في الماضي: agree)",
+       "answer": [
+        "agreed"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "a. Do they like going to the amusement park",
+       "answer": [
+        "Do they like going to the amusement park?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "b. We went to the supermarket yesterday",
+       "answer": [
+        "We went to the supermarket yesterday."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "c. Where is the nearest supermarket",
+       "answer": [
+        "Where is the nearest supermarket?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "d. I saw the Alexandria Library with my family",
+       "answer": [
+        "I saw the Alexandria Library with my family."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "e. Did you visit the Pyramids last year",
+       "answer": [
+        "Did you visit the Pyramids last year?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "do you like going to the amusement park",
+       "answer": [
+        "Do you like going to the amusement park?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "where is the nearest hospital",
+       "answer": [
+        "Where is the nearest hospital?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "we went to the supermarket yesterday",
+       "answer": [
+        "We went to the supermarket yesterday."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "i saw the Pyramids with my family",
+       "answer": [
+        "I saw the Pyramids with my family."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "did you visit the museum last year",
+       "answer": [
+        "Did you visit the museum last year?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "we went to the amusement park",
+       "answer": [
+        "We went to the amusement park."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "my house is next to the hospital",
+       "answer": [
+        "My house is next to the hospital."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "my friend is very tall",
+       "answer": [
+        "My friend is very tall."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "is the shopping mall open today",
+       "answer": [
+        "Is the shopping mall open today?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "we walked to the supermarket after school",
+       "answer": [
+        "We walked to the supermarket after school."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "they both celebrated their success with big cheers",
+       "answer": [
+        "They both celebrated their success with big cheers."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "she drew a picture with her pencil",
+       "answer": [
+        "She drew a picture with her pencil."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "she smiled at her friend’s nice face",
+       "answer": [
+        "She smiled at her friend’s nice face."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "at first they didn’t agree",
+       "answer": [
+        "At first, they didn’t agree."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "final1",
+   "title": "التقييم النهائي ١",
+   "pages": "68-69",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "التقييم النهائي ١",
+     "sub": "من كتاب التقييمات (ص 68-69) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "My mother is a ……. . She works at school.",
+       "answer": [
+        "teacher",
+        "a teacher"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "We ……. clothes and toys to children.",
+       "answer": [
+        "donate"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "We are ……… goals.",
+       "answer": [
+        "scoring"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "Yesterday, I …….. to the park with my friends.",
+       "answer": [
+        "went"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Tala asks Ayla about her family. Her father is a ",
+        " Her aunt is a doctor. Her mother is a pilot. Her uncle bakes delicious ",
+        ""
+       ],
+       "answers": [
+        "teacher",
+        "bread"
+       ],
+       "bank": [
+        "bread",
+        "doctor",
+        "teacher"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "oalg",
+       "answer": [
+        "goal"
+       ],
+       "hint": "images/words/fixed-goal.png"
+      },
+      {
+       "type": "unscramble",
+       "letters": "robed",
+       "answer": [
+        "bored"
+       ],
+       "hint": "ضجر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "isctk",
+       "answer": [
+        "stick"
+       ],
+       "hint": null
+      },
+      {
+       "type": "typein",
+       "q": "Karma is …………… .",
+       "answer": [
+        "funny"
+       ],
+       "passage": "I have many friends at school. Karma is funny . She makes her friends laugh. Lana is friendly she says hello to everyone. Kinda is helpful when someone needs help. Sara has brown eyes and curly hair."
+      },
+      {
+       "type": "typein",
+       "q": "Kinda is helpful when someone needs ………..",
+       "answer": [
+        "help"
+       ],
+       "passage": "I have many friends at school. Karma is funny . She makes her friends laugh. Lana is friendly she says hello to everyone. Kinda is helpful when someone needs help. Sara has brown eyes and curly hair."
+      },
+      {
+       "type": "typein",
+       "q": "What color are Sara’s eyes?",
+       "answer": [
+        "brown"
+       ],
+       "passage": "I have many friends at school. Karma is funny . She makes her friends laugh. Lana is friendly she says hello to everyone. Kinda is helpful when someone needs help. Sara has brown eyes and curly hair."
+      },
+      {
+       "type": "typein",
+       "q": "What does Lana say to everyone?",
+       "answer": [
+        "hello",
+        "she says hello",
+        "hello to everyone"
+       ],
+       "passage": "I have many friends at school. Karma is funny . She makes her friends laugh. Lana is friendly she says hello to everyone. Kinda is helpful when someone needs help. Sara has brown eyes and curly hair."
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "We",
+        "do",
+        "together.",
+        "the",
+        "chores"
+       ],
+       "answer": [
+        "We",
+        "do",
+        "the",
+        "chores",
+        "together."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "zoo.",
+        "a",
+        "went",
+        "trip",
+        "on",
+        "I",
+        "to",
+        "the"
+       ],
+       "answer": [
+        "I",
+        "went",
+        "on",
+        "a",
+        "trip",
+        "to",
+        "the",
+        "zoo."
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "how much was the ticket",
+       "answer": [
+        "How much was the ticket?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "she travels around the world",
+       "answer": [
+        "She travels around the world."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "final2",
+   "title": "التقييم النهائي ٢",
+   "pages": "70-71",
+   "review": true,
+   "stations": [
+    {
+     "id": "mix",
+     "title": "التقييم النهائي ٢",
+     "sub": "من كتاب التقييمات (ص 70-71) · تصحيح فوري",
+     "questions": [
+      {
+       "type": "typein",
+       "q": "Malek felt very………….and happy.",
+       "answer": [
+        "proud"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "They ……… football after school.",
+       "answer": [
+        "play"
+       ]
+      },
+      {
+       "type": "cloze",
+       "label": "cloze",
+       "segments": [
+        "Ola and Omar heard a cat cry. They saw it ",
+        " in a fence. It ",
+        " free. They felt happy and proud."
+       ],
+       "answers": [
+        "stuck",
+        "jumped"
+       ],
+       "bank": [
+        "stuck",
+        "jumped",
+        "proud"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "dkin",
+       "answer": [
+        "kind"
+       ],
+       "hint": null
+      },
+      {
+       "type": "unscramble",
+       "letters": "eeslp",
+       "answer": [
+        "sleep"
+       ],
+       "hint": "images/words/sleep.png"
+      },
+      {
+       "type": "unscramble",
+       "letters": "bshru",
+       "answer": [
+        "brush"
+       ],
+       "hint": "images/words/brush.png"
+      },
+      {
+       "type": "typein",
+       "q": "When did the students go to the zoo?",
+       "answer": [
+        "last friday"
+       ],
+       "passage": "Last Friday, Grade three students went on a trip to the zoo. They went by bus. At the zoo, they saw lions, monkeys, and elephants. The ticket was 20 pounds. For lunch, they ate sandwiches and chips. They drank juice and water. Everyone had a good day!"
+      },
+      {
+       "type": "typein",
+       "q": "What animals did they see?",
+       "answer": [
+        "lions, monkeys, and elephants",
+        "lions, monkeys and elephants",
+        "they saw lions, monkeys, and elephants"
+       ],
+       "passage": "Last Friday, Grade three students went on a trip to the zoo. They went by bus. At the zoo, they saw lions, monkeys, and elephants. The ticket was 20 pounds. For lunch, they ate sandwiches and chips. They drank juice and water. Everyone had a good day!"
+      },
+      {
+       "type": "typein",
+       "q": "Grade ......... students went on a trip.",
+       "answer": [
+        "three",
+        "3"
+       ],
+       "passage": "Last Friday, Grade three students went on a trip to the zoo. They went by bus. At the zoo, they saw lions, monkeys, and elephants. The ticket was 20 pounds. For lunch, they ate sandwiches and chips. They drank juice and water. Everyone had a good day!"
+      },
+      {
+       "type": "typein",
+       "q": "They drank ......... and water.",
+       "answer": [
+        "juice"
+       ],
+       "passage": "Last Friday, Grade three students went on a trip to the zoo. They went by bus. At the zoo, they saw lions, monkeys, and elephants. The ticket was 20 pounds. For lunch, they ate sandwiches and chips. They drank juice and water. Everyone had a good day!"
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "your",
+        "carefully",
+        "to",
+        "Listen",
+        "teacher."
+       ],
+       "answer": [
+        "Listen",
+        "carefully",
+        "to",
+        "your",
+        "teacher."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "do",
+        "breakfast?",
+        "What",
+        "you",
+        "for",
+        "eat"
+       ],
+       "answer": [
+        "What",
+        "do",
+        "you",
+        "eat",
+        "for",
+        "breakfast?"
+       ]
+      },
+      {
+       "type": "typein",
+       "q": "salma wants to help their neighborhood",
+       "answer": [
+        "Salma wants to help their neighborhood."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
