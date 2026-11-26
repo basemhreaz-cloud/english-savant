@@ -1,0 +1,778 @@
+{
+  "grade": "p3",
+  "id": 2,
+  "title": "My Family and I",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MCQ",
+      "prompt": "My uncle's son is my ___.",
+      "answer": "a",
+      "options": [
+        "cousin",
+        "brother",
+        "nephew"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "ابن عمي أو ابن خالي هو ابن عم أو ابن خال: cousin. brother أخ وnephew ابن الأخ.",
+      "explanation_en": "My uncle's son or my aunt's son is a cousin: cousin. brother is أخ and nephew is ابن الأخ."
+    },
+    {
+      "id": 2,
+      "type": "MCQ",
+      "prompt": "My father's sister is my ___.",
+      "answer": "b",
+      "options": [
+        "mother",
+        "aunt",
+        "grandmother"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "أخت أبويا هي عمتي: aunt. mother أم وgrandmother جدة.",
+      "explanation_en": "My father's sister is my aunt: aunt. mother is أم and grandmother is جدة."
+    },
+    {
+      "id": 3,
+      "type": "MCQ",
+      "prompt": "My mother's brother is my ___.",
+      "answer": "a",
+      "options": [
+        "uncle",
+        "cousin",
+        "grandfather"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "أخو أمي هو خالي: uncle. cousin ابن العم أو الخال، وgrandfather جد.",
+      "explanation_en": "My mother's brother is my uncle: uncle. cousin is the son of an aunt or uncle, and grandfather is جد."
+    },
+    {
+      "id": 4,
+      "type": "MCQ",
+      "prompt": "He works in a hospital. He's a ___.",
+      "answer": "b",
+      "options": [
+        "teacher",
+        "doctor",
+        "farmer"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الشخص اللي بيشتغل في المستشفى هو الدكتور: doctor. teacher معلم وfarmer فلاح.",
+      "explanation_en": "The person who works in the hospital is the doctor: doctor. teacher is معلم and farmer is فلاح."
+    },
+    {
+      "id": 5,
+      "type": "MCQ",
+      "prompt": "He flies a plane. He's a ___.",
+      "answer": "c",
+      "options": [
+        "baker",
+        "farmer",
+        "pilot"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "اللي بيطيّر الطيارة هو الطيار: pilot. baker بيعمل عيش، وfarmer بيشتغل في الأرض.",
+      "explanation_en": "The one who flies the plane is the pilot: pilot. A baker makes bread, and a farmer works on the land."
+    },
+    {
+      "id": 6,
+      "type": "MCQ",
+      "prompt": "He makes bread. He's a ___.",
+      "answer": "a",
+      "options": [
+        "baker",
+        "doctor",
+        "teacher"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "اللي بيعمل العيش هو الخباز: baker. doctor وteacher شغلهم مختلف.",
+      "explanation_en": "The one who makes bread is the baker: baker. A doctor and a teacher have different jobs."
+    },
+    {
+      "id": 7,
+      "type": "MCQ",
+      "prompt": "He works on a farm with animals. He's a ___.",
+      "answer": "b",
+      "options": [
+        "pilot",
+        "farmer",
+        "baker"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "اللي بيشتغل في المزرعة مع الحيوانات هو الفلاح: farmer.",
+      "explanation_en": "The one who works on the farm with animals is the farmer: farmer."
+    },
+    {
+      "id": 8,
+      "type": "MCQ",
+      "prompt": "She teaches children at school. She's a ___.",
+      "answer": "b",
+      "options": [
+        "doctor",
+        "teacher",
+        "pilot"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "اللي بيعلم الأطفال في المدرسة هو المعلمة: teacher. doctor وpilot شغلهم مختلف.",
+      "explanation_en": "The one who teaches children at school is the teacher: teacher. A doctor and a pilot have different jobs."
+    },
+    {
+      "id": 9,
+      "type": "MCQ",
+      "prompt": "This is ___ brother. (أخي)",
+      "answer": "a",
+      "options": [
+        "my",
+        "his",
+        "her"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (أخي) معناها my brother. his معناها بتاعه وher بتاعها.",
+      "explanation_en": "The Arabic word (أخي) means my brother. his means بتاعه and her means بتاعها."
+    },
+    {
+      "id": 10,
+      "type": "MCQ",
+      "prompt": "That's Tarek. ___ father is a pilot.",
+      "answer": "b",
+      "options": [
+        "My",
+        "His",
+        "Her"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "Tarek ولد، فنستخدم His (بتاعه): His father is a pilot. My معناها بتاعي، وHer للبنت.",
+      "explanation_en": "Tarek is a boy, so we use His (بتاعه): His father is a pilot. My means بتاعي, and Her is for a girl."
+    },
+    {
+      "id": 11,
+      "type": "MCQ",
+      "prompt": "That's Mona. ___ mother is a doctor.",
+      "answer": "c",
+      "options": [
+        "My",
+        "His",
+        "Her"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "Mona بنت، فنستخدم Her (بتاعها): Her mother is a doctor. His للولد.",
+      "explanation_en": "Mona is a girl, so we use Her (بتاعها): Her mother is a doctor. His is for a boy."
+    },
+    {
+      "id": 12,
+      "type": "MCQ",
+      "prompt": "Who's that? — ___ my grandfather.",
+      "answer": "c",
+      "options": [
+        "This",
+        "That",
+        "It's"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "السؤال Who's that؟ والرد بيعرّف: It's my grandfather. This وThat وحدهم مش بيكملوا الجملة هنا.",
+      "explanation_en": "The question Who's that? and the reply introduces: It's my grandfather. This and That alone do not complete the sentence here."
+    },
+    {
+      "id": 13,
+      "type": "MCQ",
+      "prompt": "What ___ he do? — He's a farmer.",
+      "answer": "b",
+      "options": [
+        "do",
+        "does",
+        "is"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "السؤال What does he do؟ يعني هو بيشتغل إيه؟ مع he بنستخدم does. do مع I وyou وwe وthey.",
+      "explanation_en": "The question What does he do? means \"What is his job?\" With he we use does. do is with I, you, we and they."
+    },
+    {
+      "id": 14,
+      "type": "MCQ",
+      "prompt": "She ___ a teacher.",
+      "answer": "b",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "She فاعل مفرد، فنقول is: She is a teacher. am وare مش مناسبين مع She.",
+      "explanation_en": "She is a singular subject, so we say is: She is a teacher. am and are do not fit with She."
+    },
+    {
+      "id": 15,
+      "type": "MCQ",
+      "prompt": "\"خالتي\" in English: ___.",
+      "answer": "a",
+      "options": [
+        "my aunt",
+        "my cousin",
+        "my sister"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (خالتي) معناها my aunt. cousin ابن العم أو الخال، وsister أخت.",
+      "explanation_en": "The Arabic word (خالتي) means my aunt. cousin is the son of an aunt or uncle, and sister is أخت."
+    },
+    {
+      "id": 16,
+      "type": "MCQ",
+      "prompt": "\"جدّة\" in English: ___.",
+      "answer": "b",
+      "options": [
+        "grandfather",
+        "grandmother",
+        "mother"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (جدّة) معناها grandmother. grandfather جد، وmother أم.",
+      "explanation_en": "The Arabic word (جدّة) means grandmother. grandfather is جد and mother is أم."
+    },
+    {
+      "id": 17,
+      "type": "MCQ",
+      "prompt": "The baker works in a ___.",
+      "answer": "b",
+      "options": [
+        "hospital",
+        "bakery",
+        "school"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الخباز (baker) بيشتغل في المخبز (bakery). hospital مستشفى وschool مدرسة.",
+      "explanation_en": "The baker (baker) works in the bakery (bakery). hospital is مستشفى and school is مدرسة."
+    },
+    {
+      "id": 18,
+      "type": "MCQ",
+      "prompt": "___ name is Farida. (اسمها)",
+      "answer": "b",
+      "options": [
+        "His",
+        "Her",
+        "My"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (اسمها) معناها Her name، لأن Farida بنت. His للولد وMy بتاعي.",
+      "explanation_en": "The Arabic word (اسمها) means Her name, because Farida is a girl. His is for a boy and My is بتاعي."
+    },
+    {
+      "id": 19,
+      "type": "MCQ",
+      "prompt": "A doctor helps ___ people.",
+      "answer": "a",
+      "options": [
+        "sick",
+        "happy",
+        "tall"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الدكتور بيساعد الناس المرضانين: sick. happy معناها سعيد وtall معناها طويل، ومش بيحتاجوا دكتور.",
+      "explanation_en": "The doctor helps sick people: sick. happy means سعيد and tall means طويل, and they do not need a doctor."
+    },
+    {
+      "id": 20,
+      "type": "MCQ",
+      "prompt": "My family ___ big.",
+      "answer": "b",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "My family كلمة مفردة (عيلة)، فنقول is. am وare مش مناسبين.",
+      "explanation_en": "My family is a singular word (عيلة), so we say is. am and are do not fit."
+    },
+    {
+      "id": 21,
+      "type": "COMPLETE",
+      "prompt": "My dad's brother is my ___.",
+      "answer": "uncle",
+      "models": [
+        "uncle"
+      ],
+      "wordbox": [
+        "aunt",
+        "uncle",
+        "cousin",
+        "doctor",
+        "pilot",
+        "baker",
+        "farmer",
+        "teacher"
+      ],
+      "grading": "closed",
+      "explanation_ar": "أخو أبويا هو عمي: uncle.",
+      "explanation_en": "My father's brother is my uncle: uncle."
+    },
+    {
+      "id": 22,
+      "type": "COMPLETE",
+      "prompt": "My mum's sister is my ___.",
+      "answer": "aunt",
+      "models": [
+        "aunt"
+      ],
+      "wordbox": [
+        "aunt",
+        "uncle",
+        "cousin",
+        "doctor",
+        "pilot",
+        "baker",
+        "farmer",
+        "teacher"
+      ],
+      "grading": "closed",
+      "explanation_ar": "أخت أمي هي خالتي: aunt.",
+      "explanation_en": "My mother's sister is my aunt: aunt."
+    },
+    {
+      "id": 23,
+      "type": "COMPLETE",
+      "prompt": "My aunt's daughter is my ___.",
+      "answer": "cousin",
+      "models": [
+        "cousin"
+      ],
+      "wordbox": [
+        "aunt",
+        "uncle",
+        "cousin",
+        "doctor",
+        "pilot",
+        "baker",
+        "farmer",
+        "teacher"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنت عمتي أو خالتي هي بنت عم أو بنت خال: cousin.",
+      "explanation_en": "My aunt's or uncle's daughter is a cousin: cousin."
+    },
+    {
+      "id": 24,
+      "type": "COMPLETE",
+      "prompt": "A ___ helps sick people in hospital.",
+      "answer": "doctor",
+      "models": [
+        "doctor"
+      ],
+      "wordbox": [
+        "aunt",
+        "uncle",
+        "cousin",
+        "doctor",
+        "pilot",
+        "baker",
+        "farmer",
+        "teacher"
+      ],
+      "grading": "closed",
+      "explanation_ar": "اللي بيساعد المرضى في المستشفى هو الدكتور: doctor.",
+      "explanation_en": "The one who helps sick people in the hospital is the doctor: doctor."
+    },
+    {
+      "id": 25,
+      "type": "COMPLETE",
+      "prompt": "A ___ flies planes in the sky.",
+      "answer": "pilot",
+      "models": [
+        "pilot"
+      ],
+      "wordbox": [
+        "aunt",
+        "uncle",
+        "cousin",
+        "doctor",
+        "pilot",
+        "baker",
+        "farmer",
+        "teacher"
+      ],
+      "grading": "closed",
+      "explanation_ar": "اللي بيطيّر الطيارات في السما هو الطيار: pilot.",
+      "explanation_en": "The one who flies planes in the sky is the pilot: pilot."
+    },
+    {
+      "id": 26,
+      "type": "COMPLETE",
+      "prompt": "A ___ makes bread and cakes.",
+      "answer": "baker",
+      "models": [
+        "baker"
+      ],
+      "wordbox": [
+        "aunt",
+        "uncle",
+        "cousin",
+        "doctor",
+        "pilot",
+        "baker",
+        "farmer",
+        "teacher"
+      ],
+      "grading": "closed",
+      "explanation_ar": "اللي بيعمل العيش والكيك هو الخباز: baker.",
+      "explanation_en": "The one who makes bread and cake is the baker: baker."
+    },
+    {
+      "id": 27,
+      "type": "COMPLETE",
+      "prompt": "A ___ plants rice and vegetables.",
+      "answer": "farmer",
+      "models": [
+        "farmer"
+      ],
+      "wordbox": [
+        "aunt",
+        "uncle",
+        "cousin",
+        "doctor",
+        "pilot",
+        "baker",
+        "farmer",
+        "teacher"
+      ],
+      "grading": "closed",
+      "explanation_ar": "اللي بيزرع الرز والخضار هو الفلاح: farmer.",
+      "explanation_en": "The one who grows rice and vegetables is the farmer: farmer."
+    },
+    {
+      "id": 28,
+      "type": "COMPLETE",
+      "prompt": "A ___ teaches children at school.",
+      "answer": "teacher",
+      "models": [
+        "teacher"
+      ],
+      "wordbox": [
+        "aunt",
+        "uncle",
+        "cousin",
+        "doctor",
+        "pilot",
+        "baker",
+        "farmer",
+        "teacher"
+      ],
+      "grading": "closed",
+      "explanation_ar": "اللي بيعلم الأطفال في المدرسة هو المعلمة: teacher.",
+      "explanation_en": "The one who teaches children at school is the teacher: teacher."
+    },
+    {
+      "id": 29,
+      "type": "LETTERS",
+      "prompt": "t e h m r o (أم)",
+      "answer": "mother",
+      "models": [
+        "mother"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: mother. معناها أم.",
+      "explanation_en": "Order these letters to form the word: mother. It means أم."
+    },
+    {
+      "id": 30,
+      "type": "LETTERS",
+      "prompt": "t h e f a r (أب)",
+      "answer": "father",
+      "models": [
+        "father"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: father. معناها أب.",
+      "explanation_en": "Order these letters to form the word: father. It means أب."
+    },
+    {
+      "id": 31,
+      "type": "LETTERS",
+      "prompt": "r e t s i s (أخت)",
+      "answer": "sister",
+      "models": [
+        "sister"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: sister. معناها أخت.",
+      "explanation_en": "Order these letters to form the word: sister. It means أخت."
+    },
+    {
+      "id": 32,
+      "type": "LETTERS",
+      "prompt": "r b o t e h r (أخ)",
+      "answer": "brother",
+      "models": [
+        "brother"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: brother. معناها أخ.",
+      "explanation_en": "Order these letters to form the word: brother. It means أخ."
+    },
+    {
+      "id": 33,
+      "type": "LETTERS",
+      "prompt": "l o p i t (طيار)",
+      "answer": "pilot",
+      "models": [
+        "pilot"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: pilot. معناها طيار.",
+      "explanation_en": "Order these letters to form the word: pilot. It means طيار."
+    },
+    {
+      "id": 34,
+      "type": "LETTERS",
+      "prompt": "r f m a r e (فلاح)",
+      "answer": "farmer",
+      "models": [
+        "farmer"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نرتب الحروف دي لنكوّن الكلمة: farmer. معناها فلاح.",
+      "explanation_en": "Order these letters to form the word: farmer. It means فلاح."
+    },
+    {
+      "id": 35,
+      "type": "REORDER",
+      "prompt": "this? – Who's",
+      "answer": "Who's this?",
+      "models": [
+        "Who's this?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Who's this? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: Who's this? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 36,
+      "type": "REORDER",
+      "prompt": "my – is – This – aunt.",
+      "answer": "This is my aunt.",
+      "models": [
+        "This is my aunt."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: This is my aunt. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: This is my aunt. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 37,
+      "type": "REORDER",
+      "prompt": "a – is – father – doctor. – Her",
+      "answer": "Her father is a doctor.",
+      "models": [
+        "Her father is a doctor."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Her father is a doctor. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: Her father is a doctor. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 38,
+      "type": "REORDER",
+      "prompt": "does – What – do? – he",
+      "answer": "What does he do?",
+      "models": [
+        "What does he do?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: What does he do? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: What does he do? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 39,
+      "type": "REORDER",
+      "prompt": "a – pilot. – is – He",
+      "answer": "He is a pilot.",
+      "models": [
+        "He is a pilot."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: He is a pilot. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: He is a pilot. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 40,
+      "type": "REORDER",
+      "prompt": "name – His – Tarek. – is",
+      "answer": "His name is Tarek.",
+      "models": [
+        "His name is Tarek."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: His name is Tarek. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: His name is Tarek. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 41,
+      "type": "READ",
+      "prompt": "The father is a ___.",
+      "answer": "b",
+      "passage": "This is my family. My father is a pilot. He flies big planes to many countries. My mother is a teacher. She teaches English at a school near our house. My sister and I go to school. We study and play with our friends there. We love our family very much.",
+      "options": [
+        "teacher",
+        "pilot",
+        "doctor"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: My father is a pilot. يعني الأب طيار (pilot).",
+      "explanation_en": "The passage says: My father is a pilot. So the father is a pilot (pilot)."
+    },
+    {
+      "id": 42,
+      "type": "READ",
+      "prompt": "The mother teaches ___.",
+      "answer": "c",
+      "passage": "This is my family. My father is a pilot. He flies big planes to many countries. My mother is a teacher. She teaches English at a school near our house. My sister and I go to school. We study and play with our friends there. We love our family very much.",
+      "options": [
+        "math",
+        "Arabic",
+        "English"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: She teaches English. يعني الأم بتعلم إنجليزي: English.",
+      "explanation_en": "The passage says: She teaches English. So the mother teaches English: English."
+    },
+    {
+      "id": 43,
+      "type": "READ",
+      "prompt": "The sister goes to ___.",
+      "answer": "b",
+      "passage": "This is my family. My father is a pilot. He flies big planes to many countries. My mother is a teacher. She teaches English at a school near our house. My sister and I go to school. We study and play with our friends there. We love our family very much.",
+      "options": [
+        "work",
+        "school",
+        "the farm"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: My sister and I go to school. يعني الأخت بتروح المدرسة: school.",
+      "explanation_en": "The passage says: My sister and I go to school. So the sister goes to school: school."
+    },
+    {
+      "id": 44,
+      "type": "READ",
+      "prompt": "What does the father fly?",
+      "answer": "Big planes.",
+      "models": [
+        "Big planes."
+      ],
+      "passage": "This is my family. My father is a pilot. He flies big planes to many countries. My mother is a teacher. She teaches English at a school near our house. My sister and I go to school. We study and play with our friends there. We love our family very much.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: He flies big planes. يعني الأب بيطيّر طيارات كبيرة: Big planes.",
+      "explanation_en": "The passage says: He flies big planes. So the father flies big planes: Big planes."
+    },
+    {
+      "id": 45,
+      "type": "READ",
+      "prompt": "How many children are in the family?",
+      "answer": "Two.",
+      "models": [
+        "Two."
+      ],
+      "passage": "This is my family. My father is a pilot. He flies big planes to many countries. My mother is a teacher. She teaches English at a school near our house. My sister and I go to school. We study and play with our friends there. We love our family very much.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: My sister and I go to school، يعني فيه ولدين: أنا وأختي. الإجابة: Two.",
+      "explanation_en": "The passage says: My sister and I go to school, so there are two children: me and my sister. The answer: Two."
+    },
+    {
+      "id": 46,
+      "type": "PUNCT",
+      "prompt": "my father is a doctor",
+      "answer": "My father is a doctor.",
+      "models": [
+        "My father is a doctor."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: My father is a doctor. بنبدأ بحرف كبير (My) وننهي بالنقطة (.) لأنها جملة عادية.",
+      "explanation_en": "The correct sentence: My father is a doctor. We start with a capital letter (My) and end with a full stop (.) because it is a regular sentence."
+    },
+    {
+      "id": 47,
+      "type": "PUNCT",
+      "prompt": "who's this",
+      "answer": "Who's this?",
+      "models": [
+        "Who's this?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Who's this? بنبدأ بحرف كبير (Who's) وننهي بعلامة الاستفهام (?) لأنها سؤال.",
+      "explanation_en": "The correct sentence: Who's this? We start with a capital letter (Who's) and end with a question mark (?) because it is a question."
+    },
+    {
+      "id": 48,
+      "type": "PUNCT",
+      "prompt": "her mother is a teacher",
+      "answer": "Her mother is a teacher.",
+      "models": [
+        "Her mother is a teacher."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Her mother is a teacher. بنبدأ بحرف كبير (Her) وننهي بالنقطة (.) لأنها جملة عادية.",
+      "explanation_en": "The correct sentence: Her mother is a teacher. We start with a capital letter (Her) and end with a full stop (.) because it is a regular sentence."
+    },
+    {
+      "id": 49,
+      "type": "PUNCT",
+      "prompt": "what does she do",
+      "answer": "What does she do?",
+      "models": [
+        "What does she do?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: What does she do? بنبدأ بحرف كبير (What) وننهي بعلامة الاستفهام (?) لأنها سؤال.",
+      "explanation_en": "The correct sentence: What does she do? We start with a capital letter (What) and end with a question mark (?) because it is a question."
+    },
+    {
+      "id": 50,
+      "type": "PUNCT",
+      "prompt": "his uncle is a farmer",
+      "answer": "His uncle is a farmer.",
+      "models": [
+        "His uncle is a farmer."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: His uncle is a farmer. بنبدأ بحرف كبير (His) وننهي بالنقطة (.) لأنها جملة عادية.",
+      "explanation_en": "The correct sentence: His uncle is a farmer. We start with a capital letter (His) and end with a full stop (.) because it is a regular sentence."
+    },
+    {
+      "id": 51,
+      "type": "WRITE",
+      "prompt": "(mother, doctor, cousin)",
+      "answer": "This is my kind mother.",
+      "models": [
+        "This is my kind mother.",
+        "My uncle is a good doctor.",
+        "My cousin is very tall."
+      ],
+      "grading": "model_review",
+      "min_words": 15,
+      "sentences": 3,
+      "explanation_ar": "الكلمات: mother وdoctor وcousin. المطلوب 3 جمل بـ15 كلمة على الأقل، وكل جملة فيها واحدة منهم. مثال: This is my kind mother. نبدأ بحرف كبير وننهي بنقطة. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة.",
+      "explanation_en": "The words: mother, doctor and cousin. 3 sentences with at least 15 words in total are needed, and each sentence has one of them. Example: This is my kind mother. We start with a capital letter and end with a full stop. The answer is a model answer and it is checked by reviewing the sentence."
+    }
+  ],
+  "version": "95962d3c1821"
+}

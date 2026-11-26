@@ -1,0 +1,778 @@
+{
+  "grade": "p3",
+  "id": 1,
+  "title": "Let's Learn Together!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MCQ",
+      "prompt": "\"___ morning, teacher!\"",
+      "answer": "a",
+      "options": [
+        "Good",
+        "Bye",
+        "See"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنقول Good morning للتحية الصبح. Bye وSee مش بيكملوا مع morning.",
+      "explanation_en": "We say Good morning as a greeting in the morning. Bye and See do not go with morning."
+    },
+    {
+      "id": 2,
+      "type": "MCQ",
+      "prompt": "— How are you? — ___",
+      "answer": "a",
+      "options": [
+        "I'm fine, thank you.",
+        "Nice to meet you.",
+        "See you later."
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "السؤال How are you؟ بنرد عليه بحالنا: I'm fine, thank you. Nice to meet you بتتقال لما نقابل حد جديد.",
+      "explanation_en": "The question How are you? is answered with how we are: I'm fine, thank you. Nice to meet you is said when we meet someone new."
+    },
+    {
+      "id": 3,
+      "type": "MCQ",
+      "prompt": "When you meet a new friend you say: \"___\"",
+      "answer": "b",
+      "options": [
+        "See you later",
+        "Nice to meet you",
+        "Goodbye"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "لما نقابل صاحب جديد نقول Nice to meet you يعني سعيد بلقائك. Goodbye بنقولها وإحنا ماشيين.",
+      "explanation_en": "When we meet a new friend we say Nice to meet you, meaning سعيد بلقائك. We say Goodbye when we leave."
+    },
+    {
+      "id": 4,
+      "type": "MCQ",
+      "prompt": "When you leave school you say: \"___\"",
+      "answer": "c",
+      "options": [
+        "Good morning",
+        "How are you?",
+        "See you later"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "لما نمشي من المدرسة نودّع: See you later يعني أشوفك بعدين. Good morning تحية صباح.",
+      "explanation_en": "When we leave school we say goodbye: See you later means أشوفك بعدين. Good morning is a morning greeting."
+    },
+    {
+      "id": 5,
+      "type": "MCQ",
+      "prompt": "I ___ happy today.",
+      "answer": "a",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "مع I بنستخدم am: I am happy. is وare مش بيجوا مع I.",
+      "explanation_en": "With I we use am: I am happy. is and are do not go with I."
+    },
+    {
+      "id": 6,
+      "type": "MCQ",
+      "prompt": "You ___ my friend.",
+      "answer": "c",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "مع You بنستخدم are: You are my friend. am مع I بس.",
+      "explanation_en": "With You we use are: You are my friend. am is only with I."
+    },
+    {
+      "id": 7,
+      "type": "MCQ",
+      "prompt": "He ___ a good boy.",
+      "answer": "b",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "He فاعل مفرد، فنقول is. are للجمع وam مع I.",
+      "explanation_en": "He is a singular subject, so we say is. are is for plurals and am is with I."
+    },
+    {
+      "id": 8,
+      "type": "MCQ",
+      "prompt": "They ___ at school.",
+      "answer": "c",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "They جمع، فنقول are: They are at school.",
+      "explanation_en": "They is plural, so we say are: They are at school."
+    },
+    {
+      "id": 9,
+      "type": "MCQ",
+      "prompt": "She ___ fine.",
+      "answer": "b",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "She فاعل مفرد، فنقول is: She is fine.",
+      "explanation_en": "She is a singular subject, so we say is: She is fine."
+    },
+    {
+      "id": 10,
+      "type": "MCQ",
+      "prompt": "We ___ in class 3A.",
+      "answer": "c",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "We جمع، فنقول are: We are in class 3A.",
+      "explanation_en": "We is plural, so we say are: We are in class 3A."
+    },
+    {
+      "id": 11,
+      "type": "MCQ",
+      "prompt": "It ___ a nice day.",
+      "answer": "b",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "It بتاخد is: It is a nice day. am وare مش مناسبين مع It.",
+      "explanation_en": "It takes is: It is a nice day. am and are do not fit with It."
+    },
+    {
+      "id": 12,
+      "type": "MCQ",
+      "prompt": "I ___ up at 7 o'clock every day.",
+      "answer": "a",
+      "options": [
+        "get",
+        "gets",
+        "getting"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "مع I الفعل زي ما هو: I get up. gets بتيجي مع He وShe وIt.",
+      "explanation_en": "With I the verb stays as it is: I get up. gets goes with He, She and It."
+    },
+    {
+      "id": 13,
+      "type": "MCQ",
+      "prompt": "He ___ up early.",
+      "answer": "b",
+      "options": [
+        "get",
+        "gets",
+        "getting"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "He فاعل مفرد، فالفعل بياخد s: gets. get من غير s مش مناسبة مع He.",
+      "explanation_en": "He is a singular subject, so the verb takes s: gets. get without s does not fit with He."
+    },
+    {
+      "id": 14,
+      "type": "MCQ",
+      "prompt": "We ___ English at school.",
+      "answer": "b",
+      "options": [
+        "studies",
+        "study",
+        "studying"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "We جمع، فالفعل من غير تغيير: study. studies للمفرد الغايب، وstudying مش مناسبة بعد We من غير is/are.",
+      "explanation_en": "We is plural, so the verb does not change: study. studies is for the third person singular, and studying does not fit after We without is/are."
+    },
+    {
+      "id": 15,
+      "type": "MCQ",
+      "prompt": "Naya ___ to school by bus.",
+      "answer": "b",
+      "options": [
+        "go",
+        "goes",
+        "going"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "Naya اسم بنت (She)، فنقول goes. go من غير es مش مناسبة هنا.",
+      "explanation_en": "Naya is a girl's name (She), so we say goes. go without es does not fit here."
+    },
+    {
+      "id": 16,
+      "type": "MCQ",
+      "prompt": "\"كيف حالك؟\" in English: ___",
+      "answer": "b",
+      "options": [
+        "What's your name?",
+        "How are you?",
+        "See you later"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "كيف حالك؟ بالإنجليزي How are you؟ الباقي أسئلة تانية أو توديع.",
+      "explanation_en": "How are you? is \"كيف حالك؟\" in English. The others are other questions or goodbyes."
+    },
+    {
+      "id": 17,
+      "type": "MCQ",
+      "prompt": "\"سعيد بلقائك\" in English: ___",
+      "answer": "c",
+      "options": [
+        "I'm fine",
+        "Thank you",
+        "Nice to meet you"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "سعيد بلقائك بالإنجليزي Nice to meet you. I'm fine معناها أنا بخير، وThank you معناها شكرًا.",
+      "explanation_en": "Nice to meet you is \"سعيد بلقائك\" in English. I'm fine means أنا بخير, and Thank you means شكرًا."
+    },
+    {
+      "id": 18,
+      "type": "MCQ",
+      "prompt": "End this sentence with: \"My name is Ziad___\"",
+      "answer": "a",
+      "options": [
+        ".",
+        "?",
+        "!"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الجملة خبرية بتعرّف باسمك، فبننهيها بنقطة (.). علامة الاستفهام للسؤال والتعجب للمفاجأة.",
+      "explanation_en": "The sentence is a statement that introduces your name, so we end it with a full stop (.). A question mark is for a question and an exclamation mark is for surprise."
+    },
+    {
+      "id": 19,
+      "type": "MCQ",
+      "prompt": "End this sentence with: \"How are you___\"",
+      "answer": "b",
+      "options": [
+        ".",
+        "?",
+        ","
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "How are you سؤال، فبننهيه بعلامة استفهام (?). النقطة للجمل العادية.",
+      "explanation_en": "How are you is a question, so we end it with a question mark (?). A full stop is for regular sentences."
+    },
+    {
+      "id": 20,
+      "type": "MCQ",
+      "prompt": "Start a sentence with a ___ letter.",
+      "answer": "b",
+      "options": [
+        "small",
+        "capital",
+        "red"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنبدأ كل جملة بحرف كبير (capital). small معناها صغير.",
+      "explanation_en": "We start every sentence with a capital letter (capital). small means صغير."
+    },
+    {
+      "id": 21,
+      "type": "COMPLETE",
+      "prompt": "Goodbye, Ziad! ___ you later.",
+      "answer": "See",
+      "models": [
+        "See"
+      ],
+      "wordbox": [
+        "are",
+        "is",
+        "am",
+        "get",
+        "goes",
+        "study",
+        "How",
+        "See"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنودّع بـ See you later يعني أشوفك بعدين. See هي الكلمة الناقصة.",
+      "explanation_en": "We say goodbye with See you later, meaning أشوفك بعدين. See is the missing word."
+    },
+    {
+      "id": 22,
+      "type": "COMPLETE",
+      "prompt": "___ are you today, grandma?",
+      "answer": "How",
+      "models": [
+        "How"
+      ],
+      "wordbox": [
+        "are",
+        "is",
+        "am",
+        "get",
+        "goes",
+        "study",
+        "How",
+        "See"
+      ],
+      "grading": "closed",
+      "explanation_ar": "السؤال عن حال الجدة: How are you today؟ How معناها إزاي أو كيف.",
+      "explanation_en": "The question is about grandma's condition: How are you today? How means إزاي or كيف."
+    },
+    {
+      "id": 23,
+      "type": "COMPLETE",
+      "prompt": "I ___ eight years old.",
+      "answer": "am",
+      "models": [
+        "am"
+      ],
+      "wordbox": [
+        "are",
+        "is",
+        "am",
+        "get",
+        "goes",
+        "study",
+        "How",
+        "See"
+      ],
+      "grading": "closed",
+      "explanation_ar": "مع I بنستخدم am: I am eight years old.",
+      "explanation_en": "With I we use am: I am eight years old."
+    },
+    {
+      "id": 24,
+      "type": "COMPLETE",
+      "prompt": "My friends ___ in the garden.",
+      "answer": "are",
+      "models": [
+        "are"
+      ],
+      "wordbox": [
+        "are",
+        "is",
+        "am",
+        "get",
+        "goes",
+        "study",
+        "How",
+        "See"
+      ],
+      "grading": "closed",
+      "explanation_ar": "My friends جمع، فنقول are: My friends are in the garden.",
+      "explanation_en": "My friends is plural, so we say are: My friends are in the garden."
+    },
+    {
+      "id": 25,
+      "type": "COMPLETE",
+      "prompt": "The book ___ on the desk.",
+      "answer": "is",
+      "models": [
+        "is"
+      ],
+      "wordbox": [
+        "are",
+        "is",
+        "am",
+        "get",
+        "goes",
+        "study",
+        "How",
+        "See"
+      ],
+      "grading": "closed",
+      "explanation_ar": "The book مفرد، فنقول is: The book is on the desk.",
+      "explanation_en": "The book is singular, so we say is: The book is on the desk."
+    },
+    {
+      "id": 26,
+      "type": "COMPLETE",
+      "prompt": "I ___ up at 6:30 on school days.",
+      "answer": "get",
+      "models": [
+        "get"
+      ],
+      "wordbox": [
+        "are",
+        "is",
+        "am",
+        "get",
+        "goes",
+        "study",
+        "How",
+        "See"
+      ],
+      "grading": "closed",
+      "explanation_ar": "مع I الفعل من غير s: I get up. get معناها أصحى.",
+      "explanation_en": "With I the verb has no s: I get up. get means أصحى."
+    },
+    {
+      "id": 27,
+      "type": "COMPLETE",
+      "prompt": "Selim ___ to the club on Friday.",
+      "answer": "goes",
+      "models": [
+        "goes"
+      ],
+      "wordbox": [
+        "are",
+        "is",
+        "am",
+        "get",
+        "goes",
+        "study",
+        "How",
+        "See"
+      ],
+      "grading": "closed",
+      "explanation_ar": "Selim فاعل مفرد (He)، فنقول goes بـ es.",
+      "explanation_en": "Selim is a singular subject (He), so we say goes with es."
+    },
+    {
+      "id": 28,
+      "type": "COMPLETE",
+      "prompt": "We ___ hard before exams.",
+      "answer": "study",
+      "models": [
+        "study"
+      ],
+      "wordbox": [
+        "are",
+        "is",
+        "am",
+        "get",
+        "goes",
+        "study",
+        "How",
+        "See"
+      ],
+      "grading": "closed",
+      "explanation_ar": "We جمع، فنقول study من غير تغيير.",
+      "explanation_en": "We is plural, so we say study with no change."
+    },
+    {
+      "id": 29,
+      "type": "LETTERS",
+      "prompt": "l o l h e (مرحبًا)",
+      "answer": "hello",
+      "models": [
+        "hello"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحروف l o l h e بترتب hello، ومعناها مرحبًا.",
+      "explanation_en": "The letters l o l h e make hello, meaning مرحبًا."
+    },
+    {
+      "id": 30,
+      "type": "LETTERS",
+      "prompt": "o d g o (جيد)",
+      "answer": "good",
+      "models": [
+        "good"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحروف o d g o بترتب good، ومعناها جيد.",
+      "explanation_en": "The letters o d g o make good, meaning جيد."
+    },
+    {
+      "id": 31,
+      "type": "LETTERS",
+      "prompt": "o y u (أنتَ)",
+      "answer": "you",
+      "models": [
+        "you"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحروف o y u بترتب you، ومعناها أنت.",
+      "explanation_en": "The letters o y u make you, meaning أنت."
+    },
+    {
+      "id": 32,
+      "type": "LETTERS",
+      "prompt": "r e a d (اقرأ)",
+      "answer": "read",
+      "models": [
+        "read"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحروف r e a d بترتب read، ومعناها اقرأ.",
+      "explanation_en": "The letters r e a d make read, meaning اقرأ."
+    },
+    {
+      "id": 33,
+      "type": "LETTERS",
+      "prompt": "f e n i (بخير)",
+      "answer": "fine",
+      "models": [
+        "fine"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحروف f e n i بترتب fine، ومعناها بخير.",
+      "explanation_en": "The letters f e n i make fine, meaning بخير."
+    },
+    {
+      "id": 34,
+      "type": "LETTERS",
+      "prompt": "k n a h t (شكرًا)",
+      "answer": "thank",
+      "models": [
+        "thank"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الحروف k n a h t بترتب thank، ومعناها شكرًا.",
+      "explanation_en": "The letters k n a h t make thank, meaning شكرًا."
+    },
+    {
+      "id": 35,
+      "type": "REORDER",
+      "prompt": "am – I – happy.",
+      "answer": "I am happy.",
+      "models": [
+        "I am happy."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: I am happy. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: I am happy. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 36,
+      "type": "REORDER",
+      "prompt": "are – You – friend. – my",
+      "answer": "You are my friend.",
+      "models": [
+        "You are my friend."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: You are my friend. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: You are my friend. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 37,
+      "type": "REORDER",
+      "prompt": "is – She – fine.",
+      "answer": "She is fine.",
+      "models": [
+        "She is fine."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: She is fine. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: She is fine. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 38,
+      "type": "REORDER",
+      "prompt": "get – I – up – 7. – at",
+      "answer": "I get up at 7.",
+      "models": [
+        "I get up at 7."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: I get up at 7. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: I get up at 7. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 39,
+      "type": "REORDER",
+      "prompt": "goes – He – school. – to",
+      "answer": "He goes to school.",
+      "models": [
+        "He goes to school."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: He goes to school. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: He goes to school. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 40,
+      "type": "REORDER",
+      "prompt": "we – English. – study",
+      "answer": "We study English.",
+      "models": [
+        "We study English."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: We study English. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: We study English. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 41,
+      "type": "READ",
+      "prompt": "Karim gets up at ___.",
+      "answer": "b",
+      "passage": "My name is Karim. I get up at seven every day. I wash my face and eat breakfast. Then I go to school with my friend Adam. We say good morning to our teacher. We study English and math. We read and write in class. I am happy at school.",
+      "options": [
+        "six",
+        "seven",
+        "eight"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: I get up at seven every day. يعني كريم بيصحى الساعة سبعة (seven).",
+      "explanation_en": "The passage says: I get up at seven every day. So Karim wakes up at seven (seven)."
+    },
+    {
+      "id": 42,
+      "type": "READ",
+      "prompt": "Karim goes to school with ___.",
+      "answer": "a",
+      "passage": "My name is Karim. I get up at seven every day. I wash my face and eat breakfast. Then I go to school with my friend Adam. We say good morning to our teacher. We study English and math. We read and write in class. I am happy at school.",
+      "options": [
+        "Adam",
+        "his dad",
+        "Naya"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: I go to school with my friend Adam. يعني كريم بيروح المدرسة مع صاحبه آدم.",
+      "explanation_en": "The passage says: I go to school with my friend Adam. So Karim goes to school with his friend Adam."
+    },
+    {
+      "id": 43,
+      "type": "READ",
+      "prompt": "Karim is ___ at school.",
+      "answer": "c",
+      "passage": "My name is Karim. I get up at seven every day. I wash my face and eat breakfast. Then I go to school with my friend Adam. We say good morning to our teacher. We study English and math. We read and write in class. I am happy at school.",
+      "options": [
+        "sad",
+        "tired",
+        "happy"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "آخر جملة في القطعة: I am happy at school. يعني كريم سعيد (happy) في المدرسة.",
+      "explanation_en": "The last sentence in the passage: I am happy at school. So Karim is happy (happy) at school."
+    },
+    {
+      "id": 44,
+      "type": "READ",
+      "prompt": "What does Karim eat in the morning?",
+      "answer": "Breakfast.",
+      "models": [
+        "Breakfast."
+      ],
+      "passage": "My name is Karim. I get up at seven every day. I wash my face and eat breakfast. Then I go to school with my friend Adam. We say good morning to our teacher. We study English and math. We read and write in class. I am happy at school.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: I wash my face and eat breakfast. يعني بياكل الفطار: Breakfast. الإجابة بتيجي من القطعة.",
+      "explanation_en": "The passage says: I wash my face and eat breakfast. So he eats breakfast: Breakfast. The answer comes from the passage."
+    },
+    {
+      "id": 45,
+      "type": "READ",
+      "prompt": "What does Karim study at school?",
+      "answer": "English and math.",
+      "models": [
+        "English and math."
+      ],
+      "passage": "My name is Karim. I get up at seven every day. I wash my face and eat breakfast. Then I go to school with my friend Adam. We say good morning to our teacher. We study English and math. We read and write in class. I am happy at school.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: We study English and math. يعني بيدرسوا إنجليزي وحساب: English and math.",
+      "explanation_en": "The passage says: We study English and math. So they study English and math: English and math."
+    },
+    {
+      "id": 46,
+      "type": "PUNCT",
+      "prompt": "my name is lina",
+      "answer": "My name is Lina.",
+      "models": [
+        "My name is Lina."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: My name is Lina. بنبدأ بحرف كبير (My) وننهي بالنقطة (.) لأنها جملة عادية. والأسماء زي الأسماء الخاصة بتبدأ بحرف كبير دايمًا.",
+      "explanation_en": "The correct sentence: My name is Lina. We start with a capital letter (My) and end with a full stop (.) because it is a regular sentence. Names, like proper nouns, always start with a capital letter."
+    },
+    {
+      "id": 47,
+      "type": "PUNCT",
+      "prompt": "how are you",
+      "answer": "How are you?",
+      "models": [
+        "How are you?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: How are you? بنبدأ بحرف كبير (How) وننهي بعلامة الاستفهام (?) لأنها سؤال.",
+      "explanation_en": "The correct sentence: How are you? We start with a capital letter (How) and end with a question mark (?) because it is a question."
+    },
+    {
+      "id": 48,
+      "type": "PUNCT",
+      "prompt": "i am fine thank you",
+      "answer": "I am fine, thank you.",
+      "models": [
+        "I am fine, thank you."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: I am fine, thank you. بنبدأ بحرف كبير (I) وننهي بالنقطة (.) لأنها جملة عادية.",
+      "explanation_en": "The correct sentence: I am fine, thank you. We start with a capital letter (I) and end with a full stop (.) because it is a regular sentence."
+    },
+    {
+      "id": 49,
+      "type": "PUNCT",
+      "prompt": "we go to school in the morning",
+      "answer": "We go to school in the morning.",
+      "models": [
+        "We go to school in the morning."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: We go to school in the morning. بنبدأ بحرف كبير (We) وننهي بالنقطة (.) لأنها جملة عادية.",
+      "explanation_en": "The correct sentence: We go to school in the morning. We start with a capital letter (We) and end with a full stop (.) because it is a regular sentence."
+    },
+    {
+      "id": 50,
+      "type": "PUNCT",
+      "prompt": "nice to meet you mona",
+      "answer": "Nice to meet you, Mona.",
+      "models": [
+        "Nice to meet you, Mona."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Nice to meet you, Mona. بنبدأ بحرف كبير (Nice) وننهي بالنقطة (.) لأنها جملة عادية. والأسماء زي الأسماء الخاصة بتبدأ بحرف كبير دايمًا.",
+      "explanation_en": "The correct sentence: Nice to meet you, Mona. We start with a capital letter (Nice) and end with a full stop (.) because it is a regular sentence. Names, like proper nouns, always start with a capital letter."
+    },
+    {
+      "id": 51,
+      "type": "WRITE",
+      "prompt": "(morning, fine, thank)",
+      "answer": "Good morning, dear teacher Sara.",
+      "models": [
+        "Good morning, dear teacher Sara.",
+        "I am fine, thank you very much.",
+        "Thank you for your kind help."
+      ],
+      "grading": "model_review",
+      "min_words": 15,
+      "sentences": 3,
+      "explanation_ar": "الجملة ترحيب بالمعلمة، وبتبدأ بحرف كبير: Good morning, dear teacher Sara. الكلمات المعطاة morning وfine وthank تتستخدم في تحية وإجابة عن الحال. لازم فاصلة بعد morning واسم Sara بحرف كبير. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة.",
+      "explanation_en": "The sentence is a greeting to the teacher, and it starts with a capital letter: Good morning, dear teacher Sara. The given words morning, fine and thank are used in a greeting and a reply about how you are. A comma is needed after morning and the name Sara starts with a capital letter. The answer is a model answer and it is checked by reviewing the sentence."
+    }
+  ],
+  "version": "4c5be34de51c"
+}

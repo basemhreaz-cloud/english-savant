@@ -1,0 +1,1430 @@
+{
+  "grade": "p4",
+  "id": 2,
+  "title": "My Community",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MCQ",
+      "prompt": "I ___ my neighbors. They are kind.",
+      "answer": "b",
+      "source_line": 129,
+      "options": [
+        "hate",
+        "like",
+        "don't like",
+        "doesn't like"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الجيران طيبين، فأنا بحبهم: like. مع I بنستخدم like من غير s. hate معناها بكره وهو عكس المعنى.",
+      "explanation_en": "The neighbors are nice, so I like them: like. With I we use like with no s. hate means بكره, and it is the opposite of the meaning."
+    },
+    {
+      "id": 2,
+      "type": "MCQ",
+      "prompt": "We ___ litter in the street. It is wrong.",
+      "answer": "b",
+      "source_line": 130,
+      "options": [
+        "like",
+        "don't like",
+        "collect",
+        "feed"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "رمي الزبالة في الشارع غلط، فنقول We don't like litter. don't بتنفي الفعل مع We.",
+      "explanation_en": "Throwing litter in the street is wrong, so we say We don't like litter. don't makes the verb negative with We."
+    },
+    {
+      "id": 3,
+      "type": "MCQ",
+      "prompt": "She ___ live in Cairo. She lives in Aswan.",
+      "answer": "b",
+      "source_line": 131,
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't",
+        "not"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "She مفرد، ونفي المضارع معاه doesn't. don't بتيجي مع I وyou وwe وthey.",
+      "explanation_en": "She is singular, and the negative present with it is doesn't. don't goes with I, you, we and they."
+    },
+    {
+      "id": 4,
+      "type": "MCQ",
+      "prompt": "They ___ live in a big city. They live in a small village.",
+      "answer": "b",
+      "source_line": 132,
+      "options": [
+        "doesn't",
+        "don't",
+        "aren't",
+        "no"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "They جمع، ونفي المضارع معاه don't. doesn't للمفرد (He, She, It).",
+      "explanation_en": "They is plural, and the negative present with it is don't. doesn't is for the singular (He, She, It)."
+    },
+    {
+      "id": 5,
+      "type": "MCQ",
+      "prompt": "___ you help your neighbors? — Yes, I do.",
+      "answer": "b",
+      "source_line": 133,
+      "options": [
+        "Does",
+        "Do",
+        "Are",
+        "Is"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "السؤال مع you بيبدأ بـ Do، والرد Yes, I do. Does بتيجي مع He وShe وIt.",
+      "explanation_en": "A question with you starts with Do, and the reply is Yes, I do. Does goes with He, She and It."
+    },
+    {
+      "id": 6,
+      "type": "MCQ",
+      "prompt": "___ he feed the cats? — Yes, he does.",
+      "answer": "b",
+      "source_line": 134,
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "السؤال مع he بيبدأ بـ Does، والرد Yes, he does. Do بتيجي مع I وyou وwe وthey.",
+      "explanation_en": "A question with he starts with Does, and the reply is Yes, he does. Do goes with I, you, we and they."
+    },
+    {
+      "id": 7,
+      "type": "MCQ",
+      "prompt": "___ your mom volunteer at school? — No, she doesn't.",
+      "answer": "c",
+      "source_line": 135,
+      "options": [
+        "Do",
+        "Is",
+        "Does",
+        "Are"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "السؤال مع your mom (She) بيبدأ بـ Does، والرد No, she doesn't.",
+      "explanation_en": "A question with your mom (She) starts with Does, and the reply is No, she doesn't."
+    },
+    {
+      "id": 8,
+      "type": "MCQ",
+      "prompt": "A ___ is a person who lives next to you.",
+      "answer": "b",
+      "source_line": 136,
+      "options": [
+        "tourist",
+        "neighbor",
+        "guide",
+        "farmer"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الجار (neighbor) هو الشخص اللي بيسكن جنبك. tourist سائح وguide مرشد.",
+      "explanation_en": "A neighbor (neighbor) is the person who lives next to you. tourist is سائح and guide is مرشد."
+    },
+    {
+      "id": 9,
+      "type": "MCQ",
+      "prompt": "We put litter in the ___.",
+      "answer": "c",
+      "source_line": 137,
+      "options": [
+        "traffic",
+        "festival",
+        "trash bin",
+        "harvest"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "بنرمي الزبالة في سلة الزبالة (trash bin). traffic زحمة وfestival مهرجان.",
+      "explanation_en": "We throw litter in the trash bin (trash bin). traffic is زحمة and festival is مهرجان."
+    },
+    {
+      "id": 10,
+      "type": "MCQ",
+      "prompt": "Too many cars make bad ___ in the city.",
+      "answer": "a",
+      "source_line": 138,
+      "options": [
+        "traffic",
+        "culture",
+        "harvest",
+        "history"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "العربيات الكتير بتعمل زحمة وحشة: traffic. culture ثقافة وharvest حصاد.",
+      "explanation_en": "Many cars make bad traffic: traffic. culture is ثقافة and harvest is حصاد."
+    },
+    {
+      "id": 11,
+      "type": "MCQ",
+      "prompt": "Nubia is famous for its colorful houses and ___.",
+      "answer": "b",
+      "source_line": 139,
+      "options": [
+        "traffic",
+        "culture",
+        "trash",
+        "noise"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "النوبة مشهورة ببيوتها الملونة وثقافتها: culture. traffic وnoise مش حاجات بتتمدح.",
+      "explanation_en": "Nubia is famous for its colorful houses and its culture: culture. traffic and noise are not things we praise."
+    },
+    {
+      "id": 12,
+      "type": "MCQ",
+      "prompt": "Farmers cut sugarcane at the ___ time.",
+      "answer": "b",
+      "source_line": 140,
+      "options": [
+        "festival",
+        "harvest",
+        "traffic",
+        "history"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الفلاحين بيقطعوا القصب وقت الحصاد (harvest time). festival مهرجان.",
+      "explanation_en": "Farmers cut sugarcane at harvest time (harvest time). festival is مهرجان."
+    },
+    {
+      "id": 13,
+      "type": "MCQ",
+      "prompt": "A ___ is a happy party for all people in a town.",
+      "answer": "c",
+      "source_line": 141,
+      "options": [
+        "trash bin",
+        "traffic",
+        "festival",
+        "station"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "المهرجان (festival) حفلة سعيدة لكل الناس في البلد. traffic زحمة وstation محطة.",
+      "explanation_en": "A festival (festival) is a happy party for everyone in the town. traffic is زحمة and station is محطة."
+    },
+    {
+      "id": 14,
+      "type": "MCQ",
+      "prompt": "People in Nubia sometimes wear a ___ on their heads.",
+      "answer": "a",
+      "source_line": 142,
+      "options": [
+        "turban",
+        "uniform",
+        "medal",
+        "coat"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "ناس في النوبة أحيانًا بيلبسوا عمة (turban) على رؤوسهم. uniform زي مدرسي.",
+      "explanation_en": "People in Nubia sometimes wear a turban (turban) on their heads. uniform is زي مدرسي."
+    },
+    {
+      "id": 15,
+      "type": "MCQ",
+      "prompt": "We take the train from the ___.",
+      "answer": "b",
+      "source_line": 143,
+      "options": [
+        "museum",
+        "train station",
+        "mall",
+        "farm"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنركب القطر من محطة القطر (train station). museum وmall مش بيطلع منهم قطر.",
+      "explanation_en": "We take the train from the train station (train station). A museum and a mall have no trains leaving from them."
+    },
+    {
+      "id": 16,
+      "type": "MCQ",
+      "prompt": "___ in the streets keeps your neighborhood clean.",
+      "answer": "b",
+      "source_line": 144,
+      "options": [
+        "Littering",
+        "Volunteering",
+        "Driving",
+        "Parking"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "التطوع (Volunteering) في الشوارع بيخلي الحي نضيف. Littering معناها رمي الزبالة وده بيوسخ.",
+      "explanation_en": "Volunteering (Volunteering) in the streets keeps the neighborhood clean. Littering means throwing litter, and that makes it dirty."
+    },
+    {
+      "id": 17,
+      "type": "MCQ",
+      "prompt": "We ___ plastic and paper to recycle them.",
+      "answer": "b",
+      "source_line": 145,
+      "options": [
+        "feed",
+        "collect",
+        "hate",
+        "drive"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنجمع البلاستيك والورق عشان نعيد تدويرهم: collect. feed معناها يأكل.",
+      "explanation_en": "We collect plastic and paper to recycle them: collect. feed means يأكل."
+    },
+    {
+      "id": 18,
+      "type": "MCQ",
+      "prompt": "Volunteers ___ food for poor families.",
+      "answer": "a",
+      "source_line": 146,
+      "options": [
+        "collect",
+        "hate",
+        "litter",
+        "waste"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "المتطوعين بيجمعوا أكل للأسر الفقيرة: collect. hate وwaste مش مناسبين مع المساعدة.",
+      "explanation_en": "The volunteers collect food for poor families: collect. hate and waste do not fit with helping."
+    },
+    {
+      "id": 19,
+      "type": "MCQ",
+      "prompt": "My neighborhood has a problem. We need a ___.",
+      "answer": "b",
+      "source_line": 147,
+      "options": [
+        "traffic",
+        "solution",
+        "festival",
+        "turban"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "حينا عنده مشكلة ومحتاجين حل: solution. traffic وfestival مش حل.",
+      "explanation_en": "Our neighborhood has a problem and we need a solution: solution. traffic and festival are not a solution."
+    },
+    {
+      "id": 20,
+      "type": "MCQ",
+      "prompt": "Old buildings tell us about our ___.",
+      "answer": "a",
+      "source_line": 148,
+      "options": [
+        "history",
+        "harvest",
+        "traffic",
+        "litter"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "المباني القديمة بتحكي لنا عن تاريخنا: history. harvest حصاد وlitter زبالة.",
+      "explanation_en": "Old buildings tell us about our history: history. harvest is حصاد and litter is زبالة."
+    },
+    {
+      "id": 21,
+      "type": "MCQ",
+      "prompt": "People in my ___ help each other. (حيّنا/مجتمعنا)",
+      "answer": "a",
+      "source_line": 149,
+      "options": [
+        "community",
+        "station",
+        "museum",
+        "farm"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (حيّنا/مجتمعنا) معناها community، والناس فيها بتساعد بعض.",
+      "explanation_en": "The Arabic word (حيّنا/مجتمعنا) means community, and the people in it help each other."
+    },
+    {
+      "id": 22,
+      "type": "MCQ",
+      "prompt": "I ___ feed street cats. I am kind to them.",
+      "answer": "c",
+      "source_line": 150,
+      "options": [
+        "don't",
+        "doesn't",
+        "do",
+        "does"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "هو بيأكل قطط الشارع وبيحبها: I do feed. do هنا بتأكد الفعل.",
+      "explanation_en": "He feeds the street cats and loves them: I do feed. do here makes the verb stronger."
+    },
+    {
+      "id": 23,
+      "type": "MCQ",
+      "prompt": "We ___ throw trash on the floor. We use bins.",
+      "answer": "b",
+      "source_line": 151,
+      "options": [
+        "do",
+        "don't",
+        "does",
+        "doesn't"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنستخدم السلة، فمنرميش الزبالة على الأرض: We don't throw. don't مع We.",
+      "explanation_en": "We use the bin, so we do not throw litter on the ground: We don't throw. don't goes with We."
+    },
+    {
+      "id": 24,
+      "type": "MCQ",
+      "prompt": "He ___ like noise. He likes quiet places.",
+      "answer": "b",
+      "source_line": 152,
+      "options": [
+        "don't",
+        "doesn't",
+        "do",
+        "is"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "He مفرد، وبيحب الأماكن الهادية، فنقول doesn't like noise. doesn't مع He.",
+      "explanation_en": "He is singular, and he likes quiet places, so we say doesn't like noise. doesn't goes with He."
+    },
+    {
+      "id": 25,
+      "type": "MCQ",
+      "prompt": "___ they live near you? — No, they don't.",
+      "answer": "b",
+      "source_line": 153,
+      "options": [
+        "Does",
+        "Do",
+        "Are",
+        "Is"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "السؤال مع they بيبدأ بـ Do، والرد No, they don't.",
+      "explanation_en": "A question with they starts with Do, and the reply is No, they don't."
+    },
+    {
+      "id": 26,
+      "type": "MCQ",
+      "prompt": "\"تطوع\" in English: ___",
+      "answer": "a",
+      "source_line": 154,
+      "options": [
+        "volunteer",
+        "collect",
+        "feed",
+        "harvest"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (تطوع) معناها volunteer. collect يجمع وfeed يأكل.",
+      "explanation_en": "The Arabic word (تطوع) means volunteer. collect is يجمع and feed is يأكل."
+    },
+    {
+      "id": 27,
+      "type": "MCQ",
+      "prompt": "\"جار\" in English: ___",
+      "answer": "a",
+      "source_line": 155,
+      "options": [
+        "neighbor",
+        "community",
+        "tourist",
+        "friend"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (جار) معناها neighbor. community مجتمع وtourist سائح.",
+      "explanation_en": "The Arabic word (جار) means neighbor. community is مجتمع and tourist is سائح."
+    },
+    {
+      "id": 28,
+      "type": "MCQ",
+      "prompt": "Sugarcane grows a lot in ___. (في الصعيد)",
+      "answer": "b",
+      "source_line": 156,
+      "options": [
+        "Cairo",
+        "Upper Egypt",
+        "the sea",
+        "the desert"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القصب بيتزرع كتير في الصعيد: Upper Egypt. Cairo والبحر مش أماكن للقصب.",
+      "explanation_en": "Sugarcane is grown a lot in Upper Egypt: Upper Egypt. Cairo and the sea are not places for sugarcane."
+    },
+    {
+      "id": 29,
+      "type": "MCQ",
+      "prompt": "We ___ the streets clean. (نحافظ على)",
+      "answer": "a",
+      "source_line": 157,
+      "options": [
+        "keep",
+        "keeps",
+        "keeping",
+        "kept"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "We جمع، فنقول keep من غير s: We keep the streets clean.",
+      "explanation_en": "We is plural, so we say keep with no s: We keep the streets clean."
+    },
+    {
+      "id": 30,
+      "type": "MCQ",
+      "prompt": "She ___ her neighborhood. (تحب)",
+      "answer": "b",
+      "source_line": 158,
+      "options": [
+        "love",
+        "loves",
+        "loving",
+        "loved"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "She مفرد، فنقول loves بحرف s: She loves her neighborhood.",
+      "explanation_en": "She is singular, so we say loves with an s: She loves her neighborhood."
+    },
+    {
+      "id": 31,
+      "type": "MCQ",
+      "prompt": "___ your father work in Aswan?",
+      "answer": "b",
+      "source_line": 159,
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "السؤال مع your father (He) بيبدأ بـ Does: Does your father work in Aswan؟",
+      "explanation_en": "A question with your father (He) starts with Does: Does your father work in Aswan?"
+    },
+    {
+      "id": 32,
+      "type": "MCQ",
+      "prompt": "We ___ to the festival every year.",
+      "answer": "c",
+      "source_line": 160,
+      "options": [
+        "goes",
+        "going",
+        "go",
+        "went"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "We جمع، وعادة كل سنة، فنقول go من غير تغيير. went للماضي.",
+      "explanation_en": "We is plural, and it is a yearly habit, so we say go with no change. went is for the past."
+    },
+    {
+      "id": 33,
+      "type": "MCQ",
+      "prompt": "My friends ___ litter. (لا يرمون)",
+      "answer": "b",
+      "source_line": 161,
+      "options": [
+        "doesn't throw",
+        "don't throw",
+        "not throw",
+        "no throw"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "My friends جمع، والنفي don't + الفعل: don't throw litter.",
+      "explanation_en": "My friends is plural, and the negative is don't + the verb: don't throw litter."
+    },
+    {
+      "id": 34,
+      "type": "COMPLETE",
+      "prompt": "My ___ lives in the flat next to us.",
+      "answer": "neighbor",
+      "source_line": 164,
+      "models": [
+        "neighbor"
+      ],
+      "wordbox": [
+        "community",
+        "neighbor",
+        "solution",
+        "traffic",
+        "festival",
+        "harvest",
+        "turban",
+        "sugarcane",
+        "Nubia",
+        "station",
+        "history",
+        "volunteer",
+        "feed",
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "جاري ساكن في الشقة اللي جنبنا: neighbor.",
+      "explanation_en": "My neighbor lives in the apartment next to ours: neighbor."
+    },
+    {
+      "id": 35,
+      "type": "COMPLETE",
+      "prompt": "There is a lot of ___ in Cairo streets at 8 a.m.",
+      "answer": "traffic",
+      "source_line": 165,
+      "models": [
+        "traffic"
+      ],
+      "wordbox": [
+        "community",
+        "neighbor",
+        "solution",
+        "traffic",
+        "festival",
+        "harvest",
+        "turban",
+        "sugarcane",
+        "Nubia",
+        "station",
+        "history",
+        "volunteer",
+        "feed",
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "فيه زحمة كتير في شوارع القاهرة الساعة 8: traffic.",
+      "explanation_en": "There is a lot of traffic in the streets of Cairo at 8: traffic."
+    },
+    {
+      "id": 36,
+      "type": "COMPLETE",
+      "prompt": "Farmers cut and sell sugarcane at the ___ time. (الحصاد)",
+      "answer": "harvest",
+      "source_line": 166,
+      "models": [
+        "harvest"
+      ],
+      "wordbox": [
+        "community",
+        "neighbor",
+        "solution",
+        "traffic",
+        "festival",
+        "harvest",
+        "turban",
+        "sugarcane",
+        "Nubia",
+        "station",
+        "history",
+        "volunteer",
+        "feed",
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (الحصاد) معناها harvest، والفلاحين بيقطعوا القصب وقت الحصاد.",
+      "explanation_en": "The Arabic word (الحصاد) means harvest, and farmers cut sugarcane at harvest time."
+    },
+    {
+      "id": 37,
+      "type": "COMPLETE",
+      "prompt": "The man wears a white ___ on his head.",
+      "answer": "turban",
+      "source_line": 167,
+      "models": [
+        "turban"
+      ],
+      "wordbox": [
+        "community",
+        "neighbor",
+        "solution",
+        "traffic",
+        "festival",
+        "harvest",
+        "turban",
+        "sugarcane",
+        "Nubia",
+        "station",
+        "history",
+        "volunteer",
+        "feed",
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الراجل لابس عمة بيضا على راسه: turban.",
+      "explanation_en": "The man is wearing a white turban on his head: turban."
+    },
+    {
+      "id": 38,
+      "type": "COMPLETE",
+      "prompt": "Farmers grow ___ in Upper Egypt.",
+      "answer": "sugarcane",
+      "source_line": 168,
+      "models": [
+        "sugarcane"
+      ],
+      "wordbox": [
+        "community",
+        "neighbor",
+        "solution",
+        "traffic",
+        "festival",
+        "harvest",
+        "turban",
+        "sugarcane",
+        "Nubia",
+        "station",
+        "history",
+        "volunteer",
+        "feed",
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الفلاحين بيزرعوا القصب في الصعيد: sugarcane.",
+      "explanation_en": "Farmers grow sugarcane in Upper Egypt: sugarcane."
+    },
+    {
+      "id": 39,
+      "type": "COMPLETE",
+      "prompt": "___ is famous for colorful houses and kind people.",
+      "answer": "Nubia",
+      "source_line": 169,
+      "models": [
+        "Nubia"
+      ],
+      "wordbox": [
+        "community",
+        "neighbor",
+        "solution",
+        "traffic",
+        "festival",
+        "harvest",
+        "turban",
+        "sugarcane",
+        "Nubia",
+        "station",
+        "history",
+        "volunteer",
+        "feed",
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "النوبة مشهورة بالبيوت الملونة والناس الطيبين: Nubia. الكلمة أول الجملة فبحرف كبير.",
+      "explanation_en": "Nubia is famous for its colorful houses and kind people: Nubia. The word is at the start of the sentence, so it has a capital letter."
+    },
+    {
+      "id": 40,
+      "type": "COMPLETE",
+      "prompt": "We arrived at the train ___ at 9.",
+      "answer": "station",
+      "source_line": 170,
+      "models": [
+        "station"
+      ],
+      "wordbox": [
+        "community",
+        "neighbor",
+        "solution",
+        "traffic",
+        "festival",
+        "harvest",
+        "turban",
+        "sugarcane",
+        "Nubia",
+        "station",
+        "history",
+        "volunteer",
+        "feed",
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "وصلنا محطة القطر الساعة 9: station.",
+      "explanation_en": "We arrived at the train station at 9: station."
+    },
+    {
+      "id": 41,
+      "type": "COMPLETE",
+      "prompt": "Museums teach us about our ___.",
+      "answer": "history",
+      "source_line": 171,
+      "models": [
+        "history"
+      ],
+      "wordbox": [
+        "community",
+        "neighbor",
+        "solution",
+        "traffic",
+        "festival",
+        "harvest",
+        "turban",
+        "sugarcane",
+        "Nubia",
+        "station",
+        "history",
+        "volunteer",
+        "feed",
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "المتاحف بتعلمنا عن تاريخنا: history.",
+      "explanation_en": "Museums teach us about our history: history."
+    },
+    {
+      "id": 42,
+      "type": "COMPLETE",
+      "prompt": "A ___ works to help people for no money.",
+      "answer": "volunteer",
+      "source_line": 172,
+      "models": [
+        "volunteer"
+      ],
+      "wordbox": [
+        "community",
+        "neighbor",
+        "solution",
+        "traffic",
+        "festival",
+        "harvest",
+        "turban",
+        "sugarcane",
+        "Nubia",
+        "station",
+        "history",
+        "volunteer",
+        "feed",
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "المتطوع بيشتغل عشان يساعد الناس من غير فلوس: volunteer.",
+      "explanation_en": "A volunteer works to help people without money: volunteer."
+    },
+    {
+      "id": 43,
+      "type": "COMPLETE",
+      "prompt": "We ___ the birds in the park every Friday.",
+      "answer": "feed",
+      "source_line": 173,
+      "models": [
+        "feed"
+      ],
+      "wordbox": [
+        "community",
+        "neighbor",
+        "solution",
+        "traffic",
+        "festival",
+        "harvest",
+        "turban",
+        "sugarcane",
+        "Nubia",
+        "station",
+        "history",
+        "volunteer",
+        "feed",
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنأكل الطيور في الحديقة كل جمعة: feed. مع We الفعل من غير s.",
+      "explanation_en": "We feed the birds in the park every Friday: feed. With We the verb has no s."
+    },
+    {
+      "id": 44,
+      "type": "COMPLETE",
+      "prompt": "Children ___ bottles and cans for recycling.",
+      "answer": "collect",
+      "source_line": 174,
+      "models": [
+        "collect"
+      ],
+      "wordbox": [
+        "community",
+        "neighbor",
+        "solution",
+        "traffic",
+        "festival",
+        "harvest",
+        "turban",
+        "sugarcane",
+        "Nubia",
+        "station",
+        "history",
+        "volunteer",
+        "feed",
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الأطفال بيجمعوا الزجاجات والعلب عشان إعادة التدوير: collect.",
+      "explanation_en": "The children collect bottles and cans for recycling: collect."
+    },
+    {
+      "id": 45,
+      "type": "COMPLETE",
+      "prompt": "Our ___ has kind people and clean streets.",
+      "answer": "community",
+      "source_line": 175,
+      "models": [
+        "community"
+      ],
+      "wordbox": [
+        "community",
+        "neighbor",
+        "solution",
+        "traffic",
+        "festival",
+        "harvest",
+        "turban",
+        "sugarcane",
+        "Nubia",
+        "station",
+        "history",
+        "volunteer",
+        "feed",
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "حينا فيه ناس طيبين وشوارع نضيفة: community.",
+      "explanation_en": "Our neighborhood has kind people and clean streets: community."
+    },
+    {
+      "id": 46,
+      "type": "COMPLETE",
+      "prompt": "The city had a problem, but the engineer found a ___.",
+      "answer": "solution",
+      "source_line": 176,
+      "models": [
+        "solution"
+      ],
+      "wordbox": [
+        "community",
+        "neighbor",
+        "solution",
+        "traffic",
+        "festival",
+        "harvest",
+        "turban",
+        "sugarcane",
+        "Nubia",
+        "station",
+        "history",
+        "volunteer",
+        "feed",
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "المدينة كان عندها مشكلة، لكن المهندس لقى حل: solution.",
+      "explanation_en": "The city had a problem, but the engineer found a solution: solution."
+    },
+    {
+      "id": 47,
+      "type": "COMPLETE",
+      "prompt": "Our town has a big ___ every year with music and food.",
+      "answer": "festival",
+      "source_line": 177,
+      "models": [
+        "festival"
+      ],
+      "wordbox": [
+        "community",
+        "neighbor",
+        "solution",
+        "traffic",
+        "festival",
+        "harvest",
+        "turban",
+        "sugarcane",
+        "Nubia",
+        "station",
+        "history",
+        "volunteer",
+        "feed",
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بلدنا فيها مهرجان كبير كل سنة فيه موسيقى وأكل: festival.",
+      "explanation_en": "Our town has a big festival every year with music and food: festival."
+    },
+    {
+      "id": 48,
+      "type": "CORRECT",
+      "prompt": "She (don't) like litter.",
+      "answer": "doesn't",
+      "source_line": 180,
+      "models": [
+        "doesn't"
+      ],
+      "grading": "closed",
+      "explanation_ar": "She مفرد، فنفي like بيبقى doesn't. المطلوب نصحح don't لـ doesn't.",
+      "explanation_en": "She is singular, so the negative of like is doesn't. We need to correct don't to doesn't."
+    },
+    {
+      "id": 49,
+      "type": "CORRECT",
+      "prompt": "They (doesn't) live in Cairo.",
+      "answer": "don't",
+      "source_line": 181,
+      "models": [
+        "don't"
+      ],
+      "grading": "closed",
+      "explanation_ar": "They جمع، فنفي live بيبقى don't. المطلوب نصحح doesn't لـ don't.",
+      "explanation_en": "They is plural, so the negative of live is don't. We need to correct doesn't to don't."
+    },
+    {
+      "id": 50,
+      "type": "CORRECT",
+      "prompt": "(Do) he feed the birds?",
+      "answer": "Does",
+      "source_line": 182,
+      "models": [
+        "Does"
+      ],
+      "grading": "closed",
+      "explanation_ar": "السؤال مع he بيبدأ بـ Does. المطلوب نصحح Do لـ Does.",
+      "explanation_en": "A question with he starts with Does. We need to correct Do to Does."
+    },
+    {
+      "id": 51,
+      "type": "CORRECT",
+      "prompt": "(Does) you help your neighbors?",
+      "answer": "Do",
+      "source_line": 183,
+      "models": [
+        "Do"
+      ],
+      "grading": "closed",
+      "explanation_ar": "السؤال مع you بيبدأ بـ Do. المطلوب نصحح Does لـ Do.",
+      "explanation_en": "A question with you starts with Do. We need to correct Does to Do."
+    },
+    {
+      "id": 52,
+      "type": "CORRECT",
+      "prompt": "My mom (volunteer) at school every week.",
+      "answer": "volunteers",
+      "source_line": 184,
+      "models": [
+        "volunteers"
+      ],
+      "grading": "closed",
+      "explanation_ar": "My mom مفرد، فالفعل volunteer بياخد s: volunteers.",
+      "explanation_en": "My mom is singular, so the verb volunteer takes s: volunteers."
+    },
+    {
+      "id": 53,
+      "type": "CORRECT",
+      "prompt": "We (collects) cans for recycling.",
+      "answer": "collect",
+      "source_line": 185,
+      "models": [
+        "collect"
+      ],
+      "grading": "closed",
+      "explanation_ar": "We جمع، فالفعل من غير s: collect. المطلوب نصحح collects لـ collect.",
+      "explanation_en": "We is plural, so the verb has no s: collect. We need to correct collects to collect."
+    },
+    {
+      "id": 54,
+      "type": "CORRECT",
+      "prompt": "He (feed) street cats every morning.",
+      "answer": "feeds",
+      "source_line": 186,
+      "models": [
+        "feeds"
+      ],
+      "grading": "closed",
+      "explanation_ar": "He مفرد، فالفعل feed بياخد s: feeds.",
+      "explanation_en": "He is singular, so the verb feed takes s: feeds."
+    },
+    {
+      "id": 55,
+      "type": "CORRECT",
+      "prompt": "I (doesn't) throw trash in the street.",
+      "answer": "don't",
+      "source_line": 187,
+      "models": [
+        "don't"
+      ],
+      "grading": "closed",
+      "explanation_ar": "مع I النفي بيبقى don't. المطلوب نصحح doesn't لـ don't.",
+      "explanation_en": "With I the negative is don't. We need to correct doesn't to don't."
+    },
+    {
+      "id": 56,
+      "type": "CORRECT",
+      "prompt": "She (keep) the street clean.",
+      "answer": "keeps",
+      "source_line": 188,
+      "models": [
+        "keeps"
+      ],
+      "grading": "closed",
+      "explanation_ar": "She مفرد، فالفعل keep بياخد s: keeps.",
+      "explanation_en": "She is singular, so the verb keep takes s: keeps."
+    },
+    {
+      "id": 57,
+      "type": "CORRECT",
+      "prompt": "(Does) they go to the festival?",
+      "answer": "Do",
+      "source_line": 189,
+      "models": [
+        "Do"
+      ],
+      "grading": "closed",
+      "explanation_ar": "السؤال مع they بيبدأ بـ Do. المطلوب نصحح Does لـ Do.",
+      "explanation_en": "A question with they starts with Do. We need to correct Does to Do."
+    },
+    {
+      "id": 58,
+      "type": "PUNCT",
+      "prompt": "we live in a small village",
+      "answer": "We live in a small village.",
+      "source_line": 192,
+      "models": [
+        "We live in a small village."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: We live in a small village. بنبدأ بحرف كبير (We) وننهي بالنقطة (.) لأنها جملة عادية.",
+      "explanation_en": "The correct sentence: We live in a small village. We start with a capital letter (We) and end with a full stop (.) because it is a regular sentence."
+    },
+    {
+      "id": 59,
+      "type": "PUNCT",
+      "prompt": "do you help your neighbors",
+      "answer": "Do you help your neighbors?",
+      "source_line": 193,
+      "models": [
+        "Do you help your neighbors?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Do you help your neighbors? بنبدأ بحرف كبير (Do) وننهي بعلامة الاستفهام (?) لأنها سؤال.",
+      "explanation_en": "The correct sentence: Do you help your neighbors? We start with a capital letter (Do) and end with a question mark (?) because it is a question."
+    },
+    {
+      "id": 60,
+      "type": "PUNCT",
+      "prompt": "nubia is famous for colorful houses",
+      "answer": "Nubia is famous for colorful houses.",
+      "source_line": 194,
+      "models": [
+        "Nubia is famous for colorful houses."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Nubia is famous for colorful houses. بنبدأ بحرف كبير (Nubia) وننهي بالنقطة (.) لأنها جملة عادية.",
+      "explanation_en": "The correct sentence: Nubia is famous for colorful houses. We start with a capital letter (Nubia) and end with a full stop (.) because it is a regular sentence."
+    },
+    {
+      "id": 61,
+      "type": "PUNCT",
+      "prompt": "he doesn't like litter",
+      "answer": "He doesn't like litter.",
+      "source_line": 195,
+      "models": [
+        "He doesn't like litter."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: He doesn't like litter. بنبدأ بحرف كبير (He) وننهي بالنقطة (.) لأنها جملة عادية.",
+      "explanation_en": "The correct sentence: He doesn't like litter. We start with a capital letter (He) and end with a full stop (.) because it is a regular sentence."
+    },
+    {
+      "id": 62,
+      "type": "PUNCT",
+      "prompt": "my town has a festival every year",
+      "answer": "My town has a festival every year.",
+      "source_line": 196,
+      "models": [
+        "My town has a festival every year."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: My town has a festival every year. بنبدأ بحرف كبير (My) وننهي بالنقطة (.) لأنها جملة عادية.",
+      "explanation_en": "The correct sentence: My town has a festival every year. We start with a capital letter (My) and end with a full stop (.) because it is a regular sentence."
+    },
+    {
+      "id": 63,
+      "type": "PUNCT",
+      "prompt": "does she feed the cats",
+      "answer": "Does she feed the cats?",
+      "source_line": 197,
+      "models": [
+        "Does she feed the cats?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Does she feed the cats? بنبدأ بحرف كبير (Does) وننهي بعلامة الاستفهام (?) لأنها سؤال.",
+      "explanation_en": "The correct sentence: Does she feed the cats? We start with a capital letter (Does) and end with a question mark (?) because it is a question."
+    },
+    {
+      "id": 64,
+      "type": "READ",
+      "prompt": "Malak lives in ___.",
+      "answer": "b",
+      "source_line": 201,
+      "passage": "Malak lives in a small town in Upper Egypt. Her community is very kind and helpful. Every Friday, Malak and her friends collect plastic bottles from the streets. They put them in the trash bins. Her father is a farmer. He grows sugarcane and sells it at the harvest festival. Tourists come to the festival every year. They like the town's culture and history, and they buy nice gifts. Malak loves her neighborhood.",
+      "options": [
+        "Cairo",
+        "a small town in Upper Egypt",
+        "Nubia",
+        "Alexandria"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: Malak lives in a small town in Upper Egypt. يعني بتعيش في بلد صغيرة في الصعيد.",
+      "explanation_en": "The passage says: Malak lives in a small town in Upper Egypt. So she lives in a small town in Upper Egypt."
+    },
+    {
+      "id": 65,
+      "type": "READ",
+      "prompt": "Malak collects ___ on Fridays.",
+      "answer": "a",
+      "source_line": 202,
+      "passage": "Malak lives in a small town in Upper Egypt. Her community is very kind and helpful. Every Friday, Malak and her friends collect plastic bottles from the streets. They put them in the trash bins. Her father is a farmer. He grows sugarcane and sells it at the harvest festival. Tourists come to the festival every year. They like the town's culture and history, and they buy nice gifts. Malak loves her neighborhood.",
+      "options": [
+        "bottles",
+        "cans",
+        "paper",
+        "books"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: Malak and her friends collect plastic bottles. يعني بتجمع زجاجات (bottles).",
+      "explanation_en": "The passage says: Malak and her friends collect plastic bottles. So she collects bottles (bottles)."
+    },
+    {
+      "id": 66,
+      "type": "READ",
+      "prompt": "What does Malak's father grow?",
+      "answer": "Sugarcane.",
+      "source_line": 203,
+      "models": [
+        "Sugarcane."
+      ],
+      "passage": "Malak lives in a small town in Upper Egypt. Her community is very kind and helpful. Every Friday, Malak and her friends collect plastic bottles from the streets. They put them in the trash bins. Her father is a farmer. He grows sugarcane and sells it at the harvest festival. Tourists come to the festival every year. They like the town's culture and history, and they buy nice gifts. Malak loves her neighborhood.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: He grows sugarcane. يعني الأب بيزرع قصب: Sugarcane.",
+      "explanation_en": "The passage says: He grows sugarcane. So the father grows sugarcane: Sugarcane."
+    },
+    {
+      "id": 67,
+      "type": "READ",
+      "prompt": "Where do they put the bottles?",
+      "answer": "In the trash bins.",
+      "source_line": 204,
+      "models": [
+        "In the trash bins."
+      ],
+      "passage": "Malak lives in a small town in Upper Egypt. Her community is very kind and helpful. Every Friday, Malak and her friends collect plastic bottles from the streets. They put them in the trash bins. Her father is a farmer. He grows sugarcane and sells it at the harvest festival. Tourists come to the festival every year. They like the town's culture and history, and they buy nice gifts. Malak loves her neighborhood.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: They put them in the trash bins. يعني بيرموهم في سلة الزبالة: In the trash bins.",
+      "explanation_en": "The passage says: They put them in the trash bins. So they throw them in the trash bins: In the trash bins."
+    },
+    {
+      "id": 68,
+      "type": "READ",
+      "prompt": "Why do tourists come to the town?",
+      "answer": "For the harvest festival. / They like its culture and history.",
+      "source_line": 205,
+      "models": [
+        "For the harvest festival. / They like its culture and history."
+      ],
+      "passage": "Malak lives in a small town in Upper Egypt. Her community is very kind and helpful. Every Friday, Malak and her friends collect plastic bottles from the streets. They put them in the trash bins. Her father is a farmer. He grows sugarcane and sells it at the harvest festival. Tourists come to the festival every year. They like the town's culture and history, and they buy nice gifts. Malak loves her neighborhood.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: Tourists come to the festival every year. They like the town's culture and history. يعني بييجوا للمهرجان وبيحبوا الثقافة والتاريخ. الإجابتين مقبولتين.",
+      "explanation_en": "The passage says: Tourists come to the festival every year. They like the town's culture and history. So they come to the festival and like the culture and history. Both answers are accepted."
+    },
+    {
+      "id": 69,
+      "type": "REORDER",
+      "prompt": "live – I – community. – in – a – kind",
+      "answer": "I live in a kind community.",
+      "source_line": 208,
+      "models": [
+        "I live in a kind community."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: I live in a kind community. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: I live in a kind community. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 70,
+      "type": "REORDER",
+      "prompt": "don't – We – street. – litter – the – in",
+      "answer": "We don't litter in the street.",
+      "source_line": 209,
+      "models": [
+        "We don't litter in the street."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: We don't litter in the street. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: We don't litter in the street. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 71,
+      "type": "REORDER",
+      "prompt": "feed – you – the – Do – birds?",
+      "answer": "Do you feed the birds?",
+      "source_line": 210,
+      "models": [
+        "Do you feed the birds?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Do you feed the birds? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: Do you feed the birds? الكلمة الأولى بحرف كبير، وننهي بعلامة الاستفهام (?) لأنه سؤال. رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 72,
+      "type": "REORDER",
+      "prompt": "help – Volunteers – people. – poor",
+      "answer": "Volunteers help poor people.",
+      "source_line": 211,
+      "models": [
+        "Volunteers help poor people."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Volunteers help poor people. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: Volunteers help poor people. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 73,
+      "type": "REORDER",
+      "prompt": "collect – We – Friday. – bottles – every",
+      "answer": "We collect bottles every Friday.",
+      "source_line": 212,
+      "models": [
+        "We collect bottles every Friday."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: We collect bottles every Friday. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: We collect bottles every Friday. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 74,
+      "type": "REORDER",
+      "prompt": "doesn't – litter. – He – like",
+      "answer": "He doesn't like litter.",
+      "source_line": 213,
+      "models": [
+        "He doesn't like litter."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: He doesn't like litter. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: He doesn't like litter. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 75,
+      "type": "REORDER",
+      "prompt": "a – There – of – is – traffic – Cairo. – in – lot",
+      "answer": "There is a lot of traffic in Cairo.",
+      "source_line": 214,
+      "models": [
+        "There is a lot of traffic in Cairo."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: There is a lot of traffic in Cairo. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: There is a lot of traffic in Cairo. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 76,
+      "type": "REORDER",
+      "prompt": "grows – father – sugarcane. – Her",
+      "answer": "Her father grows sugarcane.",
+      "source_line": 215,
+      "models": [
+        "Her father grows sugarcane."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Her father grows sugarcane. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: Her father grows sugarcane. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 77,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about your community (at least 20 words). Guiding elements: live - help - clean - neighbors.",
+      "answer": "I live in a nice community near the Nile. We help our neighbors every day. Our streets are clean and beautiful. I love my kind neighbors very much.",
+      "source_line": 218,
+      "models": [
+        "I live in a nice community near the Nile. We help our neighbors every day. Our streets are clean and beautiful. I love my kind neighbors very much."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 28,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about your community) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: live، help، clean، neighbors، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: I live in a nice community near the Nile. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة.",
+      "explanation_en": "You need to write 4 full sentences (about your community) with at least 20 words. Use the guide words: live,  help,  clean,  neighbors, each in a sentence. Each sentence starts with a capital letter and ends with a full stop. Example sentence: I live in a nice community near the Nile. The answer is a model answer and it is checked by reviewing the sentence."
+    },
+    {
+      "id": 78,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about a festival in your town (at least 20 words). Guiding elements: festival - food - music - happy.",
+      "answer": "Our town has a big festival. People eat nice food there. There is music and dancing. We are very happy.",
+      "source_line": 219,
+      "models": [
+        "Our town has a big festival. People eat nice food there. There is music and dancing. We are very happy."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 20,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about a festival in your town) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: festival، food، music، happy، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: Our town has a big festival. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة.",
+      "explanation_en": "You need to write 4 full sentences (about a festival in your town) with at least 20 words. Use the guide words: festival,  food,  music,  happy, each in a sentence. Each sentence starts with a capital letter and ends with a full stop. Example sentence: Our town has a big festival. The answer is a model answer and it is checked by reviewing the sentence."
+    },
+    {
+      "id": 79,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about keeping your neighborhood clean (at least 20 words). Guiding elements: trash bin - collect - don't - clean.",
+      "answer": "I put litter in the trash bin. We collect cans for recycling. We don't throw trash in the street. Our neighborhood is clean.",
+      "source_line": 220,
+      "models": [
+        "I put litter in the trash bin. We collect cans for recycling. We don't throw trash in the street. Our neighborhood is clean."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 23,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about keeping your neighborhood clean) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: trash bin، collect، don't، clean، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: I put litter in the trash bin. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة.",
+      "explanation_en": "You need to write 4 full sentences (about keeping your neighborhood clean) with at least 20 words. Use the guide words: trash bin,  collect,  don't,  clean, each in a sentence. Each sentence starts with a capital letter and ends with a full stop. Example sentence: I put litter in the trash bin. The answer is a model answer and it is checked by reviewing the sentence."
+    },
+    {
+      "id": 80,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about Nubia (at least 20 words). Guiding elements: Nubia - houses - people - culture.",
+      "answer": "Nubia is in the south of Egypt. Nubian houses are colorful. Nubian people are kind. Nubia has a rich culture.",
+      "source_line": 221,
+      "models": [
+        "Nubia is in the south of Egypt. Nubian houses are colorful. Nubian people are kind. Nubia has a rich culture."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 20,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about Nubia) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: Nubia، houses، people، culture، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: Nubia is in the south of Egypt. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة.",
+      "explanation_en": "You need to write 4 full sentences (about Nubia) with at least 20 words. Use the guide words: Nubia,  houses,  people,  culture, each in a sentence. Each sentence starts with a capital letter and ends with a full stop. Example sentence: Nubia is in the south of Egypt. The answer is a model answer and it is checked by reviewing the sentence."
+    }
+  ],
+  "passage_words": 73,
+  "version": "a098ff2b3cb2"
+}

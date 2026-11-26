@@ -1,0 +1,1553 @@
+{
+ "grade": "sa-g6",
+ "gradeName": "الصف سادس الابتدائي — المنهج السعودي (Top Goal 3)",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Living Things",
+   "pages": [
+    10,
+    21
+   ],
+   "lessons": [],
+   "vocab": [
+    "beetle",
+    "butterfly",
+    "creature",
+    "dinosaur",
+    "extinct",
+    "furry",
+    "insect",
+    "tortoise",
+    "wing",
+    "nest",
+    "pond",
+    "desert",
+    "eagle",
+    "octopus"
+   ],
+   "sentences": [
+    "Insects are eaten by birds.",
+    "The nest is built in a tree.",
+    "The desert is where camels live.",
+    "A nest is where birds lay eggs.",
+    "Butterflies have wings.",
+    "Dinosaurs are extinct.",
+    "The animals are looked after."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "eeetbl",
+       "answer": [
+        "beetle"
+       ],
+       "hint": "خنفساء"
+      },
+      {
+       "type": "unscramble",
+       "letters": "fltteryub",
+       "answer": [
+        "butterfly"
+       ],
+       "hint": "فراشة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ratrcuee",
+       "answer": [
+        "creature"
+       ],
+       "hint": "كائن حي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rsndoiua",
+       "answer": [
+        "dinosaur"
+       ],
+       "hint": "ديناصور"
+      },
+      {
+       "type": "unscramble",
+       "letters": "itcnext",
+       "answer": [
+        "extinct"
+       ],
+       "hint": "منقرض"
+      },
+      {
+       "type": "unscramble",
+       "letters": "fruyr",
+       "answer": [
+        "furry"
+       ],
+       "hint": "مغطى بالفرو"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: أخطبوط",
+       "options": [
+        "octopus",
+        "creature",
+        "furry"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: منقرض",
+       "options": [
+        "extinct",
+        "beetle",
+        "pond"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: كائن حي",
+       "options": [
+        "wing",
+        "creature",
+        "insect"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: نسر",
+       "options": [
+        "eagle",
+        "nest",
+        "octopus"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "birds.",
+        "by",
+        "are",
+        "Insects",
+        "eaten"
+       ],
+       "answer": [
+        "Insects",
+        "are",
+        "eaten",
+        "by",
+        "birds."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "is",
+        "The",
+        "in",
+        "nest",
+        "built",
+        "tree."
+       ],
+       "answer": [
+        "The",
+        "nest",
+        "is",
+        "built",
+        "in",
+        "a",
+        "tree."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "desert",
+        "camels",
+        "live.",
+        "where",
+        "The",
+        "is"
+       ],
+       "answer": [
+        "The",
+        "desert",
+        "is",
+        "where",
+        "camels",
+        "live."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "nest",
+        "A",
+        "where",
+        "birds",
+        "lay",
+        "eggs."
+       ],
+       "answer": [
+        "A",
+        "nest",
+        "is",
+        "where",
+        "birds",
+        "lay",
+        "eggs."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: العش هو المكان الذي تضع فيه الطيور البيض.",
+       "options": [
+        "The animals are looked after.",
+        "Dinosaurs are extinct.",
+        "A nest is where birds lay eggs."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: يُبنى العش في شجرة.",
+       "options": [
+        "The desert is where camels live.",
+        "The nest is built in a tree.",
+        "Insects are eaten by birds."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: الفراشات لها أجنحة.",
+       "options": [
+        "Butterflies have wings.",
+        "The nest is built in a tree.",
+        "Insects are eaten by birds."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: الديناصورات منقرضة.",
+       "options": [
+        "A nest is where birds lay eggs.",
+        "Dinosaurs are extinct.",
+        "Butterflies have wings."
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اقرأ بعناية واختار الصيغة الصحيحة",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Insects ___ eaten by birds.",
+       "options": [
+        "is",
+        "do",
+        "are"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "The nest ___ built in a tree.",
+       "options": [
+        "does",
+        "are",
+        "is"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "The past participle of eat is ___.",
+       "options": [
+        "eaten",
+        "ate",
+        "eating"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "The animals are looked ___ by the keeper.",
+       "options": [
+        "for",
+        "after",
+        "at"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "The desert is ___ camels live.",
+       "options": [
+        "when",
+        "who",
+        "where"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "A nest is where birds ___ eggs.",
+       "options": [
+        "lay",
+        "laying",
+        "lays"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "The nests are ___ in trees.",
+       "options": [
+        "build",
+        "built",
+        "building"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "Birds build nests. In the passive: Nests ___ by birds.",
+       "options": [
+        "are building",
+        "build",
+        "are built"
+       ],
+       "answer": 2
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "المبني للمجهول في الحاضر",
+     "text": "نستخدمه عندما نهتم بالشيء الذي يقع عليه الفعل. التركيب: am أو is أو are ثم التصريف الثالث. Insects are eaten by birds تعني تؤكل الحشرات بواسطة الطيور."
+    },
+    {
+     "title": "اختيار is أو are",
+     "text": "نختار فعل be حسب الشيء الذي نتحدث عنه: The nest is built للمفرد، وThe nests are built للجمع. eaten وbuilt تصريف ثالث لأفعال eat وbuild."
+    },
+    {
+     "title": "ذكر من قام بالفعل",
+     "text": "يمكن إضافة by ثم الفاعل الحقيقي، ويمكن حذفه إن كان غير مهم أو غير معروف. The nest is built in a tree جملة صحيحة دون ذكر من بناه."
+    },
+    {
+     "title": "وصف المكان بـ where",
+     "text": "نستخدم where لربط مكان بما يحدث فيه: A nest is where birds lay eggs. وThe desert is where camels live. where هنا بمعنى المكان الذي، وليست سؤالًا."
+    }
+   ],
+   "meanings": {
+    "beetle": "خنفساء",
+    "butterfly": "فراشة",
+    "creature": "كائن حي",
+    "dinosaur": "ديناصور",
+    "extinct": "منقرض",
+    "furry": "مغطى بالفرو",
+    "insect": "حشرة",
+    "tortoise": "سلحفاة برية",
+    "wing": "جناح",
+    "nest": "عش",
+    "pond": "بركة ماء",
+    "desert": "صحراء",
+    "eagle": "نسر",
+    "octopus": "أخطبوط"
+   },
+   "sentenceMeanings": {
+    "Insects are eaten by birds.": "تؤكل الحشرات بواسطة الطيور.",
+    "The nest is built in a tree.": "يُبنى العش في شجرة.",
+    "The desert is where camels live.": "الصحراء هي المكان الذي تعيش فيه الجمال.",
+    "A nest is where birds lay eggs.": "العش هو المكان الذي تضع فيه الطيور البيض.",
+    "Butterflies have wings.": "الفراشات لها أجنحة.",
+    "Dinosaurs are extinct.": "الديناصورات منقرضة.",
+    "The animals are looked after.": "تُعتنى بالحيوانات."
+   }
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "Lifestyles",
+   "pages": [
+    22,
+    33
+   ],
+   "lessons": [],
+   "vocab": [
+    "bandage",
+    "elbow",
+    "finger",
+    "knee",
+    "medicine",
+    "pharmacy",
+    "soap",
+    "toe",
+    "bread",
+    "cereal",
+    "salt",
+    "strawberry",
+    "spoon",
+    "fork"
+   ],
+   "sentences": [
+    "If we rest well, we feel better.",
+    "If it rains tomorrow, I will stay home.",
+    "I have a few strawberries.",
+    "There is a little milk.",
+    "She put a bandage on her finger.",
+    "We wash our hands with soap.",
+    "I will call you if I need help."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "agdbnea",
+       "answer": [
+        "bandage"
+       ],
+       "hint": "ضمادة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "owleb",
+       "answer": [
+        "elbow"
+       ],
+       "hint": "مرفق"
+      },
+      {
+       "type": "unscramble",
+       "letters": "gefrin",
+       "answer": [
+        "finger"
+       ],
+       "hint": "إصبع اليد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "keen",
+       "answer": [
+        "knee"
+       ],
+       "hint": "ركبة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "mendicei",
+       "answer": [
+        "medicine"
+       ],
+       "hint": "دواء"
+      },
+      {
+       "type": "unscramble",
+       "letters": "yacparhm",
+       "answer": [
+        "pharmacy"
+       ],
+       "hint": "صيدلية"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: حبوب إفطار",
+       "options": [
+        "knee",
+        "salt",
+        "cereal"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: ملح",
+       "options": [
+        "finger",
+        "elbow",
+        "salt"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: شوكة",
+       "options": [
+        "soap",
+        "fork",
+        "toe"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: مرفق",
+       "options": [
+        "elbow",
+        "salt",
+        "knee"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "rest",
+        "we",
+        "feel",
+        "If",
+        "we",
+        "well,",
+        "better."
+       ],
+       "answer": [
+        "If",
+        "we",
+        "rest",
+        "well,",
+        "we",
+        "feel",
+        "better."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "have",
+        "strawberries.",
+        "I",
+        "a",
+        "few"
+       ],
+       "answer": [
+        "I",
+        "have",
+        "a",
+        "few",
+        "strawberries."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "milk.",
+        "There",
+        "little",
+        "is"
+       ],
+       "answer": [
+        "There",
+        "is",
+        "a",
+        "little",
+        "milk."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "on",
+        "bandage",
+        "her",
+        "put",
+        "a",
+        "She",
+        "finger."
+       ],
+       "answer": [
+        "She",
+        "put",
+        "a",
+        "bandage",
+        "on",
+        "her",
+        "finger."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: إذا أمطرت غدًا، فسأبقى بالمنزل.",
+       "options": [
+        "I will call you if I need help.",
+        "If it rains tomorrow, I will stay home.",
+        "I have a few strawberries."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: لدي بضع حبات من الفراولة.",
+       "options": [
+        "I will call you if I need help.",
+        "I have a few strawberries.",
+        "If we rest well, we feel better."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: وضعت ضمادة على إصبعها.",
+       "options": [
+        "She put a bandage on her finger.",
+        "We wash our hands with soap.",
+        "I will call you if I need help."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: سأتصل بك إذا احتجت مساعدة.",
+       "options": [
+        "I will call you if I need help.",
+        "She put a bandage on her finger.",
+        "I have a few strawberries."
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اقرأ بعناية واختار الصيغة الصحيحة",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "If it rains tomorrow, I ___ at home.",
+       "options": [
+        "staying",
+        "will stay",
+        "stayed"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "If we ___ well, we feel better.",
+       "options": [
+        "rest",
+        "rested",
+        "will rest"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "I have a ___ strawberries.",
+       "options": [
+        "few",
+        "much",
+        "little"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "There is a ___ milk.",
+       "options": [
+        "many",
+        "little",
+        "few"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "Add a little ___.",
+       "options": [
+        "eggs",
+        "salt",
+        "strawberries"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "She has a few ___.",
+       "options": [
+        "eggs",
+        "milk",
+        "bread"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "I will call you if I ___ help.",
+       "options": [
+        "need",
+        "will need",
+        "needed"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "We wash our hands with ___.",
+       "options": [
+        "an elbow",
+        "a fork",
+        "soap"
+       ],
+       "answer": 2
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "الشرط الصفري",
+     "text": "نستخدم if ثم المضارع البسيط، ومعه المضارع البسيط للنتيجة المتكررة أو العامة: If we rest well, we feel better. الفكرة هنا عادة أو حقيقة عامة."
+    },
+    {
+     "title": "الشرط الأول",
+     "text": "نستخدم if ثم المضارع البسيط، وفي النتيجة will ثم الفعل الأصلي لاحتمال مستقبلي: If it rains tomorrow, I will stay home. لا نضع will في جزء if في هذا النمط."
+    },
+    {
+     "title": "a few مع المعدود",
+     "text": "نستخدم a few بمعنى بضع مع الاسم المعدود الجمع: a few strawberries وa few eggs. يمكن عد كل حبة أو بيضة وحدها."
+    },
+    {
+     "title": "a little مع غير المعدود",
+     "text": "نستخدم a little مع غير المعدود مثل milk وsalt وbread: a little milk. إذا أردنا عد الخبز نستخدم وحدة مثل a slice of bread. الأمثلة هنا لتعلم اللغة، وليست تعليمات علاجية."
+    }
+   ],
+   "meanings": {
+    "bandage": "ضمادة",
+    "elbow": "مرفق",
+    "finger": "إصبع اليد",
+    "knee": "ركبة",
+    "medicine": "دواء",
+    "pharmacy": "صيدلية",
+    "soap": "صابون",
+    "toe": "إصبع القدم",
+    "bread": "خبز",
+    "cereal": "حبوب إفطار",
+    "salt": "ملح",
+    "strawberry": "فراولة",
+    "spoon": "ملعقة",
+    "fork": "شوكة"
+   },
+   "sentenceMeanings": {
+    "If we rest well, we feel better.": "إذا استرحنا جيدًا، نشعر بتحسن.",
+    "If it rains tomorrow, I will stay home.": "إذا أمطرت غدًا، فسأبقى بالمنزل.",
+    "I have a few strawberries.": "لدي بضع حبات من الفراولة.",
+    "There is a little milk.": "يوجد قليل من الحليب.",
+    "She put a bandage on her finger.": "وضعت ضمادة على إصبعها.",
+    "We wash our hands with soap.": "نحن نغسل أيدينا بالصابون.",
+    "I will call you if I need help.": "سأتصل بك إذا احتجت مساعدة."
+   }
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "Interests",
+   "pages": [
+    34,
+    45
+   ],
+   "lessons": [],
+   "vocab": [
+    "concert",
+    "drum",
+    "festival",
+    "instrument",
+    "invitation",
+    "member",
+    "oud",
+    "prize",
+    "violin",
+    "chess",
+    "experiment",
+    "poetry",
+    "stamp",
+    "puzzle"
+   ],
+   "sentences": [
+    "I have played chess for two years.",
+    "She has taken lessons since March.",
+    "How long have you played the drums?",
+    "We have collected stamps for a year.",
+    "I have just finished my puzzle.",
+    "I visited the festival yesterday.",
+    "Have you joined the club?"
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "trccneo",
+       "answer": [
+        "concert"
+       ],
+       "hint": "حفل موسيقي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "umrd",
+       "answer": [
+        "drum"
+       ],
+       "hint": "طبل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ivltsaef",
+       "answer": [
+        "festival"
+       ],
+       "hint": "مهرجان"
+      },
+      {
+       "type": "unscramble",
+       "letters": "mmebre",
+       "answer": [
+        "member"
+       ],
+       "hint": "عضو"
+      },
+      {
+       "type": "unscramble",
+       "letters": "udo",
+       "answer": [
+        "oud"
+       ],
+       "hint": "عود"
+      },
+      {
+       "type": "unscramble",
+       "letters": "riepz",
+       "answer": [
+        "prize"
+       ],
+       "hint": "جائزة"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: طابع بريد",
+       "options": [
+        "member",
+        "stamp",
+        "instrument"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: عود",
+       "options": [
+        "drum",
+        "oud",
+        "festival"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: آلة موسيقية",
+       "options": [
+        "instrument",
+        "concert",
+        "violin"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: عضو",
+       "options": [
+        "member",
+        "instrument",
+        "festival"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "chess",
+        "have",
+        "years.",
+        "I",
+        "played",
+        "for",
+        "two"
+       ],
+       "answer": [
+        "I",
+        "have",
+        "played",
+        "chess",
+        "for",
+        "two",
+        "years."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "She",
+        "lessons",
+        "taken",
+        "has",
+        "since",
+        "March."
+       ],
+       "answer": [
+        "She",
+        "has",
+        "taken",
+        "lessons",
+        "since",
+        "March."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "drums?",
+        "you",
+        "the",
+        "played",
+        "have",
+        "long",
+        "How"
+       ],
+       "answer": [
+        "How",
+        "long",
+        "have",
+        "you",
+        "played",
+        "the",
+        "drums?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "have",
+        "We",
+        "for",
+        "year.",
+        "stamps",
+        "a",
+        "collected"
+       ],
+       "answer": [
+        "We",
+        "have",
+        "collected",
+        "stamps",
+        "for",
+        "a",
+        "year."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: زرت المهرجان أمس.",
+       "options": [
+        "We have collected stamps for a year.",
+        "I visited the festival yesterday.",
+        "How long have you played the drums?"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: لقد انتهيت للتو من اللغز.",
+       "options": [
+        "I have just finished my puzzle.",
+        "I visited the festival yesterday.",
+        "I have played chess for two years."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا ألعب الشطرنج منذ عامين.",
+       "options": [
+        "She has taken lessons since March.",
+        "We have collected stamps for a year.",
+        "I have played chess for two years."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هل انضممت إلى النادي؟",
+       "options": [
+        "How long have you played the drums?",
+        "Have you joined the club?",
+        "She has taken lessons since March."
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اقرأ بعناية واختار الصيغة الصحيحة",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "She ___ taken lessons since March.",
+       "options": [
+        "is",
+        "have",
+        "has"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "I have played chess ___ two years.",
+       "options": [
+        "at",
+        "for",
+        "since"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "He has collected stamps ___ 2024.",
+       "options": [
+        "for",
+        "since",
+        "during"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "How long ___ you played the drums?",
+       "options": [
+        "has",
+        "have",
+        "did"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "I visited the festival ___.",
+       "options": [
+        "for two years now",
+        "yesterday",
+        "since March"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "The past participle of take is ___.",
+       "options": [
+        "taken",
+        "took",
+        "taking"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "Have you ___ the club?",
+       "options": [
+        "join",
+        "joined",
+        "joining"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "They ___ collected stamps for a year.",
+       "options": [
+        "are",
+        "have",
+        "has"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "المضارع التام",
+     "text": "يتكون من have أو has ثم التصريف الثالث. نستخدم have مع I وyou وwe وthey، وhas مع he وshe وit. مثل I have played وShe has taken."
+    },
+    {
+     "title": "since وfor",
+     "text": "for بعدها مدة مثل for two years، وsince بعدها نقطة بداية مثل since March أو since 2024. مثال: She has taken lessons since March."
+    },
+    {
+     "title": "السؤال عن المدة",
+     "text": "How long have you played the drums? يسأل عن مدة مستمرة حتى الآن. نضع have أو has قبل الفاعل ثم التصريف الثالث، وليس الفعل الماضي بعد did."
+    },
+    {
+     "title": "التام والماضي وjust",
+     "text": "الماضي البسيط يأتي مع وقت ماضٍ محدد ومنتهٍ مثل yesterday: I visited the festival yesterday. للتو مع صلة بالحاضر يمكن استخدام I have just finished. وتظهر just مع الماضي البسيط أيضًا بحسب السياق والاستعمال؛ لا نعد الصيغة الأخرى خطأ لمجرد وجود just."
+    }
+   ],
+   "meanings": {
+    "concert": "حفل موسيقي",
+    "drum": "طبل",
+    "festival": "مهرجان",
+    "instrument": "آلة موسيقية",
+    "invitation": "دعوة",
+    "member": "عضو",
+    "oud": "عود",
+    "prize": "جائزة",
+    "violin": "كمان",
+    "chess": "شطرنج",
+    "experiment": "تجربة",
+    "poetry": "شعر",
+    "stamp": "طابع بريد",
+    "puzzle": "لغز"
+   },
+   "sentenceMeanings": {
+    "I have played chess for two years.": "أنا ألعب الشطرنج منذ عامين.",
+    "She has taken lessons since March.": "هي تتلقى دروسًا منذ مارس.",
+    "How long have you played the drums?": "منذ متى وأنت تعزف الطبول؟",
+    "We have collected stamps for a year.": "نحن نجمع الطوابع منذ عام.",
+    "I have just finished my puzzle.": "لقد انتهيت للتو من اللغز.",
+    "I visited the festival yesterday.": "زرت المهرجان أمس.",
+    "Have you joined the club?": "هل انضممت إلى النادي؟"
+   }
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Professions",
+   "pages": [
+    46,
+    57
+   ],
+   "lessons": [],
+   "vocab": [
+    "astronaut",
+    "AI specialist",
+    "cybersecurity analyst",
+    "robotics engineer",
+    "rocket",
+    "satellite",
+    "planet",
+    "ambulance",
+    "firefighter",
+    "police officer",
+    "fire station",
+    "video message"
+   ],
+   "sentences": [
+    "They were traveling when we called.",
+    "She was recording a video.",
+    "The firefighter who helped us was kind.",
+    "The rocket that we saw was large.",
+    "An astronaut works in space.",
+    "We were watching when the rocket launched.",
+    "This is the satellite which they designed."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "atotasurn",
+       "answer": [
+        "astronaut"
+       ],
+       "hint": "رائد فضاء"
+      },
+      {
+       "type": "unscramble",
+       "letters": "kteroc",
+       "answer": [
+        "rocket"
+       ],
+       "hint": "صاروخ"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ltsieealt",
+       "answer": [
+        "satellite"
+       ],
+       "hint": "قمر صناعي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "peltna",
+       "answer": [
+        "planet"
+       ],
+       "hint": "كوكب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ucnelabam",
+       "answer": [
+        "ambulance"
+       ],
+       "hint": "سيارة إسعاف"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: محطة إطفاء",
+       "options": [
+        "fire station",
+        "satellite",
+        "astronaut"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: سيارة إسعاف",
+       "options": [
+        "video message",
+        "ambulance",
+        "firefighter"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: رائد فضاء",
+       "options": [
+        "fire station",
+        "astronaut",
+        "rocket"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: قمر صناعي",
+       "options": [
+        "satellite",
+        "fire station",
+        "video message"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "we",
+        "when",
+        "were",
+        "called.",
+        "traveling",
+        "They"
+       ],
+       "answer": [
+        "They",
+        "were",
+        "traveling",
+        "when",
+        "we",
+        "called."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "was",
+        "recording",
+        "video.",
+        "She",
+        "a"
+       ],
+       "answer": [
+        "She",
+        "was",
+        "recording",
+        "a",
+        "video."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "firefighter",
+        "who",
+        "was",
+        "The",
+        "helped",
+        "us",
+        "kind."
+       ],
+       "answer": [
+        "The",
+        "firefighter",
+        "who",
+        "helped",
+        "us",
+        "was",
+        "kind."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "The",
+        "was",
+        "we",
+        "large.",
+        "saw",
+        "rocket",
+        "that"
+       ],
+       "answer": [
+        "The",
+        "rocket",
+        "that",
+        "we",
+        "saw",
+        "was",
+        "large."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: رجل الإطفاء الذي ساعدنا كان طيبًا.",
+       "options": [
+        "The firefighter who helped us was kind.",
+        "She was recording a video.",
+        "This is the satellite which they designed."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هذا هو القمر الصناعي الذي صمموه.",
+       "options": [
+        "The firefighter who helped us was kind.",
+        "She was recording a video.",
+        "This is the satellite which they designed."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: كانوا يسافرون عندما اتصلنا.",
+       "options": [
+        "This is the satellite which they designed.",
+        "They were traveling when we called.",
+        "She was recording a video."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: كانت تسجل فيديو.",
+       "options": [
+        "The rocket that we saw was large.",
+        "The firefighter who helped us was kind.",
+        "She was recording a video."
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اقرأ بعناية واختار الصيغة الصحيحة",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "They ___ traveling when we called.",
+       "options": [
+        "was",
+        "are",
+        "were"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "She was ___ a video.",
+       "options": [
+        "recording",
+        "record",
+        "recorded"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "I ___ watching when the rocket launched.",
+       "options": [
+        "was",
+        "were",
+        "am"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "The firefighter ___ helped us was kind.",
+       "options": [
+        "who",
+        "which",
+        "where"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "This is the satellite ___ they designed.",
+       "options": [
+        "which",
+        "where",
+        "who"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "They were traveling when we ___.",
+       "options": [
+        "calling",
+        "called",
+        "call"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "An ___ works in space.",
+       "options": [
+        "airport",
+        "ambulance",
+        "astronaut"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "The rocket ___ we saw was large.",
+       "options": [
+        "that",
+        "where",
+        "who"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "الماضي المستمر",
+     "text": "نستخدم was أو were ثم فعل ing لحدث كان مستمرًا في وقت ماضٍ. مع I وhe وshe وit نستخدم was، ومع you وwe وthey نستخدم were."
+    },
+    {
+     "title": "حدث طويل وحدث قصير",
+     "text": "يمكن أن يقطع الماضي البسيط حدثًا مستمرًا: They were traveling when we called. السفر كان جاريًا، والاتصال حدث في أثنائه. نستخدم السياق، لا نحفظ when وحدها كقاعدة آلية."
+    },
+    {
+     "title": "جملة تحدد الشخص",
+     "text": "نستخدم who مع الأشخاص: The firefighter who helped us was kind. الجزء الذي يبدأ بـ who يحدد أي رجل إطفاء نقصده."
+    },
+    {
+     "title": "جملة تحدد الشيء",
+     "text": "نستخدم which للأشياء، ويمكن استخدام that مع الأشخاص أو الأشياء في الجمل المحددة. مثل The rocket that we saw was large. لا نستخدم who للصاروخ."
+    }
+   ],
+   "meanings": {
+    "astronaut": "رائد فضاء",
+    "AI specialist": "متخصص ذكاء اصطناعي",
+    "cybersecurity analyst": "محلل أمن سيبراني",
+    "robotics engineer": "مهندس روبوتات",
+    "rocket": "صاروخ",
+    "satellite": "قمر صناعي",
+    "planet": "كوكب",
+    "ambulance": "سيارة إسعاف",
+    "firefighter": "رجل إطفاء",
+    "police officer": "ضابط شرطة",
+    "fire station": "محطة إطفاء",
+    "video message": "رسالة مصورة"
+   },
+   "sentenceMeanings": {
+    "They were traveling when we called.": "كانوا يسافرون عندما اتصلنا.",
+    "She was recording a video.": "كانت تسجل فيديو.",
+    "The firefighter who helped us was kind.": "رجل الإطفاء الذي ساعدنا كان طيبًا.",
+    "The rocket that we saw was large.": "الصاروخ الذي رأيناه كان كبيرًا.",
+    "An astronaut works in space.": "رائد الفضاء يعمل في الفضاء.",
+    "We were watching when the rocket launched.": "كنا نشاهد عندما انطلق الصاروخ.",
+    "This is the satellite which they designed.": "هذا هو القمر الصناعي الذي صمموه."
+   }
+  }
+ ],
+ "source": {
+  "url": "https://files.shawahid.sa/books/1448-GE-PE-K06-SM1-ENMG.pdf",
+  "title": "Top Goal 3, Part 1, Units 1-4",
+  "note": "Independent Shawahid mirror of publisher textbook. Original Arabic explanations and exercises."
+ }
+}

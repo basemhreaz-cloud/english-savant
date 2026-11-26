@@ -1,0 +1,969 @@
+{
+ "grade": "p6",
+ "gradeName": "الصف السادس الابتدائي",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Amazing places in Egypt",
+   "pages": [
+    7,
+    19
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "A day in Egypt"
+    },
+    {
+     "n": 2,
+     "title": "The Beauty of Ras Mohamed"
+    },
+    {
+     "n": 3,
+     "title": "Around Egypt"
+    },
+    {
+     "n": 4,
+     "title": "A Day in My School"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: Making a Poster About Daily Life in a Governorate"
+    }
+   ],
+   "vocab": [
+    "buy",
+    "souvenirs",
+    "make",
+    "furniture",
+    "play",
+    "music",
+    "walk",
+    "small",
+    "museum",
+    "visit"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Present Simple",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "/er/",
+     "cluster": "",
+     "words": [
+      "bear",
+      "stare",
+      "square",
+      "scared",
+      "wear",
+      "airport"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ucmsi",
+       "answer": [
+        "music"
+       ],
+       "hint": "موسيقى"
+      },
+      {
+       "type": "unscramble",
+       "letters": "musume",
+       "answer": [
+        "museum"
+       ],
+       "hint": "متحف"
+      },
+      {
+       "type": "unscramble",
+       "letters": "sivit",
+       "answer": [
+        "visit"
+       ],
+       "hint": "يزور"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ntfeiuurr",
+       "answer": [
+        "furniture"
+       ],
+       "hint": "أثاث"
+      },
+      {
+       "type": "unscramble",
+       "letters": "psotho",
+       "answer": [
+        "photos"
+       ],
+       "hint": "صور"
+      },
+      {
+       "type": "unscramble",
+       "letters": "apdsclnae",
+       "answer": [
+        "landscape"
+       ],
+       "hint": "منظر طبيعي"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ear",
+       "answer": [
+        "b"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_tare",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_quare",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_cared",
+       "answer": [
+        "s"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "Our Nature",
+   "pages": [
+    20,
+    35
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Caring for Plants"
+    },
+    {
+     "n": 2,
+     "title": "How's the Weather in Your City?"
+    },
+    {
+     "n": 3,
+     "title": "The Wonderful Nile River"
+    },
+    {
+     "n": 4,
+     "title": "Unforgettable Trip to Wadi El Rayan"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: My Egyptian Wildlife Snapshot"
+    }
+   ],
+   "vocab": [
+    "natural",
+    "fertilizer",
+    "weeds",
+    "hibiscus",
+    "basil",
+    "pull",
+    "water",
+    "care",
+    "grow",
+    "flavor"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Present Continuous Tense",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "/e/",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ubisicsh",
+       "answer": [
+        "hibiscus"
+       ],
+       "hint": "كركديه"
+      },
+      {
+       "type": "unscramble",
+       "letters": "esdew",
+       "answer": [
+        "weeds"
+       ],
+       "hint": "أعشاب ضارة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ecra",
+       "answer": [
+        "care"
+       ],
+       "hint": "رعاية"
+      },
+      {
+       "type": "unscramble",
+       "letters": "evrsivu",
+       "answer": [
+        "survive"
+       ],
+       "hint": "ينجو"
+      },
+      {
+       "type": "unscramble",
+       "letters": "atibaht",
+       "answer": [
+        "habitat"
+       ],
+       "hint": "موطن"
+      },
+      {
+       "type": "unscramble",
+       "letters": "pllu",
+       "answer": [
+        "pull"
+       ],
+       "hint": "يسحب"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "Community Builders",
+   "pages": [
+    36,
+    49
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Jobs that Help the Community"
+    },
+    {
+     "n": 2,
+     "title": "Let's Help our Community"
+    },
+    {
+     "n": 3,
+     "title": "The Proud Rose"
+    },
+    {
+     "n": 4,
+     "title": "A Biography of an Egyptian Hero"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: Let's Solve a Community Problem!"
+    }
+   ],
+   "vocab": [
+    "paramedic",
+    "architect",
+    "water",
+    "engineer",
+    "mechanic",
+    "tailor",
+    "delivery",
+    "worker",
+    "street",
+    "cleaner"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Modal Verbs can-can't-able to",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "two and three syllable words (syllable stress)",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "wetra",
+       "answer": [
+        "water"
+       ],
+       "hint": "ماء"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rscrehae",
+       "answer": [
+        "research"
+       ],
+       "hint": "بحث"
+      },
+      {
+       "type": "unscramble",
+       "letters": "dereyliv",
+       "answer": [
+        "delivery"
+       ],
+       "hint": "توصيل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "onoctlr",
+       "answer": [
+        "control"
+       ],
+       "hint": "تحكّم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "atnanuepls",
+       "answer": [
+        "unpleasant"
+       ],
+       "hint": "غير سار"
+      },
+      {
+       "type": "unscramble",
+       "letters": "oicffre",
+       "answer": [
+        "officer"
+       ],
+       "hint": "ضابط"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Resources Around Us",
+   "pages": [
+    54,
+    68
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Egypt: Past and Present"
+    },
+    {
+     "n": 2,
+     "title": "Let's Use Energy Wisely!"
+    },
+    {
+     "n": 3,
+     "title": "Gifts from under the Ground"
+    },
+    {
+     "n": 4,
+     "title": "Man-Made Resources"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: The High Dam"
+    }
+   ],
+   "vocab": [
+    "material",
+    "survive",
+    "ancient",
+    "decorate",
+    "wrapped",
+    "modern",
+    "solar",
+    "panels",
+    "pollute",
+    "careful"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Modal Verbs should/shouldn't must/mustn't",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "/ʊ/",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "eeptml",
+       "answer": [
+        "temple"
+       ],
+       "hint": "معبد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "skbcir",
+       "answer": [
+        "bricks"
+       ],
+       "hint": "طوب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ceodlro",
+       "answer": [
+        "colored"
+       ],
+       "hint": "ملوّن"
+      },
+      {
+       "type": "unscramble",
+       "letters": "aselpn",
+       "answer": [
+        "panels"
+       ],
+       "hint": "ألواح"
+      },
+      {
+       "type": "unscramble",
+       "letters": "caly",
+       "answer": [
+        "clay"
+       ],
+       "hint": "طين"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rahm",
+       "answer": [
+        "harm"
+       ],
+       "hint": "ضرر"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "Made in Egypt",
+   "pages": [
+    69,
+    83
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "A Trip Through Time"
+    },
+    {
+     "n": 2,
+     "title": "A Dream Comes True"
+    },
+    {
+     "n": 3,
+     "title": "The Bundle of Sticks"
+    },
+    {
+     "n": 4,
+     "title": "Egypt Goes Green"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: A Display Board about an Object in the Grand Egyptian Museum"
+    }
+   ],
+   "vocab": [
+    "passport",
+    "luggage",
+    "souvenir",
+    "brochure",
+    "travel",
+    "plan",
+    "exhibition",
+    "guided",
+    "tour",
+    "information"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Past Simple Tense",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "/d/",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ydssilap",
+       "answer": [
+        "displays"
+       ],
+       "hint": "يعرض"
+      },
+      {
+       "type": "unscramble",
+       "letters": "teinu",
+       "answer": [
+        "unite"
+       ],
+       "hint": "يتّحد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rdboa",
+       "answer": [
+        "board"
+       ],
+       "hint": "سبورة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nrftmanioio",
+       "answer": [
+        "information"
+       ],
+       "hint": "معلومات"
+      },
+      {
+       "type": "unscramble",
+       "letters": "onseivur",
+       "answer": [
+        "souvenir"
+       ],
+       "hint": "هدية تذكارية"
+      },
+      {
+       "type": "unscramble",
+       "letters": "aurgde",
+       "answer": [
+        "argued"
+       ],
+       "hint": "تجادل"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "The Water Savers",
+   "pages": [
+    85,
+    93
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Vocabulary and Characters"
+    },
+    {
+     "n": 2,
+     "title": "Story: The Water Savers"
+    },
+    {
+     "n": 3,
+     "title": "Story Exercises and Project"
+    }
+   ],
+   "vocab": [
+    "drip",
+    "overflow",
+    "puddles",
+    "leak",
+    "hallway",
+    "hose",
+    "tap",
+    "pipe"
+   ],
+   "sentences": [],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "dudslpe",
+       "answer": [
+        "puddles"
+       ],
+       "hint": "برك ماء"
+      },
+      {
+       "type": "unscramble",
+       "letters": "akel",
+       "answer": [
+        "leak"
+       ],
+       "hint": "تسريب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "apt",
+       "answer": [
+        "tap"
+       ],
+       "hint": "حنفية"
+      },
+      {
+       "type": "unscramble",
+       "letters": "laywahl",
+       "answer": [
+        "hallway"
+       ],
+       "hint": "ممر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rpid",
+       "answer": [
+        "drip"
+       ],
+       "hint": "تنقيط"
+      },
+      {
+       "type": "unscramble",
+       "letters": "owrvfole",
+       "answer": [
+        "overflow"
+       ],
+       "hint": "فيضان"
+      }
+     ]
+    },
+    {
+     "id": "story",
+     "title": "افهم فكرة القصة",
+     "sub": "اقرأ الملخص أولًا، ثم اختر الإجابة. الأسئلة من صياغتنا.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What problem do the friends notice?",
+       "options": [
+        "Wasted water",
+        "Missing books",
+        "A broken bus"
+       ],
+       "answer": 0,
+       "passage": "Three friends notice wasted water at school. Noor keeps notes, Ahmed takes photos, and Farida makes posters. Mr Youssef shows them why fixing leaks matters. More classes join the project, and the school recognises the friends for their effort."
+      },
+      {
+       "type": "mcq",
+       "q": "Who takes photos?",
+       "options": [
+        "Noor",
+        "Ahmed",
+        "Farida"
+       ],
+       "answer": 1,
+       "passage": "Three friends notice wasted water at school. Noor keeps notes, Ahmed takes photos, and Farida makes posters. Mr Youssef shows them why fixing leaks matters. More classes join the project, and the school recognises the friends for their effort."
+      },
+      {
+       "type": "mcq",
+       "q": "Who makes posters?",
+       "options": [
+        "Farida",
+        "Ahmed",
+        "Mr Youssef"
+       ],
+       "answer": 0,
+       "passage": "Three friends notice wasted water at school. Noor keeps notes, Ahmed takes photos, and Farida makes posters. Mr Youssef shows them why fixing leaks matters. More classes join the project, and the school recognises the friends for their effort."
+      },
+      {
+       "type": "mcq",
+       "q": "What does the project show?",
+       "options": [
+        "Only teachers can help.",
+        "Teamwork can make a difference.",
+        "Small leaks never matter."
+       ],
+       "answer": 1,
+       "passage": "Three friends notice wasted water at school. Noor keeps notes, Ahmed takes photos, and Farida makes posters. Mr Youssef shows them why fixing leaks matters. More classes join the project, and the school recognises the friends for their effort."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r1",
+   "num": "مراجعة الوحدات ١-٣",
+   "title": "مراجعة الوحدات ١-٣",
+   "pages": [
+    50,
+    53
+   ],
+   "review": true,
+   "vocab": [
+    "buy",
+    "souvenirs",
+    "make",
+    "furniture",
+    "natural",
+    "fertilizer",
+    "weeds",
+    "hibiscus",
+    "paramedic",
+    "architect",
+    "water",
+    "engineer"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Present Simple",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: Present Continuous Tense",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: Modal Verbs can-can't-able to",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة شاملة",
+     "sub": "أسئلة متنوعة من الوحدات",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ubisicsh",
+       "answer": [
+        "hibiscus"
+       ],
+       "hint": "كركديه"
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ear",
+       "answer": [
+        "b"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_tare",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "esdew",
+       "answer": [
+        "weeds"
+       ],
+       "hint": "أعشاب ضارة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rscrehae",
+       "answer": [
+        "research"
+       ],
+       "hint": "بحث"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ucmsi",
+       "answer": [
+        "music"
+       ],
+       "hint": "موسيقى"
+      },
+      {
+       "type": "unscramble",
+       "letters": "wetra",
+       "answer": [
+        "water"
+       ],
+       "hint": "ماء"
+      },
+      {
+       "type": "unscramble",
+       "letters": "musume",
+       "answer": [
+        "museum"
+       ],
+       "hint": "متحف"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "num": "مراجعة الوحدات ٤-٦",
+   "title": "مراجعة الوحدات ٤-٦",
+   "pages": [
+    94,
+    97
+   ],
+   "review": true,
+   "vocab": [
+    "material",
+    "survive",
+    "ancient",
+    "decorate",
+    "passport",
+    "luggage",
+    "souvenir",
+    "brochure",
+    "drip",
+    "overflow",
+    "puddles",
+    "leak"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Modal Verbs should/shouldn't must/mustn't",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: Past Simple Tense",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة شاملة",
+     "sub": "أسئلة متنوعة من الوحدات",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ydssilap",
+       "answer": [
+        "displays"
+       ],
+       "hint": "يعرض"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eeptml",
+       "answer": [
+        "temple"
+       ],
+       "hint": "معبد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "akel",
+       "answer": [
+        "leak"
+       ],
+       "hint": "تسريب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "teinu",
+       "answer": [
+        "unite"
+       ],
+       "hint": "يتّحد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "skbcir",
+       "answer": [
+        "bricks"
+       ],
+       "hint": "طوب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "dudslpe",
+       "answer": [
+        "puddles"
+       ],
+       "hint": "برك ماء"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

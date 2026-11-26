@@ -1,0 +1,1430 @@
+{
+  "grade": "p4",
+  "id": 6,
+  "title": "The Hundred Dresses",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MCQ",
+      "prompt": "Wanda said she had a hundred ___ in her closet.",
+      "answer": "b",
+      "source_line": 533,
+      "options": [
+        "medals",
+        "dresses",
+        "signs",
+        "letters"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الجملة بتقول إن واندا عندها مية فستان في الدولاب، فالكلمة المناسبة dresses. medals ميداليات وsigns لافتات.",
+      "explanation_en": "The sentence says Wanda has a hundred dresses in the closet, so the suitable word is dresses. medals is ميداليات and signs is لافتات."
+    },
+    {
+      "id": 2,
+      "type": "MCQ",
+      "prompt": "We keep our clothes in the ___.",
+      "answer": "b",
+      "source_line": 534,
+      "options": [
+        "playground",
+        "closet",
+        "letter",
+        "competition"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنحط هدومنا في الدولاب (closet). playground ملعب وletter جواب.",
+      "explanation_en": "We put our clothes in the closet (closet). playground is ملعب and letter is جواب."
+    },
+    {
+      "id": 3,
+      "type": "MCQ",
+      "prompt": "Children play in the ___ at school.",
+      "answer": "a",
+      "source_line": 535,
+      "options": [
+        "playground",
+        "closet",
+        "museum",
+        "mall"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الأطفال بيلعبوا في ملعب المدرسة (playground). closet دولاب وmuseum متحف.",
+      "explanation_en": "The children play in the school playground (playground). closet is دولاب and museum is متحف."
+    },
+    {
+      "id": 4,
+      "type": "MCQ",
+      "prompt": "The drawing ___ was at school. The best drawing wins.",
+      "answer": "b",
+      "source_line": 536,
+      "options": [
+        "medal",
+        "competition",
+        "letter",
+        "sign"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "مسابقة الرسم (competition) كانت في المدرسة، وأحسن رسمة بتكسب. medal ميدالية وsign لافتة.",
+      "explanation_en": "The drawing competition (competition) was at school, and the best drawing wins. medal is ميدالية and sign is لافتة."
+    },
+    {
+      "id": 5,
+      "type": "MCQ",
+      "prompt": "Wanda made beautiful ___ of dresses.",
+      "answer": "c",
+      "source_line": 537,
+      "options": [
+        "medals",
+        "letters",
+        "drawings",
+        "signs"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "واندا عملت رسومات (drawings) جميلة للفساتين. medals وletters مش بتتعمل للفساتين.",
+      "explanation_en": "Wanda made beautiful drawings (drawings) of the dresses. medals and letters are not made for dresses."
+    },
+    {
+      "id": 6,
+      "type": "MCQ",
+      "prompt": "The winner of the competition got a gold ___.",
+      "answer": "a",
+      "source_line": 538,
+      "options": [
+        "medal",
+        "dress",
+        "letter",
+        "closet"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الفايز في المسابقة أخد ميدالية دهب (medal). dress فستان وcloset دولاب.",
+      "explanation_en": "The winner of the competition got a gold medal (medal). dress is فستان and closet is دولاب."
+    },
+    {
+      "id": 7,
+      "type": "MCQ",
+      "prompt": "There is a ___ on the wall: \"Be kind\". (لافتة)",
+      "answer": "b",
+      "source_line": 539,
+      "options": [
+        "letter",
+        "sign",
+        "medal",
+        "drawing"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (لافتة) معناها sign، واللافتة على الحيطة مكتوب عليها: Be kind.",
+      "explanation_en": "The Arabic word (لافتة) means sign, and the sign on the wall says: Be kind."
+    },
+    {
+      "id": 8,
+      "type": "MCQ",
+      "prompt": "Maddie wrote a ___ to Wanda.",
+      "answer": "c",
+      "source_line": 540,
+      "options": [
+        "sign",
+        "medal",
+        "letter",
+        "dress"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "مادي كتبت جواب (letter) لواندا. sign لافتة وmedal ميدالية.",
+      "explanation_en": "Maddie wrote a letter (letter) to Wanda. sign is لافتة and medal is ميدالية."
+    },
+    {
+      "id": 9,
+      "type": "MCQ",
+      "prompt": "The teacher will ___ the winner's name. (يعلن)",
+      "answer": "a",
+      "source_line": 541,
+      "options": [
+        "announce",
+        "apologize",
+        "notice",
+        "bully"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (يعلن) معناها announce: المعلم هيعلن اسم الفايز. bully معناها يتنمر.",
+      "explanation_en": "The Arabic word (يعلن) means announce: the teacher will announce the winner's name. bully means يتنمر."
+    },
+    {
+      "id": 10,
+      "type": "MCQ",
+      "prompt": "The ___ of the competition is Wanda.",
+      "answer": "b",
+      "source_line": 542,
+      "options": [
+        "loser",
+        "winner",
+        "writer",
+        "reader"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الفايز (winner) في المسابقة هو واندا. loser الخاسر.",
+      "explanation_en": "The winner (winner) of the competition is Wanda. loser is الخاسر."
+    },
+    {
+      "id": 11,
+      "type": "MCQ",
+      "prompt": "The new student became ___ quickly. Everyone likes her.",
+      "answer": "b",
+      "source_line": 543,
+      "options": [
+        "absent",
+        "popular",
+        "sorry",
+        "sad"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الطالبة الجديدة بقت محبوبة (popular) بسرعة، والكل بيحبها. absent غايبة وsorry آسفة.",
+      "explanation_en": "The new student became popular (popular) quickly, and everybody likes her. absent is غايبة and sorry is آسفة."
+    },
+    {
+      "id": 12,
+      "type": "MCQ",
+      "prompt": "Wanda was ___ from school for several days. (غائبة)",
+      "answer": "b",
+      "source_line": 544,
+      "options": [
+        "present",
+        "absent",
+        "late",
+        "early"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (غائبة) معناها absent. present حاضرة وlate متأخرة.",
+      "explanation_en": "The Arabic word (غائبة) means absent. present is حاضرة and late is متأخرة."
+    },
+    {
+      "id": 13,
+      "type": "MCQ",
+      "prompt": "Did you ___ the new sign on the door? (تلاحظ)",
+      "answer": "a",
+      "source_line": 545,
+      "options": [
+        "notice",
+        "announce",
+        "apologize",
+        "win"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (تلاحظ) معناها notice: Did you notice the new sign؟ announce معناها يعلن.",
+      "explanation_en": "The Arabic word (تلاحظ) means notice: Did you notice the new sign? announce means يعلن."
+    },
+    {
+      "id": 14,
+      "type": "MCQ",
+      "prompt": "We must ___ when we make a mistake. (نعتذر)",
+      "answer": "c",
+      "source_line": 546,
+      "options": [
+        "announce",
+        "notice",
+        "apologize",
+        "bully"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (نعتذر) معناها apologize. لازم نعتذر لما نغلط. bully معناها يتنمر.",
+      "explanation_en": "The Arabic word (نعتذر) means apologize. We must apologize when we make a mistake. bully means يتنمر."
+    },
+    {
+      "id": 15,
+      "type": "MCQ",
+      "prompt": "Good ___ means being kind to everyone. (سلوك)",
+      "answer": "a",
+      "source_line": 547,
+      "options": [
+        "behavior",
+        "bullying",
+        "winning",
+        "drawing"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (سلوك) معناها behavior. السلوك الحسن معناه اللطف مع الناس. bullying تنمر.",
+      "explanation_en": "The Arabic word (سلوك) means behavior. Good behavior means being kind to people. bullying is تنمر."
+    },
+    {
+      "id": 16,
+      "type": "MCQ",
+      "prompt": "___ is hurting or laughing at others again and again.",
+      "answer": "b",
+      "source_line": 548,
+      "options": [
+        "Sharing",
+        "Bullying",
+        "Helping",
+        "Winning"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "التنمر (Bullying) هو إيذاء أو سخرية من الآخرين مرة بعد مرة. Sharing ومساعدة مش كده.",
+      "explanation_en": "Bullying (Bullying) is hurting or mocking others again and again. Sharing and helping are not like that."
+    },
+    {
+      "id": 17,
+      "type": "MCQ",
+      "prompt": "Peggy ___ Wanda because of her dresses. That was wrong.",
+      "answer": "b",
+      "source_line": 549,
+      "options": [
+        "helped",
+        "bullied",
+        "thanked",
+        "loved"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "Peggy تنمرت (bullied) على واندا بسبب فساتينها، وده غلط. helped وthanked مش مناسبين.",
+      "explanation_en": "Peggy bullied (bullied) Wanda because of her dresses, and that is wrong. helped and thanked do not fit."
+    },
+    {
+      "id": 18,
+      "type": "MCQ",
+      "prompt": "The girls felt sorry and ___ to Wanda.",
+      "answer": "b",
+      "source_line": 550,
+      "options": [
+        "announced",
+        "apologized",
+        "noticed",
+        "won"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "البنات حسّوا بالأسف واعتذروا (apologized) لواندا. الماضي من apologize + d.",
+      "explanation_en": "The girls felt sorry and apologized (apologized) to Wanda. The past of apologize + d."
+    },
+    {
+      "id": 19,
+      "type": "MCQ",
+      "prompt": "The story's ___ is a small school. (مكان الأحداث)",
+      "answer": "a",
+      "source_line": 551,
+      "options": [
+        "setting",
+        "character",
+        "winner",
+        "medal"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "مكان الأحداث (setting) هو مدرسة صغيرة. character شخصية وwinner فايز.",
+      "explanation_en": "The place of the events (setting) is a small school. character is شخصية and winner is فايز."
+    },
+    {
+      "id": 20,
+      "type": "MCQ",
+      "prompt": "Wanda is the main ___ of the story. (شخصية)",
+      "answer": "b",
+      "source_line": 552,
+      "options": [
+        "setting",
+        "character",
+        "letter",
+        "event"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (شخصية) معناها character. واندا هي الشخصية الرئيسية.",
+      "explanation_en": "The Arabic word (شخصية) means character. Wanda is the main character."
+    },
+    {
+      "id": 21,
+      "type": "MCQ",
+      "prompt": "The story's ___ happen in this order: first at school, then the competition. (أحداث)",
+      "answer": "c",
+      "source_line": 553,
+      "options": [
+        "characters",
+        "settings",
+        "events",
+        "letters"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (أحداث) معناها events، والأحداث بتحصل بترتيب: في المدرسة ثم المسابقة.",
+      "explanation_en": "The Arabic word (أحداث) means events, and the events happen in order: at school, then the competition."
+    },
+    {
+      "id": 22,
+      "type": "MCQ",
+      "prompt": "Wanda said she had ___ dresses at home.",
+      "answer": "c",
+      "source_line": 554,
+      "options": [
+        "ten",
+        "fifty",
+        "a hundred",
+        "a thousand"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "واندا قالت إن عندها مية فستان: a hundred. ده الرقم الصحيح من القصة.",
+      "explanation_en": "Wanda said she had a hundred dresses: a hundred. This is the correct number from the story."
+    },
+    {
+      "id": 23,
+      "type": "MCQ",
+      "prompt": "Wanda said her hundred dresses were in her ___. In fact, they were drawings on paper.",
+      "answer": "b",
+      "source_line": 555,
+      "options": [
+        "playground",
+        "closet",
+        "school bag",
+        "classroom"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "واندا قالت إن فساتينها في الدولاب (closet)، لكن الحقيقة كانت رسومات على ورق.",
+      "explanation_en": "Wanda said her dresses were in the closet (closet), but the truth was they were drawings on paper."
+    },
+    {
+      "id": 24,
+      "type": "MCQ",
+      "prompt": "\"غائب\" in English: ___",
+      "answer": "a",
+      "source_line": 556,
+      "options": [
+        "absent",
+        "present",
+        "late",
+        "early"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (غائب) معناها absent. present حاضر وlate متأخر.",
+      "explanation_en": "The Arabic word (غائب) means absent. present is حاضر and late is متأخر."
+    },
+    {
+      "id": 25,
+      "type": "MCQ",
+      "prompt": "\"يعلن\" in English: ___",
+      "answer": "b",
+      "source_line": 557,
+      "options": [
+        "notice",
+        "announce",
+        "apologize",
+        "sign"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (يعلن) معناها announce. notice معناها يلاحظ وapologize معناها يعتذر.",
+      "explanation_en": "The Arabic word (يعلن) means announce. notice means يلاحظ and apologize means يعتذر."
+    },
+    {
+      "id": 26,
+      "type": "MCQ",
+      "prompt": "\"فائز\" in English: ___",
+      "answer": "b",
+      "source_line": 558,
+      "options": [
+        "loser",
+        "winner",
+        "writer",
+        "teacher"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (فائز) معناها winner. loser خاسر وwriter كاتب.",
+      "explanation_en": "The Arabic word (فائز) means winner. loser is خاسر and writer is كاتب."
+    },
+    {
+      "id": 27,
+      "type": "MCQ",
+      "prompt": "We have an art lesson ___ Friday.",
+      "answer": "a",
+      "source_line": 559,
+      "options": [
+        "on",
+        "in",
+        "at",
+        "of"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "مع أيام الأسبوع بنستخدم on: on Friday. in وat مش بيتستخدموا مع الأيام.",
+      "explanation_en": "With days of the week we use on: on Friday. in and at are not used with days."
+    },
+    {
+      "id": 28,
+      "type": "MCQ",
+      "prompt": "At the end of the story, Wanda's family moved to a big ___.",
+      "answer": "a",
+      "source_line": 560,
+      "options": [
+        "city",
+        "village",
+        "island",
+        "farm"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "في آخر القصة عيلة واندا انتقلت لمدينة كبيرة: city. village قرية وfarm مزرعة.",
+      "explanation_en": "At the end of the story Wanda's family moved to a big city: city. village is قرية and farm is مزرعة."
+    },
+    {
+      "id": 29,
+      "type": "MCQ",
+      "prompt": "Maddie and Peggy walked ___ school together.",
+      "answer": "c",
+      "source_line": 561,
+      "options": [
+        "on",
+        "in",
+        "to",
+        "of"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "بنقول walked to school يعني مشيوا للمدرسة. to بتدل على الاتجاه.",
+      "explanation_en": "We say walked to school, meaning they walked to school. to shows direction."
+    },
+    {
+      "id": 30,
+      "type": "MCQ",
+      "prompt": "We should be kind ___ everyone.",
+      "answer": "b",
+      "source_line": 562,
+      "options": [
+        "for",
+        "to",
+        "of",
+        "at"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنقول kind to everyone يعني لطيف مع كل الناس. kind بتتبعها to.",
+      "explanation_en": "We say kind to everyone, meaning kind to all people. kind is followed by to."
+    },
+    {
+      "id": 31,
+      "type": "MCQ",
+      "prompt": "The teacher read the letter ___ the class.",
+      "answer": "a",
+      "source_line": 563,
+      "options": [
+        "to",
+        "on",
+        "for",
+        "at"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنقول read the letter to the class يعني قرا الجواب للفصل. to هنا بتدل على الشخص اللي بيسمع.",
+      "explanation_en": "We say read the letter to the class, meaning he read the letter to the class. to here shows the person who is listening."
+    },
+    {
+      "id": 32,
+      "type": "MCQ",
+      "prompt": "Wanda's family moved ___ a big city.",
+      "answer": "b",
+      "source_line": 564,
+      "options": [
+        "for",
+        "to",
+        "on",
+        "at"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنقول moved to a big city يعني انتقلوا لمدينة كبيرة. to بتدل على الاتجاه.",
+      "explanation_en": "We say moved to a big city, meaning they moved to a big city. to shows direction."
+    },
+    {
+      "id": 33,
+      "type": "MCQ",
+      "prompt": "Stop ___ your friends. Be kind! (التنمر على)",
+      "answer": "c",
+      "source_line": 565,
+      "options": [
+        "helping",
+        "loving",
+        "bullying",
+        "thanking"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (التنمر على) معناها bullying. Stop bullying your friends يعني بطّل تتنمر. helping وloving مش مناسبين مع Stop هنا.",
+      "explanation_en": "The Arabic word (التنمر على) means bullying. Stop bullying your friends means \"stop bullying your friends.\" helping and loving do not fit with Stop here."
+    },
+    {
+      "id": 34,
+      "type": "COMPLETE",
+      "prompt": "The new ___ is pink and beautiful.",
+      "answer": "dress",
+      "source_line": 568,
+      "models": [
+        "dress"
+      ],
+      "wordbox": [
+        "dress",
+        "closet",
+        "playground",
+        "competition",
+        "drawings",
+        "medal",
+        "sign",
+        "letter",
+        "announce",
+        "winner",
+        "popular",
+        "absent",
+        "notice",
+        "apologize"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الفستان الجديد وردي وجميل: dress.",
+      "explanation_en": "The new dress is pink and beautiful: dress."
+    },
+    {
+      "id": 35,
+      "type": "COMPLETE",
+      "prompt": "Mom put my dresses in the ___.",
+      "answer": "closet",
+      "source_line": 569,
+      "models": [
+        "closet"
+      ],
+      "wordbox": [
+        "dress",
+        "closet",
+        "playground",
+        "competition",
+        "drawings",
+        "medal",
+        "sign",
+        "letter",
+        "announce",
+        "winner",
+        "popular",
+        "absent",
+        "notice",
+        "apologize"
+      ],
+      "grading": "closed",
+      "explanation_ar": "ماما حطت فساتيني في الدولاب: closet.",
+      "explanation_en": "Mom put my dresses in the closet: closet."
+    },
+    {
+      "id": 36,
+      "type": "COMPLETE",
+      "prompt": "The children run in the ___ at break time.",
+      "answer": "playground",
+      "source_line": 570,
+      "models": [
+        "playground"
+      ],
+      "wordbox": [
+        "dress",
+        "closet",
+        "playground",
+        "competition",
+        "drawings",
+        "medal",
+        "sign",
+        "letter",
+        "announce",
+        "winner",
+        "popular",
+        "absent",
+        "notice",
+        "apologize"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الأطفال بيجروا في الملعب وقت الفسحة: playground.",
+      "explanation_en": "The children run in the playground at break time: playground."
+    },
+    {
+      "id": 37,
+      "type": "COMPLETE",
+      "prompt": "The school had an art ___ last month.",
+      "answer": "competition",
+      "source_line": 571,
+      "models": [
+        "competition"
+      ],
+      "wordbox": [
+        "dress",
+        "closet",
+        "playground",
+        "competition",
+        "drawings",
+        "medal",
+        "sign",
+        "letter",
+        "announce",
+        "winner",
+        "popular",
+        "absent",
+        "notice",
+        "apologize"
+      ],
+      "grading": "closed",
+      "explanation_ar": "المدرسة عملت مسابقة رسم الشهر اللي فات: competition.",
+      "explanation_en": "The school held a drawing competition last month: competition."
+    },
+    {
+      "id": 38,
+      "type": "COMPLETE",
+      "prompt": "Her ___ of the dresses were beautiful.",
+      "answer": "drawings",
+      "source_line": 572,
+      "models": [
+        "drawings"
+      ],
+      "wordbox": [
+        "dress",
+        "closet",
+        "playground",
+        "competition",
+        "drawings",
+        "medal",
+        "sign",
+        "letter",
+        "announce",
+        "winner",
+        "popular",
+        "absent",
+        "notice",
+        "apologize"
+      ],
+      "grading": "closed",
+      "explanation_ar": "رسوماتها للفساتين كانت جميلة: drawings. جمع لأن were بعدها.",
+      "explanation_en": "Her drawings of the dresses were beautiful: drawings. It is plural because were comes after it."
+    },
+    {
+      "id": 39,
+      "type": "COMPLETE",
+      "prompt": "The winner got a silver ___.",
+      "answer": "medal",
+      "source_line": 573,
+      "models": [
+        "medal"
+      ],
+      "wordbox": [
+        "dress",
+        "closet",
+        "playground",
+        "competition",
+        "drawings",
+        "medal",
+        "sign",
+        "letter",
+        "announce",
+        "winner",
+        "popular",
+        "absent",
+        "notice",
+        "apologize"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الفايز أخد ميدالية فضة: medal.",
+      "explanation_en": "The winner got a silver medal: medal."
+    },
+    {
+      "id": 40,
+      "type": "COMPLETE",
+      "prompt": "The ___ on the wall says \"No bullying\".",
+      "answer": "sign",
+      "source_line": 574,
+      "models": [
+        "sign"
+      ],
+      "wordbox": [
+        "dress",
+        "closet",
+        "playground",
+        "competition",
+        "drawings",
+        "medal",
+        "sign",
+        "letter",
+        "announce",
+        "winner",
+        "popular",
+        "absent",
+        "notice",
+        "apologize"
+      ],
+      "grading": "closed",
+      "explanation_ar": "اللافتة على الحيطة مكتوب عليها: No bullying: sign.",
+      "explanation_en": "The sign on the wall says: No bullying: sign."
+    },
+    {
+      "id": 41,
+      "type": "COMPLETE",
+      "prompt": "She wrote a kind ___ to her friend.",
+      "answer": "letter",
+      "source_line": 575,
+      "models": [
+        "letter"
+      ],
+      "wordbox": [
+        "dress",
+        "closet",
+        "playground",
+        "competition",
+        "drawings",
+        "medal",
+        "sign",
+        "letter",
+        "announce",
+        "winner",
+        "popular",
+        "absent",
+        "notice",
+        "apologize"
+      ],
+      "grading": "closed",
+      "explanation_ar": "هي كتبت جواب لطيف لصاحبتها: letter. kind صفة بتيجي قبل الاسم.",
+      "explanation_en": "She wrote a kind letter to her friend: letter. kind is an adjective that comes before the noun."
+    },
+    {
+      "id": 42,
+      "type": "COMPLETE",
+      "prompt": "The teacher will ___ the winner's name tomorrow.",
+      "answer": "announce",
+      "source_line": 576,
+      "models": [
+        "announce"
+      ],
+      "wordbox": [
+        "dress",
+        "closet",
+        "playground",
+        "competition",
+        "drawings",
+        "medal",
+        "sign",
+        "letter",
+        "announce",
+        "winner",
+        "popular",
+        "absent",
+        "notice",
+        "apologize"
+      ],
+      "grading": "closed",
+      "explanation_ar": "المعلم هيعلن اسم الفايز بكرة: announce. بعد will بنستخدم الفعل من غير تغيير.",
+      "explanation_en": "The teacher will announce the winner's name tomorrow: announce. After will we use the verb with no change."
+    },
+    {
+      "id": 43,
+      "type": "COMPLETE",
+      "prompt": "The ___ will get a gold medal.",
+      "answer": "winner",
+      "source_line": 577,
+      "models": [
+        "winner"
+      ],
+      "wordbox": [
+        "dress",
+        "closet",
+        "playground",
+        "competition",
+        "drawings",
+        "medal",
+        "sign",
+        "letter",
+        "announce",
+        "winner",
+        "popular",
+        "absent",
+        "notice",
+        "apologize"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الفايز هياخد ميدالية دهب: winner.",
+      "explanation_en": "The winner will get a gold medal: winner."
+    },
+    {
+      "id": 44,
+      "type": "COMPLETE",
+      "prompt": "He is friendly and ___. Everyone loves him.",
+      "answer": "popular",
+      "source_line": 578,
+      "models": [
+        "popular"
+      ],
+      "wordbox": [
+        "dress",
+        "closet",
+        "playground",
+        "competition",
+        "drawings",
+        "medal",
+        "sign",
+        "letter",
+        "announce",
+        "winner",
+        "popular",
+        "absent",
+        "notice",
+        "apologize"
+      ],
+      "grading": "closed",
+      "explanation_ar": "هو ودود ومحبوب، والكل بيحبه: popular.",
+      "explanation_en": "He is friendly and popular, and everybody likes him: popular."
+    },
+    {
+      "id": 45,
+      "type": "COMPLETE",
+      "prompt": "Two pupils were ___ yesterday. They were sick.",
+      "answer": "absent",
+      "source_line": 579,
+      "models": [
+        "absent"
+      ],
+      "wordbox": [
+        "dress",
+        "closet",
+        "playground",
+        "competition",
+        "drawings",
+        "medal",
+        "sign",
+        "letter",
+        "announce",
+        "winner",
+        "popular",
+        "absent",
+        "notice",
+        "apologize"
+      ],
+      "grading": "closed",
+      "explanation_ar": "اتنين تلاميذ كانوا غايبين إمبارح لأنهم كانوا مرضانين: absent.",
+      "explanation_en": "Two students were absent yesterday because they were sick: absent."
+    },
+    {
+      "id": 46,
+      "type": "COMPLETE",
+      "prompt": "I didn't ___ the new girl in class. (لم ألاحظ)",
+      "answer": "notice",
+      "source_line": 580,
+      "models": [
+        "notice"
+      ],
+      "wordbox": [
+        "dress",
+        "closet",
+        "playground",
+        "competition",
+        "drawings",
+        "medal",
+        "sign",
+        "letter",
+        "announce",
+        "winner",
+        "popular",
+        "absent",
+        "notice",
+        "apologize"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (لم ألاحظ) معناها notice. بعد didn't بنستخدم الفعل من غير تغيير.",
+      "explanation_en": "The Arabic word (لم ألاحظ) means notice. After didn't we use the verb with no change."
+    },
+    {
+      "id": 47,
+      "type": "COMPLETE",
+      "prompt": "Please ___ to your friend for your bad words.",
+      "answer": "apologize",
+      "source_line": 581,
+      "models": [
+        "apologize"
+      ],
+      "wordbox": [
+        "dress",
+        "closet",
+        "playground",
+        "competition",
+        "drawings",
+        "medal",
+        "sign",
+        "letter",
+        "announce",
+        "winner",
+        "popular",
+        "absent",
+        "notice",
+        "apologize"
+      ],
+      "grading": "closed",
+      "explanation_ar": "من فضلك اعتذر لصاحبك عن كلامك الوحش: apologize. بعد please بنستخدم الفعل من غير to.",
+      "explanation_en": "Please apologize to your friend for your bad words: apologize. After please we use the verb with no to."
+    },
+    {
+      "id": 48,
+      "type": "CORRECT",
+      "prompt": "Wanda (say) she had a hundred dresses.",
+      "answer": "said",
+      "source_line": 584,
+      "models": [
+        "said"
+      ],
+      "grading": "closed",
+      "explanation_ar": "كلمة said بتدل على الماضي، لأن القصة في الماضي: said. say فعل شاذ ماضيه said.",
+      "explanation_en": "The word said shows the past, because the story is in the past: said. say is an irregular verb and its past is said."
+    },
+    {
+      "id": 49,
+      "type": "CORRECT",
+      "prompt": "The girls (laugh) at Wanda yesterday.",
+      "answer": "laughed",
+      "source_line": 585,
+      "models": [
+        "laughed"
+      ],
+      "grading": "closed",
+      "explanation_ar": "كلمة yesterday بتدل على الماضي، فنقول laughed (laugh + ed).",
+      "explanation_en": "The word yesterday shows the past, so we say laughed (laugh + ed)."
+    },
+    {
+      "id": 50,
+      "type": "CORRECT",
+      "prompt": "The teacher (announce) the winner last Friday.",
+      "answer": "announced",
+      "source_line": 586,
+      "models": [
+        "announced"
+      ],
+      "grading": "closed",
+      "explanation_ar": "كلمة last Friday بتدل على الماضي، فنقول announced (announce + d).",
+      "explanation_en": "The words last Friday show the past, so we say announced (announce + d)."
+    },
+    {
+      "id": 51,
+      "type": "CORRECT",
+      "prompt": "Maddie (write) a letter to Wanda.",
+      "answer": "wrote",
+      "source_line": 587,
+      "models": [
+        "wrote"
+      ],
+      "grading": "closed",
+      "explanation_ar": "ماضي write هو wrote (فعل شاذ). الجملة بتحكي حدث ماضي.",
+      "explanation_en": "The past of write is wrote (an irregular verb). The sentence tells a past event."
+    },
+    {
+      "id": 52,
+      "type": "CORRECT",
+      "prompt": "Wanda (is) absent yesterday.",
+      "answer": "was",
+      "source_line": 588,
+      "models": [
+        "was"
+      ],
+      "grading": "closed",
+      "explanation_ar": "كلمة yesterday بتدل على الماضي، وماضي is هو was.",
+      "explanation_en": "The word yesterday shows the past, and the past of is is was."
+    },
+    {
+      "id": 53,
+      "type": "CORRECT",
+      "prompt": "They (feel) sorry for their behavior.",
+      "answer": "felt",
+      "source_line": 589,
+      "models": [
+        "felt"
+      ],
+      "grading": "closed",
+      "explanation_ar": "ماضي feel هو felt (فعل شاذ). الجملة بتحكي حاجة حصلت.",
+      "explanation_en": "The past of feel is felt (an irregular verb). The sentence tells something that happened."
+    },
+    {
+      "id": 54,
+      "type": "CORRECT",
+      "prompt": "The girls (apologize) to Wanda in a letter.",
+      "answer": "apologized",
+      "source_line": 590,
+      "models": [
+        "apologized"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الجملة ماضية، فنقول apologized (apologize + d).",
+      "explanation_en": "The sentence is in the past, so we say apologized (apologize + d)."
+    },
+    {
+      "id": 55,
+      "type": "CORRECT",
+      "prompt": "Wanda (win) the drawing competition.",
+      "answer": "won",
+      "source_line": 591,
+      "models": [
+        "won"
+      ],
+      "grading": "closed",
+      "explanation_ar": "ماضي win هو won (فعل شاذ). واندا كسبت مسابقة الرسم.",
+      "explanation_en": "The past of win is won (an irregular verb). Wanda won the drawing competition."
+    },
+    {
+      "id": 56,
+      "type": "CORRECT",
+      "prompt": "The children (plays) in the playground now.",
+      "answer": "are playing",
+      "source_line": 592,
+      "models": [
+        "are playing"
+      ],
+      "grading": "closed",
+      "explanation_ar": "كلمة now بتدل على الحاضر المستمر، فنقول are playing. The children جمع.",
+      "explanation_en": "The word now shows the present continuous, so we say are playing. The children is plural."
+    },
+    {
+      "id": 57,
+      "type": "CORRECT",
+      "prompt": "She (move) to a big city last year.",
+      "answer": "moved",
+      "source_line": 593,
+      "models": [
+        "moved"
+      ],
+      "grading": "closed",
+      "explanation_ar": "كلمة last year بتدل على الماضي، فنقول moved (move + d).",
+      "explanation_en": "The words last year show the past, so we say moved (move + d)."
+    },
+    {
+      "id": 58,
+      "type": "PUNCT",
+      "prompt": "wanda had a hundred dresses",
+      "answer": "Wanda had a hundred dresses.",
+      "source_line": 596,
+      "models": [
+        "Wanda had a hundred dresses."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Wanda had a hundred dresses. بنبدأ بحرف كبير (Wanda) وننهي بالنقطة (.) لأنها جملة عادية.",
+      "explanation_en": "The correct sentence: Wanda had a hundred dresses. We start with a capital letter (Wanda) and end with a full stop (.) because it is a regular sentence."
+    },
+    {
+      "id": 59,
+      "type": "PUNCT",
+      "prompt": "the girls laughed at wanda",
+      "answer": "The girls laughed at Wanda.",
+      "source_line": 597,
+      "models": [
+        "The girls laughed at Wanda."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: The girls laughed at Wanda. بنبدأ بحرف كبير (The) وننهي بالنقطة (.) لأنها جملة عادية. والأسماء زي الأسماء الخاصة بتبدأ بحرف كبير دايمًا.",
+      "explanation_en": "The correct sentence: The girls laughed at Wanda. We start with a capital letter (The) and end with a full stop (.) because it is a regular sentence. Names, like proper nouns, always start with a capital letter."
+    },
+    {
+      "id": 60,
+      "type": "PUNCT",
+      "prompt": "did you notice the new sign",
+      "answer": "Did you notice the new sign?",
+      "source_line": 598,
+      "models": [
+        "Did you notice the new sign?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Did you notice the new sign? بنبدأ بحرف كبير (Did) وننهي بعلامة الاستفهام (?) لأنها سؤال.",
+      "explanation_en": "The correct sentence: Did you notice the new sign? We start with a capital letter (Did) and end with a question mark (?) because it is a question."
+    },
+    {
+      "id": 61,
+      "type": "PUNCT",
+      "prompt": "the teacher announced the winner",
+      "answer": "The teacher announced the winner.",
+      "source_line": 599,
+      "models": [
+        "The teacher announced the winner."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: The teacher announced the winner. بنبدأ بحرف كبير (The) وننهي بالنقطة (.) لأنها جملة عادية.",
+      "explanation_en": "The correct sentence: The teacher announced the winner. We start with a capital letter (The) and end with a full stop (.) because it is a regular sentence."
+    },
+    {
+      "id": 62,
+      "type": "PUNCT",
+      "prompt": "maddie wrote a letter to wanda",
+      "answer": "Maddie wrote a letter to Wanda.",
+      "source_line": 600,
+      "models": [
+        "Maddie wrote a letter to Wanda."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Maddie wrote a letter to Wanda. بنبدأ بحرف كبير (Maddie) وننهي بالنقطة (.) لأنها جملة عادية. والأسماء زي الأسماء الخاصة بتبدأ بحرف كبير دايمًا.",
+      "explanation_en": "The correct sentence: Maddie wrote a letter to Wanda. We start with a capital letter (Maddie) and end with a full stop (.) because it is a regular sentence. Names, like proper nouns, always start with a capital letter."
+    },
+    {
+      "id": 63,
+      "type": "PUNCT",
+      "prompt": "was wanda absent yesterday",
+      "answer": "Was Wanda absent yesterday?",
+      "source_line": 601,
+      "models": [
+        "Was Wanda absent yesterday?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Was Wanda absent yesterday? بنبدأ بحرف كبير (Was) وننهي بعلامة الاستفهام (?) لأنها سؤال. والأسماء زي الأسماء الخاصة بتبدأ بحرف كبير دايمًا.",
+      "explanation_en": "The correct sentence: Was Wanda absent yesterday? We start with a capital letter (Was) and end with a question mark (?) because it is a question. Names, like proper nouns, always start with a capital letter."
+    },
+    {
+      "id": 64,
+      "type": "READ",
+      "prompt": "Wanda said she had ___ dresses.",
+      "answer": "c",
+      "source_line": 605,
+      "passage": "Wanda was a quiet girl. She told the girls she had a hundred dresses in her closet. Peggy annoyed her every day. Maddie didn't like that, but she stayed quiet; she feared losing Peggy's friendship. Then the teacher announced the winner of the drawing competition: Wanda! Her hundred drawings were beautiful. But Wanda was absent; her family moved to a big city. The girls wrote to apologize. Wanda wrote back and asked them to keep her drawings.",
+      "options": [
+        "ten",
+        "fifty",
+        "a hundred",
+        "two"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: She told the girls she had a hundred dresses. يعني مية فستان: a hundred.",
+      "explanation_en": "The passage says: She told the girls she had a hundred dresses. So a hundred dresses: a hundred."
+    },
+    {
+      "id": 65,
+      "type": "READ",
+      "prompt": "The girls sent Wanda ___.",
+      "answer": "b",
+      "source_line": 606,
+      "passage": "Wanda was a quiet girl. She told the girls she had a hundred dresses in her closet. Peggy annoyed her every day. Maddie didn't like that, but she stayed quiet; she feared losing Peggy's friendship. Then the teacher announced the winner of the drawing competition: Wanda! Her hundred drawings were beautiful. But Wanda was absent; her family moved to a big city. The girls wrote to apologize. Wanda wrote back and asked them to keep her drawings.",
+      "options": [
+        "a medal",
+        "a letter",
+        "a dress",
+        "a drawing"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: The girls wrote to apologize. يعني بعتوا جواب: a letter.",
+      "explanation_en": "The passage says: The girls wrote to apologize. So they sent a letter: a letter."
+    },
+    {
+      "id": 66,
+      "type": "READ",
+      "prompt": "Who won the drawing competition?",
+      "answer": "Wanda.",
+      "source_line": 607,
+      "models": [
+        "Wanda."
+      ],
+      "passage": "Wanda was a quiet girl. She told the girls she had a hundred dresses in her closet. Peggy annoyed her every day. Maddie didn't like that, but she stayed quiet; she feared losing Peggy's friendship. Then the teacher announced the winner of the drawing competition: Wanda! Her hundred drawings were beautiful. But Wanda was absent; her family moved to a big city. The girls wrote to apologize. Wanda wrote back and asked them to keep her drawings.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: the teacher announced the winner of the drawing competition: Wanda! يعني واندا هي الفايزة: Wanda.",
+      "explanation_en": "The passage says: the teacher announced the winner of the drawing competition: Wanda! So Wanda is the winner: Wanda."
+    },
+    {
+      "id": 67,
+      "type": "READ",
+      "prompt": "Why was Wanda absent at the end?",
+      "answer": "Her family moved to a big city.",
+      "source_line": 608,
+      "models": [
+        "Her family moved to a big city."
+      ],
+      "passage": "Wanda was a quiet girl. She told the girls she had a hundred dresses in her closet. Peggy annoyed her every day. Maddie didn't like that, but she stayed quiet; she feared losing Peggy's friendship. Then the teacher announced the winner of the drawing competition: Wanda! Her hundred drawings were beautiful. But Wanda was absent; her family moved to a big city. The girls wrote to apologize. Wanda wrote back and asked them to keep her drawings.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: Wanda was absent; her family moved to a big city. يعني عيلتها انتقلت لمدينة كبيرة: Her family moved to a big city.",
+      "explanation_en": "The passage says: Wanda was absent; her family moved to a big city. So her family moved to a big city: Her family moved to a big city."
+    },
+    {
+      "id": 68,
+      "type": "READ",
+      "prompt": "What did Wanda ask the girls to do in her letter?",
+      "answer": "To keep her drawings.",
+      "source_line": 609,
+      "models": [
+        "To keep her drawings."
+      ],
+      "passage": "Wanda was a quiet girl. She told the girls she had a hundred dresses in her closet. Peggy annoyed her every day. Maddie didn't like that, but she stayed quiet; she feared losing Peggy's friendship. Then the teacher announced the winner of the drawing competition: Wanda! Her hundred drawings were beautiful. But Wanda was absent; her family moved to a big city. The girls wrote to apologize. Wanda wrote back and asked them to keep her drawings.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: Wanda wrote back and asked them to keep her drawings. يعني طلبت منهم يحتفظوا برسوماتها: To keep her drawings.",
+      "explanation_en": "The passage says: Wanda wrote back and asked them to keep her drawings. So she asked them to keep her drawings: To keep her drawings."
+    },
+    {
+      "id": 69,
+      "type": "REORDER",
+      "prompt": "said – Wanda – she – had – a – dresses. – hundred",
+      "answer": "Wanda said she had a hundred dresses.",
+      "source_line": 612,
+      "models": [
+        "Wanda said she had a hundred dresses."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Wanda said she had a hundred dresses. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: Wanda said she had a hundred dresses. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 70,
+      "type": "REORDER",
+      "prompt": "at – The – laughed – Wanda. – girls",
+      "answer": "The girls laughed at Wanda.",
+      "source_line": 613,
+      "models": [
+        "The girls laughed at Wanda."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: The girls laughed at Wanda. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: The girls laughed at Wanda. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 71,
+      "type": "REORDER",
+      "prompt": "the – teacher – winner. – announced – The",
+      "answer": "The teacher announced the winner.",
+      "source_line": 614,
+      "models": [
+        "The teacher announced the winner."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: The teacher announced the winner. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: The teacher announced the winner. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 72,
+      "type": "REORDER",
+      "prompt": "to – wrote – Wanda. – Maddie – a – letter",
+      "answer": "Maddie wrote a letter to Wanda.",
+      "source_line": 615,
+      "models": [
+        "Maddie wrote a letter to Wanda."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Maddie wrote a letter to Wanda. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: Maddie wrote a letter to Wanda. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 73,
+      "type": "REORDER",
+      "prompt": "was – absent – Wanda – for – days. – several",
+      "answer": "Wanda was absent for several days.",
+      "source_line": 616,
+      "models": [
+        "Wanda was absent for several days."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Wanda was absent for several days. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: Wanda was absent for several days. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 74,
+      "type": "REORDER",
+      "prompt": "to – The – apologized – girls – Wanda.",
+      "answer": "The girls apologized to Wanda.",
+      "source_line": 617,
+      "models": [
+        "The girls apologized to Wanda."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: The girls apologized to Wanda. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: The girls apologized to Wanda. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 75,
+      "type": "REORDER",
+      "prompt": "drew – Wanda – a – hundred – beautiful – dresses.",
+      "answer": "Wanda drew a hundred beautiful dresses.",
+      "source_line": 618,
+      "models": [
+        "Wanda drew a hundred beautiful dresses."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Wanda drew a hundred beautiful dresses. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: Wanda drew a hundred beautiful dresses. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 76,
+      "type": "REORDER",
+      "prompt": "to – moved – a – family – big – city. – The",
+      "answer": "The family moved to a big city.",
+      "source_line": 619,
+      "models": [
+        "The family moved to a big city."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: The family moved to a big city. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: The family moved to a big city. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 77,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about why bullying is wrong (at least 20 words). Guiding elements: bullying - hurts - kind - apologize.",
+      "answer": "Bullying is bad behavior. It hurts other children. We must be kind to everyone. We must apologize for bad words.",
+      "source_line": 622,
+      "models": [
+        "Bullying is bad behavior. It hurts other children. We must be kind to everyone. We must apologize for bad words."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 20,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about why bullying is wrong) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: bullying، hurts، kind، apologize، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: Bullying is bad behavior. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة.",
+      "explanation_en": "You need to write 4 full sentences (about why bullying is wrong) with at least 20 words. Use the guide words: bullying,  hurts,  kind,  apologize, each in a sentence. Each sentence starts with a capital letter and ends with a full stop. Example sentence: Bullying is bad behavior. The answer is a model answer and it is checked by reviewing the sentence."
+    },
+    {
+      "id": 78,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about the story's lesson (at least 20 words). Guiding elements: learned - kind - friends - sorry.",
+      "answer": "I learned to be kind to everyone. We must not laugh at friends. The girls were sorry for Wanda. Kind words make friends happy.",
+      "source_line": 623,
+      "models": [
+        "I learned to be kind to everyone. We must not laugh at friends. The girls were sorry for Wanda. Kind words make friends happy."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 24,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about the story's lesson) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: learned، kind، friends، sorry، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: I learned to be kind to everyone. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة.",
+      "explanation_en": "You need to write 4 full sentences (about the story's lesson) with at least 20 words. Use the guide words: learned,  kind,  friends,  sorry, each in a sentence. Each sentence starts with a capital letter and ends with a full stop. Example sentence: I learned to be kind to everyone. The answer is a model answer and it is checked by reviewing the sentence."
+    },
+    {
+      "id": 79,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about a competition at your school (at least 20 words). Guiding elements: competition - drew - won - medal.",
+      "answer": "Our school had an art competition. I drew a big house. My friend won the competition. He got a gold medal.",
+      "source_line": 624,
+      "models": [
+        "Our school had an art competition. I drew a big house. My friend won the competition. He got a gold medal."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 21,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about a competition at your school) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: competition، drew، won، medal، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: Our school had an art competition. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة.",
+      "explanation_en": "You need to write 4 full sentences (about a competition at your school) with at least 20 words. Use the guide words: competition,  drew,  won,  medal, each in a sentence. Each sentence starts with a capital letter and ends with a full stop. Example sentence: Our school had an art competition. The answer is a model answer and it is checked by reviewing the sentence."
+    },
+    {
+      "id": 80,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences as a letter to a new student (at least 20 words). Guiding elements: welcome - school - friends - play.",
+      "answer": "Welcome to our new school. Our teachers are very kind and helpful. We can be good friends. Let's play together in the playground.",
+      "source_line": 625,
+      "models": [
+        "Welcome to our new school. Our teachers are very kind and helpful. We can be good friends. Let's play together in the playground."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 23,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (as a letter to a new student) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: welcome، school، friends، play، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: Welcome to our new school. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة.",
+      "explanation_en": "You need to write 4 full sentences (as a letter to a new student) with at least 20 words. Use the guide words: welcome,  school,  friends,  play, each in a sentence. Each sentence starts with a capital letter and ends with a full stop. Example sentence: Welcome to our new school. The answer is a model answer and it is checked by reviewing the sentence."
+    }
+  ],
+  "passage_words": 77,
+  "version": "6be83a82499f"
+}

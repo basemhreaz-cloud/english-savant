@@ -1,0 +1,1342 @@
+{
+ "grade": "p3",
+ "gradeName": "الصف التالت الابتدائي",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Let's Learn Together!",
+   "pages": [
+    5,
+    26
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Greetings and Introductions"
+    },
+    {
+     "n": 2,
+     "title": "Classroom Rules"
+    },
+    {
+     "n": 3,
+     "title": "Describing People"
+    },
+    {
+     "n": 4,
+     "title": "Daily Routines"
+    }
+   ],
+   "vocab": [
+    "hello",
+    "good",
+    "morning",
+    "how",
+    "are",
+    "fine",
+    "thank",
+    "you",
+    "nice",
+    "meet"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "wh",
+     "cluster": "wh",
+     "words": [
+      "what"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "uhots",
+       "answer": [
+        "shout"
+       ],
+       "hint": "يصرخ"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ees",
+       "answer": [
+        "see"
+       ],
+       "hint": "images/words/see.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nadh",
+       "answer": [
+        "hand"
+       ],
+       "hint": "images/words/hand.png"
+      },
+      {
+       "type": "unscramble",
+       "letters": "uclyr",
+       "answer": [
+        "curly"
+       ],
+       "hint": "images/words/curly.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "amy",
+       "answer": [
+        "may"
+       ],
+       "hint": "قد/ربما"
+      },
+      {
+       "type": "unscramble",
+       "letters": "kanth",
+       "answer": [
+        "thank"
+       ],
+       "hint": "شكرًا"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_at",
+       "answer": [
+        "wh"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "My Family and I",
+   "pages": [
+    27,
+    42
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Meet My Family"
+    },
+    {
+     "n": 2,
+     "title": "Family Traditions and Celebrations"
+    },
+    {
+     "n": 3,
+     "title": "My Family Helps Me Grow"
+    },
+    {
+     "n": 4,
+     "title": "Jobs in My Family"
+    }
+   ],
+   "vocab": [
+    "aunt",
+    "uncle",
+    "cousin",
+    "family",
+    "traditions",
+    "celebrations",
+    "jobs"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "x = /gz/",
+     "cluster": "x",
+     "words": [
+      "exam"
+     ]
+    },
+    {
+     "focus": "ph = /f/",
+     "cluster": "ph",
+     "words": [
+      "phone"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "sboj",
+       "answer": [
+        "jobs"
+       ],
+       "hint": "وظائف"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nsciuo",
+       "answer": [
+        "cousin"
+       ],
+       "hint": "images/words/cousin.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "enulc",
+       "answer": [
+        "uncle"
+       ],
+       "hint": "images/words/uncle.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tsridiotna",
+       "answer": [
+        "traditions"
+       ],
+       "hint": "تقاليد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "alymfi",
+       "answer": [
+        "family"
+       ],
+       "hint": "images/words/family.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "scnrtlboeiea",
+       "answer": [
+        "celebrations"
+       ],
+       "hint": "احتفالات"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_xam",
+       "answer": [
+        "e"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_one",
+       "answer": [
+        "ph"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the x = /gz/ sound?",
+       "options": [
+        "exam",
+        "phone"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the ph = /f/ sound?",
+       "options": [
+        "exam",
+        "phone"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "New Adventures",
+   "pages": [
+    43,
+    62
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Places Around Me"
+    },
+    {
+     "n": 2,
+     "title": "Egypt's Landmarks"
+    },
+    {
+     "n": 3,
+     "title": "Map It Out"
+    },
+    {
+     "n": 4,
+     "title": "A School Trip to the Zoo"
+    }
+   ],
+   "vocab": [
+    "places",
+    "neighborhood",
+    "egyptian",
+    "landmarks",
+    "zoo",
+    "trip",
+    "words",
+    "under",
+    "next",
+    "between"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "double consonant endings ff/ll/ss/zz",
+     "cluster": "ff",
+     "words": [
+      "buzz"
+     ]
+    },
+    {
+     "focus": "ck = /k/",
+     "cluster": "ck",
+     "words": [
+      "duck",
+      "sock",
+      "back",
+      "neck",
+      "truck"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "saeplc",
+       "answer": [
+        "places"
+       ],
+       "hint": "أماكن"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eebnetw",
+       "answer": [
+        "between"
+       ],
+       "hint": "بين"
+      },
+      {
+       "type": "unscramble",
+       "letters": "oihebghndoro",
+       "answer": [
+        "neighborhood"
+       ],
+       "hint": "الحي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ooz",
+       "answer": [
+        "zoo"
+       ],
+       "hint": "images/words/zoo.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ndlakamsr",
+       "answer": [
+        "landmarks"
+       ],
+       "hint": "معالم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rnoft",
+       "answer": [
+        "front"
+       ],
+       "hint": "أمام"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "bu__",
+       "answer": [
+        "zz"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "du__",
+       "answer": [
+        "ck"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "so__",
+       "answer": [
+        "ck"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "ba__",
+       "answer": [
+        "ck"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the double consonant endings ff/ll/ss/zz sound?",
+       "options": [
+        "back",
+        "sock",
+        "buzz",
+        "neck"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the ck = /k/ sound?",
+       "options": [
+        "back",
+        "buzz"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Let's Tell Stories!",
+   "pages": [
+    67,
+    81
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "How We Feel"
+    },
+    {
+     "n": 2,
+     "title": "A Helping Hand"
+    },
+    {
+     "n": 3,
+     "title": "A Big Win"
+    }
+   ],
+   "vocab": [
+    "happy",
+    "sad",
+    "excited",
+    "angry",
+    "shy",
+    "tired",
+    "bored",
+    "scared",
+    "went",
+    "draw"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "hard c = /k/",
+     "cluster": "",
+     "words": [
+      "cat",
+      "came",
+      "cold",
+      "carry"
+     ]
+    },
+    {
+     "focus": "soft c = /s/",
+     "cluster": "",
+     "words": [
+      "face",
+      "nice",
+      "city",
+      "ice",
+      "pencil",
+      "cent"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "odebr",
+       "answer": [
+        "bored"
+       ],
+       "hint": "ضجر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "dewr",
+       "answer": [
+        "drew"
+       ],
+       "hint": "رسم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "entw",
+       "answer": [
+        "went"
+       ],
+       "hint": "ذهب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ditre",
+       "answer": [
+        "tired"
+       ],
+       "hint": "متعب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "cersad",
+       "answer": [
+        "scared"
+       ],
+       "hint": "خائف"
+      },
+      {
+       "type": "unscramble",
+       "letters": "now",
+       "answer": [
+        "won"
+       ],
+       "hint": "images/words/fixed-won.png"
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "قواعد الوحدة",
+     "sub": "اكتب التصريف الصحيح",
+     "questions": [
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"is\":",
+       "answer": [
+        "was"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"are\":",
+       "answer": [
+        "were"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"do\":",
+       "answer": [
+        "did"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"see\":",
+       "answer": [
+        "saw"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"come\":",
+       "answer": [
+        "came"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_at",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ame",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ace",
+       "answer": [
+        "f"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ice",
+       "answer": [
+        "n"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the hard c = /k/ sound?",
+       "options": [
+        "face",
+        "cold",
+        "nice",
+        "cent"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the soft c = /s/ sound?",
+       "options": [
+        "carry",
+        "cold",
+        "city",
+        "cat"
+       ],
+       "answer": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "Together Is Better",
+   "pages": [
+    82,
+    98
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Teamwork & Chores"
+    },
+    {
+     "n": 2,
+     "title": "Teamwork at School"
+    },
+    {
+     "n": 3,
+     "title": "Teamwork in Sports"
+    },
+    {
+     "n": 4,
+     "title": "I Help My Community!"
+    }
+   ],
+   "vocab": [
+    "clean",
+    "tidy",
+    "bed",
+    "share",
+    "care",
+    "win",
+    "cheer",
+    "plant",
+    "donate"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "hard g = /g/",
+     "cluster": "",
+     "words": [
+      "gum",
+      "dog",
+      "good",
+      "green",
+      "big",
+      "game"
+     ]
+    },
+    {
+     "focus": "soft g = /dʒ/ (before e, i, y)",
+     "cluster": "",
+     "words": [
+      "giraffe",
+      "egypt",
+      "page",
+      "huge",
+      "magic"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "iwn",
+       "answer": [
+        "win"
+       ],
+       "hint": "images/words/win.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ebd",
+       "answer": [
+        "bed"
+       ],
+       "hint": "images/words/bed.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ecehr",
+       "answer": [
+        "cheer"
+       ],
+       "hint": "images/words/cheer.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "itdy",
+       "answer": [
+        "tidy"
+       ],
+       "hint": "مرتّب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ontdae",
+       "answer": [
+        "donate"
+       ],
+       "hint": "يتبرّع"
+      },
+      {
+       "type": "unscramble",
+       "letters": "atlpn",
+       "answer": [
+        "plant"
+       ],
+       "hint": "images/words/plant.jpg"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_um",
+       "answer": [
+        "g"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_og",
+       "answer": [
+        "d"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_iraffe",
+       "answer": [
+        "g"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_gypt",
+       "answer": [
+        "e"
+       ]
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the hard g = /g/ sound?",
+       "options": [
+        "page",
+        "egypt",
+        "good",
+        "huge"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "label": "sound",
+       "q": "Which word has the soft g = /dʒ/ (before e, i, y) sound?",
+       "options": [
+        "page",
+        "big",
+        "green",
+        "good"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "Dare to Dream",
+   "pages": [
+    99,
+    113
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "My Goal, My Dream"
+    },
+    {
+     "n": 2,
+     "title": "A Day To Remember"
+    },
+    {
+     "n": 3,
+     "title": "I Did It!"
+    },
+    {
+     "n": 4,
+     "title": "Helping Others Succeed"
+    }
+   ],
+   "vocab": [
+    "goal",
+    "try",
+    "step",
+    "plan",
+    "practice",
+    "celebrate",
+    "success",
+    "reach",
+    "race",
+    "nervous"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "three-consonant clusters spr-, spl-, str-, scr-",
+     "cluster": "spr",
+     "words": [
+      "spring",
+      "spray",
+      "splash",
+      "split",
+      "screen",
+      "scratch",
+      "string",
+      "street"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "oagl",
+       "answer": [
+        "goal"
+       ],
+       "hint": "images/words/fixed-goal.png"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rtiecacp",
+       "answer": [
+        "practice"
+       ],
+       "hint": "تدريب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "cear",
+       "answer": [
+        "race"
+       ],
+       "hint": "images/words/race.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "unsoerv",
+       "answer": [
+        "nervous"
+       ],
+       "hint": "متوتر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "alnp",
+       "answer": [
+        "plan"
+       ],
+       "hint": "خطة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ccsssue",
+       "answer": [
+        "success"
+       ],
+       "hint": "نجاح"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ing",
+       "answer": [
+        "spr"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ash",
+       "answer": [
+        "spl"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_een",
+       "answer": [
+        "scr"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r1",
+   "num": "مراجعة الوحدات ١-٣",
+   "title": "مراجعة الوحدات ١-٣",
+   "pages": [
+    63,
+    66
+   ],
+   "review": true,
+   "vocab": [
+    "hello",
+    "good",
+    "morning",
+    "how",
+    "aunt",
+    "uncle",
+    "cousin",
+    "family",
+    "places",
+    "neighborhood",
+    "egyptian",
+    "landmarks"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "wh",
+     "cluster": "wh",
+     "words": [
+      "what"
+     ]
+    },
+    {
+     "focus": "x = /gz/",
+     "cluster": "x",
+     "words": [
+      "exam"
+     ]
+    },
+    {
+     "focus": "double consonant endings ff/ll/ss/zz",
+     "cluster": "ff",
+     "words": [
+      "buzz"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة شاملة",
+     "sub": "أسئلة متنوعة من الوحدات",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_xam",
+       "answer": [
+        "e"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_at",
+       "answer": [
+        "wh"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_one",
+       "answer": [
+        "ph"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "uhots",
+       "answer": [
+        "shout"
+       ],
+       "hint": "يصرخ"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nsciuo",
+       "answer": [
+        "cousin"
+       ],
+       "hint": "images/words/cousin.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ees",
+       "answer": [
+        "see"
+       ],
+       "hint": "images/words/see.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "saeplc",
+       "answer": [
+        "places"
+       ],
+       "hint": "أماكن"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eebnetw",
+       "answer": [
+        "between"
+       ],
+       "hint": "بين"
+      },
+      {
+       "type": "unscramble",
+       "letters": "sboj",
+       "answer": [
+        "jobs"
+       ],
+       "hint": "وظائف"
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "du__",
+       "answer": [
+        "ck"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "bu__",
+       "answer": [
+        "zz"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "num": "مراجعة الوحدات ٤-٦",
+   "title": "مراجعة الوحدات ٤-٦",
+   "pages": [
+    114,
+    117
+   ],
+   "review": true,
+   "vocab": [
+    "happy",
+    "sad",
+    "excited",
+    "angry",
+    "clean",
+    "tidy",
+    "bed",
+    "share",
+    "goal",
+    "try",
+    "step",
+    "plan"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "hard c = /k/",
+     "cluster": "",
+     "words": [
+      "cat",
+      "came",
+      "cold",
+      "carry"
+     ]
+    },
+    {
+     "focus": "hard g = /g/",
+     "cluster": "",
+     "words": [
+      "gum",
+      "dog",
+      "good",
+      "green",
+      "big",
+      "game"
+     ]
+    },
+    {
+     "focus": "three-consonant clusters spr-, spl-, str-, scr-",
+     "cluster": "spr",
+     "words": [
+      "spring",
+      "spray",
+      "splash",
+      "split",
+      "screen",
+      "scratch",
+      "string",
+      "street"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة شاملة",
+     "sub": "أسئلة متنوعة من الوحدات",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ing",
+       "answer": [
+        "spr"
+       ]
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"is\":",
+       "answer": [
+        "was"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "dewr",
+       "answer": [
+        "drew"
+       ],
+       "hint": "رسم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "iwn",
+       "answer": [
+        "win"
+       ],
+       "hint": "images/words/win.jpg"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ebd",
+       "answer": [
+        "bed"
+       ],
+       "hint": "images/words/bed.jpg"
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_at",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ash",
+       "answer": [
+        "spl"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_um",
+       "answer": [
+        "g"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "oagl",
+       "answer": [
+        "goal"
+       ],
+       "hint": "images/words/fixed-goal.png"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rtiecacp",
+       "answer": [
+        "practice"
+       ],
+       "hint": "تدريب"
+      },
+      {
+       "type": "typein",
+       "label": "form",
+       "q": "Past of \"are\":",
+       "answer": [
+        "were"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_og",
+       "answer": [
+        "d"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ame",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "odebr",
+       "answer": [
+        "bored"
+       ],
+       "hint": "ضجر"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

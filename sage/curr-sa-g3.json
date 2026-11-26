@@ -1,0 +1,2069 @@
+{
+ "grade": "sa-g3",
+ "gradeName": "الصف ثالث الابتدائي — المنهج السعودي (We Can 3)",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "It's Nice to Meet You!",
+   "pages": [
+    2,
+    9
+   ],
+   "lessons": [],
+   "vocab": [
+    "name",
+    "eleven",
+    "live",
+    "mine",
+    "yours",
+    "ours",
+    "theirs",
+    "train",
+    "rain",
+    "cheese",
+    "sleep",
+    "sheep"
+   ],
+   "sentences": [
+    "What is your name?",
+    "I live in Jeddah.",
+    "How old are you?",
+    "I am eleven years old.",
+    "This bag is mine.",
+    "Their names are Ali and Omar."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "maen",
+       "answer": [
+        "name"
+       ],
+       "hint": "اسم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nvelee",
+       "answer": [
+        "eleven"
+       ],
+       "hint": "أحد عشر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "lvie",
+       "answer": [
+        "live"
+       ],
+       "hint": "يعيش"
+      },
+      {
+       "type": "unscramble",
+       "letters": "mien",
+       "answer": [
+        "mine"
+       ],
+       "hint": "ملكي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "oursy",
+       "answer": [
+        "yours"
+       ],
+       "hint": "ملكك"
+      },
+      {
+       "type": "unscramble",
+       "letters": "osur",
+       "answer": [
+        "ours"
+       ],
+       "hint": "ملكنا"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: ملكنا",
+       "options": [
+        "sheep",
+        "name",
+        "ours"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: اسم",
+       "options": [
+        "sheep",
+        "eleven",
+        "name"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: ينام",
+       "options": [
+        "sleep",
+        "live",
+        "ours"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: ملكهم",
+       "options": [
+        "theirs",
+        "train",
+        "mine"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "What",
+        "name?",
+        "your"
+       ],
+       "answer": [
+        "What",
+        "is",
+        "your",
+        "name?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "Jeddah.",
+        "live",
+        "in"
+       ],
+       "answer": [
+        "I",
+        "live",
+        "in",
+        "Jeddah."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "old",
+        "you?",
+        "are",
+        "How"
+       ],
+       "answer": [
+        "How",
+        "old",
+        "are",
+        "you?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "eleven",
+        "am",
+        "I",
+        "old.",
+        "years"
+       ],
+       "answer": [
+        "I",
+        "am",
+        "eleven",
+        "years",
+        "old."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هذه الحقيبة ملكي.",
+       "options": [
+        "This bag is mine.",
+        "Their names are Ali and Omar.",
+        "How old are you?"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: كم عمرك؟",
+       "options": [
+        "What is your name?",
+        "How old are you?",
+        "Their names are Ali and Omar."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: اسماهما علي وعمر.",
+       "options": [
+        "What is your name?",
+        "Their names are Ali and Omar.",
+        "This bag is mine."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: ما اسمك؟",
+       "options": [
+        "What is your name?",
+        "I live in Jeddah.",
+        "I am eleven years old."
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اختر الكلمة التي تكمل الجملة",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "___ old are you?",
+       "options": [
+        "Where",
+        "Whose",
+        "How"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "I live ___ Riyadh.",
+       "options": [
+        "on",
+        "in",
+        "at"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "___ name is Ali.",
+       "options": [
+        "My",
+        "Me",
+        "Mine"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "This bag is ___.",
+       "options": [
+        "my",
+        "I",
+        "mine"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "Their names ___ Ali and Omar.",
+       "options": [
+        "is",
+        "are",
+        "am"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "___ bag is this?",
+       "options": [
+        "Where",
+        "How",
+        "Whose"
+       ],
+       "answer": 2
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "التعريف بنفسك",
+     "text": "للسؤال عن العمر نستخدم How old are you? وللسكن Where do you live? يمكن الرد I live in Jeddah. لا نخلط بين سؤال العمر وسؤال السكن."
+    },
+    {
+     "title": "صفات الملكية",
+     "text": "نضع my وyour وhis وher وour وtheir قبل الاسم. مثل My name is Ali. مع names نستخدم are: Their names are Ali and Omar."
+    },
+    {
+     "title": "ضمائر الملكية",
+     "text": "mine وyours وhers وours وtheirs تقف وحدها ولا تحتاج اسمًا بعدها: This bag is mine. أما my فتحتاج اسمًا: my bag. نسأل Whose bag is this? عن المالك."
+    },
+    {
+     "title": "أصوات الوحدة",
+     "text": "في meet وsheep نسمع صوت ee الطويل، وفي meat وread تمثله ea. في rain وtrain نسمع ai، وفي play وday نسمع ay."
+    }
+   ],
+   "meanings": {
+    "name": "اسم",
+    "eleven": "أحد عشر",
+    "live": "يعيش",
+    "mine": "ملكي",
+    "yours": "ملكك",
+    "ours": "ملكنا",
+    "theirs": "ملكهم",
+    "train": "قطار",
+    "rain": "مطر",
+    "cheese": "جبن",
+    "sleep": "ينام",
+    "sheep": "خروف"
+   },
+   "sentenceMeanings": {
+    "What is your name?": "ما اسمك؟",
+    "I live in Jeddah.": "أنا أعيش في جدة.",
+    "How old are you?": "كم عمرك؟",
+    "I am eleven years old.": "عمري أحد عشر عامًا.",
+    "This bag is mine.": "هذه الحقيبة ملكي.",
+    "Their names are Ali and Omar.": "اسماهما علي وعمر."
+   }
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "Sea Animals",
+   "pages": [
+    10,
+    17
+   ],
+   "lessons": [],
+   "vocab": [
+    "whale",
+    "seal",
+    "shark",
+    "dolphin",
+    "seahorse",
+    "walrus",
+    "eel",
+    "seagull",
+    "scary",
+    "cute",
+    "fast",
+    "slow"
+   ],
+   "sentences": [
+    "That is a whale.",
+    "Those are seals.",
+    "I think sharks are scary.",
+    "A dolphin is faster than a seahorse.",
+    "The whale is the biggest.",
+    "The seal is cute."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "elahw",
+       "answer": [
+        "whale"
+       ],
+       "hint": "حوت"
+      },
+      {
+       "type": "unscramble",
+       "letters": "sael",
+       "answer": [
+        "seal"
+       ],
+       "hint": "فقمة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "aksrh",
+       "answer": [
+        "shark"
+       ],
+       "hint": "قرش"
+      },
+      {
+       "type": "unscramble",
+       "letters": "dplonhi",
+       "answer": [
+        "dolphin"
+       ],
+       "hint": "دلفين"
+      },
+      {
+       "type": "unscramble",
+       "letters": "oharsees",
+       "answer": [
+        "seahorse"
+       ],
+       "hint": "فرس البحر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rwaslu",
+       "answer": [
+        "walrus"
+       ],
+       "hint": "فظ"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: فظ",
+       "options": [
+        "walrus",
+        "slow",
+        "cute"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: حوت",
+       "options": [
+        "seagull",
+        "whale",
+        "scary"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: دلفين",
+       "options": [
+        "dolphin",
+        "seagull",
+        "walrus"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: فقمة",
+       "options": [
+        "shark",
+        "seal",
+        "fast"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "That",
+        "whale.",
+        "is"
+       ],
+       "answer": [
+        "That",
+        "is",
+        "a",
+        "whale."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "are",
+        "seals.",
+        "Those"
+       ],
+       "answer": [
+        "Those",
+        "are",
+        "seals."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "scary.",
+        "are",
+        "sharks",
+        "I",
+        "think"
+       ],
+       "answer": [
+        "I",
+        "think",
+        "sharks",
+        "are",
+        "scary."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "dolphin",
+        "faster",
+        "seahorse.",
+        "a",
+        "A",
+        "is",
+        "than"
+       ],
+       "answer": [
+        "A",
+        "dolphin",
+        "is",
+        "faster",
+        "than",
+        "a",
+        "seahorse."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أظن أن أسماك القرش مخيفة.",
+       "options": [
+        "The seal is cute.",
+        "I think sharks are scary.",
+        "The whale is the biggest."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: الحوت هو الأكبر.",
+       "options": [
+        "That is a whale.",
+        "I think sharks are scary.",
+        "The whale is the biggest."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: الدلفين أسرع من فرس البحر.",
+       "options": [
+        "The whale is the biggest.",
+        "A dolphin is faster than a seahorse.",
+        "I think sharks are scary."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: تلك فقمات.",
+       "options": [
+        "I think sharks are scary.",
+        "The seal is cute.",
+        "Those are seals."
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اختر الكلمة التي تكمل الجملة",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Those ___ seals.",
+       "options": [
+        "am",
+        "is",
+        "are"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "A dolphin is faster ___ a seahorse.",
+       "options": [
+        "the",
+        "than",
+        "that"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "The whale is the ___.",
+       "options": [
+        "bigger",
+        "biggest",
+        "big"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "The comparative of scary is ___.",
+       "options": [
+        "scariest",
+        "scarier",
+        "scaryer"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "What ___ that? It is a whale.",
+       "options": [
+        "are",
+        "is",
+        "am"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "I think sharks ___ scary.",
+       "options": [
+        "are",
+        "is",
+        "am"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "مفرد وجمع",
+     "text": "نسأل What is that? للمفرد ونرد It is a whale. نسأل What are those? للجمع ونرد They are seals. نستخدم is مع المفرد وare مع الجمع."
+    },
+    {
+     "title": "التعبير عن الرأي",
+     "text": "I think تعني أظن، وI do not think تعني لا أظن. مثل I think sharks are scary. نختار is أو are حسب الحيوان مفرد أو جمع."
+    },
+    {
+     "title": "المقارنة والتفضيل",
+     "text": "للمقارنة بين اثنين نستخدم faster than أو bigger than. للتفضيل نستخدم the fastest أو the biggest. نضاعف g في bigger، ونحول y إلى i في scarier وscariest."
+    },
+    {
+     "title": "أصوات الحروف",
+     "text": "oa في goat وboat غالبًا صوت طويل، ومثله ow في snow وyellow. لكن ow في cow وbrown صوت مختلف. اقرأ المثال كله، لا تحكم من الحروف وحدها."
+    }
+   ],
+   "meanings": {
+    "whale": "حوت",
+    "seal": "فقمة",
+    "shark": "قرش",
+    "dolphin": "دلفين",
+    "seahorse": "فرس البحر",
+    "walrus": "فظ",
+    "eel": "ثعبان البحر",
+    "seagull": "نورس",
+    "scary": "مخيف",
+    "cute": "لطيف",
+    "fast": "سريع",
+    "slow": "بطيء"
+   },
+   "sentenceMeanings": {
+    "That is a whale.": "ذلك حوت.",
+    "Those are seals.": "تلك فقمات.",
+    "I think sharks are scary.": "أظن أن أسماك القرش مخيفة.",
+    "A dolphin is faster than a seahorse.": "الدلفين أسرع من فرس البحر.",
+    "The whale is the biggest.": "الحوت هو الأكبر.",
+    "The seal is cute.": "الفقمة لطيفة."
+   }
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "Sports and Activities",
+   "pages": [
+    18,
+    25
+   ],
+   "lessons": [],
+   "vocab": [
+    "football",
+    "basketball",
+    "volleyball",
+    "tennis",
+    "horse riding",
+    "rock climbing",
+    "hang gliding",
+    "jogging",
+    "pottery",
+    "painting",
+    "exciting",
+    "dangerous"
+   ],
+   "sentences": [
+    "I like football.",
+    "He likes tennis.",
+    "I want to try pottery.",
+    "Does she like basketball?",
+    "Yes, she does.",
+    "Rock climbing is more dangerous than jogging."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "laftlobo",
+       "answer": [
+        "football"
+       ],
+       "hint": "كرة القدم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "itsnen",
+       "answer": [
+        "tennis"
+       ],
+       "hint": "التنس"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nogjgig",
+       "answer": [
+        "jogging"
+       ],
+       "hint": "الهرولة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "yteoptr",
+       "answer": [
+        "pottery"
+       ],
+       "hint": "صناعة الفخار"
+      },
+      {
+       "type": "unscramble",
+       "letters": "gptiiann",
+       "answer": [
+        "painting"
+       ],
+       "hint": "الرسم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "xniecitg",
+       "answer": [
+        "exciting"
+       ],
+       "hint": "مثير"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: الطيران الشراعي",
+       "options": [
+        "hang gliding",
+        "football",
+        "basketball"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: الكرة الطائرة",
+       "options": [
+        "volleyball",
+        "painting",
+        "basketball"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: صناعة الفخار",
+       "options": [
+        "basketball",
+        "pottery",
+        "painting"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: كرة السلة",
+       "options": [
+        "volleyball",
+        "basketball",
+        "dangerous"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "football.",
+        "I",
+        "like"
+       ],
+       "answer": [
+        "I",
+        "like",
+        "football."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "He",
+        "tennis.",
+        "likes"
+       ],
+       "answer": [
+        "He",
+        "likes",
+        "tennis."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "try",
+        "want",
+        "I",
+        "pottery.",
+        "to"
+       ],
+       "answer": [
+        "I",
+        "want",
+        "to",
+        "try",
+        "pottery."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "like",
+        "Does",
+        "basketball?",
+        "she"
+       ],
+       "answer": [
+        "Does",
+        "she",
+        "like",
+        "basketball?"
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: نعم، هي تحبها.",
+       "options": [
+        "I want to try pottery.",
+        "Does she like basketball?",
+        "Yes, she does."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أريد تجربة صناعة الفخار.",
+       "options": [
+        "Yes, she does.",
+        "I want to try pottery.",
+        "Does she like basketball?"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هو يحب التنس.",
+       "options": [
+        "Yes, she does.",
+        "Rock climbing is more dangerous than jogging.",
+        "He likes tennis."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: تسلق الصخور أخطر من الهرولة.",
+       "options": [
+        "Rock climbing is more dangerous than jogging.",
+        "Does she like basketball?",
+        "I like football."
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اختر الكلمة التي تكمل الجملة",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "He ___ tennis.",
+       "options": [
+        "liking",
+        "likes",
+        "like"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "___ she like tennis?",
+       "options": [
+        "Do",
+        "Is",
+        "Does"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "Does he ___ football?",
+       "options": [
+        "like",
+        "likes",
+        "liking"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "I want ___ try pottery.",
+       "options": [
+        "to",
+        "in",
+        "at"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "Hang gliding is ___ dangerous than jogging.",
+       "options": [
+        "more",
+        "much",
+        "most"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "Do they like tennis? Yes, they ___.",
+       "options": [
+        "do",
+        "does",
+        "are"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "ما الرياضة التي تحبها؟",
+     "text": "نسأل What sport do you like? ونرد I like football. مع he وshe نضيف s للفعل في الجملة المثبتة: He likes tennis."
+    },
+    {
+     "title": "سؤال بـ do أو does",
+     "text": "نستخدم Do مع I وyou وwe وthey، وDoes مع he وshe. بعد does يرجع الفعل لأصله: Does she like basketball? وليس Does she likes."
+    },
+    {
+     "title": "أريد أن أجرب",
+     "text": "نستخدم want to ثم الفعل دون تغيير: I want to try pottery. مع he تصبح He wants to try pottery. لا نحذف to."
+    },
+    {
+     "title": "المقارنة بصفات طويلة",
+     "text": "نستخدم more قبل الصفات الطويلة مثل exciting وdangerous: more exciting than. للتفضيل نقول the most exciting، ولا نضيف er إلى exciting."
+    }
+   ],
+   "meanings": {
+    "football": "كرة القدم",
+    "basketball": "كرة السلة",
+    "volleyball": "الكرة الطائرة",
+    "tennis": "التنس",
+    "horse riding": "ركوب الخيل",
+    "rock climbing": "تسلق الصخور",
+    "hang gliding": "الطيران الشراعي",
+    "jogging": "الهرولة",
+    "pottery": "صناعة الفخار",
+    "painting": "الرسم",
+    "exciting": "مثير",
+    "dangerous": "خطير"
+   },
+   "sentenceMeanings": {
+    "I like football.": "أنا أحب كرة القدم.",
+    "He likes tennis.": "هو يحب التنس.",
+    "I want to try pottery.": "أريد تجربة صناعة الفخار.",
+    "Does she like basketball?": "هل تحب كرة السلة؟",
+    "Yes, she does.": "نعم، هي تحبها.",
+    "Rock climbing is more dangerous than jogging.": "تسلق الصخور أخطر من الهرولة."
+   }
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Chores",
+   "pages": [
+    26,
+    33
+   ],
+   "lessons": [],
+   "vocab": [
+    "feed the fish",
+    "set the table",
+    "wash the dishes",
+    "vacuum the floor",
+    "take out the trash",
+    "fold the clothes",
+    "clean",
+    "walk",
+    "car",
+    "farm",
+    "fork",
+    "teacher"
+   ],
+   "sentences": [
+    "I feed the fish.",
+    "She sets the table.",
+    "He washes the dishes.",
+    "Do you clean your room?",
+    "Does she vacuum the floor?",
+    "I sometimes fold the clothes."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "nalce",
+       "answer": [
+        "clean"
+       ],
+       "hint": "ينظف"
+      },
+      {
+       "type": "unscramble",
+       "letters": "lawk",
+       "answer": [
+        "walk"
+       ],
+       "hint": "يمشي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "arc",
+       "answer": [
+        "car"
+       ],
+       "hint": "سيارة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "mraf",
+       "answer": [
+        "farm"
+       ],
+       "hint": "مزرعة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "frok",
+       "answer": [
+        "fork"
+       ],
+       "hint": "شوكة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ahreetc",
+       "answer": [
+        "teacher"
+       ],
+       "hint": "معلم"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: مزرعة",
+       "options": [
+        "farm",
+        "set the table",
+        "vacuum the floor"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يمشي",
+       "options": [
+        "walk",
+        "take out the trash",
+        "clean"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يخرج القمامة",
+       "options": [
+        "feed the fish",
+        "fold the clothes",
+        "take out the trash"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: سيارة",
+       "options": [
+        "car",
+        "farm",
+        "wash the dishes"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "feed",
+        "fish.",
+        "I",
+        "the"
+       ],
+       "answer": [
+        "I",
+        "feed",
+        "the",
+        "fish."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "table.",
+        "sets",
+        "She"
+       ],
+       "answer": [
+        "She",
+        "sets",
+        "the",
+        "table."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "the",
+        "dishes.",
+        "washes",
+        "He"
+       ],
+       "answer": [
+        "He",
+        "washes",
+        "the",
+        "dishes."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "Do",
+        "you",
+        "your",
+        "room?",
+        "clean"
+       ],
+       "answer": [
+        "Do",
+        "you",
+        "clean",
+        "your",
+        "room?"
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا أطعم السمك.",
+       "options": [
+        "Do you clean your room?",
+        "He washes the dishes.",
+        "I feed the fish."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا أطوي الملابس أحيانًا.",
+       "options": [
+        "I sometimes fold the clothes.",
+        "She sets the table.",
+        "I feed the fish."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هو يغسل الأطباق.",
+       "options": [
+        "I sometimes fold the clothes.",
+        "He washes the dishes.",
+        "She sets the table."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هل تنظف غرفتك؟",
+       "options": [
+        "She sets the table.",
+        "Does she vacuum the floor?",
+        "Do you clean your room?"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اختر الكلمة التي تكمل الجملة",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "She ___ the table.",
+       "options": [
+        "set",
+        "sets",
+        "setting"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "He ___ the dishes.",
+       "options": [
+        "washes",
+        "washs",
+        "wash"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "Does she ___ the floor?",
+       "options": [
+        "vacuums",
+        "vacuum",
+        "vacuuming"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "I ___ the fish.",
+       "options": [
+        "feeding",
+        "feed",
+        "feeds"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "He ___ to school.",
+       "options": [
+        "go",
+        "gos",
+        "goes"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "She does not ___ her room.",
+       "options": [
+        "cleaning",
+        "clean",
+        "cleans"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "الأعمال المنزلية",
+     "text": "نستخدم المضارع البسيط للأعمال المتكررة. مثل I feed the fish. كلمة sometimes تعني أحيانًا، وتساعد في وصف تكرار العمل."
+    },
+    {
+     "title": "الفعل مع المفرد الغائب",
+     "text": "نضيف s مع he وshe: She sets the table. بعد sh وch وs غالبًا نضيف es: He washes the dishes. ويصبح go مع he: goes."
+    },
+    {
+     "title": "السؤال والنفي",
+     "text": "نقول Does she vacuum the floor? دون s بعد does. وفي النفي She does not vacuum، ومع I نقول I do not vacuum."
+    },
+    {
+     "title": "اقرأ أصوات الكلمات",
+     "text": "نراجع ar في car وfarm، وor في fork، وer في teacher وsister. لاحظ أن teacher تنتهي بـ er، وليس معنى ذلك أن كل كلمة فيها er اسم مهنة."
+    }
+   ],
+   "meanings": {
+    "feed the fish": "يطعم السمك",
+    "set the table": "يجهز المائدة",
+    "wash the dishes": "يغسل الأطباق",
+    "vacuum the floor": "ينظف الأرض بالمكنسة",
+    "take out the trash": "يخرج القمامة",
+    "fold the clothes": "يطوي الملابس",
+    "clean": "ينظف",
+    "walk": "يمشي",
+    "car": "سيارة",
+    "farm": "مزرعة",
+    "fork": "شوكة",
+    "teacher": "معلم"
+   },
+   "sentenceMeanings": {
+    "I feed the fish.": "أنا أطعم السمك.",
+    "She sets the table.": "هي تجهز المائدة.",
+    "He washes the dishes.": "هو يغسل الأطباق.",
+    "Do you clean your room?": "هل تنظف غرفتك؟",
+    "Does she vacuum the floor?": "هل تنظف الأرض بالمكنسة؟",
+    "I sometimes fold the clothes.": "أنا أطوي الملابس أحيانًا."
+   }
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "Yesterday and Today",
+   "pages": [
+    34,
+    41
+   ],
+   "lessons": [],
+   "vocab": [
+    "get up",
+    "got up",
+    "eat lunch",
+    "ate lunch",
+    "come home",
+    "came home",
+    "do homework",
+    "did homework",
+    "go to bed",
+    "went to bed",
+    "yesterday",
+    "usually"
+   ],
+   "sentences": [
+    "I usually get up at six.",
+    "I got up at seven yesterday.",
+    "What time did you get up?",
+    "I ate lunch at two.",
+    "I did my homework yesterday.",
+    "I went to bed at nine."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "seyaredty",
+       "answer": [
+        "yesterday"
+       ],
+       "hint": "أمس"
+      },
+      {
+       "type": "unscramble",
+       "letters": "lyuauls",
+       "answer": [
+        "usually"
+       ],
+       "hint": "عادةً"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: أدى الواجب",
+       "options": [
+        "get up",
+        "yesterday",
+        "did homework"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يعود للمنزل",
+       "options": [
+        "ate lunch",
+        "come home",
+        "came home"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: يتناول الغداء",
+       "options": [
+        "go to bed",
+        "got up",
+        "eat lunch"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: عادةً",
+       "options": [
+        "go to bed",
+        "eat lunch",
+        "usually"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "usually",
+        "at",
+        "six.",
+        "up",
+        "get"
+       ],
+       "answer": [
+        "I",
+        "usually",
+        "get",
+        "up",
+        "at",
+        "six."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "up",
+        "yesterday.",
+        "got",
+        "seven",
+        "at"
+       ],
+       "answer": [
+        "I",
+        "got",
+        "up",
+        "at",
+        "seven",
+        "yesterday."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "did",
+        "up?",
+        "get",
+        "you",
+        "time",
+        "What"
+       ],
+       "answer": [
+        "What",
+        "time",
+        "did",
+        "you",
+        "get",
+        "up?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "I",
+        "at",
+        "ate",
+        "lunch",
+        "two."
+       ],
+       "answer": [
+        "I",
+        "ate",
+        "lunch",
+        "at",
+        "two."
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: ذهبت للنوم في التاسعة.",
+       "options": [
+        "I usually get up at six.",
+        "I went to bed at nine.",
+        "I ate lunch at two."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أنا أستيقظ عادةً في السادسة.",
+       "options": [
+        "I usually get up at six.",
+        "What time did you get up?",
+        "I went to bed at nine."
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أديت واجبي أمس.",
+       "options": [
+        "What time did you get up?",
+        "I went to bed at nine.",
+        "I did my homework yesterday."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: استيقظت في السابعة أمس.",
+       "options": [
+        "I usually get up at six.",
+        "I got up at seven yesterday.",
+        "I went to bed at nine."
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اختر الكلمة التي تكمل الجملة",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Yesterday, I ___ up at seven.",
+       "options": [
+        "got",
+        "get",
+        "gets"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "What time did you ___ up?",
+       "options": [
+        "get",
+        "gets",
+        "got"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "I ___ lunch yesterday.",
+       "options": [
+        "ate",
+        "eat",
+        "eats"
+       ],
+       "answer": 0
+      },
+      {
+       "type": "mcq",
+       "q": "I usually get up ___ six.",
+       "options": [
+        "in",
+        "at",
+        "on"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "I ___ my homework yesterday.",
+       "options": [
+        "do",
+        "did",
+        "does"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "I went to bed ___.",
+       "options": [
+        "usually",
+        "yesterday",
+        "every day"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "عادةً أم أمس؟",
+     "text": "usually تصف العادة، فنستخدم المضارع: I usually get up at six. أما yesterday فتدل على الماضي: I got up at seven yesterday."
+    },
+    {
+     "title": "أفعال الماضي",
+     "text": "بعض الأفعال لا نضيف لها ed: get يصبح got، وeat يصبح ate، وcome يصبح came، وdo يصبح did، وgo يصبح went، وtake يصبح took."
+    },
+    {
+     "title": "السؤال عن الماضي",
+     "text": "بعد did نستخدم الفعل الأصلي: What time did you get up? وليس did you got up. وفي الإجابة نرجع للماضي: I got up at seven."
+    },
+    {
+     "title": "الوقت ونهاية الكلمة",
+     "text": "نضع at قبل الساعة. راجع ng في ring وspring وnk في think وdrink وck في rock وclock. هذه مجموعات في نهاية الكلمات وليست بدايتها."
+    }
+   ],
+   "meanings": {
+    "get up": "يستيقظ",
+    "got up": "استيقظ",
+    "eat lunch": "يتناول الغداء",
+    "ate lunch": "تناول الغداء",
+    "come home": "يعود للمنزل",
+    "came home": "عاد للمنزل",
+    "do homework": "يؤدي الواجب",
+    "did homework": "أدى الواجب",
+    "go to bed": "يذهب للنوم",
+    "went to bed": "ذهب للنوم",
+    "yesterday": "أمس",
+    "usually": "عادةً"
+   },
+   "sentenceMeanings": {
+    "I usually get up at six.": "أنا أستيقظ عادةً في السادسة.",
+    "I got up at seven yesterday.": "استيقظت في السابعة أمس.",
+    "What time did you get up?": "متى استيقظت؟",
+    "I ate lunch at two.": "تناولت الغداء في الثانية.",
+    "I did my homework yesterday.": "أديت واجبي أمس.",
+    "I went to bed at nine.": "ذهبت للنوم في التاسعة."
+   }
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "Jobs",
+   "pages": [
+    42,
+    49
+   ],
+   "lessons": [],
+   "vocab": [
+    "pilot",
+    "doctor",
+    "teacher",
+    "baker",
+    "scientist",
+    "writer",
+    "designer",
+    "presenter",
+    "hospital",
+    "restaurant",
+    "train station",
+    "space station"
+   ],
+   "sentences": [
+    "What does your dad do?",
+    "He is a pilot.",
+    "She works in a hospital.",
+    "Where does he work?",
+    "I want to be a scientist.",
+    "They work in a restaurant."
+   ],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف أو اختر المعنى الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "tloip",
+       "answer": [
+        "pilot"
+       ],
+       "hint": "طيار"
+      },
+      {
+       "type": "unscramble",
+       "letters": "otcrod",
+       "answer": [
+        "doctor"
+       ],
+       "hint": "طبيب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "etcreha",
+       "answer": [
+        "teacher"
+       ],
+       "hint": "معلم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "kaber",
+       "answer": [
+        "baker"
+       ],
+       "hint": "خباز"
+      },
+      {
+       "type": "unscramble",
+       "letters": "neitctsis",
+       "answer": [
+        "scientist"
+       ],
+       "hint": "عالم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eiwtrr",
+       "answer": [
+        "writer"
+       ],
+       "hint": "كاتب"
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: معلم",
+       "options": [
+        "scientist",
+        "designer",
+        "teacher"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: طبيب",
+       "options": [
+        "hospital",
+        "doctor",
+        "teacher"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: محطة فضاء",
+       "options": [
+        "doctor",
+        "space station",
+        "presenter"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "اختر الكلمة التي تعني: خباز",
+       "options": [
+        "train station",
+        "restaurant",
+        "baker"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "id": "lang",
+     "title": "جمل الوحدة",
+     "sub": "رتّب الجملة أو اختر الصيغة الصح",
+     "questions": [
+      {
+       "type": "reorder",
+       "words": [
+        "does",
+        "dad",
+        "your",
+        "What",
+        "do?"
+       ],
+       "answer": [
+        "What",
+        "does",
+        "your",
+        "dad",
+        "do?"
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "is",
+        "pilot.",
+        "He",
+        "a"
+       ],
+       "answer": [
+        "He",
+        "is",
+        "a",
+        "pilot."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "a",
+        "works",
+        "hospital.",
+        "in",
+        "She"
+       ],
+       "answer": [
+        "She",
+        "works",
+        "in",
+        "a",
+        "hospital."
+       ]
+      },
+      {
+       "type": "reorder",
+       "words": [
+        "he",
+        "does",
+        "Where",
+        "work?"
+       ],
+       "answer": [
+        "Where",
+        "does",
+        "he",
+        "work?"
+       ]
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: أريد أن أصبح عالمًا.",
+       "options": [
+        "What does your dad do?",
+        "I want to be a scientist.",
+        "She works in a hospital."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هو طيار.",
+       "options": [
+        "They work in a restaurant.",
+        "Where does he work?",
+        "He is a pilot."
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: ما وظيفة والدك؟",
+       "options": [
+        "He is a pilot.",
+        "What does your dad do?",
+        "I want to be a scientist."
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "كيف نقول بالإنجليزية: هم يعملون في مطعم.",
+       "options": [
+        "She works in a hospital.",
+        "They work in a restaurant.",
+        "What does your dad do?"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "id": "grammar",
+     "title": "تطبيق على القواعد",
+     "sub": "اختر الكلمة التي تكمل الجملة",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What ___ your dad do?",
+       "options": [
+        "do",
+        "does",
+        "is"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "She ___ in a hospital.",
+       "options": [
+        "working",
+        "works",
+        "work"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "Where does he ___?",
+       "options": [
+        "working",
+        "works",
+        "work"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "I want to ___ a scientist.",
+       "options": [
+        "am",
+        "is",
+        "be"
+       ],
+       "answer": 2
+      },
+      {
+       "type": "mcq",
+       "q": "He is ___ pilot.",
+       "options": [
+        "an",
+        "a",
+        "two"
+       ],
+       "answer": 1
+      },
+      {
+       "type": "mcq",
+       "q": "The silent letter in knee is ___.",
+       "options": [
+        "k",
+        "n",
+        "e"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ],
+   "explanation": [
+    {
+     "title": "السؤال عن الوظيفة",
+     "text": "What does your dad do? سؤال عن وظيفة الأب، وليس ما يفعله الآن. نرد He is a pilot. نستخدم a قبل اسم الوظيفة المفرد مثل a teacher."
+    },
+    {
+     "title": "مكان العمل",
+     "text": "نسأل Where does she work? ونرد She works in a hospital. مع they نستخدم do وwork: Where do they work?"
+    },
+    {
+     "title": "ما الذي تريد أن تصبحه؟",
+     "text": "نستخدم I want to be ثم الوظيفة: I want to be a scientist. نستخدم be بعد to في هذا التركيب."
+    },
+    {
+     "title": "حروف لا ننطقها",
+     "text": "في knee وknife وknock لا ننطق k. وفي light وnight وright لا ننطق gh. نهاية الفعل s لها أصوات مختلفة في walks وreads وteaches."
+    }
+   ],
+   "meanings": {
+    "pilot": "طيار",
+    "doctor": "طبيب",
+    "teacher": "معلم",
+    "baker": "خباز",
+    "scientist": "عالم",
+    "writer": "كاتب",
+    "designer": "مصمم",
+    "presenter": "مقدم برامج",
+    "hospital": "مستشفى",
+    "restaurant": "مطعم",
+    "train station": "محطة قطار",
+    "space station": "محطة فضاء"
+   },
+   "sentenceMeanings": {
+    "What does your dad do?": "ما وظيفة والدك؟",
+    "He is a pilot.": "هو طيار.",
+    "She works in a hospital.": "هي تعمل في مستشفى.",
+    "Where does he work?": "أين يعمل؟",
+    "I want to be a scientist.": "أريد أن أصبح عالمًا.",
+    "They work in a restaurant.": "هم يعملون في مطعم."
+   }
+  }
+ ],
+ "source": {
+  "url": "https://files.shawahid.sa/books/1448-GE-PE-K03-SM1-ENGLMH.pdf",
+  "title": "We Can 3 Student Book, Part 1",
+  "note": "Publisher textbook inspected via independent Shawahid mirror. Original Arabic explanations and exercises."
+ }
+}

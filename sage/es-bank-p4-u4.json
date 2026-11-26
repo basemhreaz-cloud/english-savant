@@ -1,0 +1,1430 @@
+{
+  "grade": "p4",
+  "id": 4,
+  "title": "Egypt My Homeland",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MCQ",
+      "prompt": "The ___ are in Giza. They are very old and famous.",
+      "answer": "a",
+      "source_line": 331,
+      "options": [
+        "Pyramids",
+        "malls",
+        "tents",
+        "towers"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الأهرامات (Pyramids) في الجيزة وقديمة ومشهورة. malls وtents وtowers مش قديمة ومشهورة كده.",
+      "explanation_en": "The Pyramids (Pyramids) are in Giza, and they are old and famous. malls, tents and towers are not old and famous like that."
+    },
+    {
+      "id": 2,
+      "type": "MCQ",
+      "prompt": "The ___ is the longest river in Egypt.",
+      "answer": "a",
+      "source_line": 332,
+      "options": [
+        "Nile River",
+        "Red Sea",
+        "Suez Canal",
+        "Lake Nasser"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "نهر النيل (Nile River) أطول نهر في مصر. Red Sea بحر وSuez Canal قناة.",
+      "explanation_en": "The Nile River (Nile River) is the longest river in Egypt. Red Sea is a sea and Suez Canal is a canal."
+    },
+    {
+      "id": 3,
+      "type": "MCQ",
+      "prompt": "You can see all Cairo from the top of the ___.",
+      "answer": "b",
+      "source_line": 333,
+      "options": [
+        "Egyptian Museum",
+        "Cairo Tower",
+        "post office",
+        "monastery"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "من فوق برج القاهرة (Cairo Tower) تقدر تشوف القاهرة كلها. المتحف والدير مش أبراج.",
+      "explanation_en": "From the top of the Cairo Tower (Cairo Tower) you can see all of Cairo. The museum and the monastery are not towers."
+    },
+    {
+      "id": 4,
+      "type": "MCQ",
+      "prompt": "The ___ has old statues and treasures.",
+      "answer": "c",
+      "source_line": 334,
+      "options": [
+        "shopping mall",
+        "post office",
+        "Egyptian Museum",
+        "train station"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "المتحف المصري (Egyptian Museum) فيه تماثيل وكنوز قديمة. shopping mall وpost office مش فيهم كنوز.",
+      "explanation_en": "The Egyptian Museum (Egyptian Museum) has old statues and treasures. A shopping mall and a post office have no treasures."
+    },
+    {
+      "id": 5,
+      "type": "MCQ",
+      "prompt": "Tourists buy gifts at ___.",
+      "answer": "a",
+      "source_line": 335,
+      "options": [
+        "Khan El Khalili Bazaar",
+        "the post office",
+        "the police station",
+        "school"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "السياح بيشتروا هدايا من خان الخليلي (Khan El Khalili Bazaar). مكتب البريد وقسم الشرطة مش بيبيعوا هدايا.",
+      "explanation_en": "Tourists buy gifts from Khan El Khalili (Khan El Khalili Bazaar). The post office and the police station do not sell gifts."
+    },
+    {
+      "id": 6,
+      "type": "MCQ",
+      "prompt": "A ___ shows tourists the famous places.",
+      "answer": "b",
+      "source_line": 336,
+      "options": [
+        "vet",
+        "tour guide",
+        "carpenter",
+        "farmer"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "المرشد السياحي (tour guide) بيوري السياح الأماكن المشهورة. vet وcarpenter وfarmer شغلهم مختلف.",
+      "explanation_en": "The tour guide (tour guide) shows tourists the famous places. vet, carpenter and farmer have different jobs."
+    },
+    {
+      "id": 7,
+      "type": "MCQ",
+      "prompt": "Many ___ visit Egypt to see the Pyramids.",
+      "answer": "a",
+      "source_line": 337,
+      "options": [
+        "tourists",
+        "neighbors",
+        "pupils",
+        "farmers"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "سياح (tourists) كتير بيزوروا مصر عشان يشوفوا الأهرامات. neighbors وpupils وfarmers مش سياح.",
+      "explanation_en": "Many tourists (tourists) visit Egypt to see the pyramids. neighbors, pupils and farmers are not tourists."
+    },
+    {
+      "id": 8,
+      "type": "MCQ",
+      "prompt": "I send letters from the ___.",
+      "answer": "a",
+      "source_line": 338,
+      "options": [
+        "post office",
+        "mall",
+        "museum",
+        "restaurant"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بنبعت الجوابات من مكتب البريد (post office). mall وmuseum مش بيبعتوا جوابات.",
+      "explanation_en": "We send letters from the post office (post office). A mall and a museum do not send letters."
+    },
+    {
+      "id": 9,
+      "type": "MCQ",
+      "prompt": "We buy clothes and toys from the ___.",
+      "answer": "b",
+      "source_line": 339,
+      "options": [
+        "post office",
+        "shopping mall",
+        "museum",
+        "monastery"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنشتري الهدوم واللعب من المول (shopping mall). المتحف والدير مش أماكن بيع.",
+      "explanation_en": "We buy clothes and toys from the mall (shopping mall). The museum and the monastery are not places that sell things."
+    },
+    {
+      "id": 10,
+      "type": "MCQ",
+      "prompt": "We sat at a table and ordered koshari at a ___.",
+      "answer": "b",
+      "source_line": 340,
+      "options": [
+        "store",
+        "restaurant",
+        "museum",
+        "tent"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "قعدنا على ترابيزة وطلبنا كشري في مطعم (restaurant). store محل وmuseum متحف.",
+      "explanation_en": "We sat at a table and ordered koshary in a restaurant (restaurant). store is محل and museum is متحف."
+    },
+    {
+      "id": 11,
+      "type": "MCQ",
+      "prompt": "We sleep in a ___ when we camp in the desert.",
+      "answer": "a",
+      "source_line": 341,
+      "options": [
+        "tent",
+        "tower",
+        "mall",
+        "store"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "بننام في خيمة (tent) لما نعسكر في الصحرا. tower وmall مش للنوم.",
+      "explanation_en": "We sleep in a tent (tent) when we camp in the desert. tower and mall are not for sleeping."
+    },
+    {
+      "id": 12,
+      "type": "MCQ",
+      "prompt": "A ___ is a quiet place where monks live. (دير)",
+      "answer": "b",
+      "source_line": 342,
+      "options": [
+        "mall",
+        "monastery",
+        "bazaar",
+        "museum"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (دير) معناها monastery، وهو مكان هادي بيعيش فيه الرهبان.",
+      "explanation_en": "The Arabic word (دير) means monastery, and it is a quiet place where monks live."
+    },
+    {
+      "id": 13,
+      "type": "MCQ",
+      "prompt": "Saint Catherine's ___ is the highest place in Egypt.",
+      "answer": "b",
+      "source_line": 343,
+      "options": [
+        "River",
+        "Mountain",
+        "Tower",
+        "Bazaar"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "جبل سانت كاترين (Mountain) أعلى مكان في مصر. River نهر وTower برج.",
+      "explanation_en": "Mount Saint Catherine (Mountain) is the highest place in Egypt. River is نهر and Tower is برج."
+    },
+    {
+      "id": 14,
+      "type": "MCQ",
+      "prompt": "Climbing mountains in Sinai is a great ___.",
+      "answer": "b",
+      "source_line": 344,
+      "options": [
+        "gift",
+        "adventure",
+        "treasure",
+        "store"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "تسلق الجبال في سيناء مغامرة (adventure) رائعة. gift هدية وstore محل.",
+      "explanation_en": "Climbing mountains in Sinai is a wonderful adventure (adventure). gift is هدية and store is محل."
+    },
+    {
+      "id": 15,
+      "type": "MCQ",
+      "prompt": "I bought a nice ___ for my mom's birthday from the bazaar.",
+      "answer": "a",
+      "source_line": 345,
+      "options": [
+        "gift",
+        "bill",
+        "map",
+        "ticket"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "اشتريت هدية (gift) لعيد ميلاد ماما من البازار. bill فاتورة وmap خريطة.",
+      "explanation_en": "I bought a gift (gift) for mom's birthday from the bazaar. bill is فاتورة and map is خريطة."
+    },
+    {
+      "id": 16,
+      "type": "MCQ",
+      "prompt": "Can I ___ your camera for the trip? (أستعير)",
+      "answer": "a",
+      "source_line": 346,
+      "options": [
+        "borrow",
+        "sell",
+        "buy",
+        "keep"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (أستعير) معناها borrow. sell يبيع وbuy يشتري وkeep يحتفظ.",
+      "explanation_en": "The Arabic word (أستعير) means borrow. sell is يبيع, buy is يشتري and keep is يحتفظ."
+    },
+    {
+      "id": 17,
+      "type": "MCQ",
+      "prompt": "The museum keeps the kings' gold ___.",
+      "answer": "b",
+      "source_line": 347,
+      "options": [
+        "gifts",
+        "treasures",
+        "tents",
+        "stores"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "المتحف بيحتفظ بكنوز (treasures) الملوك الدهب. gifts هدايا وtents خيام.",
+      "explanation_en": "The museum keeps the treasures (treasures) of the golden kings. gifts is هدايا and tents is خيام."
+    },
+    {
+      "id": 18,
+      "type": "MCQ",
+      "prompt": "The restaurant is ___ the mall and the post office. (بين)",
+      "answer": "a",
+      "source_line": 348,
+      "options": [
+        "between",
+        "behind",
+        "on",
+        "in"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (بين) معناها between، فالمطعم بين المول ومكتب البريد.",
+      "explanation_en": "The Arabic word (بين) means between, so the restaurant is between the mall and the post office."
+    },
+    {
+      "id": 19,
+      "type": "MCQ",
+      "prompt": "The bank is ___ the museum. (بجوار)",
+      "answer": "a",
+      "source_line": 349,
+      "options": [
+        "next to",
+        "under",
+        "between",
+        "on"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (بجوار) معناها next to، يعني جنب. under تحت وbetween بين.",
+      "explanation_en": "The Arabic word (بجوار) means next to, meaning beside. under is تحت and between is بين."
+    },
+    {
+      "id": 20,
+      "type": "MCQ",
+      "prompt": "The bus stop is ___ the mall. (أمام)",
+      "answer": "b",
+      "source_line": 350,
+      "options": [
+        "behind",
+        "in front of",
+        "between",
+        "under"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (أمام) معناها in front of. behind خلف وunder تحت.",
+      "explanation_en": "The Arabic word (أمام) means in front of. behind is خلف and under is تحت."
+    },
+    {
+      "id": 21,
+      "type": "MCQ",
+      "prompt": "The park is ___ the museum. (خلف)",
+      "answer": "c",
+      "source_line": 351,
+      "options": [
+        "in front of",
+        "next to",
+        "behind",
+        "on"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (خلف) معناها behind. in front of أمام وnext to بجوار.",
+      "explanation_en": "The Arabic word (خلف) means behind. in front of is أمام and next to is بجوار."
+    },
+    {
+      "id": 22,
+      "type": "MCQ",
+      "prompt": "The gift shop is ___ my house. (قريب من)",
+      "answer": "a",
+      "source_line": 352,
+      "options": [
+        "near",
+        "far",
+        "between",
+        "under"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (قريب من) معناها near. far بعيد.",
+      "explanation_en": "The Arabic word (قريب من) means near. far is بعيد."
+    },
+    {
+      "id": 23,
+      "type": "MCQ",
+      "prompt": "The treasures are ___ the museum. (داخل)",
+      "answer": "b",
+      "source_line": 353,
+      "options": [
+        "on",
+        "in",
+        "between",
+        "behind"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (داخل) معناها in. on فوق وbehind خلف.",
+      "explanation_en": "The Arabic word (داخل) means in. on is فوق and behind is خلف."
+    },
+    {
+      "id": 24,
+      "type": "MCQ",
+      "prompt": "\"سياح\" in English: ___",
+      "answer": "a",
+      "source_line": 354,
+      "options": [
+        "tourists",
+        "guides",
+        "neighbors",
+        "monks"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (سياح) معناها tourists. guides مرشدين وmonks رهبان.",
+      "explanation_en": "The Arabic word (سياح) means tourists. guides is مرشدين and monks is رهبان."
+    },
+    {
+      "id": 25,
+      "type": "MCQ",
+      "prompt": "\"هدية\" in English: ___",
+      "answer": "b",
+      "source_line": 355,
+      "options": [
+        "treasure",
+        "gift",
+        "tent",
+        "store"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (هدية) معناها gift. treasure كنز وtent خيمة.",
+      "explanation_en": "The Arabic word (هدية) means gift. treasure is كنز and tent is خيمة."
+    },
+    {
+      "id": 26,
+      "type": "MCQ",
+      "prompt": "\"مغامرة\" in English: ___",
+      "answer": "c",
+      "source_line": 356,
+      "options": [
+        "history",
+        "festival",
+        "adventure",
+        "harvest"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (مغامرة) معناها adventure. history تاريخ وharvest حصاد.",
+      "explanation_en": "The Arabic word (مغامرة) means adventure. history is تاريخ and harvest is حصاد."
+    },
+    {
+      "id": 27,
+      "type": "MCQ",
+      "prompt": "The Pyramids are ___ Egypt. (في)",
+      "answer": "a",
+      "source_line": 357,
+      "options": [
+        "in",
+        "on",
+        "next to",
+        "between"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الأهرامات في مصر: in Egypt. بنستخدم in مع البلاد.",
+      "explanation_en": "The pyramids are in Egypt: in Egypt. We use in with countries."
+    },
+    {
+      "id": 28,
+      "type": "MCQ",
+      "prompt": "You can buy gold and spices at the ___.",
+      "answer": "b",
+      "source_line": 358,
+      "options": [
+        "post office",
+        "bazaar",
+        "museum",
+        "tower"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "بنشتري الدهب والتوابل من البازار (bazaar). مكتب البريد والمتحف مش بيبيعوا توابل.",
+      "explanation_en": "We buy gold and spices from the bazaar (bazaar). The post office and the museum do not sell spices."
+    },
+    {
+      "id": 29,
+      "type": "MCQ",
+      "prompt": "The Egyptian Museum is ___ Cairo.",
+      "answer": "a",
+      "source_line": 359,
+      "options": [
+        "in",
+        "on",
+        "under",
+        "between"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "المتحف المصري في القاهرة: in Cairo. بنستخدم in مع المدن.",
+      "explanation_en": "The Egyptian Museum is in Cairo: in Cairo. We use in with cities."
+    },
+    {
+      "id": 30,
+      "type": "MCQ",
+      "prompt": "A ___ sells bread and milk. (متجر صغير)",
+      "answer": "a",
+      "source_line": 360,
+      "options": [
+        "store",
+        "mall",
+        "bazaar",
+        "museum"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (متجر صغير) معناها store، وهو بيبيع عيش ولبن. mall مول كبير.",
+      "explanation_en": "The Arabic word (متجر صغير) means store, and it sells bread and milk. mall is a big mall."
+    },
+    {
+      "id": 31,
+      "type": "MCQ",
+      "prompt": "We took photos ___ the Pyramids. (أمام)",
+      "answer": "a",
+      "source_line": 361,
+      "options": [
+        "in front of",
+        "behind",
+        "under",
+        "between"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "صورنا قدام الأهرامات: in front of. behind خلف وunder تحت.",
+      "explanation_en": "We took photos in front of the pyramids: in front of. behind is خلف and under is تحت."
+    },
+    {
+      "id": 32,
+      "type": "MCQ",
+      "prompt": "The Nile is ___ Cairo and Giza. (بين)",
+      "answer": "a",
+      "source_line": 362,
+      "options": [
+        "between",
+        "next to",
+        "near",
+        "on"
+      ],
+      "answer_index": 0,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (بين) معناها between، فالنيل بين القاهرة والجيزة.",
+      "explanation_en": "The Arabic word (بين) means between, so the Nile is between Cairo and Giza."
+    },
+    {
+      "id": 33,
+      "type": "MCQ",
+      "prompt": "My father works ___ Cairo Tower. (قريبًا من)",
+      "answer": "b",
+      "source_line": 363,
+      "options": [
+        "far",
+        "near",
+        "between",
+        "under"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "الكلمة العربية (قريبًا من) معناها near، فأبويا بيشتغل قريب من برج القاهرة.",
+      "explanation_en": "The Arabic word (قريبًا من) means near, so my father works near the Cairo Tower."
+    },
+    {
+      "id": 34,
+      "type": "COMPLETE",
+      "prompt": "The ___ in Giza are famous all over the world.",
+      "answer": "Pyramids",
+      "source_line": 366,
+      "models": [
+        "Pyramids"
+      ],
+      "wordbox": [
+        "Pyramids",
+        "Nile",
+        "Museum",
+        "bazaar",
+        "guide",
+        "tourists",
+        "gifts",
+        "post office",
+        "mall",
+        "restaurant",
+        "tent",
+        "mountain",
+        "monastery",
+        "adventure"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الأهرامات في الجيزة مشهورة في العالم كله: Pyramids. الكلمة جمع.",
+      "explanation_en": "The Pyramids in Giza are famous all over the world: Pyramids. The word is plural."
+    },
+    {
+      "id": 35,
+      "type": "COMPLETE",
+      "prompt": "The ___ River is the longest river in Egypt.",
+      "answer": "Nile",
+      "source_line": 367,
+      "models": [
+        "Nile"
+      ],
+      "wordbox": [
+        "Pyramids",
+        "Nile",
+        "Museum",
+        "bazaar",
+        "guide",
+        "tourists",
+        "gifts",
+        "post office",
+        "mall",
+        "restaurant",
+        "tent",
+        "mountain",
+        "monastery",
+        "adventure"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نهر النيل أطول نهر في مصر: Nile.",
+      "explanation_en": "The Nile is the longest river in Egypt: Nile."
+    },
+    {
+      "id": 36,
+      "type": "COMPLETE",
+      "prompt": "We saw the king's gold mask at the Egyptian ___.",
+      "answer": "Museum",
+      "source_line": 368,
+      "models": [
+        "Museum"
+      ],
+      "wordbox": [
+        "Pyramids",
+        "Nile",
+        "Museum",
+        "bazaar",
+        "guide",
+        "tourists",
+        "gifts",
+        "post office",
+        "mall",
+        "restaurant",
+        "tent",
+        "mountain",
+        "monastery",
+        "adventure"
+      ],
+      "grading": "closed",
+      "explanation_ar": "شفنا قناع الملك الدهب في المتحف المصري: Museum.",
+      "explanation_en": "We saw the golden mask of the king in the Egyptian Museum: Museum."
+    },
+    {
+      "id": 37,
+      "type": "COMPLETE",
+      "prompt": "Tourists buy gifts at Khan El Khalili ___.",
+      "answer": "bazaar",
+      "source_line": 369,
+      "models": [
+        "bazaar"
+      ],
+      "wordbox": [
+        "Pyramids",
+        "Nile",
+        "Museum",
+        "bazaar",
+        "guide",
+        "tourists",
+        "gifts",
+        "post office",
+        "mall",
+        "restaurant",
+        "tent",
+        "mountain",
+        "monastery",
+        "adventure"
+      ],
+      "grading": "closed",
+      "explanation_ar": "السياح بيشتروا هدايا من خان الخليلي: bazaar.",
+      "explanation_en": "Tourists buy gifts from Khan El Khalili: bazaar."
+    },
+    {
+      "id": 38,
+      "type": "COMPLETE",
+      "prompt": "The tour ___ told us about the temples.",
+      "answer": "guide",
+      "source_line": 370,
+      "models": [
+        "guide"
+      ],
+      "wordbox": [
+        "Pyramids",
+        "Nile",
+        "Museum",
+        "bazaar",
+        "guide",
+        "tourists",
+        "gifts",
+        "post office",
+        "mall",
+        "restaurant",
+        "tent",
+        "mountain",
+        "monastery",
+        "adventure"
+      ],
+      "grading": "closed",
+      "explanation_ar": "المرشد السياحي حكى لنا عن المعابد: guide.",
+      "explanation_en": "The tour guide told us about the temples: guide."
+    },
+    {
+      "id": 39,
+      "type": "COMPLETE",
+      "prompt": "Many ___ come to Egypt every year.",
+      "answer": "tourists",
+      "source_line": 371,
+      "models": [
+        "tourists"
+      ],
+      "wordbox": [
+        "Pyramids",
+        "Nile",
+        "Museum",
+        "bazaar",
+        "guide",
+        "tourists",
+        "gifts",
+        "post office",
+        "mall",
+        "restaurant",
+        "tent",
+        "mountain",
+        "monastery",
+        "adventure"
+      ],
+      "grading": "closed",
+      "explanation_ar": "سياح كتير بييجوا مصر كل سنة: tourists. جمع لأن Many قبلها.",
+      "explanation_en": "Many tourists come to Egypt every year: tourists. It is plural because Many comes before it."
+    },
+    {
+      "id": 40,
+      "type": "COMPLETE",
+      "prompt": "I bought two ___ for my friends from the market.",
+      "answer": "gifts",
+      "source_line": 372,
+      "models": [
+        "gifts"
+      ],
+      "wordbox": [
+        "Pyramids",
+        "Nile",
+        "Museum",
+        "bazaar",
+        "guide",
+        "tourists",
+        "gifts",
+        "post office",
+        "mall",
+        "restaurant",
+        "tent",
+        "mountain",
+        "monastery",
+        "adventure"
+      ],
+      "grading": "closed",
+      "explanation_ar": "اشتريت اتنين هدايا لصحابي من السوق: gifts. جمع لأن two قبلها.",
+      "explanation_en": "I bought two gifts for my friends from the market: gifts. It is plural because two comes before it."
+    },
+    {
+      "id": 41,
+      "type": "COMPLETE",
+      "prompt": "Grandpa sends his letters from the ___.",
+      "answer": "post office",
+      "source_line": 373,
+      "models": [
+        "post office"
+      ],
+      "wordbox": [
+        "Pyramids",
+        "Nile",
+        "Museum",
+        "bazaar",
+        "guide",
+        "tourists",
+        "gifts",
+        "post office",
+        "mall",
+        "restaurant",
+        "tent",
+        "mountain",
+        "monastery",
+        "adventure"
+      ],
+      "grading": "closed",
+      "explanation_ar": "جدو بيبعت جواباته من مكتب البريد: post office.",
+      "explanation_en": "Grandpa sends his letters from the post office: post office."
+    },
+    {
+      "id": 42,
+      "type": "COMPLETE",
+      "prompt": "We bought new shoes from the shopping ___.",
+      "answer": "mall",
+      "source_line": 374,
+      "models": [
+        "mall"
+      ],
+      "wordbox": [
+        "Pyramids",
+        "Nile",
+        "Museum",
+        "bazaar",
+        "guide",
+        "tourists",
+        "gifts",
+        "post office",
+        "mall",
+        "restaurant",
+        "tent",
+        "mountain",
+        "monastery",
+        "adventure"
+      ],
+      "grading": "closed",
+      "explanation_ar": "اشترينا جزم جديدة من المول: mall.",
+      "explanation_en": "We bought new shoes from the mall: mall."
+    },
+    {
+      "id": 43,
+      "type": "COMPLETE",
+      "prompt": "The family ate dinner at a fish ___.",
+      "answer": "restaurant",
+      "source_line": 375,
+      "models": [
+        "restaurant"
+      ],
+      "wordbox": [
+        "Pyramids",
+        "Nile",
+        "Museum",
+        "bazaar",
+        "guide",
+        "tourists",
+        "gifts",
+        "post office",
+        "mall",
+        "restaurant",
+        "tent",
+        "mountain",
+        "monastery",
+        "adventure"
+      ],
+      "grading": "closed",
+      "explanation_ar": "العيلة اتعشّت في مطعم سمك: restaurant.",
+      "explanation_en": "The family had dinner in a fish restaurant: restaurant."
+    },
+    {
+      "id": 44,
+      "type": "COMPLETE",
+      "prompt": "We slept in a ___ in the desert.",
+      "answer": "tent",
+      "source_line": 376,
+      "models": [
+        "tent"
+      ],
+      "wordbox": [
+        "Pyramids",
+        "Nile",
+        "Museum",
+        "bazaar",
+        "guide",
+        "tourists",
+        "gifts",
+        "post office",
+        "mall",
+        "restaurant",
+        "tent",
+        "mountain",
+        "monastery",
+        "adventure"
+      ],
+      "grading": "closed",
+      "explanation_ar": "نمنا في خيمة في الصحرا: tent.",
+      "explanation_en": "We slept in a tent in the desert: tent."
+    },
+    {
+      "id": 45,
+      "type": "COMPLETE",
+      "prompt": "Mount Catherine is the highest ___ in Egypt.",
+      "answer": "mountain",
+      "source_line": 377,
+      "models": [
+        "mountain"
+      ],
+      "wordbox": [
+        "Pyramids",
+        "Nile",
+        "Museum",
+        "bazaar",
+        "guide",
+        "tourists",
+        "gifts",
+        "post office",
+        "mall",
+        "restaurant",
+        "tent",
+        "mountain",
+        "monastery",
+        "adventure"
+      ],
+      "grading": "closed",
+      "explanation_ar": "جبل كاترين أعلى جبل في مصر: mountain.",
+      "explanation_en": "Mount Catherine is the highest mountain in Egypt: mountain."
+    },
+    {
+      "id": 46,
+      "type": "COMPLETE",
+      "prompt": "The old ___ is quiet and beautiful. (الدير)",
+      "answer": "monastery",
+      "source_line": 378,
+      "models": [
+        "monastery"
+      ],
+      "wordbox": [
+        "Pyramids",
+        "Nile",
+        "Museum",
+        "bazaar",
+        "guide",
+        "tourists",
+        "gifts",
+        "post office",
+        "mall",
+        "restaurant",
+        "tent",
+        "mountain",
+        "monastery",
+        "adventure"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الدير القديم هادي وجميل: monastery. الكلمة العربية (الدير) هي الدليل.",
+      "explanation_en": "The old monastery is quiet and beautiful: monastery. The Arabic word (الدير) is the clue."
+    },
+    {
+      "id": 47,
+      "type": "COMPLETE",
+      "prompt": "A boat trip on the Nile is a wonderful ___.",
+      "answer": "adventure",
+      "source_line": 379,
+      "models": [
+        "adventure"
+      ],
+      "wordbox": [
+        "Pyramids",
+        "Nile",
+        "Museum",
+        "bazaar",
+        "guide",
+        "tourists",
+        "gifts",
+        "post office",
+        "mall",
+        "restaurant",
+        "tent",
+        "mountain",
+        "monastery",
+        "adventure"
+      ],
+      "grading": "closed",
+      "explanation_ar": "رحلة المركب في النيل مغامرة رائعة: adventure.",
+      "explanation_en": "The boat trip on the Nile is a wonderful adventure: adventure."
+    },
+    {
+      "id": 48,
+      "type": "CORRECT",
+      "prompt": "The museum is (on) Cairo.",
+      "answer": "in",
+      "source_line": 382,
+      "models": [
+        "in"
+      ],
+      "grading": "closed",
+      "explanation_ar": "المتحف في القاهرة (مدينة)، فنستخدم in مش on.",
+      "explanation_en": "The museum is in Cairo (a city), so we use in, not on."
+    },
+    {
+      "id": 49,
+      "type": "CORRECT",
+      "prompt": "We slept (on) a tent in the desert.",
+      "answer": "in",
+      "source_line": 383,
+      "models": [
+        "in"
+      ],
+      "grading": "closed",
+      "explanation_ar": "ننام جوه الخيمة، فنستخدم in مش on.",
+      "explanation_en": "We sleep inside the tent, so we use in, not on."
+    },
+    {
+      "id": 50,
+      "type": "CORRECT",
+      "prompt": "The bank is (between) the museum and the mall.",
+      "answer": "between",
+      "source_line": 384,
+      "models": [
+        "between"
+      ],
+      "grading": "closed",
+      "explanation_ar": "الجملة صحيحة بالفعل: between معناها بين شيئين (المتحف والمول).",
+      "explanation_en": "The sentence is already correct: between means between two things (the museum and the mall)."
+    },
+    {
+      "id": 51,
+      "type": "CORRECT",
+      "prompt": "Tourists (visits) the Pyramids every year.",
+      "answer": "visit",
+      "source_line": 385,
+      "models": [
+        "visit"
+      ],
+      "grading": "closed",
+      "explanation_ar": "Tourists جمع، فالفعل من غير s: visit. المطلوب نصحح visits لـ visit.",
+      "explanation_en": "Tourists is plural, so the verb has no s: visit. We need to correct visits to visit."
+    },
+    {
+      "id": 52,
+      "type": "CORRECT",
+      "prompt": "The guide (tell) us about the treasures.",
+      "answer": "tells",
+      "source_line": 386,
+      "models": [
+        "tells"
+      ],
+      "grading": "closed",
+      "explanation_ar": "The guide مفرد، فالفعل tell بياخد s: tells.",
+      "explanation_en": "The guide is singular, so the verb tell takes s: tells."
+    },
+    {
+      "id": 53,
+      "type": "CORRECT",
+      "prompt": "I (buy) a gift for my mom yesterday.",
+      "answer": "bought",
+      "source_line": 387,
+      "models": [
+        "bought"
+      ],
+      "grading": "closed",
+      "explanation_ar": "كلمة yesterday بتدل على الماضي، وماضي buy هو bought.",
+      "explanation_en": "The word yesterday shows the past, and the past of buy is bought."
+    },
+    {
+      "id": 54,
+      "type": "CORRECT",
+      "prompt": "The restaurant is (next) the post office.",
+      "answer": "next to",
+      "source_line": 388,
+      "models": [
+        "next to"
+      ],
+      "grading": "closed",
+      "explanation_ar": "بنقول next to للدلالة على الجنب. next لوحدها ناقصة.",
+      "explanation_en": "We say next to to show beside. next alone is incomplete."
+    },
+    {
+      "id": 55,
+      "type": "CORRECT",
+      "prompt": "We (goes) to the museum last week.",
+      "answer": "went",
+      "source_line": 389,
+      "models": [
+        "went"
+      ],
+      "grading": "closed",
+      "explanation_ar": "كلمة last week بتدل على الماضي، وماضي go هو went. المطلوب نصحح goes لـ went.",
+      "explanation_en": "The words last week show the past, and the past of go is went. We need to correct goes to went."
+    },
+    {
+      "id": 56,
+      "type": "CORRECT",
+      "prompt": "The bank is (in) the mall and the post office.",
+      "answer": "between",
+      "source_line": 390,
+      "models": [
+        "between"
+      ],
+      "grading": "closed",
+      "explanation_ar": "المكان بين اتنين، فنقول between مش in.",
+      "explanation_en": "The place is between two things, so we say between, not in."
+    },
+    {
+      "id": 57,
+      "type": "CORRECT",
+      "prompt": "He (take) many photos at the bazaar every Friday.",
+      "answer": "takes",
+      "source_line": 391,
+      "models": [
+        "takes"
+      ],
+      "grading": "closed",
+      "explanation_ar": "He مفرد وكل جمعة (عادة)، فالفعل take بياخد s: takes.",
+      "explanation_en": "He is singular, and every Friday is a habit, so the verb take takes s: takes."
+    },
+    {
+      "id": 58,
+      "type": "PUNCT",
+      "prompt": "the pyramids are in giza",
+      "answer": "The Pyramids are in Giza.",
+      "source_line": 394,
+      "models": [
+        "The Pyramids are in Giza."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: The Pyramids are in Giza. بنبدأ بحرف كبير (The) وننهي بالنقطة (.) لأنها جملة عادية. والأسماء زي الأسماء الخاصة بتبدأ بحرف كبير دايمًا.",
+      "explanation_en": "The correct sentence: The Pyramids are in Giza. We start with a capital letter (The) and end with a full stop (.) because it is a regular sentence. Names, like proper nouns, always start with a capital letter."
+    },
+    {
+      "id": 59,
+      "type": "PUNCT",
+      "prompt": "tourists visit the egyptian museum",
+      "answer": "Tourists visit the Egyptian Museum.",
+      "source_line": 395,
+      "models": [
+        "Tourists visit the Egyptian Museum."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Tourists visit the Egyptian Museum. بنبدأ بحرف كبير (Tourists) وننهي بالنقطة (.) لأنها جملة عادية. والأسماء زي الأسماء الخاصة بتبدأ بحرف كبير دايمًا.",
+      "explanation_en": "The correct sentence: Tourists visit the Egyptian Museum. We start with a capital letter (Tourists) and end with a full stop (.) because it is a regular sentence. Names, like proper nouns, always start with a capital letter."
+    },
+    {
+      "id": 60,
+      "type": "PUNCT",
+      "prompt": "is the nile the longest river in egypt",
+      "answer": "Is the Nile the longest river in Egypt?",
+      "source_line": 396,
+      "models": [
+        "Is the Nile the longest river in Egypt?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Is the Nile the longest river in Egypt? بنبدأ بحرف كبير (Is) وننهي بعلامة الاستفهام (?) لأنها سؤال. والأسماء زي الأسماء الخاصة بتبدأ بحرف كبير دايمًا.",
+      "explanation_en": "The correct sentence: Is the Nile the longest river in Egypt? We start with a capital letter (Is) and end with a question mark (?) because it is a question. Names, like proper nouns, always start with a capital letter."
+    },
+    {
+      "id": 61,
+      "type": "PUNCT",
+      "prompt": "we bought gifts from khan el khalili",
+      "answer": "We bought gifts from Khan El Khalili.",
+      "source_line": 397,
+      "models": [
+        "We bought gifts from Khan El Khalili."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: We bought gifts from Khan El Khalili. بنبدأ بحرف كبير (We) وننهي بالنقطة (.) لأنها جملة عادية. والأسماء زي الأسماء الخاصة بتبدأ بحرف كبير دايمًا.",
+      "explanation_en": "The correct sentence: We bought gifts from Khan El Khalili. We start with a capital letter (We) and end with a full stop (.) because it is a regular sentence. Names, like proper nouns, always start with a capital letter."
+    },
+    {
+      "id": 62,
+      "type": "PUNCT",
+      "prompt": "the bank is next to the museum",
+      "answer": "The bank is next to the museum.",
+      "source_line": 398,
+      "models": [
+        "The bank is next to the museum."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: The bank is next to the museum. بنبدأ بحرف كبير (The) وننهي بالنقطة (.) لأنها جملة عادية.",
+      "explanation_en": "The correct sentence: The bank is next to the museum. We start with a capital letter (The) and end with a full stop (.) because it is a regular sentence."
+    },
+    {
+      "id": 63,
+      "type": "PUNCT",
+      "prompt": "did you climb the mountain",
+      "answer": "Did you climb the mountain?",
+      "source_line": 399,
+      "models": [
+        "Did you climb the mountain?"
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الجملة الصحيحة: Did you climb the mountain? بنبدأ بحرف كبير (Did) وننهي بعلامة الاستفهام (?) لأنها سؤال.",
+      "explanation_en": "The correct sentence: Did you climb the mountain? We start with a capital letter (Did) and end with a question mark (?) because it is a question."
+    },
+    {
+      "id": 64,
+      "type": "READ",
+      "prompt": "Hala works as a ___.",
+      "answer": "b",
+      "source_line": 403,
+      "passage": "Hala is a tour guide in Cairo. She loves her job. Every morning, she meets tourists at the Egyptian Museum in Tahrir Square. The museum is full of old treasures. After that, the tourists walk to Khan El Khalili Bazaar. They buy gifts and drink mint tea there. Hala tells them stories about Cairo's history. The tourists take photos in front of the old shops. They are always happy at the end of the day.",
+      "options": [
+        "teacher",
+        "tour guide",
+        "shop keeper",
+        "vet"
+      ],
+      "answer_index": 1,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: Hala is a tour guide in Cairo. يعني هالة مرشدة سياحية: tour guide.",
+      "explanation_en": "The passage says: Hala is a tour guide in Cairo. So Hala is a tour guide: tour guide."
+    },
+    {
+      "id": 65,
+      "type": "READ",
+      "prompt": "The tourists drink ___ at the bazaar.",
+      "answer": "c",
+      "source_line": 404,
+      "passage": "Hala is a tour guide in Cairo. She loves her job. Every morning, she meets tourists at the Egyptian Museum in Tahrir Square. The museum is full of old treasures. After that, the tourists walk to Khan El Khalili Bazaar. They buy gifts and drink mint tea there. Hala tells them stories about Cairo's history. The tourists take photos in front of the old shops. They are always happy at the end of the day.",
+      "options": [
+        "coffee",
+        "juice",
+        "mint tea",
+        "milk"
+      ],
+      "answer_index": 2,
+      "grading": "closed",
+      "explanation_ar": "القطعة بتقول: They buy gifts and drink mint tea there. يعني بيشربوا شاي بالنعناع: mint tea.",
+      "explanation_en": "The passage says: They buy gifts and drink mint tea there. So they drink mint tea: mint tea."
+    },
+    {
+      "id": 66,
+      "type": "READ",
+      "prompt": "Where does Hala meet the tourists?",
+      "answer": "At the Egyptian Museum (in Tahrir Square).",
+      "source_line": 405,
+      "models": [
+        "At the Egyptian Museum (in Tahrir Square)."
+      ],
+      "passage": "Hala is a tour guide in Cairo. She loves her job. Every morning, she meets tourists at the Egyptian Museum in Tahrir Square. The museum is full of old treasures. After that, the tourists walk to Khan El Khalili Bazaar. They buy gifts and drink mint tea there. Hala tells them stories about Cairo's history. The tourists take photos in front of the old shops. They are always happy at the end of the day.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: she meets tourists at the Egyptian Museum in Tahrir Square. يعني عند المتحف المصري في ميدان التحرير.",
+      "explanation_en": "The passage says: she meets tourists at the Egyptian Museum in Tahrir Square. So at the Egyptian Museum in Tahrir Square."
+    },
+    {
+      "id": 67,
+      "type": "READ",
+      "prompt": "What is the museum full of?",
+      "answer": "Old treasures.",
+      "source_line": 406,
+      "models": [
+        "Old treasures."
+      ],
+      "passage": "Hala is a tour guide in Cairo. She loves her job. Every morning, she meets tourists at the Egyptian Museum in Tahrir Square. The museum is full of old treasures. After that, the tourists walk to Khan El Khalili Bazaar. They buy gifts and drink mint tea there. Hala tells them stories about Cairo's history. The tourists take photos in front of the old shops. They are always happy at the end of the day.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: The museum is full of old treasures. يعني مليان كنوز قديمة: Old treasures.",
+      "explanation_en": "The passage says: The museum is full of old treasures. So it is full of old treasures: Old treasures."
+    },
+    {
+      "id": 68,
+      "type": "READ",
+      "prompt": "What do the tourists take photos of?",
+      "answer": "The old shops.",
+      "source_line": 407,
+      "models": [
+        "The old shops."
+      ],
+      "passage": "Hala is a tour guide in Cairo. She loves her job. Every morning, she meets tourists at the Egyptian Museum in Tahrir Square. The museum is full of old treasures. After that, the tourists walk to Khan El Khalili Bazaar. They buy gifts and drink mint tea there. Hala tells them stories about Cairo's history. The tourists take photos in front of the old shops. They are always happy at the end of the day.",
+      "grading": "model_review",
+      "explanation_ar": "القطعة بتقول: The tourists take photos in front of the old shops. يعني بيصوروا المحلات القديمة: The old shops.",
+      "explanation_en": "The passage says: The tourists take photos in front of the old shops. So they photograph the old shops: The old shops."
+    },
+    {
+      "id": 69,
+      "type": "REORDER",
+      "prompt": "are – The – Giza. – Pyramids – in",
+      "answer": "The Pyramids are in Giza.",
+      "source_line": 410,
+      "models": [
+        "The Pyramids are in Giza."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: The Pyramids are in Giza. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: The Pyramids are in Giza. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 70,
+      "type": "REORDER",
+      "prompt": "is – Nile – longest – The – Egypt. – in – river – the",
+      "answer": "The Nile is the longest river in Egypt.",
+      "source_line": 411,
+      "models": [
+        "The Nile is the longest river in Egypt."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: The Nile is the longest river in Egypt. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: The Nile is the longest river in Egypt. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 71,
+      "type": "REORDER",
+      "prompt": "next – bank – to – The – is – museum. – the",
+      "answer": "The bank is next to the museum.",
+      "source_line": 412,
+      "models": [
+        "The bank is next to the museum."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: The bank is next to the museum. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: The bank is next to the museum. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 72,
+      "type": "REORDER",
+      "prompt": "at – meet – museum. – Tourists – the",
+      "answer": "Tourists meet at the museum.",
+      "source_line": 413,
+      "models": [
+        "Tourists meet at the museum."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: Tourists meet at the museum. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: Tourists meet at the museum. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 73,
+      "type": "REORDER",
+      "prompt": "bought – gifts. – We – bazaar – at – the",
+      "answer": "We bought gifts at the bazaar.",
+      "source_line": 414,
+      "models": [
+        "We bought gifts at the bazaar."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: We bought gifts at the bazaar. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: We bought gifts at the bazaar. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 74,
+      "type": "REORDER",
+      "prompt": "a – slept – in – tent. – We",
+      "answer": "We slept in a tent.",
+      "source_line": 415,
+      "models": [
+        "We slept in a tent."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: We slept in a tent. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: We slept in a tent. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 75,
+      "type": "REORDER",
+      "prompt": "is – between – restaurant – mall – the – The – and – shop. – the",
+      "answer": "The restaurant is between the mall and the shop.",
+      "source_line": 416,
+      "models": [
+        "The restaurant is between the mall and the shop."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: The restaurant is between the mall and the shop. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: The restaurant is between the mall and the shop. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 76,
+      "type": "REORDER",
+      "prompt": "photos – took – Pyramids. – They – in front of – the",
+      "answer": "They took photos in front of the Pyramids.",
+      "source_line": 417,
+      "models": [
+        "They took photos in front of the Pyramids."
+      ],
+      "grading": "model_review",
+      "explanation_ar": "الترتيب الصحيح: They took photos in front of the Pyramids. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح.",
+      "explanation_en": "Correct order: They took photos in front of the Pyramids. الكلمة الأولى بحرف كبير، وننهي بالنقطة (.). رتّب الكلمات عشان المعنى يتضح."
+    },
+    {
+      "id": 77,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about a famous place in Egypt (at least 20 words). Guiding elements: Pyramids - Giza - old - tourists.",
+      "answer": "The Pyramids are in Giza near Cairo. They are very old and famous. Many tourists visit them every year. I love the Pyramids very much.",
+      "source_line": 420,
+      "models": [
+        "The Pyramids are in Giza near Cairo. They are very old and famous. Many tourists visit them every year. I love the Pyramids very much."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 25,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about a famous place in Egypt) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: Pyramids، Giza، old، tourists، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: The Pyramids are in Giza near Cairo. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة.",
+      "explanation_en": "You need to write 4 full sentences (about a famous place in Egypt) with at least 20 words. Use the guide words: Pyramids,  Giza,  old,  tourists, each in a sentence. Each sentence starts with a capital letter and ends with a full stop. Example sentence: The Pyramids are in Giza near Cairo. The answer is a model answer and it is checked by reviewing the sentence."
+    },
+    {
+      "id": 78,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about a trip you took (at least 20 words). Guiding elements: went - saw - bought - happy.",
+      "answer": "I went to Luxor with my family. We saw the big temples. I bought gifts for my friends. We were very happy.",
+      "source_line": 421,
+      "models": [
+        "I went to Luxor with my family. We saw the big temples. I bought gifts for my friends. We were very happy."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 22,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about a trip you took) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: went، saw، bought، happy، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: I went to Luxor with my family. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة.",
+      "explanation_en": "You need to write 4 full sentences (about a trip you took) with at least 20 words. Use the guide words: went,  saw,  bought,  happy, each in a sentence. Each sentence starts with a capital letter and ends with a full stop. Example sentence: I went to Luxor with my family. The answer is a model answer and it is checked by reviewing the sentence."
+    },
+    {
+      "id": 79,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about places in your city (at least 20 words). Guiding elements: mall - restaurant - next to - near.",
+      "answer": "There is a big mall in my city. The restaurant is next to the mall. The park is near my house. I like my city.",
+      "source_line": 422,
+      "models": [
+        "There is a big mall in my city. The restaurant is next to the mall. The park is near my house. I like my city."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 25,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about places in your city) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: mall، restaurant، next to، near، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: There is a big mall in my city. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة.",
+      "explanation_en": "You need to write 4 full sentences (about places in your city) with at least 20 words. Use the guide words: mall,  restaurant,  next to,  near, each in a sentence. Each sentence starts with a capital letter and ends with a full stop. Example sentence: There is a big mall in my city. The answer is a model answer and it is checked by reviewing the sentence."
+    },
+    {
+      "id": 80,
+      "type": "WRITE",
+      "prompt": "Write 4 sentences about the Egyptian Museum (at least 20 words). Guiding elements: museum - treasures - tourists - photos.",
+      "answer": "The Egyptian Museum is in Cairo. It has many old treasures. Tourists visit it every day. They take many photos.",
+      "source_line": 423,
+      "models": [
+        "The Egyptian Museum is in Cairo. It has many old treasures. Tourists visit it every day. They take many photos."
+      ],
+      "grading": "model_review",
+      "min_words": 20,
+      "sentences": 4,
+      "model_words": 20,
+      "explanation_ar": "المطلوب تكتب 4 جمل كاملة (about the Egyptian Museum) في 20 كلمة على الأقل. استخدم الكلمات الإرشادية: museum، treasures، tourists، photos، كل واحدة في جملة. كل جملة تبدأ بحرف كبير وتنتهي بنقطة. مثال على جملة: The Egyptian Museum is in Cairo. الإجابة نموذجية ويتم تقييمها بمراجعة الجملة.",
+      "explanation_en": "You need to write 4 full sentences (about the Egyptian Museum) with at least 20 words. Use the guide words: museum,  treasures,  tourists,  photos, each in a sentence. Each sentence starts with a capital letter and ends with a full stop. Example sentence: The Egyptian Museum is in Cairo. The answer is a model answer and it is checked by reviewing the sentence."
+    }
+  ],
+  "passage_words": 75,
+  "version": "2e49df7d65f5"
+}

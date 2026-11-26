@@ -1,0 +1,1241 @@
+{
+ "grade": "p4",
+ "gradeName": "الصف الرابع الابتدائي",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "The Five Senses",
+   "pages": [
+    7,
+    22
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "What are the Five Senses?"
+    },
+    {
+     "n": 2,
+     "title": "Healthy Habits"
+    },
+    {
+     "n": 3,
+     "title": "Story Time: Goha's Great Meal"
+    },
+    {
+     "n": 4,
+     "title": "Writing: Sequence Words"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: A Presentation"
+    }
+   ],
+   "vocab": [
+    "taste",
+    "smell",
+    "see",
+    "hear",
+    "touch",
+    "senses",
+    "energy",
+    "habits",
+    "sharp",
+    "mind"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Present Simple Affirmative",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "short vowels vs long vowels",
+     "cluster": "",
+     "words": [
+      "hat",
+      "pot",
+      "pen",
+      "plate",
+      "home",
+      "feed"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "satihb",
+       "answer": [
+        "habits"
+       ],
+       "hint": "عادات"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ees",
+       "answer": [
+        "see"
+       ],
+       "hint": "يرى"
+      },
+      {
+       "type": "unscramble",
+       "letters": "yredge",
+       "answer": [
+        "greedy"
+       ],
+       "hint": "جشع"
+      },
+      {
+       "type": "unscramble",
+       "letters": "oicn",
+       "answer": [
+        "coin"
+       ],
+       "hint": "عملة معدنية"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ehar",
+       "answer": [
+        "hear"
+       ],
+       "hint": "يسمع"
+      },
+      {
+       "type": "unscramble",
+       "letters": "etsat",
+       "answer": [
+        "taste"
+       ],
+       "hint": "يتذوّق"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_at",
+       "answer": [
+        "h"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ot",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_en",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_late",
+       "answer": [
+        "p"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "My Community",
+   "pages": [
+    23,
+    38
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Helping the Community"
+    },
+    {
+     "n": 2,
+     "title": "Community Problems and Solutions"
+    },
+    {
+     "n": 3,
+     "title": "Egypt My Culture"
+    },
+    {
+     "n": 4,
+     "title": "Writing: A Diary Entry"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: A Poster"
+    }
+   ],
+   "vocab": [
+    "collect",
+    "volunteer",
+    "feed",
+    "community",
+    "neighbor",
+    "neighborhood",
+    "solution",
+    "trash",
+    "bin",
+    "traffic"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Present Simple Negative/Question",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "/f/ (voiceless) vs /v/ (voiced)",
+     "cluster": "",
+     "words": [
+      "fish",
+      "frog",
+      "forest",
+      "factory",
+      "flag",
+      "van",
+      "violin",
+      "view",
+      "vest"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "onouistl",
+       "answer": [
+        "solution"
+       ],
+       "hint": "حل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tantiso",
+       "answer": [
+        "station"
+       ],
+       "hint": "محطة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "hroogiobhnde",
+       "answer": [
+        "neighborhood"
+       ],
+       "hint": "الحي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "icftfar",
+       "answer": [
+        "traffic"
+       ],
+       "hint": "مرور"
+      },
+      {
+       "type": "unscramble",
+       "letters": "uibna",
+       "answer": [
+        "nubia"
+       ],
+       "hint": "النوبة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "uutlrce",
+       "answer": [
+        "culture"
+       ],
+       "hint": "ثقافة"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ish",
+       "answer": [
+        "f"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_rog",
+       "answer": [
+        "f"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_orest",
+       "answer": [
+        "f"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_actory",
+       "answer": [
+        "f"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "Animals in Our World",
+   "pages": [
+    39,
+    56
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Let's Meet the Animals!"
+    },
+    {
+     "n": 2,
+     "title": "Taking Care of Animals"
+    },
+    {
+     "n": 3,
+     "title": "Story Time: The Old Lion and The Fox"
+    },
+    {
+     "n": 4,
+     "title": "Writing: A Research Report"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: A Collage"
+    }
+   ],
+   "vocab": [
+    "forest",
+    "park",
+    "guide",
+    "elephant",
+    "monkey",
+    "giraffe",
+    "zebra",
+    "bear",
+    "vet",
+    "challenge"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Comparative adjectives",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "consonant blends /fr/ /dr/ /pl/",
+     "cluster": "fr",
+     "words": [
+      "frown",
+      "fruit",
+      "drum",
+      "draw",
+      "plane",
+      "plant"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "lchenagel",
+       "answer": [
+        "challenge"
+       ],
+       "hint": "تحدٍ"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nowre",
+       "answer": [
+        "owner"
+       ],
+       "hint": "مالك"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eugdi",
+       "answer": [
+        "guide"
+       ],
+       "hint": "مرشد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "caev",
+       "answer": [
+        "cave"
+       ],
+       "hint": "كهف"
+      },
+      {
+       "type": "unscramble",
+       "letters": "abezr",
+       "answer": [
+        "zebra"
+       ],
+       "hint": "حمار وحشي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "laner",
+       "answer": [
+        "learn"
+       ],
+       "hint": "يتعلم"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_own",
+       "answer": [
+        "fr"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_um",
+       "answer": [
+        "dr"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ane",
+       "answer": [
+        "pl"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Egypt My Homeland",
+   "pages": [
+    61,
+    78
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Places in Egypt"
+    },
+    {
+     "n": 2,
+     "title": "My City"
+    },
+    {
+     "n": 3,
+     "title": "The World of Big Numbers"
+    },
+    {
+     "n": 4,
+     "title": "Writing: A Blog"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: A Leaflet"
+    }
+   ],
+   "vocab": [
+    "pyramids",
+    "nile",
+    "river",
+    "cairo",
+    "tower",
+    "egyptian",
+    "museum",
+    "treasures",
+    "khan",
+    "khalili"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Prepositions of Place",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "/p/ (voiceless) vs /b/ (voiced)",
+     "cluster": "",
+     "words": [
+      "peak",
+      "pan",
+      "pond",
+      "pat",
+      "pin",
+      "bear",
+      "bin",
+      "bat",
+      "bond",
+      "beak",
+      "ban"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "taoysrmne",
+       "answer": [
+        "monastery"
+       ],
+       "hint": "دير"
+      },
+      {
+       "type": "unscramble",
+       "letters": "sreto",
+       "answer": [
+        "store"
+       ],
+       "hint": "متجر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "umemsu",
+       "answer": [
+        "museum"
+       ],
+       "hint": "متحف"
+      },
+      {
+       "type": "unscramble",
+       "letters": "sydipmar",
+       "answer": [
+        "pyramids"
+       ],
+       "hint": "أهرامات"
+      },
+      {
+       "type": "unscramble",
+       "letters": "treow",
+       "answer": [
+        "tower"
+       ],
+       "hint": "برج"
+      },
+      {
+       "type": "unscramble",
+       "letters": "owrobr",
+       "answer": [
+        "borrow"
+       ],
+       "hint": "يستعير"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_eak",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_an",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ond",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_at",
+       "answer": [
+        "p"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "A Day at Work",
+   "pages": [
+    79,
+    94
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Different Jobs"
+    },
+    {
+     "n": 2,
+     "title": "Jobs I Love!"
+    },
+    {
+     "n": 3,
+     "title": "Story Time: The Last House"
+    },
+    {
+     "n": 4,
+     "title": "Writing Non-Fiction"
+    },
+    {
+     "n": 5,
+     "title": "Think and Create: Origami Art"
+    }
+   ],
+   "vocab": [
+    "doctor",
+    "nurse",
+    "teacher",
+    "engineer",
+    "firefighter",
+    "police",
+    "officer",
+    "design",
+    "stop",
+    "fires"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Superlative Adjectives",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "long vowels with silent 'e'",
+     "cluster": "",
+     "words": [
+      "cube",
+      "face",
+      "slide",
+      "rope",
+      "stone",
+      "flute",
+      "gate",
+      "nine"
+     ]
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "lbiud",
+       "answer": [
+        "build"
+       ],
+       "hint": "يبني"
+      },
+      {
+       "type": "unscramble",
+       "letters": "edgnsi",
+       "answer": [
+        "design"
+       ],
+       "hint": "تصميم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eirgtfrifhe",
+       "answer": [
+        "firefighter"
+       ],
+       "hint": "رجل إطفاء"
+      },
+      {
+       "type": "unscramble",
+       "letters": "leoicp",
+       "answer": [
+        "police"
+       ],
+       "hint": "شرطة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ailn",
+       "answer": [
+        "nail"
+       ],
+       "hint": "ظفر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "aclseylesr",
+       "answer": [
+        "carelessly"
+       ],
+       "hint": "بإهمال"
+      }
+     ]
+    },
+    {
+     "id": "phonics",
+     "title": "الأصوات",
+     "sub": "الحرف الناقص والصوت الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ube",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ace",
+       "answer": [
+        "f"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_lide",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ope",
+       "answer": [
+        "r"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "The Hundred Dresses",
+   "pages": [
+    95,
+    108
+   ],
+   "lessons": [
+    {
+     "n": "Vocabulary and Characters",
+     "title": "Story Vocabulary, Definitions and Characters"
+    },
+    {
+     "n": "Story",
+     "title": "The Hundred Dresses (story in 5 parts)"
+    },
+    {
+     "n": "Activities",
+     "title": "Story comprehension and writing activities"
+    }
+   ],
+   "vocab": [
+    "dress",
+    "closet",
+    "playground",
+    "competition",
+    "drawings",
+    "medal",
+    "sign",
+    "letter",
+    "announce",
+    "winner"
+   ],
+   "sentences": [],
+   "phonics": [],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "ecrtcsraha",
+       "answer": [
+        "characters"
+       ],
+       "hint": "شخصيات"
+      },
+      {
+       "type": "unscramble",
+       "letters": "aiohvrbe",
+       "answer": [
+        "behavior"
+       ],
+       "hint": "سلوك"
+      },
+      {
+       "type": "unscramble",
+       "letters": "anetbs",
+       "answer": [
+        "absent"
+       ],
+       "hint": "غائب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "dmale",
+       "answer": [
+        "medal"
+       ],
+       "hint": "ميدالية"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rugyodlapn",
+       "answer": [
+        "playground"
+       ],
+       "hint": "ملعب"
+      },
+      {
+       "type": "unscramble",
+       "letters": "pioomittcne",
+       "answer": [
+        "competition"
+       ],
+       "hint": "مسابقة"
+      }
+     ]
+    },
+    {
+     "id": "missing",
+     "title": "الحرف الناقص",
+     "sub": "اكتب الحرف الناقص وكمّل كلمة الوحدة",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ress",
+       "answer": [
+        "d"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_nnounce",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_loset",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_opular",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ullying",
+       "answer": [
+        "b"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ign",
+       "answer": [
+        "s"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r1",
+   "num": "مراجعة الوحدات ١-٣",
+   "title": "مراجعة الوحدات ١-٣",
+   "pages": [
+    57,
+    60
+   ],
+   "review": true,
+   "vocab": [
+    "taste",
+    "smell",
+    "see",
+    "hear",
+    "collect",
+    "volunteer",
+    "feed",
+    "community",
+    "forest",
+    "park",
+    "guide",
+    "elephant"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Present Simple Affirmative",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: Present Simple Negative/Question",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: Comparative adjectives",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة شاملة",
+     "sub": "أسئلة متنوعة من الوحدات",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "lchenagel",
+       "answer": [
+        "challenge"
+       ],
+       "hint": "تحدٍ"
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_own",
+       "answer": [
+        "fr"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ees",
+       "answer": [
+        "see"
+       ],
+       "hint": "يرى"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nowre",
+       "answer": [
+        "owner"
+       ],
+       "hint": "مالك"
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_rog",
+       "answer": [
+        "f"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_at",
+       "answer": [
+        "h"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "tantiso",
+       "answer": [
+        "station"
+       ],
+       "hint": "محطة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "onouistl",
+       "answer": [
+        "solution"
+       ],
+       "hint": "حل"
+      },
+      {
+       "type": "unscramble",
+       "letters": "satihb",
+       "answer": [
+        "habits"
+       ],
+       "hint": "عادات"
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ish",
+       "answer": [
+        "f"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ot",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_um",
+       "answer": [
+        "dr"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "num": "مراجعة الوحدات ٤-٦",
+   "title": "مراجعة الوحدات ٤-٦",
+   "pages": [
+    109,
+    113
+   ],
+   "review": true,
+   "vocab": [
+    "pyramids",
+    "nile",
+    "river",
+    "cairo",
+    "doctor",
+    "nurse",
+    "teacher",
+    "engineer",
+    "dress",
+    "closet",
+    "playground",
+    "competition"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Prepositions of Place",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: Superlative Adjectives",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة شاملة",
+     "sub": "أسئلة متنوعة من الوحدات",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_eak",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "aiohvrbe",
+       "answer": [
+        "behavior"
+       ],
+       "hint": "سلوك"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ress",
+       "answer": [
+        "d"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_an",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "lbiud",
+       "answer": [
+        "build"
+       ],
+       "hint": "يبني"
+      },
+      {
+       "type": "unscramble",
+       "letters": "sreto",
+       "answer": [
+        "store"
+       ],
+       "hint": "متجر"
+      },
+      {
+       "type": "unscramble",
+       "letters": "taoysrmne",
+       "answer": [
+        "monastery"
+       ],
+       "hint": "دير"
+      },
+      {
+       "type": "unscramble",
+       "letters": "edgnsi",
+       "answer": [
+        "design"
+       ],
+       "hint": "تصميم"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_nnounce",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "ecrtcsraha",
+       "answer": [
+        "characters"
+       ],
+       "hint": "شخصيات"
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ube",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "sound",
+       "letters": "_ace",
+       "answer": [
+        "f"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

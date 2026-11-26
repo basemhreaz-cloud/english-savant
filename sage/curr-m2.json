@@ -1,0 +1,1332 @@
+{
+ "grade": "m2",
+ "gradeName": "الصف التاني الإعدادي",
+ "units": [
+  {
+   "id": "u1",
+   "num": 1,
+   "title": "Gen Alpha",
+   "pages": [
+    13,
+    26
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Meet Gen Alpha"
+    },
+    {
+     "n": 2,
+     "title": "Gen Alpha's Digital Life"
+    },
+    {
+     "n": 3,
+     "title": "The Digital Bridge"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Little Inventor - Chapter One 'The Creative Fair'"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk"
+    },
+    {
+     "n": 6,
+     "title": "Expressing Identity Online"
+    }
+   ],
+   "vocab": [
+    "generation",
+    "digital",
+    "natives",
+    "trends",
+    "emojis",
+    "memes",
+    "balance",
+    "computer",
+    "screen",
+    "social"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Present Continuous tense",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "قصة الوحدة: The Little Inventor - Chapter One 'The Creative Fair'",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "item",
+       "answer": [
+        "time"
+       ],
+       "hint": "وقت"
+      },
+      {
+       "type": "unscramble",
+       "letters": "lcsiao",
+       "answer": [
+        "social"
+       ],
+       "hint": "اجتماعي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "jseoim",
+       "answer": [
+        "emojis"
+       ],
+       "hint": "رموز تعبيرية"
+      },
+      {
+       "type": "unscramble",
+       "letters": "prtaa",
+       "answer": [
+        "apart"
+       ],
+       "hint": "متباعد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "arf",
+       "answer": [
+        "far"
+       ],
+       "hint": "بعيد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "iurousc",
+       "answer": [
+        "curious"
+       ],
+       "hint": "فضولي"
+      }
+     ]
+    },
+    {
+     "id": "missing",
+     "title": "الحرف الناقص",
+     "sub": "اكتب الحرف الناقص وكمّل كلمة الوحدة",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ommon",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_imit",
+       "answer": [
+        "l"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_omputer",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_alance",
+       "answer": [
+        "b"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_martphones",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_mart",
+       "answer": [
+        "s"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "num": 2,
+   "title": "My Digital Footprint",
+   "pages": [
+    27,
+    40
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Protecting Your Privacy in the Digital Age"
+    },
+    {
+     "n": 2,
+     "title": "Staying Safe Online"
+    },
+    {
+     "n": 3,
+     "title": "Managing Your Online Data"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Little Inventor - Chapter Two 'Never Stop Trying'"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk"
+    },
+    {
+     "n": 6,
+     "title": "Digital Detectives"
+    }
+   ],
+   "vocab": [
+    "determine",
+    "privacy",
+    "footprint",
+    "secure",
+    "trace",
+    "setting",
+    "update",
+    "data",
+    "clues",
+    "online"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Present Simple Passive; modal verbs",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "قصة الوحدة: The Little Inventor - Chapter Two 'Never Stop Trying'",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "tada",
+       "answer": [
+        "data"
+       ],
+       "hint": "بيانات"
+      },
+      {
+       "type": "unscramble",
+       "letters": "deautp",
+       "answer": [
+        "update"
+       ],
+       "hint": "تحديث"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nbdkile",
+       "answer": [
+        "blinked"
+       ],
+       "hint": "رمش"
+      },
+      {
+       "type": "unscramble",
+       "letters": "apsduet",
+       "answer": [
+        "updates"
+       ],
+       "hint": "تحديثات"
+      },
+      {
+       "type": "unscramble",
+       "letters": "usrcee",
+       "answer": [
+        "secure"
+       ],
+       "hint": "آمن"
+      },
+      {
+       "type": "unscramble",
+       "letters": "vapssei",
+       "answer": [
+        "passive"
+       ],
+       "hint": "خامل"
+      }
+     ]
+    },
+    {
+     "id": "missing",
+     "title": "الحرف الناقص",
+     "sub": "اكتب الحرف الناقص وكمّل كلمة الوحدة",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_rustworthy",
+       "answer": [
+        "t"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_cary",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ark",
+       "answer": [
+        "m"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ctive",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_lues",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_raced",
+       "answer": [
+        "t"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "num": 3,
+   "title": "Facing Challenges",
+   "pages": [
+    41,
+    54
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Overcoming Challenges"
+    },
+    {
+     "n": 2,
+     "title": "Advice for Facing Challenges"
+    },
+    {
+     "n": 3,
+     "title": "Facing Traffic Challenges"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Little Inventor - Chapter Three 'Inspiring Success'"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk"
+    },
+    {
+     "n": 6,
+     "title": "The Power of Facing Challenges"
+    }
+   ],
+   "vocab": [
+    "challenge",
+    "discouraged",
+    "determination",
+    "obstacle",
+    "courage",
+    "traffic",
+    "jam",
+    "stressed",
+    "monorail",
+    "creativity"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Past Simple; Past Continuous",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "قصة الوحدة: The Little Inventor - Chapter Three 'Inspiring Success'",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "eekp",
+       "answer": [
+        "keep"
+       ],
+       "hint": "يحتفظ"
+      },
+      {
+       "type": "unscramble",
+       "letters": "emov",
+       "answer": [
+        "move"
+       ],
+       "hint": "يتحرك"
+      },
+      {
+       "type": "unscramble",
+       "letters": "yeildsdap",
+       "answer": [
+        "displayed"
+       ],
+       "hint": "معروض"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eriipnsd",
+       "answer": [
+        "inspired"
+       ],
+       "hint": "مُلهَم"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tmidroieantne",
+       "answer": [
+        "determination"
+       ],
+       "hint": "عزيمة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "sdouigredca",
+       "answer": [
+        "discouraged"
+       ],
+       "hint": "محبَط"
+      }
+     ]
+    },
+    {
+     "id": "missing",
+     "title": "الحرف الناقص",
+     "sub": "اكتب الحرف الناقص وكمّل كلمة الوحدة",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_round",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_bstacle",
+       "answer": [
+        "o"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ourage",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_onesty",
+       "answer": [
+        "h"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_lyovers",
+       "answer": [
+        "f"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_tressed",
+       "answer": [
+        "s"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "num": 4,
+   "title": "Art and Expression",
+   "pages": [
+    58,
+    71
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "A Journey Through Art!"
+    },
+    {
+     "n": 2,
+     "title": "Exploring Art: Listen up!"
+    },
+    {
+     "n": 3,
+     "title": "An article about an Artist"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Adventure of the Hidden Island - Chapter One 'Different, but connected'"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk"
+    },
+    {
+     "n": 6,
+     "title": "My Performance Review"
+    }
+   ],
+   "vocab": [
+    "artwork",
+    "sculptures",
+    "materials",
+    "special",
+    "valuable",
+    "imagination",
+    "original",
+    "gallery",
+    "sculptor",
+    "agriculture"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Cause, Result and Contrast Connectors",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "قصة الوحدة: The Adventure of the Hidden Island - Chapter One 'Different, but connected'",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "eesasgm",
+       "answer": [
+        "message"
+       ],
+       "hint": "رسالة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "lotcsrup",
+       "answer": [
+        "sculptor"
+       ],
+       "hint": "نحّات"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ignoilra",
+       "answer": [
+        "original"
+       ],
+       "hint": "أصلي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "raorwtk",
+       "answer": [
+        "artwork"
+       ],
+       "hint": "عمل فني"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ugaliurrtce",
+       "answer": [
+        "agriculture"
+       ],
+       "hint": "زراعة"
+      },
+      {
+       "type": "unscramble",
+       "letters": "tannaiigomi",
+       "answer": [
+        "imagination"
+       ],
+       "hint": "خيال"
+      }
+     ]
+    },
+    {
+     "id": "missing",
+     "title": "الحرف الناقص",
+     "sub": "اكتب الحرف الناقص وكمّل كلمة الوحدة",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_culpt",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_mazing",
+       "answer": [
+        "a"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ational",
+       "answer": [
+        "n"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_idden",
+       "answer": [
+        "h"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_erfect",
+       "answer": [
+        "p"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_aterials",
+       "answer": [
+        "m"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "num": 5,
+   "title": "Around the World",
+   "pages": [
+    72,
+    86
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Have You Ever Explored the World?"
+    },
+    {
+     "n": 2,
+     "title": "A Tour around Cairo"
+    },
+    {
+     "n": 3,
+     "title": "Around the World in Four Amazing Places"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Adventure of the Hidden Island - Chapter Two 'Freedom and Friendship'"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk"
+    },
+    {
+     "n": 6,
+     "title": "Come Explore with Us!"
+    }
+   ],
+   "vocab": [
+    "continents",
+    "culture",
+    "unforgettable",
+    "organized",
+    "population",
+    "ceremony",
+    "tradition",
+    "landmark",
+    "impressive",
+    "curious"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Comparative and Superlative Adjectives",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "قصة الوحدة: The Adventure of the Hidden Island - Chapter Two 'Freedom and Friendship'",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "alloc",
+       "answer": [
+        "local"
+       ],
+       "hint": "محلي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "eeacp",
+       "answer": [
+        "peace"
+       ],
+       "hint": "سلام"
+      },
+      {
+       "type": "unscramble",
+       "letters": "rpeu",
+       "answer": [
+        "peru"
+       ],
+       "hint": "بيرو"
+      },
+      {
+       "type": "unscramble",
+       "letters": "mmoreesi",
+       "answer": [
+        "memories"
+       ],
+       "hint": "ذكريات"
+      },
+      {
+       "type": "unscramble",
+       "letters": "nnitesonct",
+       "answer": [
+        "continents"
+       ],
+       "hint": "قارات"
+      },
+      {
+       "type": "unscramble",
+       "letters": "trpae",
+       "answer": [
+        "petra"
+       ],
+       "hint": "البتراء"
+      }
+     ]
+    },
+    {
+     "id": "missing",
+     "title": "الحرف الناقص",
+     "sub": "اكتب الحرف الناقص وكمّل كلمة الوحدة",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_hefchaouen",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_orocco",
+       "answer": [
+        "m"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ome",
+       "answer": [
+        "h"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_rading",
+       "answer": [
+        "t"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_achu",
+       "answer": [
+        "m"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_eykjavik",
+       "answer": [
+        "r"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "num": 6,
+   "title": "Young Innovators",
+   "pages": [
+    87,
+    99
+   ],
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Making Your Ideas Happen"
+    },
+    {
+     "n": 2,
+     "title": "Inspiring Innovators"
+    },
+    {
+     "n": 3,
+     "title": "A Man of Impact"
+    },
+    {
+     "n": 4,
+     "title": "Story Time: The Adventure of the Hidden Island - Chapter Three 'Teamwork'"
+    },
+    {
+     "n": 5,
+     "title": "Let's Talk"
+    },
+    {
+     "n": 6,
+     "title": "A biography about Ahmed Idris"
+    }
+   ],
+   "vocab": [
+    "thought",
+    "inventors",
+    "step",
+    "brainstorm",
+    "version",
+    "complex",
+    "impact",
+    "leadership",
+    "appreciation",
+    "teamwork"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: If conditional (type 1 and 2)",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "قصة الوحدة: The Adventure of the Hidden Island - Chapter Three 'Teamwork'",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "vocab",
+     "title": "كلمات الوحدة",
+     "sub": "رتّب الحروف واكتب الكلمة الصح",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "hesin",
+       "answer": [
+        "shine"
+       ],
+       "hint": "يلمع"
+      },
+      {
+       "type": "unscramble",
+       "letters": "oepmclx",
+       "answer": [
+        "complex"
+       ],
+       "hint": "معقّد"
+      },
+      {
+       "type": "unscramble",
+       "letters": "ersvtonni",
+       "answer": [
+        "inventors"
+       ],
+       "hint": "مخترعون"
+      },
+      {
+       "type": "unscramble",
+       "letters": "oecm",
+       "answer": [
+        "come"
+       ],
+       "hint": "يأتي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "engnriee",
+       "answer": [
+        "engineer"
+       ],
+       "hint": "مهندس"
+      },
+      {
+       "type": "unscramble",
+       "letters": "mewotrak",
+       "answer": [
+        "teamwork"
+       ],
+       "hint": "عمل جماعي"
+      }
+     ]
+    },
+    {
+     "id": "missing",
+     "title": "الحرف الناقص",
+     "sub": "اكتب الحرف الناقص وكمّل كلمة الوحدة",
+     "questions": [
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_rainstorm",
+       "answer": [
+        "b"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_eedback",
+       "answer": [
+        "f"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ensors",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_eminding",
+       "answer": [
+        "r"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_mpact",
+       "answer": [
+        "i"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_hought",
+       "answer": [
+        "t"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r1",
+   "num": "مراجعة الوحدات ١-٣",
+   "title": "مراجعة الوحدات ١-٣",
+   "pages": [
+    55,
+    57
+   ],
+   "review": true,
+   "vocab": [
+    "generation",
+    "digital",
+    "natives",
+    "trends",
+    "determine",
+    "privacy",
+    "footprint",
+    "secure",
+    "challenge",
+    "discouraged",
+    "determination",
+    "obstacle"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Present Continuous tense",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: Present Simple Passive; modal verbs",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: Past Simple; Past Continuous",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة شاملة",
+     "sub": "أسئلة متنوعة من الوحدات",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "item",
+       "answer": [
+        "time"
+       ],
+       "hint": "وقت"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_ommon",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_imit",
+       "answer": [
+        "l"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "deautp",
+       "answer": [
+        "update"
+       ],
+       "hint": "تحديث"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_cary",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "eekp",
+       "answer": [
+        "keep"
+       ],
+       "hint": "يحتفظ"
+      },
+      {
+       "type": "unscramble",
+       "letters": "lcsiao",
+       "answer": [
+        "social"
+       ],
+       "hint": "اجتماعي"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_bstacle",
+       "answer": [
+        "o"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "tada",
+       "answer": [
+        "data"
+       ],
+       "hint": "بيانات"
+      },
+      {
+       "type": "unscramble",
+       "letters": "emov",
+       "answer": [
+        "move"
+       ],
+       "hint": "يتحرك"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_rustworthy",
+       "answer": [
+        "t"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_round",
+       "answer": [
+        "a"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "num": "مراجعة الوحدات ٤-٦",
+   "title": "مراجعة الوحدات ٤-٦",
+   "pages": [
+    100,
+    102
+   ],
+   "review": true,
+   "vocab": [
+    "artwork",
+    "sculptures",
+    "materials",
+    "special",
+    "continents",
+    "culture",
+    "unforgettable",
+    "organized",
+    "thought",
+    "inventors",
+    "step",
+    "brainstorm"
+   ],
+   "sentences": [],
+   "phonics": [
+    {
+     "focus": "لغة الوحدة: Cause, Result and Contrast Connectors",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: Comparative and Superlative Adjectives",
+     "cluster": "",
+     "words": []
+    },
+    {
+     "focus": "لغة الوحدة: If conditional (type 1 and 2)",
+     "cluster": "",
+     "words": []
+    }
+   ],
+   "stations": [
+    {
+     "id": "mix",
+     "title": "مراجعة شاملة",
+     "sub": "أسئلة متنوعة من الوحدات",
+     "questions": [
+      {
+       "type": "unscramble",
+       "letters": "eesasgm",
+       "answer": [
+        "message"
+       ],
+       "hint": "رسالة"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_culpt",
+       "answer": [
+        "s"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "oepmclx",
+       "answer": [
+        "complex"
+       ],
+       "hint": "معقّد"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_rainstorm",
+       "answer": [
+        "b"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_eedback",
+       "answer": [
+        "f"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "hesin",
+       "answer": [
+        "shine"
+       ],
+       "hint": "يلمع"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_orocco",
+       "answer": [
+        "m"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "alloc",
+       "answer": [
+        "local"
+       ],
+       "hint": "محلي"
+      },
+      {
+       "type": "unscramble",
+       "letters": "lotcsrup",
+       "answer": [
+        "sculptor"
+       ],
+       "hint": "نحّات"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_hefchaouen",
+       "answer": [
+        "c"
+       ]
+      },
+      {
+       "type": "unscramble",
+       "letters": "eeacp",
+       "answer": [
+        "peace"
+       ],
+       "hint": "سلام"
+      },
+      {
+       "type": "unscramble",
+       "label": "missing",
+       "letters": "_mazing",
+       "answer": [
+        "a"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
