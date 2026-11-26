@@ -197,3 +197,9 @@ body.dark #island{background:rgba(10,13,9,.92);box-shadow:0 6px 18px rgba(0,0,0,
 .top{display:none}
 .scr{padding-top:max(72px,calc(env(safe-area-inset-top) + 62px))}
 @media (prefers-reduced-motion:reduce){#island,#island .tt{transition:none}}
+/* rev7 spacing: pill 12px from top/safe-area, 20px clear gap to content on every page */
+#island{top:max(12px,env(safe-area-inset-top))}
+#island .in{gap:10px;padding:0 18px 0 14px}
+#island img{width:26px;height:26px}
+.scr{padding-top:max(76px,calc(env(safe-area-inset-top) + 76px))}
+.scr>h1:first-child,.scr>.sub:first-child{margin-top:-2px}
