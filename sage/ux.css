@@ -260,3 +260,4 @@ html[data-theme=dark] .ux-root{--ux-card:rgba(255,255,255,.075);--ux-card2:rgba(
 .q-card>.q-feed{order:10}
 .q-card .q-hint-img{display:block;margin-inline:0;margin-block-start:var(--ux-s2);inline-size:100%;max-inline-size:240px;block-size:auto;aspect-ratio:3/2;box-sizing:border-box}
 .q-card .q-text{max-inline-size:100%}
+.ds-sr.ds-sr-dot{position:static!important;display:inline-block;width:0;height:1em;margin:0;overflow:hidden;vertical-align:baseline;clip:auto}
