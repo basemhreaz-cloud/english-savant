@@ -94,7 +94,7 @@
     const card = node("article", "video-watch-card");
     let player;
     if (l.mp4) {
-      const local = /^videos\/[A-Za-z0-9_.-]+\.mp4$/.test(l.mp4), repoRelease = /^https:\/\/github\.com\/basemhreaz-cloud\/english-savant\/releases\/download\/(?:kg2-u[34]-hd-20261122|p1-u[123456]-full-lesson-2026112[23])\/[A-Za-z0-9_.-]+\.mp4$/.test(l.mp4);
+      const local = /^videos\/[A-Za-z0-9_.-]+\.mp4$/.test(l.mp4), repoRelease = /^https:\/\/github\.com\/basemhreaz-cloud\/english-savant\/releases\/download\/(?:kg2-u[34]-hd-20261122|p1-u[123456]-full-lesson-2026112[23]|m2-u1-full-lesson-20261126)\/[A-Za-z0-9_.-]+\.mp4$/.test(l.mp4);
       if (!local && !repoRelease) throw Error("source");
       const poster = local ? l.mp4.replace(/\.mp4$/, ".jpg") : l.poster;
       if (!/^videos\/[A-Za-z0-9_.-]+\.jpg$/.test(poster || "")) throw Error("poster");
