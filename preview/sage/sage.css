@@ -143,3 +143,20 @@ body.gx .seg{padding:var(--s1)}
 @media (max-width:380px){.nav-g{width:calc(100% - 24px);padding:5px;gap:3px}.gb:not(.on){min-width:42px}.gb.on{padding:0 10px;font-size:12.5px;gap:5px}.gb svg{width:21px;height:21px}}
 .back{display:flex;width:fit-content;margin-bottom:var(--s3);min-height:var(--s5)}
 .back+.tag{display:block;width:fit-content;margin-bottom:var(--s2);padding:var(--s1) var(--s3)}
+
+/* ---- iOS-style translucent dock + refined line icons (rev 2) ---- */
+:root{--dock-bg:rgba(255,255,255,.30);--dock-bd:rgba(255,255,255,.6);--dock-tint:rgba(37,54,31,.10);--dock-ink:rgba(31,45,26,.62)}
+html[data-theme=dark]{--dock-bg:rgba(28,40,26,.40);--dock-bd:rgba(255,255,255,.16);--dock-tint:rgba(198,224,107,.16);--dock-ink:rgba(234,241,220,.62)}
+.gfade{display:none}
+.nav-g{width:min(432px,calc(100% - 24px));bottom:calc(var(--s3) + env(safe-area-inset-bottom));padding:6px;gap:2px;border:1px solid var(--dock-bd);border-radius:28px;background:var(--dock-bg);box-shadow:0 8px 28px rgba(20,30,15,.16),inset 0 1px 0 rgba(255,255,255,.35);backdrop-filter:blur(24px) saturate(1.7);-webkit-backdrop-filter:blur(24px) saturate(1.7);justify-content:space-between}
+.gb,.gb.on{flex:1 1 0;min-width:0;max-width:none;width:auto;height:56px;padding:6px 2px 5px;border:0;border-radius:20px;background:transparent;color:var(--dock-ink);flex-direction:column;justify-content:center;gap:3px;font-size:10.5px;font-weight:600;line-height:1.1}
+.gb:not(.on){flex:1 1 0;min-width:0;max-width:none}
+.gb svg{width:25px;height:25px;stroke-width:1.6}
+.gb span{display:block;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.gb.on{background:var(--dock-tint);color:var(--acc);padding:6px 2px 5px}
+.gb.on svg{stroke-width:1.9}
+html[data-theme=dark] .gb,html[data-theme=dark] .gb.on{background:transparent}html[data-theme=dark] .gb.on{background:var(--dock-tint)}
+.ic svg,.ib svg,.nv svg{stroke-width:1.7}
+@media (max-width:380px){.nav-g{width:calc(100% - 20px);padding:5px}.gb,.gb.on{height:54px;font-size:10px;padding:6px 0 5px}.gb svg{width:24px;height:24px}}
+.ic svg,.ib svg,.nv svg,.search svg,.back svg{stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.gl .go svg{stroke-width:1.8}
