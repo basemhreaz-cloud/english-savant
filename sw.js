@@ -1,5 +1,5 @@
 /* ENGLISH SAVANT service worker - offline shell + runtime cache + optional inventory sync */
-const CACHE = 'english-savant-v104-pwa';
+const CACHE = 'english-savant-v105-pwa';
 const ROOT = '/english-savant/';
 const OFFLINE = ROOT + 'offline.html';
 const SHELL = [ROOT, ROOT + 'index.html', ROOT + 'offline.html', ROOT + 'manifest.webmanifest', ROOT + 'icons/icon-192.png', ROOT + 'icons/icon-512.png', ROOT + 'icons/apple-touch-icon.png', ROOT + 'assets/adults-logo.webp'];
@@ -41,6 +41,25 @@ async function precache() {
   await Promise.all(extra.map((p) => putSafe(cache, ROOT + p)));
 }
 
+
+/* Kill switch: if sw-control.json says {"kill":true} this worker deletes all its caches, unregisters itself and reloads open pages straight from the network. */
+let lastControl = 0;
+async function killSelf() {
+  try { const keys = await caches.keys(); await Promise.all(keys.filter((k) => k.startsWith('english-savant-')).map((k) => caches.delete(k))); } catch (e) {}
+  try { await self.registration.unregister(); } catch (e) {}
+  try { const cs = await self.clients.matchAll({ type: 'window' }); cs.forEach((c) => { try { c.navigate(c.url); } catch (e) {} }); } catch (e) {}
+}
+async function checkControl(force) {
+  const now = Date.now();
+  if (!force && now - lastControl < 15000) return;
+  lastControl = now;
+  try {
+    const ctl = new AbortController(); const t = setTimeout(() => ctl.abort(), 4000);
+    const r = await fetch(ROOT + 'sw-control.json?t=' + now, { cache: 'no-store', signal: ctl.signal }); clearTimeout(t);
+    if (r.ok) { const j = await r.json(); if (j && j.kill === true) await killSelf(); }
+  } catch (e) {}
+}
+
 self.addEventListener('install', (event) => {
   event.waitUntil(precache().then(() => self.skipWaiting()));
 });
@@ -51,6 +70,7 @@ self.addEventListener('activate', (event) => {
       .then((keys) => Promise.all(keys.filter((k) => k.startsWith('english-savant-') && k !== CACHE).map((k) => caches.delete(k))))
       .then(() => (self.registration.navigationPreload ? self.registration.navigationPreload.enable() : null))
       .then(() => self.clients.claim())
+      .then(() => checkControl(true))
   );
 });
 
@@ -91,6 +111,7 @@ self.addEventListener('fetch', (event) => {
   const { request } = event;
   if (request.method !== 'GET') return;
   const url = new URL(request.url);
+  if (request.mode === 'navigate') event.waitUntil(checkControl(false));
   if (FONT_HOSTS.includes(url.hostname)) { event.respondWith(staleWhileRevalidate(request)); return; }
   /* Never cache the AI worker or other cross-origin calls */
   if (url.origin !== self.location.origin) return;
