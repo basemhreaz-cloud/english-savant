@@ -212,7 +212,19 @@ function me(){
  wire('sgT',function(v){try{if(v==='auto')localStorage.removeItem('es-theme');else localStorage.setItem('es-theme',v)}catch(e){}applyTheme()});
  wire('sgL',function(v){try{localStorage.setItem('es-interface-language',v)}catch(e){}applyLang();try{window.dispatchEvent(new CustomEvent('es:interface-language',{detail:{language:v}}))}catch(e){}});
 }
+
+var IT={home:['الرئيسية','Home'],grades:['الصفوف','Grades'],practice:['التدريب','Practice'],videos:['الفيديوهات','Videos'],me:['الإعدادات','Settings']};
+function islandKey(r){return r===''||r==='search'?'home':(r==='grades'||r==='g'||r==='u')?'grades':(r==='practice'||r==='p')?'practice':r==='videos'?'videos':r==='me'?'me':'home'}
+var ISL=null,ISK='home';
+function island(){
+ if(!ISL){ISL=document.createElement('div');ISL.id='island';ISL.setAttribute('role','status');ISL.innerHTML='<div class="in"><img src="'+BASE+'assets/adults-logo.webp" width="28" height="28" alt=""><span class="tt"></span></div>';document.body.appendChild(ISL)}
+ var t=ISL.querySelector('.tt'),l=langPref()==='en'?1:0,txt=IT[ISK][l];
+ if(t.textContent===txt&&ISL.style.width)return;
+ var in_=ISL.querySelector('.in');ISL.classList.add('sw');
+ setTimeout(function(){t.textContent=txt;ISL.style.width=(in_.scrollWidth+4)+'px';ISL.classList.remove('sw')},t.textContent?110:0);
+}
 function route(){
+ ISK=islandKey((location.hash||'#/').slice(2).split('/')[0]);island();
  var p=(location.hash||'#/').slice(2).split('/');
  var r=p[0];
  try{
@@ -220,6 +232,6 @@ function route(){
  }catch(e){home()}
 }
 if(Q.get('audit')){setTimeout(function(){var bad=[],W=window.innerWidth;[].forEach.call(document.querySelectorAll('#app *'),function(e){if(e.closest('.chips,.car,.vid,.nav'))return;var r=e.getBoundingClientRect();if(!r.width)return;if(r.left<-1||r.right>W+1)bad.push('OUT '+e.tagName+'.'+e.className+' '+Math.round(r.left)+'..'+Math.round(r.right));var cs=getComputedStyle(e);if(e.scrollWidth>e.clientWidth+1&&cs.display!=='inline'&&cs.overflowX==='visible'&&e.children.length===0)bad.push('CLIP '+e.tagName+'.'+e.className+' '+e.textContent.slice(0,20))});var n=document.createElement('pre');n.id='audit';n.textContent='AUDIT '+W+' '+(bad.length?bad.join(' | '):'clean');document.body.appendChild(n)},3500)}
-window.addEventListener('es:interface-language',function(){translate(APP)});window.addEventListener('hashchange',route);route();
+window.addEventListener('es:interface-language',function(){translate(APP);island()});window.addEventListener('hashchange',route);route();
 })();
 

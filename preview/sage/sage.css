@@ -187,3 +187,13 @@ body.dark .gl .num img.gimg{filter:brightness(.92)}
 .top .brand{display:flex;align-items:center;justify-content:center;gap:12px;direction:ltr;text-align:left}
 .top .brand img{width:44px;height:44px;border-radius:0;object-fit:contain;flex:none}
 .top .brand span{display:block;line-height:1.2;white-space:nowrap}
+/* island pill: logo + page title, morphs on page change */
+#island{position:fixed;z-index:60;top:max(10px,env(safe-area-inset-top));left:50%;transform:translateX(-50%);height:44px;border-radius:22px;background:rgba(24,30,20,.9);box-shadow:0 6px 18px rgba(30,40,25,.28),inset 0 0 0 1px rgba(255,255,255,.08);overflow:hidden;transition:width .32s cubic-bezier(.3,1.2,.4,1);direction:ltr;color:#f1f4e8}
+body.dark #island{background:rgba(10,13,9,.92);box-shadow:0 6px 18px rgba(0,0,0,.5),inset 0 0 0 1px rgba(255,255,255,.12)}
+#island .in{display:inline-flex;align-items:center;gap:10px;height:44px;padding:0 18px 0 12px;white-space:nowrap}
+#island img{width:28px;height:28px;object-fit:contain;filter:invert(1) brightness(1.1);flex:none}
+#island .tt{font-weight:700;font-size:14px;letter-spacing:.2px;transition:opacity .11s,transform .11s}
+#island.sw .tt{opacity:0;transform:translateY(3px)}
+.top{display:none}
+.scr{padding-top:max(72px,calc(env(safe-area-inset-top) + 62px))}
+@media (prefers-reduced-motion:reduce){#island,#island .tt{transition:none}}
