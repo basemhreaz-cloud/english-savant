@@ -160,3 +160,17 @@ html[data-theme=dark] .gb,html[data-theme=dark] .gb.on{background:transparent}ht
 @media (max-width:380px){.nav-g{width:calc(100% - 20px);padding:5px}.gb,.gb.on{height:54px;font-size:10px;padding:6px 0 5px}.gb svg{width:24px;height:24px}}
 .ic svg,.ib svg,.nv svg,.search svg,.back svg{stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
 .gl .go svg{stroke-width:1.8}
+/* ---- one video card everywhere ---- */
+.vlist{margin-top:var(--s2)}
+.vc{display:flex;align-items:center;gap:var(--s3);padding:10px;min-height:96px}
+.vth{width:120px;flex:none;aspect-ratio:16/9;border-radius:var(--r-btn);background:var(--soft) center/cover no-repeat;position:relative;overflow:hidden;border:1px solid var(--gb)}
+.vth0{display:flex;align-items:center;justify-content:center;background:linear-gradient(150deg,var(--soft),var(--bg0))}
+.vth0 img{position:absolute;inset:auto;width:46%;opacity:.28;filter:var(--logof)}
+.vth0 i{position:relative;width:34px;height:34px;border-radius:12px;background:var(--btn);color:var(--ink);display:flex;align-items:center;justify-content:center;border:1.5px solid var(--gb)}
+.vth0 i svg{width:18px;height:18px;stroke:currentColor;fill:none;stroke-width:1.8}
+.vtx{min-width:0;flex:1;display:flex;flex-direction:column;align-items:flex-start;gap:var(--s2)}
+.vtx .tag{max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.vtx b{display:block;font-size:var(--t-sm);line-height:1.35;text-align:right;width:100%}
+.vc{flex-direction:row}
+body.gx .chip{border-radius:12px;min-height:44px;padding:0 var(--s4)}
+.vth0 img{width:auto;height:72%;top:14%;left:50%;transform:translateX(-50%)}

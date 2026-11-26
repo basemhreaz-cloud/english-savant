@@ -69,6 +69,10 @@ function gradeList(items){
  return '<div class="list">'+h+'</div>';
 }
 function posterOf(l){return l&&l.poster?BASE+l.poster+(l.media_version?'?v='+l.media_version:''):''}
+function vcard(l){
+ var m=l.id.match(/^([a-z0-9]+)-(u\d|r\d)/),g=l.grade||(m?m[1]:'p3'),u=m?m[2]:'u1',p=posterOf(l);
+ var th=p?'<span class="vth" style="background-image:url('+p+')"></span>':'<span class="vth vth0"><img src="'+BASE+'assets/adults-logo.webp" alt=""><i>'+ic('play')+'</i></span>';
+ return '<a class="card vc" href="#/u/'+g+'/'+u+'">'+th+'<span class="vtx"><span class="tag">'+esc(gname(g).replace('الصف ',''))+' · '+esc(l.duration||'')+'</span><b dir="ltr">'+esc(l.title)+'</b></span></a>'}
 function home(){
  var last=load('last',{g:'p3',u:'u1',t:"Let's Learn Together!",gn:'الصف التالت الابتدائي',p:30});
  J('lessons.json').then(function(d){
@@ -80,7 +84,7 @@ function home(){
   var hd='<div class="top"><div class="brand"><img src="'+BASE+'assets/adults-logo.webp" width="40" height="40" alt=""><span>ENGLISH SAVANT<small>With Basem Hreaz</small></span></div></div>';
   var h;
   if(CFG.home==='a'){h=hd+'<div class="sub">أهلاً بيك يا بطل</div><h1>English with a Genius Mindset</h1><div style="height:14px"></div>'+cont+'<div style="height:12px"></div>'+stats+'<h2>ابدأ من هنا</h2>'+qa+'<h2>الصفوف <a href="#/grades">عرض الكل</a></h2>'+gradeList(GR.slice(0,6));}
-  else if(CFG.home==='b'){h=hd+'<h1 class="big-t">إزيك يا بطل،<br>هنتعلم إيه النهارده؟</h1><div style="height:14px"></div><div class="chips">'+GR.map(function(g,i){return '<a class="chip'+(g[0]==='p3'?' on':'')+'" href="#/g/'+g[0]+'">'+g[2].replace('الصف ','')+'</a>'}).join('')+'</div><div style="height:6px"></div>'+cont+'<h2>كمّل التعلّم</h2><div class="list">'+L.filter(function(l){return !l.soon&&l.grade==='p3'}).slice(0,3).map(function(l){var m=l.id.match(/-(u\d)/);return '<a class="card gl" href="#/u/p3/'+(m?m[1]:'u1')+'"><span class="thumb" style="background-image:url('+posterOf(l)+')"></span><span class="tx"><b dir="auto">'+esc(l.title)+'</b><small>'+esc(l.duration)+' · فيديو شرح</small></span></a>'}).join('')+'</div>'+'<h2>أقسام سريعة</h2>'+qa;}
+  else if(CFG.home==='b'){h=hd+'<h1 class="big-t">إزيك يا بطل،<br>هنتعلم إيه النهارده؟</h1><div style="height:14px"></div><div class="chips">'+GR.map(function(g,i){return '<a class="chip'+(g[0]==='p3'?' on':'')+'" href="#/g/'+g[0]+'">'+g[2].replace('الصف ','')+'</a>'}).join('')+'</div><div style="height:6px"></div>'+cont+'<h2>كمّل التعلّم</h2><div class="list">'+L.filter(function(l){return !l.soon&&l.grade==='p3'}).slice(0,3).map(vcard).join('')+'</div>'+'<h2>أقسام سريعة</h2>'+qa;}
   else{h=hd+'<h1>أهلاً يا بطل</h1><div class="sub">كل الصفوف والفيديوهات والتدريبات في مكان واحد</div><div style="height:14px"></div><div class="bento"><div class="b2">'+cont+'</div><a class="card" href="#/grades"><span class="ic">'+ic('grid')+'</span><b>الصفوف</b><small>11 صف</small></a><a class="card" href="#/videos"><span class="ic">'+ic('play')+'</span><b>الفيديوهات</b><small>'+vc+' فيديو</small></a><a class="card" href="#/practice"><span class="ic">'+ic('pen')+'</span><b>التدريبات</b><small>تصحيح فوري</small></a><a class="card" target="_blank" href="'+BASE+'assistant.html"><span class="ic">'+ic('bot')+'</span><b>المساعد</b><small>اسأل أي سؤال</small></a></div><h2>الصفوف <a href="#/grades">عرض الكل</a></h2>'+gradeList(GR.slice(2,8));}
   if(/^g/.test(NAV)){
    var cnt={};L.forEach(function(l){if(!l.soon)cnt[l.grade]=(cnt[l.grade]||0)+1});
@@ -179,8 +183,8 @@ function videos(){
   var L=d?d.lessons.filter(function(l){return !l.soon&&l.mp4&&l.grade!=='sa-g1'}):[];
   var gsel=Q.get('g')||'';
   var chips='<div class="chips"><a class="chip on" href="#/videos">الكل</a>'+GR.map(function(g){return '<a class="chip" href="#/g/'+g[0]+'">'+g[2].replace('الصف ','')+'</a>'}).join('')+'</div>';
-  var h=L.slice(0,12).map(function(l){var q=l.media_version?'?v='+l.media_version:'';var m=l.id.match(/^([a-z0-9]+)-(u\d|r\d)/);return '<a class="card" style="padding:10px" href="#/u/'+l.grade+'/'+(m?m[2]:'u1')+'"><div style="display:flex;gap:12px;align-items:center"><div style="width:120px;aspect-ratio:16/9;border-radius:14px;background:var(--soft) center/cover url('+(l.poster?BASE+l.poster+q:'')+');flex:none;display:flex;align-items:center;justify-content:center;color:#fff">▶</div><div style="min-width:0"><div class="tag">'+esc(gname(l.grade).replace('الصف ',''))+' · '+esc(l.duration)+'</div><b dir="ltr" style="display:block;text-align:right;font-size:14px;margin-top:6px">'+esc(l.title)+'</b></div></div></a>'}).join('');
-  shell('#/videos',head()+'<h1>فيديوهات الشرح</h1><div class="sub">شرح كل وحدة بالفيديو</div><div style="height:12px"></div>'+chips+'<div class="list" style="margin-top:8px">'+h+'</div>');
+  var h=L.slice(0,12).map(vcard).join('');
+  shell('#/videos',head()+'<h1>فيديوهات الشرح</h1><div class="sub">شرح كل وحدة بالفيديو</div><div style="height:12px"></div>'+chips+'<div class="list vlist">'+h+'</div>');
  });
 }
 function pickPractice(){shell('#/practice',head()+'<h1>التدريبات</h1><div class="sub">اختار صفك وابدأ تدريبات بتصحيح فوري</div><div style="height:14px"></div>'+gradeList(GR.slice(2)))}
