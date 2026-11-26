@@ -69,7 +69,7 @@ function gradeList(items){
   var n=g[0],lb=g[1],nm=g[2];
   if(s==='grid')h+='<a class="card" href="#/g/'+n+'"><span class="big">'+lb+'</span><span><b style="font-size:14px">'+nm+'</b></span></a>';
   else if(s==='car')h+='<a class="card" href="#/g/'+n+'"><span class="tag" style="align-self:flex-start">'+(n[0]==='p'?'ابتدائي':n[0]==='m'?'إعدادي':'رياض أطفال')+'</span><b style="font-size:15px">'+nm+'</b></a>';
-  else h+='<a class="card gl" href="#/g/'+n+'"><span class="num">'+gfig(n)+'</span><span class="tx"><b>'+nm+'</b><small>الوحدات والفيديوهات والتدريبات</small></span><span class="go">'+ic('chev')+'</span></a>';
+  else h+='<a class="card gl" href="#/g/'+n+'"><span class="num"><img class="gimg" src="g/'+n+'.webp" alt="" width="52" height="52" loading="lazy"></span><span class="tx"><b>'+nm+'</b><small>الوحدات والفيديوهات والتدريبات</small></span><span class="go">'+ic('chev')+'</span></a>';
  });
  if(s==='grid')return '<div class="grid2">'+h+'</div>';
  if(s==='car')return '<div class="car">'+h+'</div>';
