@@ -14,3 +14,23 @@ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',
 
 /* Menu panel: flat olive and beige, opens right under the header, no blur. */
 (function(){var s=document.createElement('style');s.textContent='html:root:root:root:root:root:root:root:root:root:root:root:root:root:root body header nav#nav.open{background:#F4EFE1!important;border:1px solid rgba(90,102,87,.32)!important;border-radius:16px!important;padding:8px!important;gap:6px!important;box-shadow:0 4px 14px rgba(37,41,31,.10)!important}html:root:root:root:root:root:root:root:root:root:root:root:root:root:root body header nav#nav.open>a{margin:0!important;flex:1 1 calc(50% - 3px)!important;min-height:46px!important;padding:8px 10px!important;border:1px solid transparent!important;border-radius:12px!important;background:#E9E2CD!important;color:#293023!important;font-weight:600!important;box-shadow:none!important}html:root:root:root:root:root:root:root:root:root:root:root:root:root:root body header nav#nav.open>a:hover,html:root:root:root:root:root:root:root:root:root:root:root:root:root:root body header nav#nav.open>a:focus{background:#DDD5BC!important;outline:2px solid #5A6657!important;outline-offset:1px!important}html:root:root:root:root:root:root:root:root:root:root:root:root:root:root body header nav#nav.open>a[aria-current]{background:#5A6657!important;border-color:#5A6657!important;color:#F6F4EF!important;box-shadow:none!important}html:root:root:root:root:root:root:root:root:root:root:root:root:root:root body.dark header nav#nav.open{background:#232A20!important;border-color:rgba(168,179,154,.35)!important}html:root:root:root:root:root:root:root:root:root:root:root:root:root:root body.dark header nav#nav.open>a{background:#2F382B!important;color:#EDF0E7!important}html:root:root:root:root:root:root:root:root:root:root:root:root:root:root body.dark header nav#nav.open>a[aria-current]{background:#A8B39A!important;border-color:#A8B39A!important;color:#1F251C!important}html:root:root:root:root:root:root .es-menu-backdrop{background:rgba(244,240,228,.5)!important;-webkit-backdrop-filter:blur(8px)!important;backdrop-filter:blur(8px)!important}';document.head.appendChild(s)})();
+
+/* One sound at a time: starting any audio or video stops whatever else is playing. */
+(function(){
+  if(window.__esOneSound)return;window.__esOneSound=1;
+  var P=window.HTMLMediaElement&&HTMLMediaElement.prototype;if(!P)return;
+  var orig=P.play,live=[];
+  function audible(m){return !m.paused&&!m.ended&&!m.muted&&m.volume>0}
+  function drop(){var i=live.indexOf(this);if(i>-1)live.splice(i,1)}
+  function stopSpeech(){try{var s=window.speechSynthesis;if(s&&(s.speaking||s.pending))s.cancel()}catch(e){}}
+  function stopMedia(except){live.slice().forEach(function(m){if(m!==except&&audible(m)){try{m.pause()}catch(e){}}})}
+  P.play=function(){
+    var m=this;
+    if(!m.muted&&m.volume>0){
+      stopMedia(m);stopSpeech();
+      if(live.indexOf(m)<0){live.push(m);if(!m.__esOne){m.__esOne=1;m.addEventListener('pause',drop);m.addEventListener('ended',drop);m.addEventListener('emptied',drop)}}
+    }
+    return orig.apply(m,arguments);
+  };
+  try{var ss=window.speechSynthesis;if(ss&&ss.speak){var sp=ss.speak;ss.speak=function(){stopMedia(null);return sp.apply(ss,arguments)}}}catch(e){}
+})();
