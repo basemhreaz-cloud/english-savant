@@ -1,0 +1,791 @@
+{
+  "grade": 2,
+  "title": "KG2 · الفصل الأول",
+  "scope": "Original adult-supported learning checks based on the four Term 1 units. No marks, timers, recordings, storage or standardized pass claim. Letter items use complete word examples, not isolated phonemes.",
+  "items": [
+    {
+      "id": "kg2-check-1",
+      "unit": 1,
+      "kind": "letter",
+      "target": {
+        "word": "jump",
+        "image": "assets/kg2/u1/act5.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-jump.mp3",
+          "assets/kg2/u1/en-word-jump.mp3"
+        ]
+      },
+      "answer": "J",
+      "choices": [
+        "K",
+        "J"
+      ],
+      "prompt": "نسمع الكلمة ونختار أول حرف فيها.",
+      "source_pdf_page": 22
+    },
+    {
+      "id": "kg2-check-2",
+      "unit": 1,
+      "kind": "letter",
+      "target": {
+        "word": "kick",
+        "image": "assets/kg2/u1/act4.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-kick.mp3",
+          "assets/kg2/u1/en-word-kick.mp3"
+        ]
+      },
+      "answer": "K",
+      "choices": [
+        "K",
+        "J"
+      ],
+      "prompt": "نسمع الكلمة ونختار أول حرف فيها.",
+      "source_pdf_page": 22
+    },
+    {
+      "id": "kg2-check-3",
+      "unit": 1,
+      "kind": "listen",
+      "target": {
+        "word": "run",
+        "image": "assets/kg2/u1/act2.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-run.mp3",
+          "assets/kg2/u1/en-word-run.mp3"
+        ]
+      },
+      "choices": [
+        {
+          "word": "jump",
+          "image": "assets/kg2/u1/act5.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-jump.mp3",
+            "assets/kg2/u1/en-word-jump.mp3"
+          ]
+        },
+        {
+          "word": "run",
+          "image": "assets/kg2/u1/act2.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-run.mp3",
+            "assets/kg2/u1/en-word-run.mp3"
+          ]
+        },
+        {
+          "word": "walk",
+          "image": "assets/kg2/u1/act3.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-walk.mp3",
+            "assets/kg2/u1/en-word-walk.mp3"
+          ]
+        }
+      ],
+      "answer": "run",
+      "prompt": "نسمع الكلمة بالإنجليزي ونختار صورتها."
+    },
+    {
+      "id": "kg2-check-4",
+      "unit": 1,
+      "kind": "listen",
+      "target": {
+        "word": "walk",
+        "image": "assets/kg2/u1/act3.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-walk.mp3",
+          "assets/kg2/u1/en-word-walk.mp3"
+        ]
+      },
+      "choices": [
+        {
+          "word": "run",
+          "image": "assets/kg2/u1/act2.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-run.mp3",
+            "assets/kg2/u1/en-word-run.mp3"
+          ]
+        },
+        {
+          "word": "walk",
+          "image": "assets/kg2/u1/act3.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-walk.mp3",
+            "assets/kg2/u1/en-word-walk.mp3"
+          ]
+        },
+        {
+          "word": "jump",
+          "image": "assets/kg2/u1/act5.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-jump.mp3",
+            "assets/kg2/u1/en-word-jump.mp3"
+          ]
+        }
+      ],
+      "answer": "walk",
+      "prompt": "نسمع الكلمة بالإنجليزي ونختار صورتها."
+    },
+    {
+      "id": "kg2-check-5",
+      "unit": 1,
+      "kind": "count",
+      "image": "assets/kg2/pics/orange.webp",
+      "count": 1,
+      "answer": "1",
+      "choices": [
+        "1",
+        "2",
+        "3"
+      ],
+      "prompt": "نعدّ الصور واحدة واحدة ونختار العدد. كل صورة حاجة واحدة.",
+      "adaptation": "Original repeated single-orange composition for the source number range, not a book illustration or answer key."
+    },
+    {
+      "id": "kg2-check-6",
+      "unit": 1,
+      "kind": "count",
+      "image": "assets/kg2/pics/orange.webp",
+      "count": 2,
+      "answer": "2",
+      "choices": [
+        "1",
+        "2",
+        "3"
+      ],
+      "prompt": "نعدّ الصور واحدة واحدة ونختار العدد. كل صورة حاجة واحدة.",
+      "adaptation": "Original repeated single-orange composition for the source number range, not a book illustration or answer key."
+    },
+    {
+      "id": "kg2-check-7",
+      "unit": 1,
+      "kind": "perform",
+      "prompt": "في مساحة آمنة، الطفل يقلّد run في مكانه وjump بهدوء، ويجرّب يقول I can run. من غير سرعة أو تنافس.",
+      "note": "ملاحظة شخص كبير، مش إجابة بتتحسب تلقائيًا."
+    },
+    {
+      "id": "kg2-check-8",
+      "unit": 2,
+      "kind": "letter",
+      "target": {
+        "word": "dress",
+        "image": "assets/kg2/pics/dress.webp",
+        "pair": [
+          "assets/kg2/audio/ar-meaning-dress.mp3",
+          "assets/kg2/audio/en-word-dress.mp3"
+        ]
+      },
+      "answer": "D",
+      "choices": [
+        "D",
+        "M"
+      ],
+      "prompt": "نسمع الكلمة ونختار أول حرف فيها.",
+      "source_pdf_page": 44
+    },
+    {
+      "id": "kg2-check-9",
+      "unit": 2,
+      "kind": "letter",
+      "target": {
+        "word": "mug",
+        "image": "assets/kg2/pics/mug.webp",
+        "pair": [
+          "assets/kg2/audio/u2-ar-word-mug.mp3",
+          "assets/kg2/audio/u2-en-word-mug.mp3"
+        ]
+      },
+      "answer": "M",
+      "choices": [
+        "G",
+        "M"
+      ],
+      "prompt": "نسمع الكلمة ونختار أول حرف فيها.",
+      "source_pdf_page": 44
+    },
+    {
+      "id": "kg2-check-10",
+      "unit": 2,
+      "kind": "letter",
+      "target": {
+        "word": "grass",
+        "image": "assets/kg2/pics/grass.webp",
+        "pair": [
+          "assets/kg2/audio/u2-ar-word-grass.mp3",
+          "assets/kg2/audio/u2-en-word-grass.mp3"
+        ]
+      },
+      "answer": "G",
+      "choices": [
+        "G",
+        "D"
+      ],
+      "prompt": "نسمع الكلمة ونختار أول حرف فيها.",
+      "source_pdf_page": 51
+    },
+    {
+      "id": "kg2-check-11",
+      "unit": 2,
+      "kind": "listen",
+      "target": {
+        "word": "shoes",
+        "image": "assets/kg2/pics/shoes.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-shoes.mp3",
+          "assets/kg2/audio/en-word-shoes.mp3"
+        ]
+      },
+      "choices": [
+        {
+          "word": "socks",
+          "image": "assets/kg2/pics/socks.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-socks.mp3",
+            "assets/kg2/audio/en-word-socks.mp3"
+          ]
+        },
+        {
+          "word": "cap",
+          "image": "assets/kg2/pics/cap.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-cap.mp3",
+            "assets/kg2/audio/en-word-cap.mp3"
+          ]
+        },
+        {
+          "word": "shoes",
+          "image": "assets/kg2/pics/shoes.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-shoes.mp3",
+            "assets/kg2/audio/en-word-shoes.mp3"
+          ]
+        }
+      ],
+      "answer": "shoes",
+      "prompt": "نسمع الكلمة بالإنجليزي ونختار صورتها."
+    },
+    {
+      "id": "kg2-check-12",
+      "unit": 2,
+      "kind": "listen",
+      "target": {
+        "word": "socks",
+        "image": "assets/kg2/pics/socks.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-socks.mp3",
+          "assets/kg2/audio/en-word-socks.mp3"
+        ]
+      },
+      "choices": [
+        {
+          "word": "cap",
+          "image": "assets/kg2/pics/cap.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-cap.mp3",
+            "assets/kg2/audio/en-word-cap.mp3"
+          ]
+        },
+        {
+          "word": "shoes",
+          "image": "assets/kg2/pics/shoes.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-shoes.mp3",
+            "assets/kg2/audio/en-word-shoes.mp3"
+          ]
+        },
+        {
+          "word": "socks",
+          "image": "assets/kg2/pics/socks.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-socks.mp3",
+            "assets/kg2/audio/en-word-socks.mp3"
+          ]
+        }
+      ],
+      "answer": "socks",
+      "prompt": "نسمع الكلمة بالإنجليزي ونختار صورتها."
+    },
+    {
+      "id": "kg2-check-13",
+      "unit": 2,
+      "kind": "count",
+      "image": "assets/kg2/pics/orange.webp",
+      "count": 3,
+      "answer": "3",
+      "choices": [
+        "2",
+        "3",
+        "4"
+      ],
+      "prompt": "نعدّ الصور واحدة واحدة ونختار العدد. كل صورة حاجة واحدة.",
+      "adaptation": "Original repeated single-orange composition for the source number range, not a book illustration or answer key."
+    },
+    {
+      "id": "kg2-check-14",
+      "unit": 2,
+      "kind": "count",
+      "image": "assets/kg2/pics/orange.webp",
+      "count": 4,
+      "answer": "4",
+      "choices": [
+        "3",
+        "4",
+        "5"
+      ],
+      "prompt": "نعدّ الصور واحدة واحدة ونختار العدد. كل صورة حاجة واحدة.",
+      "adaptation": "Original repeated single-orange composition for the source number range, not a book illustration or answer key."
+    },
+    {
+      "id": "kg2-check-15",
+      "unit": 2,
+      "kind": "count",
+      "image": "assets/kg2/pics/orange.webp",
+      "count": 5,
+      "answer": "5",
+      "choices": [
+        "4",
+        "5",
+        "6"
+      ],
+      "prompt": "نعدّ الصور واحدة واحدة ونختار العدد. كل صورة حاجة واحدة.",
+      "adaptation": "Original repeated single-orange composition for the source number range, not a book illustration or answer key."
+    },
+    {
+      "id": "kg2-check-16",
+      "unit": 2,
+      "kind": "perform",
+      "prompt": "الطفل يشاور على قطعة لبس موجودة ويقول اسمها بالإنجليزي. اسألوه عن لونها من الألوان اللي اتعلمها.",
+      "note": "ملاحظة شخص كبير، مش إجابة بتتحسب تلقائيًا."
+    },
+    {
+      "id": "kg2-check-17",
+      "unit": 3,
+      "kind": "letter",
+      "target": {
+        "word": "orange",
+        "image": "assets/kg2/pics/orange.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-orange.mp3",
+          "assets/kg2/audio/en-u3-w-orange.mp3"
+        ]
+      },
+      "answer": "O",
+      "choices": [
+        "B",
+        "O"
+      ],
+      "prompt": "نسمع الكلمة ونختار أول حرف فيها.",
+      "source_pdf_page": 68
+    },
+    {
+      "id": "kg2-check-18",
+      "unit": 3,
+      "kind": "letter",
+      "target": {
+        "word": "bag",
+        "image": "assets/kg2/pics/bag.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-bag.mp3",
+          "assets/kg2/audio/en-u3-w-bag.mp3"
+        ]
+      },
+      "answer": "B",
+      "choices": [
+        "B",
+        "F"
+      ],
+      "prompt": "نسمع الكلمة ونختار أول حرف فيها.",
+      "source_pdf_page": 68
+    },
+    {
+      "id": "kg2-check-19",
+      "unit": 3,
+      "kind": "letter",
+      "target": {
+        "word": "flag",
+        "image": "assets/kg2/pics/flag.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-flag.mp3",
+          "assets/kg2/audio/en-u3-w-flag.mp3"
+        ]
+      },
+      "answer": "F",
+      "choices": [
+        "L",
+        "F"
+      ],
+      "prompt": "نسمع الكلمة ونختار أول حرف فيها.",
+      "source_pdf_page": 76
+    },
+    {
+      "id": "kg2-check-20",
+      "unit": 3,
+      "kind": "letter",
+      "target": {
+        "word": "leaf",
+        "image": "assets/kg2/pics/leaf.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-leaf.mp3",
+          "assets/kg2/audio/en-u3-w-leaf.mp3"
+        ]
+      },
+      "answer": "L",
+      "choices": [
+        "L",
+        "O"
+      ],
+      "prompt": "نسمع الكلمة ونختار أول حرف فيها.",
+      "source_pdf_page": 76
+    },
+    {
+      "id": "kg2-check-21",
+      "unit": 3,
+      "kind": "listen",
+      "target": {
+        "word": "orange",
+        "image": "assets/kg2/pics/orange.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-orange.mp3",
+          "assets/kg2/audio/en-u3-w-orange.mp3"
+        ]
+      },
+      "choices": [
+        {
+          "word": "flag",
+          "image": "assets/kg2/pics/flag.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-flag.mp3",
+            "assets/kg2/audio/en-u3-w-flag.mp3"
+          ]
+        },
+        {
+          "word": "orange",
+          "image": "assets/kg2/pics/orange.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-orange.mp3",
+            "assets/kg2/audio/en-u3-w-orange.mp3"
+          ]
+        },
+        {
+          "word": "bag",
+          "image": "assets/kg2/pics/bag.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-bag.mp3",
+            "assets/kg2/audio/en-u3-w-bag.mp3"
+          ]
+        }
+      ],
+      "answer": "orange",
+      "prompt": "نسمع الكلمة بالإنجليزي ونختار صورتها."
+    },
+    {
+      "id": "kg2-check-22",
+      "unit": 3,
+      "kind": "listen",
+      "target": {
+        "word": "bag",
+        "image": "assets/kg2/pics/bag.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-bag.mp3",
+          "assets/kg2/audio/en-u3-w-bag.mp3"
+        ]
+      },
+      "choices": [
+        {
+          "word": "orange",
+          "image": "assets/kg2/pics/orange.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-orange.mp3",
+            "assets/kg2/audio/en-u3-w-orange.mp3"
+          ]
+        },
+        {
+          "word": "bag",
+          "image": "assets/kg2/pics/bag.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-bag.mp3",
+            "assets/kg2/audio/en-u3-w-bag.mp3"
+          ]
+        },
+        {
+          "word": "flag",
+          "image": "assets/kg2/pics/flag.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-flag.mp3",
+            "assets/kg2/audio/en-u3-w-flag.mp3"
+          ]
+        }
+      ],
+      "answer": "bag",
+      "prompt": "نسمع الكلمة بالإنجليزي ونختار صورتها."
+    },
+    {
+      "id": "kg2-check-23",
+      "unit": 3,
+      "kind": "count",
+      "image": "assets/kg2/pics/orange.webp",
+      "count": 6,
+      "answer": "6",
+      "choices": [
+        "5",
+        "6",
+        "7"
+      ],
+      "prompt": "نعدّ الصور واحدة واحدة ونختار العدد. كل صورة حاجة واحدة.",
+      "adaptation": "Original repeated single-orange composition for the source number range, not a book illustration or answer key."
+    },
+    {
+      "id": "kg2-check-24",
+      "unit": 3,
+      "kind": "count",
+      "image": "assets/kg2/pics/orange.webp",
+      "count": 7,
+      "answer": "7",
+      "choices": [
+        "6",
+        "7",
+        "8"
+      ],
+      "prompt": "نعدّ الصور واحدة واحدة ونختار العدد. كل صورة حاجة واحدة.",
+      "adaptation": "Original repeated single-orange composition for the source number range, not a book illustration or answer key."
+    },
+    {
+      "id": "kg2-check-25",
+      "unit": 3,
+      "kind": "count",
+      "image": "assets/kg2/pics/orange.webp",
+      "count": 8,
+      "answer": "8",
+      "choices": [
+        "7",
+        "8",
+        "9"
+      ],
+      "prompt": "نعدّ الصور واحدة واحدة ونختار العدد. كل صورة حاجة واحدة.",
+      "adaptation": "Original repeated single-orange composition for the source number range, not a book illustration or answer key."
+    },
+    {
+      "id": "kg2-check-26",
+      "unit": 3,
+      "kind": "perform",
+      "prompt": "بصّوا على تقويم حقيقي. الكبير يقول اسم النهارده بالإنجليزي، وبعدها يسأل عن yesterday وtomorrow. الإجابة بتتغيّر حسب يومكم، مش مفتاح ثابت.",
+      "note": "ملاحظة شخص كبير، مش إجابة بتتحسب تلقائيًا."
+    },
+    {
+      "id": "kg2-check-27",
+      "unit": 4,
+      "kind": "letter",
+      "target": {
+        "word": "watch",
+        "image": "assets/kg2/pics/watch.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-watch.mp3",
+          "assets/kg2/audio/en-u4-w-watch.mp3"
+        ]
+      },
+      "answer": "W",
+      "choices": [
+        "C",
+        "W"
+      ],
+      "prompt": "نسمع الكلمة ونختار أول حرف فيها.",
+      "source_pdf_page": 92
+    },
+    {
+      "id": "kg2-check-28",
+      "unit": 4,
+      "kind": "letter",
+      "target": {
+        "word": "cat",
+        "image": "assets/kg2/pics/cat.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-cat.mp3",
+          "assets/kg2/audio/en-u4-w-cat.mp3"
+        ]
+      },
+      "answer": "C",
+      "choices": [
+        "C",
+        "R"
+      ],
+      "prompt": "نسمع الكلمة ونختار أول حرف فيها.",
+      "source_pdf_page": 92
+    },
+    {
+      "id": "kg2-check-29",
+      "unit": 4,
+      "kind": "letter",
+      "target": {
+        "word": "ruler",
+        "image": "assets/kg2/pics/ruler.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-ruler.mp3",
+          "assets/kg2/audio/en-u4-w-ruler.mp3"
+        ]
+      },
+      "answer": "R",
+      "choices": [
+        "U",
+        "R"
+      ],
+      "prompt": "نسمع الكلمة ونختار أول حرف فيها.",
+      "source_pdf_page": 100
+    },
+    {
+      "id": "kg2-check-30",
+      "unit": 4,
+      "kind": "letter",
+      "target": {
+        "word": "umbrella",
+        "image": "assets/kg2/pics/umbrella.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-umbrella.mp3",
+          "assets/kg2/audio/en-u4-w-umbrella.mp3"
+        ]
+      },
+      "answer": "U",
+      "choices": [
+        "U",
+        "W"
+      ],
+      "prompt": "نسمع الكلمة ونختار أول حرف فيها.",
+      "source_pdf_page": 100
+    },
+    {
+      "id": "kg2-check-31",
+      "unit": 4,
+      "kind": "listen",
+      "target": {
+        "word": "morning",
+        "image": "assets/kg2/pics/morning.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-morning.mp3",
+          "assets/kg2/audio/en-u4-w-morning.mp3"
+        ]
+      },
+      "choices": [
+        {
+          "word": "morning",
+          "image": "assets/kg2/pics/morning.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-morning.mp3",
+            "assets/kg2/audio/en-u4-w-morning.mp3"
+          ]
+        },
+        {
+          "word": "night",
+          "image": "assets/kg2/pics/night.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-night.mp3",
+            "assets/kg2/audio/en-u4-w-night.mp3"
+          ]
+        },
+        {
+          "word": "noon",
+          "image": "assets/kg2/pics/noon.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-noon.mp3",
+            "assets/kg2/audio/en-u4-w-noon.mp3"
+          ]
+        }
+      ],
+      "answer": "morning",
+      "prompt": "نسمع الكلمة بالإنجليزي ونختار صورتها."
+    },
+    {
+      "id": "kg2-check-32",
+      "unit": 4,
+      "kind": "listen",
+      "target": {
+        "word": "night",
+        "image": "assets/kg2/pics/night.webp",
+        "pair": [
+          "assets/kg2/audio/ar-m-night.mp3",
+          "assets/kg2/audio/en-u4-w-night.mp3"
+        ]
+      },
+      "choices": [
+        {
+          "word": "night",
+          "image": "assets/kg2/pics/night.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-night.mp3",
+            "assets/kg2/audio/en-u4-w-night.mp3"
+          ]
+        },
+        {
+          "word": "noon",
+          "image": "assets/kg2/pics/noon.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-noon.mp3",
+            "assets/kg2/audio/en-u4-w-noon.mp3"
+          ]
+        },
+        {
+          "word": "morning",
+          "image": "assets/kg2/pics/morning.webp",
+          "pair": [
+            "assets/kg2/audio/ar-m-morning.mp3",
+            "assets/kg2/audio/en-u4-w-morning.mp3"
+          ]
+        }
+      ],
+      "answer": "night",
+      "prompt": "نسمع الكلمة بالإنجليزي ونختار صورتها."
+    },
+    {
+      "id": "kg2-check-33",
+      "unit": 4,
+      "kind": "count",
+      "image": "assets/kg2/pics/orange.webp",
+      "count": 9,
+      "answer": "9",
+      "choices": [
+        "8",
+        "9",
+        "10"
+      ],
+      "prompt": "نعدّ الصور واحدة واحدة ونختار العدد. كل صورة حاجة واحدة.",
+      "adaptation": "Original repeated single-orange composition for the source number range, not a book illustration or answer key."
+    },
+    {
+      "id": "kg2-check-34",
+      "unit": 4,
+      "kind": "count",
+      "image": "assets/kg2/pics/orange.webp",
+      "count": 10,
+      "answer": "10",
+      "choices": [
+        "8",
+        "9",
+        "10"
+      ],
+      "prompt": "نعدّ الصور واحدة واحدة ونختار العدد. كل صورة حاجة واحدة.",
+      "adaptation": "Original repeated single-orange composition for the source number range, not a book illustration or answer key."
+    },
+    {
+      "id": "kg2-check-35",
+      "unit": 4,
+      "kind": "perform",
+      "prompt": "مثّلوا breakfast وlunch وdinner. الطفل يحاول يوصلهم بوقت morning وnoon وnight ويقول كلمة مناسبة.",
+      "note": "ملاحظة شخص كبير، مش إجابة بتتحسب تلقائيًا."
+    }
+  ],
+  "mixed_ids": [
+    "kg2-check-3",
+    "kg2-check-1",
+    "kg2-check-5",
+    "kg2-check-7",
+    "kg2-check-11",
+    "kg2-check-8",
+    "kg2-check-13",
+    "kg2-check-16",
+    "kg2-check-21",
+    "kg2-check-17",
+    "kg2-check-23",
+    "kg2-check-26",
+    "kg2-check-31",
+    "kg2-check-27",
+    "kg2-check-33",
+    "kg2-check-35"
+  ]
+}

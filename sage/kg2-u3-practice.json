@@ -1,0 +1,663 @@
+{
+  "version": 1,
+  "activities": [
+    {
+      "id": "k2u3p-listen",
+      "kind": "listen-choose",
+      "title_ar": "اسمع واختار اليوم",
+      "help": "اسمع اسم اليوم بالإنجليزي، وبعدها اختار بطاقته. نقدر نعيد الصوت ونجرب تاني من غير درجات.",
+      "rounds": [
+        {
+          "target": {
+            "word": "Sunday",
+            "img": "day/1-sunday.webp",
+            "ar": "ar-m-sunday",
+            "en": "en-u3-w-sunday",
+            "label_en": "Sunday"
+          },
+          "choices": [
+            {
+              "word": "Tuesday",
+              "img": "day/3-tuesday.webp",
+              "ar": "ar-m-tuesday",
+              "en": "en-u3-w-tuesday",
+              "label_en": "Tuesday"
+            },
+            {
+              "word": "Sunday",
+              "img": "day/1-sunday.webp",
+              "ar": "ar-m-sunday",
+              "en": "en-u3-w-sunday",
+              "label_en": "Sunday"
+            },
+            {
+              "word": "Friday",
+              "img": "day/6-friday.webp",
+              "ar": "ar-m-friday",
+              "en": "en-u3-w-friday",
+              "label_en": "Friday"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "Monday",
+            "img": "day/2-monday.webp",
+            "ar": "ar-m-monday",
+            "en": "en-u3-w-monday",
+            "label_en": "Monday"
+          },
+          "choices": [
+            {
+              "word": "Monday",
+              "img": "day/2-monday.webp",
+              "ar": "ar-m-monday",
+              "en": "en-u3-w-monday",
+              "label_en": "Monday"
+            },
+            {
+              "word": "Saturday",
+              "img": "day/7-saturday.webp",
+              "ar": "ar-m-saturday",
+              "en": "en-u3-w-saturday",
+              "label_en": "Saturday"
+            },
+            {
+              "word": "Wednesday",
+              "img": "day/4-wednesday.webp",
+              "ar": "ar-m-wednesday",
+              "en": "en-u3-w-wednesday",
+              "label_en": "Wednesday"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "Tuesday",
+            "img": "day/3-tuesday.webp",
+            "ar": "ar-m-tuesday",
+            "en": "en-u3-w-tuesday",
+            "label_en": "Tuesday"
+          },
+          "choices": [
+            {
+              "word": "Sunday",
+              "img": "day/1-sunday.webp",
+              "ar": "ar-m-sunday",
+              "en": "en-u3-w-sunday",
+              "label_en": "Sunday"
+            },
+            {
+              "word": "Thursday",
+              "img": "day/5-thursday.webp",
+              "ar": "ar-m-thursday",
+              "en": "en-u3-w-thursday",
+              "label_en": "Thursday"
+            },
+            {
+              "word": "Tuesday",
+              "img": "day/3-tuesday.webp",
+              "ar": "ar-m-tuesday",
+              "en": "en-u3-w-tuesday",
+              "label_en": "Tuesday"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "Wednesday",
+            "img": "day/4-wednesday.webp",
+            "ar": "ar-m-wednesday",
+            "en": "en-u3-w-wednesday",
+            "label_en": "Wednesday"
+          },
+          "choices": [
+            {
+              "word": "Friday",
+              "img": "day/6-friday.webp",
+              "ar": "ar-m-friday",
+              "en": "en-u3-w-friday",
+              "label_en": "Friday"
+            },
+            {
+              "word": "Wednesday",
+              "img": "day/4-wednesday.webp",
+              "ar": "ar-m-wednesday",
+              "en": "en-u3-w-wednesday",
+              "label_en": "Wednesday"
+            },
+            {
+              "word": "Monday",
+              "img": "day/2-monday.webp",
+              "ar": "ar-m-monday",
+              "en": "en-u3-w-monday",
+              "label_en": "Monday"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "Thursday",
+            "img": "day/5-thursday.webp",
+            "ar": "ar-m-thursday",
+            "en": "en-u3-w-thursday",
+            "label_en": "Thursday"
+          },
+          "choices": [
+            {
+              "word": "Thursday",
+              "img": "day/5-thursday.webp",
+              "ar": "ar-m-thursday",
+              "en": "en-u3-w-thursday",
+              "label_en": "Thursday"
+            },
+            {
+              "word": "Tuesday",
+              "img": "day/3-tuesday.webp",
+              "ar": "ar-m-tuesday",
+              "en": "en-u3-w-tuesday",
+              "label_en": "Tuesday"
+            },
+            {
+              "word": "Saturday",
+              "img": "day/7-saturday.webp",
+              "ar": "ar-m-saturday",
+              "en": "en-u3-w-saturday",
+              "label_en": "Saturday"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "Friday",
+            "img": "day/6-friday.webp",
+            "ar": "ar-m-friday",
+            "en": "en-u3-w-friday",
+            "label_en": "Friday"
+          },
+          "choices": [
+            {
+              "word": "Wednesday",
+              "img": "day/4-wednesday.webp",
+              "ar": "ar-m-wednesday",
+              "en": "en-u3-w-wednesday",
+              "label_en": "Wednesday"
+            },
+            {
+              "word": "Sunday",
+              "img": "day/1-sunday.webp",
+              "ar": "ar-m-sunday",
+              "en": "en-u3-w-sunday",
+              "label_en": "Sunday"
+            },
+            {
+              "word": "Friday",
+              "img": "day/6-friday.webp",
+              "ar": "ar-m-friday",
+              "en": "en-u3-w-friday",
+              "label_en": "Friday"
+            }
+          ]
+        },
+        {
+          "target": {
+            "word": "Saturday",
+            "img": "day/7-saturday.webp",
+            "ar": "ar-m-saturday",
+            "en": "en-u3-w-saturday",
+            "label_en": "Saturday"
+          },
+          "choices": [
+            {
+              "word": "Monday",
+              "img": "day/2-monday.webp",
+              "ar": "ar-m-monday",
+              "en": "en-u3-w-monday",
+              "label_en": "Monday"
+            },
+            {
+              "word": "Saturday",
+              "img": "day/7-saturday.webp",
+              "ar": "ar-m-saturday",
+              "en": "en-u3-w-saturday",
+              "label_en": "Saturday"
+            },
+            {
+              "word": "Thursday",
+              "img": "day/5-thursday.webp",
+              "ar": "ar-m-thursday",
+              "en": "en-u3-w-thursday",
+              "label_en": "Thursday"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k2u3p-calendar",
+      "kind": "calendar-choice",
+      "title_ar": "أمس وبكرة في لعبتنا",
+      "help": "دي أيام بنفترضها في اللعبة، مش تاريخ النهارده الحقيقي. شخص كبير يقرأ السؤال. اسمع بطاقة اليوم لو حبيت، واختار أمس أو بكرة.",
+      "rounds": [
+        {
+          "context": {
+            "word": "Monday",
+            "img": "day/2-monday.webp",
+            "ar": "ar-m-monday",
+            "en": "en-u3-w-monday",
+            "label_en": "Monday"
+          },
+          "relation": "tomorrow",
+          "target": {
+            "word": "Tuesday",
+            "img": "day/3-tuesday.webp",
+            "ar": "ar-m-tuesday",
+            "en": "en-u3-w-tuesday",
+            "label_en": "Tuesday"
+          },
+          "choices": [
+            {
+              "word": "Sunday",
+              "img": "day/1-sunday.webp",
+              "ar": "ar-m-sunday",
+              "en": "en-u3-w-sunday",
+              "label_en": "Sunday"
+            },
+            {
+              "word": "Tuesday",
+              "img": "day/3-tuesday.webp",
+              "ar": "ar-m-tuesday",
+              "en": "en-u3-w-tuesday",
+              "label_en": "Tuesday"
+            },
+            {
+              "word": "Monday",
+              "img": "day/2-monday.webp",
+              "ar": "ar-m-monday",
+              "en": "en-u3-w-monday",
+              "label_en": "Monday"
+            }
+          ]
+        },
+        {
+          "context": {
+            "word": "Wednesday",
+            "img": "day/4-wednesday.webp",
+            "ar": "ar-m-wednesday",
+            "en": "en-u3-w-wednesday",
+            "label_en": "Wednesday"
+          },
+          "relation": "tomorrow",
+          "target": {
+            "word": "Thursday",
+            "img": "day/5-thursday.webp",
+            "ar": "ar-m-thursday",
+            "en": "en-u3-w-thursday",
+            "label_en": "Thursday"
+          },
+          "choices": [
+            {
+              "word": "Wednesday",
+              "img": "day/4-wednesday.webp",
+              "ar": "ar-m-wednesday",
+              "en": "en-u3-w-wednesday",
+              "label_en": "Wednesday"
+            },
+            {
+              "word": "Friday",
+              "img": "day/6-friday.webp",
+              "ar": "ar-m-friday",
+              "en": "en-u3-w-friday",
+              "label_en": "Friday"
+            },
+            {
+              "word": "Thursday",
+              "img": "day/5-thursday.webp",
+              "ar": "ar-m-thursday",
+              "en": "en-u3-w-thursday",
+              "label_en": "Thursday"
+            }
+          ]
+        },
+        {
+          "context": {
+            "word": "Monday",
+            "img": "day/2-monday.webp",
+            "ar": "ar-m-monday",
+            "en": "en-u3-w-monday",
+            "label_en": "Monday"
+          },
+          "relation": "yesterday",
+          "target": {
+            "word": "Sunday",
+            "img": "day/1-sunday.webp",
+            "ar": "ar-m-sunday",
+            "en": "en-u3-w-sunday",
+            "label_en": "Sunday"
+          },
+          "choices": [
+            {
+              "word": "Sunday",
+              "img": "day/1-sunday.webp",
+              "ar": "ar-m-sunday",
+              "en": "en-u3-w-sunday",
+              "label_en": "Sunday"
+            },
+            {
+              "word": "Tuesday",
+              "img": "day/3-tuesday.webp",
+              "ar": "ar-m-tuesday",
+              "en": "en-u3-w-tuesday",
+              "label_en": "Tuesday"
+            },
+            {
+              "word": "Monday",
+              "img": "day/2-monday.webp",
+              "ar": "ar-m-monday",
+              "en": "en-u3-w-monday",
+              "label_en": "Monday"
+            }
+          ]
+        },
+        {
+          "context": {
+            "word": "Friday",
+            "img": "day/6-friday.webp",
+            "ar": "ar-m-friday",
+            "en": "en-u3-w-friday",
+            "label_en": "Friday"
+          },
+          "relation": "yesterday",
+          "target": {
+            "word": "Thursday",
+            "img": "day/5-thursday.webp",
+            "ar": "ar-m-thursday",
+            "en": "en-u3-w-thursday",
+            "label_en": "Thursday"
+          },
+          "choices": [
+            {
+              "word": "Friday",
+              "img": "day/6-friday.webp",
+              "ar": "ar-m-friday",
+              "en": "en-u3-w-friday",
+              "label_en": "Friday"
+            },
+            {
+              "word": "Thursday",
+              "img": "day/5-thursday.webp",
+              "ar": "ar-m-thursday",
+              "en": "en-u3-w-thursday",
+              "label_en": "Thursday"
+            },
+            {
+              "word": "Saturday",
+              "img": "day/7-saturday.webp",
+              "ar": "ar-m-saturday",
+              "en": "en-u3-w-saturday",
+              "label_en": "Saturday"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k2u3p-match",
+      "kind": "match-pairs",
+      "title_ar": "لاقي نفس الصورة",
+      "help": "المس صورة من اليمين وبعدها نفس الصورة من الشمال. بنستخدم نفس الرسمة مرتين.",
+      "left": [
+        {
+          "word": "bag",
+          "img": "pics/bag.webp",
+          "ar": "ar-m-bag",
+          "en": "en-u3-w-bag",
+          "label_en": "bag"
+        },
+        {
+          "word": "flag",
+          "img": "pics/flag.webp",
+          "ar": "ar-m-flag",
+          "en": "en-u3-w-flag",
+          "label_en": "flag"
+        },
+        {
+          "word": "lamp",
+          "img": "pics/lamp.webp",
+          "ar": "ar-m-lamp",
+          "en": "en-u3-w-lamp",
+          "label_en": "lamp"
+        },
+        {
+          "word": "orange",
+          "img": "pics/orange.webp",
+          "ar": "ar-m-orange",
+          "en": "en-u3-w-orange",
+          "label_en": "orange"
+        }
+      ],
+      "right": [
+        {
+          "word": "lamp",
+          "img": "pics/lamp.webp",
+          "ar": "ar-m-lamp",
+          "en": "en-u3-w-lamp",
+          "label_en": "lamp"
+        },
+        {
+          "word": "orange",
+          "img": "pics/orange.webp",
+          "ar": "ar-m-orange",
+          "en": "en-u3-w-orange",
+          "label_en": "orange"
+        },
+        {
+          "word": "bag",
+          "img": "pics/bag.webp",
+          "ar": "ar-m-bag",
+          "en": "en-u3-w-bag",
+          "label_en": "bag"
+        },
+        {
+          "word": "flag",
+          "img": "pics/flag.webp",
+          "ar": "ar-m-flag",
+          "en": "en-u3-w-flag",
+          "label_en": "flag"
+        }
+      ]
+    },
+    {
+      "id": "k2u3p-initial",
+      "kind": "bucket",
+      "title_ar": "نختار أول حرف",
+      "help": "اسمع معنى الصورة بالعربي وبعده الكلمة بالإنجليزي. اختار أول حرف بمساعدة شخص كبير. بنستخدم الكلمة الكاملة، مش صوت حرف منفصل.",
+      "buckets": [
+        "Oo",
+        "Bb",
+        "Ff",
+        "Ll"
+      ],
+      "items": [
+        {
+          "word": "orange",
+          "img": "pics/orange.webp",
+          "ar": "ar-m-orange",
+          "en": "en-u3-w-orange",
+          "label_en": "orange",
+          "ok": "Oo"
+        },
+        {
+          "word": "on",
+          "img": "pics/on.webp",
+          "ar": "next-ar-on",
+          "en": "next-en-on",
+          "label_en": "on",
+          "ok": "Oo"
+        },
+        {
+          "word": "bag",
+          "img": "pics/bag.webp",
+          "ar": "ar-m-bag",
+          "en": "en-u3-w-bag",
+          "label_en": "bag",
+          "ok": "Bb"
+        },
+        {
+          "word": "bus",
+          "img": "pics/bus.webp",
+          "ar": "ar-m-bus",
+          "en": "en-u3-w-bus",
+          "label_en": "bus",
+          "ok": "Bb"
+        },
+        {
+          "word": "flag",
+          "img": "pics/flag.webp",
+          "ar": "ar-m-flag",
+          "en": "en-u3-w-flag",
+          "label_en": "flag",
+          "ok": "Ff"
+        },
+        {
+          "word": "flower",
+          "img": "pics/flower.webp",
+          "ar": "next-ar-flower",
+          "en": "next-en-flower",
+          "label_en": "flower",
+          "ok": "Ff"
+        },
+        {
+          "word": "lamp",
+          "img": "pics/lamp.webp",
+          "ar": "ar-m-lamp",
+          "en": "en-u3-w-lamp",
+          "label_en": "lamp",
+          "ok": "Ll"
+        },
+        {
+          "word": "leaf",
+          "img": "pics/leaf.webp",
+          "ar": "ar-m-leaf",
+          "en": "en-u3-w-leaf",
+          "label_en": "leaf",
+          "ok": "Ll"
+        },
+        {
+          "word": "leg",
+          "img": "pics/leg.webp",
+          "ar": "ar-m-leg",
+          "en": "en-u3-w-leg",
+          "label_en": "leg",
+          "ok": "Ll"
+        }
+      ]
+    },
+    {
+      "id": "k2u3p-count",
+      "kind": "count-choose",
+      "title_ar": "عدّ ستة وسبعة وثمانية",
+      "help": "شاور على كل صورة مرة وعدّها. عدّ البرتقال، ثم بطاقات الأيام السبعة، ثم الباصات. الرسومات أصلية، مش صور الكتاب.",
+      "choices": [
+        6,
+        7,
+        8
+      ],
+      "rounds": [
+        {
+          "img": "pics/orange.webp",
+          "repeat": 6,
+          "alt": "البرتقال",
+          "ok": 6
+        },
+        {
+          "imgs": [
+            "day/1-sunday.webp",
+            "day/2-monday.webp",
+            "day/3-tuesday.webp",
+            "day/4-wednesday.webp",
+            "day/5-thursday.webp",
+            "day/6-friday.webp",
+            "day/7-saturday.webp"
+          ],
+          "alt": "بطاقات أيام الأسبوع",
+          "ok": 7
+        },
+        {
+          "img": "u3p/single-bus.webp",
+          "repeat": 8,
+          "alt": "الباصات",
+          "ok": 8
+        }
+      ]
+    },
+    {
+      "id": "k2u3p-build",
+      "kind": "build-count",
+      "title_ar": "كوّن العدد بإيدك",
+      "help": "اختار صور البرتقال لحد ما توصل للعدد المطلوب. تقدر تشيل اختيارك وتعدّ تاني. ده تدريب أصلي من غير درجات.",
+      "rounds": [
+        {
+          "word": {
+            "word": "orange",
+            "img": "pics/orange.webp",
+            "ar": "ar-m-orange",
+            "en": "en-u3-w-orange",
+            "label_en": "orange"
+          },
+          "target": 6
+        },
+        {
+          "word": {
+            "word": "orange",
+            "img": "pics/orange.webp",
+            "ar": "ar-m-orange",
+            "en": "en-u3-w-orange",
+            "label_en": "orange"
+          },
+          "target": 7
+        },
+        {
+          "word": {
+            "word": "orange",
+            "img": "pics/orange.webp",
+            "ar": "ar-m-orange",
+            "en": "en-u3-w-orange",
+            "label_en": "orange"
+          },
+          "target": 8
+        }
+      ]
+    }
+  ],
+  "held": [
+    "مفيش سؤال عن باسم والحديقة يوم الجمعة، لأنه مش مذكور في الحوار."
+  ],
+  "source_context": {
+    "full_pdf_pages": [
+      61,
+      86
+    ],
+    "day_context": [
+      63,
+      65,
+      66,
+      67
+    ],
+    "letter_context": [
+      68,
+      70,
+      71,
+      76,
+      78,
+      79
+    ],
+    "number_context": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "source_url": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/KG/KG2/Term1/StudentBook/English_language_kg2_t1.pdf"
+  }
+}

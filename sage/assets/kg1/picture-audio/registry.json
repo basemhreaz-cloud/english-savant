@@ -1,0 +1,1026 @@
+{
+  "version": 1,
+  "scope": "Core gallery meanings and whole words only; Arabic then English. Not phonemes, instructions, listening games or assessments.",
+  "units": {
+    "kg1-t1-u1": {
+      "source_hash": "84c7bdde462f1b9207baba73304fcbf5af9387626df5825d6bf7804475fcd1ac",
+      "words": [
+        "w-hello",
+        "w-hi",
+        "w-good-morning",
+        "w-goodbye",
+        "w-boy",
+        "w-girl",
+        "w-friends",
+        "w-happy",
+        "w-sad"
+      ]
+    },
+    "kg1-t1-u2": {
+      "source_hash": "84c7bdde462f1b9207baba73304fcbf5af9387626df5825d6bf7804475fcd1ac",
+      "words": [
+        "w-classroom",
+        "w-teacher",
+        "w-chair",
+        "w-desk",
+        "w-board",
+        "w-book",
+        "w-pencil",
+        "w-eraser",
+        "w-crayon",
+        "w-playground",
+        "w-swing",
+        "w-slide"
+      ]
+    },
+    "kg1-t1-u3": {
+      "source_hash": "84c7bdde462f1b9207baba73304fcbf5af9387626df5825d6bf7804475fcd1ac",
+      "words": [
+        "w-hair",
+        "w-face",
+        "w-eyes",
+        "w-ears",
+        "w-nose",
+        "w-mouth",
+        "w-teeth",
+        "w-arms",
+        "w-hands",
+        "w-legs",
+        "w-feet"
+      ]
+    },
+    "kg1-t1-u4": {
+      "source_hash": "84c7bdde462f1b9207baba73304fcbf5af9387626df5825d6bf7804475fcd1ac",
+      "words": [
+        "w-grandfather",
+        "w-grandmother",
+        "w-father",
+        "w-mother",
+        "w-sister",
+        "w-brother",
+        "w-garden",
+        "w-tree",
+        "w-flower",
+        "w-grass",
+        "w-fruits",
+        "w-chocolate",
+        "w-chips",
+        "w-juice",
+        "w-sandwich"
+      ]
+    },
+    "kg1-t1-review": {
+      "source_hash": "84c7bdde462f1b9207baba73304fcbf5af9387626df5825d6bf7804475fcd1ac",
+      "words": [
+        "w-happy",
+        "w-sad",
+        "w-fruits",
+        "w-hair"
+      ]
+    }
+  },
+  "pairs": {
+    "w-goodbye": [
+      "picture-ar-w-goodbye",
+      "picture-en-w-goodbye"
+    ],
+    "w-boy": [
+      "picture-ar-w-boy",
+      "picture-en-w-boy"
+    ],
+    "w-girl": [
+      "picture-ar-w-girl",
+      "picture-en-w-girl"
+    ],
+    "w-friends": [
+      "picture-ar-w-friends",
+      "picture-en-w-friends"
+    ],
+    "w-happy": [
+      "picture-ar-w-happy",
+      "picture-en-w-happy"
+    ],
+    "w-sad": [
+      "picture-ar-w-sad",
+      "picture-en-w-sad"
+    ],
+    "w-classroom": [
+      "picture-ar-w-classroom",
+      "picture-en-w-classroom"
+    ],
+    "w-teacher": [
+      "picture-ar-w-teacher",
+      "picture-en-w-teacher"
+    ],
+    "w-chair": [
+      "picture-ar-w-chair",
+      "picture-en-w-chair"
+    ],
+    "w-desk": [
+      "picture-ar-w-desk",
+      "picture-en-w-desk"
+    ],
+    "w-board": [
+      "picture-ar-w-board",
+      "picture-en-w-board"
+    ],
+    "w-book": [
+      "picture-ar-w-book",
+      "picture-en-w-book"
+    ],
+    "w-pencil": [
+      "picture-ar-w-pencil",
+      "picture-en-w-pencil"
+    ],
+    "w-eraser": [
+      "picture-ar-w-eraser",
+      "picture-en-w-eraser"
+    ],
+    "w-crayon": [
+      "picture-ar-w-crayon",
+      "picture-en-w-crayon"
+    ],
+    "w-playground": [
+      "picture-ar-w-playground",
+      "picture-en-w-playground"
+    ],
+    "w-swing": [
+      "picture-ar-w-swing",
+      "picture-en-w-swing"
+    ],
+    "w-slide": [
+      "picture-ar-w-slide",
+      "picture-en-w-slide"
+    ],
+    "w-hair": [
+      "picture-ar-w-hair",
+      "picture-en-w-hair"
+    ],
+    "w-face": [
+      "picture-ar-w-face",
+      "picture-en-w-face"
+    ],
+    "w-eyes": [
+      "picture-ar-w-eyes",
+      "picture-en-w-eyes"
+    ],
+    "w-ears": [
+      "picture-ar-w-ears",
+      "picture-en-w-ears"
+    ],
+    "w-nose": [
+      "picture-ar-w-nose",
+      "picture-en-w-nose"
+    ],
+    "w-mouth": [
+      "picture-ar-w-mouth",
+      "picture-en-w-mouth"
+    ],
+    "w-teeth": [
+      "picture-ar-w-teeth",
+      "picture-en-w-teeth"
+    ],
+    "w-arms": [
+      "picture-ar-w-arms",
+      "picture-en-w-arms"
+    ],
+    "w-hands": [
+      "picture-ar-w-hands",
+      "picture-en-w-hands"
+    ],
+    "w-legs": [
+      "picture-ar-w-legs",
+      "picture-en-w-legs"
+    ],
+    "w-feet": [
+      "picture-ar-w-feet",
+      "picture-en-w-feet"
+    ],
+    "w-grandfather": [
+      "picture-ar-w-grandfather",
+      "picture-en-w-grandfather"
+    ],
+    "w-grandmother": [
+      "picture-ar-w-grandmother",
+      "picture-en-w-grandmother"
+    ],
+    "w-father": [
+      "picture-ar-w-father",
+      "picture-en-w-father"
+    ],
+    "w-mother": [
+      "picture-ar-w-mother",
+      "picture-en-w-mother"
+    ],
+    "w-sister": [
+      "picture-ar-w-sister",
+      "picture-en-w-sister"
+    ],
+    "w-brother": [
+      "picture-ar-w-brother",
+      "picture-en-w-brother"
+    ],
+    "w-garden": [
+      "picture-ar-w-garden",
+      "picture-en-w-garden"
+    ],
+    "w-tree": [
+      "picture-ar-w-tree",
+      "picture-en-w-tree"
+    ],
+    "w-flower": [
+      "picture-ar-w-flower",
+      "picture-en-w-flower"
+    ],
+    "w-grass": [
+      "picture-ar-w-grass",
+      "picture-en-w-grass"
+    ],
+    "w-fruits": [
+      "picture-ar-w-fruits",
+      "picture-en-w-fruits"
+    ],
+    "w-chocolate": [
+      "picture-ar-w-chocolate",
+      "picture-en-w-chocolate"
+    ],
+    "w-chips": [
+      "picture-ar-w-chips",
+      "picture-en-w-chips"
+    ],
+    "w-juice": [
+      "picture-ar-w-juice",
+      "picture-en-w-juice"
+    ],
+    "w-sandwich": [
+      "picture-ar-w-sandwich",
+      "picture-en-w-sandwich"
+    ],
+    "w-good-morning": [
+      "picture-ar-w-good-morning",
+      "picture-en-w-good-morning"
+    ],
+    "w-hello": [
+      "picture-ar-w-hello",
+      "picture-en-w-hello"
+    ],
+    "w-hi": [
+      "picture-ar-w-hi",
+      "picture-en-w-hi"
+    ]
+  },
+  "assets": {
+    "picture-ar-w-goodbye": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-goodbye.mp3",
+      "sha256": "e27894ebdd2972f0482e1bf7e7697798438bd5799d75499213eb5ec2611504e5",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-goodbye": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-goodbye.mp3",
+      "sha256": "4ad5199d0bd175ea95637fc559a9e5073f5132b9625e33a654f2dc00d202e8a0",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-boy": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-boy.mp3",
+      "sha256": "77d83d8e89c4933ebff1eb594c5b6f3b64ca99b79d6f591806822f23bbc08ec1",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-boy": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-boy.mp3",
+      "sha256": "b25344b52f9bbfbb308d8de736bde036170a5e033cb99f4bc2d9f1023dbd68f5",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-girl": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-girl.mp3",
+      "sha256": "65cc0297a343e9737c8281d34de8d0104b7cba1b6e66289e6410d2f47fa9f5b0",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-girl": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-girl.mp3",
+      "sha256": "70399d70ed8828bbab71a34fed4bc61fc0d2792f12bae00d287e2d66f9da6b4c",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-friends": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-friends.mp3",
+      "sha256": "385c20430d0394ed87975b0ccbb4c8c53d88ca13495e7c88e50400774407ca24",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-friends": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-friends.mp3",
+      "sha256": "6705ace7d02f738220175e0ce904cbde22ace6bbc6daca8b2db9e1ace0a473e7",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-happy": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-happy.mp3",
+      "sha256": "cbf19e1d37cfe38dd6f8b5443a552bdf9be87f1a316afeeb562ea50625c1dba1",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-happy": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-happy.mp3",
+      "sha256": "ad69250a91452a2d39002542e038653d902ccc2d937a6615407c14b754549b98",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-sad": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-sad.mp3",
+      "sha256": "574ea66d5af5bfe4f19bb05a1c10f0da32ab5df2f5cc9090ca473c7583f3caca",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-sad": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-sad.mp3",
+      "sha256": "6464d3defe2f678fbfe70235ad66233d2eceb1a334a8be643a3400037fd394fa",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-classroom": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-classroom.mp3",
+      "sha256": "84e7322225a4ed730c3fcf04abca30054630757a77edf64d341f23a72ffef719",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-classroom": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-classroom.mp3",
+      "sha256": "2f5fc5446e34f0e131848f3323dc1f37ce979499e9ad13532b005e983169e1f0",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-teacher": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-teacher.mp3",
+      "sha256": "1f1487a16c26156b5572a36bc0f6d581e791d558200240e81055745b484844e2",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-teacher": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-teacher.mp3",
+      "sha256": "5201bc603feb509dd5e9b8dcd95ec98bfbb8a09f6603dc6df4313aa518e70ba2",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-chair": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-chair.mp3",
+      "sha256": "40b676f23e59fd1646126f04a7aafb003db248cbe3f3a01e76148a104b78bb7c",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-chair": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-chair.mp3",
+      "sha256": "1323047c45485df5eb8665ea8a9003dc12a1201a6b4d83f9d2107bbc07089162",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-desk": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-desk.mp3",
+      "sha256": "ae85e5c76521c046ccb5d448019f4e08d8150af38c3aa57ed94fe64ee0e53f04",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-desk": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-desk.mp3",
+      "sha256": "75233379bb93352e5c729018b91d9a2d1dcba251df035cf79eb359fca61d3a5b",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-board": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-board.mp3",
+      "sha256": "df1d6eb5b2d6f0eba9145165826256be77a56c70c0df18010e505a39bacba873",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-board": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-board.mp3",
+      "sha256": "0fec9fd0d7f6a2623892fc4dc7a45a20069f00f8cb51c101d96099dec9ba3e9d",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-book": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-book.mp3",
+      "sha256": "207758dddbc9f235cdc80446dbd87f51922ad545f8d7fa11484bc3ce0e2cc7c2",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-book": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-book.mp3",
+      "sha256": "bc1d82297b39a46a0069d8e95f4b82e9207e96e8fee8f456d976c84a04522505",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-pencil": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-pencil.mp3",
+      "sha256": "107776ccda7f9c54f10fe802cb532ec64be6cc0d9a57e58112b7a276240eca2c",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-pencil": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-pencil.mp3",
+      "sha256": "3c20c750e4aae06d772ac216839ae1440bbffc699fbf86c9df0373f9244f0e99",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-eraser": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-eraser.mp3",
+      "sha256": "9e6c2c0cb5309eeb76d2edabae5cd1bc26287388a7a6d7d7ca828b2a7ff33679",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-eraser": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-eraser.mp3",
+      "sha256": "70797f9aa6a981ec51c0debf6004cc7e7ff883ee738251f93b6740664a1a0a98",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-crayon": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-crayon.mp3",
+      "sha256": "6416cddfaf14d6d5498ffc16e2a1cfba8d7d3e5ced833258bdd7ee2a2eca19fd",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-crayon": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-crayon.mp3",
+      "sha256": "82cd41c3360709523ea7bb4c235b51e4b70b8153339ba4621af8138f19e61b43",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-playground": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-playground.mp3",
+      "sha256": "14598c3e252bc2e9be2da99cf1f29f26edabb22f249e7e9ca571b65bcc6a24d9",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-playground": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-playground.mp3",
+      "sha256": "2027743a1bd638e4ba3af728010a4e5eb204ee85ee80e8f2281b7dc1d23b1d2e",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-swing": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-swing.mp3",
+      "sha256": "99e436a5bffcf9c27ef94b56c628861afbad52c3ebca56c5f1cced6f147eb1e9",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-swing": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-swing.mp3",
+      "sha256": "0db78db5e9660cd35b090d9cc8f46e9277d8673aa3d0a31797e441d0e616d85d",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-slide": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-slide.mp3",
+      "sha256": "77efc323bb96469a93a3fd1fc795e9ed9a7f0019e2fe011f1b0191d097d5d96f",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-slide": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-slide.mp3",
+      "sha256": "2b16d010a3df5432bcc16d084fdb72bbed84887d559e8f77f9d114a97932fd90",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-hair": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-hair.mp3",
+      "sha256": "51c9cc42c6b64e43addc4144a98d1dfa44db5682d049585ccdd095e89bda1437",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-hair": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-hair.mp3",
+      "sha256": "422f2a10b3d86d71cda04dc489a69cd15016c599e6a67dacf7a0024ff37462aa",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-face": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-face.mp3",
+      "sha256": "2d5db79058a75e89fd2b5472fce9c6e5c6f1fa8c9c536f27c20e944d0faba494",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-face": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-face.mp3",
+      "sha256": "19cd9a1e89c5480d7d2074b5574b0628a0d170cfae3c34a2012a887f02059c29",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-eyes": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-eyes.mp3",
+      "sha256": "ac587ee1fe6805ef9edba09d0440d4fcce5498299086dbdb5487901c52ccd9e4",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-eyes": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-eyes.mp3",
+      "sha256": "1549221166393138d754ad7ea79dbb2297536b21622acf8a467d09fa6f4e768f",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-ears": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-ears.mp3",
+      "sha256": "dc1282881229c50b9237db34e0e02827fbae9a56d7bb850ee575a8d361a1bc12",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-ears": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-ears.mp3",
+      "sha256": "d190027d8e57215e52f45e79ec4bd0e162b2d9d007c721a016319f0a24c91b34",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-nose": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-nose.mp3",
+      "sha256": "b821a22b5e980e28e42f770a5043c598ae4904632baa666cf8425d6ec4719c16",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-nose": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-nose.mp3",
+      "sha256": "13e326fdcb318970c4c01d55c8be17b3ee7d3fcac2425faab5f525eac2ebfe9e",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-mouth": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-mouth.mp3",
+      "sha256": "2cf0f9cfb132fca64270c3059093ed45be01ea670e94b3b0aea1264fc5661714",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-mouth": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-mouth.mp3",
+      "sha256": "62263eba51e7732583d07a3f5b932b04792ec5a3e793457610c5ebf255a31c6c",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-teeth": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-teeth.mp3",
+      "sha256": "c0d4c7464c4610ce0d12a492a384694309f7e021602055d5c2a16165ec07ba95",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-teeth": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-teeth.mp3",
+      "sha256": "0da07991931a089343b50a1f825112bb94b00082bea686af99bfb0ba65b3e33e",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-arms": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-arms.mp3",
+      "sha256": "abf3c6208f837dde0223d26a4b41eda5e0054704f6c6de415940c5377c1cd1ed",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-arms": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-arms.mp3",
+      "sha256": "fe7b605090bae851f844533ef85d9c137d8342ae489661d55704e097c6b8770e",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-hands": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-hands.mp3",
+      "sha256": "e250a8409897b0d13d32aa115a936c7c6434723a42fa0cfba40654a11dd675c2",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-hands": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-hands.mp3",
+      "sha256": "f93bcdac1177c71ba5f00fa20a40686b56a18110fd089edfda95fe5f97ee0206",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-legs": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-legs.mp3",
+      "sha256": "4fb654497ee2b918af144e0a4d1f0733d0915bc575f65100f78ae365275d18ae",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-legs": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-legs.mp3",
+      "sha256": "6d03bb526b012b671b6b4e072d21b7c166b66e04e39f3b88d81787a7207b89f2",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-feet": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-feet.mp3",
+      "sha256": "265915a2454c9e9bafacc3b28043649203db0e8c0b4296c742c23ebb7d756bf6",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-feet": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-feet.mp3",
+      "sha256": "8bf27bff4c9e3944f26f1a3a9a41162b0f95a62604bfc6d74d3f6146b8872f8e",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-grandfather": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-grandfather.mp3",
+      "sha256": "c2cf51d54fd3cf99dada6c357cfe61ac7f56bd4b1e96d7ee6a8e015290237b93",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-grandfather": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-grandfather.mp3",
+      "sha256": "4b908e316ea15cecefcb74695aec14ff6c9e4d055fb89fcba071a5671b47c81d",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-grandmother": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-grandmother.mp3",
+      "sha256": "934f3bfe15b9971def42965445e7cb403bcdcc61717c463c4d5a2d436ae1ba35",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-grandmother": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-grandmother.mp3",
+      "sha256": "7c2a13795b178549ec871c2f933d1466d44cfc8b41153aa4b6bf9a338992d993",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-father": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-father.mp3",
+      "sha256": "a5b8ac29d9eccaee9d56e8d014b65bb78a78c03541dcee2e5b86d422ce4b2483",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-father": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-father.mp3",
+      "sha256": "bab971f908ef2308f1e2637c0ebf66a785da156355c6e5a9ed073234838c640a",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-mother": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-mother.mp3",
+      "sha256": "a265f5cb34d5f83b601341d36525f54ffadb52bfe2e33ed21771dfa3316868a9",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-mother": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-mother.mp3",
+      "sha256": "76a022e59771755a684a56fecc3ca772d689c705a565a3ead6a0f529647c572d",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-sister": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-sister.mp3",
+      "sha256": "18c88050a9525025281d32c62c233a25e51fac55455145c429f49b0a77bcda69",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-sister": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-sister.mp3",
+      "sha256": "45c55a720f4425a0cc11b7eafb246a8e2b6a6babe7a6c74f905496d0a4b9b430",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-brother": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-brother.mp3",
+      "sha256": "f7352938d5d458177d63d7a0debc3264dbc3783bdd3269c5c963404258a605c6",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-brother": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-brother.mp3",
+      "sha256": "9622213406924a7561cb06805fa8cb33b19bfb3f1e1763a4041b76144a920fc7",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-garden": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-garden.mp3",
+      "sha256": "461fcce02fe357091c4dc313a0e73f3622e08aa8c0db9165e2566cb39e2825a0",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-garden": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-garden.mp3",
+      "sha256": "635883f65226b8a5145f330241506b1c93a0164532f07a11a8828a92cb8cb036",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-tree": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-tree.mp3",
+      "sha256": "beede84f40b872aa0d1c23136b9861538ed257f614ff4df29d4c237046f317a9",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-tree": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-tree.mp3",
+      "sha256": "32539c34398e5fda4ae0678362b62466e7096c7bfda9432462a845c690ff1622",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-flower": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-flower.mp3",
+      "sha256": "972475598659e480d7116ae524bc51f794fb8e40011b5bd1c7e1f25d6921fedd",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-flower": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-flower.mp3",
+      "sha256": "0e4309f5912b62f2e4aab8abd7d240079610f196e62d3508df5c55da5392e54e",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-grass": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-grass.mp3",
+      "sha256": "9cd8e741c5b911ca9e5e0952957210e80648bfaf6e7f4dde5193f2e34bcd38a7",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-grass": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-grass.mp3",
+      "sha256": "e2c38979e7353ad290324e10bf065b1ec73fe0888869a326f360fa7eac4aa803",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-fruits": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-fruits.mp3",
+      "sha256": "3b4939e00b532d40b423ba6cdd6f54e3e8c3e17b797bddd73e8aba732767bcec",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-fruits": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-fruits.mp3",
+      "sha256": "6e7dcafe910625a82c04ee249ed1d7f3fb5d19ea2a8361cef5083c1d620075af",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-chocolate": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-chocolate.mp3",
+      "sha256": "dad17427fa903f9be9240e7a10fd5914c2e20c4cf01abb46854667ef44585474",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-chocolate": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-chocolate.mp3",
+      "sha256": "b26a177a0715127165046f8dc7bae601e6ed7eb9a45d14d2a313ba286170f3b7",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-chips": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-chips.mp3",
+      "sha256": "afd9d0696d2df891091406081b40704af33fd37826b9e55c4736a9070fefb5d0",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-chips": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-chips.mp3",
+      "sha256": "435c4903186cb191b72bd7eefddf40c0cb684cfdaa3db27acbc8bf02ccdce4fd",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-juice": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-juice.mp3",
+      "sha256": "ad0827f398c06acd7eca285627dd4556ae22133fb2351408b27c7f601c4cbc26",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-juice": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-juice.mp3",
+      "sha256": "7069d7cb3300c960387ae31ae1db59781936e0cc435a847de984d1907490f790",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-sandwich": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-sandwich.mp3",
+      "sha256": "12ddb2525daa87aca527777992ae9ab1801c1782afb8481e2aa713c3f6d96869",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-sandwich": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-sandwich.mp3",
+      "sha256": "6df885422a784cafb6b404a7afa265314e2f6f8d8a4d58dbb2f1388109401b83",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-good-morning": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-good-morning.mp3",
+      "sha256": "9d4eb3fa04e7a9957404316403c4fd7a68be59d5b59c0fb8faf82aefdb9601d1",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-good-morning": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-good-morning.mp3",
+      "sha256": "70bb320a0497c515e815b4372a86b47416bcc43b42f0745929d1a147ef34d67a",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-hello": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-hello.mp3",
+      "sha256": "f3cd1359458a26b2787a7e1da75b5fd7db7edef44de2733e2362b0d4c089c899",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-hello": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-hello.mp3",
+      "sha256": "d4896fdf1485f405508f1f4ea66728bf8720083aac49bec0370e57cb0b7fe23d",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    },
+    "picture-ar-w-hi": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-ar-w-hi.mp3",
+      "sha256": "004b1502721025467260d5741d88e955f6a4fd8ef1ecfa52ccf7a3be8b5a2198",
+      "verified": true,
+      "language": "ar",
+      "scope": "gallery-meaning"
+    },
+    "picture-en-w-hi": {
+      "type": "audio",
+      "src": "assets/kg1/picture-audio/picture-en-w-hi.mp3",
+      "sha256": "fade5040f93da2797a4ab6c2717628d478465f16337feeeed5985fc8d8c53830",
+      "verified": true,
+      "language": "en",
+      "scope": "gallery-whole-word"
+    }
+  }
+}
