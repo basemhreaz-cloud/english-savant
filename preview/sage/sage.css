@@ -173,4 +173,9 @@ html[data-theme=dark] .gb,html[data-theme=dark] .gb.on{background:transparent}ht
 .vtx b{display:block;font-size:var(--t-sm);line-height:1.35;text-align:right;width:100%}
 .vc{flex-direction:row}
 body.gx .chip{border-radius:12px;min-height:44px;padding:0 var(--s4)}
-.vth0 img{width:auto;height:72%;top:14%;left:50%;transform:translateX(-50%)}
+
+.gl .num svg{width:24px;height:24px}
+.vth0 img{position:absolute;width:auto;height:30%;top:8px;left:8px;transform:none;opacity:.2}
+.gl .num svg.gfig{width:30px;height:30px;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:currentColor}
+.gl .num{color:var(--acc)}
+.gl .num svg.gfig{width:42px;height:42px}

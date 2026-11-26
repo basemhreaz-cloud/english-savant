@@ -29,7 +29,7 @@ if(Q.get('nofx'))document.body.classList.add('nofx');document.body.classList.add
 
 var APP=document.getElementById('app');
 var GR=[['kg1','KG1','كي جي ١'],['kg2','KG2','كي جي ٢'],['p1','1','الصف الأول الابتدائي'],['p2','2','الصف التاني الابتدائي'],['p3','3','الصف التالت الابتدائي'],['p4','4','الصف الرابع الابتدائي'],['p5','5','الصف الخامس الابتدائي'],['p6','6','الصف السادس الابتدائي'],['m1','1','الصف الأول الإعدادي'],['m2','2','الصف التاني الإعدادي'],['m3','3','الصف التالت الإعدادي']];
-var IC={home:'<path d="M3.8 10.6 12 3.9l8.2 6.7"/><path d="M5.8 9.4V18a2.3 2.3 0 0 0 2.3 2.3h7.8a2.3 2.3 0 0 0 2.3-2.3V9.4"/><path d="M10 20.3v-4.4a1.1 1.1 0 0 1 1.1-1.1h1.8a1.1 1.1 0 0 1 1.1 1.1v4.4"/>',grid:'<rect x="4" y="4" width="6.6" height="6.6" rx="2"/><rect x="13.4" y="4" width="6.6" height="6.6" rx="2"/><rect x="4" y="13.4" width="6.6" height="6.6" rx="2"/><rect x="13.4" y="13.4" width="6.6" height="6.6" rx="2"/>',play:'<rect x="3.5" y="5.5" width="17" height="13" rx="3.8"/><path d="M10.3 9.4v5.2l4.4-2.6z"/>',pen:'<path d="M4.6 19.4l.9-3.9L16.1 4.9a2.1 2.1 0 0 1 3 3L8.5 18.5z"/><path d="M14.4 6.6l3 3"/>',gear:'<path d="M4 7.5h8.2M17.2 7.5H20M4 16.5h2.8M11.8 16.5H20"/><rect x="12.2" y="5.2" width="5" height="4.6" rx="1.6"/><rect x="6.8" y="14.2" width="5" height="4.6" rx="1.6"/>',user:'<rect x="8.4" y="3.8" width="7.2" height="7.2" rx="3"/><path d="M5 20c.5-3.4 3.2-5.2 7-5.2s6.5 1.8 7 5.2"/>',bolt:'<path d="M13.2 3.6 6 13.4h5.2l-.9 7 7.6-10h-5.3z"/>',bot:'<path d="M11 4.2c.5 3.6 2.4 5.5 6 6-3.6.5-5.5 2.4-6 6-.5-3.6-2.4-5.5-6-6 3.6-.5 5.5-2.4 6-6z"/><path d="M18 15.4c.2 1.5 1 2.3 2.4 2.5-1.4.2-2.2 1-2.4 2.5-.2-1.500-1-2.300-2.400-2.500 1.400-.2 2.200-1 2.400-2.500z"/>',chat:'<path d="M6.5 4.5h11a3 3 0 0 1 3 3v7a3 3 0 0 1-3 3h-5.2l-3.7 3v-3H6.5a3 3 0 0 1-3-3v-7a3 3 0 0 1 3-3z"/>',search:'<rect x="4" y="4" width="12.6" height="12.6" rx="6"/><path d="M15.2 15.2 20 20"/>',chev:'<path d="M14.5 6.5L9 12l5.5 5.5"/>',back:'<path d="M9.5 6.5L15 12l-5.5 5.5"/>'};
+var IC={wa:'<path d="M12 3.8a8.2 8.2 0 0 0-7 12.4L3.9 20.2l4.100-1.100A8.200 8.200 0 1 0 12 3.800z"/><path d="M9.200 8.500c-.4.6-.3 1.400.3 2.500.7 1.200 1.700 2.200 3 2.800.9.4 1.500.3 1.900-.2l.4-.6a.5.5 0 0 0-.1-.7l-1.200-.8a.5.5 0 0 0-.7.1l-.3.4c-.9-.4-1.600-1.100-2-2l.4-.3a.5.5 0 0 0 .1-.7l-.7-1.200c-.2-.3-.7-.3-.9.0z"/>',fb:'<path d="M14.200 20.200v-7.300h2.500l.4-2.900h-2.900V8.200c0-.8.300-1.400 1.500-1.400h1.500V4.300c-.3 0-1.200-.1-2.200-.1-2.200 0-3.700 1.300-3.700 3.800V10H8.800v2.900h2.500v7.300"/>',ig:'<rect x="4" y="4" width="16" height="16" rx="5"/><rect x="8.800" y="8.800" width="6.400" height="6.400" rx="3.200"/><path d="M16.800 7.300h.01"/>',tt:'<path d="M13.800 4v10.300a3.300 3.300 0 1 1-3.300-3.300"/><path d="M13.800 4c.3 2.400 1.800 3.900 4.200 4.100"/>',groupwa:'<path d="M12 3.8a8.2 8.2 0 0 0-7 12.4L3.9 20.2l4.1-1.1A8.2 8.2 0 1 0 12 3.8z"/><path d="M12 8.8v5.4M9.3 11.5h5.4"/>',home:'<path d="M3.8 10.6 12 3.9l8.2 6.7"/><path d="M5.8 9.4V18a2.3 2.3 0 0 0 2.3 2.3h7.8a2.3 2.3 0 0 0 2.3-2.3V9.4"/><path d="M10 20.3v-4.4a1.1 1.1 0 0 1 1.1-1.1h1.8a1.1 1.1 0 0 1 1.1 1.1v4.4"/>',grid:'<rect x="4" y="4" width="6.6" height="6.6" rx="2"/><rect x="13.4" y="4" width="6.6" height="6.6" rx="2"/><rect x="4" y="13.4" width="6.6" height="6.6" rx="2"/><rect x="13.4" y="13.4" width="6.6" height="6.6" rx="2"/>',play:'<rect x="3.5" y="5.5" width="17" height="13" rx="3.8"/><path d="M10.3 9.4v5.2l4.4-2.6z"/>',pen:'<path d="M4.6 19.4l.9-3.9L16.1 4.9a2.1 2.1 0 0 1 3 3L8.5 18.5z"/><path d="M14.4 6.6l3 3"/>',gear:'<path d="M4 7.5h8.2M17.2 7.5H20M4 16.5h2.8M11.8 16.5H20"/><rect x="12.2" y="5.2" width="5" height="4.6" rx="1.6"/><rect x="6.8" y="14.2" width="5" height="4.6" rx="1.6"/>',user:'<rect x="8.4" y="3.8" width="7.2" height="7.2" rx="3"/><path d="M5 20c.5-3.4 3.2-5.2 7-5.2s6.5 1.8 7 5.2"/>',bolt:'<path d="M13.2 3.6 6 13.4h5.2l-.9 7 7.6-10h-5.3z"/>',bot:'<path d="M11 4.2c.5 3.6 2.4 5.5 6 6-3.6.5-5.5 2.4-6 6-.5-3.6-2.4-5.5-6-6 3.6-.5 5.5-2.4 6-6z"/><path d="M18 15.4c.2 1.5 1 2.3 2.4 2.5-1.4.2-2.2 1-2.4 2.5-.2-1.500-1-2.300-2.400-2.500 1.400-.2 2.200-1 2.400-2.500z"/>',chat:'<path d="M6.5 4.5h11a3 3 0 0 1 3 3v7a3 3 0 0 1-3 3h-5.2l-3.7 3v-3H6.5a3 3 0 0 1-3-3v-7a3 3 0 0 1 3-3z"/>',search:'<rect x="4" y="4" width="12.6" height="12.6" rx="6"/><path d="M15.2 15.2 20 20"/>',chev:'<path d="M14.5 6.5L9 12l5.5 5.5"/>',back:'<path d="M9.5 6.5L15 12l-5.5 5.5"/>'};
 function ic(n){return '<svg viewBox="0 0 24 24">'+IC[n]+'</svg>'}
 function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 var cache={};
@@ -54,6 +54,14 @@ function nav(cur){
 }
 function shell(cur,html){APP.innerHTML='<div class="scr">'+html+'</div>'+nav(cur);window.scrollTo(0,0);if(langPref()==='en')translate(APP)}
 function head(sub){return '<div class="top"><div class="brand"><img src="'+BASE+'assets/adults-logo.webp" width="40" height="40" alt=""><span>ENGLISH SAVANT<small>With Basem Hreaz</small></span></div></div>'}
+function gfig(n){
+ var k=0;for(var i=0;i<GR.length;i++)if(GR[i][0]===n)k=i;
+ var H=7+k*1.4,s=2.6+H*0.12,w=s*1.8,top=21-H+s+1.5,x0=12-w/2,x1=12+w/2,r=Math.min(w*.32,3.2);
+ var head='<rect x="'+(12-s/2).toFixed(2)+'" y="'+(21-H).toFixed(2)+'" width="'+s.toFixed(2)+'" height="'+s.toFixed(2)+'" rx="'+(s*.34).toFixed(2)+'"/>';
+ var body='<path d="M'+x0.toFixed(2)+' 21V'+(top+r).toFixed(2)+'Q'+x0.toFixed(2)+' '+top.toFixed(2)+' '+(x0+r).toFixed(2)+' '+top.toFixed(2)+'H'+(x1-r).toFixed(2)+'Q'+x1.toFixed(2)+' '+top.toFixed(2)+' '+x1.toFixed(2)+' '+(top+r).toFixed(2)+'V21"/>';
+ var bag=k>=2?'<path d="M'+(x1+1).toFixed(2)+' '+(top+1.6).toFixed(2)+'v'+Math.min(4,H*.22).toFixed(2)+'"/>':'';
+ return '<svg viewBox="0 0 24 24" class="gfig">'+head+body+bag+'<path d="M4.5 21h15"/></svg>';
+}
 function gradeList(items){
  var s=CFG.gl;
  var h='';
@@ -61,7 +69,7 @@ function gradeList(items){
   var n=g[0],lb=g[1],nm=g[2];
   if(s==='grid')h+='<a class="card" href="#/g/'+n+'"><span class="big">'+lb+'</span><span><b style="font-size:14px">'+nm+'</b></span></a>';
   else if(s==='car')h+='<a class="card" href="#/g/'+n+'"><span class="tag" style="align-self:flex-start">'+(n[0]==='p'?'ابتدائي':n[0]==='m'?'إعدادي':'رياض أطفال')+'</span><b style="font-size:15px">'+nm+'</b></a>';
-  else h+='<a class="card gl" href="#/g/'+n+'"><span class="num">'+lb+'</span><span class="tx"><b>'+nm+'</b><small>الوحدات والفيديوهات والتدريبات</small></span><span class="go">'+ic('chev')+'</span></a>';
+  else h+='<a class="card gl" href="#/g/'+n+'"><span class="num">'+gfig(n)+'</span><span class="tx"><b>'+nm+'</b><small>الوحدات والفيديوهات والتدريبات</small></span><span class="go">'+ic('chev')+'</span></a>';
  });
  if(s==='grid')return '<div class="grid2">'+h+'</div>';
  if(s==='car')return '<div class="car">'+h+'</div>';
@@ -177,17 +185,20 @@ function practice(g,uid,les){
   render();
  });
 }
-function videos(){
+function videos(gsel0){
  shell('#/videos',head()+'<h1>فيديوهات الشرح</h1><div class="sub">شرح كل وحدة بالفيديو</div><div class="sk"></div><div class="sk"></div>');
  J('lessons.json').then(function(d){
   var L=d?d.lessons.filter(function(l){return !l.soon&&l.mp4&&l.grade!=='sa-g1'}):[];
-  var gsel=Q.get('g')||'';
-  var chips='<div class="chips"><a class="chip on" href="#/videos">الكل</a>'+GR.map(function(g){return '<a class="chip" href="#/g/'+g[0]+'">'+g[2].replace('الصف ','')+'</a>'}).join('')+'</div>';
-  var h=L.slice(0,12).map(vcard).join('');
+  var gsel=gsel0||'';if(gsel)L=L.filter(function(l){return l.grade===gsel});
+  var chips='<div class="chips"><a class="chip'+(gsel?'':' on')+'" href="#/videos">الكل</a>'+GR.map(function(g){return '<a class="chip'+(gsel===g[0]?' on':'')+'" href="#/videos/'+g[0]+'">'+g[2].replace('الصف ','')+'</a>'}).join('')+'</div>';
+  var gi=function(g){for(var i=0;i<GR.length;i++)if(GR[i][0]===g)return i;return 99},un=function(l){var m=l.id.match(/-(u|r)(\d+)/);return m?(m[1]==='r'?100:0)+(+m[2]):500};
+  L=L.slice().sort(function(a,b){return gi(a.grade)-gi(b.grade)||un(a)-un(b)||(a.id<b.id?-1:1)});
+  var h=L.map(vcard).join('');
   shell('#/videos',head()+'<h1>فيديوهات الشرح</h1><div class="sub">شرح كل وحدة بالفيديو</div><div style="height:12px"></div>'+chips+'<div class="list vlist">'+h+'</div>');
  });
 }
-function pickPractice(){shell('#/practice',head()+'<h1>التدريبات</h1><div class="sub">اختار صفك وابدأ تدريبات بتصحيح فوري</div><div style="height:14px"></div>'+gradeList(GR.slice(2)))}
+function pickPractice(){shell('#/practice',head()+'<h1>التدريبات</h1><div class="sub">اختار صفك وابدأ تدريبات بتصحيح فوري</div><div style="height:14px"></div>'+gradeList(GR))}
+var WA_GROUP='#'; /* TODO: WhatsApp group invite link (placeholder) */
 function me(){
  var tp=themePref(),lg=langPref();
  function seg(id,items,cur){return '<div class="seg" id="'+id+'">'+items.map(function(x){return '<a role="button" tabindex="0" data-v="'+x[0]+'" class="'+(cur===x[0]?'on':'')+'">'+x[1]+'</a>'}).join('')+'</div>'}
@@ -195,7 +206,7 @@ function me(){
  function lnk(n,t,s,h){return '<a class="card gl" target="_blank" rel="noopener" href="'+h+'"><span class="num">'+n+'</span><span class="tx"><b>'+t+'</b><small>'+s+'</small></span></a>'}
  shell('#/me',head()+'<h1>الإعدادات</h1><div class="sub">خصّص التطبيق زي ما تحب</div><div style="height:16px"></div>'+
  '<div class="list">'+row('المظهر','فاتح أو داكن أو حسب الموبايل',seg('sgT',[['light','فاتح'],['dark','داكن'],['auto','تلقائي']],tp))+row('اللغة','العربية أو English',seg('sgL',[['ar','العربية'],['en','English']],lg))+'</div>'+
- '<h2>تواصل مع مستر باسم</h2><div class="list">'+lnk(ic('chat'),'واتساب','01156176205','https://wa.me/201156176205')+lnk('f','فيسبوك','English Savant','https://www.facebook.com/mrbasemhreaz')+lnk('in','إنستجرام','@mr.basemhreaz','https://www.instagram.com/mr.basemhreaz/')+'</div>'+
+ '<h2>تواصل مع مستر باسم</h2><div class="list">'+lnk(ic('wa'),'واتساب','01156176205','https://wa.me/201156176205')+lnk(ic('groupwa'),'جروب واتساب','انضم لجروب الطلاب',WA_GROUP)+lnk(ic('fb'),'فيسبوك','English Savant','https://www.facebook.com/mrbasemhreaz')+lnk(ic('ig'),'إنستجرام','@mr.basemhreaz','https://www.instagram.com/mr.basemhreaz/')+lnk(ic('tt'),'تيك توك','@mr.basemhreaz','https://www.tiktok.com/@mr.basemhreaz')+'</div>'+
  '<div class="sub" style="text-align:center;margin-top:24px">ENGLISH SAVANT · الإصدار 3.0</div>');
  function wire(id,fn){var s=document.getElementById(id);[].forEach.call(s.children,function(a){var go=function(){fn(a.getAttribute('data-v'));[].forEach.call(s.children,function(b){b.classList.toggle('on',b===a)})};a.addEventListener('click',go);a.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();go()}})})}
  wire('sgT',function(v){try{if(v==='auto')localStorage.removeItem('es-theme');else localStorage.setItem('es-theme',v)}catch(e){}applyTheme()});
@@ -205,7 +216,7 @@ function route(){
  var p=(location.hash||'#/').slice(2).split('/');
  var r=p[0];
  try{
- if(r===''||r==='search')home();else if(r==='grades')grades();else if(r==='g')grade(p[1]);else if(r==='u')unit(p[1],p[2]);else if(r==='p')practice(p[1],p[2],p[3]);else if(r==='videos')videos();else if(r==='practice')pickPractice();else if(r==='me')me();else home();
+ if(r===''||r==='search')home();else if(r==='grades')grades();else if(r==='g')grade(p[1]);else if(r==='u')unit(p[1],p[2]);else if(r==='p')practice(p[1],p[2],p[3]);else if(r==='videos')videos(p[1]);else if(r==='practice')pickPractice();else if(r==='me')me();else home();
  }catch(e){home()}
 }
 if(Q.get('audit')){setTimeout(function(){var bad=[],W=window.innerWidth;[].forEach.call(document.querySelectorAll('#app *'),function(e){if(e.closest('.chips,.car,.vid,.nav'))return;var r=e.getBoundingClientRect();if(!r.width)return;if(r.left<-1||r.right>W+1)bad.push('OUT '+e.tagName+'.'+e.className+' '+Math.round(r.left)+'..'+Math.round(r.right));var cs=getComputedStyle(e);if(e.scrollWidth>e.clientWidth+1&&cs.display!=='inline'&&cs.overflowX==='visible'&&e.children.length===0)bad.push('CLIP '+e.tagName+'.'+e.className+' '+e.textContent.slice(0,20))});var n=document.createElement('pre');n.id='audit';n.textContent='AUDIT '+W+' '+(bad.length?bad.join(' | '):'clean');document.body.appendChild(n)},3500)}
