@@ -88,7 +88,7 @@ function home(){
   var pv=L.filter(function(l){return l.id==='p3-u1-lesson'})[0];
   var cont='<a class="card hero" href="#/u/'+last.g+'/'+last.u+'" style="'+(CFG.home==='c'&&pv?'background-image:linear-gradient(180deg,rgba(0,0,0,.05),rgba(0,0,0,.55)),url('+posterOf(pv)+');background-size:cover;background-position:center;color:#fff;min-height:190px;display:flex;flex-direction:column;justify-content:flex-end':'')+'"><div class="t">'+(last.gn||gname(last.g))+' · كمّل من حيث وقفت</div><b dir="auto">'+esc(last.t)+'</b><div class="bar"><i style="width:'+(last.p||30)+'%"></i></div></a>';
   var stats='<div class="row"><div class="card stat"><div class="n">'+vc+'</div><div class="l">فيديو شرح</div></div><div class="card stat"><div class="n">11</div><div class="l">صف من KG لإعدادي</div></div></div>';
-  var qa='<div class="qa"><a class="card" href="#/grades"><span class="ic">'+ic('grid')+'</span><span>الصفوف والوحدات</span></a><a class="card" href="#/videos"><span class="ic">'+ic('play')+'</span><span>فيديوهات الشرح</span></a><a class="card" href="#/practice"><span class="ic">'+ic('pen')+'</span><span>تدريبات بتصحيح فوري</span></a><a class="card" target="_blank" href="'+BASE+'assistant.html"><span class="ic">'+ic('bot')+'</span><span>مساعد الذكاء الاصطناعي</span></a></div>';
+  var qa='<div class="qa"><a class="card" href="#/grades"><span class="ic">'+ic('grid')+'</span><span>الصفوف والوحدات</span></a><a class="card" href="#/videos"><span class="ic">'+ic('play')+'</span><span>فيديوهات الشرح</span></a><a class="card" href="#/practice"><span class="ic">'+ic('pen')+'</span><span>تدريبات بتصحيح فوري</span></a><a class="card" href="#/lib"><span class="ic">'+ic('grid')+'</span><span>المكتبة الكاملة</span></a><a class="card" target="_blank" href="'+BASE+'assistant.html"><span class="ic">'+ic('bot')+'</span><span>مساعد الذكاء الاصطناعي</span></a></div>';
   var hd='<div class="top"><div class="brand"><img src="'+BASE+'assets/adults-logo.webp" width="40" height="40" alt=""><span>ENGLISH SAVANT<small>With Basem Hreaz</small></span></div></div>';
   var h;
   if(CFG.home==='a'){h=hd+'<div class="sub">أهلاً بيك يا بطل</div><h1>English with a Genius Mindset</h1><div style="height:14px"></div>'+cont+'<div style="height:12px"></div>'+stats+'<h2>ابدأ من هنا</h2>'+qa+'<h2>الصفوف <a href="#/grades">عرض الكل</a></h2>'+gradeList(GR.slice(0,6));}
@@ -99,13 +99,13 @@ function home(){
    var ks=['p1','p2','p3','p4','p5','p6'],mx=Math.max.apply(null,ks.map(function(k){return cnt[k]||0}).concat([1]));
    var lab=['١','٢','٣','٤','٥','٦'];
    var chart='<div class="card chart"><div class="ct"><small>فيديوهات الشرح لكل صف</small><b>'+vc+' <span>فيديو</span></b></div><div class="bars">'+ks.map(function(k,i){var v=cnt[k]||0;return '<div class="bc"><i class="'+(k==='p3'?'hi':'')+'" style="height:'+Math.max(14,Math.round(v/mx*100))+'%"></i><span>'+lab[i]+'</span></div>'}).join('')+'</div></div><div style="height:6px"></div>';
-   var sr='<div class="card search">'+ic('search')+'<span>ابحث عن درس أو وحدة</span></div><div style="height:12px"></div>';
+   var sr='<a class="card search" href="#/search">'+ic('search')+'<span>ابحث عن درس أو وحدة</span></a><div style="height:12px"></div>';
    h=h.replace(hd,hd+sr).replace('<h2>',chart+'<h2>');
   }
   shell('#/',h);
  });
 }
-function grades(){shell('#/grades',head()+'<h1>الصفوف الدراسية</h1><div class="sub">منهج مصر · KG1 لحد تالتة إعدادي</div><div style="height:14px"></div>'+gradeList(GR)+orig('grades.html'))}
+function grades(){shell('#/grades',head()+'<h1>الصفوف الدراسية</h1><div class="sub">منهج مصر · KG1 لحد تالتة إعدادي</div><div style="height:14px"></div><a class="card gl" href="#/lib"><span class="num">'+ic('grid')+'</span><span class="tx"><b>المكتبة الكاملة</b><small>كل صفحات الموقع في مكان واحد وبحث</small></span><span class="go">'+ic('chev')+'</span></a><div style="height:12px"></div>'+gradeList(GR)+orig('grades.html'))}
 function unitsOf(g){
  return Promise.all([J('curr-'+g+'.json'),J('lessons.json')]).then(function(r){
   var c=r[0],L=r[1]?r[1].lessons:[],out=[];
@@ -124,7 +124,7 @@ function grade(g){
    h+='<a class="card gl" href="#/u/'+g+'/'+u.id+'"><span class="num">'+(isR?'R':u.n)+'</span><span class="tx"><b dir="ltr" style="text-align:right">'+esc(u.title)+'</b><small>'+(isR?'مراجعة':'وحدة '+u.n)+(u.lessons?' · '+u.lessons+' دروس':'')+(u.video&&!u.video.soon?' · فيديو':'')+'</small></span><span class="go">'+ic('chev')+'</span></a>';
   });
   h+='</div>';
-  shell('#/grades','<a class="back" href="#/grades">'+ic('back')+' الصفوف</a><h1>'+esc(gname(g))+'</h1><div class="sub">اختار الوحدة: شرح، فيديو، وتدريبات</div><div style="height:14px"></div>'+h+orig('grade-'+g+'.html'));
+  shell('#/grades','<a class="back" href="#/grades">'+ic('back')+' الصفوف</a><h1>'+esc(gname(g))+'</h1><div class="sub">اختار الوحدة: شرح، فيديو، وتدريبات</div><div style="height:14px"></div><a class="card gl" href="#/lib/'+g+'"><span class="num">'+ic('grid')+'</span><span class="tx"><b>كل صفحات الصف</b><small>الشرح والتدريبات والتقييمات والاختبارات</small></span><span class="go">'+ic('chev')+'</span></a><div style="height:12px"></div>'+h+orig('grade-'+g+'.html'));
  });
 }
 function vidHtml(v){
@@ -145,7 +145,7 @@ function unit(g,uid){
   if(d&&d.lessons&&d.lessons.length){h+='<h2>دروس الوحدة</h2><div class="list">'+d.lessons.map(function(l){return '<a class="card gl" href="#/p/'+g+'/'+uid+'/'+l.n+'"><span class="num">'+l.n+'</span><span class="tx"><b dir="ltr" style="text-align:right">'+esc(l.title)+'</b><small>ابدأ تدريبات الدرس</small></span><span class="go">'+ic('chev')+'</span></a>'}).join('')+'</div>'}
   if(d&&d.vocab&&d.vocab.length){h+='<h2>كلمات الوحدة</h2><div class="vocab">'+d.vocab.slice(0,40).map(function(w){return '<span>'+esc(w)+'</span>'}).join('')+'</div>'}
   if(d&&d.sentences&&d.sentences.length){h+='<h2>جمل مهمة</h2><div class="list">'+d.sentences.slice(0,6).map(function(s){return '<div class="card" dir="ltr" style="text-align:left">'+esc(typeof s==='string'?s:(s.en||s.text||s[0]||''))+'</div>'}).join('')+'</div>'}
-  h+='<div style="margin-top:18px"><a class="btn" style="width:100%" href="#/p/'+g+'/'+uid+'">ابدأ التدريبات</a></div>';
+  h+='<div style="margin-top:18px"><a class="btn" style="width:100%" href="#/p/'+g+'/'+uid+'">ابدأ التدريبات</a></div><div style="height:10px"></div><a class="card gl" href="#/lib/'+g+'/'+uid+'"><span class="num">'+ic('grid')+'</span><span class="tx"><b>كل صفحات الوحدة</b><small>كل تدريب وتقييم واختبار للوحدة</small></span><span class="go">'+ic('chev')+'</span></a>';
   h+=orig(/^r/.test(uid)?('explain-'+g+'-'+uid+'.html'):('explain-'+g+'-'+uid+'.html'));
   shell('#/grades',h);
  });
@@ -214,7 +214,7 @@ function me(){
 }
 
 var IT={home:['الرئيسية','Home'],grades:['الصفوف','Grades'],practice:['التدريب','Practice'],videos:['الفيديوهات','Videos'],me:['الإعدادات','Settings']};
-function islandKey(r){return r===''||r==='search'?'home':(r==='grades'||r==='g'||r==='u')?'grades':(r==='practice'||r==='p')?'practice':r==='videos'?'videos':r==='me'?'me':'home'}
+function islandKey(r){return r===''?'home':r==='search'||r==='lib'||r==='page'?'grades':(r==='grades'||r==='g'||r==='u')?'grades':(r==='practice'||r==='p')?'practice':r==='videos'?'videos':r==='me'?'me':'home'}
 var ISL=null,ISK='home';
 function island(){
  if(!ISL){ISL=document.createElement('div');ISL.id='island';ISL.setAttribute('role','status');ISL.innerHTML='<div class="in"><img src="'+BASE+'assets/adults-logo.webp" width="28" height="28" alt=""><span class="tt"></span></div>';document.body.appendChild(ISL)}
@@ -223,15 +223,84 @@ function island(){
  var in_=ISL.querySelector('.in');ISL.classList.add('sw');
  setTimeout(function(){t.textContent=txt;ISL.style.width=(in_.scrollWidth+4)+'px';ISL.classList.remove('sw')},t.textContent?110:0);
 }
+
+/* ===== rev 8: full library (every old-site page reachable), reader, search ===== */
+var MAN=null;
+function manifest(){if(MAN)return Promise.resolve(MAN);return fetch('manifest.json?v=8').then(function(r){return r.json()}).then(function(d){MAN=d.pages.map(function(p){return {f:p[0],t:p[1],g:p[2],u:p[3],k:p[4]}});return MAN}).catch(function(){return []})}
+function TT(ar,en){return langPref()==='en'?en:ar}
+var KL={explain:['شرح','Explanation'],unit:['تدريبات','Practice'],practice:['تدريب الوحدة','Unit practice'],assess:['تقييمات','Assessments'],lassess:['تقييمات الدروس','Lesson assessments'],test:['اختبار','Test'],teach:['بطاقات','Flashcards'],videos:['فيديوهات','Videos'],ministry:['تدريبات مدرسية','School practice'],extra:['تقييماتنا','Our assessments'],assessments:['كل التدريبات','All practice'],course:['الشرح التفاعلي','Interactive course'],final:['المراجعة النهائية','Final review'],grade:['صفحة الصف','Grade page'],kgact:['أنشطة وألعاب','Activities and games'],check:['تدريب الدرس','Lesson check'],site:['الموقع','Site'],other:['صفحات أخرى','Other']};
+var KO=['grade','course','explain','videos','unit','practice','kgact','teach','assess','lassess','test','final','ministry','extra','assessments','check','other','site'];
+var SAN={'sa-g1':['أول ابتدائي سعودي · We Can 1','Saudi Grade 1 · We Can 1'],'sa-g2':['ثاني ابتدائي سعودي · We Can 2','Saudi Grade 2 · We Can 2'],'sa-g3':['ثالث ابتدائي سعودي · We Can 3','Saudi Grade 3 · We Can 3'],'sa-g4':['رابع ابتدائي سعودي · Top Goal 1','Saudi Grade 4 · Top Goal 1'],'sa-g5':['خامس ابتدائي سعودي · Top Goal 2','Saudi Grade 5 · Top Goal 2'],'sa-g6':['سادس ابتدائي سعودي · Top Goal 3','Saudi Grade 6 · Top Goal 3'],'sa-m1':['أول متوسط سعودي · Super Goal 1','Saudi Intermediate 1 · Super Goal 1'],'sa-m2':['ثاني متوسط سعودي · Super Goal 2','Saudi Intermediate 2 · Super Goal 2'],'site':['صفحات الموقع','Site pages']};
+var GEN=['kg1','kg2','p1','p2','p3','p4','p5','p6','m1','m2','m3'];
+var EGN={'kg1':'KG1','kg2':'KG2','p1':'Primary 1','p2':'Primary 2','p3':'Primary 3','p4':'Primary 4','p5':'Primary 5','p6':'Primary 6','m1':'Prep 1','m2':'Prep 2','m3':'Prep 3'};
+function gTitle(g){if(SAN[g])return TT(SAN[g][0],SAN[g][1]);return TT(gname(g),EGN[g]||g)}
+function kLab(k){return TT(KL[k][0],KL[k][1])}
+function nat(a,b){return a.f.localeCompare(b.f,'en',{numeric:true})}
+function unitLab(u){var m=u.match(/^(u|r|exp|gr|grp|ur|mr|final)(\d*)$/);if(!m)return u;var n=m[2],w={u:['الوحدة','Unit'],r:['مراجعة','Review'],exp:['Expansion','Expansion'],gr:['المراجعة العامة','General review'],grp:['المراجعة العامة (جزء)','General review (part)'],ur:['مراجعة الوحدة','Unit review'],mr:['المراجعة الشهرية','Monthly review'],final:['التقييم النهائي','Final assessment']}[m[1]];return TT(w[0],w[1])+(n?' '+n:'')}
+function pageItem(p){return '<a class="card gl pgi" href="#/page/'+p.f+'"><span class="num kb">'+esc(kLab(p.k).slice(0,1)==='' ?'':'')+ic(p.k==='videos'?'play':(p.k==='explain'||p.k==='course'||p.k==='grade')?'grid':'pen')+'</span><span class="tx"><b>'+esc(p.t)+'</b><small>'+esc(kLab(p.k))+' · '+esc(p.f)+'</small></span><span class="go">'+ic('chev')+'</span></a>'}
+function libHome(){
+ shell('#/grades','<a class="back" href="#/grades">'+ic('back')+' '+TT('الصفوف','Grades')+'</a><div class="sk"></div>');
+ manifest().then(function(M){
+  var cnt={};M.forEach(function(p){cnt[p.g]=(cnt[p.g]||0)+1});
+  function row(g){return '<a class="card gl" href="#/lib/'+g+'"><span class="num">'+(g==='site'?'★':(g.indexOf('sa-')===0?'SA':glab(g)))+'</span><span class="tx"><b>'+esc(gTitle(g))+'</b><small>'+cnt[g]+' '+TT('صفحة','pages')+'</small></span><span class="go">'+ic('chev')+'</span></a>'}
+  var h='<a class="back" href="#/grades">'+ic('back')+' '+TT('الصفوف','Grades')+'</a><h1>'+TT('المكتبة الكاملة','Full library')+'</h1><div class="sub">'+M.length+' '+TT('صفحة من الموقع، كلها هنا','pages from the site, all here')+'</div><div style="height:12px"></div><a class="card search" href="#/search">'+ic('search')+'<span>'+TT('ابحث في كل الصفحات','Search every page')+'</span></a>';
+  h+='<h2>'+TT('منهج مصر','Egyptian curriculum')+'</h2><div class="list">'+GEN.map(row).join('')+'</div>';
+  h+='<h2>'+TT('المناهج السعودية','Saudi curricula')+'</h2><div class="list">'+Object.keys(SAN).filter(function(g){return g!=='site'}).map(row).join('')+'</div>';
+  h+='<h2>'+TT('صفحات الموقع','Site pages')+'</h2><div class="list">'+row('site')+'</div>';
+  shell('#/grades',h);
+ });
+}
+function lib(g,uf){
+ if(!g)return libHome();
+ shell('#/grades','<div class="sk"></div><div class="sk"></div>');
+ manifest().then(function(M){
+  var L=M.filter(function(p){return p.g===g&&(!uf||p.u===uf)});
+  var back=uf?'#/g/'+g:'#/lib';
+  var h='<a class="back" href="'+back+'">'+ic('back')+' '+(uf?esc(gTitle(g)):TT('المكتبة','Library'))+'</a><h1>'+esc(gTitle(g))+(uf?' · '+esc(unitLab(uf)):'')+'</h1><div class="sub">'+L.length+' '+TT('صفحة','pages')+'</div><div style="height:10px"></div><a class="card search" href="#/search">'+ic('search')+'<span>'+TT('ابحث في كل الصفحات','Search every page')+'</span></a>';
+  var gl=L.filter(function(p){return !p.u||!/^(u|r|exp)\d+$/.test(p.u)}),un={};
+  L.filter(function(p){return p.u&&/^(u|r|exp)\d+$/.test(p.u)}).forEach(function(p){(un[p.u]=un[p.u]||[]).push(p)});
+  function srt(a){return a.slice().sort(function(x,y){return KO.indexOf(x.k)-KO.indexOf(y.k)||nat(x,y)})}
+  function sec(title,arr,open){return '<details class="lsec"'+(open?' open':'')+'><summary><b>'+title+'</b><span>'+arr.length+'</span></summary><div class="list">'+srt(arr).map(pageItem).join('')+'</div></details>'}
+  if(gl.length){var bk={};gl.forEach(function(p){var key=/^(gr|grp|ur|mr|final)/.test(p.u)?'rev':p.k;(bk[key]=bk[key]||[]).push(p)});
+   h+='<h2>'+TT('صفحات الصف','Grade pages')+'</h2>';
+   var keys=Object.keys(bk).sort(function(a,b){var ia=a==='rev'?50:KO.indexOf(a),ib=b==='rev'?50:KO.indexOf(b);return ia-ib});
+   keys.forEach(function(k){h+=sec(k==='rev'?TT('المراجعات والتقييمات العامة','Reviews and general assessments'):kLab(k),bk[k],!uf&&keys.length<3)})}
+  var uks=Object.keys(un).sort(function(a,b){var A=a.match(/^([a-z]+)(\d+)/),B=b.match(/^([a-z]+)(\d+)/);var o={u:0,exp:1,r:2};return (o[A[1]]-o[B[1]])||(A[2]-B[2])});
+  if(uks.length){h+='<h2>'+TT('الوحدات','Units')+'</h2>';uks.forEach(function(u){h+=sec(unitLab(u),un[u],!!uf)})}
+  shell('#/grades',h);
+ });
+}
+function readerPage(f){
+ shell('#/grades','<div class="sk"></div>');
+ manifest().then(function(M){
+  var p=M.filter(function(x){return x.f===f})[0];
+  if(!p){shell('#/grades','<a class="back" href="#/lib">'+ic('back')+' '+TT('المكتبة','Library')+'</a><div class="card">'+TT('الصفحة مش موجودة','Page not found')+'</div>');return}
+  var back=p.g==='site'||!p.g?'#/lib/site':(p.u&&/^(u|r|exp)\d+$/.test(p.u)?'#/lib/'+p.g+'/'+p.u:'#/lib/'+p.g);
+  var h='<a class="back" href="'+back+'">'+ic('back')+' '+esc(gTitle(p.g))+'</a><span class="tag">'+esc(kLab(p.k))+'</span><h1 style="margin-top:8px;font-size:20px">'+esc(p.t)+'</h1><div style="height:12px"></div><iframe class="pgf" src="'+BASE+p.f+'" title="'+esc(p.t)+'"></iframe><a class="orig" target="_blank" rel="noopener" href="'+BASE+p.f+'">'+TT('افتح الصفحة الأصلية في الموقع ↗','Open the original page on the site ↗')+'</a>';
+  shell('#/grades',h);
+ });
+}
+function normA(s){return String(s||'').toLowerCase().replace(/[\u064B-\u0652\u0640]/g,'').replace(/[أإآ]/g,'ا').replace(/ى/g,'ي').replace(/ة/g,'ه').replace(/[٠-٩]/g,function(d){return '٠١٢٣٤٥٦٧٨٩'.indexOf(d)}).replace(/\s+/g,' ').trim()}
+function searchPage(){
+ shell('#/grades','<a class="back" href="#/lib">'+ic('back')+' '+TT('المكتبة','Library')+'</a><h1>'+TT('بحث','Search')+'</h1><div style="height:10px"></div><label class="card search sin">'+ic('search')+'<input id="q" type="search" autocomplete="off" placeholder="'+TT('اكتب اسم درس أو وحدة أو صف','Type a lesson, unit or grade')+'"></label><div id="qr"></div>');
+ manifest().then(function(M){
+  var idx=M.map(function(p){return normA([p.t,KL[p.k][0],KL[p.k][1],SAN[p.g]?SAN[p.g][0]+' '+SAN[p.g][1]:gname(p.g)+' '+(EGN[p.g]||'')+' '+p.g,p.u,p.f].join(' '))});
+  var q=document.getElementById('q'),out=document.getElementById('qr');
+  function go(){var s=normA(q.value);if(!s){out.innerHTML='<div class="sub" style="margin-top:14px">'+M.length+' '+TT('صفحة بتتدور فيها','pages are searchable')+'</div>';return}
+   var ws=s.split(' '),res=[];for(var i=0;i<M.length;i++){var ok=true;for(var j=0;j<ws.length;j++)if(idx[i].indexOf(ws[j])<0){ok=false;break}if(ok)res.push(M[i])}
+   out.innerHTML='<div class="sub" style="margin:14px 0 8px">'+res.length+' '+TT('نتيجة','results')+'</div><div class="list">'+res.slice(0,60).map(pageItem).join('')+'</div>'+(res.length>60?'<div class="sub">'+TT('اكتب كلمات أكتر عشان تضيّق النتائج','Add more words to narrow the results')+'</div>':'')}
+  if(Q.get('q'))q.value=Q.get('q');q.addEventListener('input',go);go();try{q.focus()}catch(e){}
+ });
+}
 function route(){
  ISK=islandKey((location.hash||'#/').slice(2).split('/')[0]);island();
  var p=(location.hash||'#/').slice(2).split('/');
  var r=p[0];
  try{
- if(r===''||r==='search')home();else if(r==='grades')grades();else if(r==='g')grade(p[1]);else if(r==='u')unit(p[1],p[2]);else if(r==='p')practice(p[1],p[2],p[3]);else if(r==='videos')videos(p[1]);else if(r==='practice')pickPractice();else if(r==='me')me();else home();
+ if(r==='search')searchPage();else if(r==='lib')lib(p[1],p[2]);else if(r==='page')readerPage(decodeURIComponent(p.slice(1).join('/')));else if(r==='')home();else if(r==='grades')grades();else if(r==='g')grade(p[1]);else if(r==='u')unit(p[1],p[2]);else if(r==='p')practice(p[1],p[2],p[3]);else if(r==='videos')videos(p[1]);else if(r==='practice')pickPractice();else if(r==='me')me();else home();
  }catch(e){home()}
 }
 if(Q.get('audit')){setTimeout(function(){var bad=[],W=window.innerWidth;[].forEach.call(document.querySelectorAll('#app *'),function(e){if(e.closest('.chips,.car,.vid,.nav'))return;var r=e.getBoundingClientRect();if(!r.width)return;if(r.left<-1||r.right>W+1)bad.push('OUT '+e.tagName+'.'+e.className+' '+Math.round(r.left)+'..'+Math.round(r.right));var cs=getComputedStyle(e);if(e.scrollWidth>e.clientWidth+1&&cs.display!=='inline'&&cs.overflowX==='visible'&&e.children.length===0)bad.push('CLIP '+e.tagName+'.'+e.className+' '+e.textContent.slice(0,20))});var n=document.createElement('pre');n.id='audit';n.textContent='AUDIT '+W+' '+(bad.length?bad.join(' | '):'clean');document.body.appendChild(n)},3500)}
-window.addEventListener('es:interface-language',function(){translate(APP);island()});window.addEventListener('hashchange',route);route();
+window.addEventListener('es:interface-language',function(){if(/^#\/(lib|search|page)/.test(location.hash)){route()}else translate(APP);island()});window.addEventListener('hashchange',route);route();
 })();
 

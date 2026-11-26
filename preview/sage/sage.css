@@ -203,3 +203,12 @@ body.dark #island{background:rgba(10,13,9,.92);box-shadow:0 6px 18px rgba(0,0,0,
 #island img{width:26px;height:26px}
 .scr{padding-top:max(76px,calc(env(safe-area-inset-top) + 76px))}
 .scr>h1:first-child,.scr>.sub:first-child{margin-top:-2px}
+/* rev8 library */
+details.lsec{margin:10px 0}details.lsec>summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;min-height:52px;padding:0 16px;border-radius:16px;background:var(--soft);font-size:15px}
+details.lsec>summary::-webkit-details-marker{display:none}details.lsec>summary span{font-size:12px;opacity:.7;min-width:28px;text-align:center}
+details.lsec[open]>summary{margin-bottom:8px}
+.pgi .tx b{font-size:14px;line-height:1.4;unicode-bidi:plaintext}.pgi .tx small{direction:ltr;unicode-bidi:plaintext;display:block}
+.pgi .num.kb{width:44px;height:44px;border-radius:14px}
+iframe.pgf{width:100%;height:calc(100vh - 230px);min-height:420px;border:0;border-radius:16px;background:#fff;display:block}
+label.sin{display:flex}label.sin input{flex:1;border:0;background:transparent;font:inherit;color:inherit;outline:none;min-width:0;height:44px}
+a.card.search{text-decoration:none}
