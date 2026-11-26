@@ -1,0 +1,25 @@
+name: Upload Prep2 Unit1 video master
+on:
+  push:
+    branches: [video-upload-m2u1-20261126]
+permissions:
+  contents: write
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            m2u1-upload.part00
+            m2u1-upload.part01
+          sparse-checkout-cone-mode: false
+      - name: Verify and publish exact master
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cat m2u1-upload.part00 m2u1-upload.part01 > ES_M2_T1_U1.mp4
+          echo 'bd11ffdb110f76652ab296dff429a0e41ccae4ea1b248d5d29b3f53d7ff1838a  ES_M2_T1_U1.mp4' | sha256sum -c -
+          test $(stat -c %s ES_M2_T1_U1.mp4) = 113399066
+          gh release create m2-u1-full-lesson-20261126 ES_M2_T1_U1.mp4 --repo basemhreaz-cloud/english-savant --target 6c6325adada6329af57039f961d3a0bde309c4c2 --title 'Prep 2 Unit 1: Gen Alpha, full lesson' --notes 'English Savant full teaching video. H.264 with AAC audio. Duration 38:11. SHA256 bd11ffdb110f76652ab296dff429a0e41ccae4ea1b248d5d29b3f53d7ff1838a.' --latest=false
