@@ -80,8 +80,11 @@ function render(id){
  var fh='';parts.forEach(function(p){fh+=p[0]==='btn'?'<div class="ds-actions">'+p[1]+'</div>':p[0]==='chip'?'<div class="ds-chips">'+p[1]+'</div>':p[1]});
  o+='<section class="ds-card ds-foot-card">'+fh+'</section>';
  return o}
-DS.route('/course2/:id',function(c){var id=c.params.id;if(!PG[id])return '<p>404</p>';var t=PG[id].filter(function(x){return x[0]==='h1'})[0];DS.tab('grades');DS.title(__t(t[1],t[2]),t[2]);return '<div class="ds-stack" id="main">'+render(id)+'</div>'});
-DS.route('/courses2',function(){DS.tab('grades');var t=PG.courses.filter(function(x){return x[0]==='h1'})[0];DS.title(__t(t[1],t[2]),t[2]);return '<div class="ds-stack" id="main">'+render('courses')+'</div>'});
+DS.route('/course2/:id',function(c){var id=c.params.id;if(!PG[id])return '<p>404</p>';var t=PG[id].filter(function(x){return x[0]==='h1'})[0];DS.tab('grades');DS.title(__t(t[1],t[2]),t[2]);return '<div class="ds-stack" id="main" data-c2="1">'+render(id)+'</div>'});
+DS.route('/courses2',function(){DS.tab('grades');var t=PG.courses.filter(function(x){return x[0]==='h1'})[0];DS.title(__t(t[1],t[2]),t[2]);return '<div class="ds-stack" id="main" data-c2="1">'+render('courses')+'</div>'});
+if(!/[?&]oldcourse=1/.test(location.search)){DS.route('/course/:id',function(c){var id=c.params.id;if(!PG[id])return '<p>404</p>';var t=PG[id].filter(function(x){return x[0]==='h1'})[0];DS.tab('grades');DS.title(__t(t[1],t[2]),t[2]);return '<div class="ds-stack" id="main" data-c2="1">'+render(id)+'</div>'});
+DS.route('/courses',function(){DS.tab('grades');var t=PG.courses.filter(function(x){return x[0]==='h1'})[0];DS.title(__t(t[1],t[2]),t[2]);return '<div class="ds-stack" id="main" data-c2="1">'+render('courses')+'</div>'});}
+
 
 
 document.addEventListener("ds:rendered",function(){var els=document.querySelectorAll("#app *");for(var i=0;i<els.length;i++){var e=els[i];if(e.children.length===0&&/^[\x20-\x7E·’–©↗↖↑]+$/.test(e.textContent.trim())&&/[A-Za-z]/.test(e.textContent)){e.setAttribute("dir","ltr");e.style.textAlign="start"}}});
