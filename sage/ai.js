@@ -71,7 +71,7 @@ var R=[[/^أنشطة أداء الصف والواجب والتقييمات ال�
 [/مراجعة الوحدة (\d+) ومراجعة تراكمية للوحدات (\d+)–(\d+)/,'Unit $1 review and cumulative review of units $2–$3']];
 var busy=false;
 function run(){if(busy||!window.DS||DS.lang()!=='en')return;busy=true;try{var w=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT),n,L=[];while(n=w.nextNode())L.push(n);
-L.forEach(function(n){var v=n.nodeValue,t=v.trim();if(!/[\u0600-\u06FF]/.test(t))return;var e=n.parentElement;if(!e||e.closest('.ds-sr,.es-ai-review,script,style'))return;var out=null;var oe=window.ES_OLD_EN&&window.ES_OLD_EN(t);if(oe)out=oe;else if(X[t])out=X[t];else for(var i=0;i<R.length;i++)if(R[i][0].test(t)){out=t.replace(R[i][0],R[i][1]);break}
+L.forEach(function(n){var v=n.nodeValue,t=v.trim();if(!/[\u0600-\u06FF]/.test(t))return;var e=n.parentElement;if(!e||e.closest('.ds-sr,.es-ai-review,.sa-note,.sa-lesson .sr-only,.q-hint,script,style')||t==='المنهج السعودي · Intermediate 1 · الجزء الأول · Unit 1')return;var out=null;var oe=window.ES_OLD_EN&&window.ES_OLD_EN(t);if(oe)out=oe;else if(X[t])out=X[t];else for(var i=0;i<R.length;i++)if(R[i][0].test(t)){out=t.replace(R[i][0],R[i][1]);break}
 if(out!=null){n.nodeValue=v.replace(t,out);if(/Lesson|questions$/.test(out)||e.classList.contains('tx'))e.setAttribute('dir','ltr')}})}finally{busy=false}}
 new MutationObserver(function(){run()}).observe(document.documentElement,{childList:true,subtree:true,characterData:false});
 document.addEventListener('ds:rendered',run)})();

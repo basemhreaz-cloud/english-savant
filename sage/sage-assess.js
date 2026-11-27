@@ -60,7 +60,7 @@ function optionOrder(q){var seed=2166136261;for(var i=0;i<q.id.length;i++)seed=M
 function blocksOf(list){var out=[],pm={};list.forEach(function(q){if(q.passage){var key=q.lesson+'|'+q.passage;if(pm[key])pm[key].push(q);else{pm[key]=[q];out.push(pm[key])}}else out.push([q])});return out}
 function mountQuiz(root,key,info,base,hubLink){
   var items=[],lesson=0,index=0,answers=new Map(),av=info.av;
-  var story=/^قصة/.test(info.h1&&info.h1[0]||'');var sAgain=story?DS.t('حاول القسم تاني','Try the section again'):s('again');function ls(){return story?DS.t('القسم ','Section '):s('lesson')}
+  var story=/^قصة/.test(info.h1&&info.h1[0]||'');var sAgain=story?DS.t('حاول القسم تاني','Try the section again'):s('again');function ls(){return story?(DS.lang()==='en'?'Section ':'القسم '):s('lesson')}
   var kstore='assess-'+key;
   function saved(){return DS.store.get(kstore,{})}
   function menu(){
