@@ -31,7 +31,7 @@ window.__kgGen=window.__kgGen||0;
  window.setTimeout=function(f,d){var a=[].slice.call(arguments,2);return st.apply(window,[wrap(f),d].concat(a))};
  window.setInterval=function(f,d){var a=[].slice.call(arguments,2);return si.apply(window,[wrap(f),d].concat(a))};
  window.requestAnimationFrame=function(f){return raf.call(window,wrap(f))};
- var of=window.fetch;window.fetch=function(u){var g=window.__kgGen,url=String(u&&u.url||u);var p=of.apply(this,arguments);if(!/(^|\/)(kg[^\/]*|engines\/[^\/]*|[^\/]*kg[^\/]*\.json)$|kg/i.test(url))return p;return p.then(function(r){return g!==window.__kgGen?new Promise(function(){}):r})};
+ var of=window.fetch;window.fetch=function(u){var g=window.__kgGen,url=String(u&&u.url||u);var cm=/assets\/kg1\/checks\/(kg[12]-checks\.json)/.exec(url);if(cm){u=DIR+'data/'+cm[1];url=u;arguments[0]=u}var p=of.apply(this,arguments);if(!/(^|\/)(kg[^\/]*|engines\/[^\/]*|[^\/]*kg[^\/]*\.json)$|kg/i.test(url))return p;return p.then(function(r){return g!==window.__kgGen?new Promise(function(){}):r})};
  function bump(){window.__kgGen++;[].forEach.call(document.querySelectorAll('audio'),function(a){try{a.pause()}catch(e){}})}
  window.addEventListener('hashchange',bump);
  window.addEventListener('error',function(e){if(/null \(setting|null \(reading/.test(e.message||'')&&window.__kgStale){e.preventDefault()}});
